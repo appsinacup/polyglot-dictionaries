@@ -1,6 +1,6 @@
 # Polyglot Dictionaries
 
-Welcome to the Polyglot Dictionaries, a set of dictionaries used in the [Polyglot Pirates](https://appsinacup.com/polyglot-translators/) game.
+Welcome to the Polyglot Dictionaries, a set of dictionaries used in the [Polyglot Pirates](https://appsinacup.com/polyglot-translators/) game. Anyone who contributes here will receive Named Credits in the game.
 
 ## 1000 Words Dictionary
 
