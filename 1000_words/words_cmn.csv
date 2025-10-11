@@ -23,12 +23,26 @@ word,part_of_speech,english_word,sense
 星期三,noun,Wednesday,day of the week
 禮拜三 /礼拜三,noun,Wednesday,day of the week
 週三 /周三,noun,Wednesday,day of the week
+大概,adv,about,"nearly, approximately"
+高於 /高于,adv,above,higher in rank
+行動 /行动,noun,action,something done so as to accomplish a purpose
+作用,noun,action,something done so as to accomplish a purpose
+動作 /动作,noun,action,way of motion or functioning
+戰鬥 /战斗,noun,action,military: combat
+訴訟 /诉讼,noun,action,law: charge
 活動 /活动,noun,activity,state or quality of being active
+動作 /动作,noun,activity,something done as an action or a movement
 演員 /演员,noun,actor,person who performs in a theatrical play or film — see also actress
 伶,noun,actor,person who performs in a theatrical play or film — see also actress
 女演員 /女演员,noun,actress,female actor — see also actor
 伶,noun,actress,female actor — see also actor
 加,verb,add,to append (e.g. a statement); to say further information; to add on
+加,verb,add,to make an addition; to augment; to increase; to add on
+添,verb,add,to make an addition; to augment; to increase; to add on
+添加,verb,add,to make an addition; to augment; to increase; to add on
+加,verb,add,"to perform the arithmetical operation of addition, to add up"
+稱呼 /称呼,noun,address,act of addressing oneself to a person or group
+地址,noun,address,description of the location of a property; direction for correspondence
 成人,noun,adult,fully grown human
 大人,noun,adult,fully grown human
 成年,noun,adult,fully grown human
@@ -37,12 +51,37 @@ word,part_of_speech,english_word,sense
 建議 /建议,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 害怕,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 怕,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
+恐怕,adj,afraid,"regretful, sorry"
 下午,noun,afternoon,part of the day between noon and evening
+再,adv,again,another time
+又,adv,again,another time
+再……一遍,adv,again,another time
+重新,adv,again,another time
+來著 /来着,adv,again,used in a question to ask something one has forgotten
 年歲 /年岁,noun,age,amount of time since the birth of a being or the beginning of a thing
 年紀 /年纪,noun,age,amount of time since the birth of a being or the beginning of a thing
 年齡 /年龄,noun,age,amount of time since the birth of a being or the beginning of a thing
+老年,noun,age,state of being old; latter part of life
+晚年,noun,age,state of being old; latter part of life
+高齡 /高龄,noun,age,state of being old; latter part of life
+年歲 /年岁,noun,age,one of the stages of life
+歲數 /岁数,noun,age,one of the stages of life
+年紀 /年纪,noun,age,one of the stages of life
+年齡 /年龄,noun,age,one of the stages of life
+成年,noun,age,time of life at which one attains full personal rights and capacities
+成人,noun,age,time of life at which one attains full personal rights and capacities
+時代 /时代,noun,age,particular period of time in history
+世代,noun,age,generation — see also generation
+期,noun,age,geochronologic unit
+一輩子 /一辈子,noun,age,lifespan
+一生,noun,age,lifespan
+壽命 /寿命,noun,age,lifespan
 同意,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 空氣 /空气,noun,air,historical: one of the basic elements
+空氣 /空气,noun,air,mixture of gases making up the atmosphere of the Earth
+詠嘆調 /咏叹调,noun,air,"music: a song, an aria"
+唱段,noun,air,"music: a song, an aria"
+北曲,noun,air,"music: a song, an aria"
 機場 /机场,noun,airport,place designated for airplanes
 飛機場 /飞机场,noun,airport,place designated for airplanes
 航空站,noun,airport,place designated for airplanes
@@ -58,17 +97,27 @@ word,part_of_speech,english_word,sense
 憤怒 /愤怒,adj,angry,displaying anger
 生氣 /生气,adj,angry,displaying anger
 動物 /动物,noun,animal,organism
+動物 /动物,noun,animal,organism other than human
+野獸 /野兽,noun,animal,person who behaves wildly
+禽獸 /禽兽,noun,animal,person who behaves wildly
+野兽,noun,animal,person who behaves wildly
 公寓,noun,apartment,domicile occupying part of a building
 套間 /套间,noun,apartment,domicile occupying part of a building
 套房,noun,apartment,domicile occupying part of a building
 面積 /面积,noun,area,maths: measure of extent of a surface
+地區 /地区,noun,area,particular geographic region
+領域 /领域,noun,area,particular geographic region
 胳膊,noun,arm,upper appendage from shoulder to wrist
 胳臂,noun,arm,upper appendage from shoulder to wrist
 手臂,noun,arm,upper appendage from shoulder to wrist
 臂膀,noun,arm,upper appendage from shoulder to wrist
 到達 /到达,verb,arrive,to reach
 到,verb,arrive,to reach
+到達 /到达,verb,arrive,to get to a certain place
+到,verb,arrive,to get to a certain place
 文章,noun,article,"story, report, or opinion piece"
+冠詞 /冠词,noun,article,part of speech that specifies a noun
+條款 /条款,noun,article,section of a legal document
 藝術家 /艺术家,noun,artist,person who creates art
 畫家 /画家,noun,artist,person who creates art
 美術家 /美术家,noun,artist,person who creates art
@@ -91,12 +140,29 @@ word,part_of_speech,english_word,sense
 舅媽 /舅妈,noun,aunt,a parent's sister or sister-in-law
 妗母,noun,aunt,a parent's sister or sister-in-law
 妗子,noun,aunt,a parent's sister or sister-in-law
+阿姨,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
+消,adv,away,from a state or condition of being; out of existence
 令人敬畏的,adj,awesome,causing awe or terror
+了不起,adj,awesome,"excellent, exciting"
+不錯 /不错,adj,awesome,"excellent, exciting"
+牛比,adj,awesome,"excellent, exciting"
+酷,adj,awesome,"excellent, exciting"
+酷斃了 /酷毙了,adj,awesome,"excellent, exciting"
+棒,adj,awesome,"excellent, exciting"
+厲害 /厉害,adj,awesome,"excellent, exciting"
+酒吧,noun,bar,business licensed to sell intoxicating beverages
+酒館 /酒馆,noun,bar,business licensed to sell intoxicating beverages
+酒店,noun,bar,business licensed to sell intoxicating beverages
+吧檯 /吧台,noun,bar,counter of such premises
 棒球,noun,baseball,ball game
 籃球 /篮球,noun,basketball,the sport
+籃球 /篮球,noun,basketball,the ball used in the sport
 浴缸,noun,bath,tub
 浴盆,noun,bath,tub
 澡盆,noun,bath,tub
+浴室,noun,bath,building or area where bathing occurs
+沐浴,noun,bath,act of bathing
+洗澡,noun,bath,act of bathing
 浴室,noun,bathroom,a room with a bathtub
 海灘 /海滩,noun,beach,sandy shore
 沙灘 /沙滩,noun,beach,sandy shore
@@ -105,13 +171,19 @@ word,part_of_speech,english_word,sense
 美,adj,beautiful,attractive
 好看,adj,beautiful,attractive
 美麗 /美丽,adj,beautiful,attractive
+好天,adj,beautiful,"of weather: pleasant, clear"
 成,verb,become,to begin to be
 成為 /成为,verb,become,to begin to be
 臥室 /卧室,noun,bedroom,room in a house where a bed is kept for sleeping
 寢室 /寝室,noun,bedroom,room in a house where a bed is kept for sleeping
 開始 /开始,verb,begin,"to start, to initiate (transitive)"
 開始 /开始,noun,beginning,act of doing that which begins anything
+起源,noun,beginning,that which begins or originates something
 相信,verb,believe,to accept that someone is telling the truth (object: person)
+相信,verb,believe,to accept as true
+覺得 /觉得,verb,believe,to consider likely
+信仰,verb,believe,to have religious faith; to believe in a greater truth
+信仰,verb,believe,to ascribe existence to
 更好,adj,better,comparative of the adjectives good or well
 比較好的 /比较好的,adj,better,comparative of the adjectives good or well
 較好的 /较好的,adj,better,comparative of the adjectives good or well
@@ -120,11 +192,17 @@ word,part_of_speech,english_word,sense
 單車 /单车,noun,bicycle,vehicle
 鐵馬 /铁马,noun,bicycle,vehicle
 自由車 /自由车,noun,bicycle,vehicle
+大人,adj,big,adult
+草案,noun,bill,draft of a law
+法律案,noun,bill,draft of a law
+法案,noun,bill,"law: declaration made in writing, stating some wrong the complainant has suffered from the defendant"
+帳單 /帐单,noun,bill,invoice
 鳥嘴 /鸟嘴,noun,bill,bird's beak
 嘴,noun,bill,bird's beak
 喙,noun,bill,bird's beak
 生日,noun,birthday,anniversary
 生辰,noun,birthday,anniversary
+出生日期,noun,birthday,date of birth — see also date of birth
 博客,noun,blog,a personal or corporate website
 部落格,noun,blog,a personal or corporate website
 博落,noun,blog,a personal or corporate website
@@ -139,6 +217,8 @@ word,part_of_speech,english_word,sense
 沒勁 /没劲,adj,boring,causing boredom or tiredness
 男朋友,noun,boyfriend,male partner in a romantic relationship
 對象 /对象,noun,boyfriend,male partner in a romantic relationship
+男的朋友,noun,boyfriend,male friend
+休息,noun,break,"rest or pause, usually from work"
 早飯 /早饭,noun,breakfast,first meal of the day
 早餐,noun,breakfast,first meal of the day
 帶來 /带来,verb,bring,to transport toward somebody/somewhere
@@ -149,6 +229,8 @@ word,part_of_speech,english_word,sense
 建設 /建设,verb,build,(transitive) to form by combining materials or parts
 建造,verb,build,(transitive) to form by combining materials or parts
 建設 /建设,noun,building,act or process of building
+建築 /建筑,noun,building,closed structure with walls and a roof
+建築物 /建筑物,noun,building,closed structure with walls and a roof
 公共汽車 /公共汽车,noun,bus,vehicle
 巴士,noun,bus,vehicle
 公車 /公车,noun,bus,vehicle
@@ -156,68 +238,152 @@ word,part_of_speech,english_word,sense
 公交,noun,bus,vehicle
 公汽,noun,bus,vehicle
 客車 /客车,noun,bus,vehicle
+總線 /总线,noun,bus,electrical conductor
+匯流排 /汇流排,noun,bus,electrical conductor
 事業 /事业,noun,business,commercial enterprise or establishment
 企業 /企业,noun,business,commercial enterprise or establishment
+商業 /商业,noun,business,"occupation, work or trade of a person"
+買賣 /买卖,noun,business,"commercial, industrial or professional activity"
 忙,adj,busy,crowded with business or activities
 繁忙,adj,busy,crowded with business or activities
+忙,adj,busy,doing a great deal
+繁忙,adj,busy,doing a great deal
 買 /买,verb,buy,to obtain something with money
+買賬 /买账,verb,buy,to accept as true
 蛋糕,noun,cake,type of sweet dessert
+塊狀物 /块状物,noun,cake,block of dense material
 呼叫,noun,call,cry or shout
 呼喊,noun,call,cry or shout
+通話 /通话,noun,call,telephone conversation
+電話 /电话,noun,call,telephone conversation
+訪問 /访问,noun,call,social visit
+探望,noun,call,social visit
+認購期權 /认购期权,noun,call,finance: short for option to buy stock — see also call option
+跟注,noun,call,poker: act of matching a bet
 照相機 /照相机,noun,camera,still camera
 相機 /相机,noun,camera,still camera
+攝影機 /摄影机,noun,camera,movie camera
+攝像機 /摄像机,noun,camera,movie camera
 不會 /不会,verb,cannot,"cannot — see also can, not"
 不要,verb,cannot,"cannot — see also can, not"
 不能,verb,cannot,"cannot — see also can, not"
 不行,verb,cannot,"cannot — see also can, not"
 e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 牌,noun,card,"resource or an argument, used to achieve a purpose"
+卡,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+卡片,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+令人發笑的人 /令人发笑的人,noun,card,(informal) amusing person
 職業 /职业,noun,career,one's calling in life; a person's occupation
+職業 /职业,noun,career,an individual’s work and life roles over their lifespan
+生涯,noun,career,an individual’s work and life roles over their lifespan
 攜帶 /携带,verb,carry,to transport by lifting
 攜 /携,verb,carry,to transport by lifting
 帶 /带,verb,carry,to transport by lifting
 運 /运,verb,carry,to transport by lifting
+進位 /进位,verb,carry,in an addition
 分,noun,cent,subunit of currency in US and elsewhere
+歐分 /欧分,noun,cent,one-hundredth of a euro
 中心,noun,center,point equidistant from all points on the perimeter of a circle
 中央,noun,center,point equidistant from all points on the perimeter of a circle
+中心,noun,center,point equidistant from all points on the surface of a sphere
+中心,noun,center,point on a line midway between the ends
+中心,noun,center,point in the interior of figure with mean coordinates
+中心,noun,center,place where a function or activity occurs
+中心,noun,center,topic of particular importance
+中鋒 /中锋,noun,center,in basketball
 變化 /变化,noun,change,the process of becoming different
+零錢 /零钱,noun,change,small denominations of money given in exchange for a larger denomination
+輔幣 /辅币,noun,change,small denominations of money given in exchange for a larger denomination
+找回的錢 /找回的钱,noun,change,balance returned after a purchase
+找钱,noun,change,balance returned after a purchase
+換乘 /换乘,noun,change,a transfer between vehicles
+圖表 /图表,noun,chart,non-narrative presentation of data
 便宜,adj,cheap,low and/or reduced in price
 賤 /贱,adj,cheap,low and/or reduced in price
+低級的 /低级的,adj,cheap,of poor quality
+價廉的 /价廉的,adj,cheap,of little worth
+卑鄙,adj,cheap,slang: underhand or unfair in game
 檢查 /检查,verb,check,"to inspect, examine"
+抑制,verb,check,"to control, limit, or halt"
+克制,verb,check,"to control, limit, or halt"
 巧克力,noun,chocolate,food made from ground roasted cocoa beans
 朱古力,noun,chocolate,food made from ground roasted cocoa beans
+巧克力,noun,chocolate,small piece of confectionery made from chocolate
+巧克力色,noun,chocolate,colour
 選擇 /选择,verb,choose,to pick
 挑選 /挑选,verb,choose,to pick
+選舉 /选举,verb,choose,to elect
+決定 /决定,verb,choose,to decide to act in a certain way
 城市,noun,city,large settlement
 都市,noun,city,large settlement
 城,noun,city,large settlement
 市,noun,city,large settlement
 類 /类,noun,class,"group, collection, category or set sharing characteristics or attributes"
 種類 /种类,noun,class,"group, collection, category or set sharing characteristics or attributes"
+階級 /阶级,noun,class,"social grouping, based on job, wealth, etc."
+階層 /阶层,noun,class,"social grouping, based on job, wealth, etc."
+班,noun,class,group of students in a regularly scheduled meeting with a teacher
+課 /课,noun,class,series of classes covering a single subject
+學年 /学年,noun,class,group of students who commenced or completed their education during a particular year
+年级,noun,class,group of students who commenced or completed their education during a particular year
+綱 /纲,noun,class,taxonomy: classification below Phylum and above Order
+类,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 教室,noun,classroom,room in a school
 課堂 /课堂,noun,classroom,room in a school
 課室 /课室,noun,classroom,room in a school
 登,verb,climb,"to ascend, to go up"
+爬,verb,climb,"to mount, to move upwards on"
+登,verb,climb,"to mount, to move upwards on"
+登攀,verb,climb,to scale
+攀登,verb,climb,to move by using the hands and feet
 關 /关,verb,close,obstruct (an opening)
 閉 /闭,verb,close,obstruct (an opening)
 關閉 /关闭,verb,close,obstruct (an opening)
+關 /关,verb,close,move (a door)
+閉 /闭,verb,close,move (a door)
+關閉 /关闭,verb,close,move (a door)
+閉上 /闭上,verb,close,bring one's eyelids together
 衣服,noun,clothes,apparel
 服裝 /服装,noun,clothes,apparel
 衣裳,noun,clothes,apparel
 衣著,noun,clothes,apparel
 衣着,noun,clothes,apparel
 俱樂部 /俱乐部,noun,club,association of members
+棒,noun,club,heavy stick for use as weapon or plaything
+棍棒,noun,club,heavy stick for use as weapon or plaything
+棒,noun,club,hitting implement in certain ball games
+夜總會 /夜总会,noun,club,establishment that provides staged entertainment
+梅花,noun,club,"playing card symbol, ♣"
 外衣,noun,coat,outer garment covering the upper torso and arms
 大衣,noun,coat,outer garment covering the upper torso and arms
 外套,noun,coat,outer garment covering the upper torso and arms
+大學 /大学,noun,college,institution of higher education
+大學 /大学,noun,college,institution of higher education teaching undergraduates
+大專 /大专,noun,college,postsecondary institution that does not award bachelor's degrees
+學院 /学院,noun,college,"non-specialized, semi-autonomous division of a university"
+專科學校 /专科学校,noun,college,specialized division of a university
+私立高中,noun,college,in the formal names of private schools: secondary school
+學院 /学院,noun,college,institution of further education at an intermediate level
+大學 /大学,noun,college,institution for adult education at a basic or intermediate level
+校舍,noun,college,residential hall of a university
 共同,adj,common,mutual
 共通,adj,common,mutual
 相互,adj,common,mutual
+通常,adj,common,usual
+平常,adj,common,usual
 公司,noun,company,"in legal context, a corporation"
 企業 /企业,noun,company,"in legal context, a corporation"
+企業 /企业,noun,company,"in non-legal context, any business, without respect to incorporation"
+同伴,noun,company,companionship
+連隊 /连队,noun,company,military unit
+連 /连,noun,company,military unit
 比,verb,compare,to assess the similarities between two things or between one thing and another
 比較 /比较,verb,compare,to assess the similarities between two things or between one thing and another
+類比 /类比,verb,compare,to declare two things to be similar in some respect
+可比,verb,compare,to be similar
 完成,verb,complete,to finish
+音樂會 /音乐会,noun,concert,a musical entertainment in which several voices or instruments take part
+合奏,noun,concert,a musical entertainment in which several voices or instruments take part
 會話 /会话,noun,conversation,expression and exchange of individual ideas through talking with other people
 談話 /谈话,noun,conversation,expression and exchange of individual ideas through talking with other people
 對話 /对话,noun,conversation,expression and exchange of individual ideas through talking with other people
@@ -225,16 +391,54 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 烹飪 /烹饪,noun,cooking,the process of preparing food by using heat
 涼快 /凉快,adj,cool,having a slightly low temperature
 清涼 /清凉,adj,cool,having a slightly low temperature
+酷,adj,cool,"not showing emotion, calm"
+沉著 /沉着,adj,cool,"unenthusiastic, lukewarm, skeptical"
+冷靜 /冷静,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+酷,adj,cool,"colloquial: being considered as ""popular"" by others"
+棒,adj,cool,"colloquial: being considered as ""popular"" by others"
+酷,adj,cool,colloquial: in fashion
+棒,adj,cool,colloquial: in fashion
+厲害 /利害 /厉害,adj,cool,colloquial: in fashion
+很棒,adj,cool,"colloquial: all right, acceptable"
+沒事 /没事,adj,cool,"colloquial: all right, acceptable"
+不錯 /不错,adj,cool,"colloquial: all right, acceptable"
+平息,adj,cool,colloquial: not upset
 修正,verb,correct,to make something become right that was previously wrong
 改正,verb,correct,to make something become right that was previously wrong
 糾正 /纠正,verb,correct,to make something become right that was previously wrong
 花費 /花费,verb,cost,"to incur a charge, a price"
+課程 /课程,noun,course,education: learning program
+航路,noun,course,nautical: direction of movement of a vessel
+堂兄,noun,cousin,child of a person’s parent’s brother or sister
+堂哥,noun,cousin,child of a person’s parent’s brother or sister
+堂弟,noun,cousin,child of a person’s parent’s brother or sister
+堂姐,noun,cousin,child of a person’s parent’s brother or sister
+堂姊,noun,cousin,child of a person’s parent’s brother or sister
+堂妹,noun,cousin,child of a person’s parent’s brother or sister
+表兄,noun,cousin,child of a person’s parent’s brother or sister
+表哥,noun,cousin,child of a person’s parent’s brother or sister
+表弟,noun,cousin,child of a person’s parent’s brother or sister
+表姐,noun,cousin,child of a person’s parent’s brother or sister
+表姊,noun,cousin,child of a person’s parent’s brother or sister
+表妹,noun,cousin,child of a person’s parent’s brother or sister
 奶油,noun,cream,oily part of milk
 乳脂,noun,cream,oily part of milk
+乳白色,noun,cream,colour
+奶油色,noun,cream,colour
+面霜,noun,cream,product to apply to the skin
+霜,noun,cream,product to apply to the skin
+雪花膏,noun,cream,product to apply to the skin
 創造 /创造,verb,create,to put into existence
 締造 /缔造,verb,create,to put into existence
 文化,noun,culture,"arts, customs and habits"
+顧客 /顾客,noun,customer,one who purchases or receives a product or service
+主顧 /主顾,noun,customer,one who purchases or receives a product or service
 切,verb,cut,to perform an incision
+切,verb,cut,to divide with a sharp instrument
+插隊 /插队,verb,cut,to enter a queue in a wrong place
+加塞兒 /加塞儿,verb,cut,to enter a queue in a wrong place
+逃,verb,cut,"colloquial, not to attend a class"
+切牌,verb,cut,to divide a pack of playing cards
 爸爸,noun,dad,informal: a father
 爸,noun,dad,informal: a father
 爹,noun,dad,informal: a father
@@ -243,7 +447,13 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 跳舞者,noun,dancer,person who dances
 危險 /危险,adj,dangerous,full of danger
 親愛的 /亲爱的,adj,dear,loved; lovable
+親愛的 /亲爱的,adj,dear,formal way of addressing
+尊敬的,adj,dear,formal way of addressing
+昂貴的 /昂贵的,adj,dear,formal way of addressing
+親愛的 /亲爱的,adj,dear,an informal way of addressing the recipient in a letter's opening line
+親愛的 /亲爱的,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
 解決 /解决,verb,decide,to resolve or settle
+決定 /决定,verb,decide,give judgement
 好吃,adj,delicious,pleasing to taste
 可口,adj,delicious,pleasing to taste
 美味,adj,delicious,pleasing to taste
@@ -261,6 +471,7 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 對話 /对话,noun,dialogue,conversation or other discourse between individuals
 會話 /会话,noun,dialogue,conversation or other discourse between individuals
 對白 /对白,noun,dialogue,conversation or other discourse between individuals
+對白 /对白,noun,dialogue,verbal part of a literary or dramatic work
 死,verb,die,to stop living
 亡,verb,die,to stop living
 去世,verb,die,to stop living
@@ -270,20 +481,37 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 飲食 /饮食,noun,diet,food a person or animal consumes
 吃喝,noun,diet,food a person or animal consumes
 食物,noun,diet,food a person or animal consumes
+節食 /节食,noun,diet,controlled regimen of food
+飲食療養 /饮食疗养,noun,diet,controlled regimen of food
 差別 /差别,noun,difference,quality of being different
 差異 /差异,noun,difference,quality of being different
 不一樣 /不一样,adj,different,not the same
+不同,adj,different,unlike most others
 難 /难,adj,difficult,"hard, not easy"
 困難 /困难,adj,difficult,"hard, not easy"
 艱難 /艰难,adj,difficult,"hard, not easy"
 晚飯 /晚饭,noun,dinner,evening meal
 晚餐,noun,dinner,evening meal
+午飯 /午饭,noun,dinner,midday meal
+午餐,noun,dinner,midday meal
+正餐,noun,dinner,a formal meal
 髒 /脏,adj,dirty,covered with or containing dirt
+垢,adj,dirty,that makes one dirty
+淫穢的 /淫秽的,adj,dirty,"morally unclean, obscene or indecent"
+骯髒 /肮脏,adj,dirty,"morally unclean, obscene or indecent"
+下流的,adj,dirty,"dishonourable, violating standards or rules"
+卑鄙的,adj,dirty,"illegal, improper"
+不法的,adj,dirty,"illegal, improper"
+暗淡的,adj,dirty,of color: discolored by impurities
 討論 /讨论,verb,discuss,to converse or debate concerning a particular topic
 商議 /商议,verb,discuss,to converse or debate concerning a particular topic
 碟子,noun,dish,vessel for holding/serving food
 盤子 /盘子,noun,dish,vessel for holding/serving food
+菜,noun,dish,contents of such a vessel
+菜,noun,dish,specific type of food
 嗎 /吗,verb,do,in questions
+做,verb,do,"perform, execute"
+作,verb,do,"perform, execute"
 博士,noun,doctor,person who has attained a doctorate
 圓 /圆,noun,dollar,designation for specific currency
 元,noun,dollar,designation for specific currency
@@ -295,41 +523,86 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 畫 /画,verb,draw,to produce a picture
 繪 /绘,verb,draw,to produce a picture
 繪畫 /绘画,verb,draw,to produce a picture
+拉,verb,draw,"to pull out, unsheath"
+拖拉,verb,draw,"to pull out, unsheath"
+穿衣,verb,dress,to put on clothes — see also get dressed
+穿衣服,verb,dress,to put on clothes — see also get dressed
+敷藥 /敷药,verb,dress,to apply a dressing to or otherwise treat (a wound)
+涼拌 /凉拌,verb,dress,"to prepare (food) for cooking or eating, especially by seasoning it; to add a dressing or sauce (to food, especially a salad)"
 開車 /开车,verb,drive,to operate (a wheeled motorized vehicle)
 駕駛 /驾驶,verb,drive,to operate (a wheeled motorized vehicle)
 駛 /驶,verb,drive,to operate (a wheeled motorized vehicle)
+開車 /开车,verb,drive,to travel by operating a motorized vehicle
+驅趕 /驱赶,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+趕 /赶,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+驅動 /驱动,verb,drive,to cause (a mechanism) to operate
 驅趕動物者 /驱赶动物者,noun,driver,"one who drives something, e.g. cattle"
+司機 /司机,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+駕駛員 /驾驶员,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+駕駛者 /驾驶者,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+司機 /司机,noun,driver,person who drives some other vehicle
+駕駛員 /驾驶员,noun,driver,person who drives some other vehicle
+駕駛者 /驾驶者,noun,driver,person who drives some other vehicle
+驅動程式 /驱动程式,noun,driver,program acting as interface between an application and hardware
+驅動程序 /驱动程序,noun,driver,program acting as interface between an application and hardware
+驅動 /驱动,noun,driver,program acting as interface between an application and hardware
 耳朵,noun,ear,organ of hearing
 耳,noun,ear,organ of hearing
 早,adv,early,at a time before expected
 容易,adj,easy,requiring little skill or effort
 簡單 /简单,adj,easy,requiring little skill or effort
+隨便 /随便,adj,easy,consenting readily to sex
 发邮件,verb,email,(transitive) to send an email or emails to
 发送电子邮件,verb,email,(transitive) to send an email or emails to
 完,verb,end,"intransitive: be finished, be terminated"
 結束 /结束,verb,end,"intransitive: be finished, be terminated"
 終止 /终止,verb,end,"intransitive: be finished, be terminated"
+完成,verb,end,"transitive: finish, terminate (something)"
+完,verb,end,"transitive: finish, terminate (something)"
+結束 /结束,verb,end,"transitive: finish, terminate (something)"
+終止 /终止,verb,end,"transitive: finish, terminate (something)"
 欣賞 /欣赏,verb,enjoy,to receive pleasure or satisfaction from something
 喜愛 /喜爱,verb,enjoy,to receive pleasure or satisfaction from something
 享受,verb,enjoy,to receive pleasure or satisfaction from something
+享有,verb,enjoy,to have the use or benefit of something
+享受,verb,enjoy,to have the use or benefit of something
+享用,verb,enjoy,to have the use or benefit of something
+受用,verb,enjoy,to have the use or benefit of something
 足夠 /足够,adv,enough,sufficiently
 夠 /够,adv,enough,sufficiently
 充足,adv,enough,sufficiently
+連 /连,adv,even,implying extreme example
+甚至,adv,even,implying extreme example
+更,adv,even,emphasising comparative
+更加,adv,even,emphasising comparative
+晚上,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+黃昏 /黄昏,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+傍晚,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 事件,noun,event,occurrence
 活動 /活动,noun,event,occurrence
+事件,noun,event,physics: point in spacetime
+事件,noun,event,computing: action which triggers an event handler
+事件,noun,event,probability theory: a set of some of the possible outcomes
 總是 /总是,adv,ever,always
+曾經 /曾经,adv,ever,at any time
 例子,noun,example,something representative of a group
 例,noun,example,something representative of a group
 榜樣 /榜样,noun,example,something representative of a group
+例,noun,example,something serving to explain or illustrate a rule
+例子,noun,example,something serving to explain or illustrate a rule
 興奮 /兴奋,adj,excited,having great enthusiasm and energy
 激動 /激动,adj,excited,having great enthusiasm and energy
 亢奮 /亢奋,adj,excited,having great enthusiasm and energy
+受激的,adj,excited,being in a state of higher energy
 令人激動的 /令人激动的,adj,exciting,causing excitement
 練習 /练习,verb,exercise,exert for the sake of training
 運動 /运动,verb,exercise,exert for the sake of training
 做運動 /做运动,verb,exercise,exert for the sake of training
 進行演習 /进行演习,verb,exercise,exert for the sake of training
 鍛鍊 /锻炼,verb,exercise,exert for the sake of training
+鍛鍊 /锻炼,verb,exercise,perform physical activity
+鍛鍊身體 /锻炼身体,verb,exercise,perform physical activity
+健身,verb,exercise,perform physical activity
 貴 /贵,adj,expensive,having a high price or cost
 昂貴 /昂贵,adj,expensive,having a high price or cost
 解釋 /解释,verb,explain,to make intelligible
@@ -337,19 +610,33 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 闡釋 /阐释,verb,explain,to make intelligible
 真相,noun,fact,an honest observation
 事實 /事实,noun,fact,an honest observation
+事實 /事实,noun,fact,something actual
+事實 /事实,noun,fact,something which has become real
+實情 /实情,noun,fact,something concrete used as a basis for further interpretation
+實際 /实际,noun,fact,an objective consensus on a fundamental reality
+事實 /事实,noun,fact,information about a particular subject
 假,adj,false,"untrue, not factual, wrong"
 虛偽 /虚伪,adj,false,"untrue, not factual, wrong"
 虛假 /虚假,adj,false,"untrue, not factual, wrong"
 有名,adj,famous,well known
 著名,adj,famous,well known
+有名,adj,famous,in the public eye
+著名,adj,famous,in the public eye
 奇妙,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
+匪夷所思,adj,fantastic,existing in or constructed from fantasy
 農場 /农场,noun,farm,place where agricultural activities take place
 農夫 /农夫,noun,farmer,person who works the land and/or who keeps livestock
 農民 /农民,noun,farmer,person who works the land and/or who keeps livestock
 触摸,verb,feel,transitive: to sense by touch
 触,verb,feel,transitive: to sense by touch
 摸,verb,feel,transitive: to sense by touch
+感到,verb,feel,transitive: to experience an emotion or other mental state about
+感覺 /感觉,verb,feel,transitive: to experience an emotion or other mental state about
+覺得 /觉得,verb,feel,transitive: to think or believe
+感覺 /感觉,verb,feel,transitive: to think or believe
 感覺 /感觉,noun,feeling,sensation
+感情,noun,feeling,emotion; impression
+戀 /恋,noun,feeling,in plural: emotional attraction or desire
 節慶 /节庆,noun,festival,event or community gathering
 節日 /节日,noun,festival,event or community gathering
 節 /节,noun,festival,event or community gathering
@@ -357,46 +644,77 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 匯演 /汇演,noun,festival,event or community gathering
 裝滿 /装满,verb,fill,"add contents to, so it is full"
 填滿 /填满,verb,fill,"add contents to, so it is full"
+裝滿 /装满,verb,fill,"occupy fully, take up all of"
 最後 /最后,adj,final,last; ultimate
 找到,verb,find,"encounter, locate, discover"
 優良 /优良,adj,fine,of superior quality
+晴好,adj,fine,of weather: sunny and not raining
 完成,verb,finish,to complete
 完,verb,finish,to complete
 結束 /结束,verb,finish,to complete
+結束 /结束,verb,finish,to come to an end
 飛行 /飞行,noun,flight,act of flying
 飛 /飞,noun,flight,act of flying
+飛行 /飞行,noun,flight,journey made by an aircraft
+航班,noun,flight,journey made by an aircraft
 地板,noun,floor,bottom part of a room
 樓板 /楼板,noun,floor,bottom part of a room
 隨 /随,verb,follow,to go or come after in physical space
 跟隨 /跟随,verb,follow,to go or come after in physical space
+接續 /接续,verb,follow,to go or come after in a sequence
+接連 /接连,verb,follow,to go or come after in a sequence
+遵循,verb,follow,to carry out in accordance to
+关注,verb,follow,to subscribe to see content from an account on a social media platform
+是...的必然结果,verb,follow,to be a logical consequence of
 食物,noun,food,any substance consumed by living organisms to sustain life
 食品,noun,food,any substance consumed by living organisms to sustain life
 吃食,noun,food,any substance consumed by living organisms to sustain life
 吃兒 /吃儿,noun,food,any substance consumed by living organisms to sustain life
 足球,noun,football,association football
 蹴球,noun,football,association football
+澳式足球,noun,football,"game in Northern Territory, South Australia, Tasmania, Victoria, Western Australia"
 忘記 /忘记,verb,forget,to lose remembrance of
 忘,verb,forget,to lose remembrance of
 忘掉,verb,forget,to lose remembrance of
+忽略,verb,forget,to unintentionally not do
+忘記 /忘记,verb,forget,to cease remembering
 構 /构,verb,form,to give shape
 自由的,adj,free,not imprisoned
+自由的,adj,free,unconstrained
+通暢的 /通畅的,adj,free,unobstructed
+順暢的 /顺畅的,adj,free,unobstructed
+自由的,adj,free,without obligations
+空閒 /空閑 /空闲,adj,free,without obligations
+自由的,adj,free,software: with very few limitations on distribution or improvement
 友好,adj,friendly,"approachable, warm"
 親切 /亲切,adj,friendly,"approachable, warm"
 前面的,adj,front,located at or near the front
 玩,noun,fun,enjoyment or amusement
 熱鬧 /热闹,noun,fun,enjoyment or amusement
 樂趣 /乐趣,noun,fun,enjoyment or amusement
+玩,noun,fun,"playful, often noisy, activity"
+熱鬧 /热闹,noun,fun,"playful, often noisy, activity"
 可笑,adj,funny,amusing; comical
 滑稽,adj,funny,amusing; comical
 未來 /未来,noun,future,the time ahead
 將來 /将来,noun,future,the time ahead
+未來 /未来,noun,future,something that will happen in moments yet to come
+將來 /将来,noun,future,something that will happen in moments yet to come
 地理學 /地理学,noun,geography,study of physical structure and inhabitants of the Earth
 获得,verb,get,to obtain
 得到,verb,get,to obtain
 取,verb,get,to obtain
 拿,verb,get,to obtain
+收到,verb,get,to receive
+接到,verb,get,to receive
+成,verb,get,to become
+成為 /成为,verb,get,to become
+取,verb,get,to fetch
+到達 /到达,verb,get,to arrive at
 女朋友,noun,girlfriend,a female partner in a romantic relationship
 對象 /对象,noun,girlfriend,a female partner in a romantic relationship
+女性朋友,noun,girlfriend,a female friend
+朋友,noun,girlfriend,a female friend
 走好,noun,goodbye,an utterance of goodbye
 爺爺 /爷爷,noun,grandfather,grandfather (from either side)
 祖父,noun,grandfather,grandfather (from either side)
@@ -413,13 +731,24 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 大,adj,great,"very big, large scale"
 巨大,adj,great,"very big, large scale"
 偉大 /伟大,adj,great,"very big, large scale"
+很好,adj,great,very good
+不錯 /不错,adj,great,very good
+棒,adj,great,very good
+卓越,adj,great,very good
+偉大 /伟大,adj,great,uncommonly gifted
+大帝,adj,great,important title
 綠色 /绿色,noun,green,colour
 青,noun,green,colour
 集團 /集团,noun,group,number of things or persons being in some relation to each other
 群,noun,group,number of things or persons being in some relation to each other
 組 /组,noun,group,number of things or persons being in some relation to each other
+群,noun,group,in group theory
+組 /组,noun,group,subset of a culture or of a society
+大隊 /大队,noun,group,air force formation
 生長 /生长,verb,grow,(intransitive) to become bigger
 長 /长,verb,grow,(intransitive) to become bigger
+種植 /种植,verb,grow,(transitive) to cause something to become bigger
+蓄,verb,grow,(transitive) to cause something to become bigger
 猜測 /猜测,noun,guess,prediction about the outcome of something
 吉他,noun,guitar,musical instrument
 六弦琴,noun,guitar,musical instrument
@@ -432,6 +761,8 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 愉快,adj,happy,"contented, joyous"
 快樂 /快乐,adj,happy,"contented, joyous"
 幸福,adj,happy,"contented, joyous"
+幸運的 /幸运的,adj,happy,"fortunate, lucky"
+快樂 /快乐,adj,happy,may you have a happy
 努力,adv,hard,with much force or effort (related to act of think)
 認真 /认真,adv,hard,with much force or effort (related to act of think)
 恨,verb,hate,to dislike intensely
@@ -443,26 +774,40 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 恨惡 /恨恶,verb,hate,to dislike intensely
 有,verb,have,to possess
 擁有 /拥有,verb,have,to possess
+把,verb,have,cause to be
 健康,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 身體 /身体,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+血量,noun,health,(video games) amount of damage an in-game object can withstand
+血,noun,health,(video games) amount of damage an in-game object can withstand
+生命值,noun,health,(video games) amount of damage an in-game object can withstand
 健康,adj,healthy,enjoying good health
+健康,adj,healthy,conducive to health
 聽見 /听见,verb,hear,to perceive with the ear
 幫 /帮,noun,help,action given to provide assistance
 幫助 /帮助,noun,help,action given to provide assistance
+助手,noun,help,person or persons who provides assistance with some task
+助理,noun,help,person or persons who provides assistance with some task
+副手,noun,help,person or persons who provides assistance with some task
 這裡 /这里,adv,here,"in, on, or at this place"
 這兒 /这儿,adv,here,"in, on, or at this place"
 此處 /此处,adv,here,"in, on, or at this place"
+到這兒 /到这儿,adv,here,to this place
 愛好 /爱好,noun,hobby,activity done for enjoyment in spare time
 嗜好,noun,hobby,activity done for enjoyment in spare time
 作業 /作业,noun,homework,work that is done at home
 家庭作業 /家庭作业,noun,homework,work that is done at home
 功課 /功课,noun,homework,work that is done at home
+研究,noun,homework,preliminary or preparatory work
+準備工作 /准备工作,noun,homework,preliminary or preparatory work
 希望,verb,hope,"to want something to happen, with expectation that it might"
 盼望,verb,hope,"to want something to happen, with expectation that it might"
 指望,verb,hope,"to want something to happen, with expectation that it might"
 白麵兒 /白面儿,noun,horse,slang: heroin
 小時 /小时,noun,hour,time period of sixty minutes
 鐘頭 /钟头,noun,hour,time period of sixty minutes
+時 /时,noun,hour,"unit to denote the hour, such as military usage in English"
+點 /点,noun,hour,"unit to denote the hour, such as military usage in English"
+點鐘 /点钟,noun,hour,"unit to denote the hour, such as military usage in English"
 但是,adv,however,nevertheless
 可是,adv,however,nevertheless
 不過 /不过,adv,however,nevertheless
@@ -471,19 +816,29 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 餓 /饿,adj,hungry,affected by hunger; desirous of food
 飢 /饥,adj,hungry,affected by hunger; desirous of food
 冰,noun,ice,water in frozen form
+冰毒,noun,ice,crystal methamphetamine
 冰淇淋,noun,ice cream,dessert
 雪糕,noun,ice cream,dessert
 冰糕,noun,ice cream,dessert
 冰激凌,noun,ice cream,dessert
+甜筒,noun,ice cream,in a cone
 構想 /构想,noun,idea,"philosophy: abstract archetype of a given thing, compared to which real-life examples are seen as imperfect"
 構思 /构思,noun,idea,"philosophy: abstract archetype of a given thing, compared to which real-life examples are seen as imperfect"
 理念,noun,idea,"philosophy: abstract archetype of a given thing, compared to which real-life examples are seen as imperfect"
+主意,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+思想,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+想法,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 想像,verb,imagine,(transitive) to form a mental image of something
 重要,adj,important,having relevant and crucial value
 改善,verb,improve,to make something better
 提高,verb,improve,to make something better
+改善,verb,improve,to become better
+提高,verb,improve,to become better
+向上,verb,improve,to become better
 包括,verb,include,to bring into as a part or member
 包含,verb,include,to bring into as a part or member
+包括,verb,include,"to contain, as part of a whole"
+包含,verb,include,"to contain, as part of a whole"
 信息,noun,information,communicable knowledge
 資訊 /资讯,noun,information,communicable knowledge
 情報 /情报,noun,information,communicable knowledge
@@ -493,77 +848,165 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 訪問 /访问,verb,interview,to have an interview
 介紹 /介绍,verb,introduce,to cause someone to be acquainted
 紹介 /绍介,verb,introduce,to cause someone to be acquainted
+引見 /引见,verb,introduce,to make something or someone known by formal announcement or recommendation
+導入 /导入,verb,introduce,"to add something to a system, a mixture, or a container"
+推行,verb,introduce,to bring into practice — see also bring in
 夾克 /夹克,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
 上衣,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+夾克 /夹克,noun,jacket,piece of a person's suit
 牛仔褲 /牛仔裤,noun,jeans,denim trousers
 工作,noun,job,task
 作業 /作业,noun,job,task
 任務 /任务,noun,job,task
+工作,noun,job,economic role for which a person is paid
+崗位 /岗位,noun,job,economic role for which a person is paid
+職業 /职业,noun,job,economic role for which a person is paid
+職務 /职务,noun,job,economic role for which a person is paid
 連接 /连接,verb,join,to combine more than one item into one; to put together
+參加 /参加,verb,join,to come into the company of
+加入,verb,join,to come into the company of
+加盟,verb,join,to become a member of
+加入,verb,join,to become a member of
 汁,noun,juice,liquid from a plant
 果汁,noun,juice,liquid from a plant
 菜汁,noun,juice,liquid from a plant
 樹液 /树液,noun,juice,liquid from a plant
+汁,noun,juice,beverage made of juice
+果汁,noun,juice,beverage made of juice
+菜汁,noun,juice,beverage made of juice
+肉汁,noun,juice,beverage made of juice
+汁,noun,juice,liquid resembling juice
 就,adv,just,"only, simply, merely"
 只是,adv,just,"only, simply, merely"
+剛剛 /刚刚,adv,just,"recently, moments ago"
+剛 /刚,adv,just,"recently, moments ago"
+剛才 /刚才,adv,just,"recently, moments ago"
+恰恰,adv,just,"exactly, precisely, perfectly"
 保持,verb,keep,to maintain possession of
 保存,verb,keep,to maintain possession of
+維持 /维持,verb,keep,to maintain the condition of; to preserve
+繼續 /继续,verb,keep,to continue
+飼 /饲,verb,keep,of livestock: to raise; to care for
+養 /养,verb,keep,of livestock: to raise; to care for
 類 /类,noun,kind,"type, race, category"
 廚房 /厨房,noun,kitchen,room
+懂,verb,know,have knowledge of
+明白,verb,know,have knowledge of
 大,adj,large,of greater size — see also big
 大型,adj,large,of greater size — see also big
 晚,adv,late,past a designated time
 遲 /迟,adv,late,past a designated time
 遲到 /迟到,adv,late,past a designated time
 更遲 /更迟,adv,later,more late
+以後 /以后,adv,later,afterward in time
+後面 /后面,adv,later,afterward in time
 學習 /学习,verb,learn,to acquire knowledge or ability
 學 /学,verb,learn,to acquire knowledge or ability
+學習 /学习,verb,learn,to attend educational activity
+學 /学,verb,learn,to attend educational activity
 留,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+包在……身上,verb,leave,to transfer responsibility or attention
+離開 /离开,verb,leave,"to depart from, end one's connection or affiliation with"
+離開 /离开,verb,leave,to depart (intransitive)
 課業 /课业,noun,lesson,section of learning or teaching
 -課 /-课,noun,lesson,section of learning or teaching
 讓 /让,verb,let,allow
+出租,verb,let,put up for rent
 喜歡 /喜欢,verb,like,to enjoy
+喜歡 /喜欢,verb,like,to find attractive
+点赞,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+讚 /赞,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+直線 /直线,noun,line,"path through two or more points, threadlike mark"
+線 /线,noun,line,"path through two or more points, threadlike mark"
+排隊 /排队,noun,line,"straight sequence of people, queue"
+行,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+臺詞 /台詞 /台词,noun,line,"sentence of dialogue, especially in a script or screenplay"
 本地,adj,local,of a nearby location
 當地 /当地,adj,local,of a nearby location
+本地,adj,local,computing: connected directly
+局部,adj,local,computing: having limited scope
 丟 /丢,verb,lose,cause (something) to cease to be in one's possession or capability
 失去,verb,lose,cause (something) to cease to be in one's possession or capability
+輸 /输,verb,lose,(transitive) fail to win
+減 /减,verb,lose,shed (weight)
+減肥 /减肥,verb,lose,shed (weight)
+輸 /输,verb,lose,fail to be the winner
 午飯 /午饭,noun,lunch,meal around midday
 午餐,noun,lunch,meal around midday
 機 /机,noun,machine,mechanical or electrical device
 機器 /机器,noun,machine,mechanical or electrical device
 機械 /机械,noun,machine,mechanical or electrical device
 器械,noun,machine,mechanical or electrical device
+機構 /机构,noun,machine,group that controls an organization
 雜誌 /杂志,noun,magazine,periodical
+彈藥庫 /弹药库,noun,magazine,ammunition storehouse
+彈倉 /弹仓,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
+彈匣 /弹匣,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 首要,adj,main,"chief, most important, or principal in extent, etc."
 重要,adj,main,"chief, most important, or principal in extent, etc."
 主要,adj,main,"chief, most important, or principal in extent, etc."
 制造,verb,make,to construct
 做,verb,make,to construct
 製作 /制作,verb,make,to construct
+使,verb,make,to cause to be
+使得,verb,make,to cause to be
+賺 /赚,verb,make,"to earn, to gain (money)"
+步行街,noun,mall,pedestrianized street
+購物中心 /购物中心,noun,mall,enclosed shopping centre
+商場 /商场,noun,mall,enclosed shopping centre
 地圖 /地图,noun,map,visual representation of an area
+映射,noun,map,(computing) associative array — see also associative array
 已婚,adj,married,in a state of marriage; having a wife or a husband
 結婚了 /结婚了,adj,married,in a state of marriage; having a wife or a husband
 也許 /也许,adv,maybe,indicating a lack of certainty
 或許 /或许,adv,maybe,indicating a lack of certainty
 或是,adv,maybe,indicating a lack of certainty
 可能,adv,maybe,indicating a lack of certainty
+也許 /也许,adv,maybe,as a pro-sentence
+或許 /或许,adv,maybe,as a pro-sentence
+或是,adv,maybe,as a pro-sentence
+可能,adv,maybe,as a pro-sentence
 餐,noun,meal,food that is prepared and eaten
 飯 /饭,noun,meal,food that is prepared and eaten
+意味,verb,mean,"to convey, indicate"
+是……的意思,verb,mean,"to convey, indicate"
+……的意思是……,verb,mean,to signify
 意義 /意义,noun,meaning,symbolic value of something
 含義 /含义,noun,meaning,symbolic value of something
 意思,noun,meaning,symbolic value of something
 意味,noun,meaning,symbolic value of something
+意義 /意义,noun,meaning,"significance of a thing, as ""the meaning of life"""
+含義 /含义,noun,meaning,"significance of a thing, as ""the meaning of life"""
+意思,noun,meaning,"significance of a thing, as ""the meaning of life"""
+意味,noun,meaning,"significance of a thing, as ""the meaning of life"""
+目的,noun,meaning,"significance of a thing, as ""the meaning of life"""
+意思,noun,meaning,definition or connotation of a word
+意味,noun,meaning,definition or connotation of a word
 遇見 /遇见,verb,meet,to come face to face with by accident; to encounter
 見面 /见面,verb,meet,to come face to face with by accident; to encounter
+聚會 /聚会,verb,meet,to come face to face with someone by arrangement
+認識 /认识,verb,meet,to get acquainted with
+匯合 /汇合,verb,meet,to converge and finally touch or intersect
+會議 /会议,noun,meeting,gathering for a purpose
 會員 /会员,noun,member,one who officially belongs to a group
 成員 /成员,noun,member,one who officially belongs to a group
+肢,noun,member,"organ, limb"
 菜單 /菜单,noun,menu,details of the food to be served at a banquet
+菜單 /菜单,noun,menu,list of dishes offered in a restaurant
+餐牌,noun,menu,list of dishes offered in a restaurant
+菜譜 /菜谱,noun,menu,list of dishes offered in a restaurant
+選單 /选单,noun,menu,computing: list from which the user may select an operation to be performed
+菜單 /菜单,noun,menu,computing: list from which the user may select an operation to be performed
+項目單 /项目单,noun,menu,computing: list from which the user may select an operation to be performed
+項目表 /项目表,noun,menu,computing: list from which the user may select an operation to be performed
+選項單 /选项单,noun,menu,computing: list from which the user may select an operation to be performed
 信息,noun,message,"communication, concept or information conveyed"
 訊息 /讯息,noun,message,"communication, concept or information conveyed"
 音信,noun,message,"communication, concept or information conveyed"
 短信,noun,message,"communication, concept or information conveyed"
 傳言 /传言,noun,message,"communication, concept or information conveyed"
 計量表 /计量表,noun,meter,measuring instrument
+节拍,noun,meter,increment of music
 三更,noun,midnight,middle of the night
 夜半,noun,midnight,middle of the night
 夜半三更,noun,midnight,middle of the night
@@ -571,7 +1014,11 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 黑更半夜,noun,midnight,middle of the night
 半夜三更,noun,midnight,middle of the night
 半夜,noun,midnight,middle of the night
+半夜,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+子夜,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+午夜,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 英里,noun,mile,measure of length
+節 /节,noun,mile,informal: one mile per hour
 奶,noun,milk,liquid
 乳,noun,milk,liquid
 乳汁,noun,milk,liquid
@@ -582,26 +1029,65 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 錯 /错,verb,miss,to fail to hit
 錯過 /错过,verb,miss,to fail to hit
 蹉,verb,miss,to fail to hit
+想念,verb,miss,to feel the absence of someone or something; to feel the want or need of
+想,verb,miss,to feel the absence of someone or something; to feel the want or need of
+思念,verb,miss,to feel the absence of someone or something; to feel the want or need of
+盼念,verb,miss,to feel the absence of someone or something; to feel the want or need of
+忽略,verb,miss,"to fail to notice, to overlook"
+漏掉,verb,miss,"to fail to notice, to overlook"
+錯過 /错过,verb,miss,to be late for something
 錯誤 /错误,noun,mistake,an error
 錯 /错,noun,mistake,an error
 誤 /误,noun,mistake,an error
 模特兒 /模特儿,noun,model,person
+模型,noun,model,miniature
+模型,noun,model,simplified representation
+模範 /模范,noun,model,simplified representation
+模型,noun,model,style
+模範 /模范,noun,model,style
+模型,noun,model,structural design
+模範 /模范,noun,model,structural design
+榜樣 /榜样,noun,model,praiseworthy example
+模範 /模范,noun,model,praiseworthy example
 現代的 /现代的,adj,modern,pertaining to the current time and style
 摩登,adj,modern,pertaining to the current time and style
 近代的,adj,modern,pertaining to the current time and style
 瞬間 /瞬间,noun,moment,very brief period of time
+刻,noun,moment,moment in time
+力矩,noun,moment,moment of force
+貨幣 /货币,noun,money,currency
+現金 /现金,noun,money,hard cash
+財富 /财富,noun,money,wealth
 月,noun,month,period into which a year is divided
 月份,noun,month,period into which a year is divided
 山,noun,mountain,large mass of earth and rock
 動 /动,verb,move,(intransitive) to change place or posture; to go
+搬家,verb,move,to change residence
+移動 /移动,verb,move,to change residence
+動 /动,verb,move,(transitive) to change the place of something
+感動 /感动,verb,move,to arouse the feelings or passions of
+提議 /提议,verb,move,to propose; to recommend
 電影 /电影,noun,movie,motion picture
 影片,noun,movie,motion picture
 博物館 /博物馆,noun,museum,building or institution
 應該 /应该,verb,must,be required to
 必須 /必须,verb,must,be required to
+自然的,adj,natural,of or relating to nature
 近,adv,near,at or towards a position close in space or time
 需要,verb,need,to have an absolute requirement for
+需要,verb,need,to want strongly
+要,verb,need,to want strongly
+必要,verb,need,to be obliged to
+必需,verb,need,to be obliged to
+得,verb,need,to be obliged to
 否定的,adj,negative,not positive or neutral
+負 /负,adj,negative,mathematics: less than zero
+消極 /消极,adj,negative,inherently damaging
+附近,noun,neighborhood,area near one's home
+鄰里,noun,neighborhood,area near one's home
+周圍 /周围,noun,neighborhood,area near one's home
+街坊,noun,neighborhood,area near one's home
+鄰里鄉親 /邻里乡亲,noun,neighborhood,inhabitants of a residential area
 從未 /从未,adv,never,at no time
 從來 /从来,adv,never,at no time
 不曾,adv,never,at no time
@@ -609,10 +1095,18 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 從不 /从不,adv,never,at no time
 消息,noun,news,new information of interest
 新聞 /新闻,noun,news,new information of interest
+新聞 /新闻,noun,news,reports of current events
 報紙 /报纸,noun,newspaper,publication
 報 /报,noun,newspaper,publication
 報章 /报章,noun,newspaper,publication
+新聞用紙 /新闻用纸,noun,newspaper,paper on which newspapers are printed
+白報紙 /白报纸,noun,newspaper,paper on which newspapers are printed
 美好的,adj,nice,"pleasant, satisfactory"
+字條 /字条,noun,note,memorandum
+筆記 /笔记,noun,note,memorandum
+便條 /便条,noun,note,short informal letter
+音符,noun,note,character indicating the length and pitch of a tone
+音符,noun,note,musical sound
 現在 /现在,adv,now,at the present time
 如今,adv,now,at the present time
 現今 /现今,adv,now,at the present time
@@ -620,79 +1114,150 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 現時 /现时,adv,now,at the present time
 護士 /护士,noun,nurse,person trained to provide care for the sick
 看護 /看护,noun,nurse,person trained to provide care for the sick
+保育員 /保育员,noun,nurse,person who takes care of other people's young
 物體 /物体,noun,object,thing
 物件,noun,object,thing
 東西 /东西,noun,object,thing
 事物,noun,object,thing
+目標 /目标,noun,object,"the goal, end or purpose of something"
+目的,noun,object,"the goal, end or purpose of something"
+賓語 /宾语,noun,object,in grammar
+對象 /对象,noun,object,person or thing to which an emotion is directed
+對象 /对象,noun,object,object-oriented programming: instantiation of a class or structure
+物件,noun,object,object-oriented programming: instantiation of a class or structure
 大洋,noun,ocean,one of the large bodies of water
 海洋,noun,ocean,one of the large bodies of water
 洋,noun,ocean,one of the large bodies of water
+職務 /职务,noun,office,position of responsibility
+職位 /职位,noun,office,position of responsibility
+辦公室 /办公室,noun,office,room(s) or building used for non-manual work
+事務所 /事务所,noun,office,room(s) or building used for non-manual work
+部,noun,office,major governmental division
 經常 /经常,adv,often,"frequently, many times"
 常常,adv,often,"frequently, many times"
 時常 /时常,adv,often,"frequently, many times"
 往往,adv,often,"frequently, many times"
 一次,adv,once,one and only one time
 一遍,adv,once,one and only one time
+曾經 /曾经,adv,once,formerly
+以前,adv,once,formerly
+有一次,adv,once,formerly
 網上 /网上,adj,online,connected to a network
 線上 /线上,adj,online,connected to a network
 只有,adv,only,without others or anything further; exclusively
 惟獨 /惟独,adv,only,without others or anything further; exclusively
+只有,adv,only,no more than
+只,adv,only,no more than
 意見 /意见,noun,opinion,thought a person has formed about a topic
 看法,noun,opinion,thought a person has formed about a topic
 見解 /见解,noun,opinion,thought a person has formed about a topic
 橙色,adj,orange,having the colour of the fruit of an orange tree
 橙黃色 /橙黄色,adj,orange,having the colour of the fruit of an orange tree
 橘黃色 /橘黄色,adj,orange,having the colour of the fruit of an orange tree
+整頓 /整顿,verb,order,to set in (a good) order
+整理,verb,order,to set in (a good) order
+命令,verb,order,to issue a command
+定購 /定购,verb,order,to request some product or service
+點菜 /点菜,verb,order,to request some product or service
 出,adv,out,away from the inside or the centre
 外邊 /外边,adv,outside,in or to the outside
 外面,adv,outside,in or to the outside
+外邊 /外边,adv,outside,outdoors
+外面,adv,outside,outdoors
 自己的,adj,own,belonging to (determiner)
 油漆,noun,paint,substance
 塗料 /涂料,noun,paint,substance
 圖畫 /图画,noun,painting,an illustration or artwork using paint
 畫幅 /画幅,noun,painting,an illustration or artwork using paint
 畫兒 /画儿,noun,painting,an illustration or artwork using paint
+繪畫 /绘画,noun,painting,the action of applying paint
+油漆,noun,painting,the action of applying paint
+繪畫 /绘画,noun,painting,artistic application of paint
+油漆,noun,painting,artistic application of paint
 雙 /双,noun,pair,two similar or identical things
 對 /对,noun,pair,two similar or identical things
 一對 /一对,noun,pair,two similar or identical things
+夫婦 /夫妇,noun,pair,two people in a relationship
+一對 /一对,noun,pair,two people in a relationship
+一雙 /一双,noun,pair,two people in a relationship
 褲子 /裤子,noun,pants,garment covering the body from the waist downwards
 長褲 /长裤,noun,pants,garment covering the body from the waist downwards
+內褲 /内裤,noun,pants,undergarment covering the genitals
+襯褲 /衬裤,noun,pants,undergarment covering the genitals
+布,noun,paper,open hand in the game of rock paper scissors
+論文 /论文,noun,paper,academic paper
+論文 /论文,noun,paper,academic paper
+論文 /论文,noun,paper,academic paper
+論文 /论文,noun,paper,academic paper
+論文 /论文,noun,paper,academic paper
 段,noun,paragraph,passage in text
 段落,noun,paragraph,passage in text
 自然段,noun,paragraph,passage in text
 親 /亲,noun,parent,person from whom one is descended
 父母,noun,parent,person from whom one is descended
 家長 /家长,noun,parent,person from whom one is descended
+監護人 /监护人,noun,parent,person who acts as a parent in rearing a child — see also guardian
 停,verb,park,bring (a vehicle) to a halt
 停車 /停车,verb,park,bring (a vehicle) to a halt
 伙伴,noun,partner,someone who is associated with another in a common activity or interest
 搭檔 /搭档,noun,partner,someone who is associated with another in a common activity or interest
+伙伴,noun,partner,a member of a business or law partnership
+伴侶 /伴侣,noun,partner,"spouse, domestic, or romantic partner"
 一方,noun,party,law: particular side in a contract or legal action
+組 /组,noun,party,"group of people forming one side in a given dispute, contest etc."
+聚會 /聚会,noun,party,social gathering
+派對 /派对,noun,party,social gathering
+聯歡會 /联欢会,noun,party,social gathering
 護照 /护照,noun,passport,official document for foreign travel
 過去 /过去,noun,past,period of time that has already happened
+過去時態 /过去时态,noun,past,(grammar) past tense
+過去時 /过去时,noun,past,(grammar) past tense
+過去式 /过去式,noun,past,(grammar) past tense
 鉛筆 /铅笔,noun,pencil,graphite writing-instrument
 胡椒,noun,pepper,plant
+胡椒,noun,pepper,spice
+菜椒,noun,pepper,fruit of the capsicum
 完美,adj,perfect,fitting its definition precisely
 完善,adj,perfect,fitting its definition precisely
+完美,adj,perfect,having all of its parts in harmony with a common purpose
+完善,adj,perfect,having all of its parts in harmony with a common purpose
+完美,adj,perfect,without fault or mistake
+完成式,adj,perfect,grammar: of a tense or verb form: representing a completed action
+純 /纯,adj,perfect,"music: interval or any compound interval of a unison, octave, or fourths and fifths that are not tritones."
+完全,adj,perfect,"music: interval or any compound interval of a unison, octave, or fourths and fifths that are not tritones."
 時期 /时期,noun,period,a length of time
+時代 /时代,noun,period,history: period of time seen as coherent entity
+。,noun,period,punctation mark “.”
+句號 /句号,noun,period,punctation mark “.”
+句點 /句点,noun,period,punctation mark “.”
+週期 /周期,noun,period,length of time during which something repeats
+紀 /纪,noun,period,geochronologic unit
+私人的,adj,personal,of or pertaining to a particular person
+人稱 /人称,adj,personal,grammar: denoting person
 打電話 /打电话,verb,phone,to call (someone) on the telephone
 照片,noun,photograph,picture
 相片,noun,photograph,picture
 短語 /短语,noun,phrase,short written or spoken expression
 片語 /片语,noun,phrase,short written or spoken expression
 詞組 /词组,noun,phrase,short written or spoken expression
+樂句 /乐句,noun,phrase,music: small section of music in a larger piece
 鋼琴 /钢琴,noun,piano,a keyboard musical instrument
 圖畫 /图画,noun,picture,"representation of visible reality produced by drawing, etc"
 圖片 /图片,noun,picture,"representation of visible reality produced by drawing, etc"
 畫 /画,noun,picture,"representation of visible reality produced by drawing, etc"
+照片,noun,picture,photograph
+相片,noun,picture,photograph
 片,noun,piece,part of a larger whole
 塊 /块,noun,piece,part of a larger whole
 片段,noun,piece,part of a larger whole
 部分,noun,piece,part of a larger whole
+棋子,noun,piece,chess: figure other than pawn; similar counter in other games
+作品,noun,piece,artistic creation
 粉紅色 /粉红色,noun,pink,pale red colour
 桃色,noun,pink,pale red colour
 淡紅 /淡红,noun,pink,pale red colour
 泛紅 /泛红,noun,pink,pale red colour
+康乃馨,noun,pink,flower
 法桐,noun,plane,deciduous tree
 平面,noun,plane,level or flat surface
 鉋刀 /刨刀,noun,plane,a tool
@@ -703,39 +1268,84 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 競賽者 /竞赛者,noun,player,one who plays any game or sport
 選手 /选手,noun,player,one who plays any game or sport
 玩家,noun,player,one who plays any game or sport
+演員 /演员,noun,player,dramatic actor
+藝人 /艺人,noun,player,dramatic actor
+玩家,noun,player,"video games: gamer, gamester — see also gamer, gamester"
+賭徒 /赌徒,noun,player,gambler — see also gambler
+播放機 /播放机,noun,player,electronic device
+播放器,noun,player,electronic device
+播放器,noun,player,software application
+懒惰者,noun,player,one without serious aims
+參加者 /参加者,noun,player,participant
+參與者 /参与者,noun,player,participant
+渣男,noun,player,"person ""playing the field"""
+烏狗 /乌狗,noun,player,"person ""playing the field"""
+點 /点,noun,point,geometry: zero-dimensional object
+分,noun,point,unit of scoring in a game or competition
+點 /点,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+點 /点,noun,point,economics: unit of change
+點 /点,noun,point,typography: unit of size
+磅,noun,point,typography: unit of size
+磅因,noun,point,typography: unit of size
 警察,noun,police,local or general law enforcement agency
 警方,noun,police,local or general law enforcement agency
 公安,noun,police,local or general law enforcement agency
 水池,noun,pool,body of water
 池子,noun,pool,body of water
+花式撞球,noun,pool,cue sport played on a pool table
 貧窮 /贫穷,adj,poor,with few or no possessions or money
 貧乏 /贫乏,adj,poor,with few or no possessions or money
 窮 /穷,adj,poor,with few or no possessions or money
 窮困 /穷困,adj,poor,with few or no possessions or money
+貧乏 /贫乏,adj,poor,of low quality
+糟糕,adj,poor,of low quality
+可憐 /可怜,adj,poor,used to express pity
+貧乏 /贫乏,adj,poor,deficient in a specified way
+缺乏,adj,poor,deficient in a specified way
+不足,adj,poor,"inadequate, insufficient"
+虛心 /虚心,adj,poor,free from self-assertion; not proud or arrogant
+謙虛 /谦虚,adj,poor,free from self-assertion; not proud or arrogant
 人民,adj,popular,of or pertaining to the common people
 民,adj,popular,of or pertaining to the common people
+受歡迎 /受欢迎,adj,popular,liked by many people
+流行,adj,popular,liked by many people
+有人緣兒 /有人缘儿,adj,popular,liked by many people
+确定的,adj,positive,legal: formally laid down
+正,adj,positive,mathematics: greater than zero
 可能,adj,possible,able but not certain to happen
 土豆,noun,potato,plant tuber eaten as starchy vegetable
 馬鈴薯 /马铃薯,noun,potato,plant tuber eaten as starchy vegetable
 洋芋,noun,potato,plant tuber eaten as starchy vegetable
 磅,noun,pound,unit of mass (16 ounces avoirdupois)
+鎊 /镑,noun,pound,unit of currency
 比較喜歡 /比较喜欢,verb,prefer,to favor
 準備 /准备,verb,prepare,to make ready for a specific future purpose
+準備 /准备,verb,prepare,to make oneself ready
 現在 /现在,noun,present,current time
 挺,adv,pretty,somewhat
 價格 /价格,noun,price,cost required to gain possession of something
 價錢 /价钱,noun,price,cost required to gain possession of something
 價 /价,noun,price,cost required to gain possession of something
+千金,noun,price,cost of an action or deed
 大概,adv,probably,in all likelihood
 或許 /或许,adv,probably,in all likelihood
 問題 /问题,noun,problem,difficulty
 困難 /困难,noun,problem,difficulty
 難題 /难题,noun,problem,difficulty
 麻煩 /麻烦,noun,problem,difficulty
+題目 /题目,noun,problem,schoolwork exercise
+習題 /习题,noun,problem,schoolwork exercise
+課題 /课题,noun,problem,schoolwork exercise
 產品 /产品,noun,product,commodity for sale
 商品,noun,product,commodity for sale
 製品 /制品,noun,product,commodity for sale
+結果 /结果,noun,product,consequence of efforts
+積 /积,noun,product,multiplication result
 計劃 /计划,noun,program,set of structured activities
+節目 /节目,noun,program,performance of a show or other broadcast on radio or television
+應用程式 /应用程式,noun,program,software application
+程序,noun,program,software application
+程式,noun,program,software application
 計劃 /计划,noun,project,planned endeavor
 方案,noun,project,planned endeavor
 項目 /项目,noun,project,planned endeavor
@@ -745,6 +1355,7 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 置,verb,put,to place something somewhere
 放置,verb,put,to place something somewhere
 四分之一,noun,quarter,one of four equal parts — see also one-fourth
+季度,noun,quarter,period of three months
 快,adj,quick,moving with speed
 迅速,adj,quick,moving with speed
 迅速地,adv,quickly,"rapidly, fast"
@@ -753,19 +1364,47 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 趕快地 /赶快地,adv,quickly,"rapidly, fast"
 安靜 /安静,adj,quiet,with little sound
 寧靜 /宁静,adj,quiet,with little sound
+闲散,adj,quiet,not busy
+閒散 /闲散,adj,quiet,not busy
 挺,adv,quite,to the greatest extent; completely
+好生,adv,quite,in a fully justified sense; truly
+挺,adv,quite,in a fully justified sense; truly
+夠 /够,adv,quite,in a fully justified sense; truly
+夠 /够,adv,quite,to a moderate extent
 讀者 /读者,noun,reader,person who reads a publication
+讀本 /读本,noun,reader,"an elementary textbook for those learning to read, especially for foreign languages"
+文選 /文选,noun,reader,a literary anthology
 讀書 /读书,noun,reading,process of interpreting written language
 閱讀 /阅读,noun,reading,process of interpreting written language
+读数,noun,reading,value indicated by a measuring device
+讀音 /读音,noun,reading,pronunciation associated with a particular character or word
 準備好的 /准备好的,adj,ready,prepared for immediate action or use
 真的,adj,real,"true, genuine, not merely nominal"
 真實的 /真实的,adj,real,"true, genuine, not merely nominal"
 真的,adv,really,actually
+真,adv,really,"informally, as an intensifier; very, very much"
 理由,noun,reason,that which causes: a cause
 原因,noun,reason,that which causes: a cause
+理由,noun,reason,motive for an action or determination
+原因,noun,reason,motive for an action or determination
+理致,noun,reason,(the capacity of the human mind for) rational thinking
+理性,noun,reason,(the capacity of the human mind for) rational thinking
+理智,noun,reason,(the capacity of the human mind for) rational thinking
+鬆開 /松开,verb,relax,to make something loose
+放鬆 /放松,verb,relax,to make something loose
+放鬆下來 /放松下来,verb,relax,to become loose
+緩解 /缓解,verb,relax,to make something less severe or tense
+緩和 /缓和,verb,relax,to make something less severe or tense
+緩解 /缓解,verb,relax,to become less severe or tense
+緩和 /缓和,verb,relax,to become less severe or tense
+緩和 /缓和,verb,relax,to make something (such as codes and regulations) more lenient
+缓和,verb,relax,to make something (such as codes and regulations) more lenient
 記得 /记得,verb,remember,to recall from one's memory
 記憶 /记忆,verb,remember,to recall from one's memory
 回憶 /回忆,verb,remember,to recall from one's memory
+記住 /记住,verb,remember,to memorize
+死記硬背 /死记硬背,verb,remember,to memorize
+記住 /记住,verb,remember,to not forget to do something required
 重複 /重复,verb,repeat,do or say again
 報告 /报告,noun,report,information describing events
 報告書 /报告书,noun,report,information describing events
@@ -774,16 +1413,23 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 飯店 /饭店,noun,restaurant,an eating establishment in which diners are served food
 飯館 /饭馆,noun,restaurant,an eating establishment in which diners are served food
 結果 /结果,noun,result,that which results
+結果 /结果,noun,result,"fruit, beneficial or tangible effect"
 歸還 /归还,noun,return,act of returning
 富有,adj,rich,having wealth
 富裕,adj,rich,having wealth
 有錢 /有钱,adj,rich,having wealth
 闊 /阔,adj,rich,having wealth
 騎 /骑,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+乘,verb,ride,to be transported in a vehicle as a passenger
+搭乘,verb,ride,to be transported in a vehicle as a passenger
+坐,verb,ride,to be transported in a vehicle as a passenger
 路,noun,road,a way for travel
 道路,noun,road,a way for travel
 馬路 /马路,noun,road,a way for travel
 道,noun,road,a way for travel
+空間 /空间,noun,room,space
+房間 /房间,noun,room,division in a building
+屋子,noun,room,division in a building
 常規 /常规,noun,routine,course of action to be followed regularly; a standard procedure
 慣例 /惯例,noun,routine,course of action to be followed regularly; a standard procedure
 規則 /规则,noun,rule,regulation
@@ -795,8 +1441,12 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 三文治,noun,sandwich,dish — see also open sandwich
 三味治,noun,sandwich,dish — see also open sandwich
 說 /说,verb,say,"to say, to tell"
+說 /说,verb,say,to communicate verbally or in writing
+告訴 /告诉,verb,say,to communicate verbally or in writing
 科學家 /科学家,noun,scientist,one whose activities make use of the scientific method
 块,noun,section,"cutting, part cut out"
+部分,noun,section,"part, piece or subdivision of anything"
+段,noun,section,part of a document
 賣 /卖,verb,sell,to agree to transfer goods or provide services for payment
 售,verb,sell,to agree to transfer goods or provide services for payment
 贩卖,verb,sell,to agree to transfer goods or provide services for payment
@@ -807,9 +1457,18 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 發送 /发送,verb,send,make something go somewhere
 判刑,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 判決 /判决,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+句子,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+語句 /语句,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 共享,verb,share,to give
 分配,verb,share,to give
 分享,verb,share,to give
+共有,verb,share,to have in common
+共用,verb,share,to have in common
+分享,verb,share,to have in common
+分攤 /分摊,verb,share,to have in common
+分擔 /分担,verb,share,to have in common
+分配,verb,share,to divide and distribute
+均分,verb,share,to divide and distribute
 襯衫 /衬衫,noun,shirt,article of clothing
 襯衣 /衬衣,noun,shirt,article of clothing
 鞋子,noun,shoe,protective covering for the foot
@@ -818,17 +1477,29 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 購物 /购物,noun,shopping,activity of buying
 血拼,noun,shopping,activity of buying
 瞎拼,noun,shopping,activity of buying
+買的東西 /买的东西,noun,shopping,things bought
 應該 /应该,verb,should,expressing obligation
 應當 /应当,verb,should,expressing obligation
 該 /该,verb,should,expressing obligation
+如果,verb,should,if; in case of
+倘若,verb,should,if; in case of
 表演,noun,show,entertainment
 演出,noun,show,entertainment
 秀,noun,show,entertainment
+展覽會 /展览会,noun,show,exhibition — see also exhibition
+節目 /节目,noun,show,broadcast program(me)
+見紅 /见红,noun,show,bloody mucus discharge leading up to labor
 陣雨 /阵雨,noun,shower,brief fall of rain
 小雨,noun,shower,brief fall of rain
+淋浴,noun,shower,device for bathing
+淋浴器,noun,shower,device for bathing
+花灑 /花洒,noun,shower,device for bathing
+淋浴,noun,shower,instance of using of this device
+想吐,adj,sick,having an urge to vomit
 類似 /类似,adj,similar,"having traits or characteristics in common; alike, comparable"
 差不多,adj,similar,"having traits or characteristics in common; alike, comparable"
 相似,adj,similar,"having traits or characteristics in common; alike, comparable"
+相似,adj,similar,"of geometric figures, having the same shape"
 唱歌,verb,sing,to produce harmonious sounds with one’s voice
 唱,verb,sing,to produce harmonious sounds with one’s voice
 鳴 /鸣,verb,sing,to produce harmonious sounds with one’s voice
@@ -837,49 +1508,140 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 狀態 /状态,noun,situation,combination of circumstances at a given moment; state of affairs
 境遇,noun,situation,combination of circumstances at a given moment; state of affairs
 情勢 /情势,noun,situation,combination of circumstances at a given moment; state of affairs
+形勢 /形势,noun,situation,position vis-à-vis surroundings
+情況 /情况,noun,situation,position vis-à-vis surroundings
+狀態 /状态,noun,situation,position vis-à-vis surroundings
+場所 /场所,noun,situation,location
+位置,noun,situation,location
+情況 /情况,noun,situation,one's status with regard to circumstances
+狀態 /状态,noun,situation,one's status with regard to circumstances
+境遇,noun,situation,one's status with regard to circumstances
 技巧,noun,skill,capacity to do something well
 技能,noun,skill,capacity to do something well
 技術 /技术,noun,skill,capacity to do something well
 裙子,noun,skirt,article of clothing
 裙,noun,skirt,article of clothing
+邊緣 /边缘,noun,skirt,"border, edge, margin"
+裙邊 /裙边,noun,skirt,"border, edge, margin"
 慢,adj,slow,not quick in motion
+機靈 /机灵,adj,smart,exhibiting social ability or cleverness
+伶俐,adj,smart,exhibiting social ability or cleverness
+精明,adj,smart,exhibiting social ability or cleverness
+聰明 /聪明,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+智能,adj,smart,equipped with intelligent behaviour (digital/computer technology)
+帥氣 /帅气,adj,smart,good-looking
+瀟灑 /潇洒,adj,smart,good-looking
+優雅 /优雅,adj,smart,good-looking
+俏皮,adj,smart,cleverly shrewd and humorous
 很,adv,so,very
 非常,adv,so,very
 太,adv,so,very
+這麼 /这么,adv,so,to a particular extent
+这么,adv,so,to a particular extent
+那麼 /那么,adv,so,to a particular extent
+那么,adv,so,to a particular extent
+這樣 /这样,adv,so,in the same aformentioned manner
+这样,adv,so,in the same aformentioned manner
+如此,adv,so,in the same aformentioned manner
 有時 /有时,adv,sometimes,"on certain occasions, but not always"
 有時候 /有时候,adv,sometimes,"on certain occasions, but not always"
 不久,adv,soon,within a short time
 快,adv,soon,within a short time
 湯 /汤,noun,soup,dish
+空間 /空间,noun,space,physical extent in two or three dimensions
+太空,noun,space,area beyond atmosphere of planets
+宇宙,noun,space,area beyond atmosphere of planets
+空間 /空间,noun,space,area beyond atmosphere of planets
+空白,noun,space,"gap between written characters, lines etc."
+空格,noun,space,piece of type used to separate words
 特別的 /特别的,adj,special,distinguished by a unique or unusual quality
 特殊的,adj,special,distinguished by a unique or unusual quality
 專門的 /专门的,adj,special,distinguished by a unique or unusual quality
+格外,adj,special,of particular interest or value; certain; dear; beloved; favored
 拼,verb,spell,to write or say the letters that form a word
 拼寫 /拼写,verb,spell,to write or say the letters that form a word
 拼字,verb,spell,to write or say the letters that form a word
+拼,verb,spell,to compose a word
+拼字,verb,spell,to compose a word
+寫法 /写法,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+拼字,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+正字法,noun,spelling,a specific spelling of a word
+拼字,noun,spelling,a specific spelling of a word
+拼寫法 /拼写法,noun,spelling,a specific spelling of a word
+正詞法 /正词法,noun,spelling,a specific spelling of a word
+拼寫 /拼写,noun,spelling,a specific spelling of a word
 花,verb,spend,to pay out
+花,verb,spend,"to wear out, to exhaust"
+度過 /度过,verb,spend,"to consume, to use up (time)"
+度,verb,spend,"to consume, to use up (time)"
 開始 /开始,verb,start,to begin
+启动,verb,start,to initiate operation of a vehicle or machine
+胡鬧 /胡闹,verb,start,to jerk suddenly in surprise
 聲明 /声明,noun,statement,declaration or remark
 陳述 /陈述,noun,statement,declaration or remark
+財務報告 /财务报告,noun,statement,finance: document that summarizes financial activity
+銀行結單 /银行结单,noun,statement,finance: document that summarizes financial activity
+聲明 /声明,noun,statement,computing: instruction in a computer program
 站,noun,station,place where a vehicle may stop
+駐地 /驻地,noun,station,military base
+基地,noun,station,military base
+電臺 /電台 /电台,noun,station,place used for broadcasting
+頻道 /频道,noun,station,broadcasting entity
 呆,verb,stay,to remain in a particular place
 留,verb,stay,to remain in a particular place
+留,verb,stay,to continue to have a particular quality
+還 /还,adv,still,"up to a time, as in the preceding time"
+還是 /还是,adv,still,"up to a time, as in the preceding time"
+仍,adv,still,"up to a time, as in the preceding time"
+依然,adv,still,"up to a time, as in the preceding time"
+還 /还,adv,still,to an even greater degree
+還要 /还要,adv,still,to an even greater degree
+更,adv,still,to an even greater degree
+還是 /还是,adv,still,nevertheless
+仍然,adv,still,nevertheless
 倉庫 /仓库,noun,store,place where items may be kept
 故事,noun,story,account of events
+限時動態 /限时动态,noun,story,social media temporary publication
 街,noun,street,paved part of road in a village or a town
 路,noun,street,paved part of road in a village or a town
 馬路 /马路,noun,street,paved part of road in a village or a town
 街路,noun,street,paved part of road in a village or a town
 街道,noun,street,paved part of road in a village or a town
 強 /强,adj,strong,capable of producing great physical force
+強力 /强力,adj,strong,capable of withstanding great physical force
+強烈 /强烈,adj,strong,having an offensive or intense odor or flavor
+學習 /学习,verb,study,to take a course
+學習 /学习,verb,study,to acquire knowledge
+學 /学,verb,study,to acquire knowledge
+風格 /风格,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+格調 /格调,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+式樣 /式样,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+樣式 /样式,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 主語 /主语,noun,subject,in grammar
+主題 /主题,noun,subject,main topic
+科目,noun,subject,particular area of study
+學科 /学科,noun,subject,particular area of study
+臣民,noun,subject,citizen in a monarchy
+臣民,noun,subject,"person ruled over by another, especially a monarch or state authority"
+子民,noun,subject,"person ruled over by another, especially a monarch or state authority"
+主題 /主题,noun,subject,music: main theme
+主旋律,noun,subject,music: main theme
+被試者 /被试者,noun,subject,"human, animal or an inanimate object that is being examined"
+被試 /被试,noun,subject,"human, animal or an inanimate object that is being examined"
+主體 /主体,noun,subject,philosophy: being
 成功,noun,success,achievement of one's aim or goal
 糖,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+糖類 /糖类,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
 超級市場 /超级市场,noun,supermarket,store
 超市,noun,supermarket,store
+連鎖超市 /连锁超市,noun,supermarket,chain of stores
 確定 /确定,adj,sure,"certain, reliable"
+確定 /确定,adj,sure,certain in one's knowledge or belief
 毛衣,noun,sweater,knitted jacket worn by athletes before or after exercise
 毛線衣 /毛线衣,noun,sweater,knitted jacket worn by athletes before or after exercise
+毛衣,noun,sweater,similar garment worn for warmth
+毛線衣 /毛线衣,noun,sweater,similar garment worn for warmth
+套衫,noun,sweater,similar garment worn for warmth
 游泳,verb,swim,move through water
 游泳,noun,swimming,human activity of moving oneself through water
 游,noun,swimming,human activity of moving oneself through water
@@ -889,6 +1651,7 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 講 /讲,verb,talk,to communicate by speech
 言,verb,talk,to communicate by speech
 高,adj,tall,of a person
+高,adj,tall,of a building
 出租汽車 /出租汽车,noun,taxi,vehicle available for public hire
 出租車 /出租车,noun,taxi,vehicle available for public hire
 計程車 /计程车,noun,taxi,vehicle available for public hire
@@ -896,12 +1659,21 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 德士,noun,taxi,vehicle available for public hire
 茶葉 /茶叶,noun,tea,dried leaves of tea plant
 茶,noun,tea,dried leaves of tea plant
+茶,noun,tea,drink made from leaves of tea plant
+茶水,noun,tea,drink made from leaves of tea plant
 教,verb,teach,to pass on knowledge
 教授,verb,teach,to pass on knowledge
+教學 /教学,verb,teach,to pass on one's knowledge as one's profession
+講課 /讲课,verb,teach,to pass on one's knowledge as one's profession
+教训,verb,teach,obsolete: to show the way
+團隊 /团队,noun,team,group of people
+隊 /队,noun,team,group of people
 少年,noun,teenager,person aged between thirteen and nineteen
 青少年,noun,teenager,person aged between thirteen and nineteen
 打電話 /打电话,verb,telephone,to call someone
 電視 /电视,noun,television,medium
+電視機 /电视机,noun,television,device for receiving television signals
+電視 /电视,noun,television,program broadcasting
 告訴 /告诉,verb,tell,to pass information
 說 /说,verb,tell,to pass information
 網球 /网球,noun,tennis,sport played by two or four players with strung racquets
@@ -909,8 +1681,20 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 可怕的,adj,terrible,dreadful; causing alarm or fear
 夠嗆 /够呛,adj,terrible,dreadful; causing alarm or fear
 嚇人的 /吓人的,adj,terrible,dreadful; causing alarm or fear
+厲害 /厉害,adj,terrible,most formidable
+利害,adj,terrible,most formidable
+厉害,adj,terrible,most formidable
+利害,adj,terrible,most formidable
+猛烈,adj,terrible,most formidable
+糟糕的,adj,terrible,very bad
+太壞了 /太坏了,adj,terrible,very bad
 測試 /测试,verb,test,to challenge
+測驗 /测验,verb,test,to administer an examination during the academic term
+考驗 /考验,verb,test,to administer an examination during the academic term
+檢驗 /检验,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 課文 /课文,noun,text,a written passage
+短信,noun,text,a brief written message transmitted between mobile phones
+簡訊 /简讯,noun,text,a brief written message transmitted between mobile phones
 道謝 /道谢,verb,thank,to express appreciation or gratitude toward (someone or something)
 感謝 /感谢,verb,thank,to express appreciation or gratitude toward (someone or something)
 謝 /谢,verb,thank,to express appreciation or gratitude toward (someone or something)
@@ -918,25 +1702,52 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 劇院 /剧院,noun,theater,place or building
 當時 /当时,adv,then,at that time
 那時 /那时,adv,then,at that time
+接著 /接着,adv,then,soon afterward
+接著 /接着,adv,then,next in order
+然後 /然后,adv,then,next in order
+就,adv,then,next in order
+那麼 /那么,adv,then,in that case
+便,adv,then,in that case
+就,adv,then,in that case
 那裡 /那里,adv,there,in or at that place
 那兒 /那儿,adv,there,in or at that place
+那裡 /那里,adv,there,to or into that place; thither
+那兒 /那儿,adv,there,to or into that place; thither
+有,adv,there,in existence
 渴,adj,thirsty,needing to drink
 口渴,adj,thirsty,needing to drink
 票,noun,ticket,admission to entertainment
 券,noun,ticket,admission to entertainment
+票,noun,ticket,pass for transportation
+機票 /机票,noun,ticket,pass for transportation
+車票 /车票,noun,ticket,pass for transportation
+船票,noun,ticket,pass for transportation
+罰單 /罚单,noun,ticket,traffic citation
+執照 /执照,noun,ticket,permit to operate machine
 累,adj,tired,in need of rest or sleep
 疲,adj,tired,in need of rest or sleep
 疲倦,adj,tired,in need of rest or sleep
 疲累,adj,tired,in need of rest or sleep
 稱號 /称号,noun,title,prefix or suffix added to a name
+所有權 /所有权,noun,title,right to ownership
+標題 /标题,noun,title,"name of a book, etc"
+書名 /书名,noun,title,"name of a book, etc"
+標題 /标题,noun,title,subject of a writing
+書名 /书名,noun,title,subject of a writing
 一起,adv,together,"at the same time, in the same place"
 共同,adv,together,"at the same time, in the same place"
 一同,adv,together,"at the same time, in the same place"
+一起,adv,together,into one place
 西紅柿 /西红柿,noun,tomato,tomato plant
 番茄,noun,tomato,tomato plant
 柿子,noun,tomato,tomato plant
+西紅柿 /西红柿,noun,tomato,fruit
+番茄,noun,tomato,fruit
+柿子,noun,tomato,fruit
 今晚,noun,tonight,nighttime today
 也,adv,too,likewise
+太,adv,too,more than enough; as too much
+過於 /过于,adv,too,more than enough; as too much
 主題 /主题,noun,topic,subject; theme
 話題 /话题,noun,topic,subject; theme
 旅游者,noun,tourist,someone who travels for pleasure
@@ -948,18 +1759,34 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 鎮 /镇,noun,town,settlement
 城鎮 /城镇,noun,town,settlement
 交通,noun,traffic,pedestrians or vehicles on roads or on the air
+交易,noun,traffic,commercial transportation or exchange of goods
+流量,noun,traffic,"exchange or flux of information, messages or data"
 旅行,noun,travel,act of traveling
 旅行,noun,trip,journey
 旅遊 /旅游,noun,trip,journey
 旅途,noun,trip,journey
 旅程,noun,trip,journey
+卡車 /卡车,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+貨車 /货车,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+載貨汽車 /载货汽车,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 真,adj,true,concurring with a given set of facts
 真實 /真实,adj,true,concurring with a given set of facts
+真,adj,true,state in Boolean logic that indicates an affirmative or positive result
+忠誠 /忠诚,adj,true,"loyal, faithful"
+忠貞 /忠贞,adj,true,"loyal, faithful"
+忠實 /忠实,adj,true,"loyal, faithful"
+真正,adj,true,"genuine, legitimate"
 嘗試 /尝试,verb,try,to attempt
 企圖 /企图,verb,try,to attempt
 試 /试,verb,try,to attempt
+試驗 /试验,verb,try,to make an experiment
+嘗 /尝,verb,try,"to taste, sample, etc"
+嘗味 /尝味,verb,try,"to taste, sample, etc"
 轉彎 /转弯,noun,turn,change of direction or orientation
 轉向 /转向,noun,turn,change of direction or orientation
+旋轉 /旋转,noun,turn,movement about an axis ending up with the same orientation
+班,noun,turn,chance to use (something) shared in sequence with others
+輪到 /轮到,noun,turn,chance to use (something) shared in sequence with others
 兩次 /两次,adv,twice,two times
 两倍,adv,twice,two times
 類型 /类型,noun,type,grouping based on shared characteristics
@@ -967,6 +1794,7 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 種 /种,noun,type,grouping based on shared characteristics
 傘 /伞,noun,umbrella,cloth-covered frame used for protection against rain or sun
 雨傘 /雨伞,noun,umbrella,cloth-covered frame used for protection against rain or sun
+傘膜 /伞膜,noun,umbrella,"the main body of a jellyfish, excluding the tentacles"
 伯父,noun,uncle,brother (or brother-in-law) of someone’s parent
 伯伯,noun,uncle,brother (or brother-in-law) of someone’s parent
 叔父,noun,uncle,brother (or brother-in-law) of someone’s parent
@@ -978,6 +1806,7 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 姨父,noun,uncle,brother (or brother-in-law) of someone’s parent
 姨丈,noun,uncle,brother (or brother-in-law) of someone’s parent
 姨夫,noun,uncle,brother (or brother-in-law) of someone’s parent
+叔叔,noun,uncle,form of address to a man by young people or children in some countries
 明白,verb,understand,to grasp the meaning of
 懂,verb,understand,to grasp the meaning of
 了解 /暸解,verb,understand,to grasp the meaning of
@@ -993,8 +1822,11 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 有用,adj,useful,having a practical or beneficial use
 實用 /实用,adj,useful,having a practical or beneficial use
 通常,adv,usually,most of the time
+假期,noun,vacation,period of leisure time
 蔬菜,noun,vegetable,a plant raised for some edible part of it
 青菜,noun,vegetable,a plant raised for some edible part of it
+植物,noun,vegetable,any plant
+植物人,noun,vegetable,a person whose brain has been damaged
 很,adv,very,to a high degree
 太,adv,very,to a high degree
 非常,adv,very,to a high degree
@@ -1005,6 +1837,10 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 來訪 /来访,noun,visit,single act of visiting
 訪客 /访客,noun,visitor,guest
 客人,noun,visitor,guest
+遊客 /游客,noun,visitor,sightseer
+客人,noun,visitor,sightseer
+訪客 /访客,noun,visitor,sightseer
+觀光客 /观光客,noun,visitor,sightseer
 等,verb,wait,delay until some event
 等待,verb,wait,delay until some event
 待,verb,wait,delay until some event
@@ -1014,8 +1850,12 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 散步,noun,walk,trip made by walking
 漫步,noun,walk,trip made by walking
 手錶 /手表,noun,watch,portable or wearable timepiece
+值日,noun,watch,particular time period
+值班,noun,watch,particular time period
 穿,verb,wear,to have on (clothes or accessories)
 戴,verb,wear,to have on (clothes or accessories)
+磨,verb,wear,to erode due to use
+磨損 /磨损,verb,wear,to erode due to use
 天氣 /天气,noun,weather,state of the atmosphere
 氣候 /气候,noun,weather,state of the atmosphere
 天景,noun,weather,state of the atmosphere
@@ -1031,6 +1871,10 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 愛人 /爱人,noun,wife,female partner in a marriage
 太太,noun,wife,female partner in a marriage
 內人 /内人,noun,wife,female partner in a marriage
+將 /将,verb,will,indicating future action
+要,verb,will,indicating future action
+將要 /将要,verb,will,indicating future action
+會 /会,verb,will,indicating future action
 贏 /赢,verb,win,transitive: achieve victory in
 勝利 /胜利,verb,win,transitive: achieve victory in
 婦女 /妇女,noun,woman,adult female person
@@ -1047,9 +1891,13 @@ e.g.: ...不了,verb,cannot,"cannot — see also can, not"
 作者,noun,writer,person who writes; an author
 筆者 /笔者,noun,writer,person who writes; an author
 文字,noun,writing,written letters or symbols
+寫作 /写作,noun,writing,process of representing a language
+寫作 /写作,noun,writing,work of an author
+著作,noun,writing,work of an author
 錯 /错,adj,wrong,incorrect
 院子,noun,yard,land around a house
 庭院,noun,yard,land around a house
+碼 /码,noun,yard,three feet
 黃色 /黄色,noun,yellow,color
 昨天,noun,yesterday,day before today
 昨日,noun,yesterday,day before today

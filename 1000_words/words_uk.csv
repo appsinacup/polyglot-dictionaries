@@ -7,18 +7,37 @@ word,part_of_speech,english_word,sense
 вівто́рок,noun,Tuesday,day of the week
 середа́,noun,Wednesday,day of the week
 навколо,adv,about,on all sides
+прибли́зно,adv,about,"nearly, approximately"
+бли́зько,adv,about,"nearly, approximately"
+ко́ло,adv,about,"nearly, approximately"
+вище,adv,above,in a higher place
+ді́я,noun,action,something done so as to accomplish a purpose
+ді́яння,noun,action,something done so as to accomplish a purpose
 дія́льність,noun,activity,state or quality of being active
 акти́вність,noun,activity,state or quality of being active
+акти́вність,noun,activity,something done as an action or a movement
+дія́льність,noun,activity,something done as an action or a movement
+дія́льність,noun,activity,something done for pleasure or entertainment
 акто́р,noun,actor,person who performs in a theatrical play or film — see also actress
 акто́рка,noun,actor,person who performs in a theatrical play or film — see also actress
 актри́са,noun,actor,person who performs in a theatrical play or film — see also actress
 лицеді́й,noun,actor,person who performs in a theatrical play or film — see also actress
 лицеді́йка,noun,actor,person who performs in a theatrical play or film — see also actress
+викона́вець,noun,actor,one who acts; a doer
+викона́виця,noun,actor,one who acts; a doer
+дія́ч,noun,actor,one who acts; a doer
+дія́чка,noun,actor,one who acts; a doer
 акто́рка,noun,actress,female actor — see also actor
 актри́са,noun,actress,female actor — see also actor
 лицеді́йка,noun,actress,female actor — see also actor
 додава́ти,verb,add,to append (e.g. a statement); to say further information; to add on
 дода́ти,verb,add,to append (e.g. a statement); to say further information; to add on
+додава́ти,verb,add,to make an addition; to augment; to increase; to add on
+дода́ти,verb,add,to make an addition; to augment; to increase; to add on
+додава́ти,verb,add,"to perform the arithmetical operation of addition, to add up"
+дода́ти,verb,add,"to perform the arithmetical operation of addition, to add up"
+зве́рнення,noun,address,act of addressing oneself to a person or group
+адре́са,noun,address,description of the location of a property; direction for correspondence
 доро́слий,noun,adult,fully grown human
 доро́сла,noun,adult,fully grown human
 ра́да,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
@@ -27,12 +46,25 @@ word,part_of_speech,english_word,sense
 ляка́тися,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 пополу́день,noun,afternoon,part of the day between noon and evening
 пополу́дні,noun,afternoon,part of the day between noon and evening
+зно́ву,adv,again,another time
+знов,adv,again,another time
+ще раз,adv,again,another time
 вік,noun,age,amount of time since the birth of a being or the beginning of a thing
+ста́рість,noun,age,state of being old; latter part of life
+вік,noun,age,one of the stages of life
+епо́ха,noun,age,particular period of time in history
+е́ра,noun,age,particular period of time in history
+час,noun,age,particular period of time in history
+вік,noun,age,particular period of time in history
+вік,noun,age,lifespan
 пого́джуватися,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 пого́дитися,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 зго́джуватися,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 зго́дитися,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 пові́тря,noun,air,historical: one of the basic elements
+пові́тря,noun,air,mixture of gases making up the atmosphere of the Earth
+ефі́р,noun,air,television or radio: media broadcasts
+ете́р,noun,air,television or radio: media broadcasts
 аеропо́рт,noun,airport,place designated for airplanes
 лето́вище,noun,airport,place designated for airplanes
 так са́мо,adv,also,in addition; besides; as well; further; too
@@ -43,6 +75,11 @@ word,part_of_speech,english_word,sense
 за́всіди,adv,always,at all times
 за́вше,adv,always,at all times
 повсякча́с,adv,always,at all times
+завжди́,adv,always,"constantly during a certain period, or regularly at stated intervals"
+за́вжди,adv,always,"constantly during a certain period, or regularly at stated intervals"
+за́вше,adv,always,"constantly during a certain period, or regularly at stated intervals"
+весь ча́с,adv,always,"constantly during a certain period, or regularly at stated intervals"
+уве́сь час,adv,always,"constantly during a certain period, or regularly at stated intervals"
 ди́вний,adj,amazing,causing wonder and amazement
 чудо́вий,adj,amazing,causing wonder and amazement
 дивови́жний,adj,amazing,causing wonder and amazement
@@ -52,12 +89,19 @@ word,part_of_speech,english_word,sense
 розсе́рджений,adj,angry,displaying anger
 твари́на,noun,animal,organism
 звір,noun,animal,organism
+твари́на,noun,animal,organism other than human
+звір,noun,animal,organism other than human
 відповіда́ти,verb,answer,to make a reply or response to
 відповісти́,verb,answer,to make a reply or response to
+відповіда́ти,verb,answer,to respond to a call
+відповісти́,verb,answer,to respond to a call
 кварти́ра,noun,apartment,domicile occupying part of a building
 апартаме́нт,noun,apartment,domicile occupying part of a building
 я́блуко,noun,apple,fruit of Malus domestica
 пло́ща,noun,area,maths: measure of extent of a surface
+о́бласть,noun,area,particular geographic region
+райо́н,noun,area,particular geographic region
+край,noun,area,particular geographic region
 збро́я,noun,arm,weapon
 озбро́єння,noun,arm,weapon
 рука́,noun,arm,upper appendage from shoulder to wrist
@@ -65,8 +109,19 @@ word,part_of_speech,english_word,sense
 дійти́,verb,arrive,to reach
 доїжджа́ти,verb,arrive,to reach
 дої́хати,verb,arrive,to reach
+прихо́дити,verb,arrive,to get to a certain place
+прийти́,verb,arrive,to get to a certain place
+приїжджа́ти,verb,arrive,to get to a certain place
+приїзди́ти,verb,arrive,to get to a certain place
+приї́хати,verb,arrive,to get to a certain place
 мисте́цтво,noun,art,human effort
+мисте́цтво,noun,art,skillful creative activity
+мисте́цтво,noun,art,aesthetic value
+мисте́цтво,noun,art,artwork
+мисте́цтво,noun,art,field or category of art
 стаття́,noun,article,"story, report, or opinion piece"
+арти́кль,noun,article,part of speech that specifies a noun
+стаття́,noun,article,section of a legal document
 худо́жник,noun,artist,person who creates art
 худо́жниця,noun,artist,person who creates art
 ма́ля́р,noun,artist,person who creates art
@@ -75,8 +130,16 @@ word,part_of_speech,english_word,sense
 арти́стка,noun,artist,person who creates art
 мите́ць,noun,artist,person who creates art
 мистки́ня,noun,artist,person who creates art
+худо́жник,noun,artist,person who creates art as an occupation
+худо́жниця,noun,artist,person who creates art as an occupation
+ма́йстер,noun,artist,skilled person
+ма́йстерка,noun,artist,skilled person
+мите́ць,noun,artist,skilled person
+мистки́ня,noun,artist,skilled person
 пита́ти,verb,ask,request an answer
 запита́ти,verb,ask,request an answer
+проси́ти,verb,ask,make a request
+попроси́ти,verb,ask,make a request
 ті́тка,noun,aunt,a parent's sister or sister-in-law
 тьо́тя,noun,aunt,a parent's sister or sister-in-law
 цьоця,noun,aunt,a parent's sister or sister-in-law
@@ -98,23 +161,61 @@ word,part_of_speech,english_word,sense
 пога́ний,adj,bad,unfavorable; negative
 ке́пський,adj,bad,unfavorable; negative
 злий,adj,bad,unfavorable; negative
+злий,adj,bad,"evil, wicked"
 су́мка,noun,bag,flexible container
 мішо́к,noun,bag,flexible container
 то́рба,noun,bag,flexible container
 чува́л,noun,bag,flexible container
 бал,noun,ball,formal dance
 ку́ля,noun,ball,solid or hollow sphere
+м'яч,noun,ball,"object, generally spherical, used for playing games"
+опу́ка,noun,ball,"object, generally spherical, used for playing games"
+ядро́,noun,ball,ballistics: a solid nonexplosive missile
+яйце́,noun,ball,testicle — see also testicle
+яє́чко,noun,ball,testicle — see also testicle
 бана́н,noun,banana,fruit
 бе́ріг,noun,bank,edge of river or lake
 бе́рег,noun,bank,edge of river or lake
 банк,noun,bank,institution
+банк,noun,bank,branch office
 прут,noun,bar,solid object with uniform cross-section
 брус,noun,bar,solid object with uniform cross-section
 сте́ржень,noun,bar,solid object with uniform cross-section
+прут,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+брус,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+сте́ржень,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+брусо́к,noun,bar,cuboid piece of any commodity
+пли́тка,noun,bar,cuboid piece of any commodity
+бар,noun,bar,business licensed to sell intoxicating beverages
+пивна́,noun,bar,business licensed to sell intoxicating beverages
+каба́к,noun,bar,business licensed to sell intoxicating beverages
+кна́йпа,noun,bar,business licensed to sell intoxicating beverages
+пивни́ця,noun,bar,business licensed to sell intoxicating beverages
+корчма́,noun,bar,business licensed to sell intoxicating beverages
+тракти́р,noun,bar,business licensed to sell intoxicating beverages
+паб,noun,bar,business licensed to sell intoxicating beverages
+ши́нок,noun,bar,business licensed to sell intoxicating beverages
+бар,noun,bar,counter of such premises
+сті́йка,noun,bar,counter of such premises
+бар,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+адвокату́ра,noun,bar,law: collective term for lawyers
+юриспруде́нція,noun,bar,law: profession of lawyers
+адвокату́ра,noun,bar,law: profession of lawyers
+пла́нка,noun,bar,sports: in high jump and pole vault
+перекла́дина,noun,bar,sports: in high jump and pole vault
+мілина́,noun,bar,nautical: sand formation
 бейсбо́л,noun,baseball,ball game
 баскетбо́л,noun,basketball,the sport
 кошикі́вка,noun,basketball,the sport
+баскетбо́льний м'яч,noun,basketball,the ball used in the sport
+м'яч до кошикі́вки,noun,basketball,the ball used in the sport
 ва́нна,noun,bath,tub
+лазни́чка,noun,bath,building or area where bathing occurs
+купа́льня,noun,bath,building or area where bathing occurs
+ва́нна кімна́та,noun,bath,building or area where bathing occurs
+ку́пиль,noun,bath,act of bathing
+купа́ння,noun,bath,act of bathing
+ла́зня,noun,bath,act of bathing
 ва́нна кімна́та,noun,bathroom,a room with a bathtub
 ва́нна,noun,bathroom,a room with a bathtub
 пляж,noun,beach,sandy shore
@@ -130,19 +231,42 @@ word,part_of_speech,english_word,sense
 хоро́ший,adj,beautiful,attractive
 фа́йний,adj,beautiful,attractive
 кра́сний,adj,beautiful,attractive
+ясни́й,adj,beautiful,"of weather: pleasant, clear"
+бездога́нний,adj,beautiful,impressing with charm in an intellectual or moral way
+прекра́сний,adj,beautiful,impressing with charm in an intellectual or moral way
 става́ти,verb,become,to begin to be
 ста́ти,verb,become,to begin to be
 лі́жко,noun,bed,piece of furniture
+лі́жко,noun,bed,bed as general place or concept
+по́стіль,noun,bed,bed as general place or concept
+по́стіль,noun,bed,prepared spot to spend the night in
+дно,noun,bed,the bottom of a lake or other body of water
+рі́чище,noun,bed,the bottom of a lake or other body of water
+русло́,noun,bed,the bottom of a lake or other body of water
+кори́то,noun,bed,the bottom of a lake or other body of water
+клу́мба,noun,bed,garden plot
+гря́дка,noun,bed,garden plot
+гряда́,noun,bed,garden plot
+ле́ха,noun,bed,garden plot
+діля́нка,noun,bed,garden plot
 спа́льня,noun,bedroom,room in a house where a bed is kept for sleeping
 пи́во,noun,beer,alcoholic drink made of malt
+пи́во,noun,beer,glass of beer
 почина́ти,verb,begin,"to start, to initiate (transitive)"
 поча́ти,verb,begin,"to start, to initiate (transitive)"
 почина́тися,verb,begin,"to start, to initiate (transitive)"
 поча́тися,verb,begin,"to start, to initiate (transitive)"
 поча́ток,noun,beginning,act of doing that which begins anything
+поча́ток,noun,beginning,initial portion of some extended thing
 поза́ду,adv,behind,at the back part; in the rear
 ві́рити,verb,believe,to accept that someone is telling the truth (object: person)
 пові́рити,verb,believe,to accept that someone is telling the truth (object: person)
+ві́рити,verb,believe,to accept as true
+вважа́ти,verb,believe,to consider likely
+ду́мати,verb,believe,to consider likely
+ві́рувати,verb,believe,to have religious faith; to believe in a greater truth
+ві́рити,verb,believe,to have religious faith; to believe in a greater truth
+ві́рити в,verb,believe,to ascribe existence to
 найкращий,adj,best,superlative of the adjective good
 найлі́пший,adj,best,superlative of the adjective good
 кра́щий,adj,better,comparative of the adjectives good or well
@@ -150,21 +274,37 @@ word,part_of_speech,english_word,sense
 велосипе́д,noun,bicycle,vehicle
 ро́вер,noun,bicycle,vehicle
 вели́кий,adj,big,of a great size — see also large
+вели́кий,adj,big,adult
 велосипед,noun,bike,bicycle
+законопрое́кт,noun,bill,draft of a law
+білль,noun,bill,draft of a law
+раху́нок,noun,bill,invoice
+раху́нок-факту́ра,noun,bill,invoice
+афі́ша,noun,bill,advertisement
 дзьоб,noun,bill,bird's beak
 птах,noun,bird,animal
 пти́ця,noun,bird,animal
 день наро́дження,noun,birthday,anniversary
 уроди́ни,noun,birthday,anniversary
+да́та наро́дження,noun,birthday,date of birth — see also date of birth
+день наро́дження,noun,birthday,date of birth — see also date of birth
 чо́рний,noun,black,colour/color
+му́рин,noun,black,dark-skinned person — see also Negro
+му́ринка,noun,black,dark-skinned person — see also Negro
+негр,noun,black,dark-skinned person — see also Negro
+негритя́нка,noun,black,dark-skinned person — see also Negro
+чорношкі́рий,noun,black,dark-skinned person — see also Negro
+чорношкі́ра,noun,black,dark-skinned person — see also Negro
 блог,noun,blog,a personal or corporate website
 блоґ,noun,blog,a personal or corporate website
 руся́вий,adj,blond,of a pale golden colour
+біля́вий,adj,blond,having blond hair
 си́ній,noun,blue,colour
 блаки́тний,noun,blue,colour
 чо́вен,noun,boat,water craft
 лодь,noun,boat,water craft
 ті́ло,noun,body,physical structure of a human or animal
+колекти́в,noun,body,group having a common purpose or opinion
 кни́жка,noun,book,collection of sheets of paper bound together containing printed or written material
 кни́га,noun,book,collection of sheets of paper bound together containing printed or written material
 чо́біт,noun,boot,heavy shoe that covers part of the leg
@@ -179,12 +319,15 @@ word,part_of_speech,english_word,sense
 скри́ня,noun,box,cuboid space; container
 хло́пець,noun,boy,young male
 хло́пчик,noun,boy,young male
+козачо́к,noun,boy,male servant
 коха́ний,noun,boyfriend,male partner in a romantic relationship
 па́рубок,noun,boyfriend,male partner in a romantic relationship
 хло́пець,noun,boyfriend,male partner in a romantic relationship
 друг,noun,boyfriend,male partner in a romantic relationship
 при́ятель,noun,boyfriend,male partner in a romantic relationship
 хліб,noun,bread,baked dough made from cereals
+хліб,noun,bread,countable: any variety of bread
+пере́рва,noun,break,"rest or pause, usually from work"
 сніда́нок,noun,breakfast,first meal of the day
 прино́сити,verb,bring,to transport toward somebody/somewhere
 принести́,verb,bring,to transport toward somebody/somewhere
@@ -197,11 +340,24 @@ word,part_of_speech,english_word,sense
 будува́ти,verb,build,(transitive) to form by combining materials or parts
 збудува́ти,verb,build,(transitive) to form by combining materials or parts
 будівни́цтво,noun,building,act or process of building
+буди́нок,noun,building,closed structure with walls and a roof
+спору́да,noun,building,closed structure with walls and a roof
+дім,noun,building,closed structure with walls and a roof
+будівля,noun,building,closed structure with walls and a roof
+будо́ва,noun,building,closed structure with walls and a roof
 авто́бус,noun,bus,vehicle
 бус,noun,bus,vehicle
+ши́на,noun,bus,electrical conductor
 підприє́мство,noun,business,commercial enterprise or establishment
 бі́знес,noun,business,commercial enterprise or establishment
 фі́рма,noun,business,commercial enterprise or establishment
+бізнес,noun,business,"commercial, industrial or professional activity"
+ді́ло,noun,business,something involving one personally
+спра́ва,noun,business,something involving one personally
+за́йнятий,adj,busy,doing a great deal
+за́йнятий,adj,busy,engaged
+за́йнята,adj,busy,engaged
+за́йняті,adj,busy,engaged
 ма́сло,noun,butter,soft foodstuff made from milk
 купува́ти,verb,buy,to obtain something with money
 купи́ти,verb,buy,to obtain something with money
@@ -210,9 +366,19 @@ word,part_of_speech,english_word,sense
 кекс,noun,cake,type of sweet dessert
 пиро́жне,noun,cake,type of sweet dessert
 крик,noun,call,cry or shout
+заклик,noun,call,beckoning or summoning
+телефо́нна розмо́ва,noun,call,telephone conversation
+дзвіно́к,noun,call,telephone conversation
+розмо́ва,noun,call,telephone conversation
+відві́дування,noun,call,social visit
+візи́т,noun,call,social visit
+візи́та,noun,call,social visit
+виклик,noun,call,computing: act of jumping to a subprogram
 фотоапара́т,noun,camera,still camera
 ка́мера,noun,camera,still camera
 фотока́мера,noun,camera,still camera
+відеока́мера,noun,camera,movie camera
+ка́мера,noun,camera,movie camera
 могти́,verb,can,to be able to; to know how to
 змогти́,verb,can,to be able to; to know how to
 вмі́ти,verb,can,to be able to; to know how to
@@ -222,7 +388,11 @@ word,part_of_speech,english_word,sense
 маши́на,noun,car,"automobile, a vehicle steered by a driver"
 авто́,noun,car,"automobile, a vehicle steered by a driver"
 автомобі́ль,noun,car,"automobile, a vehicle steered by a driver"
+ка́рта,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+ка́ртка,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 кар'є́ра,noun,career,one's calling in life; a person's occupation
+кар’є́ра,noun,career,an individual’s work and life roles over their lifespan
+кар’є́р,noun,career,horse career
 мо́рква,noun,carrot,Daucus carota ssp. sativus
 носи́ти,verb,carry,to transport by lifting
 поноси́ти,verb,carry,to transport by lifting
@@ -232,68 +402,156 @@ word,part_of_speech,english_word,sense
 повози́ти,verb,carry,to transport by lifting
 везти́,verb,carry,to transport by lifting
 повезти́,verb,carry,to transport by lifting
+перено́сити,verb,carry,in an addition
+перенести́,verb,carry,in an addition
 кіт,noun,cat,domestic species
 кі́шка,noun,cat,domestic species
 цент,noun,cent,subunit of currency in US and elsewhere
 центр,noun,center,point equidistant from all points on the perimeter of a circle
 середи́на,noun,center,point equidistant from all points on the perimeter of a circle
+центр,noun,center,point on a line midway between the ends
 стіле́ць,noun,chair,furniture
 крі́сло,noun,chair,furniture
+ка́федра,noun,chair,distinguished professorship
 змі́на,noun,change,the process of becoming different
+дрібні́ гро́ші,noun,change,small denominations of money given in exchange for a larger denomination
+дрібняки́,noun,change,small denominations of money given in exchange for a larger denomination
+дрібні́,noun,change,small denominations of money given in exchange for a larger denomination
+замі́на,noun,change,a replacement
+змі́на,noun,change,a replacement
+ре́шта,noun,change,balance returned after a purchase
+зда́ча,noun,change,balance returned after a purchase
+оста́ча,noun,change,balance returned after a purchase
+пере́сідка,noun,change,a transfer between vehicles
+переса́дка,noun,change,a transfer between vehicles
+гра́фік,noun,chart,non-narrative presentation of data
+діагра́ма,noun,chart,non-narrative presentation of data
 деше́вий,adj,cheap,low and/or reduced in price
 перевіря́ти,verb,check,"to inspect, examine"
 переві́рити,verb,check,"to inspect, examine"
 сир,noun,cheese,dairy product
 курча́,noun,chicken,bird
 ку́рка,noun,chicken,bird
+ку́рятина,noun,chicken,meat
 дити́на,noun,child,son or daughter; someone's child
 дитя́,noun,child,son or daughter; someone's child
 дитя́тко,noun,child,son or daughter; someone's child
+дити́на,noun,child,a minor
+дитя́,noun,child,a minor
 шокола́д,noun,chocolate,food made from ground roasted cocoa beans
 вибира́ти,verb,choose,to pick
 ви́брати,verb,choose,to pick
+вибира́ти,verb,choose,to elect
 мі́сто,noun,city,large settlement
 град,noun,city,large settlement
 клас,noun,class,"group, collection, category or set sharing characteristics or attributes"
 кля́са,noun,class,"group, collection, category or set sharing characteristics or attributes"
 розря́д,noun,class,"group, collection, category or set sharing characteristics or attributes"
+клас,noun,class,"social grouping, based on job, wealth, etc."
+кля́са,noun,class,"social grouping, based on job, wealth, etc."
+клас,noun,class,division of society into classes
+кля́са,noun,class,division of society into classes
+клас,noun,class,admirable behavior; elegance
+кля́са,noun,class,admirable behavior; elegance
+клас,noun,class,group of students in a regularly scheduled meeting with a teacher
+кля́са,noun,class,group of students in a regularly scheduled meeting with a teacher
+гру́па,noun,class,group of students in a regularly scheduled meeting with a teacher
+курс,noun,class,series of classes covering a single subject
+заняття́,noun,class,series of classes covering a single subject
+клас,noun,class,group of students who commenced or completed their education during a particular year
+кля́са,noun,class,group of students who commenced or completed their education during a particular year
+курс,noun,class,group of students who commenced or completed their education during a particular year
+клас,noun,class,"category of seats in an airplane, train or other means of mass transportation"
+кля́са,noun,class,"category of seats in an airplane, train or other means of mass transportation"
+клас,noun,class,taxonomy: classification below Phylum and above Order
+кля́са,noun,class,taxonomy: classification below Phylum and above Order
+клас,noun,class,set theory: collection of sets definable by a shared property
+кля́са,noun,class,set theory: collection of sets definable by a shared property
 клас,noun,classroom,room in a school
 кла́сна кімна́та,noun,classroom,room in a school
 чи́стити,verb,clean,(transitive) to remove dirt from a place or object
 почи́стити,verb,clean,(transitive) to remove dirt from a place or object
 підніма́тися,verb,climb,"to ascend, to go up"
+ла́зити,verb,climb,"to mount, to move upwards on"
+пола́зити,verb,climb,"to mount, to move upwards on"
+лі́зти,verb,climb,"to mount, to move upwards on"
+полі́зти,verb,climb,"to mount, to move upwards on"
+підніма́тися,verb,climb,"to mount, to move upwards on"
+підійма́тися,verb,climb,"to mount, to move upwards on"
+піднятися,verb,climb,"to mount, to move upwards on"
+здира́тися,verb,climb,to move by using the hands and feet
+лі́зти,verb,climb,to move by using the hands and feet
+зла́зити,verb,climb,to move by using the hands and feet
 годи́нник,noun,clock,instrument to measure or keep track of time
+такт,noun,clock,electrical signal
 зачиня́ти,verb,close,obstruct (an opening)
 зачини́ти,verb,close,obstruct (an opening)
 закрива́ти,verb,close,obstruct (an opening)
 закри́ти,verb,close,obstruct (an opening)
+зачиня́ти,verb,close,move (a door)
+зачини́ти,verb,close,move (a door)
+заплю́щувати,verb,close,bring one's eyelids together
+стуля́ти,verb,close,bring one's eyelids together
 о́дяг,noun,clothes,apparel
 оде́жа,noun,clothes,apparel
 о́діж,noun,clothes,apparel
 клуб,noun,club,association of members
+дрючо́к,noun,club,heavy stick for use as weapon or plaything
+дуби́нка,noun,club,heavy stick for use as weapon or plaything
+па́лиця,noun,club,heavy stick for use as weapon or plaything
+клю́шка,noun,club,hitting implement in certain ball games
+бі́та,noun,club,hitting implement in certain ball games
+па́лиця,noun,club,hitting implement in certain ball games
+па́лка,noun,club,hitting implement in certain ball games
+кий,noun,club,hitting implement in certain ball games
 пальто́,noun,coat,outer garment covering the upper torso and arms
 піджа́к,noun,coat,outer garment covering the upper torso and arms
 ка́ва,noun,coffee,beverage
 хо́лод,noun,cold,low temperature
+просту́да,noun,cold,illness
+засту́да,noun,cold,illness
+ко́ледж,noun,college,institution of higher education
 ко́лір,noun,color,spectral composition of visible light
 фа́рба,noun,color,spectral composition of visible light
 ба́рва,noun,color,spectral composition of visible light
+ко́лір,noun,color,particular set of the visible spectrum
+ко́лір,noun,color,hue as opposed to achromatic colors
+ко́лір шкі́ри,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
+ко́лір,noun,color,any of the standard dark tinctures used in a coat of arms
+ба́рва,noun,color,any of the standard dark tinctures used in a coat of arms
+кольори́,noun,color,standard or banner (colors)
+ба́рви,noun,color,standard or banner (colors)
 прихо́дити,verb,come,to move nearer
 прийти́,verb,come,to move nearer
 приїжджа́ти,verb,come,to move nearer
 приї́хати,verb,come,to move nearer
 приїзди́ти,verb,come,to move nearer
 зага́льний,adj,common,mutual
+зви́чний,adj,common,usual
+звича́йний,adj,common,usual
 товари́ство,noun,company,"in legal context, a corporation"
 ді́ло,noun,company,"in legal context, a corporation"
 компа́нія,noun,company,"in legal context, a corporation"
 фі́рма,noun,company,"in legal context, a corporation"
 підприє́мство,noun,company,"in legal context, a corporation"
+компа́нія,noun,company,"in non-legal context, any business, without respect to incorporation"
+фі́рма,noun,company,"in non-legal context, any business, without respect to incorporation"
+товари́ство,noun,company,group of individuals with a common purpose
+компа́нія,noun,company,group of individuals with a common purpose
+товари́ство,noun,company,social visitors
+го́сті,noun,company,social visitors
+товари́ство,noun,company,companionship
+компа́нія,noun,company,companionship
+ро́та,noun,company,military unit
+со́тня,noun,company,military unit
+ла́нка,noun,company,unit of firefighters and their equipment
 порі́внювати,verb,compare,to assess the similarities between two things or between one thing and another
 порівня́ти,verb,compare,to assess the similarities between two things or between one thing and another
 заве́ршувати,verb,complete,to finish
 заве́ршити,verb,complete,to finish
+комплектува́ти,verb,complete,to make whole or entire
 комп'ю́тер,noun,computer,programmable electronic device
+конце́рт,noun,concert,a musical entertainment in which several voices or instruments take part
 розмо́ва,noun,conversation,expression and exchange of individual ideas through talking with other people
 бе́сіда,noun,conversation,expression and exchange of individual ideas through talking with other people
 розгово́р,noun,conversation,expression and exchange of individual ideas through talking with other people
@@ -316,15 +574,44 @@ word,part_of_speech,english_word,sense
 краї́на,noun,country,region of land
 земля́,noun,country,region of land
 край,noun,country,region of land
+краї́на,noun,country,nation state
+держа́ва,noun,country,nation state
+село́,noun,country,"the country, rural area, as opposed to the town or city"
+прові́нція,noun,country,"the country, rural area, as opposed to the town or city"
+курс,noun,course,education: learning program
+стра́ва,noun,course,cooking: stage of a meal
+курс,noun,course,nautical: direction of movement of a vessel
+двою́рідний брат,noun,cousin,child of a person’s parent’s brother or sister
+брат у пе́рших,noun,cousin,child of a person’s parent’s brother or sister
+двою́рідна сестра́,noun,cousin,child of a person’s parent’s brother or sister
+кузе́н,noun,cousin,child of a person’s parent’s brother or sister
+кузи́на,noun,cousin,child of a person’s parent’s brother or sister
 коро́ва,noun,cow,female domesticated ox or other bovine
 смета́на,noun,cream,oily part of milk
 вершки́,noun,cream,oily part of milk
+кремо́вий,noun,cream,colour
+кремо́вий ко́льор,noun,cream,colour
+смета́на,noun,cream,the best part
+вершки́,noun,cream,the best part
+мазь,noun,cream,product to apply to the skin
+масть,noun,cream,product to apply to the skin
+крем,noun,cream,product to apply to the skin
+масти́ло,noun,cream,product to apply to the skin
+пома́да,noun,cream,product to apply to the skin
 твори́ти,verb,create,to put into existence
 створи́ти,verb,create,to put into existence
 культу́ра,noun,culture,"arts, customs and habits"
+культу́ра,noun,culture,anthropology: any knowledge passed from one generation to the next
+культу́ра,noun,culture,microbiology: the process of growing a bacterial or other biological entity
+культу́ра,noun,culture,the collective noun for a group of bacteria
 ча́шка,noun,cup,drinking vessel
 ча́шечка,noun,cup,drinking vessel
 ку́бок,noun,cup,drinking vessel
+кліє́нт,noun,customer,one who purchases or receives a product or service
+кліє́нтка,noun,customer,one who purchases or receives a product or service
+замо́вник,noun,customer,one who purchases or receives a product or service
+замо́вниця,noun,customer,one who purchases or receives a product or service
+покупе́ць,noun,customer,one who purchases or receives a product or service
 рі́зати,verb,cut,to perform an incision
 руба́ти,verb,cut,to perform an incision
 та́то,noun,dad,informal: a father
@@ -333,19 +620,37 @@ word,part_of_speech,english_word,sense
 не́ньо,noun,dad,informal: a father
 танцюва́ти,verb,dance,move rhythmically to music
 танцюри́ст,noun,dancer,person who dances
+танцюри́стка,noun,dancer,a female person who dances
 небезпе́чний,adj,dangerous,full of danger
 те́мний,adj,dark,having an absolute or relative lack of light
+те́мний,adj,dark,"not bright or light, deeper in hue"
 да́та,noun,date,"that which specifies the time of writing, inscription etc."
 число́,noun,date,"that which specifies the time of writing, inscription etc."
+да́та,noun,date,point of time at which a transaction or event takes place
+число́,noun,date,point of time at which a transaction or event takes place
+день,noun,date,point of time at which a transaction or event takes place
+побачення,noun,date,pre-arranged social meeting
+поба́чення,noun,date,meeting with a lover or potential lover; a person so met
 фі́нік,noun,date,fruit of the date palm
 дочка́,noun,daughter,female offspring
 до́нька,noun,daughter,female offspring
 день,noun,day,period between sunrise and sunset
+день,noun,day,period of 24 hours
+до́ба,noun,day,period of 24 hours
+день,noun,day,period from midnight to the following midnight
+до́ба,noun,day,period from midnight to the following midnight
+день,noun,day,rotational period of a planet
+до́ба,noun,day,rotational period of a planet
+день,noun,day,"part of a day period which one spends at one's job, school, etc."
 дороги́й,adj,dear,loved; lovable
 ми́лий,adj,dear,loved; lovable
 лю́бий,adj,dear,loved; lovable
+дороги́й,adj,dear,formal way of addressing
+шано́вний,adj,dear,formal way of addressing
 вирі́шувати,verb,decide,to resolve or settle
 ви́рішити,verb,decide,to resolve or settle
+вирі́шувати,verb,decide,give judgement
+ви́рішити,verb,decide,give judgement
 смачни́й,adj,delicious,pleasing to taste
 до́брий,adj,delicious,pleasing to taste
 опи́сувати,verb,describe,to represent in words
@@ -356,6 +661,11 @@ word,part_of_speech,english_word,sense
 стіл,noun,desk,table for writing and reading
 па́рта,noun,desk,table for writing and reading
 дета́ль,noun,detail,part small enough to escape casual notice
+дета́ль,noun,detail,uncountable: a profusion of details
+дета́ль,noun,detail,part considered trivial enough to ignore
+подро́биця,noun,detail,part considered trivial enough to ignore
+докла́дність,noun,detail,part considered trivial enough to ignore
+наря́д,noun,detail,military: temporary unit
 діало́г,noun,dialogue,conversation or other discourse between individuals
 розмо́ва,noun,dialogue,conversation or other discourse between individuals
 бе́сіда,noun,dialogue,conversation or other discourse between individuals
@@ -370,21 +680,34 @@ word,part_of_speech,english_word,sense
 діє́та,noun,diet,food a person or animal consumes
 ї́жа,noun,diet,food a person or animal consumes
 різни́ця,noun,difference,quality of being different
+рі́зниця,noun,difference,arithmetic: result of a subtraction
 і́нший,adj,different,not the same
 відмі́нний,adj,different,not the same
+рі́зний,adj,different,unlike most others
+і́нший,adj,different,unlike most others
 важки́й,adj,difficult,"hard, not easy"
 трудни́й,adj,difficult,"hard, not easy"
 вече́ря,noun,dinner,evening meal
+обі́д,noun,dinner,midday meal
 брудни́й,adj,dirty,covered with or containing dirt
 дискутува́ти,verb,discuss,to converse or debate concerning a particular topic
 обгово́рювати impf обговори́ти,verb,discuss,to converse or debate concerning a particular topic
 тарі́лка,noun,dish,vessel for holding/serving food
 ми́ска,noun,dish,vessel for holding/serving food
 блю́до,noun,dish,vessel for holding/serving food
+стра́ва,noun,dish,contents of such a vessel
+стра́ва,noun,dish,specific type of food
+по́суд,noun,dish,tableware to be/being washed
+тарі́лка,noun,dish,type of antenna
 чи,verb,do,in questions
+роби́ти,verb,do,"perform, execute"
+зроби́ти,verb,do,"perform, execute"
 до́ктор,noun,doctor,person who has attained a doctorate
 соба́ка,noun,dog,animal
 пес,noun,dog,animal
+пес,noun,dog,male canine
+соба́ка,noun,dog,male canine
+соба́ка,noun,dog,morally reprehensible person — see also scoundrel
 до́лар,noun,dollar,designation for specific currency
 до́ляр,noun,dollar,designation for specific currency
 две́рі,noun,door,"portal of entry into a building, room or vehicle"
@@ -393,19 +716,46 @@ word,part_of_speech,english_word,sense
 уни́з,adv,down,"from a high to a low position, downwards"
 доліли́ць,adv,down,"from a high to a low position, downwards"
 ниць,adv,down,"from a high to a low position, downwards"
+на пі́вдень,adv,down,to the south
+на пі́вдні,adv,down,to the south
+півде́нніше,adv,down,to the south
+за мі́сто,adv,down,away from the city
+за мі́стом,adv,down,away from the city
+по́за мі́стом,adv,down,away from the city
+попе́реду,adv,down,"forward, straight ahead"
+спе́реду,adv,down,"forward, straight ahead"
+впере́д,adv,down,"forward, straight ahead"
+упере́д,adv,down,"forward, straight ahead"
+ви́мкнено,adv,down,into a state of non-operation
+вертика́льно,adv,down,in crosswords
+дони́зу,adv,down,"sentence substitute for ""get down"""
+вниз,adv,down,"sentence substitute for ""get down"""
+уни́з,adv,down,"sentence substitute for ""get down"""
+додо́лу,adv,down,"sentence substitute for ""get down"""
 рисува́ти,verb,draw,to produce a picture
 нарисува́ти,verb,draw,to produce a picture
 малюва́ти,verb,draw,to produce a picture
 намалюва́ти,verb,draw,to produce a picture
 одяга́ти,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+одяга́тися,verb,dress,to put on clothes — see also get dressed
+одягти́ся,verb,dress,to put on clothes — see also get dressed
+одягну́тися,verb,dress,to put on clothes — see also get dressed
 пи́ти,verb,drink,consume liquid through the mouth
 ви́пити,verb,drink,consume liquid through the mouth
 ї́хати,verb,drive,to operate (a wheeled motorized vehicle)
 ї́здити,verb,drive,to operate (a wheeled motorized vehicle)
 вести́,verb,drive,to operate (a wheeled motorized vehicle)
 води́ти,verb,drive,to operate (a wheeled motorized vehicle)
+гна́ти,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+ганя́ти,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
 пого́нич,noun,driver,"one who drives something, e.g. cattle"
 пого́нець,noun,driver,"one who drives something, e.g. cattle"
+воді́й,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+воді́йка,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+шофе́р,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+шофе́рка,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+водій,noun,driver,person who drives some other vehicle
+дра́йвер,noun,driver,program acting as interface between an application and hardware
 ко́лос,noun,ear,fruiting body of a grain plant
 ву́хо,noun,ear,organ of hearing
 ра́но,adv,early,at a time before expected
@@ -414,10 +764,16 @@ word,part_of_speech,english_word,sense
 ї́сти,verb,eat,"to ingest — see also consume, ingest"
 пої́сти,verb,eat,"to ingest — see also consume, ingest"
 з'ї́сти,verb,eat,"to ingest — see also consume, ingest"
+ї́сти,verb,eat,eat a meal
 яйце́,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+яйце́,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 слон,noun,elephant,mammal
 слони́ха,noun,elephant,mammal
 слонь,noun,elephant,mammal
+закі́нчувати,verb,end,"transitive: finish, terminate (something)"
+закі́нчити,verb,end,"transitive: finish, terminate (something)"
+кінча́ти,verb,end,"transitive: finish, terminate (something)"
+скі́нчити,verb,end,"transitive: finish, terminate (something)"
 насоло́джуватися,verb,enjoy,to receive pleasure or satisfaction from something
 насолоди́тися,verb,enjoy,to receive pleasure or satisfaction from something
 усоло́джуватися,verb,enjoy,to receive pleasure or satisfaction from something
@@ -429,11 +785,19 @@ word,part_of_speech,english_word,sense
 доста́тньо,adv,enough,sufficiently
 до́сить,adv,enough,sufficiently
 є́вро,noun,euro,currency unit of the European Monetary Union
+на́віть,adv,even,implying extreme example
+ще,adv,even,emphasising comparative
 ве́чір,noun,evening,time of day between dusk and night
+ве́чір,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 поді́я,noun,event,occurrence
 за́хід,noun,event,occurrence
+поді́я,noun,event,prearranged social activity
 завжди́,adv,ever,always
+коли́-не́будь,adv,ever,at any time
 при́клад,noun,example,something representative of a group
+при́клад,noun,example,something serving to explain or illustrate a rule
+при́клад,noun,example,something serving as a pattern of behaviour
+взір,noun,example,something serving as a pattern of behaviour
 збу́джений,adj,excited,having great enthusiasm and energy
 схвильо́ваний,adj,excited,having great enthusiasm and energy
 на емоціях,adj,excited,having great enthusiasm and energy
@@ -443,6 +807,8 @@ word,part_of_speech,english_word,sense
 вправля́тися,verb,exercise,exert for the sake of training
 практикува́тися,verb,exercise,exert for the sake of training
 тренува́тися,verb,exercise,exert for the sake of training
+практикува́ти,verb,exercise,use; put into practice
+зді́йснювати,verb,exercise,"take action, enforce"
 дороги́й,adj,expensive,having a high price or cost
 кошто́вний,adj,expensive,having a high price or cost
 поя́снювати,verb,explain,to make intelligible
@@ -450,14 +816,33 @@ word,part_of_speech,english_word,sense
 поясни́ти,verb,explain,to make intelligible
 додатко́вий,adj,extra,"beyond what is due, usual"
 окре́мий,adj,extra,"beyond what is due, usual"
+е́кстра,adj,extra,extraordinarily good
 о́ко,noun,eye,organ
+ву́шко,noun,eye,hole in needle
 обли́ччя,noun,face,anatomy: front part of head
 лице́,noun,face,anatomy: front part of head
+ви́раз обли́ччя,noun,face,facial expression
+грима́са,noun,face,facial expression
+мі́на,noun,face,facial expression
+фізіоно́мія,noun,face,facial expression
+обли́ччя,noun,face,public image
+і́мідж,noun,face,public image
 факт,noun,fact,an honest observation
+факт,noun,fact,something actual
+факт,noun,fact,something which has become real
+факт,noun,fact,something concrete used as a basis for further interpretation
 паді́ння,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+спад,noun,fall,a period of decline before the end
+паді́ння,noun,fall,loss of greatness or status
+спад,noun,fall,loss of greatness or status
 неправди́вий,adj,false,"untrue, not factual, wrong"
 хи́бний,adj,false,"untrue, not factual, wrong"
+хи́ба,adj,false,state in Boolean logic that indicates a negative result
 відо́мий,adj,famous,well known
+знамени́тий,adj,famous,in the public eye
+славе́тний,adj,famous,in the public eye
+сла́вний,adj,famous,in the public eye
+відо́мий,adj,famous,in the public eye
 фе́рма,noun,farm,place where agricultural activities take place
 фа́рма,noun,farm,place where agricultural activities take place
 господа́рство,noun,farm,place where agricultural activities take place
@@ -468,42 +853,84 @@ word,part_of_speech,english_word,sense
 селяни́ця,noun,farmer,person who works the land and/or who keeps livestock
 землеро́б,noun,farmer,person who works the land and/or who keeps livestock
 землеро́бка,noun,farmer,person who works the land and/or who keeps livestock
+шви́дко,adv,fast,with great speed
 товсти́й,adj,fat,carrying a larger than normal amount of fat on one's body
 жи́рний,adj,fat,carrying a larger than normal amount of fat on one's body
 дебе́лий,adj,fat,carrying a larger than normal amount of fat on one's body
+товсти́й,adj,fat,thick
 ба́тько,noun,father,male parent
 оте́ць,noun,father,male parent
 та́то,noun,father,male parent
+відчува́ти,verb,feel,transitive: to experience an emotion or other mental state about
+відчу́ти,verb,feel,transitive: to experience an emotion or other mental state about
+почува́ти,verb,feel,transitive: to experience an emotion or other mental state about
+чу́ти,verb,feel,transitive: to experience an emotion or other mental state about
+почу́ти,verb,feel,transitive: to experience an emotion or other mental state about
 почуття́,noun,feeling,sensation
+почуття́,noun,feeling,emotion; impression
+емо́ція,noun,feeling,emotion; impression
 фестива́ль,noun,festival,event or community gathering
 свя́то,noun,festival,event or community gathering
+запо́внювати,verb,fill,"occupy fully, take up all of"
+заповня́ти,verb,fill,"occupy fully, take up all of"
+запо́внити,verb,fill,"occupy fully, take up all of"
 знахо́дити,verb,find,"encounter, locate, discover"
 знайти́,verb,find,"encounter, locate, discover"
+фа́йний,adj,fine,"good-looking, attractive"
 закі́нчувати,verb,finish,to complete
 закі́нчити,verb,finish,to complete
 кінча́ти,verb,finish,to complete
 скі́нчити,verb,finish,to complete
 вого́нь,noun,fire,oxidation reaction
 ва́тра,noun,fire,oxidation reaction
+поже́жа,noun,fire,damaging occurrence of fire
+піч,noun,fire,heater or stove used in place of real fire
+пі́чка,noun,fire,heater or stove used in place of real fire
 по-пе́рше,adv,first,before anything else
 спе́ршу,adv,first,before anything else
 споча́тку,adv,first,before anything else
 ри́ба,noun,fish,vertebrate animal
+ри́би,noun,fish,collective plural of fish
+ри́ба,noun,fish,flesh of fish as food
 втеча,noun,flight,act of fleeing
 полі́т,noun,flight,act of flying
+полі́т,noun,flight,instance of flying
+перелі́т,noun,flight,instance of flying
+згра́я,noun,flight,group of doves or swallows
+полі́т,noun,flight,journey made by an aircraft
+рейс,noun,flight,journey made by an aircraft
+прогі́н,noun,flight,set of stairs
+прогоно́ва будо́ва,noun,flight,floor of building
+прогі́н,noun,flight,floor of building
 підло́га,noun,floor,bottom part of a room
+дно,noun,floor,lower inside surface of a hollow space
+по́верх,noun,floor,horizontal structure dividing a building
 кві́тка,noun,flower,reproductive structure in angiosperms
 цвіт,noun,flower,reproductive structure in angiosperms
+кві́тка,noun,flower,"plant that bears flowers, especially a plant that is small and lacks wood"
 літа́ти,verb,fly,to travel through air
 леті́ти,verb,fly,to travel through air
 слі́дувати,verb,follow,to go or come after in physical space
 сліди́ти,verb,follow,to go or come after in physical space
+слі́дувати,verb,follow,to go or come after in a sequence
+дотри́муватися,verb,follow,to carry out in accordance to
+дотри́муватися,verb,follow,to live one’s life according to
+сте́жити,verb,follow,to keep track of
+слідкува́ти,verb,follow,to keep track of
 ї́жа,noun,food,any substance consumed by living organisms to sustain life
 харчува́ння,noun,food,any substance consumed by living organisms to sustain life
 ї́дло,noun,food,any substance consumed by living organisms to sustain life
+харч,noun,food,anything intended to supply energy or nourishment of other forms
+харчі́,noun,food,anything intended to supply energy or nourishment of other forms
+ї́жа,noun,food,foodstuff
+харч,noun,food,foodstuff
+харчі́,noun,food,foodstuff
+ї́дло,noun,food,foodstuff
 нога́,noun,foot,part of human body
 ступня́,noun,foot,part of human body
 стопа́,noun,foot,part of human body
+нога́,noun,foot,part of animal’s body
+фут,noun,foot,unit of measure
 футбо́л,noun,football,association football
 со́кер,noun,football,association football
 ко́паний м’яч,noun,football,association football
@@ -522,11 +949,17 @@ word,part_of_speech,english_word,sense
 при́язний,adj,friendly,"approachable, warm"
 дру́жній,adj,friendly,"approachable, warm"
 при́ятельський,adj,friendly,"approachable, warm"
+дру́жній,adj,friendly,characteristic of friendliness
+при́ятельський,adj,friendly,characteristic of friendliness
 пере́дній,adj,front,located at or near the front
 чі́льний,adj,front,located at or near the front
 плід,noun,fruit,part of plant
 фрукт,noun,fruit,part of plant
+фрукт,noun,fruit,food
+плід,noun,fruit,figuratively: positive end result or reward of labour or effort
+плід,noun,fruit,figuratively: child of a marriage
 по́вний,adj,full,containing the maximum possible amount
+си́тий,adj,full,"satisfied, in relation to eating"
 поті́ха,noun,fun,enjoyment or amusement
 заба́ва,noun,fun,enjoyment or amusement
 розва́га,noun,fun,enjoyment or amusement
@@ -536,11 +969,17 @@ word,part_of_speech,english_word,sense
 майбу́тнє,noun,future,the time ahead
 гра,noun,game,"playful activity that may be unstructured, amusement, pastime"
 ігра́,noun,game,"playful activity that may be unstructured, amusement, pastime"
+дичина́,noun,game,wild animals hunted for food
 сад,noun,garden,piece of land outside with flowers and plants
+горо́д,noun,garden,a vegetable garden
+сад,noun,garden,grounds at the front or back of a house
+го́род,noun,garden,grounds at the front or back of a house
 геогра́фія,noun,geography,study of physical structure and inhabitants of the Earth
 земле́пис,noun,geography,study of physical structure and inhabitants of the Earth
 дістава́ти,verb,get,to obtain
 діста́ти,verb,get,to obtain
+отри́мувати,verb,get,to receive
+оде́ржувати,verb,get,to receive
 ді́вчина,noun,girl,young female person
 дівчи́на,noun,girl,young female person
 ді́вчинка,noun,girl,young female person
@@ -550,12 +989,16 @@ word,part_of_speech,english_word,sense
 ді́вчина,noun,girlfriend,a female partner in a romantic relationship
 подру́га,noun,girlfriend,a female partner in a romantic relationship
 при́ятелька,noun,girlfriend,a female partner in a romantic relationship
+подру́га,noun,girlfriend,a female friend
+при́ятелька,noun,girlfriend,a female friend
 дава́ти,verb,give,transfer the possession of something to someone else
 да́ти,verb,give,transfer the possession of something to someone else
 дарува́ти,verb,give,transfer the possession of something to someone else
 подарува́ти,verb,give,transfer the possession of something to someone else
 скло,noun,glass,substance
 шкло,noun,glass,substance
+скля́нка,noun,glass,drinking vessel
+стака́н,noun,glass,drinking vessel
 ходи́ти,verb,go,to move through space (especially from one place to another)
 іти́,verb,go,to move through space (especially from one place to another)
 йти,verb,go,to move through space (especially from one place to another)
@@ -566,15 +1009,28 @@ word,part_of_speech,english_word,sense
 до́брий,adj,good,acting in the interest of good; ethical good intentions
 хоро́ший,adj,good,acting in the interest of good; ethical good intentions
 га́рний,adj,good,acting in the interest of good; ethical good intentions
+до́брий,adj,good,useful for a particular purpose
+хоро́ший,adj,good,useful for a particular purpose
+до́брий,adj,good,"of food, having a particularly pleasant taste"
+смачни́й,adj,good,"of food, having a particularly pleasant taste"
 дід,noun,grandfather,grandfather (from either side)
 діду́сь,noun,grandfather,grandfather (from either side)
 бабу́ся,noun,grandmother,mother of someone's parent
 ба́ба,noun,grandmother,mother of someone's parent
 вели́кий,adj,great,"very big, large scale"
+прекра́сний,adj,great,very good
+чудо́вий,adj,great,very good
+чуде́сний,adj,great,very good
 зеле́ний,noun,green,colour
 гру́па,noun,group,number of things or persons being in some relation to each other
+гру́па,noun,group,in group theory
 рости́,verb,grow,(intransitive) to become bigger
 ви́рости,verb,grow,(intransitive) to become bigger
+рости́,verb,grow,(intransitive) to appear or sprout
+зроста́ти,verb,grow,(intransitive) to appear or sprout
+вироста́ти,verb,grow,(intransitive) to appear or sprout
+виро́щувати,verb,grow,(transitive) to cause something to become bigger
+рости́ти,verb,grow,(transitive) to cause something to become bigger
 здо́гадка,noun,guess,prediction about the outcome of something
 здога́дка,noun,guess,prediction about the outcome of something
 здо́гад,noun,guess,prediction about the outcome of something
@@ -589,8 +1045,13 @@ word,part_of_speech,english_word,sense
 спорти́вний зал,noun,gym,sporting facility specialized for lifting weights and exercise
 волоси́на,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
 во́лос,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+воло́сся,noun,hair,mass of such filaments on the human head
+во́лос,noun,hair,mass of such filaments on the human head
+во́лоси,noun,hair,mass of such filaments on the human head
+воло́сся,noun,hair,mass of such filaments growing from the skin of humans and animals
 полови́на,noun,half,one of two equal parts into which anything may be divided
 рука́,noun,hand,part of the fore limb
+стрі́лка,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
 става́тися,verb,happen,to occur
 ста́тися,verb,happen,to occur
 трапля́тися,verb,happen,to occur
@@ -613,19 +1074,46 @@ word,part_of_speech,english_word,sense
 у/в тебе,verb,have,to possess
 etc. See у,verb,have,to possess
 в,verb,have,to possess
+мати,verb,have,engage in sexual intercourse with
 голова́,noun,head,part of the body
+голова́,noun,head,individual person
+верши́на,noun,head,topmost or leading part
+верхови́на,noun,head,topmost or leading part
+верхі́вка,noun,head,topmost or leading part
+верхі́в'я,noun,head,topmost or leading part
+верх,noun,head,topmost or leading part
+голо́вка,noun,head,"end of hammer, axe, golf club etc."
+голо́вка,noun,head,"blunt end of a nail, screw etc."
+наконе́чник,noun,head,"sharp end of an arrow, spear, or pointer"
+ві́стря,noun,head,"sharp end of an arrow, spear, or pointer"
+голо́вка,noun,head,element which reads or writes electromagnetic signals to or from a storage medium
+голо́вка,noun,head,computing: part of a disk drive responsible for reading and writing data
+голова́,noun,head,"leader, chief, mastermind"
+керівни́к,noun,head,"leader, chief, mastermind"
+керівни́ця,noun,head,"leader, chief, mastermind"
+дире́ктор,noun,head,"headmaster, headmistress"
+дире́кторка,noun,head,"headmaster, headmistress"
 здоро́в'я,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+здоро́в'я,noun,health,physical condition
 здоро́вий,adj,healthy,enjoying good health
+здоро́вий,adj,healthy,conducive to health
 чу́ти,verb,hear,to perceive with the ear
 почу́ти,verb,hear,to perceive with the ear
+чу́ти,verb,hear,to perceive sounds through the ear
 допомо́га,noun,help,action given to provide assistance
 по́міч,noun,help,action given to provide assistance
+помічни́к,noun,help,person or persons who provides assistance with some task
+помічни́ця,noun,help,person or persons who provides assistance with some task
 тут,adv,here,"in, on, or at this place"
+сюди́,adv,here,to this place
 висо́кий,adj,high,elevated; tall
 істо́рія,noun,history,aggregate of past events
+істо́рія,noun,history,branch of knowledge that studies the past
+мину́ле,noun,history,something that no longer exists or is no longer relevant
 хо́бі,noun,hobby,activity done for enjoyment in spare time
 захо́плення,noun,hobby,activity done for enjoyment in spare time
 вдо́ма,adv,home,at home
+додо́му,adv,home,homewards
 дома́шнє завда́ння,noun,homework,work that is done at home
 дома́шня робо́та,noun,homework,work that is done at home
 наді́ятися,verb,hope,"to want something to happen, with expectation that it might"
@@ -637,13 +1125,25 @@ etc. See у,verb,have,to possess
 го́спіталь,noun,hospital,large medical facility
 болни́ця,noun,hospital,large medical facility
 гаря́чий,adj,hot,having a high temperature
+спеко́тний,adj,hot,of the weather
+жарки́й,adj,hot,of the weather
+спеко́тливий,adj,hot,of the weather
+спекотли́вий,adj,hot,of the weather
+гаря́чий,adj,hot,of the weather
+спе́чний,adj,hot,of the weather
+го́стрий,adj,hot,spicy
+пря́ний,adj,hot,spicy
 готе́ль,noun,hotel,establishment providing accommodation
 гости́ниця,noun,hotel,establishment providing accommodation
 годи́на,noun,hour,time period of sixty minutes
 ха́та,noun,house,human abode
 дім,noun,house,human abode
 буди́нок,noun,house,human abode
+пала́та,noun,house,debating chamber for government politicians
 як,adv,how,to what degree
+як,adv,how,in what manner
+як са́ме,adv,how,in what manner
+як,adv,how,in what state
 одна́к,adv,however,nevertheless
 проте́,adv,however,nevertheless
 голо́дний,adj,hungry,affected by hunger; desirous of food
@@ -651,8 +1151,12 @@ etc. See у,verb,have,to possess
 муж,noun,husband,male partner in marriage
 лід,noun,ice,water in frozen form
 кри́га,noun,ice,water in frozen form
+моро́зиво,noun,ice,frozen dessert
+моро́жене,noun,ice,frozen dessert
 моро́зиво,noun,ice cream,dessert
 моро́жене,noun,ice cream,dessert
+іде́я,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+ду́мка,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 уявля́ти,verb,imagine,(transitive) to form a mental image of something
 уяви́ти,verb,imagine,(transitive) to form a mental image of something
 важли́вий,adj,important,having relevant and crucial value
@@ -662,6 +1166,10 @@ etc. See у,verb,have,to possess
 полі́пшити,verb,improve,to make something better
 покра́щувати,verb,improve,to make something better
 покра́щити,verb,improve,to make something better
+полі́пшуватися,verb,improve,to become better
+полі́пшитися,verb,improve,to become better
+покра́щуватися,verb,improve,to become better
+покра́щитися,verb,improve,to become better
 інформа́ція,noun,information,communicable knowledge
 ціка́вити,verb,interest,to attract attention or concern
 інтересува́ти,verb,interest,to attract attention or concern
@@ -671,101 +1179,206 @@ etc. See у,verb,have,to possess
 предста́вити,verb,introduce,to cause someone to be acquainted
 знайо́мити,verb,introduce,to cause someone to be acquainted
 познайо́мити,verb,introduce,to cause someone to be acquainted
+запрова́джувати,verb,introduce,to bring into practice — see also bring in
+запрова́дити,verb,introduce,to bring into practice — see also bring in
+вво́дити,verb,introduce,to bring into practice — see also bring in
+ввести́,verb,introduce,to bring into practice — see also bring in
 о́стрів,noun,island,area of land completely surrounded by water
 ку́ртка,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
 дже́кет,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+піджа́к,noun,jacket,piece of a person's suit
 джи́нси,noun,jeans,denim trousers
 робо́та,noun,job,task
 пра́ця,noun,job,task
 завда́ння,noun,job,task
 ді́ло,noun,job,task
+робо́та,noun,job,economic role for which a person is paid
+пра́ця,noun,job,economic role for which a person is paid
 з'є́днувати,verb,join,to combine more than one item into one; to put together
 з'єдна́ти,verb,join,to combine more than one item into one; to put together
 об'є́днувати,verb,join,to combine more than one item into one; to put together
 об'єдна́ти,verb,join,to combine more than one item into one; to put together
+з'є́днуватися,verb,join,to come together; to meet
+з'єдна́тися,verb,join,to come together; to meet
+об'є́днуватися,verb,join,to come together; to meet
+об'єдна́тися,verb,join,to come together; to meet
+приє́днуватися,verb,join,to come into the company of
+приєдна́тися,verb,join,to come into the company of
+вступа́ти,verb,join,to become a member of
+вступи́ти,verb,join,to become a member of
 сік,noun,juice,liquid from a plant
+сік,noun,juice,beverage made of juice
+що́йно,adv,just,"recently, moments ago"
+са́ме,adv,just,"exactly, precisely, perfectly"
 утри́мувати,verb,keep,to maintain possession of
+зберіга́ти,verb,keep,"to remain in, to be confined to"
+утри́мувати,verb,keep,to restrain
+трима́ти,verb,keep,to restrain
 ключови́й,adj,key,indispensable
 вид,noun,kind,"type, race, category"
 тип,noun,kind,"type, race, category"
 ку́хня,noun,kitchen,room
 зна́ти,verb,know,be justifiably certain or sure about (something true)
 ві́дати,verb,know,be justifiably certain or sure about (something true)
+зна́ти,verb,know,be acquainted or familiar with
 земля́,noun,land,part of Earth that is not covered by oceans or other bodies of water
 су́ша,noun,land,part of Earth that is not covered by oceans or other bodies of water
+краї́на,noun,land,country or region
+земля́,noun,land,country or region
 мо́ва,noun,language,body of words used as a form of communication
+мо́ва,noun,language,nonverbal communication
+мо́ва,noun,language,computer language — see also computer language
 вели́кий,adj,large,of greater size — see also big
 чима́лий,adj,large,of greater size — see also big
 здоро́вий,adj,large,of greater size — see also big
 пі́зно,adv,late,past a designated time
 пізні́ше,adv,later,more late
+пізні́ше,adv,later,afterward in time
 сміх,noun,laugh,expression of mirth peculiar to the human species
 ре́гіт,noun,laugh,expression of mirth peculiar to the human species
 вчи́тися,verb,learn,to acquire knowledge or ability
 навчи́тися,verb,learn,to acquire knowledge or ability
 навча́тися,verb,learn,to acquire knowledge or ability
 вивча́ти,verb,learn,to acquire knowledge or ability
+вчи́тися,verb,learn,to attend educational activity
+навча́тися,verb,learn,to attend educational activity
+вчи́ти,verb,learn,to attend educational activity
+вивча́ти,verb,learn,to attend educational activity
 залиша́ти,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 залиши́ти,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+покида́ти,verb,leave,"to depart from, end one's connection or affiliation with"
+поки́нути,verb,leave,"to depart from, end one's connection or affiliation with"
+відхо́дити,verb,leave,to depart (intransitive)
+відійти́,verb,leave,to depart (intransitive)
+від'їжджа́ти,verb,leave,to depart (intransitive)
+від'ї́хати,verb,leave,to depart (intransitive)
 нога́,noun,leg,lower limb from groin to ankle
+холоша,noun,leg,part of garment covering the leg
+колоша,noun,leg,part of garment covering the leg
+ета́п,noun,leg,stage of journey
 уро́к,noun,lesson,section of learning or teaching
 ле́кція,noun,lesson,section of learning or teaching
 пуска́ти,verb,let,allow
 пусти́ти,verb,let,allow
 дозволя́ти,verb,let,allow
 дозво́лити,verb,let,allow
+хай,verb,let,introducing an imperative
+нехай,verb,let,introducing an imperative
 бу́ква,noun,letter,a symbol in an alphabet
 лі́тера,noun,letter,a symbol in an alphabet
+лист,noun,letter,written message
 бібліоте́ка,noun,library,"institution which holds books, etc."
 книгозбі́рня,noun,library,"institution which holds books, etc."
 книгозбі́р,noun,library,"institution which holds books, etc."
+бібліоте́ка,noun,library,collection of books
+книгозбі́р,noun,library,collection of books
+бібліоте́ка,noun,library,collection of records
+бібліоте́ка,noun,library,collection of subprograms
 бреха́ти,verb,lie,tell an intentional untruth
 лежа́ти,verb,lie,be in horizontal position
 лягти́,verb,lie,be in horizontal position
 життя́,noun,life,the state of being alive
 сві́тлий,adj,light,having light
+сві́тлий,adj,light,pale in colour
 ле́гкий,adj,light,of low weight
 люби́ти,verb,like,to enjoy
 моту́зка,noun,line,"rope, cord, or string"
 шнур,noun,line,"rope, cord, or string"
 ни́тка,noun,line,"rope, cord, or string"
+лі́нія,noun,line,"path through two or more points, threadlike mark"
+ри́са,noun,line,"path through two or more points, threadlike mark"
+пряма́,noun,line,geometry: infinite one-dimensional figure
+відрі́зок,noun,line,geometry: continuous finite segment of such a figure
+грани́ця,noun,line,graph theory: edge of a graph
+мередіа́н,noun,line,"geography: circle of latitude or of longitude, as represented on a map"
+лі́нія,noun,line,music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed
+руле́тка,noun,line,"long tape, or a narrow ribbon of steel, etc., marked with subdivisions, as feet and inches, for measuring; a tapeline"
+на́прям,noun,line,"direction, path"
+на́прямок,noun,line,"direction, path"
+телефонна лінія,noun,line,telephone or network connection
+лі́нія зі́ткнення,noun,line,fortifications: trench or rampart
+змо́ршка,noun,line,"threadlike crease marking the face or the hand; hence, characteristic mark — see also wrinkle"
+черга́,noun,line,"straight sequence of people, queue"
+роди́нна лі́нія,noun,line,series or succession of ancestors or descendants of a given person
+рядо́к,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+стрі́чка,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+купле́т,noun,line,poetic: verse
+ре́пліка,noun,line,"sentence of dialogue, especially in a script or screenplay"
+лі́нія,noun,line,"official, stated position of an individual or political faction"
+пози́ція,noun,line,"official, stated position of an individual or political faction"
+това́рна лі́нія,noun,line,"products or services sold by a business, or the business itself"
+лі́нія,noun,line,"measure of length, the main division of an inch or its local equivalent"
+лі́нієчка,noun,line,amount of powdery drug
 лев,noun,lion,big cat Panthera leo
 слу́хати,verb,listen,to pay attention to a sound
+слу́хати,verb,listen,to expect or wait for a sound
+слу́хати,verb,listen,to accept advice or obey instruction
+послу́хати,verb,listen,to accept advice or obey instruction
+слу́хатися impf reflexive,verb,listen,to accept advice or obey instruction
+послу́хатися,verb,listen,to accept advice or obey instruction
+чу́ти,verb,listen,to hear (something)
 мале́нький,adj,little,small in size
 мали́й,adj,little,small in size
 жи́ти,verb,live,be alive
+жи́ти,verb,live,have permanent residence
+прожива́ти,verb,live,have permanent residence
+ме́шкати,verb,live,have permanent residence
+пережива́ти,verb,live,"survive, persevere, continue"
+пережи́ти,verb,live,"survive, persevere, continue"
+вижива́ти,verb,live,"survive, persevere, continue"
+ви́жити,verb,live,"survive, persevere, continue"
 місце́вий,adj,local,of a nearby location
 туте́шній,adj,local,of a nearby location
 лока́льний,adj,local,of a nearby location
+до́вго,adv,long,for a long duration
 диви́тися,verb,look,to try to see
 подиви́тися,verb,look,to try to see
+вигляда́ти,verb,look,"to appear, to seem"
 втрача́ти,verb,lose,cause (something) to cease to be in one's possession or capability
 втра́тити,verb,lose,cause (something) to cease to be in one's possession or capability
 губи́ти,verb,lose,cause (something) to cease to be in one's possession or capability
 загуби́ти,verb,lose,cause (something) to cease to be in one's possession or capability
+програва́ти,verb,lose,(transitive) fail to win
+програ́ти,verb,lose,(transitive) fail to win
+програва́ти,verb,lose,fail to be the winner
+програ́ти,verb,lose,fail to be the winner
+прога́дувати,verb,lose,fail to be the winner
+прогада́ти,verb,lose,fail to be the winner
 люби́ти,verb,love,have a strong affection for
 коха́ти,verb,love,have a strong affection for
+коха́тися,verb,love,(euphemistic): to have sex with
+займа́тися любо́в'ю,verb,love,(euphemistic): to have sex with
 обі́д,noun,lunch,meal around midday
 ланч,noun,lunch,meal around midday
 маши́на,noun,machine,mechanical or electrical device
 журна́л,noun,magazine,periodical
 часо́пис,noun,magazine,periodical
+магази́н,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 головни́й,adj,main,"chief, most important, or principal in extent, etc."
 основни́й,adj,main,"chief, most important, or principal in extent, etc."
 роби́ти,verb,make,to construct
 зроби́ти,verb,make,to construct
 виготовля́ти,verb,make,to construct
 вигото́вити,verb,make,to construct
+торго́вий центр,noun,mall,enclosed shopping centre
 чолові́к,noun,man,adult male human
 муж,noun,man,adult male human
 мужчи́на,noun,man,adult male human
+люди́на,noun,man,a human being
+лю́ди,noun,man,a human being
 ка́рта,noun,map,visual representation of an area
 ма́па,noun,map,visual representation of an area
 план,noun,map,visual representation of an area
+ри́нок,noun,market,spacious site for trading
+база́р,noun,market,spacious site for trading
 жона́тий,adj,married,in a state of marriage; having a wife or a husband
 замі́жня,adj,married,in a state of marriage; having a wife or a husband
 заму́жня,adj,married,in a state of marriage; having a wife or a husband
 одру́жений,adj,married,in a state of marriage; having a wife or a husband
+замі́жня,adj,married,in a state of marriage; having a husband
+одру́жена,adj,married,in a state of marriage; having a husband
+одру́жений,adj,married,in a state of marriage; having a wife
+жона́тий,adj,married,in a state of marriage; having a wife
 збіга́тися,verb,match,intransitive: to agree; to be equal
 зійтися,verb,match,intransitive: to agree; to be equal
 відповіда́ти,verb,match,intransitive: to agree; to be equal
@@ -779,50 +1392,92 @@ etc. See у,verb,have,to possess
 бо́рошно,noun,meal,coarse-ground edible part of various grains
 мука́,noun,meal,coarse-ground edible part of various grains
 збира́тися,verb,mean,to intend; plan on doing
+збира́тися,verb,mean,to have intentions of some kind
+означа́ти,verb,mean,"to convey, indicate"
+зна́чити,verb,mean,"to convey, indicate"
+ма́ти на ува́зі,verb,mean,to signify
+ма́ти на ува́зі,verb,mean,to have conviction in what one says
+дума́ти,verb,mean,to have conviction in what one says
+зна́чити,verb,mean,to result in; bring about
+означа́ти,verb,mean,to result in; bring about
 зна́чення,noun,meaning,symbolic value of something
+сенс,noun,meaning,"significance of a thing, as ""the meaning of life"""
+зна́чення,noun,meaning,"significance of a thing, as ""the meaning of life"""
+смисл,noun,meaning,"significance of a thing, as ""the meaning of life"""
+зна́чення,noun,meaning,definition or connotation of a word
+сенс,noun,meaning,definition or connotation of a word
+смисл,noun,meaning,definition or connotation of a word
 м'я́со,noun,meat,animal flesh used as food
 зустріча́ти,verb,meet,to come face to face with by accident; to encounter
 зустрі́ти,verb,meet,to come face to face with by accident; to encounter
 зу́стріч,noun,meeting,action noun of the verb to meet
+збо́ри,noun,meeting,gathering for a purpose
+зу́стріч,noun,meeting,gathering for a purpose
+засі́дання,noun,meeting,gathering for a purpose
+зу́стріч,noun,meeting,encounter between people
 член,noun,member,one who officially belongs to a group
 чле́нка,noun,member,one who officially belongs to a group
 меню́,noun,menu,details of the food to be served at a banquet
+меню́,noun,menu,list of dishes offered in a restaurant
 повідо́млення,noun,message,"communication, concept or information conveyed"
 ме́седж,noun,message,"communication, concept or information conveyed"
+посла́ння,noun,message,underlying theme
+ме́седж,noun,message,underlying theme
 лічи́льник,noun,meter,measuring instrument
 вимі́рник,noun,meter,measuring instrument
 вимі́рювач,noun,meter,measuring instrument
+пі́вніч,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 ми́ля,noun,mile,measure of length
+ву́зол,noun,mile,informal: one mile per hour
 молоко́,noun,milk,liquid
 хвили́на,noun,minute,unit of time
+міну́та,noun,minute,unit of angular measure — see also minute of angle
+протоко́л,noun,minute,record of meeting
+сумува́ти,verb,miss,to feel the absence of someone or something; to feel the want or need of
+скуча́ти,verb,miss,to feel the absence of someone or something; to feel the want or need of
+пропустити,verb,miss,to fail to attend
 поми́лка,noun,mistake,an error
 по́милка,noun,mistake,an error
 моде́ль,noun,model,person
+моде́ль,noun,model,simplified representation
+маке́т,noun,model,simplified representation
 суча́сний,adj,modern,pertaining to the current time and style
 моме́нт,noun,moment,very brief period of time
 мить,noun,moment,very brief period of time
 хвили́на,noun,moment,very brief period of time
 хви́лька,noun,moment,very brief period of time
 хвили́нка,noun,moment,very brief period of time
+моме́нт,noun,moment,moment in time
 гро́ші,noun,money,means of exchange and measure of value
 гро́шики,noun,money,means of exchange and measure of value
 грошеня́та,noun,money,means of exchange and measure of value
 грошва́,noun,money,means of exchange and measure of value
 мі́сяць,noun,month,period into which a year is divided
 ра́нок,noun,morning,part of the day between dawn and midday
+ра́нок,noun,morning,the part of the day after midnight and before midday
 ма́ти,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 ма́ма,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 ма́тір,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 не́ня,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 мату́ся,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 ма́мця,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+ма́ти,noun,mother,one’s female parent
+ма́ти,noun,mother,female parent of an animal
 гора́,noun,mountain,large mass of earth and rock
 ми́ша,noun,mouse,rodent of the genus Mus
 миш,noun,mouse,rodent of the genus Mus
 ми́шка,noun,mouse,rodent of the genus Mus
 миша́к,noun,mouse,rodent of the genus Mus
+ми́шка,noun,mouse,computing: input device
+ми́ша,noun,mouse,computing: input device
 рот,noun,mouth,the opening of a creature through which food is ingested
+ги́рло,noun,mouth,the end of a river out of which water flows
 ру́хатися,verb,move,(intransitive) to change place or posture; to go
+ді́яти,verb,move,to act; to take action
+переїжджа́ти,verb,move,to change residence
+переї́хати,verb,move,to change residence
+ру́хати,verb,move,(transitive) to change the place of something
+ру́хати,verb,move,to cause to change place or posture; to set in motion
 фільм,noun,movie,motion picture
 кіно́,noun,movie,motion picture
 кінофі́льм,noun,movie,motion picture
@@ -839,43 +1494,115 @@ etc. See у,verb,have,to possess
 іменува́ти,verb,name,to give a name to
 наймено́вувати,verb,name,to give a name to
 найменува́ти,verb,name,to give a name to
+назива́ти,verb,name,"to mention, specify"
+назва́ти,verb,name,"to mention, specify"
+зга́дувати,verb,name,"to mention, specify"
+згада́ти,verb,name,"to mention, specify"
+визнача́ти,verb,name,"to identify, define, specify"
+ви́значити,verb,name,"to identify, define, specify"
+звинува́чувати,verb,name,to publicly implicate
+звинува́тити,verb,name,to publicly implicate
+признача́ти,verb,name,to designate for a role
+призна́чити,verb,name,to designate for a role
+приро́дний,adj,natural,of or relating to nature
+природни́чий,adj,natural,of or relating to nature
+натура́льний,adj,natural,without additives
+натура́льний,adj,natural,as expected
 бли́зько,adv,near,at or towards a position close in space or time
 потребува́ти,verb,need,to have an absolute requirement for
 від'є́мний,adj,negative,not positive or neutral
 негати́вний,adj,negative,not positive or neutral
 сусі́дство,noun,neighborhood,quality of being a neighbor
+сусі́дство,noun,neighborhood,area near one's home
+окру́га,noun,neighborhood,area near one's home
+око́лиці,noun,neighborhood,area near one's home
+сусі́ди,noun,neighborhood,inhabitants of a residential area
+окі́л,noun,neighborhood,topology: set containing an open set which contains some specified point
 ніко́ли,adv,never,at no time
 нови́й,adj,new,recently made or created
 нови́ни,noun,news,new information of interest
 ві́сті,noun,news,new information of interest
+нови́ни,noun,news,reports of current events
+ві́сті,noun,news,reports of current events
 газе́та,noun,newspaper,publication
 до́брий,adj,nice,"pleasant, satisfactory"
 фа́йний,adj,nice,"pleasant, satisfactory"
 приє́мний,adj,nice,"pleasant, satisfactory"
 ми́лий,adj,nice,"pleasant, satisfactory"
+ми́лий,adj,nice,"attractive, friendly"
+фа́йний,adj,nice,"attractive, friendly"
+прива́бливий,adj,nice,"attractive, friendly"
 ніч,noun,night,period between sunset and sunrise
+ве́чір,noun,night,evening or night spent at a particular activity
+ночі́вля,noun,night,night spent away from home
+ніч,noun,night,night spent away from home
+су́тінки,noun,night,nightfall
 на пі́вніч,adv,north,towards the north
 ніс,noun,nose,protuberance on the face
 не,adv,not,negates meaning of another word
 знак,noun,note,visible sign
+примі́тка,noun,note,marginal comment or explanation
+запи́ска,noun,note,memorandum
+циду́лка,noun,note,memorandum
+циду́ла,noun,note,memorandum
+замі́тка,noun,note,memorandum
+нота́тка,noun,note,memorandum
+запи́ска,noun,note,short informal letter
+циду́ла,noun,note,short informal letter
+циду́лка,noun,note,short informal letter
+но́та,noun,note,diplomatic missive or written communication
+но́та,noun,note,character indicating the length and pitch of a tone
+но́та,noun,note,musical sound
 тепе́р,adv,now,at the present time
 ни́ні,adv,now,at the present time
 зараз,adv,now,at the present time
 число́,noun,number,abstract entity used to describe quantity
+числі́вник,noun,number,numeral
+ци́фра,noun,number,numeral
+число́,noun,number,mathematics: number
+но́мер,noun,number,used to show the rank of something in a list or sequence
+число́,noun,number,quantity
+кі́лькість,noun,number,quantity
+но́мер,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+но́мер,noun,number,informal: telephone number
+число́,noun,number,"grammar: state of being singular, dual or plural"
+но́мер,noun,number,performance
 медсестра́,noun,nurse,person trained to provide care for the sick
 сестра́,noun,nurse,person trained to provide care for the sick
+ня́ня,noun,nurse,person who takes care of other people's young
+годува́льниця,noun,nurse,person who takes care of other people's young
 предме́т,noun,object,thing
 об'є́кт,noun,object,thing
 річ,noun,object,thing
+об'є́кт,noun,object,"the goal, end or purpose of something"
+дода́ток,noun,object,in grammar
+об'є́кт,noun,object,in grammar
 океа́н,noun,ocean,one of the large bodies of water
+поса́да,noun,office,position of responsibility
+пост,noun,office,position of responsibility
+пози́ція,noun,office,position of responsibility
+о́фіс,noun,office,room(s) or building used for non-manual work
+конто́ра,noun,office,room(s) or building used for non-manual work
+бюро́,noun,office,room(s) or building used for non-manual work
+канцеля́рія,noun,office,room(s) or building used for non-manual work
 ча́сто,adv,often,"frequently, many times"
 стари́й,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+стари́й,adj,old,of a living being: having lived for relatively many years
+лі́тній,adj,old,of a living being: having lived for relatively many years
+у літа́х,adj,old,of a living being: having lived for relatively many years
+немолоди́й,adj,old,of a living being: having lived for relatively many years
+підста́ркуватий,adj,old,of a living being: having lived for relatively many years
 раз,adv,once,one and only one time
 оди́н раз,adv,once,one and only one time
+коли́сь,adv,once,formerly
 цибу́ля,noun,onion,Allium cepa
 лук,noun,onion,Allium cepa
+лу́ковиця,noun,onion,bulb
+цибу́лина,noun,onion,bulb
 онла́йн,adj,online,connected to a network
 онла́йновий,adj,online,connected to a network
+в мере́жі́,adj,online,connected to the Internet
+у мере́жі́,adj,online,connected to the Internet
 ті́льки,adv,only,without others or anything further; exclusively
 лише́,adv,only,without others or anything further; exclusively
 відкрива́ти,verb,open,to make something accessible
@@ -888,17 +1615,32 @@ etc. See у,verb,have,to possess
 жовтогаря́чий,adj,orange,having the colour of the fruit of an orange tree
 ора́нжевий,adj,orange,having the colour of the fruit of an orange tree
 помара́нчевий,adj,orange,having the colour of the fruit of an orange tree
+нака́зувати,verb,order,to issue a command
+наказа́ти,verb,order,to issue a command
+прика́зувати,verb,order,to issue a command
+приказа́ти,verb,order,to issue a command
+замовля́ти,verb,order,to request some product or service
+замо́вити,verb,order,to request some product or service
 зо́вні,adv,outside,in or to the outside
+зо́вні,adv,outside,outdoors
+на ву́лиці,adv,outside,outdoors
+зно́ву,adv,over,again
 свій,adj,own,belonging to (determiner)
 вла́сний,adj,own,belonging to (determiner)
 паж,noun,page,serving boy
 сторі́нка,noun,page,one side of a leaf of a book
+сторі́нка,noun,page,one of the pieces of paper bound together within a book or document
 фа́рба,noun,paint,substance
 ба́рва,noun,paint,substance
+фа́рби,noun,paint,paints: set of containers or blocks of paints of different colours
 карти́на,noun,painting,an illustration or artwork using paint
+живо́пис,noun,painting,artistic application of paint
+маля́рство,noun,painting,artistic application of paint
 па́ра,noun,pair,two similar or identical things
 штани́,noun,pants,garment covering the body from the waist downwards
+труси́,noun,pants,undergarment covering the genitals
 папі́р,noun,paper,sheet material
+докуме́нт,noun,paper,written document shorter than a book
 пара́граф,noun,paragraph,passage in text
 абза́ц,noun,paragraph,passage in text
 роди́тель,noun,parent,person from whom one is descended
@@ -914,8 +1656,16 @@ etc. See у,verb,have,to possess
 партне́рка,noun,partner,someone who is associated with another in a common activity or interest
 компаньйо́н,noun,partner,someone who is associated with another in a common activity or interest
 компаньйо́нка,noun,partner,someone who is associated with another in a common activity or interest
+партне́р,noun,partner,"spouse, domestic, or romantic partner"
+партне́рка,noun,partner,"spouse, domestic, or romantic partner"
+супру́г,noun,partner,"spouse, domestic, or romantic partner"
+супру́га,noun,partner,"spouse, domestic, or romantic partner"
+вечі́рка,noun,party,social gathering
+тусо́вка,noun,party,social gathering
+прийо́м,noun,party,social gathering
 па́спорт,noun,passport,official document for foreign travel
 мину́ле,noun,past,period of time that has already happened
+мину́лий час,noun,past,(grammar) past tense
 плати́ти,verb,pay,to give money in exchange for goods or services
 заплати́ти,verb,pay,to give money in exchange for goods or services
 ру́чка,noun,pen,writing tool
@@ -923,12 +1673,32 @@ etc. See у,verb,have,to possess
 загі́н,noun,pen,enclosure (enclosed area) for animals
 оліве́ць,noun,pencil,graphite writing-instrument
 лю́ди,noun,people,a body of human beings; a group of two or more persons
+наро́д,noun,people,a group of persons forming or belonging to a particular nation etc.
+на́ція,noun,people,a group of persons forming or belonging to a particular nation etc.
+пе́рець,noun,pepper,spice
 доскона́лий,adj,perfect,fitting its definition precisely
+ідеа́льний,adj,perfect,having all of its parts in harmony with a common purpose
+доверше́ний,adj,perfect,having all of its parts in harmony with a common purpose
+доскона́лий,adj,perfect,without fault or mistake
+доко́наний,adj,perfect,grammar: of a tense or verb form: representing a completed action
 пері́од,noun,period,a length of time
 про́міжок,noun,period,a length of time
+пері́од,noun,period,history: period of time seen as coherent entity
+кра́пка,noun,period,punctation mark “.”
 осо́ба,noun,person,individual
 персо́на,noun,person,individual
 люди́на,noun,person,individual
+люди́на,noun,person,"specifically a human being — see also human, human being, man"
+персона́ж,noun,person,"character or part, as in a play"
+геро́й,noun,person,"character or part, as in a play"
+герої́ня,noun,person,"character or part, as in a play"
+дійова́ осо́ба,noun,person,"character or part, as in a play"
+осо́ба,noun,person,the physical body seen as distinct from the mind
+осо́ба,noun,person,grammar: linguistic category
+особи́стий,adj,personal,of or pertaining to a particular person
+персона́льний,adj,personal,of or pertaining to a particular person
+особо́вий,adj,personal,of or pertaining to a particular person
+особо́вий,adj,personal,grammar: denoting person
 дзвони́ти,verb,phone,to call (someone) on the telephone
 подзвони́ти,verb,phone,to call (someone) on the telephone
 телефонува́ти,verb,phone,to call (someone) on the telephone
@@ -942,47 +1712,130 @@ etc. See у,verb,have,to possess
 фра́за,noun,phrase,short written or spoken expression
 ви́слів,noun,phrase,short written or spoken expression
 ре́чення,noun,phrase,short written or spoken expression
+словосполу́чення,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+фра́за,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+фра́за,noun,phrase,music: small section of music in a larger piece
 фортепіа́но,noun,piano,a keyboard musical instrument
 карти́на,noun,picture,"representation of visible reality produced by drawing, etc"
 рису́нок,noun,picture,"representation of visible reality produced by drawing, etc"
 малю́нок,noun,picture,"representation of visible reality produced by drawing, etc"
 о́браз,noun,picture,"representation of visible reality produced by drawing, etc"
+фотогра́фія,noun,picture,photograph
+фотозні́мок,noun,picture,photograph
+зні́мок,noun,picture,photograph
+фо́то,noun,picture,photograph
+фо́тка,noun,picture,photograph
+світли́на,noun,picture,photograph
+фільм,noun,picture,cinema
+кіно́,noun,picture,cinema
+кінофі́льм,noun,picture,cinema
+стрі́чка,noun,picture,cinema
 шмато́к,noun,piece,part of a larger whole
 кава́лок,noun,piece,part of a larger whole
 части́на,noun,piece,part of a larger whole
 кусо́к,noun,piece,part of a larger whole
 шмат,noun,piece,part of a larger whole
+шту́ка,noun,piece,single item belonging to a class of similar items
+фігу́ра,noun,piece,chess: figure other than pawn; similar counter in other games
+фі́шка,noun,piece,chess: figure other than pawn; similar counter in other games
+твір,noun,piece,artistic creation
+п'є́са,noun,piece,artistic creation
 свиня́,noun,pig,mammal of genus Sus
 роже́вий,noun,pink,pale red colour
 мі́сце,noun,place,"location, position"
+пло́ща,noun,place,"open space, courtyard, market square"
+майда́н,noun,place,"open space, courtyard, market square"
+насе́лений пункт,noun,place,"inhabited area: a village, town, or city"
+мі́сце,noun,place,any area of the earth
+мі́сце,noun,place,"area one occupies, particularly for sitting"
+сиді́ння,noun,place,"area one occupies, particularly for sitting"
+житло́,noun,place,house or home
+дім,noun,place,house or home
+вбира́льня,noun,place,euphemism: outhouse or lavatory
+убира́льня,noun,place,euphemism: outhouse or lavatory
+ви́тяг,noun,place,passage or extract from a book or document
+стан,noun,place,frame of mind
+психі́чний стан,noun,place,frame of mind
+роль,noun,place,"role or purpose, station"
+мі́сце,noun,place,the position of a contestant in a competition
+мі́сце,noun,place,the position as a member of a team
+поса́да,noun,place,the position as a member of a team
+січ,noun,place,"fortified position: fortress, citadel or walled town"
+пози́ція,noun,place,numeric: the column counting a certain quantity
+по-...,noun,place,ordinal relation
+вплив,noun,place,reception; effect
+планува́ти,verb,plan,to create a plan for
+спланува́ти,verb,plan,to create a plan for
 чинар,noun,plane,deciduous tree
 руба́нок,noun,plane,a tool
 ге́мбель,noun,plane,a tool
 літак,noun,plane,airplane
 росли́на,noun,plant,organism capable of photosynthesis
 гра,noun,play,playful activity
+гра,noun,play,individual's performance in a sport
+п'є́са,noun,play,literary composition intended to be represented
+п'є́са,noun,play,theatrical performance
+спекта́кль,noun,play,theatrical performance
+виста́ва,noun,play,theatrical performance
 граве́ць,noun,player,one who plays any game or sport
 грач,noun,player,one who plays any game or sport
 грець,noun,player,one who plays any game or sport
+граве́ць,noun,player,gambler — see also gambler
+пле́єр,noun,player,electronic device
+програва́ч,noun,player,electronic device
+пле́єр,noun,player,software application
 пункт,noun,point,element in larger whole
+моме́нт,noun,point,particular moment in an event or occurrence
+ду́мка,noun,point,opinion which adds to the discussion
+по́гляд,noun,point,opinion which adds to the discussion
+то́чка зо́ру,noun,point,opinion which adds to the discussion
+ціль,noun,point,purpose or objective
+мета́,noun,point,purpose or objective
+мі́сце,noun,point,location or place
+пункт,noun,point,location or place
+кра́пка,noun,point,geometry: zero-dimensional object
+то́чка,noun,point,geometry: zero-dimensional object
+бал,noun,point,unit of scoring in a game or competition
+очко́,noun,point,unit of scoring in a game or competition
+вістря́,noun,point,sharp tip
+піво́стрів,noun,point,peninsula or promontory
 полі́ція,noun,police,local or general law enforcement agency
 мілі́ція,noun,police,local or general law enforcement agency
 басе́йн,noun,pool,body of water
 ставо́к,noun,pool,body of water
+калю́жа,noun,pool,small body of standing or stagnant water; a puddle
+фонд,noun,pool,supply of resources
+пул,noun,pool,supply of resources
 бі́дний,adj,poor,with few or no possessions or money
+пога́ний,adj,poor,of low quality
+бі́дний,adj,poor,used to express pity
+жалюгі́дний,adj,poor,used to express pity
 наро́дний,adj,popular,of or pertaining to the common people
+популя́рний,adj,popular,liked by many people
+дода́тний,adj,positive,mathematics: greater than zero
+позити́вний,adj,positive,mathematics: greater than zero
+позити́вний,adj,positive,characterised by constructiveness
 можли́вий,adj,possible,able but not certain to happen
 виві́шувати,verb,post,hang a notice in a conspicuous manner
+роби́ти до́пис,verb,post,send to an electronic forum
+допи́сувати,verb,post,send to an electronic forum
+публікува́ти до́пис,verb,post,(Internet) publish a message
 карто́пля,noun,potato,plant tuber eaten as starchy vegetable
 картопли́на,noun,potato,plant tuber eaten as starchy vegetable
 бу́льба,noun,potato,plant tuber eaten as starchy vegetable
 барабо́ля,noun,potato,plant tuber eaten as starchy vegetable
+фунт,noun,pound,unit of currency
 віддава́ти перева́гу,verb,prefer,to favor
 готува́ти,verb,prepare,to make ready for a specific future purpose
 підготува́ти,verb,prepare,to make ready for a specific future purpose
 приготува́ти,verb,prepare,to make ready for a specific future purpose
 гото́вити,verb,prepare,to make ready for a specific future purpose
 рихтува́ти,verb,prepare,to make ready for a specific future purpose
+готува́тися,verb,prepare,to make oneself ready
+гото́витися,verb,prepare,to make oneself ready
+підготува́тися,verb,prepare,to make oneself ready
+приготува́тися,verb,prepare,to make oneself ready
+рихтува́тися,verb,prepare,to make oneself ready
 спра́вжнє,noun,present,current time
 тепе́рішній час,noun,present,current time
 сьогоде́ння,noun,present,current time
@@ -994,9 +1847,21 @@ etc. See у,verb,have,to possess
 імові́рно,adv,probably,in all likelihood
 ймові́рно,adv,probably,in all likelihood
 пробле́ма,noun,problem,difficulty
+зада́ча,noun,problem,schoolwork exercise
+завда́ння,noun,problem,schoolwork exercise
 проду́кт,noun,product,commodity for sale
 това́р,noun,product,commodity for sale
+проду́кція,noun,product,amount created by a process
+ви́роблення,noun,product,amount created by a process
+результа́т,noun,product,consequence of efforts
+проду́кт,noun,product,consequence of efforts
+ви́слід,noun,product,consequence of efforts
+добу́ток,noun,product,multiplication result
 програ́ма,noun,program,set of structured activities
+програ́ма,noun,program,"leaflet listing information about a play, game or other activity"
+програ́ма,noun,program,performance of a show or other broadcast on radio or television
+переда́ча,noun,program,performance of a show or other broadcast on radio or television
+програ́ма,noun,program,software application
 проє́кт,noun,project,planned endeavor
 план,noun,project,planned endeavor
 фіолетовий,noun,purple,colour
@@ -1005,11 +1870,17 @@ etc. See у,verb,have,to possess
 ста́вити,verb,put,to place something somewhere
 поста́вити,verb,put,to place something somewhere
 чверть,noun,quarter,one of four equal parts — see also one-fourth
+четверта́к,noun,quarter,coin worth 25 cents
+ква́ртал,noun,quarter,period of three months
+кварта́л,noun,quarter,section of a town
 пита́ння,noun,question,"sentence, phrase or word"
+пита́ння,noun,question,subject or topic
 швидки́й,adj,quick,moving with speed
 хутки́й,adj,quick,moving with speed
 прудки́й,adj,quick,moving with speed
 би́стрий,adj,quick,moving with speed
+ско́рий,adj,quick,occurring in a short time
+швидки́й,adj,quick,occurring in a short time
 шви́дко,adv,quickly,"rapidly, fast"
 би́стро,adv,quickly,"rapidly, fast"
 ско́ро,adv,quickly,"rapidly, fast"
@@ -1018,14 +1889,28 @@ etc. See у,verb,have,to possess
 шпа́рко,adv,quickly,"rapidly, fast"
 бо́рзо,adv,quickly,"rapidly, fast"
 ти́хий,adj,quiet,with little sound
+спокі́йний,adj,quiet,having little motion
+ти́хий,adj,quiet,not busy
 цілко́м,adv,quite,to the greatest extent; completely
+по́вністю,adv,quite,in a fully justified sense; truly
+зо́всім,adv,quite,in a fully justified sense; truly
+до́сить,adv,quite,to a moderate extent
+дово́лі,adv,quite,to a moderate extent
 ра́діо,noun,radio,technology
+ра́діо,noun,radio,receiver
+радіоприйма́ч,noun,radio,receiver
+ра́діо,noun,radio,transmitter
+радіопередава́ч,noun,radio,transmitter
+радіоста́нція,noun,radio,transmitter
 дощи́ти,verb,rain,of rain: to fall from the sky
 чита́ти,verb,read,to look at and interpret letters or other information
 прочита́ти,verb,read,to look at and interpret letters or other information
 чита́ч,noun,reader,person who reads a publication
 чита́чка,noun,reader,person who reads a publication
+буква́р,noun,reader,"an elementary textbook for those learning to read, especially for foreign languages"
+хрестома́тія,noun,reader,"an elementary textbook for those learning to read, especially for foreign languages"
 чита́ння,noun,reading,process of interpreting written language
+чита́ння,noun,reading,one of several stages a bill passes through
 гото́вий,adj,ready,prepared for immediate action or use
 спра́вжній,adj,real,"true, genuine, not merely nominal"
 ді́йсний,adj,real,"true, genuine, not merely nominal"
@@ -1033,10 +1918,18 @@ etc. See у,verb,have,to possess
 реа́льний,adj,real,"true, genuine, not merely nominal"
 ді́йсно,adv,really,actually
 причи́на,noun,reason,that which causes: a cause
+ра́ція,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+до́від,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+ро́зум,noun,reason,(the capacity of the human mind for) rational thinking
 червоний,noun,red,colour
 заспоко́юватись,verb,relax,to calm down
+розслабля́тися,verb,relax,to become loose
+розсла́битися,verb,relax,to become loose
+послабля́ти,verb,relax,to make something less severe or tense
 пам'ята́ти,verb,remember,to recall from one's memory
 запам'ята́ти,verb,remember,to recall from one's memory
+запам'ято́вувати,verb,remember,to memorize
+запам'ята́ти,verb,remember,to memorize
 повто́рювати,verb,repeat,do or say again
 повтори́ти,verb,repeat,do or say again
 звіт,noun,report,information describing events
@@ -1048,21 +1941,44 @@ etc. See у,verb,have,to possess
 рестора́н,noun,restaurant,an eating establishment in which diners are served food
 результа́т,noun,result,that which results
 ви́слід,noun,result,that which results
+результа́т,noun,result,"fruit, beneficial or tangible effect"
+плід,noun,result,"fruit, beneficial or tangible effect"
+проду́кт,noun,result,"fruit, beneficial or tangible effect"
+результа́т,noun,result,sports: final score in a game
+раху́нок,noun,result,sports: final score in a game
 пове́рнення,noun,return,act of returning
+пове́рнення,noun,return,act of returning an item
 рис,noun,rice,plants
 риж,noun,rice,plants
+рис,noun,rice,seeds used as food
+риж,noun,rice,seeds used as food
 бага́тий,adj,rich,having wealth
 ї́хати,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 ї́здити,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 скака́ти,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+ї́хати,verb,ride,to be transported in a vehicle as a passenger
+ї́здити,verb,ride,to be transported in a vehicle as a passenger
+пра́во,noun,right,legal or moral entitlement
 ріка́,noun,river,large stream which drains a landmass
 рі́чка,noun,river,large stream which drains a landmass
+ріка́,noun,river,any large flow of a liquid
 доро́га,noun,road,a way for travel
 шлях,noun,road,a way for travel
 путь,noun,road,a way for travel
+мі́сце,noun,room,space
+про́стір,noun,room,space
+кімна́та,noun,room,division in a building
+покі́й,noun,room,division in a building
+ха́та,noun,room,division in a building
+світли́ця,noun,room,division in a building
 пра́вило,noun,rule,regulation
+правлі́ння,noun,rule,the act of ruling; control
+панува́ння,noun,rule,the act of ruling; control
 бі́гати,verb,run,to move quickly on two feet
 бі́гти,verb,run,to move quickly on two feet
+балотува́тися,verb,run,to be a candidate in an election
+смутни́й,adj,sad,feeling sorrow
+сумни́й,adj,sad,feeling sorrow
 сала́т,noun,salad,food
 сала́та,noun,salad,food
 сіль,noun,salt,sodium chloride
@@ -1070,10 +1986,30 @@ etc. See у,verb,have,to possess
 бутербро́д,noun,sandwich,dish — see also open sandwich
 каза́ти,verb,say,"to say, to tell"
 говори́ти,verb,say,"to say, to tell"
+говори́ти,verb,say,to pronounce
+каза́ти,verb,say,to pronounce
+сказа́ти,verb,say,to pronounce
 згра́я,noun,school,a group of fish
 шко́ла,noun,school,an institution dedicated to teaching and learning
 учи́лище,noun,school,an institution dedicated to teaching and learning
+шко́ла,noun,school,an institution dedicated to teaching and learning before college or university
+ви́ща шко́ла,noun,school,college or university
+ви́щий навча́льний за́клад,noun,school,college or university
+університе́т,noun,school,college or university
+акаде́мія,noun,school,college or university
+інститу́т,noun,school,college or university
+консервато́рія,noun,school,college or university
+коле́дж,noun,school,college or university
+те́хнікум,noun,school,college or university
+учи́лище,noun,school,college or university
+факульте́т,noun,school,a department/institute at a college or university
+відді́лення,noun,school,a department/institute at a college or university
+шко́ла,noun,school,(collectively) the followers of a particular doctrine
 нау́ка,noun,science,collective discipline of learning acquired through the scientific method
+нау́ка,noun,science,particular discipline or branch of learning
+дисциплі́на,noun,science,particular discipline or branch of learning
+знання́,noun,science,fact of knowing something
+знання́,noun,science,knowledge gained through study or practice
 вче́ний,noun,scientist,one whose activities make use of the scientific method
 уче́ний,noun,scientist,one whose activities make use of the scientific method
 вче́на,noun,scientist,one whose activities make use of the scientific method
@@ -1081,14 +2017,40 @@ etc. See у,verb,have,to possess
 науко́вець,noun,scientist,one whose activities make use of the scientific method
 науко́виця,noun,scientist,one whose activities make use of the scientific method
 секу́нда,noun,second,one-sixtieth of a minute; SI unit of time
+секу́нда,noun,second,unit of angular measure
+секу́нда,noun,second,"short, indeterminate amount of time"
+моме́нт,noun,second,"short, indeterminate amount of time"
+мить,noun,second,"short, indeterminate amount of time"
 секунда́нт,noun,second,attendant of a duel or boxing match standing in for a contestant
 секунда́нтка,noun,second,attendant of a duel or boxing match standing in for a contestant
+засту́пник,noun,second,one that is next in rank
+засту́пниця,noun,second,one that is next in rank
+дру́гий,noun,second,place next below first in a race or contest
+брак,noun,second,manufactured item that fails to meet quality control standards
+дода́ча,noun,second,additional helping of food
+дру́гий шанс,noun,second,another chance to achieve what should have been done the first time
+секу́нда,noun,second,music: interval between two adjacent notes
+дру́га переда́ча,noun,second,second gear
+дру́га ба́за,noun,second,baseball: second base
 сі́чення,noun,section,"cutting, part cut out"
 ро́зріз,noun,section,"cutting, part cut out"
+ро́зділ,noun,section,"part, piece or subdivision of anything"
+по́діл,noun,section,"part, piece or subdivision of anything"
+се́кція,noun,section,"part, piece or subdivision of anything"
+ро́зділ,noun,section,part of a document
+по́діл,noun,section,part of a document
+розрі́зування,noun,section,act or instance of cutting
+ро́зріз,noun,section,surgery: incision or the act of making an incision
+сі́чення,noun,section,surgery: incision or the act of making an incision
+зріз,noun,section,science: thin slice of material
+відді́лення,noun,section,(military) group of 10-15 soldiers lead by a non-commissioned officer and forming part of a platoon
 ба́чити,verb,see,perceive with the eyes
 ви́діти,verb,see,perceive with the eyes
+розумі́ти,verb,see,understand
+зрозумі́ти,verb,see,understand
 продава́ти,verb,sell,to agree to transfer goods or provide services for payment
 прода́ти,verb,sell,to agree to transfer goods or provide services for payment
+продава́тися,verb,sell,to be sold
 посила́ти,verb,send,make something go somewhere
 сла́ти,verb,send,make something go somewhere
 посла́ти,verb,send,make something go somewhere
@@ -1097,9 +2059,19 @@ etc. See у,verb,have,to possess
 ви́рок,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 при́суд,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 при́говор,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+ви́рок,noun,sentence,judicial order for punishment
+при́суд,noun,sentence,judicial order for punishment
+осу́дження,noun,sentence,judicial order for punishment
+ви́рок,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+ка́ра,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+ре́чення,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+фра́за,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 діли́тися,verb,share,to give
 діли́ти,verb,share,to give
 розділя́ти,verb,share,to give
+розділя́ти,verb,share,to have in common
+розподіля́ти,verb,share,to divide and distribute
+діли́ти,verb,share,to divide and distribute
 вівця́,noun,sheep,animal
 соро́чка,noun,shirt,article of clothing
 кошу́ля,noun,shirt,article of clothing
@@ -1109,26 +2081,47 @@ etc. See у,verb,have,to possess
 купува́ння,noun,shopping,activity of buying
 поку́пки,noun,shopping,activity of buying
 шо́пінг,noun,shopping,activity of buying
+поку́пки,noun,shopping,things bought
 коро́ткий,adj,short,having a small distance between ends or edges
+ни́зький,adj,short,"of a person, of comparatively small height"
 повинен,verb,should,expressing obligation
 ва́рто,verb,should,expressing obligation
+повинно,verb,should,expressing likelihood
+слід,verb,should,expressing likelihood
 виста́ва,noun,show,entertainment
 спекта́кль,noun,show,entertainment
 шо́у,noun,show,entertainment
 видо́вище,noun,show,entertainment
+ви́ставка,noun,show,exhibition — see also exhibition
+експози́ція,noun,show,exhibition — see also exhibition
 до́щик,noun,shower,brief fall of rain
+душ,noun,shower,device for bathing
+душ,noun,shower,instance of using of this device
+град,noun,shower,quantity of something that has characteristics of a rain shower
 хво́рий,adj,sick,"ill, used as a substantive: sick people, collectively"
 поді́бний,adj,similar,"having traits or characteristics in common; alike, comparable"
 схо́жий,adj,similar,"having traits or characteristics in common; alike, comparable"
 співа́ти,verb,sing,to produce harmonious sounds with one’s voice
 заспіва́ти,verb,sing,to produce harmonious sounds with one’s voice
 співа́к,noun,singer,person who sings (male or generic term)
+співа́чка,noun,singer,female person who sings
 сестра́,noun,sister,woman or girl having the same parents
+сестра́,noun,sister,a nun; a female member of a religious community
 сиді́ти,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 поси́діти,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 обстано́вка,noun,situation,combination of circumstances at a given moment; state of affairs
 ситуа́ція,noun,situation,combination of circumstances at a given moment; state of affairs
 стан,noun,situation,combination of circumstances at a given moment; state of affairs
+ситуа́ція,noun,situation,position vis-à-vis surroundings
+стано́вище,noun,situation,position vis-à-vis surroundings
+місцеполо́ження,noun,situation,location
+поло́ження,noun,situation,location
+розташува́ння,noun,situation,location
+поло́ження,noun,situation,one's status with regard to circumstances
+ситуа́ція,noun,situation,one's status with regard to circumstances
+стан,noun,situation,one's status with regard to circumstances
+стано́вище,noun,situation,one's status with regard to circumstances
+пос́ада,noun,situation,position of employment
 вмі́ння,noun,skill,capacity to do something well
 майсте́рство,noun,skill,capacity to do something well
 на́вик,noun,skill,capacity to do something well
@@ -1136,11 +2129,25 @@ etc. See у,verb,have,to possess
 спа́ти,verb,sleep,to rest in state of reduced consciousness
 поспа́ти,verb,sleep,to rest in state of reduced consciousness
 пові́льний,adj,slow,not quick in motion
+пові́льний,adj,slow,spread over a comparatively long time
+нудни́й,adj,slow,lacking spirit; boring
 мале́нький,adj,small,not large
 мали́й,adj,small,not large
+мале́нький,adj,small,young
+молоди́й,adj,small,young
+кмітли́вий,adj,smart,exhibiting social ability or cleverness
+тяму́щий,adj,smart,exhibiting social ability or cleverness
+розу́мний,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+розу́мний,adj,smart,equipped with intelligent behaviour (digital/computer technology)
+елега́нтний,adj,smart,good-looking
+доте́пний,adj,smart,cleverly shrewd and humorous
 змія́,noun,snake,legless reptile
 сніжи́ти,verb,snow,have snow fall from the atmosphere
 ду́же,adv,so,very
+так,adv,so,to a particular extent
+так,adv,so,in the same aformentioned manner
+ду́же,adv,so,slang: very much
+так,adv,so,slang: very much
 де́коли,adv,sometimes,"on certain occasions, but not always"
 іноді́,adv,sometimes,"on certain occasions, but not always"
 ча́сом,adv,sometimes,"on certain occasions, but not always"
@@ -1153,26 +2160,59 @@ etc. See у,verb,have,to possess
 співа́ночка,noun,song,music with words
 ско́ро,adv,soon,within a short time
 незаба́ром,adv,soon,within a short time
+засму́чений,adj,sorry,"grieved, saddened"
 звуча́ти,verb,sound,to produce a sound
 суп,noun,soup,dish
 зу́па,noun,soup,dish
 ю́шка,noun,soup,dish
 інтерва́л,noun,space,interval of time
 промі́жок,noun,space,interval of time
+про́стір,noun,space,physical extent in two or three dimensions
+ко́смос,noun,space,area beyond atmosphere of planets
+космі́чний про́стір,noun,space,area beyond atmosphere of planets
+пробі́л,noun,space,"gap between written characters, lines etc."
+пробі́л,noun,space,piece of type used to separate words
+про́пуск,noun,space,piece of type used to separate words
 говори́ти,verb,speak,to communicate with one's voice using words
 сказа́ти,verb,speak,to communicate with one's voice using words
 розмовля́ти,verb,speak,to communicate with one's voice using words
+розмовля́ти,verb,speak,to have a conversation
 особли́вий,adj,special,distinguished by a unique or unusual quality
 спеціа́льний,adj,special,distinguished by a unique or unusual quality
 ви́їмковий,adj,special,distinguished by a unique or unusual quality
+право́пис,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+право́пис,noun,spelling,a specific spelling of a word
+орфогра́фія,noun,spelling,a specific spelling of a word
+написа́ння,noun,spelling,a specific spelling of a word
 тра́тити,verb,spend,to pay out
 витрача́ти,verb,spend,to pay out
 ви́тратити,verb,spend,to pay out
+витрача́ти,verb,spend,"to wear out, to exhaust"
+ви́тратити,verb,spend,"to wear out, to exhaust"
+висна́жувати,verb,spend,"to wear out, to exhaust"
+ви́снажити,verb,spend,"to wear out, to exhaust"
+проводити,verb,spend,"to consume, to use up (time)"
 спорт,noun,sport,any athletic activity that uses physical skills
 весна́,noun,spring,season between winter and summer in temperate climates
+джерело́,noun,spring,water springing from the ground
+крини́ця,noun,spring,water springing from the ground
+пружи́на,noun,spring,device made of flexible material
+спружи́на,noun,spring,device made of flexible material
 стоя́ти,verb,stand,to support oneself on the feet in an erect position
+встава́ти,verb,stand,to rise to one’s feet
+ста́ти,verb,stand,to rise to one’s feet
+стоя́ти,verb,stand,to remain motionless
+ви́стояти,verb,stand,to undergo; withstand; hold up
+ви́тримати,verb,stand,to undergo; withstand; hold up
+витри́мувати,verb,stand,to tolerate
+ви́тримати,verb,stand,to tolerate
+ста́вити,verb,stand,to place in an upright or standing position
+поста́вити,verb,stand,to place in an upright or standing position
+балотува́тися,verb,stand,to seek election
 зі́рка,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 звізда́,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+зі́рка,noun,star,celebrity
+зі́рочка,noun,star,asterisk
 почина́ти,verb,start,to begin
 поча́ти,verb,start,to begin
 почина́тися,verb,start,to begin
@@ -1185,15 +2225,21 @@ etc. See у,verb,have,to possess
 зупи́нка,noun,station,place where a vehicle may stop
 дворе́ць,noun,station,place where a vehicle may stop
 двіре́ць,noun,station,place where a vehicle may stop
+ба́за,noun,station,military base
+ста́нція,noun,station,place used for broadcasting
 затри́муватися,verb,stay,to remain in a particular place
 зостава́тися,verb,stay,to remain in a particular place
+ще,adv,still,"up to a time, as in the preceding time"
+іще́,adv,still,"up to a time, as in the preceding time"
 зупи́нка,noun,stop,place to get on and off mass transport
 склад,noun,store,place where items may be kept
 схо́вище,noun,store,place where items may be kept
+запа́с,noun,store,supply held in storage
 о́повідь,noun,story,account of events
 ро́зповідь,noun,story,account of events
 істо́рія,noun,story,account of events
 оповіда́ння,noun,story,account of events
+істо́рія,noun,story,social media temporary publication
 ву́лиця,noun,street,paved part of road in a village or a town
 си́льний,adj,strong,capable of producing great physical force
 мі́цний,adj,strong,capable of producing great physical force
@@ -1201,39 +2247,78 @@ etc. See у,verb,have,to possess
 студе́нтка,noun,student,person who studies a subject
 вчи́ти,verb,study,to revise/review materials
 учи́ти,verb,study,to revise/review materials
+вчи́тися,verb,study,to take a course
+учи́тися,verb,study,to take a course
+навча́тися,verb,study,to take a course
+вчи́тися,verb,study,to acquire knowledge
+учи́тися,verb,study,to acquire knowledge
+стиль,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 пі́дмет,noun,subject,in grammar
 суб'є́кт,noun,subject,in grammar
+суб'є́кт,noun,subject,actor
+предме́т,noun,subject,main topic
+те́ма,noun,subject,main topic
+предме́т,noun,subject,particular area of study
+дисципліна,noun,subject,particular area of study
+підда́ний,noun,subject,citizen in a monarchy
+підда́на,noun,subject,citizen in a monarchy
+підда́нець,noun,subject,citizen in a monarchy
+те́ма,noun,subject,music: main theme
+суб'є́кт,noun,subject,"human, animal or an inanimate object that is being examined"
 у́спіх,noun,success,achievement of one's aim or goal
 цу́кор,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+цу́кор,noun,sugar,any of a series of carbohydrates used by organisms to store energy
 лі́то,noun,summer,hottest season
 со́нце,noun,sun,"a star, especially when seen as the centre of any single solar system"
+со́нце,noun,sun,light and warmth received from the sun
 суперма́ркет,noun,supermarket,store
 упе́внений,adj,sure,"certain, reliable"
+упе́внений,adj,sure,certain in one's knowledge or belief
+пе́вний,adj,sure,certain in one's knowledge or belief
 светр,noun,sweater,knitted jacket worn by athletes before or after exercise
+светр,noun,sweater,similar garment worn for warmth
+пуло́вер,noun,sweater,similar garment worn for warmth
 пла́вати,verb,swim,move through water
 попла́вати,verb,swim,move through water
 плисти́,verb,swim,move through water
 поплисти́,verb,swim,move through water
 пла́вання,noun,swimming,human activity of moving oneself through water
 стіл,noun,table,item of furniture
+підно́с,noun,table,flat tray that can be used as a table
+табли́ця,noun,table,grid of data in rows and columns
+табли́ця,noun,table,collection of arithmetic calculations
 бра́ти,verb,take,to get into one's hands or control
 взя́ти,verb,take,to get into one's hands or control
 узя́ти,verb,take,to get into one's hands or control
 розмовля́ти,verb,talk,to communicate by speech
 говори́ти,verb,talk,to communicate by speech
 висо́кий,adj,tall,of a person
+висо́кий,adj,tall,of a building
 таксі́,noun,taxi,vehicle available for public hire
 таксі́вка,noun,taxi,vehicle available for public hire
 чай,noun,tea,dried leaves of tea plant
+чай,noun,tea,drink made from leaves of tea plant
+ча́шка ча́ю,noun,tea,cup of this drink
+чай,noun,tea,drink made from other plants
+полу́день,noun,tea,light afternoon meal
+полу́денок,noun,tea,light afternoon meal
 вчи́ти,verb,teach,to pass on knowledge
 навчи́ти,verb,teach,to pass on knowledge
 виклада́ти,verb,teach,to pass on knowledge
+виклада́ти,verb,teach,to pass on one's knowledge as one's profession
 учи́тель,noun,teacher,person who teaches
 вчи́тель,noun,teacher,person who teaches
 виклада́ч,noun,teacher,person who teaches
+учи́телька,noun,teacher,woman who teaches
+вчи́телька,noun,teacher,woman who teaches
+виклада́чка,noun,teacher,woman who teaches
 запря́жка,noun,team,set of draught animals
 за́пряг,noun,team,set of draught animals
 упря́жка,noun,team,set of draught animals
+кома́нда,noun,team,group of people
+брига́да,noun,team,group of people
+гру́па,noun,team,group of people
+колекти́в,noun,team,group of people
 підлі́ток,noun,teenager,person aged between thirteen and nineteen
 тіне́йджер,noun,teenager,person aged between thirteen and nineteen
 дзвони́ти,verb,telephone,to call someone
@@ -1242,42 +2327,93 @@ etc. See у,verb,have,to possess
 зателефонува́ти,verb,telephone,to call someone
 телеба́чення,noun,television,medium
 телеві́зія,noun,television,medium
+телеві́зор,noun,television,device for receiving television signals
+телеба́чення,noun,television,program broadcasting
 розповіда́ти,verb,tell,to pass information
 говори́ти,verb,tell,to pass information
 каза́ти,verb,tell,to pass information
 сказа́ти,verb,tell,to pass information
+відрізня́ти,verb,tell,"to discern, notice, identify or distinguish"
+відрізни́ти,verb,tell,"to discern, notice, identify or distinguish"
 те́ніс,noun,tennis,sport played by two or four players with strung racquets
 жахли́вий,adj,terrible,dreadful; causing alarm or fear
 страшни́й,adj,terrible,dreadful; causing alarm or fear
+грі́зний,adj,terrible,most formidable
 випробовувати,verb,test,to challenge
 тестувати,verb,test,to challenge
+трестува́ти,verb,test,to administer an examination during the academic term
+тестува́ти,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+відтестува́ти,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+випробо́вувати,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+випро́бувати,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+ви́пробувати,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 текст,noun,text,a written passage
 дя́кувати,verb,thank,to express appreciation or gratitude toward (someone or something)
 подя́кувати,verb,thank,to express appreciation or gratitude toward (someone or something)
 подя́ка,noun,thanks,expression of gratitude
 теа́тр,noun,theater,place or building
 тоді́,adv,then,at that time
+по́тім,adv,then,soon afterward
+тоді́,adv,then,in that case
+то,adv,then,in that case
+у тако́му ра́зі,adv,then,in that case
 там,adv,there,in or at that place
+туди́,adv,there,to or into that place; thither
 річ,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+щось,noun,thing,"word, symbol, sign, or other referent that can be used to refer to any entity"
+де́що,noun,thing,"word, symbol, sign, or other referent that can be used to refer to any entity"
+предме́т,noun,thing,individual object or distinct entity
+ду́мати,verb,think,communicate to oneself in one’s mind
+ми́слити,verb,think,communicate to oneself in one’s mind
 спра́глий,adj,thirsty,needing to drink
 квито́к,noun,ticket,admission to entertainment
 біле́т,noun,ticket,admission to entertainment
+квито́к,noun,ticket,pass for transportation
+біле́т,noun,ticket,pass for transportation
 час,noun,time,inevitable passing of events
+час,noun,time,quantity of availability in time
+час,noun,time,measurement of a quantity of time
+час,noun,time,"time of day, as indicated by a clock, etc"
+годи́на,noun,time,"time of day, as indicated by a clock, etc"
+час,noun,time,measurement under some system of the time of day or moment in time
+годи́на,noun,time,numerical indication of a particular moment in time
+час,noun,time,numerical indication of a particular moment in time
+раз,noun,time,instance or occurrence
+строк,noun,time,slang: serving of a prison sentence
+термін,noun,time,slang: serving of a prison sentence
 сто́млений,adj,tired,in need of rest or sleep
 вто́млений,adj,tired,in need of rest or sleep
 уто́млений,adj,tired,in need of rest or sleep
 ти́тул,noun,title,prefix or suffix added to a name
 звання́,noun,title,prefix or suffix added to a name
+на́зва,noun,title,"name of a book, etc"
+заголо́вок,noun,title,subject of a writing
 сього́дні,noun,today,today (noun)
 ра́зом,adv,together,"at the same time, in the same place"
 спі́льно,adv,together,"at the same time, in the same place"
 заодно́,adv,together,"at the same time, in the same place"
+разом,adv,together,into one place
 туале́т,noun,toilet,personal grooming
+гардеро́бна,noun,toilet,dressing room
+вбира́льня,noun,toilet,dressing room
+туале́т,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+вбира́льня,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+вихо́док,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+уніта́з,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 тома́т,noun,tomato,tomato plant
+помідо́р,noun,tomato,fruit
+тома́т,noun,tomato,fruit
 за́втра,noun,tomorrow,the day after the present day
 теж,adv,too,likewise
 тако́ж,adv,too,likewise
+за,adv,too,more than enough; as too much
+на́дто,adv,too,more than enough; as too much
+зана́дто,adv,too,more than enough; as too much
 зуб,noun,tooth,anatomy: tooth
+зубе́ць,noun,tooth,saw tooth
+зуб,noun,tooth,saw tooth
+зубе́ць,noun,tooth,gear tooth
+зуб,noun,tooth,gear tooth
 те́ма,noun,topic,subject; theme
 предме́т,noun,topic,subject; theme
 тури́ст,noun,tourist,someone who travels for pleasure
@@ -1286,28 +2422,49 @@ etc. See у,verb,have,to possess
 місте́чко,noun,town,settlement
 рух,noun,traffic,pedestrians or vehicles on roads or on the air
 тра́фік,noun,traffic,pedestrians or vehicles on roads or on the air
+торгі́вля,noun,traffic,commercial transportation or exchange of goods
+тра́фік,noun,traffic,"exchange or flux of information, messages or data"
 шлейф,noun,train,the elongated back portion of a dress or skirt which drags along the ground
 трен,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+по́тяг,noun,train,line of connected cars or carriages
+по́їзд,noun,train,line of connected cars or carriages
 по́дорож,noun,travel,act of traveling
 пої́здка,noun,travel,act of traveling
 де́рево,noun,tree,large woody plant
 пої́здка,noun,trip,journey
 по́дорож,noun,trip,journey
+вантажі́вка,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+грузови́к,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+фу́ра,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+ванта́жний автомобі́ль,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 ві́рний,adj,true,concurring with a given set of facts
 і́стинний,adj,true,concurring with a given set of facts
 правди́вий,adj,true,concurring with a given set of facts
+ві́рний,adj,true,"loyal, faithful"
 про́бувати,verb,try,to attempt
 стара́тися,verb,try,to attempt
 намага́тися,verb,try,to attempt
 поворо́т,noun,turn,change of direction or orientation
+о́берт,noun,turn,movement about an axis ending up with the same orientation
+оборо́т,noun,turn,movement about an axis ending up with the same orientation
+че́рга,noun,turn,chance to use (something) shared in sequence with others
+черга́,noun,turn,chance to use (something) shared in sequence with others
+че́рга,noun,turn,spell of work
+черга́,noun,turn,spell of work
+хід,noun,turn,one's chance to make a move in a game
+вито́к,noun,turn,single loop of a coil
 двічі,adv,twice,two times
 тип,noun,type,grouping based on shared characteristics
 вид,noun,type,grouping based on shared characteristics
 рід,noun,type,grouping based on shared characteristics
+тип,noun,type,computing theory: tag indicating data type
 парасо́лька,noun,umbrella,cloth-covered frame used for protection against rain or sun
 дя́дько,noun,uncle,brother (or brother-in-law) of someone’s parent
+дя́дько,noun,uncle,form of address to a man by young people or children in some countries
 розумі́ти,verb,understand,to grasp the meaning of
 зрозумі́ти,verb,understand,to grasp the meaning of
+розумі́ти,verb,understand,to believe one grasps the meaning of
+зрозумі́ти,verb,understand,to believe one grasps the meaning of
 університе́т,noun,university,institution of higher education
 вго́ру,adv,up,away from earth’s surface
 догори́,adv,up,away from earth’s surface
@@ -1323,17 +2480,29 @@ etc. See у,verb,have,to possess
 ви́користати,verb,use,"employ, apply"
 кори́сний,adj,useful,having a practical or beneficial use
 зазвича́й,adv,usually,most of the time
+кані́кули,noun,vacation,official holiday period
+відпу́стка,noun,vacation,period of leisure time
+кані́кули,noun,vacation,period of leisure time
 о́воч,noun,vegetable,a plant raised for some edible part of it
+росли́на,noun,vegetable,any plant
+о́воч,noun,vegetable,a person whose brain has been damaged
 ду́же,adv,very,to a high degree
 ве́льми,adv,very,to a high degree
 ві́део,noun,video,"television show, movie"
+ві́део,noun,video,motion picture stored on VHS
+відеофі́льм,noun,video,motion picture stored on VHS
+відеокасе́та,noun,video,VHS
 візи́т,noun,visit,single act of visiting
 візи́та,noun,visit,single act of visiting
 відві́дування,noun,visit,single act of visiting
+візи́т,noun,visit,meeting with a doctor
+візи́та,noun,visit,meeting with a doctor
 відві́дувач,noun,visitor,guest
 відві́дувачка,noun,visitor,guest
 гі́сть,noun,visitor,guest
 го́стя,noun,visitor,guest
+відві́дувач,noun,visitor,sightseer
+відві́дувачка,noun,visitor,sightseer
 чека́ти,verb,wait,delay until some event
 жда́ти,verb,wait,delay until some event
 очі́кувати,verb,wait,delay until some event
@@ -1343,25 +2512,43 @@ etc. See у,verb,have,to possess
 ке́льнерка,noun,waiter,a server in a restaurant or similar
 прокида́тися,verb,wake,to stop sleeping
 пробу́джуватися,verb,wake,to stop sleeping
+буди́ти,verb,wake,to make somebody stop sleeping
 прогуля́нка,noun,walk,trip made by walking
 прогу́лька,noun,walk,trip made by walking
 стіна́,noun,wall,defensive rampart
 мур,noun,wall,defensive rampart
 вал,noun,wall,defensive rampart
+стіна́,noun,wall,structure built for defense surrounding an area
+мур,noun,wall,structure built for defense surrounding an area
+вал,noun,wall,structure built for defense surrounding an area
+стіна́,noun,wall,substantial structure acting as side or division in a building
 хоті́ти,verb,want,to desire
 бажа́ти,verb,want,to desire
 те́плий,adj,warm,having a temperature slightly higher than usual
 ми́ти,verb,wash,to clean with water
 пра́ти,verb,wash,to clean with water
+ми́тися,verb,wash,to clean oneself
 годи́нник,noun,watch,portable or wearable timepiece
 нару́чний годи́нник,noun,watch,portable or wearable timepiece
+ва́хта,noun,watch,particular time period
+чергува́ння,noun,watch,particular time period
+вартува́ння,noun,watch,particular time period
+сторо́жа,noun,watch,person or group of people who guard
+ва́рта,noun,watch,person or group of people who guard
+карау́л,noun,watch,person or group of people who guard
+ча́ти,noun,watch,person or group of people who guard
+ва́хта,noun,watch,group of sailors and officers
 вода́,noun,water,inorganic compound H₂O
+води,noun,water,"body of water, or specific part of it"
+сеча,noun,water,urine
 шлях,noun,way,"road, direction, path"
 доро́га,noun,way,"road, direction, path"
 путь,noun,way,"road, direction, path"
+спо́сіб,noun,way,method or manner
 носи́ти,verb,wear,to have on (clothes or accessories)
 надяга́ти,verb,wear,to have on (clothes or accessories)
 наді́ти,verb,wear,to have on (clothes or accessories)
+зно́шуватися,verb,wear,to erode due to use
 пого́да,noun,weather,state of the atmosphere
 веб-са́йт,noun,website,a collection of pages on the World Wide Web
 сайт,noun,website,a collection of pages on the World Wide Web
@@ -1372,18 +2559,33 @@ etc. See у,verb,have,to possess
 кіне́ць ти́жня,noun,weekend,break in the working week
 здоро́вий,adj,well,in good health
 коли́,adv,when,"at what time, as a direct question"
+коли́,adv,when,"at what time, as an indirect question"
 де,adv,where,at what place; to what place; from what place
 зві́дки,adv,where,at what place; to what place; from what place
+де,adv,where,at or in what place
+де,adv,where,at or in which place
+звідки́,adv,where,at or in which place
+куди,adv,where,at or in which place
+куди́,adv,where,to what place
+куди́,adv,where,to which place or situation
 бі́лий,noun,white,color
+бі́лий,noun,white,person of European descent
+бі́ла,noun,white,person of European descent
+біло́к,noun,white,white of the eye
 чому́,adv,why,for what reason
 чом,adv,why,for what reason
 дружи́на,noun,wife,female partner in a marriage
 жі́нка,noun,wife,female partner in a marriage
 супру́га,noun,wife,female partner in a marriage
+special endings,verb,will,indicating future action
 перемага́ти,verb,win,transitive: achieve victory in
 перемогти́,verb,win,transitive: achieve victory in
+виграва́ти,verb,win,to gain a prize
+ви́грати,verb,win,to gain a prize
 вікно́,noun,window,opening for light and air
 віко́нце,noun,window,opening for light and air
+вікно́,noun,window,period of time
+вікно́,noun,window,area on a computer screen
 вино́,noun,wine,alcoholic beverage made from grapes
 зима́,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 жі́нка,noun,woman,adult female person
@@ -1394,6 +2596,8 @@ etc. See у,verb,have,to possess
 сло́во,noun,word,unit of language
 робо́та,noun,work,"labour, employment, occupation, job"
 пра́ця,noun,work,"labour, employment, occupation, job"
+робо́та,noun,work,place where one is employed
+пра́ця,noun,work,place where one is employed
 робітни́к,noun,worker,person who performs labor
 робітни́ця,noun,worker,person who performs labor
 працівни́к,noun,worker,person who performs labor
@@ -1401,6 +2605,10 @@ etc. See у,verb,have,to possess
 трудя́щий,noun,worker,person who performs labor
 трудя́ща,noun,worker,person who performs labor
 світ,noun,world,human collective existence
+все́світ,noun,world,the universe
+світ,noun,world,the Earth
+світ,noun,world,inhabited planet
+світ,noun,world,individual or group perspective or social setting
 писа́ти,verb,write,"to form letters, etc."
 написа́ти,verb,write,"to form letters, etc."
 письме́нник,noun,writer,person who writes; an author
@@ -1409,11 +2617,23 @@ etc. See у,verb,have,to possess
 а́вторка,noun,writer,person who writes; an author
 писе́мність,noun,writing,written letters or symbols
 письмо́,noun,writing,written letters or symbols
+писа́ння,noun,writing,something written
+письмо́,noun,writing,process of representing a language
+писа́ння,noun,writing,process of representing a language
+твір,noun,writing,work of an author
+по́черк,noun,writing,style of writing
 непра́вильний,adj,wrong,incorrect
 двір,noun,yard,land around a house
 дво́рик,noun,yard,land around a house
 подві́р'я,noun,yard,land around a house
+ярд,noun,yard,three feet
 рік,noun,year,time it takes for the Earth to complete one revolution around the Sun
+рік,noun,year,time it takes for any planetary body to make one revolution around another body
+рік,noun,year,a period between set dates that mark a year
+рік,noun,year,a scheduled part of a calendar year spent in a specific activity
+рік,noun,year,a Julian year
+клас,noun,year,a level or grade at school or college
+курс,noun,year,a level or grade at school or college
 жовтий,noun,yellow,color
 учо́ра,noun,yesterday,day before today
 вчо́ра,noun,yesterday,day before today

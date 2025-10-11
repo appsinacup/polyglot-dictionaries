@@ -1,7 +1,9 @@
 word,part_of_speech,english_word,sense
 禮拜五 /礼拜五,noun,Friday,day of the week
 禮拜六 /礼拜六,noun,Saturday,day of the week
+地址,noun,address,description of the location of a property; direction for correspondence
 空氣 /空气,noun,air,historical: one of the basic elements
+空氣 /空气,noun,air,mixture of gases making up the atmosphere of the Earth
 機場 /机场,noun,airport,place designated for airplanes
 動物 /动物,noun,animal,organism
 公寓,noun,apartment,domicile occupying part of a building
@@ -52,11 +54,15 @@ word,part_of_speech,english_word,sense
 公司,noun,company,"in legal context, a corporation"
 企業 /企业,noun,company,"in legal context, a corporation"
 電腦 /电脑,noun,computer,programmable electronic device
+國家 /国家,noun,country,nation state
 雌牛,noun,cow,female domesticated ox or other bovine
 牛娘,noun,cow,female domesticated ox or other bovine
+牛,noun,cow,any domestic bovine regardless of sex or age
 文化,noun,culture,"arts, customs and habits"
 杯子,noun,cup,drinking vessel
 囡兒 /囡儿,noun,daughter,female offspring
+天,noun,day,period of 24 hours
+日,noun,day,period of 24 hours
 字典,noun,dictionary,publication that explains the meanings of an ordered list of words
 詞典 /词典,noun,dictionary,publication that explains the meanings of an ordered list of words
 死,verb,die,to stop living
@@ -69,6 +75,7 @@ word,part_of_speech,english_word,sense
 吃,verb,drink,consume liquid through the mouth
 耳朵,noun,ear,organ of hearing
 吃,verb,eat,"to ingest — see also consume, ingest"
+吃飯 /吃饭,verb,eat,eat a meal
 象,noun,elephant,mammal
 眼睛,noun,eye,organ
 眼,noun,eye,organ
@@ -91,7 +98,9 @@ word,part_of_speech,english_word,sense
 囡兒 /囡儿,noun,girl,young female person
 撥 /拨,verb,give,transfer the possession of something to someone else
 玻璃,noun,glass,substance
+杯子,noun,glass,drinking vessel
 吉他,noun,guitar,musical instrument
+頭髮 /头发,noun,hair,mass of such filaments on the human head
 手,noun,hand,part of the fore limb
 帽子,noun,hat,a head covering
 有,verb,have,to possess
@@ -105,7 +114,11 @@ word,part_of_speech,english_word,sense
 熱 /热,adj,hot,having a high temperature
 飯店 /饭店,noun,hotel,establishment providing accommodation
 鐘頭 /钟头,noun,hour,time period of sixty minutes
+點 /点,noun,hour,"unit to denote the hour, such as military usage in English"
+時 /时,noun,hour,"unit to denote the hour, such as military usage in English"
+點鐘 /点钟,noun,hour,"unit to denote the hour, such as military usage in English"
 房子,noun,house,human abode
+哪能,adv,how,in what manner
 丈夫,noun,husband,male partner in marriage
 愛人 /爱人,noun,husband,male partner in marriage
 先生,noun,husband,male partner in marriage
@@ -121,6 +134,8 @@ word,part_of_speech,english_word,sense
 腿,noun,leg,lower limb from groin to ankle
 字母,noun,letter,a symbol in an alphabet
 字,noun,letter,a symbol in an alphabet
+信,noun,letter,written message
+書信 /书信,noun,letter,written message
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 生命,noun,life,the state of being alive
 生活,noun,life,the state of being alive
@@ -130,7 +145,9 @@ word,part_of_speech,english_word,sense
 愛 /爱,verb,love,have a strong affection for
 雜誌 /杂志,noun,magazine,periodical
 男人,noun,man,adult male human
+人類 /人类,noun,man,a human being
 地圖 /地图,noun,map,visual representation of an area
+市場 /市场,noun,market,spacious site for trading
 肉,noun,meat,animal flesh used as food
 乳,noun,milk,liquid
 奶,noun,milk,liquid
@@ -144,6 +161,7 @@ word,part_of_speech,english_word,sense
 山,noun,mountain,large mass of earth and rock
 老鼠,noun,mouse,rodent of the genus Mus
 老蟲 /老虫,noun,mouse,rodent of the genus Mus
+鼠標 /鼠标,noun,mouse,computing: input device
 嘴,noun,mouth,the opening of a creature through which food is ingested
 電影 /电影,noun,movie,motion picture
 博物館 /博物馆,noun,museum,building or institution
@@ -160,6 +178,7 @@ word,part_of_speech,english_word,sense
 洋蔥 /洋葱,noun,onion,Allium cepa
 頁 /页,noun,page,one side of a leaf of a book
 紙頭 /纸头,noun,paper,sheet material
+論文 /论文,noun,paper,academic paper
 部分,noun,part,fraction of a whole
 護照 /护照,noun,passport,official document for foreign travel
 筆 /笔,noun,pen,writing tool
@@ -179,14 +198,20 @@ word,part_of_speech,english_word,sense
 餐廳 /餐厅,noun,restaurant,an eating establishment in which diners are served food
 餐館 /餐馆,noun,restaurant,an eating establishment in which diners are served food
 結果 /结果,noun,result,that which results
+結果 /结果,noun,result,"fruit, beneficial or tangible effect"
+米,noun,rice,seeds used as food
+飯 /饭,noun,rice,seeds used as food
+權利 /权利,noun,right,legal or moral entitlement
 江,noun,river,large stream which drains a landmass
 河,noun,river,large stream which drains a landmass
 路,noun,road,a way for travel
 道路,noun,road,a way for travel
+房間 /房间,noun,room,division in a building
 奔,verb,run,to move quickly on two feet
 跑,verb,run,to move quickly on two feet
 鹽 /盐,noun,salt,sodium chloride
 三明治,noun,sandwich,dish — see also open sandwich
+講 /讲,verb,say,to pronounce
 學校 /学校,noun,school,an institution dedicated to teaching and learning
 學堂 /学堂,noun,school,an institution dedicated to teaching and learning
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
@@ -207,6 +232,9 @@ word,part_of_speech,english_word,sense
 兒子 /儿子,noun,son,a male person in relation to his parents
 歌,noun,song,music with words
 湯 /汤,noun,soup,dish
+太空,noun,space,area beyond atmosphere of planets
+宇宙,noun,space,area beyond atmosphere of planets
+空間 /空间,noun,space,area beyond atmosphere of planets
 講 /讲,verb,speak,to communicate with one's voice using words
 運動 /运动,noun,sport,any athletic activity that uses physical skills
 春天,noun,spring,season between winter and summer in temperate climates
@@ -215,10 +243,12 @@ word,part_of_speech,english_word,sense
 星,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 站頭 /站头,noun,station,place where a vehicle may stop
 站,noun,station,place where a vehicle may stop
+電臺 /電台 /电台,noun,station,place used for broadcasting
 故事,noun,story,account of events
 街,noun,street,paved part of road in a village or a town
 街路,noun,street,paved part of road in a village or a town
 學生 /学生,noun,student,person who studies a subject
+學習 /学习,verb,study,to acquire knowledge
 成功,noun,success,achievement of one's aim or goal
 糖,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 夏天,noun,summer,hottest season
@@ -229,18 +259,24 @@ word,part_of_speech,english_word,sense
 {{t|1=wuu|2=游泳}},verb,swim,move through water
 檯子 /台子,noun,table,item of furniture
 差頭 /差头,noun,taxi,vehicle available for public hire
+茶,noun,tea,drink made from leaves of tea plant
+茶葉茶 /茶叶茶,noun,tea,drink made from leaves of tea plant
 教,verb,teach,to pass on knowledge
 老師 /老师,noun,teacher,person who teaches
 電視 /电视,noun,television,medium
+電視機 /电视机,noun,television,device for receiving television signals
 課文 /课文,noun,text,a written passage
 物事,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 物件,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 辰光,noun,time,inevitable passing of events
 時間 /时间,noun,time,inevitable passing of events
+番茄,noun,tomato,fruit
+忒,adv,too,more than enough; as too much
 牙齒 /牙齿,noun,tooth,anatomy: tooth
 牙子,noun,tooth,anatomy: tooth
 城市,noun,town,settlement
 鎮 /镇,noun,town,settlement
+火車 /火车,noun,train,line of connected cars or carriages
 樹 /树,noun,tree,large woody plant
 傘 /伞,noun,umbrella,cloth-covered frame used for protection against rain or sun
 蠻 /蛮,adv,very,to a high degree
@@ -253,6 +289,10 @@ word,part_of_speech,english_word,sense
 禮拜 /礼拜,noun,week,period of seven days
 啥辰光,adv,when,"at what time, as a direct question"
 阿裡 /阿里,adv,where,at what place; to what place; from what place
+啥地方,adv,where,at or in which place
+阿裡 /阿里,adv,where,at or in which place
+啥地方,adv,where,wherever
+阿裡 /阿里,adv,where,wherever
 白色,noun,white,color
 啥體 /啥体,adv,why,for what reason
 為啥 /为啥,adv,why,for what reason

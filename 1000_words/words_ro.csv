@@ -6,23 +6,64 @@ duminică,noun,Sunday,day of the week
 joi,noun,Thursday,day of the week
 marți,noun,Tuesday,day of the week
 miercuri,noun,Wednesday,day of the week
+cam,adv,about,"nearly, approximately"
+deasupra,adv,above,in a higher place
+faptă,noun,action,something done so as to accomplish a purpose
+acțiune,noun,action,something done so as to accomplish a purpose
 activitate,noun,activity,state or quality of being active
+activitate,noun,activity,something done as an action or a movement
+activitate,noun,activity,something done for pleasure or entertainment
 actor,noun,actor,person who performs in a theatrical play or film — see also actress
 actriță,noun,actor,person who performs in a theatrical play or film — see also actress
+făcător,noun,actor,one who acts; a doer
+făcătoare,noun,actor,one who acts; a doer
+participant,noun,actor,one who takes part in a situation
+participantă,noun,actor,one who takes part in a situation
 actriță,noun,actress,female actor — see also actor
 adăuga,verb,add,to append (e.g. a statement); to say further information; to add on
+adăuga,verb,add,to make an addition; to augment; to increase; to add on
+aduna,verb,add,"to perform the arithmetical operation of addition, to add up"
+comportare,noun,address,manner of speaking to another
+ținută,noun,address,manner of speaking to another
+adresare,noun,address,act of addressing oneself to a person or group
+discurs,noun,address,act of addressing oneself to a person or group
+adresă,noun,address,description of the location of a property; direction for correspondence
+adresă de memorie,noun,address,computing: location in computer memory
+îndemânare,noun,address,"preparedness for a task, skill — see also skill"
+dexteritate,noun,address,"preparedness for a task, skill — see also skill"
+abilitate,noun,address,"preparedness for a task, skill — see also skill"
 adult,noun,adult,fully grown human
 adultă,noun,adult,fully grown human
 sfat,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 îndrumare,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 după-amiază,noun,afternoon,part of the day between noon and evening
 după masă,noun,afternoon,part of the day between noon and evening
+iarăși,adv,again,another time
+din nou,adv,again,another time
+iar,adv,again,another time
 vârstă,noun,age,amount of time since the birth of a being or the beginning of a thing
 etate,noun,age,amount of time since the birth of a being or the beginning of a thing
+perioadă,noun,age,one of the stages of life
+vârstă,noun,age,one of the stages of life
+majorat,noun,age,time of life at which one attains full personal rights and capacities
+epocă,noun,age,particular period of time in history
+ev,noun,age,particular period of time in history
+eră,noun,age,particular period of time in history
+epocă,noun,age,great period in the history of the Earth
+eră,noun,age,great period in the history of the Earth
+ev,noun,age,great period in the history of the Earth
+generație,noun,age,generation — see also generation
+veșnicie,noun,age,a long time
+viață,noun,age,lifespan
 fi de acord,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 cădea de acord,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 aer,noun,air,historical: one of the basic elements
 văzduh,noun,air,historical: one of the basic elements
+aer,noun,air,mixture of gases making up the atmosphere of the Earth
+văzduh,noun,air,mixture of gases making up the atmosphere of the Earth
+eter,noun,air,mixture of gases making up the atmosphere of the Earth
+atmosferă,noun,air,mixture of gases making up the atmosphere of the Earth
+arie,noun,air,"music: a song, an aria"
 aeroport,noun,airport,place designated for airplanes
 și,adv,also,in addition; besides; as well; further; too
 de asemenea,adv,also,in addition; besides; as well; further; too
@@ -32,50 +73,121 @@ mereu,adv,always,at all times
 întotdeauna,adv,always,at all times
 uimitor,adj,amazing,causing wonder and amazement
 extraordinar,adj,amazing,causing wonder and amazement
+extraordinar,adj,amazing,possessing uniquely wonderful qualities
 furios,adj,angry,displaying anger
 mânios,adj,angry,displaying anger
 supărat,adj,angry,displaying anger
 animal,noun,animal,organism
 fiară,noun,animal,organism
+animal,noun,animal,organism other than human
+jivină,noun,animal,organism other than human
+fiară,noun,animal,person who behaves wildly
 răspunde,verb,answer,to make a reply or response to
+răspunde,verb,answer,to respond to a call
+soluționa,verb,answer,law: to file a response to a complaint
 apartament,noun,apartment,domicile occupying part of a building
 măr,noun,apple,fruit of Malus domestica
 arie,noun,area,maths: measure of extent of a surface
 arii,noun,area,maths: measure of extent of a surface
+suprafață,noun,area,particular geographic region
+areal,noun,area,particular geographic region
+zonă,noun,area,particular geographic region
+arie,noun,area,particular geographic region
 armă,noun,arm,weapon
 braț,noun,arm,upper appendage from shoulder to wrist
 ajunge,verb,arrive,to reach
 sosi,verb,arrive,to reach
+ajunge,verb,arrive,to get to a certain place
 artă,noun,art,human effort
+artă,noun,art,conscious production or arrangement
+artă,noun,art,skillful creative activity
+artă,noun,art,aesthetic value
+operă de artă,noun,art,artwork
+lucrare de artă,noun,art,artwork
 articol,noun,article,"story, report, or opinion piece"
+articol,noun,article,member of a group or class
+articol,noun,article,part of speech that specifies a noun
+articol,noun,article,section of a legal document
 artist,noun,artist,person who creates art
 artistă,noun,artist,person who creates art
+artist,noun,artist,person who creates art as an occupation
+artistă,noun,artist,person who creates art as an occupation
+artist,noun,artist,skilled person
+artistă,noun,artist,skilled person
 întreba,verb,ask,request an answer
+cere,verb,ask,make a request
+invita,verb,ask,make a request
+ruga,verb,ask,make a request
 mătușă,noun,aunt,a parent's sister or sister-in-law
 de aici,adv,away,from a place; hence
+încolo,adv,away,aside; off; in another direction
+în continuare,adv,away,"on; in continuance; without intermission or delay; as, sing away"
 înspăimântător,adj,awesome,causing awe or terror
+uimitor,adj,awesome,"excellent, exciting"
+formidabil,adj,awesome,"excellent, exciting"
 bebe,noun,baby,very young human being
 bebeluș,noun,baby,very young human being
 bebeluș,noun,baby,very young human being
 copilaș,noun,baby,very young human being
+pui,noun,baby,young animal
+copil,noun,baby,immature or infantile person
+imatur,noun,baby,immature or infantile person
+iubire,noun,baby,term of endearment — see also darling
+iubito,noun,baby,term of endearment — see also darling
+iubitule,noun,baby,term of endearment — see also darling
+drăguță,noun,baby,form of address to a man or a woman considered to be attractive
+frumoaso,noun,baby,form of address to a man or a woman considered to be attractive
+mezin,noun,baby,lastborn of a family
+mezină,noun,baby,lastborn of a family
 înapoi,adv,back,to or in a previous condition or place
 rău,adj,bad,unfavorable; negative
+rău,adj,bad,"evil, wicked"
 pungă,noun,bag,flexible container
 sac,noun,bag,flexible container
+pungă,noun,bag,paper (or plastic) container given or sold to shoppers
 bal,noun,ball,formal dance
 minge,noun,ball,solid or hollow sphere
 bilă,noun,ball,solid or hollow sphere
+bilă,noun,ball,"object, generally spherical, used for playing games"
+minge,noun,ball,"object, generally spherical, used for playing games"
+ghem,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+coi,noun,ball,testicle — see also testicle
+coaie,noun,ball,testicle — see also testicle
+boș,noun,ball,testicle — see also testicle
 banană,noun,banana,fruit
+bananier,noun,banana,plant
+banan,noun,banana,plant
+banan,noun,banana,color
 mal,noun,bank,edge of river or lake
 țărm,noun,bank,edge of river or lake
+pantă,noun,bank,"embankment, an earth slope"
 bancă,noun,bank,institution
 bar,noun,bar,unit of pressure
 bară,noun,bar,solid object with uniform cross-section
 gratie,noun,bar,solid object with uniform cross-section
+lingou,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+coloană,noun,bar,"long, narrow drawn or printed rectangle, cuboid or cylinder"
+bar,noun,bar,business licensed to sell intoxicating beverages
+bodegă,noun,bar,business licensed to sell intoxicating beverages
+berărie,noun,bar,business licensed to sell intoxicating beverages
+braserie,noun,bar,business licensed to sell intoxicating beverages
+birt,noun,bar,business licensed to sell intoxicating beverages
+cârciumă,noun,bar,business licensed to sell intoxicating beverages
+bar,noun,bar,counter of such premises
+tejghea,noun,bar,counter of such premises
+bar,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+interdicție,noun,bar,official order prohibiting some activity
+barou,noun,bar,law: collective term for lawyers
+bară,noun,bar,sports: in high jump and pole vault
+bară,noun,bar,nautical: sand formation
+linie,noun,bar,technology: a part of a pictogram indicating signal strength or charge level
 baseball,noun,baseball,ball game
 baschetbal,noun,basketball,the sport
 baschet,noun,basketball,the sport
+minge de baschet,noun,basketball,the ball used in the sport
 cadă,noun,bath,tub
+baie,noun,bath,building or area where bathing occurs
+baie,noun,bath,act of bathing
 baie,noun,bathroom,a room with a bathtub
 plajă,noun,beach,sandy shore
 frumos,adj,beautiful,attractive
@@ -86,14 +198,24 @@ pat,noun,bed,piece of furniture
 dormitor,noun,bedroom,room in a house where a bed is kept for sleeping
 dormitoare,noun,bedroom,room in a house where a bed is kept for sleeping
 bere,noun,beer,alcoholic drink made of malt
+bere,noun,beer,glass of beer
 a începe,verb,begin,"to start, to initiate (transitive)"
 începere,noun,beginning,act of doing that which begins anything
 început,noun,beginning,act of doing that which begins anything
 inițiere,noun,beginning,act of doing that which begins anything
 debut,noun,beginning,act of doing that which begins anything
+început,noun,beginning,that which is begun
+debut,noun,beginning,that which is begun
+start,noun,beginning,that which is begun
+început,noun,beginning,initial portion of some extended thing
+debut,noun,beginning,initial portion of some extended thing
 în urmă,adv,behind,at the back part; in the rear
 în spate,adv,behind,at the back part; in the rear
+spre spate,adv,behind,toward the back part or rear; backward
+îndărăt,adv,behind,toward the back part or rear; backward
+spre-napoi,adv,behind,toward the back part or rear; backward
 crede,verb,believe,to accept that someone is telling the truth (object: person)
+crede,verb,believe,to accept as true
 mai bun,adj,better,comparative of the adjectives good or well
 mai bine,adj,better,comparative of the adjectives good or well
 bicicletă,noun,bicycle,vehicle
@@ -102,13 +224,30 @@ mare,adj,big,of a great size — see also large
 bicicletă,noun,bike,bicycle
 inventar,noun,bill,written inventory
 listă,noun,bill,written inventory
+notă,noun,bill,official statement
+act,noun,bill,official statement
+proiect de lege,noun,bill,draft of a law
+propunere de lege,noun,bill,draft of a law
+plângere,noun,bill,"law: declaration made in writing, stating some wrong the complainant has suffered from the defendant"
+factură,noun,bill,invoice
+notă de plată,noun,bill,invoice
+afiș,noun,bill,advertisement
+poster,noun,bill,advertisement
+placardă,noun,bill,advertisement
+bilet de bancă,noun,bill,bill of exchange
 halebardă,noun,bill,weapon of infantry
+cosor,noun,bill,cutting instrument
+halebardier,noun,bill,somebody armed with a bill
 cioc,noun,bill,bird's beak
 plisc,noun,bill,bird's beak
 pasăre,noun,bird,animal
 aniversare,noun,birthday,anniversary
 zi de naștere,noun,birthday,anniversary
 negru,noun,black,colour/color
+negru,noun,black,"dye, pigment"
+negru,noun,black,dark-skinned person — see also Negro
+negresă,noun,black,dark-skinned person — see also Negro
+neagră,noun,black,"billiards, snooker, pool: black ball"
 blog,noun,blog,a personal or corporate website
 albastru,noun,blue,colour
 barcă,noun,boat,water craft
@@ -125,22 +264,39 @@ anost,adj,boring,causing boredom or tiredness
 fastidios,adj,boring,causing boredom or tiredness
 sticlă,noun,bottle,container
 butelie,noun,bottle,container
+sticlă,noun,bottle,contents of such a container
 cimișir,noun,box,shrub or tree of the genus Buxus — see also box tree
 cutie,noun,box,cuboid space; container
+cutie,noun,box,as much as fills a box
+lojă,noun,box,compartment to sit inside
+cabană,noun,box,small rectangular shelter
+baracă,noun,box,small rectangular shelter
+cutie,noun,box,(engineering) cylindrical casing
 băiat,noun,boy,young male
 fiu,noun,boy,young male
+băiat,noun,boy,"male of any age, used as a friendly diminutive"
 prieten,noun,boyfriend,male partner in a romantic relationship
 iubit,noun,boyfriend,male partner in a romantic relationship
 amant,noun,boyfriend,male partner in a romantic relationship
+prieten,noun,boyfriend,male friend
+amic,noun,boyfriend,male friend
 pâine,noun,bread,baked dough made from cereals
 pâne,noun,bread,baked dough made from cereals
 întrerupere,noun,break,instance of breaking something into pieces
 rupere,noun,break,instance of breaking something into pieces
 ruptură,noun,break,instance of breaking something into pieces
 fractură,noun,break,instance of breaking something into pieces
+crăpătură,noun,break,physical space that opens up in something or between two things
+spațiu (gol),noun,break,physical space that opens up in something or between two things
+deschidere,noun,break,physical space that opens up in something or between two things
+spărtură,noun,break,physical space that opens up in something or between two things
+pauză,noun,break,"rest or pause, usually from work"
 mic dejun,noun,breakfast,first meal of the day
 aduce,verb,bring,to transport toward somebody/somewhere
 frate,noun,brother,male sibling
+frate,noun,brother,male having parents in common
+frate,noun,brother,male fellow member of a religious community
+frate,noun,brother,peer
 brun,noun,brown,colour
 maro,noun,brown,colour
 clădi,verb,build,(transitive) to form by combining materials or parts
@@ -148,112 +304,232 @@ construi,verb,build,(transitive) to form by combining materials or parts
 construcție,noun,building,act or process of building
 construire,noun,building,act or process of building
 edificare,noun,building,act or process of building
+edificiu,noun,building,closed structure with walls and a roof
+clădire,noun,building,closed structure with walls and a roof
+construcție,noun,building,closed structure with walls and a roof
 autobuz,noun,bus,vehicle
+magistrală,noun,bus,electrical conductor
 întreprindere,noun,business,commercial enterprise or establishment
 firmă,noun,business,commercial enterprise or establishment
 companie,noun,business,commercial enterprise or establishment
+afacere,noun,business,"occupation, work or trade of a person"
+afacere,noun,business,"commercial, industrial or professional activity"
+harnic,adj,busy,doing a great deal
 unt,noun,butter,soft foodstuff made from milk
 cumpăra,verb,buy,to obtain something with money
 tort,noun,cake,type of sweet dessert
 prăjitură,noun,cake,type of sweet dessert
 turtă,noun,cake,type of sweet dessert
+bucată,noun,cake,block of dense material
+chemare,noun,call,telephone conversation
+vizită,noun,call,social visit
 aparat foto,noun,camera,still camera
 aparat fotografic,noun,camera,still camera
 cameră foto,noun,camera,still camera
 putea,verb,can,to be able to; to know how to
+putea,verb,can,may
 mașină,noun,car,"automobile, a vehicle steered by a driver"
 automobil,noun,car,"automobile, a vehicle steered by a driver"
+cabină,noun,car,"moving, load-carrying component of an elevator"
+card,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+carte,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 carieră,noun,career,one's calling in life; a person's occupation
 morcov,noun,carrot,Daucus carota ssp. sativus
 carotă,noun,carrot,Daucus carota ssp. sativus
 duce,verb,carry,to transport by lifting
 purta,verb,carry,to transport by lifting
 căra,verb,carry,to transport by lifting
+duce,verb,carry,to stock or supply
 pisică,noun,cat,domestic species
+pisică,noun,cat,member of the family Felidae
+motan,noun,cat,member of the family Felidae
+cotoi,noun,cat,member of the family Felidae
+mâță,noun,cat,member of the family Felidae
+felină,noun,cat,member of the family Felidae
 cent,noun,cent,subunit of currency in US and elsewhere
 centru,noun,center,point equidistant from all points on the perimeter of a circle
+mijloc,noun,center,point on a line midway between the ends
+centru,noun,center,point on a line midway between the ends
+centru,noun,center,point in the interior of figure with mean coordinates
+centru,noun,center,place where a function or activity occurs
 scaun,noun,chair,furniture
 schimbare,noun,change,the process of becoming different
 modificare,noun,change,the process of becoming different
+rest,noun,change,small denominations of money given in exchange for a larger denomination
+rest,noun,change,balance returned after a purchase
+transfer,noun,change,a transfer between vehicles
 hartă maritimă,noun,chart,navigator's map
 ieftin,adj,cheap,low and/or reduced in price
 verifica,verb,check,"to inspect, examine"
 controla,verb,check,"to inspect, examine"
+bifa,verb,check,to mark with a checkmark
+verifica,verb,check,to verify or compare with a source of information
 brânză,noun,cheese,dairy product
 caș,noun,cheese,dairy product
 cașcaval,noun,cheese,dairy product
 pui,noun,chicken,bird
 găină,noun,chicken,bird
+pui,noun,chicken,meat
 fiu,noun,child,son or daughter; someone's child
 fiică,noun,child,son or daughter; someone's child
 copil,noun,child,son or daughter; someone's child
 copilă,noun,child,son or daughter; someone's child
+copil,noun,child,a minor
+copilă,noun,child,a minor
 ciocolată,noun,chocolate,food made from ground roasted cocoa beans
+pralină,noun,chocolate,small piece of confectionery made from chocolate
+bomboană,noun,chocolate,small piece of confectionery made from chocolate
+ciocolatiu,noun,chocolate,colour
 alege,verb,choose,to pick
+alege,verb,choose,to elect
+vrea,verb,choose,to decide to act in a certain way
+prefera,verb,choose,to decide to act in a certain way
 oraș,noun,city,large settlement
 cetate,noun,city,large settlement
 urbe,noun,city,large settlement
 metropolă,noun,city,large settlement
 municipiu,noun,city,large settlement
 clasă,noun,class,"group, collection, category or set sharing characteristics or attributes"
+clasă,noun,class,"social grouping, based on job, wealth, etc."
+clasă,noun,class,group of students in a regularly scheduled meeting with a teacher
+clasă,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 clasă,noun,classroom,room in a school
 sală de clasă,noun,classroom,room in a school
 curăța,verb,clean,(transitive) to remove dirt from a place or object
 șterge,verb,clean,(transitive) to remove dirt from a place or object
 urca,verb,climb,"to ascend, to go up"
+sui,verb,climb,"to mount, to move upwards on"
 ceas,noun,clock,instrument to measure or keep track of time
+contor de parcurs,noun,clock,odometer
+tact,noun,clock,electrical signal
+impuls,noun,clock,electrical signal
 închide,verb,close,obstruct (an opening)
+închide,verb,close,move (a door)
+termina,verb,close,put an end to
+finisa,verb,close,put an end to
 haine,noun,clothes,apparel
 îmbrăcăminte,noun,clothes,apparel
 rufe,noun,clothes,apparel
 club,noun,club,association of members
+bâtă,noun,club,heavy stick for use as weapon or plaything
 cafea,noun,coffee,beverage
+cafea,noun,coffee,beans
+arbore-de-cafea,noun,coffee,plant
+cafeniu,noun,coffee,colour
 frig,noun,cold,low temperature
+gripă,noun,cold,illness
+răceală,noun,cold,illness
+troahnă,noun,cold,illness
+facultate,noun,college,institution of higher education teaching undergraduates
+facultate,noun,college,"non-specialized, semi-autonomous division of a university"
+institut,noun,college,"non-specialized, semi-autonomous division of a university"
+colegiu,noun,college,institution of further education at an intermediate level
+școală secundară,noun,college,institution of further education at an intermediate level
+colegiu,noun,college,institution for adult education at a basic or intermediate level
 culoare,noun,color,spectral composition of visible light
+culoare,noun,color,particular set of the visible spectrum
+culoare de piele,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
 veni,verb,come,to move nearer
 comun,adj,common,mutual
+obișnuit,adj,common,usual
+uzual,adj,common,usual
+comun,adj,common,usual
 societate,noun,company,"in legal context, a corporation"
 firmă,noun,company,"in legal context, a corporation"
 companie,noun,company,"in legal context, a corporation"
 întreprindere,noun,company,"in legal context, a corporation"
+companie,noun,company,group of individuals with a common purpose
+companie,noun,company,military unit
 compara,verb,compare,to assess the similarities between two things or between one thing and another
 completa,verb,complete,to finish
 termina,verb,complete,to finish
 computer,noun,computer,programmable electronic device
 calculator,noun,computer,programmable electronic device
 ordinator,noun,computer,programmable electronic device
+concert,noun,concert,musical accordance or harmony
+concert,noun,concert,a musical entertainment in which several voices or instruments take part
 conversație,noun,conversation,expression and exchange of individual ideas through talking with other people
 convorbire,noun,conversation,expression and exchange of individual ideas through talking with other people
 găti,verb,cook,to prepare food for eating
 prepara,verb,cook,to prepare food for eating
+coace,verb,cook,to become ready for eating
+încinge,verb,cook,colloquial: to be uncomfortably hot
+coace,verb,cook,colloquial: to be uncomfortably hot
 friguros,adj,cool,having a slightly low temperature
 corecta,verb,correct,to make something become right that was previously wrong
 costa,verb,cost,"to incur a charge, a price"
 prețui,verb,cost,"to incur a charge, a price"
 țară,noun,country,region of land
 pământ,noun,country,region of land
+țară,noun,country,nation state
+națiune,noun,country,nation state
+stat,noun,country,nation state
+patrie,noun,country,nation state
+țară,noun,country,"the country, rural area, as opposed to the town or city"
+sat,noun,country,"the country, rural area, as opposed to the town or city"
+curs,noun,course,education: learning program
+oră,noun,course,education: learning program
+fel,noun,course,cooking: stage of a meal
 văr,noun,cousin,any relation (especially a distant one) who is not a direct ancestor or descendant but part of a person’s extended family
+văr,noun,cousin,child of a person’s parent’s brother or sister
+vară,noun,cousin,child of a person’s parent’s brother or sister
+verișor,noun,cousin,child of a person’s parent’s brother or sister
+verișoară,noun,cousin,child of a person’s parent’s brother or sister
+văr bun,noun,cousin,child of a person’s parent’s brother or sister
 vacă,noun,cow,female domesticated ox or other bovine
+femelă,noun,cow,female of various species of mammal
+vacă,noun,cow,derogatory: despicable woman
 smântână,noun,cream,oily part of milk
+crem,noun,cream,colour
+cremă,noun,cream,the best part
+cremă,noun,cream,product to apply to the skin
 crea,verb,create,to put into existence
+crea,verb,create,"to design, invest with a new form, shape etc."
 cultură,noun,culture,"arts, customs and habits"
+cultură,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
+cultură,noun,culture,anthropology: any knowledge passed from one generation to the next
+cultură,noun,culture,microbiology: the process of growing a bacterial or other biological entity
+cultură,noun,culture,the collective noun for a group of bacteria
 ceașcă,noun,cup,drinking vessel
+cupă,noun,cup,trophy
+cupă,noun,cup,contest
+cupă,noun,cup,part of bra
+client,noun,customer,one who purchases or receives a product or service
+clientă,noun,customer,one who purchases or receives a product or service
+mușteriu,noun,customer,one who purchases or receives a product or service
 a tăia,verb,cut,to perform an incision
+tăia,verb,cut,to divide with a sharp instrument
+diminua,verb,cut,to reduce
+reduce,verb,cut,to reduce
 tată,noun,dad,informal: a father
 dansa,verb,dance,move rhythmically to music
 juca,verb,dance,move rhythmically to music
 dansator,noun,dancer,person who dances
+dansatoare,noun,dancer,a female person who dances
 periculos,adj,dangerous,full of danger
 murg,adj,dark,having an absolute or relative lack of light
 închis,adj,dark,having an absolute or relative lack of light
 întunecat,adj,dark,having an absolute or relative lack of light
 dată,noun,date,"that which specifies the time of writing, inscription etc."
+dată,noun,date,point of time at which a transaction or event takes place
+întâlnire,noun,date,pre-arranged social meeting
+întâlnire,noun,date,companion when one is partaking in a social occasion
+întâlnire,noun,date,meeting with a lover or potential lover; a person so met
 curmală,noun,date,fruit of the date palm
 finic,noun,date,fruit of the date palm
 fiică,noun,daughter,female offspring
 zi,noun,day,period between sunrise and sunset
+zi,noun,day,period of 24 hours
+zi,noun,day,period from midnight to the following midnight
+zi,noun,day,rotational period of a planet
+zi,noun,day,"part of a day period which one spends at one's job, school, etc."
 drag,adj,dear,loved; lovable
+scump,adj,dear,precious to or greatly valued by someone
+stimate,adj,dear,formal way of addressing
+dragă,adj,dear,an informal way of addressing the recipient in a letter's opening line
 decide,verb,decide,to resolve or settle
+decide,verb,decide,give judgement
+convinge,verb,decide,to cause someone to come to a decision
 delicios,adj,delicious,pleasing to taste
 gustos,adj,delicious,pleasing to taste
 descrie,verb,describe,to represent in words
@@ -268,46 +544,88 @@ dicționar,noun,dictionary,publication that explains the meanings of an ordered 
 vorbar,noun,dictionary,publication that explains the meanings of an ordered list of words
 muri,verb,die,to stop living
 diferență,noun,difference,quality of being different
+diferență,noun,difference,characteristic of something that makes it different from something else
+diferență,noun,difference,arithmetic: result of a subtraction
 diferit,adj,different,not the same
 deosebit,adj,different,not the same
+diferit,adj,different,unlike most others
+deosebit,adj,different,unlike most others
 greu,adj,difficult,"hard, not easy"
 dificil,adj,difficult,"hard, not easy"
 anevoios,adj,difficult,"hard, not easy"
 complicat,adj,difficult,"hard, not easy"
 cină,noun,dinner,evening meal
 masă de seară,noun,dinner,evening meal
+nutreț,noun,dinner,a meal given to an animal
+prânz,noun,dinner,midday meal
+banchet,noun,dinner,a formal meal
+dineu,noun,dinner,a formal meal
 murdar,adj,dirty,covered with or containing dirt
 nespălat,adj,dirty,covered with or containing dirt
 jegos,adj,dirty,covered with or containing dirt
+murdar,adj,dirty,"morally unclean, obscene or indecent"
+necuviincios,adj,dirty,"morally unclean, obscene or indecent"
+obscen,adj,dirty,"morally unclean, obscene or indecent"
+indecent,adj,dirty,"morally unclean, obscene or indecent"
 a discuta,verb,discuss,to converse or debate concerning a particular topic
 farfurie,noun,dish,vessel for holding/serving food
+vas,noun,dish,specific type of food
+vas,noun,dish,tableware to be/being washed
+antenă parabolică,noun,dish,type of antenna
 oare,verb,do,in questions
+face,verb,do,"perform, execute"
+da,verb,do,slang: have sex with
 doctor,noun,doctor,person who has attained a doctorate
 câine,noun,dog,animal
 cîine,noun,dog,animal
 cățea,noun,dog,animal
+câine,noun,dog,male canine
+câine,noun,dog,morally reprehensible person — see also scoundrel
 dolar,noun,dollar,designation for specific currency
 ușă,noun,door,"portal of entry into a building, room or vehicle"
 uși,noun,door,"portal of entry into a building, room or vehicle"
 jos,adv,down,"from a high to a low position, downwards"
 în jos,adv,down,"from a high to a low position, downwards"
 spre-n jos,adv,down,"from a high to a low position, downwards"
+la sud,adv,down,to the south
 desena,verb,draw,to produce a picture
+trage,verb,draw,"to drag, pull"
+atrage,verb,draw,to attract
+trage,verb,draw,to close curtains etc.
+trage,verb,draw,to determine the result of a lottery
+trage,verb,draw,cardgames: to take the top card of a deck into hand
 îmbrăca,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+se îmbrăca,verb,dress,to put on clothes — see also get dressed
 bea,verb,drink,consume liquid through the mouth
+bea,verb,drink,consume alcoholic beverages
 conduce,verb,drive,to operate (a wheeled motorized vehicle)
 ghida,verb,drive,to operate (a wheeled motorized vehicle)
+mâna,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
 conducător,noun,driver,"one who drives something, e.g. cattle"
+șofer,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+șoferiță,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+conducător auto,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+pilot,noun,driver,person who drives some other vehicle
 pe,adv,each,apiece
 spic,noun,ear,fruiting body of a grain plant
 ureche,noun,ear,organ of hearing
+informator,noun,ear,slang: police informant
+ciripitor,noun,ear,slang: police informant
 devreme,adv,early,at a time before expected
 ușor,adj,easy,requiring little skill or effort
 mânca,verb,eat,"to ingest — see also consume, ingest"
+îngrijora,verb,eat,colloquial: cause to worry
+roade,verb,eat,colloquial: cause to worry
+a lua o masă,verb,eat,eat a meal
+a lua masa,verb,eat,eat a meal
 ou,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+ou,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+cucui,noun,egg,swelling on one’s head resulting from an injury
 elefant,noun,elephant,mammal
 sfârși,verb,end,"intransitive: be finished, be terminated"
 termina,verb,end,"intransitive: be finished, be terminated"
+sfârși,verb,end,"transitive: finish, terminate (something)"
+termina,verb,end,"transitive: finish, terminate (something)"
 savura,verb,enjoy,to receive pleasure or satisfaction from something
 bucura,verb,enjoy,to receive pleasure or satisfaction from something
 distra,verb,enjoy,to receive pleasure or satisfaction from something
@@ -315,164 +633,354 @@ destul,adv,enough,sufficiently
 suficient,adv,enough,sufficiently
 de ajuns,adv,enough,sufficiently
 euro,noun,euro,currency unit of the European Monetary Union
+euro,noun,euro,coin worth 1 euro
 chiar,adv,even,"exactly, fully"
 exact,adv,even,"exactly, fully"
+chiar,adv,even,implying extreme example
+și,adv,even,emphasising comparative
+seară,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 eveniment,noun,event,occurrence
 exemplu,noun,example,something representative of a group
 pildă,noun,example,something representative of a group
+exemplu,noun,example,something serving to explain or illustrate a rule
+exemplu,noun,example,something serving as a pattern of behaviour
+exemplu,noun,example,person punished as a warning to others
+exemplu,noun,example,parallel or closely similar case
 entuziasmat,adj,excited,having great enthusiasm and energy
 înflăcărat,adj,excited,having great enthusiasm and energy
 emoționat,adj,excited,having great enthusiasm and energy
 exaltat,adj,excited,having great enthusiasm and energy
+excitat,adj,excited,being in a state of higher energy
 scump,adj,expensive,having a high price or cost
 costisitor,adj,expensive,having a high price or cost
 explica,verb,explain,to make intelligible
 ochi,noun,eye,organ
 față,noun,face,anatomy: front part of head
+față,noun,face,geometry: bounding surface of a polyhedron
 fapt,noun,fact,an honest observation
+fapt,noun,fact,something actual
+faptă,noun,fact,something actual
+faptă,noun,fact,something concrete used as a basis for further interpretation
+fapt,noun,fact,an objective consensus on a fundamental reality
+fapt,noun,fact,information about a particular subject
 cădere,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 fals,adj,false,"untrue, not factual, wrong"
 neadevăr,adj,false,"untrue, not factual, wrong"
+fals,adj,false,"spurious, artificial"
+artificial,adj,false,"spurious, artificial"
+contrafăcut,adj,false,"spurious, artificial"
+fals,adj,false,state in Boolean logic that indicates a negative result
 celebru,adj,famous,well known
 faimos,adj,famous,well known
 fantastic,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
+fantastic,adj,fantastic,existing in or constructed from fantasy
 departe,adv,far,at a great distance
 fermă,noun,farm,place where agricultural activities take place
 gospodărie agricolă,noun,farm,place where agricultural activities take place
 fermier,noun,farmer,person who works the land and/or who keeps livestock
 fermieră,noun,farmer,person who works the land and/or who keeps livestock
+repede,adv,fast,with great speed
 gras,adj,fat,carrying a larger than normal amount of fat on one's body
+gros,adj,fat,thick
 tată,noun,father,male parent
+părinte,noun,father,term of address for a priest
 simți,verb,feel,transitive: to sense by touch
+simți,verb,feel,transitive: to experience an emotion or other mental state about
 sentiment,noun,feeling,sensation
 sentimente,noun,feeling,sensation
 simțământ,noun,feeling,sensation
+sentiment,noun,feeling,emotion; impression
+sentimente,noun,feeling,emotion; impression
 festival,noun,festival,event or community gathering
 a umple,verb,fill,"add contents to, so it is full"
 împlini,verb,fill,"add contents to, so it is full"
+plomba,verb,fill,treat (a tooth)
 găsi,verb,find,"encounter, locate, discover"
 fin,adj,fine,of superior quality
 termina,verb,finish,to complete
 încheia,verb,finish,to complete
 isprăvi,verb,finish,to complete
 sfârși,verb,finish,to complete
+finisa,verb,finish,to apply a final treatment to
+se termina,verb,finish,to come to an end
+se încheia,verb,finish,to come to an end
+se isprăvi,verb,finish,to come to an end
+se sfârși,verb,finish,to come to an end
+pune capăt,verb,finish,"to put an end to, destroy"
 foc,noun,fire,oxidation reaction
+incendiu,noun,fire,damaging occurrence of fire
+sobă,noun,fire,heater or stove used in place of real fire
 întâi,adv,first,before anything else
 pește,noun,fish,vertebrate animal
+pește,noun,fish,flesh of fish as food
+pescuit,noun,fish,period of time spent fishing
+pescuire,noun,fish,period of time spent fishing
 fugă,noun,flight,act of fleeing
 zbor,noun,flight,act of flying
 zburare,noun,flight,act of flying
+zbor,noun,flight,instance of flying
 podea,noun,floor,bottom part of a room
 planșeu,noun,floor,bottom part of a room
 floare,noun,flower,reproductive structure in angiosperms
 zbura,verb,fly,to travel through air
+înălța,verb,fly,to cause to travel through the air
+arbora,verb,fly,to display a flag from a flagpole
 urma,verb,follow,to go or come after in physical space
 urmări,verb,follow,to go or come after in physical space
+urma,verb,follow,to go or come after in a sequence
+urma,verb,follow,to carry out in accordance to
+urma,verb,follow,to live one’s life according to
+urmări,verb,follow,to keep track of
+urmări,verb,follow,to subscribe to see content from an account on a social media platform
+reieși,verb,follow,to be a logical consequence of
+rezulta,verb,follow,to be a logical consequence of
+urma,verb,follow,to be a logical consequence of
 aliment,noun,food,any substance consumed by living organisms to sustain life
 mâncare,noun,food,any substance consumed by living organisms to sustain life
 hrană,noun,food,any substance consumed by living organisms to sustain life
+alimentare,noun,food,anything intended to supply energy or nourishment of other forms
+nutriție,noun,food,anything intended to supply energy or nourishment of other forms
+aliment,noun,food,foodstuff
+mâncare,noun,food,foodstuff
 picior,noun,foot,part of human body
+picior,noun,foot,unit of measure
 fotbal,noun,football,association football
+fotbal australian,noun,football,"game in Northern Territory, South Australia, Tasmania, Victoria, Western Australia"
+rugby în XIII,noun,football,"game in New South Wales, Queensland"
+rugbi în XIII,noun,football,"game in New South Wales, Queensland"
+minge,noun,football,ball
+minge de fotbal,noun,football,ball
+balon,noun,football,ball
+fotbal,noun,football,practise of any of these games
+joc de fotbal,noun,football,practise of any of these games
 uita,verb,forget,to lose remembrance of
+uita,verb,forget,to unintentionally not do
+uita,verb,forget,to cease remembering
 forma,verb,form,to give shape
+forma,verb,form,(linguistics) to create a word
+forma,verb,form,"to constitute, to compose"
 liber,adj,free,not imprisoned
 slobod,adj,free,not imprisoned
+liber,adj,free,unconstrained
+neîmpiedicat,adj,free,unconstrained
+liber,adj,free,mathematics: unconstrained
+nelegat,adj,free,mathematics: unconstrained
+liber,adj,free,unobstructed
+neîmpiedicat,adj,free,unobstructed
+liber,adj,free,not in use
+neocupat,adj,free,not in use
+liber,adj,free,without obligations
+gratuit,adj,free,software: with very few limitations on distribution or improvement
+liber,adj,free,software: with very few limitations on distribution or improvement
+fără,adj,free,without
 amic,noun,friend,person whose company one enjoys
 amică,noun,friend,person whose company one enjoys
 prieten,noun,friend,person whose company one enjoys
 prietenă,noun,friend,person whose company one enjoys
+prieten,noun,friend,boyfriend or girlfriend
+iubit,noun,friend,boyfriend or girlfriend
+amic,noun,friend,person with whom you are acquainted
+амик,noun,friend,person with whom you are acquainted
 prietenos,adj,friendly,"approachable, warm"
 amical,adj,friendly,"approachable, warm"
+amical,adj,friendly,characteristic of friendliness
+prietenos,adj,friendly,characteristic of friendliness
 fruct,noun,fruit,part of plant
 poamă,noun,fruit,part of plant
 rod,noun,fruit,part of plant
+fruct,noun,fruit,food
+fruct,noun,fruit,figuratively: positive end result or reward of labour or effort
+rod,noun,fruit,figuratively: positive end result or reward of labour or effort
 plin,adj,full,containing the maximum possible amount
+complet,adj,full,complete
+terminat,adj,full,complete
+întreg,adj,full,"total, entire"
+total,adj,full,"total, entire"
+săturat,adj,full,"satisfied, in relation to eating"
+sătul,adj,full,"satisfied, in relation to eating"
 distracție,noun,fun,enjoyment or amusement
 amuzament,noun,fun,enjoyment or amusement
 divertisment,noun,fun,enjoyment or amusement
 plăcere,noun,fun,enjoyment or amusement
 caraghios,adj,funny,amusing; comical
 amuzant,adj,funny,amusing; comical
+caraghios,adj,funny,strange; unusual
 viitor,noun,future,the time ahead
+viitor,noun,future,something that will happen in moments yet to come
 joc,noun,game,"playful activity that may be unstructured, amusement, pastime"
+vânat,noun,game,wild animals hunted for food
 grădină,noun,garden,piece of land outside with flowers and plants
+parc,noun,garden,gardens with public access
+grădina publică,noun,garden,gardens with public access
+grădină,noun,garden,grounds at the front or back of a house
+curte,noun,garden,grounds at the front or back of a house
+iarbă,noun,garden,slang: the pubic hair
 geografie,noun,geography,study of physical structure and inhabitants of the Earth
 ӂеографие,noun,geography,study of physical structure and inhabitants of the Earth
 primi,verb,get,to obtain
 obține,verb,get,to obtain
+primi,verb,get,to receive
 fată,noun,girl,young female person
 copilă,noun,girl,young female person
 prietenă,noun,girlfriend,a female partner in a romantic relationship
+amică,noun,girlfriend,a female friend
 da,verb,give,transfer the possession of something to someone else
 sticlă,noun,glass,substance
+pahar,noun,glass,drinking vessel
 merge,verb,go,to move through space (especially from one place to another)
 duce,verb,go,to move through space (especially from one place to another)
+funcționa,verb,go,"of a machine, to work"
+merge,verb,go,"of a machine, to work"
+dispărea,verb,go,to disappear
+distruge,verb,go,to be destroyed
+face,verb,go,to make (a specified sound)
 bun,adj,good,acting in the interest of good; ethical good intentions
 bună,adj,good,acting in the interest of good; ethical good intentions
+bun,adj,good,useful for a particular purpose
 bunic,noun,grandfather,grandfather (from either side)
 tataie,noun,grandfather,grandfather (from either side)
 tată mare,noun,grandfather,grandfather (from either side)
+străbunic,noun,grandfather,male forefather
+strămoș,noun,grandfather,male forefather
+străbun,noun,grandfather,male forefather
 bunică,noun,grandmother,mother of someone's parent
 mamaie,noun,grandmother,mother of someone's parent
 mamă mare,noun,grandmother,mother of someone's parent
 gri,noun,gray,colour
 mare,adj,great,"very big, large scale"
+superb,adj,great,very good
+minunat,adj,great,very good
+foarte bun,adj,great,very good
 verde,noun,green,colour
 grup,noun,group,number of things or persons being in some relation to each other
+grup,noun,group,in group theory
+grup,noun,group,people who perform music together
+grupă,noun,group,column in the periodic table
 crește,verb,grow,(intransitive) to become bigger
 ghitară,noun,guitar,musical instrument
 chitară,noun,guitar,musical instrument
 sală de gimnastică,noun,gym,sporting facility specialized for lifting weights and exercise
 fir de păr,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+păr,noun,hair,mass of such filaments on the human head
+păr (de pe corp),noun,hair,mass of such filaments growing from the skin of humans and animals
+blană (zool.),noun,hair,mass of such filaments growing from the skin of humans and animals
 jumătate,noun,half,one of two equal parts into which anything may be divided
 mână,noun,hand,part of the fore limb
+ac indicator,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+limbă (de ceas),noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+parte,noun,hand,"side; part; direction, either right or left"
+latură,noun,hand,"side; part; direction, either right or left"
+îndemânare,noun,hand,power of performance; means of execution; ability; skill; dexterity
+abilitate,noun,hand,power of performance; means of execution; ability; skill; dexterity
+dibăcie,noun,hand,power of performance; means of execution; ability; skill; dexterity
+mână,noun,hand,set of cards held by a player in a card game
 întâmpla,verb,happen,to occur
 petrece,verb,happen,to occur
 fericit,adj,happy,"contented, joyous"
 bucuros,adj,happy,"contented, joyous"
+norocos,adj,happy,"fortunate, lucky"
+mulțumit,adj,happy,content (to do something); having no objection (to something)
+satisfăcut,adj,happy,content (to do something); having no objection (to something)
+fericit,adj,happy,"appropriate, apt, felicitous"
+fericit,adj,happy,may you have a happy
 pălărie,noun,hat,a head covering
 urî,verb,hate,to dislike intensely
 avea,verb,have,to possess
+avea,verb,have,auxiliary used in forming the perfect and the past perfect tenses
 cap,noun,head,part of the body
+cap,noun,head,"blunt end of a nail, screw etc."
+șef,noun,head,"leader, chief, mastermind"
+cap,noun,head,"leader, chief, mastermind"
+lider,noun,head,"leader, chief, mastermind"
+căpetenie,noun,head,"leader, chief, mastermind"
+muie,noun,head,slang: oral sex
+mumu,noun,head,slang: oral sex
 sănătate,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+sănătate,noun,health,physical condition
 sănătos,adj,healthy,enjoying good health
+sănătos,adj,healthy,conducive to health
+sănătos,adj,healthy,evincing health
+zdravăn,adj,healthy,evincing health
 auzi,verb,hear,to perceive with the ear
+auzi,verb,hear,to perceive sounds through the ear
+auzi,verb,hear,To receive information about; to come to learn of
 ajutor,noun,help,action given to provide assistance
 asistență,noun,help,action given to provide assistance
+ajutor,noun,help,person or persons who provides assistance with some task
+ajutoare,noun,help,person or persons who provides assistance with some task
 aici,adv,here,"in, on, or at this place"
 aci,adv,here,"in, on, or at this place"
+încoace,adv,here,to this place
 înalt,adj,high,elevated; tall
 înălțat,adj,high,elevated; tall
 ridicat,adj,high,elevated; tall
+mare,adj,high,of great or large quantity
+înalt,adj,high,acoustics: of greater frequency
+mare,adj,high,acoustics: of greater frequency
+drogat,adj,high,slang: under the influence of drugs
+tras,adj,high,slang: under the influence of drugs
+high,adj,high,slang: under the influence of drugs
 istorie,noun,history,aggregate of past events
+istorie,noun,history,branch of knowledge that studies the past
+istorie,noun,history,record or narrative description of past events
+povestire,noun,history,record or narrative description of past events
 hobby,noun,hobby,activity done for enjoyment in spare time
 acasă,adv,home,at home
+acasă,adv,home,homewards
 temă,noun,homework,work that is done at home
+temă,noun,homework,preliminary or preparatory work
 spera,verb,hope,"to want something to happen, with expectation that it might"
 nădăjdui,verb,hope,"to want something to happen, with expectation that it might"
 cal,noun,horse,members of the species Equus ferus
+cabalin,noun,horse,related or similar species
+cavaler,noun,horse,cavalry soldiers
+capră,noun,horse,gymnastic equipment
+cal,noun,horse,knight in chess — see also knight
 cal,noun,horse,slang: heroin
 cal alb,noun,horse,slang: heroin
 căluț,noun,horse,slang: heroin
 spital,noun,hospital,large medical facility
 cald,adj,hot,having a high temperature
 fierbinte,adj,hot,having a high temperature
+cald,adj,hot,of the weather
+i fi fierbinte,adj,hot,feeling the sensation of heat
+febril,adj,hot,feverish
+iute,adj,hot,spicy
+picant,adj,hot,spicy
+bun,adj,hot,slang: physically very attractive
+bunoc,adj,hot,slang: physically very attractive
+bunoacă,adj,hot,slang: physically very attractive
 hotel,noun,hotel,establishment providing accommodation
 oră,noun,hour,time period of sixty minutes
 ceas,noun,hour,time period of sixty minutes
+oră,noun,hour,the time
 casă,noun,house,human abode
+cameră,noun,house,debating chamber for government politicians
+dinastie,noun,house,"dynasty, familiar descendance"
+familie dinastică,noun,house,"dynasty, familiar descendance"
 cât,adv,how,to what degree
+cum,adv,how,in what manner
+ce,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+cât de,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 totuși,adv,however,nevertheless
 însă,adv,however,nevertheless
 flămând,adj,hungry,affected by hunger; desirous of food
 i fi foame,adj,hungry,affected by hunger; desirous of food
 soț,noun,husband,male partner in marriage
 gheață,noun,ice,water in frozen form
+gheață carbonică,noun,ice,frozen volatile chemical
+înghețată,noun,ice,frozen dessert
 înghețată,noun,ice cream,dessert
+înghețată,noun,ice cream,in a cone
+idee,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+părere,noun,idea,"any result of mental activity; a thought, a notion; a way of thinking"
+idee,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+bănuială,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
 imagina,verb,imagine,(transitive) to form a mental image of something
 închipui,verb,imagine,(transitive) to form a mental image of something
 important,adj,important,having relevant and crucial value
 îmbunătăți,verb,improve,to make something better
+a se îmbunătăți,verb,improve,to become better
 informație,noun,information,communicable knowledge
 interesa,verb,interest,to attract attention or concern
 interesat,adj,interested,having or showing interest
@@ -480,151 +988,372 @@ interesant,adj,interesting,arousing or holding the attention
 intervieva,verb,interview,to have an interview
 prezenta,verb,introduce,to cause someone to be acquainted
 insulă,noun,island,area of land completely surrounded by water
+insulă,noun,island,entity surrounded by other entities that are very different from itself
 geacă,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+sacou,noun,jacket,piece of a person's suit
 blugi,noun,jeans,denim trousers
+muncă,noun,job,economic role for which a person is paid
+slujbă,noun,job,economic role for which a person is paid
+lucru,noun,job,economic role for which a person is paid
+treabă,noun,job,economic role for which a person is paid
 alătura,verb,join,to combine more than one item into one; to put together
 împreuna,verb,join,to combine more than one item into one; to put together
 uni,verb,join,to combine more than one item into one; to put together
 suc,noun,juice,liquid from a plant
+suc,noun,juice,beverage made of juice
 doar,adv,just,"only, simply, merely"
 numai,adv,just,"only, simply, merely"
+tocmai,adv,just,"recently, moments ago"
+întocmai,adv,just,"exactly, precisely, perfectly"
 păstra,verb,keep,to maintain possession of
 ține,verb,keep,to maintain possession of
 fel,noun,kind,"type, race, category"
 gen,noun,kind,"type, race, category"
 bucătărie,noun,kitchen,room
 ști,verb,know,be justifiably certain or sure about (something true)
+cunoaște,verb,know,be acquainted or familiar with
+ști,verb,know,have knowledge of
+cunoaște,verb,know,have sexual relations with
 uscat,noun,land,part of Earth that is not covered by oceans or other bodies of water
 pământ,noun,land,part of Earth that is not covered by oceans or other bodies of water
+teren,noun,land,real estate or landed property
+pământ,noun,land,real estate or landed property
+țară,noun,land,country or region
+pământ (arabil),noun,land,ground that is suitable for farming
+teren (cultivabil),noun,land,ground that is suitable for farming
 limbă,noun,language,body of words used as a form of communication
+vorbire,noun,language,the ability to communicate using words
+limbaj,noun,language,the ability to communicate using words
+limbă,noun,language,the ability to communicate using words
+limbaj,noun,language,nonverbal communication
+limbaj,noun,language,vocabulary of a particular field
+jargon,noun,language,vocabulary of a particular field
+limbaj,noun,language,computer language — see also computer language
 mare,adj,large,of greater size — see also big
 târziu,adv,late,past a designated time
 mai târziu,adv,later,more late
+mai târziu,adv,later,afterward in time
+mai târziu,adv,later,at some unspecified time in the future
 râs,noun,laugh,expression of mirth peculiar to the human species
 râset,noun,laugh,expression of mirth peculiar to the human species
 învăța,verb,learn,to acquire knowledge or ability
+învăța,verb,learn,to make use of a bad experience
+învăța,verb,learn,to be studying
+studiu,verb,learn,to be studying
+afla,verb,learn,to come to know; to become informed of; to find out
 lăsa,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+pleca,verb,leave,"to depart from, end one's connection or affiliation with"
+pleca,verb,leave,to depart (intransitive)
 stânga,noun,left,the left side
+stângă,noun,left,the ensemble of left-wing political parties
 gambă,noun,leg,lower limb from groin to ankle
 picior,noun,leg,lower limb from groin to ankle
 lecție,noun,lesson,section of learning or teaching
+lecție,noun,lesson,something learned
+lecție,noun,lesson,something that serves as a warning or encouragement
 lăsa,verb,let,allow
+(hai) să,verb,let,introducing an imperative
 literă,noun,letter,a symbol in an alphabet
 caracter,noun,letter,a symbol in an alphabet
+scrisoare,noun,letter,written message
 bibliotecă,noun,library,"institution which holds books, etc."
+bibliotecă,noun,library,collection of books
 minți,verb,lie,tell an intentional untruth
 sta culcat,verb,lie,be in horizontal position
 zăcea,verb,lie,be in horizontal position
 sta întins,verb,lie,be in horizontal position
 sta orizontal,verb,lie,be in horizontal position
+fi situat,verb,lie,be situated
+se găsi,verb,lie,be situated
 viață,noun,life,the state of being alive
+viață,noun,life,the essence of the manifestation and the foundation of the being
+viață,noun,life,the subjective and inner manifestation of the individual
+durată,noun,life,duration
 ușor,adj,light,of low weight
 plăcea,verb,like,to enjoy
+aprecia,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+da like,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
 funie,noun,line,"rope, cord, or string"
 frânghie,noun,line,"rope, cord, or string"
 sfoară,noun,line,"rope, cord, or string"
 șnur,noun,line,"rope, cord, or string"
 ață,noun,line,"rope, cord, or string"
+dreaptă,noun,line,geometry: infinite one-dimensional figure
+linie deaptă,noun,line,geometry: infinite one-dimensional figure
+segment (de dreaptă),noun,line,geometry: continuous finite segment of such a figure
+muchie,noun,line,graph theory: edge of a graph
+cant,noun,line,graph theory: edge of a graph
+latitudine,noun,line,"geography: circle of latitude or of longitude, as represented on a map"
+longitudine,noun,line,"geography: circle of latitude or of longitude, as represented on a map"
+linie de portativ,noun,line,music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed
+metru (de măsură),noun,line,"long tape, or a narrow ribbon of steel, etc., marked with subdivisions, as feet and inches, for measuring; a tapeline"
+direcție,noun,line,"direction, path"
+linie directoare,noun,line,"direction, path"
+linie,noun,line,telephone or network connection
+coadă,noun,line,"straight sequence of people, queue"
+replică,noun,line,"sentence of dialogue, especially in a script or screenplay"
 leu,noun,lion,big cat Panthera leo
 asculta,verb,listen,to pay attention to a sound
+asculta,verb,listen,to expect or wait for a sound
+asculta,verb,listen,to accept advice or obey instruction
+asculta,verb,listen,to hear (something)
 mic,adj,little,small in size
 mică,adj,little,small in size
 trăi,verb,live,be alive
+a locui,verb,live,have permanent residence
+a trăi,verb,live,have permanent residence
+a avea locuință,verb,live,have permanent residence
+a supraviețui,verb,live,"survive, persevere, continue"
 local,adj,local,of a nearby location
+local,adj,local,medicine: of or pertaining to a restricted part of an organism
 privi,verb,look,to try to see
 uita,verb,look,to try to see
 vedea,verb,look,to try to see
+părea,verb,look,"to appear, to seem"
+arăta,verb,look,"to appear, to seem"
+părea,verb,look,give an appearance of being
+arăta,verb,look,give an appearance of being
 pierde,verb,lose,cause (something) to cease to be in one's possession or capability
+pierde,verb,lose,(transitive) fail to win
 iubi,verb,love,have a strong affection for
 adora,verb,love,have a strong affection for
+dori,verb,love,be strongly inclined towards doing
+adora,verb,love,be strongly inclined towards doing
+venera,verb,love,be strongly inclined towards doing
+admira,verb,love,care about; will good for
+ține la,verb,love,care about; will good for
+păsa de,verb,love,care about; will good for
+face amor,verb,love,(euphemistic): to have sex with
+face dragoste,verb,love,(euphemistic): to have sex with
+culca,verb,love,(euphemistic): to have sex with
 prânz,noun,lunch,meal around midday
 dejun,noun,lunch,meal around midday
 mare dejun,noun,lunch,meal around midday
 mașină,noun,machine,mechanical or electrical device
 mașină electrică,noun,machine,mechanical or electrical device
 mașină mecanică,noun,machine,mechanical or electrical device
+mașină,noun,machine,"archaic: vehicle, automobile"
+automobil,noun,machine,"archaic: vehicle, automobile"
+mașină,noun,machine,a person who is very proficient
 revistă,noun,magazine,periodical
 principal,adj,main,"chief, most important, or principal in extent, etc."
 face,verb,make,to construct
+centru comercial,noun,mall,enclosed shopping centre
+mall,noun,mall,enclosed shopping centre
 bărbat,noun,man,adult male human
 om,noun,man,adult male human
+om,noun,man,a human being
 hartă,noun,map,visual representation of an area
+târg,noun,market,spacious site for trading
+piață,noun,market,spacious site for trading
 căsătorit,adj,married,in a state of marriage; having a wife or a husband
 însurat,adj,married,in a state of marriage; having a wife or a husband
+căsătorită,adj,married,in a state of marriage; having a husband
 poate,adv,maybe,indicating a lack of certainty
+poate,adv,maybe,as a pro-sentence
 masă,noun,meal,food that is prepared and eaten
 făină,noun,meal,coarse-ground edible part of various grains
 vrea,verb,mean,to intend; plan on doing
 avea intenția,verb,mean,to intend; plan on doing
 se gândi,verb,mean,to intend; plan on doing
+semnifica,verb,mean,"to convey, indicate"
+indica,verb,mean,"to convey, indicate"
+însemna,verb,mean,"to convey, indicate"
+vrea să spună,verb,mean,to signify
+semnifica,verb,mean,to signify
+am convingerea,verb,mean,to have conviction in what one says
 semnificație,noun,meaning,symbolic value of something
 sens,noun,meaning,symbolic value of something
 carne,noun,meat,animal flesh used as food
+carici,noun,meat,slang: penis
 a întâlni,verb,meet,to come face to face with by accident; to encounter
+a întâlni,verb,meet,to come face to face with someone by arrangement
+a se atinge,verb,meet,to converge and finally touch or intersect
+a raspunde,verb,meet,to satisfy; to comply with
+ședință,noun,meeting,gathering for a purpose
 membru,noun,member,one who officially belongs to a group
 membră,noun,member,one who officially belongs to a group
+membru,noun,member,"organ, limb"
+mădular,noun,member,"organ, limb"
 meniu,noun,menu,details of the food to be served at a banquet
+meniu,noun,menu,list of dishes offered in a restaurant
+meniu,noun,menu,computing: list from which the user may select an operation to be performed
 mesaj,noun,message,"communication, concept or information conveyed"
 metru,noun,meter,measuring instrument
 contor,noun,meter,measuring instrument
+metru,noun,meter,increment of music
+ritm,noun,meter,increment of music
+miezul nopții,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+miez de noapte,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+mijloc de noapte,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+мезул нопций,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 milă,noun,mile,measure of length
 lapte,noun,milk,liquid
 minut,noun,minute,unit of time
+minut,noun,minute,short but unspecified period of time
+minut,noun,minute,unit of angular measure — see also minute of angle
+minut,noun,minute,minute of use of telephone network
 rata,verb,miss,to fail to hit
+trece cu vederea,verb,miss,"to fail to notice, to overlook"
 greșeală,noun,mistake,an error
 eroare,noun,mistake,an error
 moment,noun,moment,very brief period of time
 clipă,noun,moment,very brief period of time
+moment,noun,moment,moment in time
+moment,noun,moment,moment of force
 ban,noun,money,means of exchange and measure of value
+ban,noun,money,wealth
 lună,noun,month,period into which a year is divided
 dimineață,noun,morning,part of the day between dawn and midday
+dimineață,noun,morning,the part of the day after midnight and before midday
 mamă,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 maică,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+mamă,noun,mother,one’s female parent
 munte,noun,mountain,large mass of earth and rock
+grămadă,noun,mountain,large amount
+munte,noun,mountain,large amount
+noian,noun,mountain,large amount
 șoarece,noun,mouse,rodent of the genus Mus
+maus,noun,mouse,computing: input device
+șoricel,noun,mouse,computing: input device
 gură,noun,mouth,the opening of a creature through which food is ingested
 гурэ,noun,mouth,the opening of a creature through which food is ingested
+gură,noun,mouth,"an outlet, aperture or orifice"
+orificiu,noun,mouth,"an outlet, aperture or orifice"
+deschizătură,noun,mouth,"an outlet, aperture or orifice"
+gură,noun,mouth,the end of a river out of which water flows
 se mișca,verb,move,(intransitive) to change place or posture; to go
 se muta,verb,move,(intransitive) to change place or posture; to go
+actiona,verb,move,to act; to take action
+muta,verb,move,to change residence
+mișca,verb,move,(transitive) to change the place of something
+muta,verb,move,(transitive) to change the place of something
+mișca,verb,move,to transfer from one space or position to another
+muta,verb,move,to transfer from one space or position to another
+emoționa,verb,move,to excite to action
+însufleți,verb,move,to excite to action
+emoționa,verb,move,to arouse the feelings or passions of
+propune,verb,move,to propose; to recommend
+recomanda,verb,move,to propose; to recommend
 film,noun,movie,motion picture
 muzeu,noun,museum,building or institution
 muzică,noun,music,"sound, organized in time in a melodious way"
+muzică,noun,music,any pleasing or interesting sounds
+melodie,noun,music,any pleasing or interesting sounds
+partitură,noun,music,sheet music
 trebui,verb,must,be required to
 numi,verb,name,to give a name to
+natural,adj,natural,of or relating to nature
+natural,adj,natural,without additives
+natural,adj,natural,as expected
+natural,adj,natural,without adjustment
+natural,adj,natural,of colour: almost white
 trebui,verb,need,to have an absolute requirement for
 avea nevoie de,verb,need,to have an absolute requirement for
+trebui,verb,need,to be obliged to
+vecinătate,noun,neighborhood,area near one's home
+cartier,noun,neighborhood,division of a municipality or region
+vecinătate,noun,neighborhood,topology: set of all points that may be reached directly from a given point
 niciodată,adv,never,at no time
 nicicând,adv,never,at no time
 nou,adj,new,recently made or created
+nou,adj,new,"additional, recently discovered"
+nou,adj,new,current or later
+nou,adj,new,newborn
+nou,adj,new,of recent origin
+nou,adj,new,"strange, unfamiliar"
+nou,adj,new,recently arrived or appeared
+nou,adj,new,"inexperienced, unaccustomed"
 știre,noun,news,new information of interest
 noutate,noun,news,new information of interest
+știre,noun,news,reports of current events
+știri,noun,news,reports of current events
 ziar,noun,newspaper,publication
 simpatic,adj,nice,"pleasant, satisfactory"
 noapte,noun,night,period between sunset and sunrise
+noapte,noun,night,evening or night spent at a particular activity
+noapte,noun,night,night spent away from home
+noapte,noun,night,nightfall
+înserare,noun,night,nightfall
+întuneric,noun,night,darkness
 nas,noun,nose,protuberance on the face
+bot,noun,nose,"snout, nose of an animal"
+vârf,noun,nose,tip of an object
+cioc,noun,nose,tip of an object
+lungime de nas,noun,nose,length of a horse’s nose
+aromă,noun,nose,bouquet
+buchet,noun,nose,bouquet
+nas,noun,nose,skill in recognising bouquet
+nas,noun,nose,skill at finding information
 nu,adv,not,negates meaning of another word
 notă,noun,note,visible sign
 semn,noun,note,visible sign
+marcaj,noun,note,"mark, or sign, made to call attention"
+semn,noun,note,"mark, or sign, made to call attention"
+notă,noun,note,marginal comment or explanation
+comentariu,noun,note,marginal comment or explanation
+adnotare,noun,note,marginal comment or explanation
+notă,noun,note,memorandum
+notiță,noun,note,memorandum
+notă,noun,note,short informal letter
+notă de informare,noun,note,short informal letter
+notă informațională,noun,note,short informal letter
+notă,noun,note,diplomatic missive or written communication
+notă,noun,note,character indicating the length and pitch of a tone
+notă,noun,note,musical sound
 acum,adv,now,at the present time
 număr,noun,number,abstract entity used to describe quantity
+număr,noun,number,numeral
+număr,noun,number,mathematics: number
+număr,noun,number,used to show the rank of something in a list or sequence
+cantitate,noun,number,quantity
+număr,noun,number,quantity
+număr,noun,number,"grammar: state of being singular, dual or plural"
+număr,noun,number,performance
 infirmieră,noun,nurse,person trained to provide care for the sick
 infirmier,noun,nurse,person trained to provide care for the sick
+dădacă,noun,nurse,person who takes care of other people's young
+doică,noun,nurse,person who takes care of other people's young
+bonă,noun,nurse,person who takes care of other people's young
+nursă,noun,nurse,person who takes care of other people's young
 obiect,noun,object,thing
 lucru,noun,object,thing
+complement,noun,object,in grammar
+obiect,noun,object,person or thing to which an emotion is directed
+obiect,noun,object,object-oriented programming: instantiation of a class or structure
 ocean,noun,ocean,one of the large bodies of water
+ocean,noun,ocean,water from an ocean
+ocean,noun,ocean,immense expanse
+funcție,noun,office,position of responsibility
+birou,noun,office,room(s) or building used for non-manual work
+minister,noun,office,major governmental division
+departament,noun,office,major governmental division
+oficiu,noun,office,major governmental division
 des,adv,often,"frequently, many times"
 vechi,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+bătrân,adj,old,of a living being: having lived for relatively many years
+vechi,adj,old,former
+fost,adj,old,former
 o dată,adv,once,one and only one time
+odată,adv,once,formerly
 ceapă,noun,onion,Allium cepa
+ceapă,noun,onion,bulb
 în linie,adj,online,connected to a network
 online,adj,online,connected to a network
 rețelizat,adj,online,connected to a network
+online,adj,online,connected to the Internet
+în internet,adj,online,connected to the Internet
 numai,adv,only,without others or anything further; exclusively
+numai,adv,only,no more than
 deschide,verb,open,to make something accessible
 părere,noun,opinion,thought a person has formed about a topic
 opinie,noun,opinion,thought a person has formed about a topic
 portocaliu,adj,orange,having the colour of the fruit of an orange tree
 oranj,adj,orange,having the colour of the fruit of an orange tree
+comanda,verb,order,to issue a command
+ordona,verb,order,to issue a command
+porunci,verb,order,to issue a command
+comanda,verb,order,to request some product or service
 afară,adv,outside,in or to the outside
 propriu,adj,own,belonging to (determiner)
 paj,noun,page,serving boy
@@ -633,29 +1362,62 @@ pagină,noun,page,one side of a leaf of a book
 culoare,noun,paint,substance
 vopsea,noun,paint,substance
 pictură,noun,painting,an illustration or artwork using paint
+pictare,noun,painting,the action of applying paint
+pictură,noun,painting,artistic application of paint
 pereche,noun,pair,two similar or identical things
+pereche,noun,pair,two people in a relationship
+pereche,noun,pair,used with binary nouns
+pereche,noun,pair,couple of working animals attached to work together
+pereche,noun,pair,poker hand
 pantaloni,noun,pants,garment covering the body from the waist downwards
 nădrag,noun,pants,garment covering the body from the waist downwards
 hârtie,noun,paper,sheet material
+document,noun,paper,written document shorter than a book
 paragraf,noun,paragraph,passage in text
 părinte,noun,parent,person from whom one is descended
 parca,verb,park,bring (a vehicle) to a halt
 parte,noun,part,fraction of a whole
 partener,noun,partner,someone who is associated with another in a common activity or interest
 parteneră,noun,partner,someone who is associated with another in a common activity or interest
+partener,noun,partner,a member of a business or law partnership
+partener,noun,partner,"spouse, domestic, or romantic partner"
+parteneră,noun,partner,"spouse, domestic, or romantic partner"
+partener,noun,partner,dancing partner
+parteneră,noun,partner,dancing partner
+partener,noun,partner,either member of a pair in a card game or sports team (1.4)
+parteneră,noun,partner,either member of a pair in a card game or sports team (1.4)
 parte,noun,party,law: particular side in a contract or legal action
+participant,noun,party,someone who takes part
+participantă,noun,party,someone who takes part
+petrecere,noun,party,social gathering
 pașaport,noun,passport,official document for foreign travel
+document de identitate,noun,passport,any document allowing entry or passage
 trecut,noun,past,period of time that has already happened
+trecut,noun,past,(grammar) past tense
 plăti,verb,pay,to give money in exchange for goods or services
+merita,verb,pay,to be profitable
+a fi profitabil,verb,pay,to be profitable
 stilou,noun,pen,writing tool
 pix,noun,pen,writing tool
 țarc,noun,pen,enclosure (enclosed area) for animals
 creion,noun,pencil,graphite writing-instrument
+condei,noun,pencil,slate writing-instrument
 oameni,noun,people,a body of human beings; a group of two or more persons
 lume,noun,people,a body of human beings; a group of two or more persons
+popor,noun,people,a group of persons forming or belonging to a particular nation etc.
+neam,noun,people,a group of persons forming or belonging to a particular nation etc.
+națiune,noun,people,a group of persons forming or belonging to a particular nation etc.
+popor,noun,people,the mass of community as distinguished from a special class
 piper,noun,pepper,plant
+piper,noun,pepper,spice
+ardei,noun,pepper,fruit of the capsicum
 perfect,adj,perfect,fitting its definition precisely
+perfect,adj,perfect,having all of its parts in harmony with a common purpose
+perfect,adj,perfect,thoroughly skilled or talented
+perfectul simplu,adj,perfect,grammar: of a tense or verb form: representing a completed action
 perioadă,noun,period,a length of time
+perioadă,noun,period,history: period of time seen as coherent entity
+punct,noun,period,punctation mark “.”
 persoană,noun,person,individual
 a telefona,verb,phone,to call (someone) on the telephone
 fotografie,noun,photograph,picture
@@ -663,42 +1425,95 @@ poză,noun,photograph,picture
 foto,noun,photograph,picture
 expresie,noun,phrase,short written or spoken expression
 frază,noun,phrase,short written or spoken expression
+frază,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+expresie,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+sintagmă,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
 pian,noun,piano,a keyboard musical instrument
 Pno.,noun,piano,a keyboard musical instrument
 imagine,noun,picture,"representation of visible reality produced by drawing, etc"
+fotografie,noun,picture,photograph
 bucată,noun,piece,part of a larger whole
 porc,noun,pig,mammal of genus Sus
+porc,noun,pig,someone who overeats or eats rapidly
+porc,noun,pig,nasty or disgusting person
+porc,noun,pig,dirty or slovenly person
 roz,noun,pink,pale red colour
+garoafă,noun,pink,flower
 loc,noun,place,"location, position"
+pătrat,noun,place,"open space, courtyard, market square"
+piață,noun,place,"open space, courtyard, market square"
 platan,noun,plane,deciduous tree
+plan,noun,plane,geometry: flat surface extending infinitely in all directions
 rindea,noun,plane,a tool
 plantă,noun,plant,organism capable of photosynthesis
+plantă,noun,plant,"a small or herbaceous organism, rather than a tree"
+plantă,noun,plant,organism of the kingdom Plantae
 joc,noun,play,playful activity
+piesă,noun,play,theatrical performance
 jucător,noun,player,one who plays any game or sport
 jucătoare,noun,player,one who plays any game or sport
+actor,noun,player,dramatic actor
+actriță,noun,player,dramatic actor
+interpret,noun,player,dramatic actor
+solist instrumentist,noun,player,one who plays a musical instrument
+muzician,noun,player,one who plays a musical instrument
+player,noun,player,electronic device
+leneș,noun,player,one without serious aims
+punct,noun,point,particular moment in an event or occurrence
+punct,noun,point,opinion which adds to the discussion
+punct,noun,point,location or place
+punct,noun,point,geometry: zero-dimensional object
+punct,noun,point,unit of scoring in a game or competition
+virgulă,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+vârf,noun,point,sharp tip
 poliție,noun,police,local or general law enforcement agency
 sărac,adj,poor,with few or no possessions or money
 sărman,adj,poor,with few or no possessions or money
 pauper,adj,poor,with few or no possessions or money
 mizer,adj,poor,with few or no possessions or money
 nevoiaș,adj,poor,with few or no possessions or money
+prost,adj,poor,of low quality
+slab,adj,poor,of low quality
+amărât,adj,poor,used to express pity
+biet,adj,poor,used to express pity
 popular,adj,popular,of or pertaining to the common people
+popular,adj,popular,liked by many people
+agreat,adj,popular,liked by many people
+pozitiv,adj,positive,legal: formally laid down
+pozitiv,adj,positive,mathematics: greater than zero
+pozitiv,adj,positive,physics: having more protons than electrons
+HIV pozitiv,adj,positive,slang: HIV positive
 posibil,adj,possible,able but not certain to happen
 cartof,noun,potato,plant tuber eaten as starchy vegetable
 barabulă (Moldova),noun,potato,plant tuber eaten as starchy vegetable
 livră,noun,pound,unit of mass (16 ounces avoirdupois)
 pfund,noun,pound,unit of mass (16 ounces avoirdupois)
+liră,noun,pound,unit of currency
 prefera,verb,prefer,to favor
 prepara,verb,prepare,to make ready for a specific future purpose
 pregăti,verb,prepare,to make ready for a specific future purpose
+pregăti,verb,prepare,to make oneself ready
+prepara,verb,prepare,to make oneself ready
 prezent,noun,present,current time
 cam,adv,pretty,somewhat
 destul de,adv,pretty,somewhat
 preț,noun,price,cost required to gain possession of something
+preț,noun,price,cost of an action or deed
 probabil,adv,probably,in all likelihood
 problemă,noun,problem,difficulty
+problemă,noun,problem,schoolwork exercise
+exercițiu,noun,problem,schoolwork exercise
+problemă,noun,problem,puzzling circumstance
 produs,noun,product,commodity for sale
+produs,noun,product,amount created by a process
+producție,noun,product,amount created by a process
+produs,noun,product,consequence of efforts
+produs,noun,product,result of chemical reaction
+produs,noun,product,multiplication result
 program,noun,program,set of structured activities
+program,noun,program,"leaflet listing information about a play, game or other activity"
+emisiune,noun,program,performance of a show or other broadcast on radio or television
+program,noun,program,software application
 proiect,noun,project,planned endeavor
 purpuriu,noun,purple,colour
 mov,noun,purple,colour
@@ -708,21 +1523,54 @@ pune,verb,put,to place something somewhere
 sfert,noun,quarter,one of four equal parts — see also one-fourth
 pătrime,noun,quarter,one of four equal parts — see also one-fourth
 pătrar,noun,quarter,one of four equal parts — see also one-fourth
+monedă de douăzeci și cinci cenți,noun,quarter,coin worth 25 cents
+trimestru,noun,quarter,period of three months
+cartier,noun,quarter,section of a town
 întrebare,noun,question,"sentence, phrase or word"
 repede,adj,quick,moving with speed
 rapid,adj,quick,moving with speed
 iute,adj,quick,moving with speed
+repede,adj,quick,occurring in a short time
+rapid,adj,quick,occurring in a short time
+vioi,adj,quick,"lively, witty"
+vioaie,adj,quick,"lively, witty"
+iute,adj,quick,"lively, witty"
+sprinten,adj,quick,"lively, witty"
+ager,adj,quick,"mentally agile, perceptive"
+vioi,adj,quick,alive
+energic,adj,quick,alive
+violent,adj,quick,pregnant
+aprig,adj,quick,pregnant
+înfocat,adj,quick,"burning, fiery"
+învăpăiat,adj,quick,"burning, fiery"
 rapid,adv,quickly,"rapidly, fast"
 repede,adv,quickly,"rapidly, fast"
 încet,adj,quiet,with little sound
 liniștit,adj,quiet,with little sound
 silențios,adj,quiet,with little sound
+liniștit,adj,quiet,having little motion
+calm,adj,quiet,having little motion
+tăcut,adj,quiet,not talking
+silențios,adj,quiet,not talking
 complet,adv,quite,to the greatest extent; completely
 total,adv,quite,to the greatest extent; completely
+realmente,adv,quite,in a fully justified sense; truly
+cu adevărat,adv,quite,in a fully justified sense; truly
+cam,adv,quite,to a moderate extent
 radio,noun,radio,technology
+radio,noun,radio,receiver
+radioreceptor,noun,radio,receiver
+aparat de radio,noun,radio,receiver
 ploua,verb,rain,of rain: to fall from the sky
+ploua,verb,rain,to fall in large quantities
 a citi,verb,read,to look at and interpret letters or other information
 a lectura,verb,read,to look at and interpret letters or other information
+citi,verb,read,to speak aloud words or other information that is written
+putea citi,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+citi,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+lectura,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+a fi citit,verb,read,"of text, etc., to be interpreted or read in a particular way"
+a fi lecturat,verb,read,"of text, etc., to be interpreted or read in a particular way"
 cititor,noun,reader,person who reads a publication
 cititoare,noun,reader,person who reads a publication
 lectură,noun,reading,process of interpreting written language
@@ -730,40 +1578,99 @@ citire,noun,reading,process of interpreting written language
 gata,adj,ready,prepared for immediate action or use
 real,adj,real,"true, genuine, not merely nominal"
 adevărat,adj,real,"true, genuine, not merely nominal"
+real,adj,real,"genuine, not artificial, counterfeit or fake"
+adevărat,adj,real,"genuine, not artificial, counterfeit or fake"
+real,adj,real,"genuine, unfeigned, sincere"
+adevărat,adj,real,"genuine, unfeigned, sincere"
+real,adj,real,that has physical existence
+adevărat,adj,real,that has physical existence
+actual,adj,real,that has physical existence
+real,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
+real,adj,real,"absolute, complete, utter"
+adevărat,adj,real,"absolute, complete, utter"
+prea,adj,real,signifying meritorious qualities or actions
+super,adj,real,signifying meritorious qualities or actions
 pe bune,adv,really,actually
 cauză,noun,reason,that which causes: a cause
 pricină,noun,reason,that which causes: a cause
+motiv,noun,reason,motive for an action or determination
+rațiune,noun,reason,motive for an action or determination
+rațiune,noun,reason,(the capacity of the human mind for) rational thinking
 roșu,noun,red,colour
 relaxa,verb,relax,to calm down
 destinde,verb,relax,to calm down
+relaxa,verb,relax,to make something loose
+destinde,verb,relax,to make something loose
+desface,verb,relax,to make something loose
+relaxa,verb,relax,to make something less severe or tense
+relaxa,verb,relax,to become less severe or tense
+relaxa,verb,relax,to become more lenient
+relaxa,verb,relax,to relieve (something) from stress
 aminti,verb,remember,to recall from one's memory
 își aduce aminte,verb,remember,to recall from one's memory
 ține minte,verb,remember,to recall from one's memory
+ține minte,verb,remember,to memorize
+ține minte,verb,remember,to not forget to do something required
+pomeni,verb,remember,to have a remembrance ceremony
+comemora,verb,remember,to have a remembrance ceremony
 raport,noun,report,information describing events
+bubuit,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
 restaurant,noun,restaurant,an eating establishment in which diners are served food
 rezultat,noun,result,that which results
 reîntoarcere,noun,return,act of returning
 înapoiere,noun,return,act of returning
 revenire,noun,return,act of returning
 orez,noun,rice,plants
+orez,noun,rice,seeds used as food
 bogat,adj,rich,having wealth
 avut,adj,rich,having wealth
+drept,noun,right,legal or moral entitlement
+dreapta,noun,right,"right, not left, side"
+dreapta,noun,right,right hand
+dreapta,noun,right,right-wing politicians and parties
 râu,noun,river,large stream which drains a landmass
 fluviu,noun,river,large stream which drains a landmass
 drum,noun,road,a way for travel
 cale,noun,road,a way for travel
+spațiu,noun,room,space
+loc,noun,room,space
+cameră,noun,room,division in a building
+odaie,noun,room,division in a building
+încăpere,noun,room,division in a building
 rutină,noun,routine,course of action to be followed regularly; a standard procedure
 regulă,noun,rule,regulation
 alerga,verb,run,to move quickly on two feet
 fugi,verb,run,to move quickly on two feet
+conduce,verb,run,to be in charge of
+concura,verb,run,to compete in a race
+trist,adj,sad,feeling sorrow
+tristă,adj,sad,feeling sorrow
+abătut,adj,sad,feeling sorrow
+abătută,adj,sad,feeling sorrow
 salată,noun,salad,food
 sare,noun,salt,sodium chloride
+sare,noun,salt,compound of an acid and a base
 sandviș,noun,sandwich,dish — see also open sandwich
 tartină,noun,sandwich,dish — see also open sandwich
 spune,verb,say,"to say, to tell"
 zice,verb,say,"to say, to tell"
+zice,verb,say,to pronounce
+spune,verb,say,to pronounce
+zice,verb,say,to communicate verbally or in writing
+spune,verb,say,to communicate verbally or in writing
 școală,noun,school,an institution dedicated to teaching and learning
+școală medie,noun,school,an institution dedicated to teaching and learning before college or university
+gimnaziu,noun,school,an institution dedicated to teaching and learning before college or university
+școală superiară,noun,school,college or university
+universitate,noun,school,college or university
+facultate,noun,school,college or university
+colegiu,noun,school,college or university
+școală,noun,school,a department/institute at a college or university
+școală,noun,school,(collectively) the followers of a particular doctrine
 știință,noun,science,collective discipline of learning acquired through the scientific method
+materie,noun,science,particular discipline or branch of learning
+știință,noun,science,fact of knowing something
+știință,noun,science,knowledge gained through study or practice
 om de știință,noun,scientist,one whose activities make use of the scientific method
 femeie de știință,noun,scientist,one whose activities make use of the scientific method
 savant,noun,scientist,one whose activities make use of the scientific method
@@ -772,41 +1679,97 @@ savantă,noun,scientist,one whose activities make use of the scientific method
 secundă,noun,second,one-sixtieth of a minute; SI unit of time
 al doilea,noun,second,number two in a series
 a doua,noun,second,number two in a series
+următor,noun,second,one that is next in rank
+următoare,noun,second,one that is next in rank
+al doilea,noun,second,place next below first in a race or contest
+a doua,noun,second,place next below first in a race or contest
+de mâna a doua,noun,second,manufactured item that fails to meet quality control standards
+revanșă,noun,second,another chance to achieve what should have been done the first time
+secundă,noun,second,music: interval between two adjacent notes
+viteza a doua,noun,second,second gear
 secționare,noun,section,"cutting, part cut out"
 tăiere,noun,section,"cutting, part cut out"
 secțiune,noun,section,"cutting, part cut out"
 tăietură,noun,section,"cutting, part cut out"
+parte,noun,section,"part, piece or subdivision of anything"
+secție,noun,section,"part, piece or subdivision of anything"
+sector,noun,section,"part, piece or subdivision of anything"
+subdiviziune,noun,section,"part, piece or subdivision of anything"
+despărțitură,noun,section,"part, piece or subdivision of anything"
+segment,noun,section,"part, piece or subdivision of anything"
+departament,noun,section,"part, piece or subdivision of anything"
+incizie,noun,section,surgery: incision or the act of making an incision
+tăiere,noun,section,surgery: incision or the act of making an incision
+tăietură,noun,section,surgery: incision or the act of making an incision
+secționare,noun,section,surgery: incision or the act of making an incision
 vedea,verb,see,perceive with the eyes
 vinde,verb,sell,to agree to transfer goods or provide services for payment
 trimite,verb,send,make something go somewhere
 expedia,verb,send,make something go somewhere
 sentință,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 verdict,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+condamnare,noun,sentence,judicial order for punishment
+sentință,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+propoziție,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+frază,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+sentință,noun,sentence,logic: formula with no free variables
+sentință,noun,sentence,(rare) someone's pronounced opinion or judgement on a given question
+opinie,noun,sentence,(rare) someone's pronounced opinion or judgement on a given question
 partaja,verb,share,to give
 împărți,verb,share,to give
 distribui,verb,share,to give
+împărți,verb,share,to have in common
+împărtăși,verb,share,to have in common
+împărți,verb,share,to divide and distribute
+distribui,verb,share,to divide and distribute
 oaie,noun,sheep,animal
 cămașă,noun,shirt,article of clothing
 pantof,noun,shoe,protective covering for the foot
+papuc,noun,shoe,something resembling a shoe (e.g. brake shoe)
+sabot,noun,shoe,something resembling a shoe (e.g. brake shoe)
 merge la cumpărături,verb,shop,to visit shops
 cumpărături,noun,shopping,activity of buying
 scurt,adj,short,having a small distance between ends or edges
+scund,adj,short,"of a person, of comparatively small height"
+scurt,adj,short,having little duration
+prescurtare,adj,short,constituting an abbreviation or shortened form
+abreviere,adj,short,constituting an abbreviation or shortened form
 ar trebui,verb,should,expressing obligation
+ar trebui,verb,should,expressing likelihood
 spectacol,noun,show,entertainment
+expoziție,noun,show,exhibition — see also exhibition
+demonstrație,noun,show,demonstration
+emisiune,noun,show,broadcast program(me)
+program,noun,show,broadcast program(me)
 aversă,noun,shower,brief fall of rain
 ploaie torențială,noun,shower,brief fall of rain
 ploaie de vară,noun,shower,brief fall of rain
+duș,noun,shower,device for bathing
+duș,noun,shower,instance of using of this device
+mișto,adj,sick,"slang: very good, excellent"
 similar,adj,similar,"having traits or characteristics in common; alike, comparable"
 asemănător,adj,similar,"having traits or characteristics in common; alike, comparable"
+asemenea,adj,similar,"of geometric figures, having the same shape"
 cânta,verb,sing,to produce harmonious sounds with one’s voice
 cântăreț,noun,singer,person who sings (male or generic term)
+cântăreață,noun,singer,female person who sings
 soră,noun,sister,woman or girl having the same parents
 surori,noun,sister,woman or girl having the same parents
+călugăriță,noun,sister,a nun; a female member of a religious community
 ședea,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 așeza,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 stadiu,noun,situation,combination of circumstances at a given moment; state of affairs
 etapă,noun,situation,combination of circumstances at a given moment; state of affairs
 situație,noun,situation,combination of circumstances at a given moment; state of affairs
+situare,noun,situation,position vis-à-vis surroundings
+situație,noun,situation,position vis-à-vis surroundings
+poziție,noun,situation,location
+localizare,noun,situation,location
+stare,noun,situation,one's status with regard to circumstances
+situație,noun,situation,one's status with regard to circumstances
+post,noun,situation,position of employment
+posturi,noun,situation,position of employment
+poziţie,noun,situation,position of employment
 abilitate,noun,skill,capacity to do something well
 pricepere,noun,skill,capacity to do something well
 talent,noun,skill,capacity to do something well
@@ -815,9 +1778,19 @@ pulpană,noun,skirt,article of clothing
 dormi,verb,sleep,to rest in state of reduced consciousness
 încet,adj,slow,not quick in motion
 mic,adj,small,not large
+mic,adj,small,young
+tânăr,adj,small,young
+mici (litere),adj,small,"minuscule or lowercase, referring to written letters"
+deștept,adj,smart,exhibiting social ability or cleverness
+descurcăreț,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+deștept,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+isteț,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 șarpe,noun,snake,legless reptile
 a ninge,verb,snow,have snow fall from the atmosphere
 atât,adv,so,very
+atât,adv,so,to a particular extent
+așa,adv,so,in the same aformentioned manner
+atât,adv,so,slang: very much
 uneori,adv,sometimes,"on certain occasions, but not always"
 câteodată,adv,sometimes,"on certain occasions, but not always"
 ocazional,adv,sometimes,"on certain occasions, but not always"
@@ -826,71 +1799,167 @@ cântec,noun,song,music with words
 cântare,noun,song,music with words
 curând,adv,soon,within a short time
 suna,verb,sound,to produce a sound
+suna,verb,sound,to convey an impression by one's sound
 supă,noun,soup,dish
 ciorbă,noun,soup,dish
+spațiu,noun,space,physical extent in two or three dimensions
+spațiu,noun,space,area beyond atmosphere of planets
+spațiu cosmic,noun,space,area beyond atmosphere of planets
+spațiu,noun,space,bounded or specific physical extent
+blanc,noun,space,"gap between written characters, lines etc."
+spațiu,noun,space,mathematics: generalized construct or set
 a vorbi,verb,speak,to communicate with one's voice using words
 a discuta,verb,speak,to communicate with one's voice using words
+comunica,verb,speak,to communicate or converse by some means other than orally
+vorbi,verb,speak,to be able to communicate in a language
 special,adj,special,distinguished by a unique or unusual quality
 înlocui,verb,spell,to work in place of someone
 litera,verb,spell,to write or say the letters that form a word
 rosti,verb,spell,to write or say the letters that form a word
+se scrie,verb,spell,to compose a word
+indica,verb,spell,to indicate that some future event will occur
+clarifica,verb,spell,"figuratively, to clarify"
 cheltui,verb,spend,to pay out
+cheltui,verb,spend,"to wear out, to exhaust"
 sport,noun,sport,any athletic activity that uses physical skills
 primăvară,noun,spring,season between winter and summer in temperate climates
+izvor,noun,spring,water springing from the ground
+arc,noun,spring,device made of flexible material
 sta,verb,stand,to support oneself on the feet in an erect position
 sta în picioare,verb,stand,to support oneself on the feet in an erect position
+ridica,verb,stand,to rise to one’s feet
+fi supus,verb,stand,to undergo; withstand; hold up
+suporta,verb,stand,to tolerate
 stea,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+stea,noun,star,(astronomy) a luminous celestial body made of plasma
+stea,noun,star,concave polygon
+stea,noun,star,celebrity
+vedetă,noun,star,celebrity
+star,noun,star,celebrity
+stea,noun,star,actor
+vedetă,noun,star,actor
+asterisc,noun,star,asterisk
+stea,noun,star,asterisk
+steluță,noun,star,asterisk
+stea,noun,star,quality rating symbol
 începe,verb,start,to begin
+începe,verb,start,to set in motion
+porni,verb,start,to initiate operation of a vehicle or machine
 declarație,noun,statement,declaration or remark
 remarcă,noun,statement,declaration or remark
+declarație,noun,statement,presentation of opinion or position — see also assertion
+bilanț,noun,statement,finance: document that summarizes financial activity
+instrucțiune,noun,statement,computing: instruction in a computer program
+instrucțiuni,noun,statement,computing: instruction in a computer program
 stație,noun,station,place where a vehicle may stop
 gară,noun,station,place where a vehicle may stop
 sta,verb,stay,to remain in a particular place
 rămâne,verb,stay,to remain in a particular place
 zăbovi,verb,stay,to remain in a particular place
+sta,verb,stay,to continue to have a particular quality
+"rămâne, dăinui",verb,stay,to continue to have a particular quality
+amâna,verb,stay,to postpone
+întârzia,verb,stay,to postpone
+încă,adv,still,"up to a time, as in the preceding time"
+și,adv,still,to an even greater degree
+tot,adv,still,nevertheless
 stație,noun,stop,place to get on and off mass transport
 loc de oprire,noun,stop,place to get on and off mass transport
+punct,noun,stop,punctuation symbol
+stop,noun,stop,tennis: very short shot
+minge stopată (amortizată),noun,stop,tennis: very short shot
 depozit,noun,store,place where items may be kept
 magazie,noun,store,place where items may be kept
+stoc,noun,store,supply held in storage
 istorie,noun,story,account of events
 poveste,noun,story,account of events
 stradă,noun,street,paved part of road in a village or a town
 puternic,adj,strong,capable of producing great physical force
+puternic,adj,strong,capable of withstanding great physical force
+vârtos,adj,strong,"determined, unyielding"
 student,noun,student,person who studies a subject
 studentă,noun,student,person who studies a subject
+student,noun,student,person enrolled at a university — see also university student
+studentă,noun,student,person enrolled at a university — see also university student
 învăța,verb,study,to revise/review materials
+studia,verb,study,to take a course
+studia,verb,study,to acquire knowledge
+studia,verb,study,to look at minutely
 stil,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+stil,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+fel,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+gen,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 subiect,noun,subject,in grammar
+temă,noun,subject,main topic
+subiect,noun,subject,main topic
+materie,noun,subject,particular area of study
+disciplină,noun,subject,particular area of study
 succes,noun,success,achievement of one's aim or goal
+succes,noun,success,(business) financial profitability
 zahăr,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+zaharuri,noun,sugar,any of a series of carbohydrates used by organisms to store energy
+glucide,noun,sugar,any of a series of carbohydrates used by organisms to store energy
+glucide,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
 traversă,noun,summer,a horizontal beam supporting a building
 vară,noun,summer,hottest season
 soare,noun,sun,"a star, especially when seen as the centre of any single solar system"
+soare,noun,sun,light and warmth received from the sun
+soare,noun,sun,something like the sun in brightness or splendor
+răsărit,noun,sun,sunrise or sunset
+asfințit,noun,sun,sunrise or sunset
 supermagazin,noun,supermarket,store
 magazin universal,noun,supermarket,store
 sigur,adj,sure,"certain, reliable"
 cert,adj,sure,"certain, reliable"
+sigur,adj,sure,certain in one's knowledge or belief
+cert,adj,sure,certain in one's knowledge or belief
 înota,verb,swim,move through water
 înot,noun,swimming,human activity of moving oneself through water
 masă,noun,table,item of furniture
+tabel,noun,table,grid of data in rows and columns
+tablă,noun,table,grid of data in rows and columns
+tabelă,noun,table,collection of arithmetic calculations
+tabel,noun,table,collection of arithmetic calculations
 lua,verb,take,to get into one's hands or control
+lua,verb,take,to grab and move to oneself
+lua,verb,take,to carry
 a vorbi,verb,talk,to communicate by speech
 înalt,adj,tall,of a person
+înalt,adj,tall,of a building
 taximetru,noun,taxi,vehicle available for public hire
 taxi,noun,taxi,vehicle available for public hire
 ceai,noun,tea,dried leaves of tea plant
+ceai,noun,tea,drink made from leaves of tea plant
+ceai,noun,tea,cup of this drink
+ceașcă de ceai,noun,tea,cup of this drink
+ceai,noun,tea,drink made from other plants
+ceai,noun,tea,cup of drink made from other plants
+ceașcă de ceai,noun,tea,cup of drink made from other plants
 învăța,verb,teach,to pass on knowledge
+instrui,verb,teach,to pass on one's knowledge as one's profession
+preda,verb,teach,to pass on one's knowledge as one's profession
 profesor,noun,teacher,person who teaches
 învățător,noun,teacher,person who teaches
+profesoară,noun,teacher,woman who teaches
+echipă,noun,team,group of people
 adolescent,noun,teenager,person aged between thirteen and nineteen
 adolescentă,noun,teenager,person aged between thirteen and nineteen
 a telefona,verb,telephone,to call someone
 televiziune,noun,television,medium
+televizor,noun,television,device for receiving television signals
+televiziune,noun,television,program broadcasting
 spune,verb,tell,to pass information
 zice,verb,tell,to pass information
 tenis,noun,tennis,sport played by two or four players with strung racquets
 groaznic,adj,terrible,dreadful; causing alarm or fear
 teribil,adj,terrible,dreadful; causing alarm or fear
+groaznic,adj,terrible,most formidable
+groaznic,adj,terrible,intense; extreme in degree or extent
+impresionant,adj,terrible,intense; extreme in degree or extent
+groaznic,adj,terrible,unpleasant
+înspăimântător,adj,terrible,unpleasant
+îngrozitor,adj,terrible,very bad
+înspăimântător,adj,terrible,very bad
 proba,verb,test,to challenge
 încerca,verb,test,to challenge
 testa,verb,test,to challenge
@@ -898,7 +1967,15 @@ text,noun,text,a written passage
 a mulțumi,verb,thank,to express appreciation or gratitude toward (someone or something)
 mulțumiri,noun,thanks,expression of gratitude
 teatru,noun,theater,place or building
+amfiteatru,noun,theater,lecture theatre
+teatru,noun,theater,drama or performance as a profession or artform
 atunci,adv,then,at that time
+apoi,adv,then,soon afterward
+după aceea,adv,then,soon afterward
+apoi,adv,then,next in order
+după aceea,adv,then,next in order
+atunci,adv,then,in that case
+acum,adv,then,at the same time; on the other hand
 acolo,adv,there,in or at that place
 colo,adv,there,in or at that place
 lucru,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
@@ -906,27 +1983,73 @@ chestie,noun,thing,"that which is considered to exist as a separate entity, obje
 obiect,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 gândi,verb,think,"to ponder, to go over in one's head"
 cugeta,verb,think,"to ponder, to go over in one's head"
+gândi,verb,think,communicate to oneself in one’s mind
+cugeta,verb,think,communicate to oneself in one’s mind
+considera,verb,think,to conceive of something or someone
+crede,verb,think,be of the opinion that
+considera,verb,think,be of the opinion that
+crede,verb,think,"guess, reckon"
+lua în considerație,verb,think,"consider, judge, regard something as"
+judeca,verb,think,"consider, judge, regard something as"
+crede,verb,think,"consider, judge, regard something as"
+considera,verb,think,"consider, judge, regard something as"
 setos,adj,thirsty,needing to drink
 însetat,adj,thirsty,needing to drink
 i fi sete,adj,thirsty,needing to drink
 bilet,noun,ticket,admission to entertainment
+bilet,noun,ticket,pass for transportation
+amendă,noun,ticket,traffic citation
+amendare contravențională,noun,ticket,traffic citation
+cupon de amendă,noun,ticket,traffic citation
 timp,noun,time,inevitable passing of events
 vreme,noun,time,inevitable passing of events
+timp,noun,time,quantity of availability in time
+timp,noun,time,measurement of a quantity of time
+timpuri,noun,time,measurement of a quantity of time
+timpi,noun,time,measurement of a quantity of time
+vreme,noun,time,measurement of a quantity of time
+vreme,noun,time,"extended period of time, defined or undefined: age, era, etc."
+eră,noun,time,"extended period of time, defined or undefined: age, era, etc."
+epocă,noun,time,"extended period of time, defined or undefined: age, era, etc."
+ceas,noun,time,"time of day, as indicated by a clock, etc"
+oră,noun,time,"time of day, as indicated by a clock, etc"
+ora zilei,noun,time,"time of day, as indicated by a clock, etc"
+vreme,noun,time,measurement under some system of the time of day or moment in time
+timp,noun,time,measurement under some system of the time of day or moment in time
+dată,noun,time,instance or occurrence
+oară,noun,time,instance or occurrence
+dată,noun,time,ratio of comparison
+oară,noun,time,ratio of comparison
 obosit,adj,tired,in need of rest or sleep
 ostenit,adj,tired,in need of rest or sleep
 titlu,noun,title,prefix or suffix added to a name
+titlu,noun,title,"name of a book, etc"
 astăzi,noun,today,today (noun)
 azi,noun,today,today (noun)
 împreună,adv,together,"at the same time, in the same place"
 laolaltă,adv,together,"at the same time, in the same place"
+laolaltă,adv,together,into one place
 toaletă,noun,toilet,personal grooming
+toaletă,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+closet,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+cameră de baie,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+WC,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toaletă,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+closet,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+vece,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+privată,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 tomată,noun,tomato,tomato plant
+roșie,noun,tomato,fruit
+tomată,noun,tomato,fruit
 mâine,noun,tomorrow,the day after the present day
 noaptea asta,noun,tonight,nighttime today
 noaptea aceasta,noun,tonight,nighttime today
 și,adv,too,likewise
 deasemenea,adv,too,likewise
+prea,adv,too,more than enough; as too much
 dinte,noun,tooth,anatomy: tooth
+dinte,noun,tooth,saw tooth
+dinte,noun,tooth,gear tooth
 temă,noun,topic,subject; theme
 subiect,noun,topic,subject; theme
 turist,noun,tourist,someone who travels for pleasure
@@ -935,23 +2058,45 @@ oraș,noun,town,settlement
 circulație,noun,traffic,pedestrians or vehicles on roads or on the air
 trafic,noun,traffic,pedestrians or vehicles on roads or on the air
 circulație rutieră,noun,traffic,pedestrians or vehicles on roads or on the air
+trafic,noun,traffic,"illegal trade or exchange of goods, often drugs"
+tren,noun,train,line of connected cars or carriages
 voiaj,noun,travel,act of traveling
 călătorie,noun,travel,act of traveling
 arbore,noun,tree,large woody plant
 copac,noun,tree,large woody plant
 pom,noun,tree,large woody plant
+arbore,noun,tree,(computing theory) recursive data structure
+iarbă,noun,tree,slang: marijuana
 călătorie,noun,trip,journey
 voiaj,noun,trip,journey
 excursie,noun,trip,journey
+împiedicare,noun,trip,stumble or misstep
+poticneală,noun,trip,stumble or misstep
+piedică,noun,trip,act of tripping someone
+camion,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 adevărat,adj,true,concurring with a given set of facts
+adevărat,adj,true,state in Boolean logic that indicates an affirmative or positive result
+loial,adj,true,"loyal, faithful"
+fidel,adj,true,"loyal, faithful"
+sincer,adj,true,"loyal, faithful"
+adevărat,adj,true,"genuine, legitimate"
 încerca,verb,try,to attempt
 proba,verb,try,to attempt
+proba,verb,try,to make an experiment
+se forța,verb,try,to work on something
+strădui,verb,try,to work on something
+testa,verb,try,to put to test
+proba,verb,try,to put to test
+gusta,verb,try,"to taste, sample, etc"
+încerca,verb,try,"to taste, sample, etc"
+judeca,verb,try,to put on trial
 viraj,noun,turn,change of direction or orientation
 cotitură,noun,turn,change of direction or orientation
 fel,noun,type,grouping based on shared characteristics
 gen,noun,type,grouping based on shared characteristics
 umbrelă,noun,umbrella,cloth-covered frame used for protection against rain or sun
 unchi,noun,uncle,brother (or brother-in-law) of someone’s parent
+sub,adv,under,In a way inferior to
 înțelege,verb,understand,to grasp the meaning of
 pricepe,verb,understand,to grasp the meaning of
 universitate,noun,university,institution of higher education
@@ -963,36 +2108,72 @@ folositor,adj,useful,having a practical or beneficial use
 trebuincios,adj,useful,having a practical or beneficial use
 de obicei,adv,usually,most of the time
 în general,adv,usually,most of the time
+vacanță,noun,vacation,period of leisure time
+anulare,noun,vacation,the act of making legally void
+golire,noun,vacation,the act of making legally void
 legumă,noun,vegetable,a plant raised for some edible part of it
 legume,noun,vegetable,a plant raised for some edible part of it
 vegetală,noun,vegetable,a plant raised for some edible part of it
+vegetală,noun,vegetable,any plant
+legumă,noun,vegetable,a person whose brain has been damaged
 foarte,adv,very,to a high degree
 video,noun,video,"television show, movie"
+video,noun,video,motion picture stored on VHS
+videocasetă,noun,video,VHS
 vizită,noun,visit,single act of visiting
 vizitator,noun,visitor,guest
 vizitatoare,noun,visitor,guest
 aștepta,verb,wait,delay until some event
+a servi masa,verb,wait,to serve customers
 chelner,noun,waiter,a server in a restaurant or similar
 chelneriță,noun,waiter,a server in a restaurant or similar
 ospătar,noun,waiter,a server in a restaurant or similar
 ospătăriță,noun,waiter,a server in a restaurant or similar
 trezi,verb,wake,to stop sleeping
 deștepta,verb,wake,to stop sleeping
+trezi,verb,wake,to make somebody stop sleeping
+deștepta,verb,wake,to make somebody stop sleeping
 plimbare,noun,walk,trip made by walking
+plimbare,noun,walk,distance walked
+drum,noun,walk,distance walked
+pas,noun,walk,manner of walking
+mers,noun,walk,manner of walking
+cărare,noun,walk,maintained place on which to walk
+alee,noun,walk,maintained place on which to walk
+drum,noun,walk,maintained place on which to walk
+potecă,noun,walk,maintained place on which to walk
 perete,noun,wall,defensive rampart
+zid,noun,wall,structure built for defense surrounding an area
+mur,noun,wall,structure built for defense surrounding an area
+perete,noun,wall,substantial structure acting as side or division in a building
 vrea,verb,want,to desire
 cald,adj,warm,having a temperature slightly higher than usual
 caldă,adj,warm,having a temperature slightly higher than usual
+cald,adj,warm,being something that causes warmth
+caldă,adj,warm,being something that causes warmth
+apropiat,adj,warm,"caring, of relation to another person"
 spăla,verb,wash,to clean with water
 ceas,noun,watch,portable or wearable timepiece
+strajă,noun,watch,particular time period
+gardă,noun,watch,particular time period
+tură,noun,watch,particular time period
+veghe,noun,watch,particular time period
+străjer,noun,watch,person or group of people who guard
+gardă,noun,watch,person or group of people who guard
+gardă,noun,watch,person or group of people who guard
 apă,noun,water,inorganic compound H₂O
 апэ,noun,water,inorganic compound H₂O
+apă,noun,water,one of the basic elements
+apă,noun,water,"body of water, or specific part of it"
 cale,noun,way,"road, direction, path"
 drum,noun,way,"road, direction, path"
+fel,noun,way,method or manner
+mod,noun,way,method or manner
 purta,verb,wear,to have on (clothes or accessories)
 vreme,noun,weather,state of the atmosphere
 stare atmosferică,noun,weather,state of the atmosphere
 timp,noun,weather,state of the atmosphere
+intemperii,noun,weather,unpleasant or destructive atmospheric conditions
 site,noun,website,a collection of pages on the World Wide Web
 site web,noun,website,a collection of pages on the World Wide Web
 săptămână,noun,week,period of seven days
@@ -1002,7 +2183,14 @@ binevenit,adj,welcome,whose arrival is a cause of joy
 bine,adj,well,in good health
 când,adv,when,"at what time, as a direct question"
 unde,adv,where,at what place; to what place; from what place
+unde,adv,where,at or in which place
+de unde,adv,where,at or in which place
+încotro,adv,where,to which place or situation
+unde,adv,where,to which place or situation
+unde,adv,where,legal: in the situation in which
 alb,noun,white,color
+alb,noun,white,person of European descent
+albă,noun,white,person of European descent
 de ce,adv,why,for what reason
 pentru ce,adv,why,for what reason
 soție,noun,wife,female partner in a marriage
@@ -1010,7 +2198,12 @@ nevastă,noun,wife,female partner in a marriage
 muiere,noun,wife,female partner in a marriage
 câștiga,verb,win,transitive: achieve victory in
 învinge,verb,win,transitive: achieve victory in
+câștiga,verb,win,intransitive: achieve by winning
+învinge,verb,win,intransitive: achieve by winning
 fereastră,noun,window,opening for light and air
+perioadă de timp,noun,window,period of time
+interval (de timp),noun,window,period of time
+fereastră,noun,window,area on a computer screen
 vin,noun,wine,alcoholic beverage made from grapes
 iarnă,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 femeie,noun,woman,adult female person
@@ -1018,30 +2211,53 @@ muiere,noun,woman,adult female person
 doamnă,noun,woman,adult female person
 cuvânt,noun,word,unit of language
 vorbă,noun,word,unit of language
+cuvânt,noun,word,computing: fixed-size group of bits handled as a unit
+cuvânt de onoare,noun,word,promise
+cuvânt,noun,word,the word of God
 muncă,noun,work,"labour, employment, occupation, job"
 serviciu,noun,work,"labour, employment, occupation, job"
 ocupație,noun,work,"labour, employment, occupation, job"
 îndeletnicire,noun,work,"labour, employment, occupation, job"
+muncă,noun,work,effort expended on a particular task
+efort,noun,work,effort expended on a particular task
+lucrare,noun,work,effort expended on a particular task
+operă,noun,work,"literary, artistic, or intellectual production"
+creație,noun,work,"literary, artistic, or intellectual production"
+lucrare,noun,work,"literary, artistic, or intellectual production"
+lucru mecanic,noun,work,physics: measure of energy expended in moving an object
 lucrător,noun,worker,person who performs labor
 lucrătoare,noun,worker,person who performs labor
 muncitor,noun,worker,person who performs labor
 muncitoare,noun,worker,person who performs labor
 angajat,noun,worker,person who performs labor
 angajată,noun,worker,person who performs labor
+albină lucrătoare,noun,worker,insect
 lume,noun,world,human collective existence
+lume,noun,world,the Earth
+pământ,noun,world,the Earth
+lume,noun,world,inhabited planet
 avea,verb,would,indicating an action or state that is conditional on another
 scrie,verb,write,"to form letters, etc."
+scrie,verb,write,to be the author of
 scriitor,noun,writer,person who writes; an author
 scriitoare,noun,writer,person who writes; an author
 autor de cărți,noun,writer,person who writes; an author
 scriere,noun,writing,written letters or symbols
+scriere,noun,writing,something written
+scriitură,noun,writing,something written
+scris,noun,writing,process of representing a language
 greșit,adj,wrong,incorrect
 incorect,adj,wrong,incorrect
+nedrept,adj,wrong,immoral
+imoral,adj,wrong,immoral
 curte,noun,yard,land around a house
 vergă,noun,yard,nautical: tapered timber from which square sails hang
 an,noun,year,time it takes for the Earth to complete one revolution around the Sun
+an,noun,year,a period between set dates that mark a year
+clasă,noun,year,a level or grade at school or college
 galben,noun,yellow,color
 galbenă,noun,yellow,color
 ieri,noun,yesterday,day before today
+ieri,noun,yesterday,the recent past
 tânăr,adj,young,in the early part of life or growth
 june,adj,young,in the early part of life or growth

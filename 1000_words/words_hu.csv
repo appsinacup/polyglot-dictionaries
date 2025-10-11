@@ -6,29 +6,91 @@ vasárnap,noun,Sunday,day of the week
 csütörtök,noun,Thursday,day of the week
 kedd,noun,Tuesday,day of the week
 szerda,noun,Wednesday,day of the week
+körülbelül,adv,about,"nearly, approximately"
 fent,adv,above,"overhead, on top of"
+fent,adv,above,in a higher place
+felül,adv,above,in a higher place
+tett,noun,action,something done so as to accomplish a purpose
+cselekedet,noun,action,something done so as to accomplish a purpose
+intézkedés,noun,action,something done so as to accomplish a purpose
+művelet,noun,action,something done so as to accomplish a purpose
+mozgás,noun,action,way of motion or functioning
+cselekvés,noun,action,way of motion or functioning
+működés,noun,action,way of motion or functioning
+cselekmény,noun,action,way of motion or functioning
+üzemelés,noun,action,way of motion or functioning
+ténykedés,noun,action,way of motion or functioning
+tevékenykedés,noun,action,way of motion or functioning
+akció,noun,action,fast-paced activity
+művelet,noun,action,fast-paced activity
+csata,noun,action,military: combat
+ütközet,noun,action,military: combat
+harc,noun,action,military: combat
+kereset,noun,action,law: charge
+per,noun,action,law: charge
+eljárás,noun,action,law: charge
 elfoglaltság,noun,activity,state or quality of being active
+tevékenység,noun,activity,something done as an action or a movement
 színész,noun,actor,person who performs in a theatrical play or film — see also actress
 színésznő,noun,actor,person who performs in a theatrical play or film — see also actress
 színművész,noun,actor,person who performs in a theatrical play or film — see also actress
+cselekvő,noun,actor,one who acts; a doer
 színésznő,noun,actress,female actor — see also actor
 hozzátesz,verb,add,to append (e.g. a statement); to say further information; to add on
 hozzáad,verb,add,to append (e.g. a statement); to say further information; to add on
 hozzáfűz,verb,add,to append (e.g. a statement); to say further information; to add on
 kiegészít,verb,add,to append (e.g. a statement); to say further information; to add on
+hozzátesz,verb,add,to make an addition; to augment; to increase; to add on
+hozzájárul,verb,add,to make an addition; to augment; to increase; to add on
+növel,verb,add,to make an addition; to augment; to increase; to add on
+összead,verb,add,"to perform the arithmetical operation of addition, to add up"
+beszéd,noun,address,act of addressing oneself to a person or group
+előadás,noun,address,act of addressing oneself to a person or group
+cím,noun,address,description of the location of a property; direction for correspondence
+lakcím,noun,address,description of the location of a property; direction for correspondence
+címzés,noun,address,description of the location of a property; direction for correspondence
+cím,noun,address,computing: location in computer memory
+memóriacím,noun,address,computing: location in computer memory
+cím,noun,address,string of characters identifying a node or range of nodes on the Internet or other network
+internetcím,noun,address,string of characters identifying a node or range of nodes on the Internet or other network
+webcím,noun,address,string of characters identifying a node or range of nodes on the Internet or other network
+ügyesség,noun,address,"preparedness for a task, skill — see also skill"
+jártasság,noun,address,"preparedness for a task, skill — see also skill"
+hozzáértés,noun,address,"preparedness for a task, skill — see also skill"
+gyakorlottság,noun,address,"preparedness for a task, skill — see also skill"
+gyakorlat,noun,address,"preparedness for a task, skill — see also skill"
+készség,noun,address,"preparedness for a task, skill — see also skill"
+képesség,noun,address,"preparedness for a task, skill — see also skill"
 felnőtt,noun,adult,fully grown human
 tanács,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 fél,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
+attól tart,adj,afraid,"regretful, sorry"
+sajnál,adj,afraid,"regretful, sorry"
+sajnos,adj,afraid,"regretful, sorry"
 délután,noun,afternoon,part of the day between noon and evening
 vissza,adv,again,back to a former place or state
+újra,adv,again,another time
+megint,adv,again,another time
+ismét,adv,again,another time
+már megint,adv,again,another time
+is,adv,again,used in a question to ask something one has forgotten
+vissza,adv,again,in return
+viszont,adv,again,in return
 kor,noun,age,amount of time since the birth of a being or the beginning of a thing
+kor,noun,age,one of the stages of life
+életkor,noun,age,lifespan
 egyetért,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+egyeztet,verb,agree,"grammar: to correspond in gender, number, case, person, etc."
+levegő,noun,air,mixture of gases making up the atmosphere of the Earth
+ária,noun,air,"music: a song, an aria"
 repülőtér,noun,airport,place designated for airplanes
 reptér,noun,airport,place designated for airplanes
 szintén,adv,also,in addition; besides; as well; further; too
 is,adv,also,in addition; besides; as well; further; too
 ugyancsak,adv,also,in addition; besides; as well; further; too
 mindig,adv,always,at all times
+állandóan,adv,always,"constantly during a certain period, or regularly at stated intervals"
+mindig,adv,always,"constantly during a certain period, or regularly at stated intervals"
 mérges,adj,angry,displaying anger
 dühös,adj,angry,displaying anger
 haragos,adj,angry,displaying anger
@@ -37,44 +99,111 @@ bosszús,adj,angry,displaying anger
 dühödt,adj,angry,displaying anger
 bősz,adj,angry,displaying anger
 ideges,adj,angry,displaying anger
+fájó,adj,angry,inflamed and painful
+fájdalmas,adj,angry,inflamed and painful
+sajgó,adj,angry,inflamed and painful
+gyulladt,adj,angry,inflamed and painful
 állat,noun,animal,organism
+állat,noun,animal,person who behaves wildly
 válaszol,verb,answer,to make a reply or response to
+reagál,verb,answer,to respond to a call
+felvesz,verb,answer,to respond to a call
+kinyit,verb,answer,to respond to a call
+megfelel,verb,answer,to suit a need or purpose satisfactorily
 lakás,noun,apartment,domicile occupying part of a building
 alma,noun,apple,fruit of Malus domestica
 terület,noun,area,maths: measure of extent of a surface
+terület,noun,area,particular geographic region
 kar,noun,arm,upper appendage from shoulder to wrist
+kar,noun,arm,part of a chromosome
 elér,verb,arrive,to reach
+érkezik,verb,arrive,to get to a certain place
+megérkezik,verb,arrive,to get to a certain place
+befut,verb,arrive,to obtain a level of success or fame
+beérkezik,verb,arrive,to obtain a level of success or fame
 művészet,noun,art,human effort
+művészet,noun,art,skillful creative activity
 újságcikk,noun,article,"story, report, or opinion piece"
 cikk,noun,article,"story, report, or opinion piece"
+cikk,noun,article,member of a group or class
+névelő,noun,article,part of speech that specifies a noun
+névmutató,noun,article,part of speech that specifies a noun
 művész,noun,artist,person who creates art
+művész,noun,artist,person who creates art as an occupation
 kérdez,verb,ask,request an answer
 megkérdez,verb,ask,request an answer
 kérdést tesz fel,verb,ask,request an answer
 érdeklődik,verb,ask,request an answer
+kér,verb,ask,make a request
+megkér,verb,ask,make a request
 nagynéni,noun,aunt,a parent's sister or sister-in-law
+néni,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
 félelmetes,adj,awesome,causing awe or terror
+klassz,adj,awesome,"excellent, exciting"
+óriási,adj,awesome,"excellent, exciting"
 csecsemő,noun,baby,very young human being
 bébi,noun,baby,very young human being
 baba,noun,baby,very young human being
 vissza,adv,back,to or in a previous condition or place
+mögé,adv,back,away from the front or from an edge
 rossz,adj,bad,unfavorable; negative
+rossz,adj,bad,not suitable or fitting
+kellemetlen,adj,bad,tricky; stressful; unpleasant
+rossz,adj,bad,"evil, wicked"
 táska,noun,bag,flexible container
 zsák,noun,bag,flexible container
 szatyor,noun,bag,flexible container
 tasak,noun,bag,flexible container
+zacskó,noun,bag,paper (or plastic) container given or sold to shoppers
 bál,noun,ball,formal dance
 golyó,noun,ball,solid or hollow sphere
 labda,noun,ball,solid or hollow sphere
 gömb,noun,ball,solid or hollow sphere
+labda,noun,ball,"object, generally spherical, used for playing games"
+gombolyag,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+golyó,noun,ball,ballistics: a solid nonexplosive missile
+gömb,noun,ball,mathematics: set of points in a metric space lying within a given distance of a given point
+golyó,noun,ball,testicle — see also testicle
+mogyoró,noun,ball,testicle — see also testicle
+tök,noun,ball,in plural — slang — courage
 banán,noun,banana,fruit
 part,noun,bank,edge of river or lake
 bank,noun,bank,institution
 rúd,noun,bar,solid object with uniform cross-section
+darab,noun,bar,cuboid piece of any commodity
+tábla,noun,bar,cuboid piece of any commodity
+bár,noun,bar,business licensed to sell intoxicating beverages
+kocsma,noun,bar,business licensed to sell intoxicating beverages
+csárda,noun,bar,business licensed to sell intoxicating beverages
+ivó,noun,bar,business licensed to sell intoxicating beverages
+italmérés,noun,bar,business licensed to sell intoxicating beverages
+bárpult,noun,bar,counter of such premises
+minibár,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+bárszekrény,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+italszekrény,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+tilalom,noun,bar,official order prohibiting some activity
+jogásztársadalom,noun,bar,law: collective term for lawyers
+ügyvédi kar/kamara,noun,bar,law: collective term for lawyers
+jog,noun,bar,law: profession of lawyers
+jogtudomány,noun,bar,law: profession of lawyers
+léc,noun,bar,sports: in high jump and pole vault
+rúd,noun,bar,sports: in high jump and pole vault
+homokpad,noun,bar,nautical: sand formation
+zátony,noun,bar,nautical: sand formation
+torlasz,noun,bar,nautical: sand formation
+gát,noun,bar,nautical: sand formation
+hordalékpad,noun,bar,nautical: sand formation
 baseball,noun,baseball,ball game
+baseball-labda,noun,baseball,ball used in baseball-game
 kosárlabda,noun,basketball,the sport
+kosárlabda,noun,basketball,the ball used in the sport
 fürdőkád,noun,bath,tub
 kád,noun,bath,tub
+fürdő,noun,bath,building or area where bathing occurs
+fürdő,noun,bath,real estate: bathroom
+fürdőszoba,noun,bath,real estate: bathroom
+fürdés,noun,bath,act of bathing
+fürdőzés,noun,bath,act of bathing
 fürdőszoba,noun,bathroom,a room with a bathtub
 tengerpart,noun,beach,sandy shore
 strand,noun,beach,sandy shore
@@ -83,7 +212,11 @@ part,noun,beach,sandy shore
 tópart,noun,beach,sandy shore
 szép,adj,beautiful,attractive
 gyönyörű,adj,beautiful,attractive
+szép,adj,beautiful,"of weather: pleasant, clear"
+szép,adj,beautiful,impressing with charm in an intellectual or moral way
+szép,adj,beautiful,used emphaticly or ironically
 lesz,verb,become,to begin to be
+illik,verb,become,"to look attractive on, be suitable for"
 ágy,noun,bed,piece of furniture
 háló,noun,bedroom,room in a house where a bed is kept for sleeping
 hálószoba,noun,bedroom,room in a house where a bed is kept for sleeping
@@ -91,9 +224,19 @@ sör,noun,beer,alcoholic drink made of malt
 kezd,verb,begin,"to start, to initiate (transitive)"
 elkezd,verb,begin,"to start, to initiate (transitive)"
 megkezd,verb,begin,"to start, to initiate (transitive)"
+kezdődik,verb,begin,"to start, begin (intransitive)"
+elkezdődik,verb,begin,"to start, begin (intransitive)"
+megkezdődik,verb,begin,"to start, begin (intransitive)"
 kezdet,noun,beginning,act of doing that which begins anything
 kezdés,noun,beginning,act of doing that which begins anything
+kezdemény,noun,beginning,that which is begun
+kezdet,noun,beginning,that which begins or originates something
+kezdőpont,noun,beginning,that which begins or originates something
+kiindulópont,noun,beginning,that which begins or originates something
+(valami) eleje,noun,beginning,initial portion of some extended thing
+kezdet,noun,beginning,initial portion of some extended thing
 hátul,adv,behind,at the back part; in the rear
+hátra,adv,behind,toward the back part or rear; backward
 hisz,verb,believe,to accept that someone is telling the truth (object: person)
 lent,adv,below,in a lower place
 legjobb,adj,best,superlative of the adjective good
@@ -103,25 +246,68 @@ bicikli,noun,bicycle,vehicle
 bicaj,noun,bicycle,vehicle
 canga,noun,bicycle,vehicle
 nagy,adj,big,of a great size — see also large
+felnőtt,adj,big,adult
 bicaj,noun,bike,bicycle
 bicó,noun,bike,bicycle
 bringa,noun,bike,bicycle
 bicikli,noun,bike,bicycle
+motor,noun,bike,motorcycle
+motorkerékpár,noun,bike,motorcycle
+moci,noun,bike,motorcycle
 jegyzék,noun,bill,written inventory
 -jegy,noun,bill,written inventory
 -levél,noun,bill,written inventory
+bizonyítvány,noun,bill,official statement
+igazolás,noun,bill,official statement
+törvényjavaslat,noun,bill,draft of a law
+törvénytervezet,noun,bill,draft of a law
+vádirat,noun,bill,"law: declaration made in writing, stating some wrong the complainant has suffered from the defendant"
+számla,noun,bill,invoice
+plakát,noun,bill,advertisement
+hirdetmény,noun,bill,advertisement
+váltó,noun,bill,bill of exchange
 csőr,noun,bill,bird's beak
 madár,noun,bird,animal
 születésnap,noun,birthday,anniversary
+születésnap,noun,birthday,date of birth — see also date of birth
+születési idő,noun,birthday,date of birth — see also date of birth
 fekete,noun,black,colour/color
+néger,noun,black,dark-skinned person — see also Negro
+fekete,noun,black,dark-skinned person — see also Negro
+fekete,noun,black,"billiards, snooker, pool: black ball"
 blog,noun,blog,a personal or corporate website
+szőke,adj,blond,having blond hair
 kék,noun,blue,colour
 csónak,noun,boat,water craft
 test,noun,body,physical structure of a human or animal
 szervezet,noun,body,physical structure of a human or animal
+test,noun,body,fleshly or corporeal nature of a human
+váz,noun,body,largest or most important part of anything (e.g. car bodywork)
+karosszéria,noun,body,largest or most important part of anything (e.g. car bodywork)
+body,noun,body,bodysuit
+törzs,noun,body,programming: code of a subroutine
+csoport,noun,body,group having a common purpose or opinion
+társaság,noun,body,group having a common purpose or opinion
+csapat,noun,body,group having a common purpose or opinion
+tábor,noun,body,group having a common purpose or opinion
+testület,noun,body,"organisation, company or other authoritative group"
+szervezet,noun,body,"organisation, company or other authoritative group"
+test,noun,body,any physical object or material thing
+test,noun,body,"substance, material presence"
+test,noun,body,"comparative viscosity, solidity or substance"
+testesség,noun,body,"comparative viscosity, solidity or substance"
 könyv,noun,book,collection of sheets of paper bound together containing printed or written material
+gyűjtemény,noun,book,"convenient collection of small paper items, such as stamps"
+füzet,noun,book,"convenient collection of small paper items, such as stamps"
+csomag,noun,book,"convenient collection of small paper items, such as stamps"
+levél,noun,book,"convenient collection of small paper items, such as stamps"
+könyv,noun,book,"major division of a published work, larger than a chapter"
+kötet,noun,book,"major division of a published work, larger than a chapter"
+könyvelés,noun,book,usually in plural: records of the accounts of a business
+üzleti könyv/főkönyv,noun,book,usually in plural: records of the accounts of a business
 csizma,noun,boot,heavy shoe that covers part of the leg
 bakancs,noun,boot,heavy shoe that covers part of the leg
+spanyolcsizma,noun,boot,torture device
 indítás,noun,boot,the act or process of bootstrapping
 bootolás,noun,boot,the act or process of bootstrapping
 rendszerindítás,noun,boot,the act or process of bootstrapping
@@ -133,10 +319,22 @@ unalmas,adj,boring,causing boredom or tiredness
 palack,noun,bottle,container
 puszpáng,noun,box,shrub or tree of the genus Buxus — see also box tree
 doboz,noun,box,cuboid space; container
+páholy,noun,box,compartment to sit inside
+doboz,noun,box,"(slang, vulgar) the vagina"
+ház,noun,box,"computer, or the case in which it is housed"
+kocka,noun,box,small area on a document for a tick mark
+négyzet,noun,box,small area on a document for a tick mark
 fiú,noun,boy,young male
 csávó,noun,boy,young male
 srác,noun,boy,young male
+szolga,noun,boy,male servant
+fekete,noun,boy,non-white male
+haverok,noun,boy,male friend
+fiúk,noun,boy,male friend
+srácok,noun,boy,male friend
 kenyér,noun,bread,baked dough made from cereals
+kiállás,noun,break,music: short section of music in which some performers stop
+szünet,noun,break,"rest or pause, usually from work"
 reggeli,noun,breakfast,first meal of the day
 früstök,noun,breakfast,first meal of the day
 hoz,verb,bring,to transport toward somebody/somewhere
@@ -144,28 +342,62 @@ fivér,noun,brother,male sibling
 fiútestvér,noun,brother,male sibling
 bátya,noun,brother,male sibling
 öcs,noun,brother,male sibling
+féltestvér,noun,brother,male having parents in common
+hittestvér,noun,brother,male fellow member of a religious community
+testvér,noun,brother,male fellow member of a religious community
 barna,noun,brown,colour
 épít,verb,build,(transitive) to form by combining materials or parts
 építés,noun,building,act or process of building
 építkezés,noun,building,act or process of building
 felépítés,noun,building,act or process of building
+épület,noun,building,closed structure with walls and a roof
 autóbusz,noun,bus,vehicle
 busz,noun,bus,vehicle
+busz,noun,bus,electrical conductor
+üzlet,noun,business,"occupation, work or trade of a person"
+ügy,noun,business,particular situation or activity
 forgalmas,adj,busy,crowded with business or activities
 “peak”) csúcs-,adj,busy,crowded with business or activities
+dolgos,adj,busy,doing a great deal
+tevékeny,adj,busy,doing a great deal
+szorgalmas,adj,busy,doing a great deal
+serény,adj,busy,doing a great deal
+elfoglalt,adj,busy,engaged
+foglalt,adj,busy,engaged
+dolga van,adj,busy,engaged
+zsúfolt,adj,busy,complicated
+túlzsúfolt,adj,busy,complicated
+zavaros,adj,busy,complicated
+kusza,adj,busy,complicated
 vaj,noun,butter,soft foodstuff made from milk
 vásárol,verb,buy,to obtain something with money
 vesz,verb,buy,to obtain something with money
+bevesz,verb,buy,to accept as true
 torta,noun,cake,type of sweet dessert
 sütemény,noun,cake,type of sweet dessert
 tészta,noun,cake,type of sweet dessert
+darab,noun,cake,block of dense material
+tábla,noun,cake,block of dense material
 kiáltás,noun,call,cry or shout
+hang,noun,call,characteristic cry of a bird or other animal
+madárhang,noun,call,characteristic cry of a bird or other animal
+szó,noun,call,beckoning or summoning
+hívás,noun,call,beckoning or summoning
+vonzás,noun,call,beckoning or summoning
+vonzerő,noun,call,beckoning or summoning
+hívás,noun,call,telephone conversation
+telefonhívás,noun,call,telephone conversation
+látogatás,noun,call,social visit
+szó,noun,call,right to speak
 kamera,noun,camera,still camera
 fényképezőgép,noun,camera,still camera
 tud,verb,can,to be able to; to know how to
+-hat,verb,can,may
+-het,verb,can,may
 autó,noun,car,"automobile, a vehicle steered by a driver"
 automobil,noun,car,"automobile, a vehicle steered by a driver"
 kocsi,noun,car,"automobile, a vehicle steered by a driver"
+kártya,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 karrier,noun,career,one's calling in life; a person's occupation
 sárgarépa,noun,carrot,Daucus carota ssp. sativus
 répa,noun,carrot,Daucus carota ssp. sativus
@@ -174,31 +406,132 @@ hord,verb,carry,to transport by lifting
 macska,noun,cat,domestic species
 kandúr,noun,cat,domestic species
 cica,noun,cat,domestic species
+macska,noun,cat,member of the family Felidae
 penny,noun,cent,subunit of currency in US and elsewhere
 cent,noun,cent,subunit of currency in US and elsewhere
+cent,noun,cent,one-hundredth of a euro
+eurócent,noun,cent,one-hundredth of a euro
+egycentes,noun,cent,coin
 középpont,noun,center,point equidistant from all points on the perimeter of a circle
 központ,noun,center,point equidistant from all points on the perimeter of a circle
+középpont,noun,center,point equidistant from all points on the surface of a sphere
+központ,noun,center,point equidistant from all points on the surface of a sphere
+középpont,noun,center,point on a line midway between the ends
+központ,noun,center,point on a line midway between the ends
 szék,noun,chair,furniture
 változás,noun,change,the process of becoming different
 megváltozás,noun,change,the process of becoming different
+apró,noun,change,small denominations of money given in exchange for a larger denomination
+aprópénz,noun,change,small denominations of money given in exchange for a larger denomination
+váltópénz,noun,change,small denominations of money given in exchange for a larger denomination
+csere,noun,change,a replacement
+váltás,noun,change,a replacement
+visszajáró,noun,change,balance returned after a purchase
+aprópénz,noun,change,amount of cash
+apró,noun,change,amount of cash
+átszállás,noun,change,a transfer between vehicles
 (tengerészeti) térkép,noun,chart,navigator's map
+ábra,noun,chart,non-narrative presentation of data
+diagram,noun,chart,non-narrative presentation of data
+grafikon,noun,chart,non-narrative presentation of data
+slágerlista,noun,chart,"ranked listing of competitors, as of recorded music"
 olcsó,adj,cheap,low and/or reduced in price
+olcsó,adj,cheap,of poor quality
+ócska,adj,cheap,of poor quality
+olcsó,adj,cheap,of little worth
+értéktelen,adj,cheap,of little worth
 ellenőriz,verb,check,"to inspect, examine"
 megnéz,verb,check,"to inspect, examine"
 megvizsgál,verb,check,"to inspect, examine"
 meggyőződik (róla),verb,check,"to inspect, examine"
 csekkol,verb,check,"to inspect, examine"
 lecsekkol,verb,check,"to inspect, examine"
+ellenőriz,verb,check,to verify the accuracy of a text or translation
+átvizsgál,verb,check,to verify the accuracy of a text or translation
+átnéz,verb,check,to verify the accuracy of a text or translation
+átolvas,verb,check,to verify the accuracy of a text or translation
+kipipál,verb,check,to mark with a checkmark
+(pipával) megjelöl,verb,check,to mark with a checkmark
+beikszel,verb,check,to mark with a checkmark
+bejelöl,verb,check,to mark with a checkmark
+féken tart,verb,check,"to control, limit, or halt"
+kordában tart,verb,check,"to control, limit, or halt"
+sakkban tart,verb,check,"to control, limit, or halt"
+visszafog,verb,check,"to control, limit, or halt"
+visszafojt,verb,check,"to control, limit, or halt"
+visszatart,verb,check,"to control, limit, or halt"
+megakaszt,verb,check,"to control, limit, or halt"
+megállít,verb,check,"to control, limit, or halt"
+megfékez,verb,check,"to control, limit, or halt"
+meggátol,verb,check,"to control, limit, or halt"
+megakadályoz,verb,check,"to control, limit, or halt"
+elfojt,verb,check,"to control, limit, or halt"
+összevet,verb,check,to verify or compare with a source of information
+egybevet,verb,check,to verify or compare with a source of information
+összehasonlít,verb,check,to verify or compare with a source of information
+egyeztet,verb,check,to verify or compare with a source of information
+felülvizsgál,verb,check,to verify or compare with a source of information
+összeolvas,verb,check,to verify or compare with a source of information
+bead,verb,check,to leave in safekeeping
+lead,verb,check,to leave in safekeeping
+ruhatárba tesz/lead/bead,verb,check,to leave in safekeeping
+felad,verb,check,to leave with shipping agent for shipping
+lead,verb,check,to leave with shipping agent for shipping
+sakkot ad,verb,check,chess: to make a move which puts an adversary's king in check
+repedezik,verb,check,"to crack or gape open, as wood in drying"
+megrepedezik,verb,check,"to crack or gape open, as wood in drying"
+berepedezik,verb,check,"to crack or gape open, as wood in drying"
+bereped,verb,check,"to crack or gape open, as wood in drying"
+megreped,verb,check,"to crack or gape open, as wood in drying"
+megrepeszt,verb,check,to make checks or chinks in; to cause to crack
+berepeszt,verb,check,to make checks or chinks in; to cause to crack
+repedéseket okoz,verb,check,to make checks or chinks in; to cause to crack
+megáll,verb,check,to make a stop; to pause
+megtorpan,verb,check,to make a stop; to pause
+akadozik,verb,check,to make a stop; to pause
+habozik,verb,check,to make a stop; to pause
+mérsékel,verb,check,to act as a curb or restraint
+fékez,verb,check,to act as a curb or restraint
+korlátoz,verb,check,to act as a curb or restraint
+csökkent,verb,check,to act as a curb or restraint
 sajt,noun,cheese,dairy product
 csirke,noun,chicken,bird
+csirkehús,noun,chicken,meat
+nyuszi,noun,chicken,coward
 gyerek,noun,child,son or daughter; someone's child
 gyermek,noun,child,son or daughter; someone's child
 kölyök,noun,child,son or daughter; someone's child
+gyerek,noun,child,a minor
+gyermek,noun,child,a minor
 csokoládé,noun,chocolate,food made from ground roasted cocoa beans
+praliné,noun,chocolate,small piece of confectionery made from chocolate
+bonbon,noun,chocolate,small piece of confectionery made from chocolate
+csokoládébarna,noun,chocolate,colour
 kiválaszt,verb,choose,to pick
+megválaszt,verb,choose,to elect
+választ,verb,choose,to elect
 város,noun,city,large settlement
 osztály,noun,class,"group, collection, category or set sharing characteristics or attributes"
 kategória,noun,class,"group, collection, category or set sharing characteristics or attributes"
+osztály,noun,class,"social grouping, based on job, wealth, etc."
+osztálytársadalom,noun,class,division of society into classes
+stílus,noun,class,admirable behavior; elegance
+elegancia,noun,class,admirable behavior; elegance
+osztály,noun,class,group of students in a regularly scheduled meeting with a teacher
+csoport,noun,class,group of students in a regularly scheduled meeting with a teacher
+óra,noun,class,series of classes covering a single subject
+tanóra,noun,class,series of classes covering a single subject
+foglalkozás,noun,class,series of classes covering a single subject
+kurzus,noun,class,series of classes covering a single subject
+képzés,noun,class,series of classes covering a single subject
+osztály,noun,class,group of students who commenced or completed their education during a particular year
+évfolyam,noun,class,group of students who commenced or completed their education during a particular year
+osztály,noun,class,"category of seats in an airplane, train or other means of mass transportation"
+osztály,noun,class,taxonomy: classification below Phylum and above Order
+világklasszis,noun,class,best of its kind
+klasszis,noun,class,best of its kind
+osztály,noun,class,set theory: collection of sets definable by a shared property
+osztály,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 osztályterem,noun,classroom,room in a school
 tanterem,noun,classroom,room in a school
 terem,noun,classroom,room in a school
@@ -207,79 +540,254 @@ takarít,verb,clean,(transitive) to remove dirt from a place or object
 felmegy,verb,climb,"to ascend, to go up"
 felmászik,verb,climb,"to ascend, to go up"
 óra,noun,clock,instrument to measure or keep track of time
+kilométeróra,noun,clock,odometer
+kilométer-számláló,noun,clock,odometer
 becsuk,verb,close,obstruct (an opening)
+becsuk,verb,close,move (a door)
+lehuny,verb,close,bring one's eyelids together
+befejez,verb,close,put an end to
 ruha,noun,clothes,apparel
 ruhák,noun,clothes,apparel
 klub,noun,club,association of members
 szakkör,noun,club,association of members
+bunkó,noun,club,heavy stick for use as weapon or plaything
+furkó,noun,club,heavy stick for use as weapon or plaything
+bunkósbot,noun,club,heavy stick for use as weapon or plaything
+furkósbot,noun,club,heavy stick for use as weapon or plaything
+ütő,noun,club,hitting implement in certain ball games
+golfütő,noun,club,hitting implement in certain ball games
+nightclub,noun,club,establishment that provides staged entertainment
+mulató,noun,club,establishment that provides staged entertainment
+szórakozóhely,noun,club,establishment that provides staged entertainment
+diszkó,noun,club,establishment that provides staged entertainment
+treff,noun,club,"playing card symbol, ♣"
 kabát,noun,coat,outer garment covering the upper torso and arms
+bunda,noun,coat,fur or feathers
 kávé,noun,coffee,beverage
+kávébab,noun,coffee,beans
+kávécserje,noun,coffee,plant
+kávébarna,noun,coffee,colour
 hideg,noun,cold,low temperature
+megfázás,noun,cold,illness
+meghűlés,noun,cold,illness
+nátha,noun,cold,illness
 testület,noun,college,group of colleagues
 kollégium,noun,college,group of colleagues
+egyetem,noun,college,institution of higher education
+főiskola,noun,college,institution of higher education
+egyetem,noun,college,institution of higher education teaching undergraduates
+főiskola,noun,college,institution of higher education teaching undergraduates
+kar,noun,college,specialized division of a university
+intézet,noun,college,specialized division of a university
+fakultás,noun,college,specialized division of a university
 szín,noun,color,spectral composition of visible light
+szín,noun,color,particular set of the visible spectrum
+színárnyalat,noun,color,hue as opposed to achromatic colors
+bőrszín,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
+lobogó,noun,color,standard or banner (colors)
 jön,verb,come,to move nearer
+megjön,verb,come,"to arrive, to appear"
+jön,verb,come,"to arrive, to appear"
+meg-,verb,come,to begin to have an opinion or feeling
+jön,verb,come,to have a relative position in a sequence
+elélvez,verb,come,to orgasm
+elmegy,verb,come,to orgasm
+válik,verb,come,to become
+bizonyul,verb,come,to turn out to be
 közös,adj,common,mutual
 egyező,adj,common,mutual
 megegyező,adj,common,mutual
 azonos,adj,common,mutual
+szokásos,adj,common,usual
+szokványos,adj,common,usual
+mindennapos,adj,common,usual
+hétköznapi,adj,common,usual
+megszokott,adj,common,usual
+közismert,adj,common,usual
+gyakori,adj,common,found in large numbers or in a large quantity
+mindennapos,adj,common,found in large numbers or in a large quantity
+megszokott,adj,common,found in large numbers or in a large quantity
+közönséges,adj,common,ordinary
+átlagos,adj,common,ordinary
+hétköznapi,adj,common,ordinary
+közös,adj,common,grammar: of the gender resulting from the coalescence of the masculine and feminine genders
 vállalat,noun,company,"in legal context, a corporation"
 cég,noun,company,"in legal context, a corporation"
+társaság,noun,company,"in non-legal context, any business, without respect to incorporation"
+társulat,noun,company,group of individuals with a common purpose
+társaság,noun,company,social visitors
+társaság,noun,company,companionship
+század,noun,company,military unit
 összehasonlít,verb,compare,to assess the similarities between two things or between one thing and another
 összevet,verb,compare,to assess the similarities between two things or between one thing and another
+hasonlít,verb,compare,to declare two things to be similar in some respect
+fokoz,verb,compare,to form the three degrees of comparison of
+összevethető,verb,compare,to be similar
+összehasonlítható,verb,compare,to be similar
 elvégez,verb,complete,to finish
 befejez,verb,complete,to finish
 teljesít,verb,complete,to finish
 elkészít,verb,complete,to finish
+kiegészít,verb,complete,to make whole or entire
+befejez,verb,complete,to make whole or entire
 számítógép,noun,computer,programmable electronic device
 komputer,noun,computer,programmable electronic device
+fejszámoló,noun,computer,person
 összhang,noun,concert,agreement in a design or plan
 egyetértés,noun,concert,agreement in a design or plan
+összhang,noun,concert,musical accordance or harmony
+hangverseny,noun,concert,a musical entertainment in which several voices or instruments take part
+koncert,noun,concert,a musical entertainment in which several voices or instruments take part
 beszélgetés,noun,conversation,expression and exchange of individual ideas through talking with other people
 társalgás,noun,conversation,expression and exchange of individual ideas through talking with other people
 főz,verb,cook,to prepare food for eating
 süt-főz,verb,cook,to prepare food for eating
+fő,verb,cook,to become ready for eating
+megfő,verb,cook,colloquial: to be uncomfortably hot
+megsül,verb,cook,colloquial: to be uncomfortably hot
 főzés,noun,cooking,the process of preparing food by using heat
 sütés-főzés,noun,cooking,the process of preparing food by using heat
+főztje,noun,cooking,one's ability to prepare food; cookery
+konyhaművészet,noun,cooking,the style or genre of food preparation; cookery; cuisine
+konyha,noun,cooking,the style or genre of food preparation; cookery; cuisine
 hűvös,adj,cool,having a slightly low temperature
+hűs,adj,cool,allowing or suggesting heat relief
+hűsítő,adj,cool,allowing or suggesting heat relief
+szenvtelen,adj,cool,"not showing emotion, calm"
+nyugodt,adj,cool,"not showing emotion, calm"
+közömbös,adj,cool,"unenthusiastic, lukewarm, skeptical"
+laza,adj,cool,calmly audacious
+bevállalós,adj,cool,calmly audacious
+belevaló,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+menő,adj,cool,"colloquial: being considered as ""popular"" by others"
+király,adj,cool,"colloquial: being considered as ""popular"" by others"
+vagány,adj,cool,"colloquial: being considered as ""popular"" by others"
+baró,adj,cool,"colloquial: being considered as ""popular"" by others"
+zsír,adj,cool,"colloquial: being considered as ""popular"" by others"
+klassz,adj,cool,"colloquial: being considered as ""popular"" by others"
+dögös,adj,cool,"colloquial: being considered as ""popular"" by others"
+állat,adj,cool,"colloquial: being considered as ""popular"" by others"
+menő,adj,cool,colloquial: in fashion
+divatos,adj,cool,colloquial: in fashion
+belefér,adj,cool,"colloquial: all right, acceptable"
+nem gáz,adj,cool,"colloquial: all right, acceptable"
+nem gond,adj,cool,"colloquial: all right, acceptable"
+nem bánja,adj,cool,colloquial: not upset
+szent a béke,adj,cool,colloquial: not upset
 kijavít,verb,correct,to make something become right that was previously wrong
 helyesbít,verb,correct,to make something become right that was previously wrong
 korrigál,verb,correct,to make something become right that was previously wrong
 kerül,verb,cost,"to incur a charge, a price"
 ország,noun,country,region of land
+ország,noun,country,nation state
+vidék,noun,country,"the country, rural area, as opposed to the town or city"
+kurzus,noun,course,education: learning program
+tanfolyam,noun,course,education: learning program
+fogás,noun,course,cooking: stage of a meal
+útirány,noun,course,itinerary of a race
+irány,noun,course,itinerary of a race
+röppálya,noun,course,sports: trajectory of a ball etc.
+útirány,noun,course,nautical: direction of movement of a vessel
+irány,noun,course,nautical: direction of movement of a vessel
+útirány,noun,course,intended passage of voyage
+irány,noun,course,intended passage of voyage
+téglasor,noun,course,masonry: row of bricks
+unokatestvér,noun,cousin,child of a person’s parent’s brother or sister
 tehén,noun,cow,female domesticated ox or other bovine
+szarvasmarha,noun,cow,any domestic bovine regardless of sex or age
+marha,noun,cow,any domestic bovine regardless of sex or age
+tehén,noun,cow,female of various species of mammal
+spiné,noun,cow,derogatory: despicable woman
+tyúk,noun,cow,derogatory: despicable woman
+nehéz dolog,noun,cow,informal: anything annoyingly difficult
 tejszín,noun,cream,oily part of milk
+krémszín,noun,cream,colour
+vajszín,noun,cream,colour
+krém,noun,cream,the best part
+java,noun,cream,the best part
+legjava,noun,cream,the best part
+színe-java,noun,cream,the best part
+krém,noun,cream,product to apply to the skin
+kenőcs,noun,cream,product to apply to the skin
+napolaj,noun,cream,product to apply to the skin
 teremt,verb,create,to put into existence
 alkot,verb,create,to put into existence
 létrehoz,verb,create,to put into existence
+……-i rangra emel,verb,create,to confer a title of nobility
 kultúra,noun,culture,"arts, customs and habits"
+kultúra,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
+kultúra,noun,culture,anthropology: any knowledge passed from one generation to the next
+kultúra,noun,culture,microbiology: the process of growing a bacterial or other biological entity
+kultúra,noun,culture,the collective noun for a group of bacteria
 csésze,noun,cup,drinking vessel
 findzsa,noun,cup,drinking vessel
+kosár,noun,cup,part of bra
+vevő,noun,customer,one who purchases or receives a product or service
+ügyfél,noun,customer,one who purchases or receives a product or service
+kuncsaft,noun,customer,one who purchases or receives a product or service
+látogató,noun,customer,one who purchases or receives a product or service
+vendég,noun,customer,one who purchases or receives a product or service
 vág,verb,cut,to perform an incision
 megvág,verb,cut,to perform an incision
 bevág,verb,cut,to perform an incision
+elvág,verb,cut,to divide with a sharp instrument
+szétvág,verb,cut,to divide with a sharp instrument
+kettévág,verb,cut,to divide with a sharp instrument
+szab,verb,cut,to cut out fabric to specific lengths and shapes to make clothes
+csökkent,verb,cut,to reduce
+lóg,verb,cut,"colloquial, not to attend a class"
+ellóg,verb,cut,"colloquial, not to attend a class"
+elbliccel,verb,cut,"colloquial, not to attend a class"
 apa,noun,dad,informal: a father
 apu,noun,dad,informal: a father
 táncol,verb,dance,move rhythmically to music
 táncos,noun,dancer,person who dances
+táncosnő,noun,dancer,a female person who dances
 tánc,noun,dancing,activity of dancing
 veszélyes,adj,dangerous,full of danger
 sötét,adj,dark,having an absolute or relative lack of light
+sötét,adj,dark,"hidden, secret"
 dátum,noun,date,"that which specifies the time of writing, inscription etc."
 keltezés,noun,date,"that which specifies the time of writing, inscription etc."
+időpont,noun,date,point of time at which a transaction or event takes place
+nap,noun,date,point of time at which a transaction or event takes place
+időpont,noun,date,point in time
+találkozó,noun,date,pre-arranged social meeting
+randevú,noun,date,pre-arranged social meeting
+pár,noun,date,companion when one is partaking in a social occasion
+társ,noun,date,companion when one is partaking in a social occasion
+partner,noun,date,companion when one is partaking in a social occasion
+randevú,noun,date,meeting with a lover or potential lover; a person so met
+randi,noun,date,meeting with a lover or potential lover; a person so met
+találka,noun,date,meeting with a lover or potential lover; a person so met
 datolya,noun,date,fruit of the date palm
 lány,noun,daughter,female offspring
 nappal,noun,day,period between sunrise and sunset
 nap,noun,day,period between sunrise and sunset
+nap,noun,day,period of 24 hours
+nap,noun,day,period from midnight to the following midnight
+nap,noun,day,rotational period of a planet
+nap,noun,day,"part of a day period which one spends at one's job, school, etc."
 drága,adj,dear,loved; lovable
 kedves,adj,dear,loved; lovable
+kedves,adj,dear,precious to or greatly valued by someone
+kedves,adj,dear,formal way of addressing
+tisztelt,adj,dear,formal way of addressing
+kedves,adj,dear,an informal way of addressing the recipient in a letter's opening line
+drága,adj,dear,an informal way of addressing the recipient in a letter's opening line
+édes,adj,dear,an informal way of addressing the recipient in a letter's opening line
+kedves,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
 dönt,verb,decide,to resolve or settle
 eldönt,verb,decide,to resolve or settle
 elhatároz,verb,decide,to resolve or settle
+dönt,verb,decide,give judgement
+döntést hoz,verb,decide,give judgement
 finom,adj,delicious,pleasing to taste
 ízletes,adj,delicious,pleasing to taste
 leír,verb,describe,to represent in words
 leírás,noun,description,account in words
+leírás,noun,description,set of characteristics
+személyleírás,noun,description,set of characteristics
 tervez,verb,design,to plan an artwork etc.
 megtervez,verb,design,to plan an artwork etc.
 kialakít,verb,design,to plan an artwork etc.
@@ -288,31 +796,67 @@ dolgozóasztal,noun,desk,table for writing and reading
 pad,noun,desk,table for writing and reading
 iskolapad,noun,desk,table for writing and reading
 részlet,noun,detail,part small enough to escape casual notice
+személyi adatok,noun,detail,plural: personal information
 párbeszéd,noun,dialogue,conversation or other discourse between individuals
 beszélgetés,noun,dialogue,conversation or other discourse between individuals
 társalgás,noun,dialogue,conversation or other discourse between individuals
+párbeszéd,noun,dialogue,verbal part of a literary or dramatic work
+dialógus,noun,dialogue,literary form resembling a conversation
 szótár,noun,dictionary,publication that explains the meanings of an ordered list of words
 meghal,verb,die,to stop living
 hal,verb,die,to stop living
 elhuny,verb,die,to stop living
+elromlik,verb,die,to break down
 országgyűlés,noun,diet,council of leaders
 parlament,noun,diet,council of leaders
 diéta,noun,diet,council of leaders
 táplálék,noun,diet,food a person or animal consumes
 étrend,noun,diet,food a person or animal consumes
+étrend,noun,diet,controlled regimen of food
+diéta,noun,diet,controlled regimen of food
+fogyókúra,noun,diet,controlled regimen of food
 különbség,noun,difference,quality of being different
+különbség,noun,difference,characteristic of something that makes it different from something else
 eltérő,adj,different,not the same
 különböző,adj,different,not the same
 más,adj,different,not the same
+eltérő,adj,different,unlike most others
+különböző,adj,different,unlike most others
+más,adj,different,unlike most others
 nehéz,adj,difficult,"hard, not easy"
 vacsora,noun,dinner,evening meal
+ebéd,noun,dinner,midday meal
 piszkos,adj,dirty,covered with or containing dirt
 koszos,adj,dirty,covered with or containing dirt
+koszos,adj,dirty,that makes one dirty
+piszkos,adj,dirty,"morally unclean, obscene or indecent"
+mocskos,adj,dirty,"dishonourable, violating standards or rules"
+mocskos,adj,dirty,"illegal, improper"
 megbeszél,verb,discuss,to converse or debate concerning a particular topic
 megvitat,verb,discuss,to converse or debate concerning a particular topic
 megtárgyal,verb,discuss,to converse or debate concerning a particular topic
 edény,noun,dish,vessel for holding/serving food
 tányér,noun,dish,vessel for holding/serving food
+tál,noun,dish,contents of such a vessel
+tányér,noun,dish,contents of such a vessel
+étel,noun,dish,specific type of food
+fogás,noun,dish,specific type of food
+edény,noun,dish,tableware to be/being washed
+tányér,noun,dish,tableware to be/being washed
+mosogatnivaló,noun,dish,tableware to be/being washed
+parabolaantenna,noun,dish,type of antenna
+műholdvevő,noun,dish,type of antenna
+tényleg,verb,do,for emphasis
+valóban,verb,do,for emphasis
+igenis,verb,do,for emphasis
+csakugyan,verb,do,for emphasis
+bizony,verb,do,for emphasis
+márpedig,verb,do,for emphasis
+igazán,verb,do,for emphasis
+tesz,verb,do,"perform, execute"
+csinál,verb,do,"perform, execute"
+kicsinál,verb,do,kill
+felcsinál,verb,do,slang: have sex with
 doktor,noun,doctor,person who has attained a doctorate
 kutya,noun,dog,animal
 eb,noun,dog,animal
@@ -326,13 +870,59 @@ lent,adv,downstairs,downstairs (adverb)
 lenn,adv,downstairs,downstairs (adverb)
 a földszinten,adv,downstairs,downstairs (adverb)
 rajzol,verb,draw,to produce a picture
+levon,verb,draw,to deduce or infer
+húz,verb,draw,cardgames: to take the top card of a deck into hand
 öltöztet,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 felruház,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+öltözik,verb,dress,to put on clothes — see also get dressed
+öltözködik,verb,dress,to put on clothes — see also get dressed
+felöltözik,verb,dress,to put on clothes — see also get dressed
+feldíszít,verb,dress,"to adorn or ornament (something) — see also adorn, ornament"
+hordja,verb,dress,to allow one’s penis to fall to one side or the other within one’s trousers
 iszik,verb,drink,consume liquid through the mouth
+iszik,verb,drink,consume alcoholic beverages
 vezet,verb,drive,to operate (a wheeled motorized vehicle)
 hajt,verb,drive,to operate (a wheeled motorized vehicle)
+autózik,verb,drive,to travel by operating a motorized vehicle
+vezet,verb,drive,to travel by operating a motorized vehicle
+autóval/kocsivalvisz (el),verb,drive,"to convey (a person, etc) in a wheeled motorized vehicle"
+hajt,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+terel,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+kerget,verb,drive,to cause animals to flee out of
+elkerget,verb,drive,to cause animals to flee out of
+űz,verb,drive,to cause animals to flee out of
+elűz,verb,drive,to cause animals to flee out of
+becsavar,verb,drive,to move (something) by hitting it with great force
+beüt,verb,drive,to move (something) by hitting it with great force
+bever,verb,drive,to move (something) by hitting it with great force
+hajt,verb,drive,to cause (a mechanism) to operate
+működtet,verb,drive,to cause (a mechanism) to operate
+kiszorít,verb,drive,"to displace either physically or non-physically, through the application of force"
+indít,verb,drive,to motivate; to provide an incentive for
+ösztönöz,verb,drive,to motivate; to provide an incentive for
+vezet,verb,drive,to motivate; to provide an incentive for
+hajt,verb,drive,to motivate; to provide an incentive for
+kényszerít,verb,drive,to compel (to do something)
+belekerget,verb,drive,to compel (to do something)
+-ít,verb,drive,to cause to become
+visz,verb,drive,to cause to become
+(chiefly with -vá/-vé) tesz,verb,drive,to cause to become
+ejt,verb,drive,to cause to become
 hajtó,noun,driver,"one who drives something, e.g. cattle"
 fogathajtó,noun,driver,"one who drives something, e.g. cattle"
+ösztönző,noun,driver,something that drives something
+hajtóerő,noun,driver,something that drives something
+mozgatórugó,noun,driver,something that drives something
+ösztönzőerő,noun,driver,something that drives something
+motor,noun,driver,something that drives something
+sofőr,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+vezető,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+járművezető,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+gépjárművezető,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+vezető,noun,driver,person who drives some other vehicle
+"(coachman, carter, wagoner) kocsis",noun,driver,person who drives some other vehicle
+illesztőprogram,noun,driver,program acting as interface between an application and hardware
+golfütő,noun,driver,golf club
 egyenként,adv,each,apiece
 darabonként,adv,each,apiece
 kalász,noun,ear,fruiting body of a grain plant
@@ -345,6 +935,8 @@ kelet felé,adv,east,towards the east
 könnyű,adj,easy,requiring little skill or effort
 eszik,verb,eat,"to ingest — see also consume, ingest"
 tojás,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+tojás,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+tojásdad,noun,egg,thing which looks like or is shaped like an egg
 elefánt,noun,elephant,mammal
 máshogy,adv,else,word that implies any result with the exception of the one being referred to
 máshogyan,adv,else,word that implies any result with the exception of the one being referred to
@@ -352,9 +944,18 @@ másként,adv,else,word that implies any result with the exception of the one be
 másképp,adv,else,word that implies any result with the exception of the one being referred to
 máskor,adv,else,word that implies any result with the exception of the one being referred to
 e-mailt ír/küld,verb,email,(transitive) to send an email or emails to
+elküld,verb,email,(transitive) to send (something) through email
+átküld,verb,email,(transitive) to send (something) through email
+e-mailezik,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+levelezik,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+e-maileket vált,verb,email,"(intransitive) to send, or compose and send, an email or emails"
 befejeződik,verb,end,"intransitive: be finished, be terminated"
+befejez,verb,end,"transitive: finish, terminate (something)"
+véget vet,verb,end,"transitive: finish, terminate (something)"
 élvez,verb,enjoy,to receive pleasure or satisfaction from something
 szeret,verb,enjoy,to receive pleasure or satisfaction from something
+élvez,verb,enjoy,to have the use or benefit of something
+örvend,verb,enjoy,to have the use or benefit of something
 elég,adv,enough,sufficiently
 eléggé,adv,enough,sufficiently
 kellően,adv,enough,sufficiently
@@ -362,32 +963,102 @@ eleget,adv,enough,sufficiently
 euró,noun,euro,currency unit of the European Monetary Union
 pontosan,adv,even,"exactly, fully"
 teljesen,adv,even,"exactly, fully"
+még,adv,even,implying extreme example
+egyáltalán,adv,even,implying extreme example
+még,adv,even,emphasising comparative
 este,noun,evening,time of day between dusk and night
+este,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+alkony,noun,evening,figurative: concluding time period
+est,noun,evening,a party or gathering held in the evening
 esemény,noun,event,occurrence
 történés,noun,event,occurrence
+rendezvény,noun,event,prearranged social activity
+összejövetel,noun,event,prearranged social activity
+ülés,noun,event,prearranged social activity
+alkalom,noun,event,prearranged social activity
+program,noun,event,prearranged social activity
+esemény,noun,event,physics: point in spacetime
 mindig,adv,ever,always
 folyton,adv,ever,always
+egyre,adv,ever,"continuously, constantly, all the time"
+folyton,adv,ever,"continuously, constantly, all the time"
+egyre csak,adv,ever,"continuously, constantly, all the time"
+örökké,adv,ever,"continuously, constantly, all the time"
+valaha,adv,ever,at any time
+valamikor,adv,ever,at any time
+akármikor,adv,ever,at any time
+valahogyan,adv,ever,in any way
+akárhogyan,adv,ever,in any way
+nagyon,adv,ever,intensifier following an interrogative word
+igazán,adv,ever,intensifier following an interrogative word
+igen,adv,ever,intensifier following an interrogative word
+bizony,adv,ever,intensifier following an interrogative word
+ám,adv,ever,intensifier following an interrogative word
 példa,noun,example,something representative of a group
 példány,noun,example,something representative of a group
+példa,noun,example,something serving to explain or illustrate a rule
+példa,noun,example,something serving as a pattern of behaviour
+precedens,noun,example,person punished as a warning to others
+precedens,noun,example,parallel or closely similar case
+példa,noun,example,instance as a problem to be solved
 izgatott,adj,excited,having great enthusiasm and energy
+gerjesztett,adj,excited,being in a state of higher energy
 izgalmas,adj,exciting,causing excitement
 gyakorol,verb,exercise,exert for the sake of training
+tornázik,verb,exercise,perform physical activity
+mozog,verb,exercise,perform physical activity
+edz,verb,exercise,perform physical activity
+testmozgást/testgyakorlást végez,verb,exercise,perform physical activity
+gyakorol,verb,exercise,use; put into practice
+él,verb,exercise,use; put into practice
+próbára tesz,verb,exercise,occupy the attention and effort of
+igénybe vesz,verb,exercise,occupy the attention and effort of
+gyakorol,verb,exercise,"take action, enforce"
+érvényesít,verb,exercise,"take action, enforce"
+érvényre juttat,verb,exercise,"take action, enforce"
 drága,adj,expensive,having a high price or cost
 magyaráz,verb,explain,to make intelligible
 megmagyaráz,verb,explain,to make intelligible
 elmagyaráz,verb,explain,to make intelligible
 kifejt,verb,explain,to make intelligible
+magyaráz,verb,explain,excuse
+indokol,verb,explain,excuse
+igazol,verb,explain,excuse
 többlet,adj,extra,"beyond what is due, usual"
 szem,noun,eye,organ
+fok,noun,eye,hole in needle
+szem,noun,eye,of a hurricane
 arc,noun,face,anatomy: front part of head
+kép,noun,face,facial expression
+arc,noun,face,facial expression
+fej,noun,face,facial expression
+pofa,noun,face,slang: the mouth
+lap,noun,face,geometry: bounding surface of a polyhedron
 tény,noun,fact,an honest observation
+tény,noun,fact,something actual
 zuhanás,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 esés,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+bukás,noun,fall,loss of greatness or status
 hamis,adj,false,"untrue, not factual, wrong"
+hamis,adj,false,"spurious, artificial"
+mű-,adj,false,"spurious, artificial"
+hamis,adj,false,state in Boolean logic that indicates a negative result
+hamis,adj,false,uttering falsehood
+hűtlen,adj,false,not faithful or loyal
+hamis,adj,false,not faithful or loyal
+hamis,adj,false,"not well founded, erroneous"
+ál-,adj,false,not essential or permanent
+hamis,adj,false,music: out of tune
 híres,adj,famous,well known
+híres,adj,famous,in the public eye
 fantasztikus,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
+fantasztikus,adj,fantastic,existing in or constructed from fantasy
+fantasztikus,adj,fantastic,"not believable, only possible in fantasy"
 messze,adv,far,at a great distance
 távol,adv,far,at a great distance
+messze,adv,far,"to, from or over a great distance"
+távol,adv,far,"to, from or over a great distance"
+messzire,adv,far,"to, from or over a great distance"
 gazdaság,noun,farm,place where agricultural activities take place
 farm,noun,farm,place where agricultural activities take place
 birtok,noun,farm,place where agricultural activities take place
@@ -407,60 +1078,148 @@ paraszt,noun,farmer,person who works the land and/or who keeps livestock
 állattenyésztő,noun,farmer,person who works the land and/or who keeps livestock
 növénytermesztő,noun,farmer,person who works the land and/or who keeps livestock
 szilárdan,adv,fast,in a firm or secure manner
+mélyen,adv,fast,of sleeping: deeply or soundly
+gyorsan,adv,fast,with great speed
+siet,adv,fast,ahead of the correct time or schedule
 kövér,adj,fat,carrying a larger than normal amount of fat on one's body
+vastag,adj,fat,thick
 apa,noun,father,male parent
+apó,noun,father,term of address for an elderly man
+atya,noun,father,term of address for a priest
 érez,verb,feel,transitive: to sense by touch
 tapint,verb,feel,transitive: to sense by touch
+érez,verb,feel,transitive: to experience an emotion or other mental state about
+érez,verb,feel,transitive: to think or believe
+az az érzése van,verb,feel,transitive: to think or believe
+tapogat,verb,feel,intransitive: to search by touching
+kitapogat,verb,feel,intransitive: to search by touching
+érez,verb,feel,intransitive: to experience an emotion or other mental state
+érződik,verb,feel,copulative: to seem
+tapintású,verb,feel,copulative: to seem
+tapintása van,verb,feel,copulative: to seem
+együttérez,verb,feel,intransitive: to sympathise
 érzés,noun,feeling,sensation
 érzékelés,noun,feeling,sensation
+érzelem,noun,feeling,emotion; impression
+érzés,noun,feeling,emotion; impression
+érzések,noun,feeling,in plural: emotional state or well-being
+érzelmek,noun,feeling,in plural: emotional attraction or desire
+megérzés,noun,feeling,intuition
+intuíció,noun,feeling,intuition
 fesztivál,noun,festival,event or community gathering
 ünnepség,noun,festival,event or community gathering
 megtölt,verb,fill,"add contents to, so it is full"
+betölt,verb,fill,"enter, making it full"
+megtölt,verb,fill,"occupy fully, take up all of"
+megtelik,verb,fill,become full of contents
+megtelik,verb,fill,become pervaded with something
+kielégít,verb,fill,"satisfy, obey"
+betelik,verb,fill,install someone or be installed in
+betöm,verb,fill,treat (a tooth)
 végső,adj,final,last; ultimate
 utolsó,adj,final,last; ultimate
+jogerős,adj,final,conclusive; decisive
+célhatározói,adj,final,grammar: expressing purpose
+szó végi,adj,final,linguistics: occurring at the end of a word
 talál,verb,find,"encounter, locate, discover"
 remek,adj,fine,of superior quality
+filigrán,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
 befejez,verb,finish,to complete
 végez,verb,finish,to complete
 elkészít,verb,finish,to complete
+befejeződik,verb,finish,to come to an end
+véget ér,verb,finish,to come to an end
+végződik,verb,finish,to come to an end
 tűz,noun,fire,oxidation reaction
+tűz,noun,fire,damaging occurrence of fire
+tűzeset,noun,fire,damaging occurrence of fire
+tűz,noun,fire,alchemy: one of the basic elements
+kályha,noun,fire,heater or stove used in place of real fire
 először,adv,first,before anything else
 előbb,adv,first,before anything else
 előtte,adv,first,before anything else
 hal,noun,fish,vertebrate animal
+halászat,noun,fish,period of time spent fishing
+halászás,noun,fish,period of time spent fishing
+balek,noun,fish,slang: easy victim for swindling
+palimadár,noun,fish,slang: easy victim for swindling
 menekülés,noun,flight,act of fleeing
 repülés,noun,flight,act of flying
+járat,noun,flight,instance of flying
+repülőjárat,noun,flight,journey made by an aircraft
+lépcsősor,noun,flight,set of stairs
 padló,noun,floor,bottom part of a room
+föld,noun,floor,"surface of the Earth, as opposed to the sky or water or underground"
+fenék,noun,floor,lower inside surface of a hollow space
+emelet,noun,floor,horizontal structure dividing a building
+szint,noun,floor,horizontal structure dividing a building
+szó,noun,floor,right to speak
+talajgyakorlat,noun,floor,gymnastics event
+talaj,noun,floor,gymnastics: floor-like carpeted surface
 virág,noun,flower,reproductive structure in angiosperms
 repül,verb,fly,to travel through air
 száll,verb,fly,to travel through air
+repít,verb,fly,to cause to travel through the air
 követ,verb,follow,to go or come after in physical space
 kísér,verb,follow,to go or come after in physical space
+követ,verb,follow,to go or come after in a sequence
+követ,verb,follow,to carry out in accordance to
+követ,verb,follow,to live one’s life according to
+követ,verb,follow,to understand
+követ,verb,follow,to keep track of
+követ,verb,follow,to subscribe to see content from an account on a social media platform
+következik,verb,follow,to be a logical consequence of
 étel,noun,food,any substance consumed by living organisms to sustain life
 ennivaló,noun,food,any substance consumed by living organisms to sustain life
 élelem,noun,food,any substance consumed by living organisms to sustain life
 étek,noun,food,any substance consumed by living organisms to sustain life
 táplálék,noun,food,any substance consumed by living organisms to sustain life
+táplálék,noun,food,anything intended to supply energy or nourishment of other forms
+táp,noun,food,anything intended to supply energy or nourishment of other forms
+tápszer,noun,food,anything intended to supply energy or nourishment of other forms
+tápanyag,noun,food,anything intended to supply energy or nourishment of other forms
+élelmiszer,noun,food,foodstuff
 láb,noun,foot,part of human body
 lábfej,noun,foot,part of human body
+láb,noun,foot,part of animal’s body
+láb,noun,foot,unit of measure
 labdarúgás,noun,football,association football
 foci,noun,football,association football
 futball,noun,football,association football
+focilabda,noun,football,ball
+futball-labda,noun,football,ball
 felejt,verb,forget,to lose remembrance of
 elfelejt,verb,forget,to lose remembrance of
+megfeledkezik,verb,forget,to unintentionally not do
+elfelejt,verb,forget,to unintentionally not do
 kialakít,verb,form,to give shape
 formál,verb,form,to give shape
 megformál,verb,form,to give shape
 szabad,adj,free,not imprisoned
+szabad,adj,free,mathematics: unconstrained
+szabad,adj,free,without obligations
 barát,noun,friend,person whose company one enjoys
 pajtás,noun,friend,person whose company one enjoys
 haver,noun,friend,person whose company one enjoys
 cimbora,noun,friend,person whose company one enjoys
+barát,noun,friend,boyfriend or girlfriend
+barátnő,noun,friend,boyfriend or girlfriend
+ismerős,noun,friend,person with whom you are acquainted
+barát,noun,friend,person who provides assistance
+barát,noun,friend,person who backs something
+pártoló,noun,friend,person who backs something
+barátocskám,noun,friend,(sarcastic) form of address used to warn someone
 barátságos,adj,friendly,"approachable, warm"
+baráti,adj,friendly,pertaining to friendlies in the conflict sense
 elöl lévő,adj,front,located at or near the front
 elülső,adj,front,located at or near the front
 első,adj,front,located at or near the front
+elülső,adj,front,phonetics: pronounced toward the front of the mouth
+elöl képzett,adj,front,phonetics: pronounced toward the front of the mouth
+magas hangrendű,adj,front,phonetics: pronounced toward the front of the mouth
 gyümölcs,noun,fruit,part of plant
+gyümölcs,noun,fruit,food
+gyümölcs,noun,fruit,figuratively: positive end result or reward of labour or effort
 tele,adj,full,containing the maximum possible amount
 móka,noun,fun,enjoyment or amusement
 tréfa,noun,fun,enjoyment or amusement
@@ -468,24 +1227,91 @@ szórakozás,noun,fun,enjoyment or amusement
 mulatság,noun,fun,enjoyment or amusement
 muri,noun,fun,enjoyment or amusement
 poén,noun,fun,enjoyment or amusement
+mulatozás,noun,fun,"playful, often noisy, activity"
+mulatság,noun,fun,"playful, often noisy, activity"
 vicces,adj,funny,amusing; comical
 jövő,noun,future,the time ahead
+jövő idő,noun,future,something that will happen in moments yet to come
 játék,noun,game,"playful activity that may be unstructured, amusement, pastime"
+játék,noun,game,particular instance of playing a game; match
+vad,noun,game,wild animals hunted for food
 kert,noun,garden,piece of land outside with flowers and plants
 virágoskert,noun,garden,piece of land outside with flowers and plants
+veteményeskert,noun,garden,a vegetable garden
+park,noun,garden,gardens with public access
+kert,noun,garden,grounds at the front or back of a house
+udvar,noun,garden,grounds at the front or back of a house
 természetföldrajz,noun,geography,study of physical structure and inhabitants of the Earth
 földrajz,noun,geography,study of physical structure and inhabitants of the Earth
 szerez,verb,get,to obtain
+szerez,verb,get,to receive
+kap,verb,get,to receive
+lesz,verb,get,to become
 lány,noun,girl,young female person
+nő,noun,girl,woman — see also woman
+szolga,noun,girl,female servant
+szolgálónő,noun,girl,female servant
 barátnő,noun,girlfriend,a female partner in a romantic relationship
 csaj,noun,girlfriend,a female partner in a romantic relationship
+barátnő,noun,girlfriend,a female friend
 ad,verb,give,transfer the possession of something to someone else
 üveg,noun,glass,substance
+pohár,noun,glass,drinking vessel
+pohárnyi,noun,glass,quantity
+pohár,noun,glass,quantity
+látcső,noun,glass,magnifying glass or telescope
+távcső,noun,glass,magnifying glass or telescope
+nagyító,noun,glass,magnifying glass or telescope
+üveg-,noun,glass,attributive: transparent or translucent
+átlátszó,noun,glass,attributive: transparent or translucent
 megy,verb,go,to move through space (especially from one place to another)
 jár,verb,go,to move through space (especially from one place to another)
 halad,verb,go,to move through space (especially from one place to another)
 utazik,verb,go,to move through space (especially from one place to another)
+működik,verb,go,"of a machine, to work"
+jár,verb,go,"of a machine, to work"
+lép,verb,go,to take a turn
+-ul,verb,go,to become
+-ül,verb,go,to become
+-odik,verb,go,to become
+-edik,verb,go,to become
+-ödik,verb,go,to become
+válik,verb,go,to become
+változik,verb,go,to become
+marad,verb,go,to habitually be in a state
+elmúlik,verb,go,to disappear
+eltűnik,verb,go,to disappear
+tűnik,verb,go,to disappear
+összeesik,verb,go,to be destroyed
+összeomlik,verb,go,to be destroyed
+betörik,verb,go,to be destroyed
+beszakad,verb,go,to be destroyed
+jut,verb,go,to be given; to be assigned or allotted
+érvényes,verb,go,to have final authority; to be authoritative
+elfogadott,verb,go,to have final authority; to be authoritative
+történik,verb,go,to have final authority; to be authoritative
+mond,verb,go,to say
+szól,verb,go,to say
+csinál,verb,go,to make (a specified sound)
+hangot ad,verb,go,to make (a specified sound)
+hangzik,verb,go,to make (a specified sound)
+megszólal,verb,go,to make (a specified sound)
+fér,verb,go,to fit
+befér,verb,go,to fit
+bemegy,verb,go,to fit
+való,verb,go,to belong; to have as its/their proper place
+megy,verb,go,to belong; to have as its/their proper place
+tartozik,verb,go,to belong; to have as its/their proper place
+jár,verb,go,to date
+randevúzik,verb,go,to date
+randizik,verb,go,to date
+szokott lenni,verb,go,to be in general
+hajrá,verb,go,imperative: expressing encouragement or approval
+ez az,verb,go,imperative: expressing encouragement or approval
+csak így tovább,verb,go,imperative: expressing encouragement or approval
 jó,adj,good,acting in the interest of good; ethical good intentions
+jó,adj,good,full; entire; at least
+bő,adj,good,full; entire; at least
 istenhozzád,noun,goodbye,an utterance of goodbye
 búcsúszó,noun,goodbye,an utterance of goodbye
 búcsú,noun,goodbye,an utterance of goodbye
@@ -498,49 +1324,143 @@ nagyszülő,noun,grandparent,parent of one's parent
 szürke,noun,gray,colour
 gray,noun,gray,SI unit of absorbed radiation
 nagy,adj,great,"very big, large scale"
+nagyszerű,adj,great,very good
 zöld,noun,green,colour
+zöld,noun,green,member of a green party
 csoport,noun,group,number of things or persons being in some relation to each other
+csoport,noun,group,in group theory
+együttes,noun,group,people who perform music together
+zenekar,noun,group,people who perform music together
+csoport,noun,group,column in the periodic table
 nő,verb,grow,(intransitive) to become bigger
+nő,verb,grow,(intransitive) to appear or sprout
+növekszik,verb,grow,(intransitive) to appear or sprout
+termel,verb,grow,(transitive) to cause something to become bigger
+termeszt,verb,grow,(transitive) to cause something to become bigger
+növeszt,verb,grow,(transitive) to cause something to become bigger
+lesz,verb,grow,to assume a condition or quality
+-ul,verb,grow,to assume a condition or quality
+-ül,verb,grow,to assume a condition or quality
+-odik,verb,grow,to assume a condition or quality
+-edik,verb,grow,to assume a condition or quality
+-ödik,verb,grow,to assume a condition or quality
 gitár,noun,guitar,musical instrument
 edzőterem,noun,gym,sporting facility specialized for lifting weights and exercise
 hajszál,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
 szőrszál,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+haj,noun,hair,mass of such filaments on the human head
+szőr,noun,hair,mass of such filaments growing from the skin of humans and animals
 fél,noun,half,one of two equal parts into which anything may be divided
 kéz,noun,hand,part of the fore limb
+mutató,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+óramutató,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+oldal,noun,hand,"side; part; direction, either right or left"
+irány,noun,hand,"side; part; direction, either right or left"
+rész,noun,hand,"side; part; direction, either right or left"
+ügyesség,noun,hand,power of performance; means of execution; ability; skill; dexterity
+tehetség,noun,hand,power of performance; means of execution; ability; skill; dexterity
+képesség,noun,hand,power of performance; means of execution; ability; skill; dexterity
+rátermettség,noun,hand,power of performance; means of execution; ability; skill; dexterity
+munkás,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+segédmunkás,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+szakember,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+segítség,noun,hand,instance of helping
+segítségnyújtás,noun,hand,instance of helping
+kézírás,noun,hand,handwriting; style of penmanship
+írás,noun,hand,handwriting; style of penmanship
+aláírás,noun,hand,person's autograph or signature
+kéz,noun,hand,personal possession; ownership
+birtok,noun,hand,personal possession; ownership
+tulajdon,noun,hand,personal possession; ownership
+kéz,noun,hand,"management, domain, control"
+irányítás,noun,hand,"management, domain, control"
+felelősség,noun,hand,"management, domain, control"
+felügyelet,noun,hand,"management, domain, control"
+hatalom,noun,hand,"management, domain, control"
+uralom,noun,hand,"management, domain, control"
+ellenőrzés,noun,hand,"management, domain, control"
+marék,noun,hand,"that which is, or may be, held in a hand at once"
+marok,noun,hand,"that which is, or may be, held in a hand at once"
+maréknyi,noun,hand,"that which is, or may be, held in a hand at once"
+maroknyi,noun,hand,"that which is, or may be, held in a hand at once"
+leosztás,noun,hand,set of cards held by a player in a card game
+fürt,noun,hand,bunch of bananas
+taps,noun,hand,applause
+gyömbér gyöktörzse,noun,hand,whole rhizome of ginger
+tapintás,noun,hand,feel of a fabric
+kéz,noun,hand,agency in transmission from one person to another
 történik,verb,happen,to occur
 megtörténik,verb,happen,to occur
 megesik,verb,happen,to occur
 boldog,adj,happy,"contented, joyous"
+szerencsés,adj,happy,"fortunate, lucky"
+elégedett,adj,happy,content (to do something); having no objection (to something)
+meg van elégedve,adj,happy,content (to do something); having no objection (to something)
 kalap,noun,hat,a head covering
 sapka,noun,hat,a head covering
 fejfedő,noun,hat,a head covering
+szerep,noun,hat,a role or capacity
+minőség,noun,hat,a role or capacity
 gyűlöl,verb,hate,to dislike intensely
 utál,verb,hate,to dislike intensely
 bír,verb,have,to possess
 birtokol,verb,have,to possess
+"-at/-et, -tat/-tet",verb,have,"cause to, by command or request"
 fej,noun,head,part of the body
+sörhab,noun,head,foam on carbonated beverages
 egészség,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+egészség,noun,health,physical condition
+(egészségi) állapot,noun,health,physical condition
+közérzet,noun,health,physical condition
 egészséges,adj,healthy,enjoying good health
+egészséges,adj,healthy,conducive to health
+egészséges,adj,healthy,evincing health
+jelentős,adj,healthy,"significant, hefty"
+jókora,adj,healthy,"significant, hefty"
 hall,verb,hear,to perceive with the ear
 segítség,noun,help,action given to provide assistance
+bejárónő,noun,help,person employed to help in the maintenance of a house
 itt,adv,here,"in, on, or at this place"
+ide,adv,here,to this place
+itt,adv,here,in this context
+ez esetben,adv,here,in this context
 magas,adj,high,elevated; tall
 történelem,noun,history,aggregate of past events
 múlt,noun,history,aggregate of past events
+történelem,noun,history,branch of knowledge that studies the past
+történettudomány,noun,history,branch of knowledge that studies the past
+történelemtudomány,noun,history,branch of knowledge that studies the past
+-történet,noun,history,set of events involving an entity
+történet,noun,history,record or narrative description of past events
+história,noun,history,record or narrative description of past events
+kórtörténet,noun,history,medicine: list of past and continuing medical conditions
+előzmények,noun,history,computing: record of previous user events
 hobbi,noun,hobby,activity done for enjoyment in spare time
 kedvtelés,noun,hobby,activity done for enjoyment in spare time
 kedvenc időtöltés,noun,hobby,activity done for enjoyment in spare time
 kabasólyom,noun,hobby,Falco subbuteo
 otthon,adv,home,at home
 itthon,adv,home,at home
+haza,adv,home,homewards
 házi feladat,noun,homework,work that is done at home
 remél,verb,hope,"to want something to happen, with expectation that it might"
 reménykedik,verb,hope,"to want something to happen, with expectation that it might"
 ló,noun,horse,members of the species Equus ferus
 mén,noun,horse,members of the species Equus ferus
 kanca,noun,horse,members of the species Equus ferus
+ló,noun,horse,gymnastic equipment
 kórház,noun,hospital,large medical facility
 meleg,adj,hot,having a high temperature
+lázas,adj,hot,feverish
+erős,adj,hot,spicy
+csípős,adj,hot,spicy
+lopott,adj,hot,slang: stolen
+vonzó,adj,hot,slang: physically very attractive
+szexi,adj,hot,slang: physically very attractive
+népszerű,adj,hot,"popular, in demand"
+felkapott,adj,hot,"popular, in demand"
+forró,adj,hot,very close to finding or guessing something to be found or guessed
+meleg,adj,hot,very close to finding or guessing something to be found or guessed
 szálloda,noun,hotel,establishment providing accommodation
 hotel,noun,hotel,establishment providing accommodation
 óra,noun,hour,time period of sixty minutes
@@ -549,170 +1469,587 @@ lakóhely,noun,house,human abode
 lakhely,noun,house,human abode
 hajlék,noun,house,human abode
 lak,noun,house,human abode
+ház,noun,house,archetypal structure of a human abode
+ház,noun,house,home for animal
+ház,noun,house,theatre
+színház,noun,house,theatre
+operaház,noun,house,theatre
+képviselőház,noun,house,debating chamber for government politicians
+parlament,noun,house,debating chamber for government politicians
+alsóház,noun,house,debating chamber for government politicians
+felsőház,noun,house,debating chamber for government politicians
+képviselők,noun,house,debating chamber for government politicians
+cég,noun,house,"an establishment, business"
+üzlet,noun,house,"an establishment, business"
+vállalat,noun,house,"an establishment, business"
+vállalkozás,noun,house,"an establishment, business"
+ház,noun,house,"dynasty, familiar descendance"
+dinasztia,noun,house,"dynasty, familiar descendance"
+ház,noun,house,astrology: one of the twelve divisions of an astrological chart
 milyen,adv,how,to what degree
 mennyire,adv,how,to what degree
+hogyan,adv,how,in what manner
+hogy,adv,how,in what manner
+milyen,adv,how,in what state
+hogy,adv,how,in what state
+mennyire,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+milyen,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+de,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 mégis,adv,however,nevertheless
 viszont,adv,however,nevertheless
 azonban,adv,however,nevertheless
 mindazonáltal,adv,however,nevertheless
+bármennyire,adv,however,to whatever extent or degree
+akármennyire,adv,however,to whatever extent or degree
+bármilyen,adv,however,to whatever extent or degree
+akármilyen,adv,however,to whatever extent or degree
 éhes,adj,hungry,affected by hunger; desirous of food
 férj,noun,husband,male partner in marriage
 jég,noun,ice,water in frozen form
+fagylalt,noun,ice,frozen dessert
 fagylalt,noun,ice cream,dessert
+jégkrém,noun,ice cream,in a cone
+fagylalt,noun,ice cream,in a cone
+fagyi,noun,ice cream,in a cone
 idea,noun,idea,"philosophy: abstract archetype of a given thing, compared to which real-life examples are seen as imperfect"
 eszme,noun,idea,"philosophy: abstract archetype of a given thing, compared to which real-life examples are seen as imperfect"
+eszmény,noun,idea,(obsolete in English) the conception of someone or something as representing an ideal
+elképzelés,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+elgondolás,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+eszme,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+fogalom,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+ötlet,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+gondolat,noun,idea,"any result of mental activity; a thought, a notion; a way of thinking"
+ötlet,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+terv,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+elképzelés,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+ötlet,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
+elképzelés,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
+képzet,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
+téma,noun,idea,a musical theme or melodic subject
 képzel,verb,imagine,(transitive) to form a mental image of something
 elképzel,verb,imagine,(transitive) to form a mental image of something
 fontos,adj,important,having relevant and crucial value
 javít,verb,improve,to make something better
 tökéletesít,verb,improve,to make something better
+gyógyul,verb,improve,to become better
+javul,verb,improve,to become better
+meggyógyul,verb,improve,to become better
+megjavul,verb,improve,to become better
+rendbe jön,verb,improve,to become better
+talpra áll,verb,improve,to become better
 be,adv,in,moving to the interior
 belevesz,verb,include,to bring into as a part or member
 belefoglal,verb,include,to bring into as a part or member
+tartalmaz,verb,include,"to contain, as part of a whole"
+magában foglal,verb,include,"to contain, as part of a whole"
+beleért,verb,include,"to contain, as part of a whole"
 információ,noun,information,communicable knowledge
 értesülés,noun,information,communicable knowledge
 tájékoztatás,noun,information,communicable knowledge
 tudnivaló,noun,information,communicable knowledge
 felvilágosítás,noun,information,communicable knowledge
 hír,noun,information,communicable knowledge
+tájékoztatás,noun,information,act of informing or imparting knowledge
+felvilágosítás,noun,information,act of informing or imparting knowledge
+informálás,noun,information,act of informing or imparting knowledge
+értesítés,noun,information,act of informing or imparting knowledge
+közlés,noun,information,act of informing or imparting knowledge
+hírközlés,noun,information,act of informing or imparting knowledge
+panasz,noun,information,"''(obsolete in English)'' the act of informing against someone, passing on incriminating knowledge; accusation"
+bevádolás,noun,information,"''(obsolete in English)'' the act of informing against someone, passing on incriminating knowledge; accusation"
+feljelentés,noun,information,"''(obsolete in English)'' the act of informing against someone, passing on incriminating knowledge; accusation"
+beárulás,noun,information,"''(obsolete in English)'' the act of informing against someone, passing on incriminating knowledge; accusation"
+besúgás,noun,information,"''(obsolete in English)'' the act of informing against someone, passing on incriminating knowledge; accusation"
+tudakozó,noun,information,a service provided by telephone which provides listed telephone numbers of a subscriber
 érdekel,verb,interest,to attract attention or concern
 érdekel,adj,interested,having or showing interest
 érdekli,adj,interested,having or showing interest
 érdeklődő,adj,interested,having or showing interest
 érdekes,adj,interesting,arousing or holding the attention
 bemutat,verb,introduce,to cause someone to be acquainted
+ereszt,verb,introduce,"to add something to a system, a mixture, or a container"
+juttat,verb,introduce,"to add something to a system, a mixture, or a container"
+enged,verb,introduce,"to add something to a system, a mixture, or a container"
+bevezet,verb,introduce,to bring into practice — see also bring in
 sziget,noun,island,area of land completely surrounded by water
+sziget,noun,island,entity surrounded by other entities that are very different from itself
 dzseki,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+zakó,noun,jacket,piece of a person's suit
 farmer,noun,jeans,denim trousers
 farmernadrág,noun,jeans,denim trousers
 feladat,noun,job,task
 munka,noun,job,task
+állás,noun,job,economic role for which a person is paid
+munka,noun,job,economic role for which a person is paid
+beosztás,noun,job,economic role for which a person is paid
 összekapcsol,verb,join,to combine more than one item into one; to put together
 összeköt,verb,join,to combine more than one item into one; to put together
+beletorkollik,verb,join,to come together; to meet
+találkozik,verb,join,to come together; to meet
+csatlakozik,verb,join,to come into the company of
+belép,verb,join,to become a member of
 lé,noun,juice,liquid from a plant
 nedv,noun,juice,liquid from a plant
+lé,noun,juice,beverage made of juice
+gyümölcslé,noun,juice,beverage made of juice
+dzsúsz,noun,juice,beverage made of juice
+ivólé,noun,juice,beverage made of juice
+gyümölcsnektár,noun,juice,beverage made of juice
+gyümölcsital,noun,juice,beverage made of juice
+nedv,noun,juice,liquid resembling juice
+áram,noun,juice,slang: electricity
+kakaó,noun,juice,slang: fuel
+benzin,noun,juice,slang: fuel
 csak,adv,just,"only, simply, merely"
+éppen,adv,just,"recently, moments ago"
+éppen csak hogy,adv,just,"by a narrow margin, barely"
+épp csak,adv,just,"by a narrow margin, barely"
 tart,verb,keep,to maintain possession of
+tart,verb,keep,to maintain the condition of; to preserve
+eláll,verb,keep,to remain edible or otherwise usable
+tart,verb,keep,of livestock: to raise; to care for
+eltart,verb,keep,supply with necessities and financially support a person
+kitart,verb,keep,supply with necessities and financially support a person
 kulcs-,adj,key,indispensable
 kulcsfontosságú,adj,key,indispensable
+fontos,adj,key,important
+lényeges,adj,key,important
 fajta,noun,kind,"type, race, category"
 típus,noun,kind,"type, race, category"
 konyha,noun,kitchen,room
 tud,verb,know,be justifiably certain or sure about (something true)
+ismer,verb,know,be acquainted or familiar with
+tud,verb,know,have knowledge of
+tud,verb,know,understand (a subject)
+megismer,verb,know,have sexual relations with
+tud,verb,know,be informed about
+ért,verb,know,be informed about
+jártas,verb,know,be informed about
+járatos,verb,know,be informed about
+tapasztal,verb,know,experience
+megtapasztal,verb,know,experience
+megél,verb,know,experience
+átél,verb,know,experience
+átmegy,verb,know,experience
+keresztülmegy,verb,know,experience
 föld,noun,land,part of Earth that is not covered by oceans or other bodies of water
 szárazföld,noun,land,part of Earth that is not covered by oceans or other bodies of water
 nyelv,noun,language,body of words used as a form of communication
+nyelv,noun,language,the ability to communicate using words
+nyelv,noun,language,nonverbal communication
+nyelv,noun,language,vocabulary of a particular field
+zsargon,noun,language,vocabulary of a particular field
+szaknyelv,noun,language,vocabulary of a particular field
+szakzsargon,noun,language,vocabulary of a particular field
+csoportnyelv,noun,language,vocabulary of a particular field
+nyelvezet,noun,language,particular words used
+megfogalmazás,noun,language,particular words used
+megszövegezés,noun,language,particular words used
+fogalmazásmód,noun,language,particular words used
+stílus,noun,language,particular words used
+beszédmód,noun,language,particular words used
+nyelv,noun,language,computer language — see also computer language
 nagy,adj,large,of greater size — see also big
 későn,adv,late,past a designated time
+majd,adv,later,at some unspecified time in the future
 nevetés,noun,laugh,expression of mirth peculiar to the human species
 megtanul,verb,learn,to acquire knowledge or ability
 elsajátít,verb,learn,to acquire knowledge or ability
+tanul,verb,learn,to attend educational activity
+tanulmányokat folytat,verb,learn,to attend educational activity
+tanul,verb,learn,to make use of a bad experience
+okul,verb,learn,to make use of a bad experience
+tanul,verb,learn,to be studying
+megtud,verb,learn,to come to know; to become informed of; to find out
+értesül,verb,learn,to come to know; to become informed of; to find out
 hagy,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 elhagy,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+ráhagy,verb,leave,to transfer possession after death
+hátrahagy,verb,leave,to transfer possession after death
+testál,verb,leave,to transfer possession after death
+otthagy,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
+átruház,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
+átad,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
+ráhagy,verb,leave,to transfer responsibility or attention
+rábíz,verb,leave,to transfer responsibility or attention
+elhagy,verb,leave,"to depart from, end one's connection or affiliation with"
+felhagy,verb,leave,"to depart from, end one's connection or affiliation with"
+felad,verb,leave,"to depart from, end one's connection or affiliation with"
+kilép,verb,leave,to end one's membership in
+otthagy,verb,leave,to end one's membership in
+elhagy,verb,leave,to end one's membership in
+indul,verb,leave,to depart (intransitive)
+elindul,verb,leave,to depart (intransitive)
+elutazik,verb,leave,to depart (intransitive)
+elmegy,verb,leave,to depart (intransitive)
 bal oldal,noun,left,the left side
+baloldal,noun,left,the ensemble of left-wing political parties
 láb,noun,leg,lower limb from groin to ankle
+szár,noun,leg,part of garment covering the leg
+láb,noun,leg,supporting protrusion of an inanimate object
+befogó,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
 lecke,noun,lesson,section of learning or teaching
 óra,noun,lesson,section of learning or teaching
 tanóra,noun,lesson,section of learning or teaching
+lecke,noun,lesson,learning task assigned to a student
+házi feladat,noun,lesson,learning task assigned to a student
+tanulság,noun,lesson,something that serves as a warning or encouragement
+szentlecke,noun,lesson,section of the Bible or other religious text read as part of a divine service
 hagy,verb,let,allow
 enged,verb,let,allow
+bérel,verb,let,put up for rent
 betű,noun,letter,a symbol in an alphabet
+levél,noun,letter,written message
 könyvtár,noun,library,"institution which holds books, etc."
+könyvtár,noun,library,collection of books
+programkönyvtár,noun,library,collection of subprograms
 hazudik,verb,lie,tell an intentional untruth
 fekszik,verb,lie,be in horizontal position
 élet,noun,life,the state of being alive
+élet,noun,life,one of the player's chances to play
 világos,adj,light,having light
 fényes,adj,light,having light
+világos,adj,light,pale in colour
+halvány,adj,light,pale in colour
+halovány,adj,light,pale in colour
+fakó,adj,light,pale in colour
 könnyű,adj,light,of low weight
+könnyű,adj,light,lightly-built
+könnyed,adj,light,having little force or momentum
+finom,adj,light,having little force or momentum
+könnyű,adj,light,easy to endure or perform
+könnyű,adj,light,"low in fat, calories, alcohol, salt, etc."
+könnyed,adj,light,"low in fat, calories, alcohol, salt, etc."
+light,adj,light,"low in fat, calories, alcohol, salt, etc."
+lájtos,adj,light,"low in fat, calories, alcohol, salt, etc."
+apró,adj,light,of little significance
+kis,adj,light,of little significance
+könnyű,adj,light,not heavily armed
 szeret,verb,like,to enjoy
 kedvel,verb,like,to enjoy
 ínyére van,verb,like,to enjoy
+lájkol,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+lájkol,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+vonal,noun,line,"path through two or more points, threadlike mark"
+egyenes,noun,line,geometry: infinite one-dimensional figure
+szakasz,noun,line,geometry: continuous finite segment of such a figure
+vonal,noun,line,music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed
+vonal,noun,line,fortifications: trench or rampart
+sor,noun,line,"straight sequence of people, queue"
+sor,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+sor,noun,line,poetic: verse
 oroszlán,noun,lion,big cat Panthera leo
 hallgat,verb,listen,to pay attention to a sound
 figyel,verb,listen,to pay attention to a sound
+hallgat,verb,listen,to accept advice or obey instruction
+hallgat,verb,listen,to hear (something)
 kicsi,adj,little,small in size
 kis,adj,little,small in size
+kis,adj,little,(of a sibling) younger
+öcs,adj,little,(of a sibling) younger
+húg,adj,little,(of a sibling) younger
+kevés,adj,little,"small in number, few"
 él,verb,live,be alive
+lakik,verb,live,have permanent residence
 helyi,adj,local,of a nearby location
+helyi,adj,local,medicine: of or pertaining to a restricted part of an organism
 néz,verb,look,to try to see
+látszik,verb,look,"to appear, to seem"
+tűnik,verb,look,"to appear, to seem"
+kinéz,verb,look,"to appear, to seem"
 elveszít,verb,lose,cause (something) to cease to be in one's possession or capability
 elhagy,verb,lose,cause (something) to cease to be in one's possession or capability
+veszít,verb,lose,(transitive) fail to win
+veszít,verb,lose,fail to be the winner
 szeret,verb,love,have a strong affection for
+szeret,verb,love,be strongly inclined towards doing
+szerelmeskedik,verb,love,(euphemistic): to have sex with
 ebéd,noun,lunch,meal around midday
 gép,noun,machine,mechanical or electrical device
 szerkezet,noun,machine,mechanical or electrical device
 masina,noun,machine,mechanical or electrical device
+masina,noun,machine,"archaic: vehicle, automobile"
 folyóirat,noun,magazine,periodical
 magazin,noun,magazine,periodical
+lőszerraktár,noun,magazine,ammunition storehouse
+tár,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
+tölténytár,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 fő,adj,main,"chief, most important, or principal in extent, etc."
 készít,verb,make,to construct
 csinál,verb,make,to construct
+készít,verb,make,to produce
+alkot,verb,make,to produce
+létrehoz,verb,make,to produce
+alkot,verb,make,to create
+készít,verb,make,to form
+alkot,verb,make,to constitute
+értelmez,verb,make,to interpret
+sikerre visz,verb,make,to bring into success
+sikeressé tesz,verb,make,to bring into success
+tesz,verb,make,to cause to be
+-at,verb,make,to cause to do
+-et,verb,make,to cause to do
+-tat,verb,make,to cause to do
+-tet,verb,make,to cause to do
+elér,verb,make,to cause to do
+késztet,verb,make,to force to do
+rávesz,verb,make,to force to do
+tesz,verb,make,to indicate or suggest to be
+megágyaz,verb,make,to cover with bedclothes
+megvet,verb,make,to cover with bedclothes
+észrevesz,verb,make,to recognise
+felismer,verb,make,to recognise
+(hu) kiszúr,verb,make,to recognise
+keres,verb,make,"to earn, to gain (money)"
+pláza,noun,mall,enclosed shopping centre
+bevásárlóközpont,noun,mall,enclosed shopping centre
 férfi,noun,man,adult male human
 ember,noun,man,adult male human
+ember,noun,man,a human being
+bábu,noun,man,piece in board games
+figura,noun,man,piece in board games
 térkép,noun,map,visual representation of an area
+leképezés,noun,map,function
 vásár,noun,market,gathering for trading
+piac,noun,market,spacious site for trading
+vásárcsarnok,noun,market,spacious site for trading
+piac,noun,market,group of potential customers
+vevőkör,noun,market,group of potential customers
+piac,noun,market,geographical area where a commercial demand exists
+piac,noun,market,formally organized system of trading in specified goods or effects
 házas,adj,married,in a state of marriage; having a wife or a husband
+férjezett,adj,married,in a state of marriage; having a husband
+férjes,adj,married,in a state of marriage; having a husband
+nős,adj,married,in a state of marriage; having a wife
 egyezik,verb,match,intransitive: to agree; to be equal
 megegyezik,verb,match,intransitive: to agree; to be equal
 megfelel,verb,match,intransitive: to agree; to be equal
 illik,verb,match,intransitive: to agree; to be equal
 összeillik,verb,match,intransitive: to agree; to be equal
 passzol,verb,match,intransitive: to agree; to be equal
+megfeleltet,verb,match,make a successful pairing
 talán,adv,maybe,indicating a lack of certainty
 étkezés,noun,meal,food that is prepared and eaten
 akar,verb,mean,to intend; plan on doing
 tervez,verb,mean,to intend; plan on doing
 szándékozik,verb,mean,to intend; plan on doing
 szándékában áll,verb,mean,to intend; plan on doing
+akar,verb,mean,to have intentions of some kind
+szán,verb,mean,to intend (something) for a given purpose or fate
+jelent,verb,mean,"to convey, indicate"
+jelent,verb,mean,to signify
+ért,verb,mean,"to intend to express, to imply, to hint at, to allude"
+gondol,verb,mean,"to intend to express, to imply, to hint at, to allude"
+céloz,verb,mean,"to intend to express, to imply, to hint at, to allude"
+komolyan gondol,verb,mean,to have conviction in what one says
+jár,verb,mean,to result in; bring about
+maga után von,verb,mean,to result in; bring about
+jelent,verb,mean,to result in; bring about
+jelent,verb,mean,to be important
+számít,verb,mean,to be important
 jelentés,noun,meaning,symbolic value of something
+értelem,noun,meaning,"significance of a thing, as ""the meaning of life"""
+jelentés,noun,meaning,definition or connotation of a word
 hús,noun,meat,animal flesh used as food
+hús,noun,meat,type of meat
+hús,noun,meat,any sort of flesh
 találkozik,verb,meet,to come face to face with by accident; to encounter
+találkozik,verb,meet,to come face to face with someone by arrangement
+megvár,verb,meet,to come face to face with someone by arrangement
+fogad,verb,meet,to come face to face with someone by arrangement
+kimegy elé,verb,meet,to come face to face with someone by arrangement
+megismerkedik,verb,meet,to get acquainted with
+megismer,verb,meet,to get acquainted with
+ülésezik,verb,meet,to gather for a formal or social discussion; to hold a meeting
+összeül,verb,meet,to gather for a formal or social discussion; to hold a meeting
+összegyűlik,verb,meet,to gather for a formal or social discussion; to hold a meeting
+egybegyűlik,verb,meet,to gather for a formal or social discussion; to hold a meeting
+szembeszáll,verb,meet,to come together in conflict
+szembenéz,verb,meet,to come together in conflict
+dacol,verb,meet,to come together in conflict
+összecsap,verb,meet,sport: to play a match
+mérkőzik,verb,meet,sport: to play a match
+megmérkőzik,verb,meet,sport: to play a match
+találkozik,verb,meet,to converge and finally touch or intersect
+keresztez,verb,meet,to converge and finally touch or intersect
+kereszteződik,verb,meet,to converge and finally touch or intersect
+metsz,verb,meet,to converge and finally touch or intersect
+összefut,verb,meet,to converge and finally touch or intersect
+ütközik,verb,meet,to touch or hit something while moving
+nekiütközik,verb,meet,to touch or hit something while moving
+érintkezik,verb,meet,to adjoin; be physically touching
+összeér,verb,meet,to adjoin; be physically touching
+hozzáér,verb,meet,to adjoin; be physically touching
+ér,verb,meet,to adjoin; be physically touching
+megfelel,verb,meet,to satisfy; to comply with
+eleget tesz,verb,meet,to satisfy; to comply with
+kielégít,verb,meet,to satisfy; to comply with
+fedez,verb,meet,to satisfy; to comply with
+visel,verb,meet,to satisfy; to comply with
+teljesít,verb,meet,to satisfy; to comply with
+kifizet,verb,meet,to satisfy; to comply with
+tart,verb,meet,to satisfy; to comply with
+kijön,verb,meet,to balance or come out correct
+stimmel,verb,meet,to balance or come out correct
+elé tárul,verb,meet,to perceive; to come to a knowledge of; to have personal acquaintance with; to experience; to suffer
+akad,verb,meet,to perceive; to come to a knowledge of; to have personal acquaintance with; to experience; to suffer
+bukkan,verb,meet,to perceive; to come to a knowledge of; to have personal acquaintance with; to experience; to suffer
+egyesül,verb,meet,"to be mixed with, to be combined with aspects of"
 találkozás,noun,meeting,action noun of the verb to meet
+találkozó,noun,meeting,gathering for a purpose
+megbeszélés,noun,meeting,gathering for a purpose
+tárgyalás,noun,meeting,gathering for a purpose
+ülés,noun,meeting,gathering for a purpose
+értekezlet,noun,meeting,gathering for a purpose
+gyűlés,noun,meeting,gathering for a purpose
+tanácskozás,noun,meeting,gathering for a purpose
+résztvevők,noun,meeting,people at such a gathering
+találkozás,noun,meeting,encounter between people
+összetalálkozás,noun,meeting,encounter between people
+találkozás,noun,meeting,place or instance of junction or intersection
+érintkezés,noun,meeting,place or instance of junction or intersection
+csatlakozás,noun,meeting,place or instance of junction or intersection
 tag,noun,member,one who officially belongs to a group
+tag,noun,member,"organ, limb"
+hímtag,noun,member,penis
 menü,noun,menu,details of the food to be served at a banquet
 étlap,noun,menu,details of the food to be served at a banquet
+menü,noun,menu,list of dishes offered in a restaurant
+étlap,noun,menu,list of dishes offered in a restaurant
+ételkínálat,noun,menu,list of dishes offered in a restaurant
+menü,noun,menu,computing: list from which the user may select an operation to be performed
 üzenet,noun,message,"communication, concept or information conveyed"
+mondanivaló,noun,message,underlying theme
 mérőóra,noun,meter,measuring instrument
 fogyasztásmérő (óra),noun,meter,measuring instrument
+parkolóóra,noun,meter,short form of parking meter
+versmérték,noun,meter,rhythm of poetry
 éjfél,noun,midnight,middle of the night
+éjfél,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 mérföld,noun,mile,measure of length
 tej,noun,milk,liquid
 perc,noun,minute,unit of time
+perc,noun,minute,short but unspecified period of time
+pillanat,noun,minute,short but unspecified period of time
+ívperc,noun,minute,unit of angular measure — see also minute of angle
+emlékeztető,noun,minute,record of meeting
+feljegyzés,noun,minute,record of meeting
+perc,noun,minute,minute of use of telephone network
 eltéveszt,verb,miss,to fail to hit
 elhibáz,verb,miss,to fail to hit
 elvét,verb,miss,to fail to hit
 mellémegy,verb,miss,to fail to hit
+lemarad (with -ról/-ről),verb,miss,to fail to achieve or attain
+elszalaszt,verb,miss,to fail to achieve or attain
+elkerül,verb,miss,to avoid; to escape
+megúszik,verb,miss,to avoid; to escape
+hiányol,verb,miss,to feel the absence of someone or something; to feel the want or need of
+hiányzik (with -nak/-nek),verb,miss,to feel the absence of someone or something; to feel the want or need of
+nem ért,verb,miss,to fail to understand
+nem ért meg,verb,miss,to fail to understand
+elnéz,verb,miss,"to fail to notice, to overlook"
+elkerüli a figyelmét,verb,miss,"to fail to notice, to overlook"
+nem vesz észre,verb,miss,"to fail to notice, to overlook"
+elmulaszt,verb,miss,to fail to attend
+elszalaszt,verb,miss,to fail to attend
+lekésik,verb,miss,to be late for something
+hiányzik (with -ból/-ből),verb,miss,to lack something
 hiba,noun,mistake,an error
 manöken,noun,model,person
 modell,noun,model,person
+modell,noun,model,miniature
+makett,noun,model,miniature
+miniatűr,noun,model,miniature
+modell,noun,model,simplified representation
+modell,noun,model,style
+változat,noun,model,style
+verzió,noun,model,style
+modell,noun,model,structural design
+példakép,noun,model,praiseworthy example
 modern,adj,modern,pertaining to the current time and style
 pillanat,noun,moment,very brief period of time
 pénz,noun,money,means of exchange and measure of value
 fizetőeszköz,noun,money,means of exchange and measure of value
+pénz,noun,money,currency
+pénznem,noun,money,currency
+valuta,noun,money,currency
+deviza,noun,money,currency
+készpénz,noun,money,hard cash
+likvid tőke,noun,money,available liquid assets
+rendelkezésre álló anyagi eszközök,noun,money,available liquid assets
+vagyon,noun,money,wealth
+gazdagság,noun,money,wealth
+jómód,noun,money,wealth
+fizetőeszköz,noun,money,item of value used as payment
 hónap,noun,month,period into which a year is divided
 hajnal,noun,morning,part of the day between dawn and midday
 reggel,noun,morning,part of the day between dawn and midday
 délelőtt,noun,morning,part of the day between dawn and midday
 anya,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+anya,noun,mother,one’s female parent
 hegy,noun,mountain,large mass of earth and rock
 hegység,noun,mountain,large mass of earth and rock
+rengeteg,noun,mountain,large amount
+temérdek,noun,mountain,large amount
 egér,noun,mouse,rodent of the genus Mus
+egér,noun,mouse,computing: input device
 száj,noun,mouth,the opening of a creature through which food is ingested
+torkolat,noun,mouth,the end of a river out of which water flows
+folyótorkolat,noun,mouth,the end of a river out of which water flows
 mozog,verb,move,(intransitive) to change place or posture; to go
 jár,verb,move,(intransitive) to change place or posture; to go
+költözik,verb,move,to change residence
+elköltözik,verb,move,to change residence
+költözködik,verb,move,to change residence
+elköltözködik,verb,move,to change residence
+elhurcolkodik,verb,move,to change residence
+lép,verb,move,(transitive) to change the place of something
+mozgat,verb,move,to cause to change place or posture; to set in motion
+meghat,verb,move,to arouse the feelings or passions of
+megindít,verb,move,to arouse the feelings or passions of
 film,noun,movie,motion picture
 mozgókép,noun,movie,motion picture
 múzeum,noun,museum,building or institution
 zene,noun,music,"sound, organized in time in a melodious way"
 muzsika,noun,music,"sound, organized in time in a melodious way"
+zene,noun,music,any pleasing or interesting sounds
+muzsika,noun,music,any pleasing or interesting sounds
+kotta,noun,music,sheet music
 kell,verb,must,be required to
 muszáj,verb,must,be required to
+biztos,verb,must,"said about something that is very likely, probable, or certain to be true"
+bizonyára,verb,must,"said about something that is very likely, probable, or certain to be true"
+minden bizonnyal,verb,must,"said about something that is very likely, probable, or certain to be true"
+alighanem,verb,must,"said about something that is very likely, probable, or certain to be true"
+biztosan,verb,must,"said about something that is very likely, probable, or certain to be true"
+kétségkívül,verb,must,"said about something that is very likely, probable, or certain to be true"
+kétségtelenül,verb,must,"said about something that is very likely, probable, or certain to be true"
 nevez,verb,name,to give a name to
 elnevez,verb,name,to give a name to
+említ,verb,name,"to mention, specify"
+megnevez,verb,name,"to mention, specify"
+meghatároz,verb,name,"to identify, define, specify"
+megnevez,verb,name,to publicly implicate
+kinevez,verb,name,to designate for a role
+természeti,adj,natural,of or relating to nature
+természetes,adj,natural,without additives
+természetes,adj,natural,as expected
+magától értetődő,adj,natural,as expected
+kézenfekvő,adj,natural,as expected
+előjegyzés nélküli,adj,natural,musically not sharp or flat
+természetes,adj,natural,without adjustment
 közel,adv,near,at or towards a position close in space or time
 kell,verb,need,to have an absolute requirement for
 negatív,adj,negative,not positive or neutral
+negatív,adj,negative,of electrical charge
 szomszédság,noun,neighborhood,quality of being a neighbor
+környék,noun,neighborhood,area near one's home
+szomszédság,noun,neighborhood,inhabitants of a residential area
+szomszédok,noun,neighborhood,inhabitants of a residential area
+városrész,noun,neighborhood,division of a municipality or region
+negyed,noun,neighborhood,division of a municipality or region
+városnegyed,noun,neighborhood,division of a municipality or region
 sohasem,adv,never,at no time
 sohase,adv,never,at no time
 sosem,adv,never,at no time
@@ -720,42 +2057,146 @@ sose,adv,never,at no time
 új,adj,new,recently made or created
 újság,noun,news,new information of interest
 hír,noun,news,new information of interest
+hírek,noun,news,reports of current events
+híradó,noun,news,reports of current events
+hírműsor,noun,news,reports of current events
 hírlap,noun,newspaper,publication
 újság,noun,newspaper,publication
 legközelebb,adv,next,"In a time, place or sequence closest or following"
 második,adv,next,"In a time, place or sequence closest or following"
 eggyel,adv,next,"In a time, place or sequence closest or following"
+ezután,adv,next,On the first subsequent occasion
+azután,adv,next,On the first subsequent occasion
+aztán,adv,next,On the first subsequent occasion
+utána,adv,next,On the first subsequent occasion
 kellemes,adj,nice,"pleasant, satisfactory"
 szép,adj,nice,"pleasant, satisfactory"
+szép,adj,nice,"attractive, friendly"
 éjszaka,noun,night,period between sunset and sunrise
 éjjel,noun,night,period between sunset and sunrise
 éj,noun,night,period between sunset and sunrise
+éjszaka,noun,night,evening or night spent at a particular activity
+éjszakázás,noun,night,evening or night spent at a particular activity
+éjszaka,noun,night,night spent away from home
+éjszakázás,noun,night,night spent away from home
+éjszaka,noun,night,quality of sleep obtained during a night
+este,noun,night,nightfall
+alkonyat,noun,night,nightfall
+alkony,noun,night,nightfall
+szürkület,noun,night,nightfall
+napnyugta,noun,night,nightfall
+napszállta,noun,night,nightfall
+éjszaka,noun,night,darkness
+sötétség,noun,night,darkness
+sötét,noun,night,darkness
 orr,noun,nose,protuberance on the face
+orr,noun,nose,"snout, nose of an animal"
+orrhossz,noun,nose,length of a horse’s nose
 nem,adv,not,negates meaning of another word
+jegyzet,noun,note,memorandum
+hangjegy,noun,note,character indicating the length and pitch of a tone
+hangjegy,noun,note,musical sound
 most,adv,now,at the present time
 szám,noun,number,abstract entity used to describe quantity
+szám,noun,number,numeral
+számjegy,noun,number,numeral
+szám,noun,number,mathematics: number
+-odik,noun,number,used to show the rank of something in a list or sequence
+-adik,noun,number,used to show the rank of something in a list or sequence
+-edik,noun,number,used to show the rank of something in a list or sequence
+-ödik,noun,number,used to show the rank of something in a list or sequence
+-os,noun,number,used to show the rank of something in a list or sequence
+-as,noun,number,used to show the rank of something in a list or sequence
+-es,noun,number,used to show the rank of something in a list or sequence
+-ös,noun,number,used to show the rank of something in a list or sequence
+sorszám,noun,number,used to show the rank of something in a list or sequence
+jelzés,noun,number,used to show the rank of something in a list or sequence
+számjelzés,noun,number,used to show the rank of something in a list or sequence
+szám,noun,number,quantity
+létszám,noun,number,quantity
+szám,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+kód,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+azonosító,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+rendszám,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+szám,noun,number,informal: telephone number
+telefonszám,noun,number,informal: telephone number
+szám,noun,number,"grammar: state of being singular, dual or plural"
+szám,noun,number,performance
+zeneszám,noun,number,performance
+darab,noun,number,informal: person
+ruhadarab,noun,number,"informal: item of clothing, particularly a stylish one"
+szám,noun,number,issue of a periodical publication
 ápoló,noun,nurse,person trained to provide care for the sick
 ápolónő,noun,nurse,person trained to provide care for the sick
+dada,noun,nurse,person who takes care of other people's young
+dajka,noun,nurse,person who takes care of other people's young
 tárgy,noun,object,thing
 dolog,noun,object,thing
 objektum,noun,object,thing
+cél,noun,object,"the goal, end or purpose of something"
+célkitűzés,noun,object,"the goal, end or purpose of something"
+szándék,noun,object,"the goal, end or purpose of something"
+tárgy,noun,object,in grammar
+tárgy,noun,object,person or thing to which an emotion is directed
+célpont,noun,object,person or thing to which an emotion is directed
+objektum,noun,object,object-oriented programming: instantiation of a class or structure
+objektum,noun,object,category theory: instance of a kind of entities forming a category
 óceán,noun,ocean,one of the large bodies of water
+hivatal,noun,office,room(s) or building used for non-manual work
+iroda,noun,office,room(s) or building used for non-manual work
 gyakran,adv,often,"frequently, many times"
 sűrűn,adv,often,"frequently, many times"
 sokszor,adv,often,"frequently, many times"
 régi,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+öreg,adj,old,of a living being: having lived for relatively many years
+idős,adj,old,of a living being: having lived for relatively many years
+régi,adj,old,former
+régebbi,adj,old,former
+előző,adj,old,former
+korábbi,adj,old,former
+éves,adj,old,having existed or lived for the specified time
+hónapos,adj,old,having existed or lived for the specified time
+hetes,adj,old,having existed or lived for the specified time
+(day/s old) napos,adj,old,having existed or lived for the specified time
+órás,adj,old,having existed or lived for the specified time
+perces,adj,old,having existed or lived for the specified time
+régi,adj,old,"(of an item) used, not new"
+használt,adj,old,"(of an item) used, not new"
+fárasztó,adj,old,tiresome
 egyszer,adv,once,one and only one time
 egyetlenegyszer,adv,once,one and only one time
 egy alkalommal,adv,once,one and only one time
 egy ízben,adv,once,one and only one time
+egyszer,adv,once,formerly
+valaha,adv,once,formerly
+egykor,adv,once,formerly
 hagyma,noun,onion,Allium cepa
 csak,adv,only,without others or anything further; exclusively
+csak,adv,only,no more than
+csak,adv,only,as recently as
 nyit,verb,open,to make something accessible
 kinyit,verb,open,to make something accessible
 tár,verb,open,to make something accessible
 kitár,verb,open,to make something accessible
 tát,verb,open,to make something accessible
 kitát,verb,open,to make something accessible
+nyit,verb,open,to clear away obstacles
+nyit,verb,open,to make accessible to customers
+nyit,verb,open,to begin conducting business
+kinyit,verb,open,to begin conducting business
+nyit,verb,open,to start (a campaign)
+megnyit,verb,open,to start (a campaign)
+felvet,verb,open,to bring up (a topic)
+szóba hoz,verb,open,to bring up (a topic)
+nyit,verb,open,to bring up (a topic)
+megnyit,verb,open,to bring up (a topic)
+kezd,verb,open,to bring up (a topic)
+megkezd,verb,open,to bring up (a topic)
+indít,verb,open,to bring up (a topic)
+nyílik,verb,open,to become open
+tárul,verb,open,to become open
+kinyílik,verb,open,to become open
+megnyílik,verb,open,to become open
 vélemény,noun,opinion,thought a person has formed about a topic
 nézet,noun,opinion,thought a person has formed about a topic
 szakvélemény,noun,opinion,thought a person has formed about a topic
@@ -763,19 +2204,47 @@ narancssárga,adj,orange,having the colour of the fruit of an orange tree
 narancsszínű,adj,orange,having the colour of the fruit of an orange tree
 rendez,verb,order,to set in (any) order
 sorba rak/rendez,verb,order,to set in (any) order
+rendez,verb,order,to set in (a good) order
+elrendez,verb,order,to set in (a good) order
+rendbe rak,verb,order,to set in (a good) order
+elrendel,verb,order,to issue a command
+megparancsol,verb,order,to issue a command
+parancsol,verb,order,to issue a command
+utasít,verb,order,to issue a command
+rendel,verb,order,to request some product or service
+megrendel,verb,order,to request some product or service
 ki,adv,out,away from the inside or the centre
 kívül,adv,outside,in or to the outside
 kint,adv,outside,in or to the outside
 kifelé,adv,outside,in or to the outside
+kint,adv,outside,outdoors
+a szabadban,adv,outside,outdoors
 át,adv,over,from one position or state to another
+el,adv,over,horizontally; from one place to another
+arrébb,adv,over,horizontally; from one place to another
+le,adv,over,from upright to horizontal position
+ki,adv,over,from upright to horizontal position
+végig,adv,over,"thoroughly, completely"
+át,adv,over,"thoroughly, completely"
+túl,adv,over,to an excessive degree
+túlzottan,adv,over,to an excessive degree
+éjszakára,adv,over,overnight
+újra,adv,over,again
 saját,adj,own,belonging to (determiner)
 birtokol,adj,own,belonging to (determiner)
 apród,noun,page,serving boy
 oldal,noun,page,one side of a leaf of a book
+lap,noun,page,one of the pieces of paper bound together within a book or document
 festék,noun,paint,substance
 festmény,noun,painting,an illustration or artwork using paint
+festőművészet,noun,painting,artistic application of paint
 pár,noun,pair,two similar or identical things
+pár,noun,pair,poker hand
 nadrág,noun,pants,garment covering the body from the waist downwards
+bugyi,noun,pants,undergarment covering the genitals
+alsónadrág,noun,pants,undergarment covering the genitals
+alsógatya,noun,pants,undergarment covering the genitals
+gatya,noun,pants,undergarment covering the genitals
 papír,noun,paper,sheet material
 bekezdés,noun,paragraph,passage in text
 szülő,noun,parent,person from whom one is descended
@@ -785,10 +2254,41 @@ rész,noun,part,fraction of a whole
 partner,noun,partner,someone who is associated with another in a common activity or interest
 társ,noun,partner,someone who is associated with another in a common activity or interest
 fél,noun,party,law: particular side in a contract or legal action
+párt,noun,party,"group of people forming one side in a given dispute, contest etc."
+oldal,noun,party,"group of people forming one side in a given dispute, contest etc."
+osztag,noun,party,military: discrete detachment of troops
+összejövetel,noun,party,social gathering
+zsúr,noun,party,social gathering
+buli,noun,party,social gathering
+parti,noun,party,social gathering
+csoport,noun,party,group of people travelling or attending an event together
+csapat,noun,party,group of people travelling or attending an event together
+brigád,noun,party,group of people travelling or attending an event together
 útlevél,noun,passport,official document for foreign travel
 múlt,noun,past,period of time that has already happened
+múlt idő,noun,past,(grammar) past tense
 fizet,verb,pay,to give money in exchange for goods or services
 kifizet,verb,pay,to give money in exchange for goods or services
+kifizet,verb,pay,to discharge by giving or doing what is due or required
+befizet,verb,pay,to discharge by giving or doing what is due or required
+folyósít,verb,pay,to discharge by giving or doing what is due or required
+rendez,verb,pay,to discharge by giving or doing what is due or required
+kifizetődik,verb,pay,to be profitable for
+megéri,verb,pay,to be profitable for
+rentábilis,verb,pay,to be profitable for
+szentel,verb,pay,to give (e.g. attention)
+fordít,verb,pay,to give (e.g. attention)
+megéri,verb,pay,to be profitable
+kifizetődik,verb,pay,to be profitable
+jövedelmez,verb,pay,to be profitable
+rentábilis,verb,pay,to be profitable
+kifizet,verb,pay,intransitive: to discharge an obligation or debt
+megfizet,verb,pay,intransitive: to discharge an obligation or debt
+törleszt,verb,pay,intransitive: to discharge an obligation or debt
+fizet,verb,pay,intransitive: to suffer consequences
+megfizet,verb,pay,intransitive: to suffer consequences
+bűnhődik,verb,pay,intransitive: to suffer consequences
+lakol,verb,pay,intransitive: to suffer consequences
 toll,noun,pen,writing tool
 irón,noun,pen,writing tool
 golyóstoll,noun,pen,writing tool
@@ -797,59 +2297,256 @@ karám,noun,pen,enclosure (enclosed area) for animals
 ketrec,noun,pen,enclosure (enclosed area) for animals
 ceruza,noun,pencil,graphite writing-instrument
 emberek,noun,people,a body of human beings; a group of two or more persons
+nép,noun,people,a group of persons forming or belonging to a particular nation etc.
 bors,noun,pepper,plant
+bors,noun,pepper,spice
+paprika,noun,pepper,fruit of the capsicum
 tökéletes,adj,perfect,fitting its definition precisely
+tökéletes,adj,perfect,having all of its parts in harmony with a common purpose
+kifogástalan,adj,perfect,without fault or mistake
+hibátlan,adj,perfect,without fault or mistake
+tökéletes,adj,perfect,excellent and delightful in all respects
+befejezett,adj,perfect,grammar: of a tense or verb form: representing a completed action
+tiszta,adj,perfect,"music: interval or any compound interval of a unison, octave, or fourths and fifths that are not tritones."
 időszak,noun,period,a length of time
 időtartam,noun,period,a length of time
 idő,noun,period,a length of time
+lezajlási idő,noun,period,length of time for a disease to run its course
+vég,noun,period,end or conclusion; final point of a process
+lezárás,noun,period,end or conclusion; final point of a process
+lezárulás,noun,period,end or conclusion; final point of a process
+befejezés,noun,period,end or conclusion; final point of a process
+határ,noun,period,end or conclusion; final point of a process
+időszak,noun,period,history: period of time seen as coherent entity
+korszak,noun,period,history: period of time seen as coherent entity
+kor,noun,period,history: period of time seen as coherent entity
+körmondat,noun,period,rhetoric: complete sentence
+pont,noun,period,punctation mark “.”
+periódus,noun,period,length of time during which something repeats
+fázis,noun,period,length of time during which something repeats
+ciklus,noun,period,length of time during which something repeats
+korszak,noun,period,section of an artist's career
+óra,noun,period,division of school day
+tanóra,noun,period,division of school day
+játékrész,noun,period,division of sports match
+félidő,noun,period,division of sports match
+periódus,noun,period,chemistry: row in the periodic table
+periódusos sor,noun,period,chemistry: row in the periodic table
+korszak,noun,period,geochronologic unit
+kor,noun,period,geochronologic unit
+periódus,noun,period,music: two phrases
 személy,noun,person,individual
 egyén,noun,person,individual
+ember,noun,person,"specifically a human being — see also human, human being, man"
+szerep,noun,person,"character or part, as in a play"
+szereplő,noun,person,"character or part, as in a play"
+személy,noun,person,"character or part, as in a play"
+személy,noun,person,Christianity: any one of the three hypostases of the God
+lény,noun,person,science fiction: sentient or socially intelligent being
+-kedvelő,noun,person,someone who likes or has an affinity for a specified thing
+-barát,noun,person,someone who likes or has an affinity for a specified thing
+test,noun,person,the physical body seen as distinct from the mind
+megjelenés,noun,person,the physical body seen as distinct from the mind
+külső,noun,person,the physical body seen as distinct from the mind
+kinézet,noun,person,the physical body seen as distinct from the mind
+személy,noun,person,any individual or formal organization with standing before the courts
+személy,noun,person,grammar: linguistic category
 emberi,adj,personal,pertaining to human beings
 személyi,adj,personal,pertaining to human beings
+személyi,adj,personal,of or pertaining to a particular person
+személyes,adj,personal,of or pertaining to a particular person
+egyéni,adj,personal,of or pertaining to a particular person
+saját,adj,personal,of or pertaining to a particular person
+személyes,adj,personal,dealing with subjects about which one wishes to maintain privacy or discretion
+magánjellegű,adj,personal,dealing with subjects about which one wishes to maintain privacy or discretion
+magán-,adj,personal,dealing with subjects about which one wishes to maintain privacy or discretion
+intim,adj,personal,euphemistic: intended for sexual use
+személyes,adj,personal,pertaining to the external or bodily appearance
+személyes,adj,personal,done in person
+élő,adj,personal,done in person
+szemtől szembeni,adj,personal,done in person
+személyeskedő,adj,personal,relating to an individual in an invidious and offensive manner
+személyes,adj,personal,grammar: denoting person
 telefonál,verb,phone,to call (someone) on the telephone
 fotó,noun,photograph,picture
 fénykép,noun,photograph,picture
 mondás,noun,phrase,short written or spoken expression
 kifejezés,noun,phrase,short written or spoken expression
+szókapcsolat,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+szószerkezet,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+csoport or szerkezet,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+frázis,noun,phrase,music: small section of music in a larger piece
 zongora,noun,piano,a keyboard musical instrument
 kép,noun,picture,"representation of visible reality produced by drawing, etc"
+fénykép,noun,picture,photograph
 darab,noun,piece,part of a larger whole
 rész,noun,piece,part of a larger whole
 -rész,noun,piece,part of a larger whole
+darab,noun,piece,single item belonging to a class of similar items
+váltóegység,noun,piece,small coin
+darab,noun,piece,artistic creation
+műalkotás,noun,piece,artistic creation
 sertés,noun,pig,mammal of genus Sus
 disznó,noun,pig,mammal of genus Sus
 malac,noun,pig,mammal of genus Sus
 rózsaszín,noun,pink,pale red colour
+szegfű,noun,pink,flower
 hely,noun,place,"location, position"
+tér,noun,place,"open space, courtyard, market square"
+hely,noun,place,"area one occupies, particularly for sitting"
+ülőhely,noun,place,"area one occupies, particularly for sitting"
+férőhely,noun,place,"area one occupies, particularly for sitting"
 tervez,verb,plan,to design
+tervez,verb,plan,to create a plan for
+tervez,verb,plan,to intend
 platán,noun,plane,deciduous tree
 sík,noun,plane,level or flat surface
+sík,noun,plane,geometry: flat surface extending infinitely in all directions
 gyalu,noun,plane,a tool
 repülőgép,noun,plane,airplane
 repülő,noun,plane,airplane
 növény,noun,plant,organism capable of photosynthesis
+növény,noun,plant,"a small or herbaceous organism, rather than a tree"
+lágy szárú növény,noun,plant,"a small or herbaceous organism, rather than a tree"
+tégla,noun,plant,person behaving as a member of the public during a covert operation
+berendezés,noun,plant,large piece of machinery
+gépállomány,noun,plant,large piece of machinery
+géppark,noun,plant,large piece of machinery
 játék,noun,play,playful activity
+játék,noun,play,individual's performance in a sport
+színdarab,noun,play,theatrical performance
+darab,noun,play,theatrical performance
 játékos,noun,player,one who plays any game or sport
+lejátszó,noun,player,electronic device
 rész,noun,point,element in larger whole
 részlet,noun,point,element in larger whole
 elem,noun,point,element in larger whole
+pont,noun,point,particular moment in an event or occurrence
+időpont,noun,point,particular moment in an event or occurrence
+szempont,noun,point,opinion which adds to the discussion
+nézőpont,noun,point,opinion which adds to the discussion
+érv,noun,point,opinion which adds to the discussion
+gondolat,noun,point,opinion which adds to the discussion
+vélemény,noun,point,opinion which adds to the discussion
+állítás,noun,point,opinion which adds to the discussion
+felvetés,noun,point,opinion which adds to the discussion
+lényeg,noun,point,a focus of conversation or consideration
+fő,noun,point,a focus of conversation or consideration
+tárgy,noun,point,a focus of conversation or consideration
+cél,noun,point,purpose or objective
+értelem,noun,point,purpose or objective
+csepp,noun,point,smallest quantity of something
+szem,noun,point,smallest quantity of something
+jottányi,noun,point,smallest quantity of something
+szemernyi,noun,point,smallest quantity of something
+pont,noun,point,location or place
+pont,noun,point,geometry: zero-dimensional object
+pont,noun,point,full stop
+tulajdonság,noun,point,distinguishing quality
+jellemvonás,noun,point,distinguishing quality
+vonás,noun,point,distinguishing quality
+tized,noun,point,tenth part — see also tenth
+tizedrész,noun,point,tenth part — see also tenth
+pont,noun,point,unit of scoring in a game or competition
+pontszám,noun,point,unit of scoring in a game or competition
+ponteredmény,noun,point,unit of scoring in a game or competition
+pontérték,noun,point,unit of scoring in a game or competition
+tizedesvessző,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+tizedespont,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+pont,noun,point,typography: unit of size
+hegy,noun,point,sharp tip
+csúcs,noun,point,sharp tip
+csúcs,noun,point,any projecting extremity
+ág,noun,point,any projecting extremity
+félsziget,noun,point,peninsula or promontory
+földnyelv,noun,point,peninsula or promontory
+földfok,noun,point,peninsula or promontory
+hegyfok,noun,point,peninsula or promontory
+fok,noun,point,peninsula or promontory
+ék,noun,point,position at the front or vanguard of an advancing force
+égtáj,noun,point,compass point
+világtáj,noun,point,compass point
+váltó,noun,point,railroad switch
+vasúti váltó,noun,point,railroad switch
+pötty,noun,point,area of contrasting color
+petty,noun,point,area of contrasting color
+folt,noun,point,area of contrasting color
 rendőrség,noun,police,local or general law enforcement agency
 tó,noun,pool,body of water
 tavacska,noun,pool,body of water
+tócsa,noun,pool,small body of standing or stagnant water; a puddle
 szegény,adj,poor,with few or no possessions or money
+gyatra,adj,poor,of low quality
+ócska,adj,poor,of low quality
+silány,adj,poor,of low quality
+szegény,adj,poor,used to express pity
+szegény,adj,poor,deficient in a specified way
+vajmi kevés,adj,poor,"inadequate, insufficient"
+lelki/lélekben szegény,adj,poor,free from self-assertion; not proud or arrogant
+szerény,adj,poor,free from self-assertion; not proud or arrogant
+alázatos,adj,poor,free from self-assertion; not proud or arrogant
 köz-,adj,popular,of or pertaining to the common people
 közkeletű,adj,popular,of or pertaining to the common people
 tömeg-,adj,popular,of or pertaining to the common people
 tömeges,adj,popular,of or pertaining to the common people
 nép-,adj,popular,of or pertaining to the common people
 népi,adj,popular,of or pertaining to the common people
+köz-,adj,popular,aimed at the general public
+tömeg-,adj,popular,aimed at the general public
+populáris,adj,popular,adapted to the means of the common people; cheap
+bulvár-,adj,popular,adapted to the means of the common people; cheap
+népszerű,adj,popular,liked by many people
+közkedvelt,adj,popular,liked by many people
 pozitív,adj,positive,not negative or neutral
 kedvező,adj,positive,not negative or neutral
 helyeslő,adj,positive,not negative or neutral
 támogató,adj,positive,not negative or neutral
 igenlő,adj,positive,not negative or neutral
 biztató,adj,positive,not negative or neutral
+határozott,adj,positive,stated definitively and without qualification
+világos,adj,positive,stated definitively and without qualification
+kétségtelen,adj,positive,stated definitively and without qualification
+egyértelmű,adj,positive,stated definitively and without qualification
+feltétlen,adj,positive,stated definitively and without qualification
+döntő,adj,positive,stated definitively and without qualification
+biztos,adj,positive,"fully assured in opinion, confident"
+bizonyos,adj,positive,"fully assured in opinion, confident"
+meg van győződve,adj,positive,"fully assured in opinion, confident"
+magabiztos,adj,positive,"fully assured in opinion, confident"
+pozitív (előjelű),adj,positive,mathematics: greater than zero
+pozitív,adj,positive,characterised by constructiveness
+konstruktív,adj,positive,characterised by constructiveness
+építő (jellegű),adj,positive,characterised by constructiveness
+elbizakodott,adj,positive,"overconfident, dogmatic"
+önelégült,adj,positive,"overconfident, dogmatic"
+tényleges,adj,positive,"philosophy: actual, real, concrete"
+valós,adj,positive,"philosophy: actual, real, concrete"
+tényeken alapuló,adj,positive,"philosophy: actual, real, concrete"
+pozitív (töltésű),adj,positive,physics: having more protons than electrons
+alapfokú,adj,positive,grammar: describing the primary sense
+pozitív,adj,positive,characterised by features which support a hypothesis
+megerősítő,adj,positive,characterised by features which support a hypothesis
+pozitív,adj,positive,photography: of a visual image true to the original
+kedvező,adj,positive,"favorable, desirable"
+előnyös,adj,positive,"favorable, desirable"
+komplett,adj,positive,"downright, entire, outright"
+teljes,adj,positive,"downright, entire, outright"
+kész,adj,positive,"downright, entire, outright"
+valóságos,adj,positive,"downright, entire, outright"
+abszolút,adj,positive,"downright, entire, outright"
+kifejezett,adj,positive,"downright, entire, outright"
+tökéletes,adj,positive,"downright, entire, outright"
+igazi,adj,positive,"downright, entire, outright"
+bizakodó,adj,positive,optimistic
+optimista,adj,positive,optimistic
+derűlátó,adj,positive,optimistic
+önbizalommal teli,adj,positive,optimistic
+pozitív,adj,positive,optimistic
 lehetséges,adj,possible,able but not certain to happen
+lehetséges,adj,possible,capable of being done or achieved; feasible
+lehető,adj,possible,capable of being done or achieved; feasible
+szóba jöhető,adj,possible,"being considered, e.g. for a position"
+lehetséges,adj,possible,"being considered, e.g. for a position"
 felad,verb,post,send mail
 elküld,verb,post,send mail
 burgonya,noun,potato,plant tuber eaten as starchy vegetable
@@ -857,57 +2554,161 @@ krumpli,noun,potato,plant tuber eaten as starchy vegetable
 sintértelep,noun,pound,place for the detention of stray animals
 gyepmesteri telep,noun,pound,place for the detention of stray animals
 font,noun,pound,unit of mass (16 ounces avoirdupois)
+font,noun,pound,unit of currency
 szívesebben (tesz),verb,prefer,to favor
 jobban szeret/tetszik,verb,prefer,to favor
 előnyben részesít,verb,prefer,to favor
 előkészít,verb,prepare,to make ready for a specific future purpose
 elkészít,verb,prepare,to make ready for a specific future purpose
+felkészül,verb,prepare,to make oneself ready
+készül,verb,prepare,to make oneself ready
+előkészül,verb,prepare,to make oneself ready
 jelen,noun,present,current time
 ár,noun,price,cost required to gain possession of something
+ár,noun,price,cost of an action or deed
 valószínűleg,adv,probably,in all likelihood
 probléma,noun,problem,difficulty
 baj,noun,problem,difficulty
 gond,noun,problem,difficulty
 nehézség,noun,problem,difficulty
+feladat,noun,problem,schoolwork exercise
+példa,noun,problem,schoolwork exercise
 termék,noun,product,commodity for sale
+termék,noun,product,amount created by a process
+szorzat,noun,product,multiplication result
 program,noun,program,set of structured activities
 napirend,noun,program,set of structured activities
 terv,noun,program,set of structured activities
 tervezet,noun,program,set of structured activities
+programfüzet,noun,program,"leaflet listing information about a play, game or other activity"
+tájékoztató,noun,program,"leaflet listing information about a play, game or other activity"
+ismertető,noun,program,"leaflet listing information about a play, game or other activity"
+műsorfüzet,noun,program,"leaflet listing information about a play, game or other activity"
+program,noun,program,set of political goals
+műsor,noun,program,performance of a show or other broadcast on radio or television
+műsorszám,noun,program,performance of a show or other broadcast on radio or television
+program,noun,program,software application
 terv,noun,project,planned endeavor
 projekt,noun,project,planned endeavor
 bíbor,noun,purple,colour
 lila,noun,purple,colour
+bíborpalást,noun,purple,"a purple robe, worn as an emblem of rank or authority"
 tesz,verb,put,to place something somewhere
 rak,verb,put,to place something somewhere
 helyez,verb,put,to place something somewhere
+tesz,verb,put,"to bring or set into a certain relation, state or condition"
+hoz,verb,put,"to bring or set into a certain relation, state or condition"
+rak,verb,put,"to bring or set into a certain relation, state or condition"
 negyed,noun,quarter,one of four equal parts — see also one-fourth
+negyedév,noun,quarter,period of three months
+negyed,noun,quarter,section of a town
+városnegyed,noun,quarter,section of a town
 kérdés,noun,question,"sentence, phrase or word"
+téma,noun,question,subject or topic
+tárgy,noun,question,subject or topic
+kérdés,noun,question,subject or topic
+ügy,noun,question,subject or topic
+kétség,noun,question,doubt or challenge
+kétely,noun,question,doubt or challenge
+javaslat,noun,question,proposal to a meeting as a topic for discussion and vote
+indítvány,noun,question,proposal to a meeting as a topic for discussion and vote
+kihallgatás,noun,question,interrogation by torture
+vallatás,noun,question,interrogation by torture
 gyors,adj,quick,moving with speed
+gyors,adj,quick,occurring in a short time
+élénk,adj,quick,"lively, witty"
+eszes,adj,quick,"lively, witty"
+friss,adj,quick,"mentally agile, perceptive"
+hirtelen,adj,quick,easily aroused to anger
+lobbanékony,adj,quick,easily aroused to anger
+eleven,adj,quick,alive
 gyorsan,adv,quickly,"rapidly, fast"
 csendes,adj,quiet,with little sound
 halk,adj,quiet,with little sound
 teljesen,adv,quite,to the greatest extent; completely
+teljesen,adv,quite,in a fully justified sense; truly
+meglehetősen,adv,quite,to a moderate extent
+eléggé,adv,quite,to a moderate extent
+aránylag,adv,quite,to a moderate extent
+viszonylag,adv,quite,to a moderate extent
+elég,adv,quite,to a moderate extent
 rádió,noun,radio,technology
+rádió,noun,radio,receiver
 esik az eső,verb,rain,of rain: to fall from the sky
 olvas,verb,read,to look at and interpret letters or other information
 elolvas,verb,read,to look at and interpret letters or other information
+felolvas,verb,read,to speak aloud words or other information that is written
+olvas,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+kiigazodik,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+megfejt,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+értelmez,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+olvasható,verb,read,to consist of certain text
+áll,verb,read,to consist of certain text
+hangzik,verb,read,to consist of certain text
+olvasandó,verb,read,"of text, etc., to be interpreted or read in a particular way"
+olvasható,verb,read,"of text, etc., to be interpreted or read in a particular way"
+íródik,verb,read,"of text, etc., to be interpreted or read in a particular way"
+olvasd,verb,read,to substitute (a corrected piece of text in place of an erroneous one); used to introduce an emendation of a text
+értsd,verb,read,"(informal, usually ironic) used after a euphemism to introduce the intended, more blunt meaning of a term"
+vesz,verb,read,to be able to hear (in a radio connection)
+hall,verb,read,to be able to hear (in a radio connection)
+ért,verb,read,to be able to hear (in a radio connection)
+megért,verb,read,to be able to hear (in a radio connection)
+leolvas,verb,read,to observe and comprehend (a displayed signal)
+tanul,verb,read,to make a study of
+hallgat,verb,read,to make a study of
+beolvas,verb,read,"to fetch data from (a storage medium, etc.)"
 olvasó,noun,reader,person who reads a publication
+felolvasó,noun,reader,"person who recites literary works, usually to an audience"
+lektor,noun,reader,person employed by a publisher to read works and determine their merits
+olvasó,noun,reader,any device that reads something
+leolvasó,noun,reader,any device that reads something
+olvasókönyv,noun,reader,"an elementary textbook for those learning to read, especially for foreign languages"
+szöveggyűjtemény,noun,reader,"an elementary textbook for those learning to read, especially for foreign languages"
+antológia,noun,reader,a literary anthology
 olvasás,noun,reading,process of interpreting written language
+óraállás,noun,reading,value indicated by a measuring device
+mérőóraállás,noun,reading,value indicated by a measuring device
+leolvasott érték,noun,reading,value indicated by a measuring device
+felolvasás,noun,reading,event at which material is read aloud
+olvasat,noun,reading,interpretation
+olvasottság,noun,reading,extent of one's reading
 kész,adj,ready,prepared for immediate action or use
 készen,adj,ready,prepared for immediate action or use
+kész,adj,ready,"inclined, apt to happen"
 igaz,adj,real,"true, genuine, not merely nominal"
 valós,adj,real,"true, genuine, not merely nominal"
+valódi,adj,real,"genuine, not artificial, counterfeit or fake"
+valódi,adj,real,"genuine, unfeigned, sincere"
+igazi,adj,real,"genuine, unfeigned, sincere"
+való,adj,real,"genuine, unfeigned, sincere"
+valódi,adj,real,that has physical existence
+igazi,adj,real,that has physical existence
+valós,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
+igazi,adj,real,"absolute, complete, utter"
 valóban,adv,really,actually
 tényleg,adv,really,actually
 igazán,adv,really,actually
 csakugyan,adv,really,actually
+igazán,adv,really,"informally, as an intensifier; very, very much"
+annyira,adv,really,"informally, as an intensifier; very, very much"
 ok,noun,reason,that which causes: a cause
+indíték,noun,reason,motive for an action or determination
+indok,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+értelem,noun,reason,(the capacity of the human mind for) rational thinking
+ész,noun,reason,(the capacity of the human mind for) rational thinking
+gondolkodás,noun,reason,(the capacity of the human mind for) rational thinking
 piros,noun,red,colour
 vörös,noun,red,colour
+vörös,noun,red,"socialist, communist"
+vörösbor,noun,red,red wine — see also red wine
 megnyugszik,verb,relax,to calm down
 emlékszik,verb,remember,to recall from one's memory
 emlékezik,verb,remember,to recall from one's memory
+megjegyez,verb,remember,to memorize
+észben tart,verb,remember,to memorize
+ne felejtse/felejtsd/feledje/feledd,verb,remember,to not forget to do something required
+megemlékezik,verb,remember,to have a remembrance ceremony
 megismétel,verb,repeat,do or say again
 jelentés,noun,report,information describing events
 beszámoló,noun,report,information describing events
@@ -922,89 +2723,276 @@ hazaérkezés,noun,return,act of returning
 hazatérés,noun,return,act of returning
 visszajövetel,noun,return,act of returning
 hazajövetel,noun,return,act of returning
+visszavétel,noun,return,act of returning an item
+visszavitel,noun,return,act of returning an item
+visszaadás,noun,return,act of returning an item
+visszaváltás,noun,return,act of returning an item
+visszaszolgáltatás,noun,return,act of returning an item
+visszaküldés,noun,return,act of returning an item
+visszáru,noun,return,item that is returned
+beszámoló,noun,return,"formal report, set of tabulated statistics prepared for general information"
+jelentés,noun,return,"formal report, set of tabulated statistics prepared for general information"
+hozam,noun,return,finance: gain or loss from an investment
+haszon,noun,return,finance: gain or loss from an investment
+nyereség,noun,return,finance: gain or loss from an investment
+profit,noun,return,finance: gain or loss from an investment
+jövedelem,noun,return,finance: gain or loss from an investment
+megtérülés,noun,return,finance: gain or loss from an investment
+bevallás,noun,return,finance: tax return
+adóbevallás,noun,return,finance: tax return
+jövedelembevallás,noun,return,finance: tax return
+kocsi vissza,noun,return,computing: carriage return character
+kocsivisszafutás,noun,return,computing: carriage return character
+visszatérési érték,noun,return,computing: return value
 rizs,noun,rice,plants
+rizs,noun,rice,seeds used as food
 gazdag,adj,rich,having wealth
 lovagol,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 biciklizik,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 kerékpározik,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+autózik,verb,ride,to be transported in a vehicle as a passenger
+buszozik,verb,ride,to be transported in a vehicle as a passenger
+vonatozik,verb,ride,to be transported in a vehicle as a passenger
+metrózik,verb,ride,to be transported in a vehicle as a passenger
+autóval/busszal/etc. megy,verb,ride,to be transported in a vehicle as a passenger
+(autóval) visz elvisz,verb,ride,to transport someone in a vehicle
+bevisz,verb,ride,to transport someone in a vehicle
+fuvaroz,verb,ride,to transport someone in a vehicle
+meglovagol,verb,ride,to mount someone to have sex with them
 jog,noun,right,"which complies with justice, law or reason"
 igazság,noun,right,"which complies with justice, law or reason"
+jog,noun,right,legal or moral entitlement
+jogosultság,noun,right,legal or moral entitlement
+jobb oldal,noun,right,"right, not left, side"
+jobb,noun,right,right hand
+jobb kéz,noun,right,right hand
+jobboldal,noun,right,right-wing politicians and parties
 folyó,noun,river,large stream which drains a landmass
 folyam,noun,river,large stream which drains a landmass
+csatorna,noun,river,typography: visually undesirable effect of white space running down a page
 út,noun,road,a way for travel
 közút,noun,road,a way for travel
+tér,noun,room,space
+hely,noun,room,space
+szoba,noun,room,division in a building
 szabály,noun,rule,regulation
 előírás,noun,rule,regulation
+uralkodás,noun,rule,the act of ruling; control
+uralom,noun,rule,the act of ruling; control
+alapeset,noun,rule,a normal condition or state of affairs
+alapszabály,noun,rule,a normal condition or state of affairs
+alapelv,noun,rule,a normal condition or state of affairs
+szokás,noun,rule,a normal condition or state of affairs
 fut,verb,run,to move quickly on two feet
 szalad,verb,run,to move quickly on two feet
+futtat,verb,run,"to execute or carry out a plan, procedure or program"
+indul,verb,run,to be a candidate in an election
+szomorú,adj,sad,feeling sorrow
 saláta,noun,salad,food
 só,noun,salt,sodium chloride
+só,noun,salt,compound of an acid and a base
 szendvics,noun,sandwich,dish — see also open sandwich
 mond,verb,say,"to say, to tell"
+mond,verb,say,to pronounce
 raj,noun,school,a group of fish
 iskola,noun,school,an institution dedicated to teaching and learning
+egyetem,noun,school,college or university
+főiskola,noun,school,college or university
+kar,noun,school,a department/institute at a college or university
+intézet,noun,school,a department/institute at a college or university
+fakultás,noun,school,a department/institute at a college or university
+iskola,noun,school,an art movement
+irányzat,noun,school,an art movement
+iskola,noun,school,(collectively) the followers of a particular doctrine
+iskola,noun,school,an establishment offering specialized instruction (driving etc.)
+képző,noun,school,an establishment offering specialized instruction (driving etc.)
 tudomány,noun,science,collective discipline of learning acquired through the scientific method
+tudomány,noun,science,particular discipline or branch of learning
+tudás,noun,science,fact of knowing something
 tudós,noun,scientist,one whose activities make use of the scientific method
 másodperc,noun,second,one-sixtieth of a minute; SI unit of time
+másodperc,noun,second,unit of angular measure
+szögmásodperc,noun,second,unit of angular measure
+másodperc,noun,second,"short, indeterminate amount of time"
+pillanat,noun,second,"short, indeterminate amount of time"
 segéd,noun,second,attendant of a duel or boxing match standing in for a contestant
 második,noun,second,number two in a series
+másodosztályú áru,noun,second,manufactured item that fails to meet quality control standards
+repeta,noun,second,additional helping of food
+szekund,noun,second,music: interval between two adjacent notes
+második,noun,second,second gear
+kettes,noun,second,second gear
 rész,noun,section,"cutting, part cut out"
 részlet,noun,section,"cutting, part cut out"
+részleg,noun,section,"part, piece or subdivision of anything"
+szekció,noun,section,"part, piece or subdivision of anything"
+szektor,noun,section,"part, piece or subdivision of anything"
+szelet,noun,section,"part, piece or subdivision of anything"
+cikk,noun,section,"part, piece or subdivision of anything"
+gerezd,noun,section,"part, piece or subdivision of anything"
+szakasz,noun,section,part of a document
+cikkely,noun,section,part of a document
+paragrafus,noun,section,part of a document
+vágás,noun,section,act or instance of cutting
+bemetszés,noun,section,surgery: incision or the act of making an incision
+metszés,noun,section,surgery: incision or the act of making an incision
+metszet,noun,section,science: thin slice of material
+preparátum,noun,section,science: thin slice of material
+raj,noun,section,(military) group of 10-15 soldiers lead by a non-commissioned officer and forming part of a platoon
 lát,verb,see,perceive with the eyes
+ért,verb,see,understand
+világos,verb,see,understand
+meglátogat,verb,see,"to meet, to visit"
+látogat,verb,see,"to meet, to visit"
+felkeres,verb,see,"to meet, to visit"
+elmegy,verb,see,"to meet, to visit"
 ad,verb,sell,to agree to transfer goods or provide services for payment
 elad,verb,sell,to agree to transfer goods or provide services for payment
 pénzzé tesz,verb,sell,to agree to transfer goods or provide services for payment
 árul,verb,sell,to agree to transfer goods or provide services for payment
 árusít,verb,sell,to agree to transfer goods or provide services for payment
 kereskedik,verb,sell,to agree to transfer goods or provide services for payment
+elkel,verb,sell,to be sold
 küld,verb,send,make something go somewhere
 ítélet,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+ítélet,noun,sentence,judicial order for punishment
+büntetés,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+mondat,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 megoszt,verb,share,to give
+megoszt,verb,share,to divide and distribute
 juh,noun,sheep,animal
 birka,noun,sheep,animal
+birka,noun,sheep,one who behaves shyly
 ing,noun,shirt,article of clothing
 kombiné,noun,shirt,article of clothing
 cipő,noun,shoe,protective covering for the foot
 vásárol,verb,shop,to visit shops
 vásárlás,noun,shopping,activity of buying
 bevásárlás,noun,shopping,activity of buying
+vásárolt holmik/dolgok,noun,shopping,things bought
 rövid,adj,short,having a small distance between ends or edges
 kurta,adj,short,having a small distance between ends or edges
+alacsony,adj,short,"of a person, of comparatively small height"
+rövid,adj,short,having little duration
 -j,verb,should,expressing obligation
+kéne,verb,should,expressing opinion
+kellene,verb,should,expressing opinion
+bizonyára,verb,should,expressing likelihood
+alighanem,verb,should,expressing likelihood
+feltehetőleg,verb,should,expressing likelihood
+véletlenül,verb,should,as a variant of the present subjunctive
+esetleg,verb,should,as a variant of the present subjunctive
+netán,verb,should,as a variant of the present subjunctive
+ha …… -na/-ne,verb,should,if; in case of
 előadás,noun,show,entertainment
 műsor,noun,show,entertainment
 show,noun,show,entertainment
+kiállítás,noun,show,exhibition — see also exhibition
+bemutató,noun,show,exhibition — see also exhibition
+demonstráció,noun,show,demonstration
+fitogtatás,noun,show,demonstration
+műsor,noun,show,broadcast program(me)
+látszat,noun,show,mere display
 zápor,noun,shower,brief fall of rain
+zuhany,noun,shower,device for bathing
+tus,noun,shower,device for bathing
+zuhany,noun,shower,instance of using of this device
+zuhanyzás,noun,shower,instance of using of this device
 kiállító,noun,shower,one who shows
 bemutató,noun,shower,one who shows
 megmutató,noun,shower,one who shows
+húsfarokkal rendelkező férfi,noun,shower,man whose penis appears relatively large when flaccid
+émelyeg,adj,sick,having an urge to vomit
+hányingere van,adj,sick,having an urge to vomit
+rosszul van,adj,sick,having an urge to vomit
+felfordul a gyomra (tőle),adj,sick,having an urge to vomit
+torkig van,adj,sick,"tired (of), annoyed (by)"
+elege van,adj,sick,"tired (of), annoyed (by)"
+hibbant,adj,sick,"colloquial: mentally unstable, disturbed"
+agyament,adj,sick,"colloquial: mentally unstable, disturbed"
+zakkant,adj,sick,"colloquial: mentally unstable, disturbed"
+beteg,adj,sick,colloquial: in bad taste
+beteges,adj,sick,colloquial: in bad taste
+perverz,adj,sick,colloquial: in bad taste
+baró,adj,sick,"slang: very good, excellent"
+menő,adj,sick,"slang: very good, excellent"
+vagány,adj,sick,"slang: very good, excellent"
+zsír,adj,sick,"slang: very good, excellent"
+kúl,adj,sick,"slang: very good, excellent"
+király,adj,sick,"slang: very good, excellent"
+dögös,adj,sick,"slang: very good, excellent"
+silány,adj,sick,in poor condition
+gyatra,adj,sick,in poor condition
+gyenge,adj,sick,in poor condition
+ócska,adj,sick,in poor condition
+elromlott,adj,sick,in poor condition
+leromlott,adj,sick,in poor condition
+lerobbant,adj,sick,in poor condition
 hasonló,adj,similar,"having traits or characteristics in common; alike, comparable"
 énekel,verb,sing,to produce harmonious sounds with one’s voice
+köp,verb,sing,slang: to confess under interrogation
 énekes,noun,singer,person who sings (male or generic term)
+énekesnő,noun,singer,female person who sings
 nővér,noun,sister,woman or girl having the same parents
 húg,noun,sister,woman or girl having the same parents
+apáca,noun,sister,a nun; a female member of a religious community
+nővér,noun,sister,a nun; a female member of a religious community
+ápolónő,noun,sister,senior nurse
+nővér,noun,sister,senior nurse
 ül,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 körülmények,noun,situation,combination of circumstances at a given moment; state of affairs
 viszonyok,noun,situation,combination of circumstances at a given moment; state of affairs
+fekvés,noun,situation,position vis-à-vis surroundings
+hely,noun,situation,location
+helyzet,noun,situation,one's status with regard to circumstances
+állás,noun,situation,position of employment
+hely,noun,situation,position of employment
+munkaalkalom,noun,situation,position of employment
 ügyesség,noun,skill,capacity to do something well
 hozzáértés,noun,skill,capacity to do something well
 szoknya,noun,skirt,article of clothing
 alj,noun,skirt,article of clothing
+alj,noun,skirt,part of dress that hangs below waist
+csaj,noun,skirt,slang: woman
+spiné,noun,skirt,slang: woman
+szegély,noun,skirt,"border, edge, margin"
 alszik,verb,sleep,to rest in state of reduced consciousness
 lassú,adj,slow,not quick in motion
 kicsi,adj,small,not large
 kis,adj,small,not large
+kicsi,adj,small,young
+kis,adj,small,"minuscule or lowercase, referring to written letters"
+okos,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+okos,adj,smart,equipped with intelligent behaviour (digital/computer technology)
 kígyó,noun,snake,legless reptile
+álnok/kétszínű alak,noun,snake,treacherous person
+kígyó,noun,snake,treacherous person
+csúszómászó,noun,snake,treacherous person
+csőgörény,noun,snake,plumbing tool
 esik a hó,verb,snow,have snow fall from the atmosphere
 havazik,verb,snow,have snow fall from the atmosphere
 hull a hó,verb,snow,have snow fall from the atmosphere
 olyan,adv,so,very
 annyira,adv,so,very
+olyan,adv,so,to a particular extent
+annyira,adv,so,to a particular extent
+ilyen,adv,so,to a particular extent
+ennyire,adv,so,to a particular extent
+úgy,adv,so,in the same aformentioned manner
+így,adv,so,in the same aformentioned manner
+annyira,adv,so,slang: very much
 néha,adv,sometimes,"on certain occasions, but not always"
 olykor,adv,sometimes,"on certain occasions, but not always"
 fiú,noun,son,a male person in relation to his parents
+fiú,noun,son,an adopted son
+fiú,noun,son,a son through close relationship
+gyermek,noun,son,a son through major influence
+fiú,noun,son,male descendant
+fiam,noun,son,familiar address
 ének,noun,song,music with words
 dal,noun,song,music with words
+ének,noun,song,sound of another animal
+dal,noun,song,sound of another animal
 hamar,adv,soon,within a short time
 nemsokára,adv,soon,within a short time
 mindjárt,adv,soon,within a short time
@@ -1014,7 +3002,28 @@ rövidesen,adv,soon,within a short time
 megszólal,verb,sound,to produce a sound
 felhangzik,verb,sound,to produce a sound
 felcsendül,verb,sound,to produce a sound
+hangzik,verb,sound,to convey an impression by one's sound
+hangzású,verb,sound,to convey an impression by one's sound
+… hangja van,verb,sound,to convey an impression by one's sound
+megszólaltat,verb,sound,to cause to produce a sound
+hangjelzést ad,verb,sound,to cause to produce a sound
+ejt,verb,sound,to pronounce
+kiejt,verb,sound,to pronounce
+kimond,verb,sound,to pronounce
 leves,noun,soup,dish
+tér,noun,space,physical extent in two or three dimensions
+hely,noun,space,physical extent in two or three dimensions
+űr,noun,space,area beyond atmosphere of planets
+világűr,noun,space,area beyond atmosphere of planets
+kozmosz,noun,space,area beyond atmosphere of planets
+tér,noun,space,personal freedom
+hely,noun,space,bounded or specific physical extent
+szóköz,noun,space,"gap between written characters, lines etc."
+hely,noun,space,"a gap, an empty place"
+köz,noun,space,"a gap, an empty place"
+térköz,noun,space,"a gap, an empty place"
+tér,noun,space,geometry: set of points
+tér,noun,space,mathematics: generalized construct or set
 beszél,verb,speak,to communicate with one's voice using words
 különleges,adj,special,distinguished by a unique or unusual quality
 speciális,adj,special,distinguished by a unique or unusual quality
@@ -1023,44 +3032,150 @@ alkalmi,adj,special,distinguished by a unique or unusual quality
 külön-,adj,special,distinguished by a unique or unusual quality
 szakmai,adj,special,distinguished by a unique or unusual quality
 szak-,adj,special,distinguished by a unique or unusual quality
+különleges,adj,special,of particular interest or value; certain; dear; beloved; favored
+kisegítő,adj,special,"of or related to disabilities, especially learning or intellectual disabilities"
+speciális,adj,special,"of or related to disabilities, especially learning or intellectual disabilities"
+jellegzetes,adj,special,constituting or relating to a species
+(fajra) jellemző,adj,special,constituting or relating to a species
 elvarázsol,verb,spell,put under the influence of a spell
 betűz,verb,spell,to write or say the letters that form a word
 betűzés,noun,spelling,"the act of forming words with letters, the act of spelling"
+helyesírás,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+helyesírás,noun,spelling,manner of spelling of words; correct spelling
+írásmód,noun,spelling,a specific spelling of a word
 költ,verb,spend,to pay out
 elkölt,verb,spend,to pay out
+tölt,verb,spend,"to consume, to use up (time)"
 sport,noun,sport,any athletic activity that uses physical skills
+sportember,noun,sport,person who exhibits either good or bad sportsmanship
+sportember,noun,sport,somebody who behaves or reacts in an admirable manner
 tavasz,noun,spring,season between winter and summer in temperate climates
+forrás,noun,spring,water springing from the ground
+rugó,noun,spring,device made of flexible material
 áll,verb,stand,to support oneself on the feet in an erect position
+feláll,verb,stand,to rise to one’s feet
+áll,verb,stand,to remain motionless
+magas,verb,stand,to measure when erect on the feet
+magasságú,verb,stand,to measure when erect on the feet
+kiáll,verb,stand,to undergo; withstand; hold up
+kiáll,verb,stand,to tolerate
+állít,verb,stand,to place in an upright or standing position
+felállít,verb,stand,to place in an upright or standing position
+jelölteti magát,verb,stand,to seek election
+áll,verb,stand,to be valid
 csillag,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+sztár,noun,star,celebrity
+sztár,noun,star,actor
+csillag,noun,star,quality rating symbol
 elkezd,verb,start,to begin
 megkezd,verb,start,to begin
 kezd,verb,start,to begin
+elindít,verb,start,to set in motion
+indít,verb,start,to set in motion
+beindít,verb,start,to initiate operation of a vehicle or machine
+elkezd,verb,start,"of an activity, to begin"
+kezd,verb,start,"of an activity, to begin"
+kezdődik,verb,start,"to have its origin (at), begin"
+elkezdődik,verb,start,"to have its origin (at), begin"
+megkezdődik,verb,start,"to have its origin (at), begin"
+rándul,verb,start,to jerk suddenly in surprise
+összerándul,verb,start,to jerk suddenly in surprise
+megrezzen,verb,start,to jerk suddenly in surprise
+összerezzen,verb,start,to jerk suddenly in surprise
+felriad,verb,start,to awaken suddenly
 kijelentés,noun,statement,declaration or remark
 állítás,noun,statement,declaration or remark
+bejelentés,noun,statement,presentation of opinion or position — see also assertion
+nyilatkozat,noun,statement,presentation of opinion or position — see also assertion
+közlemény,noun,statement,presentation of opinion or position — see also assertion
+kimutatás,noun,statement,finance: document that summarizes financial activity
+kivonat,noun,statement,finance: document that summarizes financial activity
+számlakivonat,noun,statement,finance: document that summarizes financial activity
+bankszámlakivonat,noun,statement,finance: document that summarizes financial activity
+egyenlegértesítő,noun,statement,finance: document that summarizes financial activity
+utasítás,noun,statement,computing: instruction in a computer program
 állomás,noun,station,place where a vehicle may stop
 marad,verb,stay,to remain in a particular place
 tartózkodik,verb,stay,to remain in a particular place
+marad,verb,stay,to continue to have a particular quality
+halaszt,verb,stay,to postpone
+elhalaszt,verb,stay,to postpone
+felfüggeszt,verb,stay,to postpone
+késleltet,verb,stay,to postpone
 mozdulatlanul,adv,still,without motion
 nyugton,adv,still,without motion
+még,adv,still,"up to a time, as in the preceding time"
+még mindig,adv,still,"up to a time, as in the preceding time"
+továbbra is,adv,still,"up to a time, as in the preceding time"
+még,adv,still,to an even greater degree
+mégis,adv,still,nevertheless
+mégsem,adv,still,nevertheless
+mégiscsak,adv,still,nevertheless
+folyton,adv,still,"always, invariably, constantly"
+egyre,adv,still,"always, invariably, constantly"
+egyre csak,adv,still,"always, invariably, constantly"
+állandóan,adv,still,"always, invariably, constantly"
+szakadatlanul,adv,still,"always, invariably, constantly"
+mindig,adv,still,"always, invariably, constantly"
+mindig csak,adv,still,"always, invariably, constantly"
+mindegyre,adv,still,"always, invariably, constantly"
+megint,adv,still,"even, yet"
 megálló,noun,stop,place to get on and off mass transport
 történet,noun,story,account of events
 elbeszélés,noun,story,account of events
 utca,noun,street,paved part of road in a village or a town
 erős,adj,strong,capable of producing great physical force
+erős,adj,strong,having a high concentration of an essential or active ingredient
+erős,adj,strong,having a high alcoholic content
+erős,adj,strong,grammar: irregular
+fős,adj,strong,having a specified number of people or units
 hallgató,noun,student,person who studies a subject
 tanuló,noun,student,person who studies a subject
 diák,noun,student,person who studies a subject
+egyetemista,noun,student,person enrolled at a university — see also university student
+főiskolás,noun,student,person enrolled at a university — see also university student
 tanul,verb,study,to revise/review materials
 átnéz,verb,study,to revise/review materials
 (át)ismétel,verb,study,to revise/review materials
+tanul,verb,study,to take a course
+hallgat,verb,study,to take a course
+tanulmányokat folytat,verb,study,to take a course
+tanul,verb,study,to acquire knowledge
+tanulmányoz,verb,study,to look at minutely
+vizsgál,verb,study,to look at minutely
+tűnődik,verb,study,to fix the mind closely upon a subject; to muse; to ponder
+töpreng,verb,study,to fix the mind closely upon a subject; to muse; to ponder
+fontolgat,verb,study,to fix the mind closely upon a subject; to muse; to ponder
+elmélyed,verb,study,to fix the mind closely upon a subject; to muse; to ponder
+rágódik,verb,study,to fix the mind closely upon a subject; to muse; to ponder
+latolgat,verb,study,to fix the mind closely upon a subject; to muse; to ponder
+igyekszik,verb,study,to endeavor diligently; to be zealous
+törekszik,verb,study,to endeavor diligently; to be zealous
 bibeszál,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+stílus,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 alany,noun,subject,in grammar
+alany,noun,subject,actor
+tárgy,noun,subject,main topic
+téma,noun,subject,main topic
+tárgy,noun,subject,particular area of study
+tantárgy,noun,subject,particular area of study
+állampolgár,noun,subject,citizen in a monarchy
+alattvaló,noun,subject,"person ruled over by another, especially a monarch or state authority"
+főtétel,noun,subject,music: main theme
+főtéma,noun,subject,music: main theme
+egyén,noun,subject,"human, animal or an inanimate object that is being examined"
+személy,noun,subject,"human, animal or an inanimate object that is being examined"
+vizsgálati személy,noun,subject,"human, animal or an inanimate object that is being examined"
+kísérleti alany,noun,subject,"human, animal or an inanimate object that is being examined"
+interjúalany,noun,subject,"human, animal or an inanimate object that is being examined"
 eredmény,noun,success,achievement of one's aim or goal
 kimenetel,noun,success,achievement of one's aim or goal
 siker,noun,success,achievement of one's aim or goal
+siker,noun,success,(business) financial profitability
 cukor,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 nyár,noun,summer,hottest season
 Nap,noun,sun,"a star, especially when seen as the centre of any single solar system"
+napfény,noun,sun,light and warmth received from the sun
 szupermarket,noun,supermarket,store
 áruház,noun,supermarket,store
 élelmiszer-áruház,noun,supermarket,store
@@ -1068,26 +3183,78 @@ szupermarket,noun,supermarket,store
 közért,noun,supermarket,store
 ABC,noun,supermarket,store
 biztos,adj,sure,"certain, reliable"
+mindenképpen,adj,sure,certain to act or be
+pulóver,noun,sweater,similar garment worn for warmth
 úszik,verb,swim,move through water
 úszás,noun,swimming,human activity of moving oneself through water
 asztal,noun,table,item of furniture
+táblázat,noun,table,grid of data in rows and columns
+táblázat,noun,table,collection of arithmetic calculations
 vesz,verb,take,to get into one's hands or control
 fog,verb,take,to get into one's hands or control
 megfog,verb,take,to get into one's hands or control
 megragad,verb,take,to get into one's hands or control
 kézbe vesz,verb,take,to get into one's hands or control
+elvesz,verb,take,to get into one's possession
+átvesz,verb,take,to receive or accept
+elfogad,verb,take,to receive or accept
+vesz,verb,take,to grab and move to oneself
+elvesz,verb,take,to grab and move to oneself
+megszerez,verb,take,to gain a position by force
+elfoglal,verb,take,to gain a position by force
+bevesz,verb,take,to gain a position by force
+megragad,verb,take,to gain a position by force
+birtokba vesz,verb,take,to gain a position by force
+foglyul ejt,verb,take,to gain a position by force
+visz,verb,take,to carry
+elvisz,verb,take,to carry
+odavisz,verb,take,to carry
+választ,verb,take,to choose
+kiválaszt,verb,take,to choose
+bír,verb,take,to support or carry without failing or breaking
+elbír,verb,take,to support or carry without failing or breaking
+elvisel,verb,take,to endure
+kibír,verb,take,to endure
+bír,verb,take,to endure
+visel,verb,take,to endure
+bevesz,verb,take,to ingest medicine
+szed,verb,take,to ingest medicine
+vesz,verb,take,to assume or interpret to be
+értelmez,verb,take,to assume or interpret to be
+feltételez,verb,take,to assume or interpret to be
+felfog,verb,take,to assume or interpret to be
+vesz,verb,take,to consider in a particular way
+tekint,verb,take,to consider in a particular way
+néz,verb,take,to consider in a particular way
+gondol,verb,take,to consider in a particular way
+vél,verb,take,to consider in a particular way
+tart,verb,take,to consider in a particular way
+felfog,verb,take,to consider in a particular way
+tart,verb,take,to last or expend (an amount of time)
+igénybe vesz,verb,take,to last or expend (an amount of time)
 beszél,verb,talk,to communicate by speech
 beszélget,verb,talk,to communicate by speech
 magas,adj,tall,of a person
+magas,adj,tall,of a building
 taxi,noun,taxi,vehicle available for public hire
 tealevél,noun,tea,dried leaves of tea plant
+tea,noun,tea,drink made from leaves of tea plant
+csésze tea,noun,tea,cup of this drink
+tea,noun,tea,drink made from other plants
+tea,noun,tea,light afternoon meal
+uzsonna,noun,tea,light afternoon meal
 tanít,verb,teach,to pass on knowledge
 megtanít,verb,teach,to pass on knowledge
 oktat,verb,teach,to pass on knowledge
+tanít,verb,teach,to pass on one's knowledge as one's profession
 tanár,noun,teacher,person who teaches
 tanító,noun,teacher,person who teaches
 oktató,noun,teacher,person who teaches
 pedagógus,noun,teacher,person who teaches
+tanárnő,noun,teacher,woman who teaches
+tanítónő,noun,teacher,woman who teaches
+csapat,noun,team,group of people
+csoport,noun,team,group of people
 serdülő,noun,teenager,person aged between thirteen and nineteen
 tini,noun,teenager,person aged between thirteen and nineteen
 tinédzser,noun,teenager,person aged between thirteen and nineteen
@@ -1096,37 +3263,122 @@ kamasz,noun,teenager,person aged between thirteen and nineteen
 telefonál,verb,telephone,to call someone
 televízió,noun,television,medium
 tévé,noun,television,medium
+tévékészülék,noun,television,device for receiving television signals
+tévé,noun,television,device for receiving television signals
+televízió,noun,television,device for receiving television signals
+tv,noun,television,device for receiving television signals
 elmond,verb,tell,to pass information
+megmond,verb,tell,to instruct
+megmond,verb,tell,"to discern, notice, identify or distinguish"
 tenisz,noun,tennis,sport played by two or four players with strung racquets
 borzasztó,adj,terrible,dreadful; causing alarm or fear
 rettenetes,adj,terrible,dreadful; causing alarm or fear
 szörnyű,adj,terrible,dreadful; causing alarm or fear
 borzalmas,adj,terrible,dreadful; causing alarm or fear
 rettentő,adj,terrible,dreadful; causing alarm or fear
+szörnyű,adj,terrible,unpleasant
+borzalmas,adj,terrible,unpleasant
+borzasztó,adj,terrible,unpleasant
+rémes,adj,terrible,very bad
+borzalmas,adj,terrible,very bad
+szörnyű,adj,terrible,very bad
 kihív,verb,test,to challenge
+vizsgázik,verb,test,to administer an examination during the academic term
+vizsgáztat,verb,test,to administer an examination during the academic term
+tesztel,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+vizsgál,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 szöveg,noun,text,a written passage
 köszön,verb,thank,to express appreciation or gratitude toward (someone or something)
 köszönetet mond,verb,thank,to express appreciation or gratitude toward (someone or something)
 megköszön,verb,thank,to express appreciation or gratitude toward (someone or something)
+köszön,verb,thank,to credit or hold (someone or something) responsible
 köszönet,noun,thanks,expression of gratitude
+hála,noun,thanks,grateful feelings
 színház,noun,theater,place or building
+színház,noun,theater,drama or performance as a profession or artform
 akkor,adv,then,at that time
+aztán,adv,then,soon afterward
+azután,adv,then,soon afterward
+majd,adv,then,soon afterward
+utána,adv,then,soon afterward
+aztán,adv,then,next in order
+majd,adv,then,next in order
+akkor,adv,then,in that case
+ugyanakkor,adv,then,at the same time; on the other hand
+viszont,adv,then,at the same time; on the other hand
+másfelől,adv,then,at the same time; on the other hand
+másrészt,adv,then,at the same time; on the other hand
 ott,adv,there,in or at that place
+oda,adv,there,to or into that place; thither
 dolog,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+ez-az,noun,thing,"word, symbol, sign, or other referent that can be used to refer to any entity"
+egy s más,noun,thing,"word, symbol, sign, or other referent that can be used to refer to any entity"
+létező dolog,noun,thing,individual object or distinct entity
+dolog,noun,thing,law: corporeal object
+holmi,noun,thing,"clothes, possessions or equipment"
+cucc,noun,thing,"clothes, possessions or equipment"
+gond,noun,thing,"problem, dilemma, or complicating factor"
+probléma,noun,thing,"problem, dilemma, or complicating factor"
+lényeg,noun,thing,the central point; the crux
+micsoda,noun,thing,penis
+szerszám,noun,thing,penis
+izé,noun,thing,penis
+teremtés,noun,thing,living being or creature
+lény,noun,thing,living being or creature
+dolog,noun,thing,situation surrounding a noun's referent
+izé,noun,thing,situation surrounding a noun's referent
 gondol,verb,think,"to ponder, to go over in one's head"
+gondolkodik,verb,think,communicate to oneself in one’s mind
+gondol,verb,think,be of the opinion that
+gondol,verb,think,"guess, reckon"
+vél,verb,think,"consider, judge, regard something as"
 szomjas,adj,thirsty,needing to drink
 jegy,noun,ticket,admission to entertainment
+jegy,noun,ticket,pass for transportation
 idő,noun,time,inevitable passing of events
+idő,noun,time,quantity of availability in time
+időtartam,noun,time,measurement of a quantity of time
+idő,noun,time,"extended period of time, defined or undefined: age, era, etc."
+kor,noun,time,"extended period of time, defined or undefined: age, era, etc."
+korszak,noun,time,"extended period of time, defined or undefined: age, era, etc."
+idő,noun,time,division of the day: particular moment or hour
+ideje,noun,time,division of the day: particular moment or hour
+idő,noun,time,"time of day, as indicated by a clock, etc"
+óra,noun,time,"time of day, as indicated by a clock, etc"
+időpont,noun,time,numerical indication of a particular moment in time
+alkalom,noun,time,instance or occurrence
+-szor,noun,time,ratio of comparison
+-szer,noun,time,ratio of comparison
+-ször,noun,time,ratio of comparison
+idő,noun,time,youth or young adulthood
 fáradt,adj,tired,in need of rest or sleep
 cím,noun,title,prefix or suffix added to a name
 titulus,noun,title,prefix or suffix added to a name
 beosztás,noun,title,prefix or suffix added to a name
+jogcím,noun,title,right to ownership
+tulajdonjog,noun,title,right to ownership
+cím,noun,title,right to ownership
+jogosultság,noun,title,right to ownership
+jogalap,noun,title,right to ownership
+jogcímigazolás,noun,title,certificate of ownership
+cím,noun,title,"name of a book, etc"
+cím,noun,title,subject of a writing
 a mai nap,noun,today,today (noun)
 ma,noun,today,today (noun)
 együtt,adv,together,"at the same time, in the same place"
 közösen,adv,together,"at the same time, in the same place"
 toalett,noun,toilet,personal grooming
+mosdó,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+árnyékszék,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+illemhely,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+mellékhelyiség,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toalett,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+WC,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+vécé,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+WC,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+vécécsésze,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 paradicsom,noun,tomato,tomato plant
+paradicsom,noun,tomato,fruit
 holnap,noun,tomorrow,the day after the present day
 a mai este,noun,tonight,nighttime today
 a mai éjszaka,noun,tonight,nighttime today
@@ -1135,23 +3387,66 @@ szintén,adv,too,likewise
 úgyszintén,adv,too,likewise
 ugyancsak,adv,too,likewise
 egyaránt,adv,too,likewise
+túl,adv,too,more than enough; as too much
+olyan,adv,too,"(degree, colloquial) to a high degree, very — see also very"
+annyira,adv,too,"(degree, colloquial) to a high degree, very — see also very"
+de (igen),adv,too,used to contradict a negative assertion
 fog,noun,tooth,anatomy: tooth
+fog,noun,tooth,saw tooth
+fog,noun,tooth,gear tooth
 téma,noun,topic,subject; theme
 turista,noun,tourist,someone who travels for pleasure
 város,noun,town,settlement
 forgalom,noun,traffic,pedestrians or vehicles on roads or on the air
+vonat,noun,train,line of connected cars or carriages
+vasút,noun,train,line of connected cars or carriages
+karaván,noun,train,"group of animals, vehicles, or people"
+pulzus,noun,train,series of electric pulses
 út,noun,travel,act of traveling
 utazás,noun,travel,act of traveling
+útinapló,noun,travel,plural: account of one's travels
+úti beszámoló,noun,travel,plural: account of one's travels
 fa,noun,tree,large woody plant
 kirándulás,noun,trip,journey
 utazás,noun,trip,journey
+teherautó,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+kamion,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+haszongépjármű,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 igaz,adj,true,concurring with a given set of facts
+igaz,adj,true,state in Boolean logic that indicates an affirmative or positive result
+igaz,adj,true,"loyal, faithful"
+hű,adj,true,"loyal, faithful"
+hűséges,adj,true,"loyal, faithful"
+igazi,adj,true,"genuine, legitimate"
+valódi,adj,true,"genuine, legitimate"
+eredeti,adj,true,"genuine, legitimate"
+hiteles,adj,true,"genuine, legitimate"
 próbál,verb,try,to attempt
 megpróbál,verb,try,to attempt
 próbálkozik,verb,try,to attempt
 megpróbálkozik,verb,try,to attempt
 megkísérel,verb,try,to attempt
+kipróbál,verb,try,to put to test
+próbára tesz,verb,try,to put to test
+megkóstol,verb,try,"to taste, sample, etc"
+felpróbál,verb,try,"to taste, sample, etc"
+kipróbál,verb,try,"to taste, sample, etc"
+bíróság elé állít,verb,try,to put on trial
+tárgyal,verb,try,to put on trial
 kanyar,noun,turn,change of direction or orientation
+fordulat,noun,turn,movement about an axis ending up with the same orientation
+elfordulás,noun,turn,movement about an axis ending up with the same orientation
+megfordulás,noun,turn,movement about an axis ending up with the same orientation
+sor,noun,turn,chance to use (something) shared in sequence with others
+jön or következik,noun,turn,chance to use (something) shared in sequence with others
+forduló,noun,turn,one's chance to make a move in a game
+kör,noun,turn,one's chance to make a move in a game
+fordulat,noun,turn,change in temperament or circumstance
+fordulópont,noun,turn,change in temperament or circumstance
+változás,noun,turn,change in temperament or circumstance
+beállítottság,noun,turn,character; personality; nature
+hajlam,noun,turn,character; personality; nature
+érzék,noun,turn,character; personality; nature
 kétszer,adv,twice,two times
 duplán,adv,twice,two times
 dupla,adv,twice,two times
@@ -1159,13 +3454,28 @@ típus,noun,type,grouping based on shared characteristics
 fajta,noun,type,grouping based on shared characteristics
 osztály,noun,type,grouping based on shared characteristics
 minta,noun,type,grouping based on shared characteristics
+archetípus,noun,type,individual that represents the ideal for its class
+eset,noun,type,preferred sort of person
+szóalak,noun,type,corpus linguistics: a word that occurs in a text or corpus irrespective of how many times it occurs
+típus,noun,type,corpus linguistics: a word that occurs in a text or corpus irrespective of how many times it occurs
+típus,noun,type,computing theory: tag indicating data type
+adattípus,noun,type,computing theory: tag indicating data type
 esernyő,noun,umbrella,cloth-covered frame used for protection against rain or sun
 ernyő,noun,umbrella,cloth-covered frame used for protection against rain or sun
+védőernyő,noun,umbrella,anything that provides protection
 nagybácsi,noun,uncle,brother (or brother-in-law) of someone’s parent
+bácsi,noun,uncle,close male friend of the parents
+bácsi,noun,uncle,form of address to a man by young people or children in some countries
 lent,adv,under,In a way lower or less than
 ért,verb,understand,to grasp the meaning of
 megért,verb,understand,to grasp the meaning of
 felfog,verb,understand,to grasp the meaning of
+értesül,verb,understand,to believe one grasps the meaning of
+tud,verb,understand,to believe one grasps the meaning of
+hall,verb,understand,to believe one grasps the meaning of
+hisz,verb,understand,to believe one grasps the meaning of
+sejt,verb,understand,to believe one grasps the meaning of
+ért,verb,understand,to believe
 egyetem,noun,university,institution of higher education
 tudományegyetem,noun,university,institution of higher education
 fel,adv,up,away from earth’s surface
@@ -1177,14 +3487,44 @@ használ,verb,use,"employ, apply"
 igénybe vesz,verb,use,"employ, apply"
 alkalmaz,verb,use,"employ, apply"
 él,verb,use,"employ, apply"
+felhasznál,verb,use,"to exhaust the supply of, to consume"
+elhasznál,verb,use,"to exhaust the supply of, to consume"
+elfogyaszt,verb,use,"to exhaust the supply of, to consume"
+kimerít,verb,use,"to exhaust the supply of, to consume"
+felél,verb,use,"to exhaust the supply of, to consume"
+fogyaszt,verb,use,"to exhaust the supply of, to consume"
+szokott,verb,use,rare: to habitually do
 hasznos,adj,useful,having a practical or beneficial use
 általában,adv,usually,most of the time
 rendszerint,adv,usually,most of the time
 szünet,noun,vacation,freedom from some business or activity
+szabadság,noun,vacation,official holiday period
+munkaszünet,noun,vacation,official holiday period
+pihenőidő,noun,vacation,official holiday period
+szabadság,noun,vacation,period of leisure time
+vakáció,noun,vacation,period of leisure time
+szünidő,noun,vacation,period of leisure time
+nyaralás,noun,vacation,period of leisure time
+kiürítés,noun,vacation,the act of vacating something; moving out of something
+kiköltözés,noun,vacation,the act of vacating something; moving out of something
+megüresedés,noun,vacation,the act of vacating something; moving out of something
+üresedés,noun,vacation,the act of vacating something; moving out of something
+betöltetlenség,noun,vacation,the act of vacating something; moving out of something
+érvénytelenítés,noun,vacation,the act of making legally void
+megsemmisítés,noun,vacation,the act of making legally void
+hatályon kívül helyezés,noun,vacation,the act of making legally void
 zöldség,noun,vegetable,a plant raised for some edible part of it
+növény,noun,vegetable,any plant
 nagyon,adv,very,to a high degree
 igen,adv,very,to a high degree
+igazán,adv,very,"true, truly"
+teljesen,adv,very,"true, truly"
+pontosan,adv,very,"true, truly"
+szakasztott,adv,very,"true, truly"
+egy az egyben,adv,very,"true, truly"
+leges-,adv,very,emphasizes superlativeness
 videó,noun,video,"television show, movie"
+videokazetta,noun,video,VHS
 látogatás,noun,visit,single act of visiting
 látogató,noun,visitor,guest
 vár,verb,wait,delay until some event
@@ -1192,18 +3532,28 @@ pincér,noun,waiter,a server in a restaurant or similar
 ébred,verb,wake,to stop sleeping
 felébred,verb,wake,to stop sleeping
 felkel,verb,wake,to stop sleeping
+felébreszt,verb,wake,to make somebody stop sleeping
+felkelt,verb,wake,to make somebody stop sleeping
 séta,noun,walk,trip made by walking
 fal,noun,wall,defensive rampart
+fal,noun,wall,structure built for defense surrounding an area
+fal,noun,wall,substantial structure acting as side or division in a building
+sejtfal,noun,wall,"anatomy, zoology, botany: divisive or containing structure"
 akar,verb,want,to desire
 meleg,adj,warm,having a temperature slightly higher than usual
 mos,verb,wash,to clean with water
 kimos,verb,wash,to clean with water
+elmos,verb,wash,to move or erode by the force of water in motion
+mosakszik,verb,wash,to clean oneself
+megmosakszik,verb,wash,to clean oneself
 óra,noun,watch,portable or wearable timepiece
 víz,noun,water,inorganic compound H₂O
 út,noun,way,"road, direction, path"
+mód,noun,way,method or manner
 hord,verb,wear,to have on (clothes or accessories)
 időjárás,noun,weather,state of the atmosphere
 idő,noun,weather,state of the atmosphere
+időjárás,noun,weather,unpleasant or destructive atmospheric conditions
 honlap,noun,website,a collection of pages on the World Wide Web
 webhely,noun,website,a collection of pages on the World Wide Web
 weboldal,noun,website,a collection of pages on the World Wide Web
@@ -1212,11 +3562,28 @@ hét,noun,week,period of seven days
 hétvége,noun,weekend,break in the working week
 szívesen látott,adj,welcome,whose arrival is a cause of joy
 kellemes,adj,welcome,whose arrival is a cause of joy
+nyugodtan,adj,welcome,free to have or enjoy gratuitously
 jól van,adj,well,in good health
 egészséges,adj,well,in good health
+tanácsos,adj,well,prudent
 mikor,adv,when,"at what time, as a direct question"
+amikor,adv,when,"at what time, as an indirect question"
 hol,adv,where,at what place; to what place; from what place
+hol,adv,where,at or in what place
+merre,adv,where,at or in what place
+ahol,adv,where,at or in which place
+hova,adv,where,to what place
+hová,adv,where,to what place
+merre,adv,where,to what place
+merrefelé,adv,where,to what place
+ahova,adv,where,to which place or situation
+ahová,adv,where,to which place or situation
+hol,adv,where,in what situation
 fehér,noun,white,color
+fehér,noun,white,person of European descent
+fehér ember,noun,white,person of European descent
+fehérlepke,noun,white,common name for butterflies in the subfamily Pierinae
+szem fehérje,noun,white,white of the eye
 miért,adv,why,for what reason
 asszony,noun,wife,female partner in a marriage
 feleség,noun,wife,female partner in a marriage
@@ -1227,35 +3594,99 @@ akar,verb,will,to wish or desire
 kíván,verb,will,to wish or desire
 óhajt,verb,will,to wish or desire
 rendel,verb,will,to wish or desire
+fog,verb,will,indicating future action
 nyer,verb,win,transitive: achieve victory in
+meghódít,verb,win,obtain (someone) by wooing
+megnyer,verb,win,obtain (someone) by wooing
 ablak,noun,window,opening for light and air
+ablak,noun,window,area on a computer screen
 bor,noun,wine,alcoholic beverage made from grapes
+bor,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+borvörös,noun,wine,wine colour
 tél,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 nő,noun,woman,adult female person
 asszony,noun,woman,adult female person
 csodálatos,adj,wonderful,"excellent, extremely impressive"
 szó,noun,word,unit of language
+szó,noun,word,promise
+ige,noun,word,Christ
 munka,noun,work,"labour, employment, occupation, job"
 dolog,noun,work,"labour, employment, occupation, job"
 feladat,noun,work,"labour, employment, occupation, job"
+munkahely,noun,work,place where one is employed
+munka,noun,work,effort expended on a particular task
+fáradság,noun,work,effort expended on a particular task
+fáradozás,noun,work,effort expended on a particular task
+munka,noun,work,something produced using the specified material or tool
+mű,noun,work,"literary, artistic, or intellectual production"
+alkotás,noun,work,"literary, artistic, or intellectual production"
+műalkotás,noun,work,"literary, artistic, or intellectual production"
+munka,noun,work,"literary, artistic, or intellectual production"
+munka,noun,work,physics: measure of energy expended in moving an object
+erőd,noun,work,fortification
+erődítmény,noun,work,fortification
+védmű,noun,work,fortification
 munkás,noun,worker,person who performs labor
+dolgozó,noun,worker,insect
 világ,noun,world,human collective existence
+világmindenség,noun,world,the universe
+világ,noun,world,the Earth
+világ,noun,world,inhabited planet
+világ,noun,world,individual or group perspective or social setting
 -na,verb,would,indicating an action or state that is conditional on another
 -ne,verb,would,indicating an action or state that is conditional on another
 -ná,verb,would,indicating an action or state that is conditional on another
 -né,verb,would,indicating an action or state that is conditional on another
+We sat on the bench,verb,would,indicating a possible (but not definite) future action or state
+és azon gondolkoztunk,verb,would,indicating a possible (but not definite) future action or state
+hogy ezúttal elkésik-e a busz.,verb,would,indicating a possible (but not definite) future action or state
+hogy mindjárt visszajön.,verb,would,indicating an action in the past that was planned or intended
+In the winters,verb,would,indicating an action in the past that happened repeatedly or commonly
+és halásztunk.,verb,would,indicating an action in the past that happened repeatedly or commonly
+Megtennéd,verb,would,used to express a polite request
+hogy kikapcsolod a tv-t?,verb,would,used to express a polite request
 ír,verb,write,"to form letters, etc."
+ír,verb,write,to send a letter to
+ír,verb,write,to be the author of
+megír,verb,write,to be the author of
+kiír,verb,write,to show (information)
+ír,verb,write,to be an author
+ír,verb,write,record (data)
+megír,verb,write,record (data)
+kiír,verb,write,record (data)
 író,noun,writer,person who writes; an author
 írónő,noun,writer,person who writes; an author
 írás,noun,writing,written letters or symbols
+írás,noun,writing,something written
+írás,noun,writing,process of representing a language
 hibás,adj,wrong,incorrect
 téves,adj,wrong,incorrect
 rossz,adj,wrong,incorrect
+helytelen,adj,wrong,immoral
+erkölcstelen,adj,wrong,immoral
+nem megfelelő,adj,wrong,improper
+rossz,adj,wrong,not working
+nem működik,adj,wrong,not working
+nem stimmel,adj,wrong,not working
+belső,adj,wrong,designed to be worn or placed inward
+belül lévő,adj,wrong,designed to be worn or placed inward
+belülre való,adj,wrong,designed to be worn or placed inward
 udvar,noun,yard,land around a house
 kert,noun,yard,land around a house
 előkert,noun,yard,land around a house
+telep,noun,yard,enclosed area for a specific purpose
 keresztvitorlarúd,noun,yard,nautical: tapered timber from which square sails hang
+rúd,noun,yard,"staff, rod, stick"
+pózna,noun,yard,"staff, rod, stick"
+bot,noun,yard,"staff, rod, stick"
+pálca,noun,yard,"staff, rod, stick"
+yard,noun,yard,three feet
+százas,noun,yard,slang: one hundred units of currency
 év,noun,year,time it takes for the Earth to complete one revolution around the Sun
+év,noun,year,time it takes for any planetary body to make one revolution around another body
+év,noun,year,a period between set dates that mark a year
+év,noun,year,a level or grade at school or college
+évfolyam,noun,year,a level or grade at school or college
 sárga,noun,yellow,color
 tegnap,noun,yesterday,day before today
 fiatal,adj,young,in the early part of life or growth

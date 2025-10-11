@@ -7,94 +7,233 @@ torsdag,noun,Thursday,day of the week
 tisdag,noun,Tuesday,day of the week
 onsdag,noun,Wednesday,day of the week
 runt,adv,about,on all sides
+runt,adv,about,here and there
+ungefär,adv,about,"nearly, approximately"
+nästan,adv,about,"nearly, approximately"
+runt,adv,about,in circuit
+handling,noun,action,something done so as to accomplish a purpose
+rörelse,noun,action,way of motion or functioning
+action,noun,action,fast-paced activity
+action,noun,action,slang: intercourse
 aktivitet,noun,activity,state or quality of being active
 verksamhet,noun,activity,state or quality of being active
+aktivitet,noun,activity,something done as an action or a movement
+sysselsättning,noun,activity,something done as an action or a movement
+aktivitet,noun,activity,something done for pleasure or entertainment
+sysselsättning,noun,activity,something done for pleasure or entertainment
 skådespelare,noun,actor,person who performs in a theatrical play or film — see also actress
 skådespelerska,noun,actor,person who performs in a theatrical play or film — see also actress
 aktör,noun,actor,person who performs in a theatrical play or film — see also actress
 aktris,noun,actor,person who performs in a theatrical play or film — see also actress
+aktör,noun,actor,one who acts; a doer
 skådespelerska,noun,actress,female actor — see also actor
 aktris,noun,actress,female actor — see also actor
 tillägga,verb,add,to append (e.g. a statement); to say further information; to add on
+lägga till,verb,add,to make an addition; to augment; to increase; to add on
+addera,verb,add,to make an addition; to augment; to increase; to add on
+tilläga,verb,add,to make an addition; to augment; to increase; to add on
+addera,verb,add,"to perform the arithmetical operation of addition, to add up"
+summera,verb,add,"to perform the arithmetical operation of addition, to add up"
+lägga ihop,verb,add,"to perform the arithmetical operation of addition, to add up"
+tal,noun,address,act of addressing oneself to a person or group
+adress,noun,address,description of the location of a property; direction for correspondence
 vuxen,noun,adult,fully grown human
 råd,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 rädd,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 eftermiddag,noun,afternoon,part of the day between noon and evening
+igen,adv,again,another time
+ånyo,adv,again,another time
+åter,adv,again,another time
+på nytt,adv,again,another time
+å nyo,adv,again,another time
+återigen,adv,again,another time
+igen,adv,again,used in a question to ask something one has forgotten
 ålder,noun,age,amount of time since the birth of a being or the beginning of a thing
+ålderdom,noun,age,state of being old; latter part of life
+ålder,noun,age,one of the stages of life
+tid,noun,age,particular period of time in history
+ålder,noun,age,particular period of time in history
+era,noun,age,particular period of time in history
+tidevarv,noun,age,particular period of time in history
+era,noun,age,great period in the history of the Earth
+ålder,noun,age,great period in the history of the Earth
+tidsålder,noun,age,great period in the history of the Earth
+generation,noun,age,generation — see also generation
+åratal,noun,age,a long time
+ålder,noun,age,geochronologic unit
+livslängd,noun,age,lifespan
+livstid,noun,age,lifespan
 hålla med,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 vara överens om,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+vara överens,verb,agree,"to yield assent, to accede"
+komma överens,verb,agree,to come to terms or to a common resolve
+överensstämma,verb,agree,"to resemble, coincide, correspond"
 luft,noun,air,historical: one of the basic elements
+luft,noun,air,mixture of gases making up the atmosphere of the Earth
+atmosfär,noun,air,mixture of gases making up the atmosphere of the Earth
+aria,noun,air,"music: a song, an aria"
 flygplats,noun,airport,place designated for airplanes
 flygfält,noun,airport,place designated for airplanes
 lufthamn,noun,airport,place designated for airplanes
 också,adv,also,in addition; besides; as well; further; too
 likaså,adv,also,in addition; besides; as well; further; too
 alltid,adv,always,at all times
+alltid,adv,always,"constantly during a certain period, or regularly at stated intervals"
 häpnadsväckande,adj,amazing,causing wonder and amazement
 arg,adj,angry,displaying anger
 ilsken,adj,angry,displaying anger
 djur,noun,animal,organism
+best,noun,animal,person who behaves wildly
 svara,verb,answer,to make a reply or response to
 lägenhet,noun,apartment,domicile occupying part of a building
+våning,noun,apartment,archaic: suite of rooms within a domicile
 äpple,noun,apple,fruit of Malus domestica
 area,noun,area,maths: measure of extent of a surface
 yta,noun,area,maths: measure of extent of a surface
+område,noun,area,particular geographic region
 vapen,noun,arm,weapon
+vapen,noun,arm,heraldic bearings
 arm,noun,arm,upper appendage from shoulder to wrist
+arm,noun,arm,limb of an invertebrate animal
+armstöd,noun,arm,part of object
+arm,noun,arm,part of a chromosome
 anlända,verb,arrive,to reach
 ankomma,verb,arrive,to reach
+komma fram,verb,arrive,to get to a certain place
+anlända,verb,arrive,to get to a certain place
+ankomma,verb,arrive,to get to a certain place
 konst,noun,art,human effort
+konst,noun,art,conscious production or arrangement
+konst,noun,art,skillful creative activity
+konstverk,noun,art,artwork
+konst,noun,art,field or category of art
+konst,noun,art,nonscientific branch of learning
+konst,noun,art,skill
 artikel,noun,article,"story, report, or opinion piece"
+artikel,noun,article,member of a group or class
+artikel,noun,article,part of speech that specifies a noun
+artikel,noun,article,section of a legal document
+paragraf,noun,article,section of a legal document
 artist,noun,artist,person who creates art
 konstnär,noun,artist,person who creates art
 fråga,verb,ask,request an answer
 spörja,verb,ask,request an answer
 ställa (en fråga),verb,ask,request an answer
+be om,verb,ask,make a request
 faster,noun,aunt,a parent's sister or sister-in-law
 moster,noun,aunt,a parent's sister or sister-in-law
 tant,noun,aunt,a parent's sister or sister-in-law
+tant,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
 bort,adv,away,from a place; hence
 iväg,adv,away,from a place; hence
 fruktansvärd,adj,awesome,causing awe or terror
 imponerande,adj,awesome,causing awe or terror
 hiskelig,adj,awesome,causing awe or terror
+jättebra,adj,awesome,"excellent, exciting"
+fantastisk,adj,awesome,"excellent, exciting"
+grym,adj,awesome,"excellent, exciting"
+enastående,adj,awesome,"excellent, exciting"
 spädbarn,noun,baby,very young human being
 bäbis,noun,baby,very young human being
 bebis,noun,baby,very young human being
 baby,noun,baby,very young human being
+unge,noun,baby,young animal
+barnunge,noun,baby,immature or infantile person
+barnrumpa,noun,baby,immature or infantile person
+älskling,noun,baby,form of address to a man or a woman considered to be attractive
+barn,noun,baby,pet project
+ögonsten,noun,baby,pet project
+minsting,noun,baby,lastborn of a family
 tillbaka,adv,back,to or in a previous condition or place
+tillbaka,adv,back,in a manner that impedes
 dålig,adj,bad,unfavorable; negative
 illa,adj,bad,unfavorable; negative
+opassande,adj,bad,not suitable or fitting
+olämplig,adj,bad,"not appropriate, of manners etc."
+opassande,adj,bad,"not appropriate, of manners etc."
+ful,adj,bad,"not appropriate, of manners etc."
+ond,adj,bad,"evil, wicked"
+trasig,adj,bad,faulty; not functional
+sönder,adj,bad,faulty; not functional
+dålig,adj,bad,of breath: malodorous
 väska,noun,bag,flexible container
 säck,noun,bag,flexible container
 kasse,noun,bag,flexible container
+påse,noun,bag,paper (or plastic) container given or sold to shoppers
+packa,noun,bag,ugly woman
 bal,noun,ball,formal dance
 boll,noun,ball,solid or hollow sphere
 klot,noun,ball,solid or hollow sphere
 kula,noun,ball,solid or hollow sphere
+boll,noun,ball,"object, generally spherical, used for playing games"
+klot,noun,ball,"object, generally spherical, used for playing games"
+kula,noun,ball,"object, generally spherical, used for playing games"
+nystan,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+kula,noun,ball,ballistics: a solid nonexplosive missile
+klot,noun,ball,mathematics: set of points in a metric space lying within a given distance of a given point
+kula,noun,ball,testicle — see also testicle
+balle,noun,ball,testicle — see also testicle
+skitsnack,noun,ball,mildly vulgar slang: nonsense
+stake,noun,ball,in plural — slang — courage
+trampdyna,noun,ball,anatomy: ball of a foot
 banan,noun,banana,fruit
+bananplanta,noun,banana,plant
 bank,noun,bank,edge of river or lake
+bank,noun,bank,"an underwater area of higher elevation, a sandbank"
+bank,noun,bank,"embankment, an earth slope"
 bank,noun,bank,institution
+bank,noun,bank,branch office
+bankkontor,noun,bank,branch office
+bank,noun,bank,storage for important goods
 bar,noun,bar,unit of pressure
 ribba,noun,bar,solid object with uniform cross-section
 stång,noun,bar,solid object with uniform cross-section
 bom,noun,bar,solid object with uniform cross-section
+stång,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+stång,noun,bar,"long, narrow drawn or printed rectangle, cuboid or cylinder"
+bar,noun,bar,business licensed to sell intoxicating beverages
+pub,noun,bar,business licensed to sell intoxicating beverages
+krog,noun,bar,business licensed to sell intoxicating beverages
+bar,noun,bar,counter of such premises
+disk,noun,bar,counter of such premises
+bar,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+barskåp,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+förbud,noun,bar,official order prohibiting some activity
+advokatsamfund,noun,bar,law: collective term for lawyers
+ribba,noun,bar,sports: in high jump and pole vault
+bank,noun,bar,nautical: sand formation
+grund,noun,bar,nautical: sand formation
+sandbank,noun,bar,nautical: sand formation
 baseboll,noun,baseball,ball game
+baseboll,noun,baseball,ball used in baseball-game
 basket,noun,basketball,the sport
 korgboll,noun,basketball,the sport
+basketboll,noun,basketball,the ball used in the sport
 badkar,noun,bath,tub
 kar,noun,bath,tub
+badrum,noun,bath,building or area where bathing occurs
+bad,noun,bath,act of bathing
 badrum,noun,bathroom,a room with a bathtub
 sandstrand,noun,beach,sandy shore
 strand,noun,beach,sandy shore
 fin,adj,beautiful,attractive
 vacker,adj,beautiful,attractive
 skön,adj,beautiful,attractive
+fin,adj,beautiful,"of weather: pleasant, clear"
+vacker,adj,beautiful,"of weather: pleasant, clear"
 bli,verb,become,to begin to be
+klä,verb,become,"to look attractive on, be suitable for"
+passa,verb,become,"to look attractive on, be suitable for"
 bädd,noun,bed,piece of furniture
 säng,noun,bed,piece of furniture
+bädd,noun,bed,prepared spot to spend the night in
+bädd,noun,bed,the bottom of a lake or other body of water
+rabatt,noun,bed,garden plot
+flak,noun,bed,platform of a vehicle that supports the load
+matta,noun,bed,piece of music over which a radio DJ talks
 sovrum,noun,bedroom,room in a house where a bed is kept for sleeping
 öl,noun,beer,alcoholic drink made of malt
+öl,noun,beer,glass of beer
 börja,verb,begin,"to start, to initiate (transitive)"
 begynna,verb,begin,"to start, to initiate (transitive)"
 inleda,verb,begin,"to start, to initiate (transitive)"
@@ -102,39 +241,105 @@ påbörja,verb,begin,"to start, to initiate (transitive)"
 början,noun,beginning,act of doing that which begins anything
 begynnelse,noun,beginning,act of doing that which begins anything
 start,noun,beginning,act of doing that which begins anything
+början,noun,beginning,that which is begun
+början,noun,beginning,that which begins or originates something
+upphov,noun,beginning,that which begins or originates something
+orsak,noun,beginning,that which begins or originates something
+upprinnelse,noun,beginning,that which begins or originates something
+ursprung,noun,beginning,that which begins or originates something
+upptakt,noun,beginning,that which begins or originates something
+början,noun,beginning,initial portion of some extended thing
+inledning,noun,beginning,initial portion of some extended thing
+start,noun,beginning,initial portion of some extended thing
 bakom,adv,behind,at the back part; in the rear
+baktill,adv,behind,toward the back part or rear; backward
 tro,verb,believe,to accept that someone is telling the truth (object: person)
+tro,verb,believe,to accept as true
+tro,verb,believe,to consider likely
+förmoda,verb,believe,to consider likely
+anta,verb,believe,to consider likely
+tro,verb,believe,to have religious faith; to believe in a greater truth
+tro,verb,believe,to ascribe existence to
 nedan,adv,below,in a lower place
 under,adv,below,in a lower place
+inunder,adv,below,on a lower storey
+nedanför,adv,below,farther down
+nedom,adv,below,farther down
+under däck,adv,below,nautical: on a lower deck
+minus,adv,below,of a temperature: below zero
 bättre,adj,better,comparative of the adjectives good or well
 cykel,noun,bicycle,vehicle
 tvåhjuling,noun,bicycle,vehicle
 stor,adj,big,of a great size — see also large
+vuxen,adj,big,adult
 cykel,noun,bike,bicycle
+mc,noun,bike,motorcycle
+MC,noun,bike,motorcycle
+motorcykel,noun,bike,motorcycle
+båge,noun,bike,motorcycle
+förteckning,noun,bill,official statement
+lista,noun,bill,official statement
+intyg,noun,bill,official statement
+lagförslag,noun,bill,draft of a law
+motion,noun,bill,draft of a law
+proposition,noun,bill,draft of a law
+faktura,noun,bill,invoice
+nota,noun,bill,invoice
+räkning,noun,bill,invoice
+affisch,noun,bill,advertisement
+anslag,noun,bill,advertisement
+program,noun,bill,advertisement
+plakat,noun,bill,advertisement
+sedel,noun,bill,bill of exchange
+växel,noun,bill,bill of exchange
 hillebard,noun,bill,weapon of infantry
+faskinkniv,noun,bill,cutting instrument
+hillebardiär,noun,bill,somebody armed with a bill
+pynt,noun,bill,extremity of the arm of an anchor
 näbb,noun,bill,bird's beak
 fågel,noun,bird,animal
+brud,noun,bird,woman
 födelsedag,noun,birthday,anniversary
 bemärkelsedag,noun,birthday,anniversary
+födelsedag,noun,birthday,date of birth — see also date of birth
+födelsedatum,noun,birthday,date of birth — see also date of birth
 svart,noun,black,colour/color
+svärta,noun,black,"dye, pigment"
+svart,noun,black,dark-skinned person — see also Negro
+svarta,noun,black,"billiards, snooker, pool: black ball"
 blogg,noun,blog,a personal or corporate website
 blond,adj,blond,of a pale golden colour
+ljus,adj,blond,having blond hair
+ljushyad,adj,blond,having blond hair
+blond,adj,blond,having blond hair
 blå,noun,blue,colour
+blåvinge,noun,blue,butterfly of the subfamily Polyommatinae
 båt,noun,boat,water craft
 kropp,noun,body,physical structure of a human or animal
+kropp,noun,body,fleshly or corporeal nature of a human
+kaross,noun,body,largest or most important part of anything (e.g. car bodywork)
+kropp,noun,body,largest or most important part of anything (e.g. car bodywork)
+kropp,noun,body,any physical object or material thing
 bok,noun,book,collection of sheets of paper bound together containing printed or written material
+häfte,noun,book,"convenient collection of small paper items, such as stamps"
+bok,noun,book,"major division of a published work, larger than a chapter"
+volym,noun,book,"major division of a published work, larger than a chapter"
+bokföring,noun,book,usually in plural: records of the accounts of a business
 stövel,noun,boot,heavy shoe that covers part of the leg
 känga,noun,boot,heavy shoe that covers part of the leg
+vagnslåda,noun,boot,archaic: place for baggage at either end of a stagecoach
 båtnad,noun,boot,remedy
 gagn,noun,boot,remedy
 hjälp,noun,boot,remedy
 fördel,noun,boot,remedy
 vinning,noun,boot,remedy
 vinst,noun,boot,remedy
+vinning,noun,boot,profit
 uttråkad,adj,bored,suffering from boredom
 långtråkig,adj,boring,causing boredom or tiredness
 flaska,noun,bottle,container
 pava,noun,bottle,container
+flaska,noun,bottle,contents of such a container
 slag med handen,noun,box,blow with the fist
 buxbom,noun,box,shrub or tree of the genus Buxus — see also box tree
 ask,noun,box,cuboid space; container
@@ -147,13 +352,37 @@ koffert,noun,box,cuboid space; container
 låda,noun,box,cuboid space; container
 schatull,noun,box,cuboid space; container
 skrin,noun,box,cuboid space; container
+låda,noun,box,as much as fills a box
+låda,noun,box,compartment of an item of furniture
+avbalkning,noun,box,compartment to sit inside
+box,noun,box,compartment to sit inside
+bås,noun,box,compartment to sit inside
+fack,noun,box,compartment to sit inside
+loge,noun,box,compartment to sit inside
+kuskbock,noun,box,driver’s seat on a coach
+kur,noun,box,small rectangular shelter
+jakthydda,noun,box,small rectangular shelter
+vaktkur,noun,box,small rectangular shelter
+dator,noun,box,"computer, or the case in which it is housed"
+box,noun,box,(engineering) cylindrical casing
+bössa,noun,box,(engineering) cylindrical casing
+hylsa,noun,box,(engineering) cylindrical casing
+låda,noun,box,(engineering) cylindrical casing
+fodral,noun,box,(engineering) cylindrical casing
 pojke,noun,boy,young male
 kille,noun,boy,young male
+kille,noun,boy,"male of any age, used as a friendly diminutive"
+grabb,noun,boy,"male of any age, used as a friendly diminutive"
 pojkvän,noun,boyfriend,male partner in a romantic relationship
 kille,noun,boyfriend,male partner in a romantic relationship
 käraste,noun,boyfriend,male partner in a romantic relationship
+killkompis,noun,boyfriend,male friend
 bröd,noun,bread,baked dough made from cereals
 brott,noun,break,instance of breaking something into pieces
+avbrott,noun,break,"rest or pause, usually from work"
+rast,noun,break,"rest or pause, usually from work"
+paus,noun,break,"rest or pause, usually from work"
+break,noun,break,tennis: game won by receiving party
 frukost,noun,breakfast,first meal of the day
 frulle (brekkie),noun,breakfast,first meal of the day
 ta med,verb,bring,to transport toward somebody/somewhere
@@ -163,6 +392,9 @@ tillföra,verb,bring,to transport toward somebody/somewhere
 bror,noun,brother,male sibling
 broder,noun,brother,male sibling
 brorsa,noun,brother,male sibling
+bror,noun,brother,male having parents in common
+broder,noun,brother,male having parents in common
+broder,noun,brother,male fellow member of a religious community
 brun,noun,brown,colour
 anlägga,verb,build,(transitive) to form by combining materials or parts
 bygga,verb,build,(transitive) to form by combining materials or parts
@@ -170,165 +402,494 @@ förfärdiga,verb,build,(transitive) to form by combining materials or parts
 uppföra,verb,build,(transitive) to form by combining materials or parts
 uppresa,verb,build,(transitive) to form by combining materials or parts
 upprätta,verb,build,(transitive) to form by combining materials or parts
+bygga,verb,build,(transitive) to develop or give form to according to a plan or process
+forma,verb,build,(transitive) to develop or give form to according to a plan or process
+skapa,verb,build,(transitive) to develop or give form to according to a plan or process
+bygga upp,verb,build,(transitive) to increase or strengthen by adding gradually to
+hopa,verb,build,(transitive) to increase or strengthen by adding gradually to
+stegra,verb,build,(transitive) to increase or strengthen by adding gradually to
+öka,verb,build,(transitive) to increase or strengthen by adding gradually to
+bygga,verb,build,(transitive) to establish a basis for
+grunda,verb,build,(transitive) to establish a basis for
+anläggas,verb,build,(intransitive) to form by combining materials or parts
+byggas,verb,build,(intransitive) to form by combining materials or parts
+förfärdigas,verb,build,(intransitive) to form by combining materials or parts
+uppföras,verb,build,(intransitive) to form by combining materials or parts
+uppresas,verb,build,(intransitive) to form by combining materials or parts
+upprättas,verb,build,(intransitive) to form by combining materials or parts
+byggas upp,verb,build,(intransitive) to develop in magnitude or extent
+hopa sig,verb,build,(intransitive) to develop in magnitude or extent
+stegras,verb,build,(intransitive) to develop in magnitude or extent
+ökas,verb,build,(intransitive) to develop in magnitude or extent
 byggande,noun,building,act or process of building
 bygge,noun,building,act or process of building
 byggnation,noun,building,act or process of building
 byggnadsverksamhet,noun,building,act or process of building
+byggnad,noun,building,closed structure with walls and a roof
+bygge,noun,building,closed structure with walls and a roof
+hus,noun,building,closed structure with walls and a roof
 buss,noun,bus,vehicle
+buss,noun,bus,electrical conductor
 affärer,noun,business,commercial enterprise or establishment
+bransch,noun,business,"occupation, work or trade of a person"
+företag,noun,business,"commercial, industrial or professional activity"
+affär,noun,business,"commercial, industrial or professional activity"
+verksamhet,noun,business,"commercial, industrial or professional activity"
+verksamhet,noun,business,management of commercial enterprises
+angelägenhet,noun,business,something involving one personally
+affär,noun,business,something involving one personally
+sak,noun,business,something involving one personally
+ärende,noun,business,matters that come before a body for deliberation or action
+sak,noun,business,matters that come before a body for deliberation or action
+affärsklass,noun,business,business class
 livlig,adj,busy,crowded with business or activities
 livligt trafikerad,adj,busy,crowded with business or activities
+upptagen,adj,busy,doing a great deal
+jäktig,adj,busy,doing a great deal
+flitig,adj,busy,doing a great deal
+upptagen,adj,busy,engaged
 smör,noun,butter,soft foodstuff made from milk
+smör,noun,butter,other foodstuffs like butter
 köpa,verb,buy,to obtain something with money
+köpa,verb,buy,to accept as true
 tårta,noun,cake,type of sweet dessert
 kaka,noun,cake,type of sweet dessert
+kaka,noun,cake,small mass of baked dough
+kaka,noun,cake,block of dense material
 rop,noun,call,cry or shout
+fågelsång,noun,call,characteristic cry of a bird or other animal
+kallelse,noun,call,beckoning or summoning
+telefonsamtal,noun,call,telephone conversation
+besök,noun,call,social visit
+ord,noun,call,right to speak
+anrop,noun,call,computing: act of jumping to a subprogram
+syn,noun,call,poker: act of matching a bet
+call,noun,call,poker: act of matching a bet
 kamera,noun,camera,still camera
+videokamera,noun,camera,movie camera
+filmkamera,noun,camera,movie camera
 kunna,verb,can,to be able to; to know how to
+kunna,verb,can,may
 konservera,verb,can,to preserve
 lägga in,verb,can,to preserve
+stänga igen,verb,can,to shut up
+knipa igen,verb,can,to shut up
+sparka,verb,can,to fire or dismiss an employee
+kicka,verb,can,to fire or dismiss an employee
 kan inte,verb,cannot,"cannot — see also can, not"
 kan icke,verb,cannot,"cannot — see also can, not"
 bil,noun,car,"automobile, a vehicle steered by a driver"
 automobil,noun,car,"automobile, a vehicle steered by a driver"
+hisskorg,noun,car,"moving, load-carrying component of an elevator"
+kort,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+karda,noun,card,hand-held tool for preparing materials for spinning
 karriär,noun,career,one's calling in life; a person's occupation
+karriär,noun,career,an individual’s work and life roles over their lifespan
+karriär,noun,career,horse career
 morot,noun,carrot,Daucus carota ssp. sativus
+morot,noun,carrot,motivational tool
 bära,verb,carry,to transport by lifting
+föra,verb,carry,to stock or supply
 katt,noun,cat,domestic species
+kattdjur,noun,cat,member of the family Felidae
 cent,noun,cent,subunit of currency in US and elsewhere
+cent,noun,cent,one-hundredth of a euro
+cent,noun,cent,coin
 mitt,noun,center,point equidistant from all points on the perimeter of a circle
 mittpunkt,noun,center,point equidistant from all points on the perimeter of a circle
 centrum,noun,center,point equidistant from all points on the perimeter of a circle
+mitt,noun,center,point equidistant from all points on the surface of a sphere
+mittpunkt,noun,center,point equidistant from all points on the surface of a sphere
+centrum,noun,center,point equidistant from all points on the surface of a sphere
+mitt,noun,center,point on a line midway between the ends
+mittpunkt,noun,center,point on a line midway between the ends
+mittpunkt,noun,center,place where a function or activity occurs
+centrum,noun,center,place where a function or activity occurs
+center,noun,center,place where a function or activity occurs
+fokus,noun,center,topic of particular importance
+center,noun,center,in basketball
 stol,noun,chair,furniture
 förändring,noun,change,the process of becoming different
+växel,noun,change,small denominations of money given in exchange for a larger denomination
+växelpengar,noun,change,small denominations of money given in exchange for a larger denomination
+ombyte,noun,change,a replacement
+växel,noun,change,balance returned after a purchase
 billig,adj,cheap,low and/or reduced in price
 nedsatt,adj,cheap,low and/or reduced in price
+billig,adj,cheap,of poor quality
+billig,adj,cheap,of little worth
+billig,adj,cheap,slang: underhand or unfair in game
 kontrollera,verb,check,"to inspect, examine"
 kolla,verb,check,"to inspect, examine"
+markera,verb,check,to mark with a checkmark
+bocka av,verb,check,to mark with a checkmark
+kontrollera,verb,check,"to control, limit, or halt"
+hejda,verb,check,"to control, limit, or halt"
+kontrollera,verb,check,to verify or compare with a source of information
+passa,verb,check,poker: to remain in the hand without betting
 ost,noun,cheese,dairy product
+ost,noun,cheese,countable: any particular variety of cheese
 höna,noun,chicken,bird
 kyckling,noun,chicken,bird
+kyckling,noun,chicken,meat
+fegis,noun,chicken,coward
+mes,noun,chicken,coward
 barn,noun,child,son or daughter; someone's child
+barn,noun,child,a minor
+barn,noun,child,(computing) object which has a subservient or derivative role relative to another object
 choklad,noun,chocolate,food made from ground roasted cocoa beans
+chokladbit,noun,chocolate,small piece of confectionery made from chocolate
+pralin,noun,chocolate,small piece of confectionery made from chocolate
+chokladbrunt,noun,chocolate,colour
 välja,verb,choose,to pick
+välja,verb,choose,to elect
 stad,noun,city,large settlement
 klass,noun,class,"group, collection, category or set sharing characteristics or attributes"
+klass,noun,class,"social grouping, based on job, wealth, etc."
+klass,noun,class,division of society into classes
+klass,noun,class,admirable behavior; elegance
+klass,noun,class,group of students in a regularly scheduled meeting with a teacher
+kurs,noun,class,series of classes covering a single subject
+årskurs,noun,class,group of students who commenced or completed their education during a particular year
+avgångsklass,noun,class,group of students who commenced or completed their education during a particular year
+klass,noun,class,"category of seats in an airplane, train or other means of mass transportation"
+klass,noun,class,taxonomy: classification below Phylum and above Order
+klass,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 klassrum,noun,classroom,room in a school
 rengöra,verb,clean,(transitive) to remove dirt from a place or object
 göra ren,verb,clean,(transitive) to remove dirt from a place or object
+städa,verb,clean,(transitive) to tidy up
 klättra,verb,climb,"to ascend, to go up"
+bestiga,verb,climb,"to mount, to move upwards on"
+klättra,verb,climb,to move by using the hands and feet
+klättra,verb,climb,to practice the sport of climbing
+klänga,verb,climb,of plants: to grow upwards by clinging to something
+klättra,verb,climb,of plants: to grow upwards by clinging to something
 klocka,noun,clock,instrument to measure or keep track of time
 ur,noun,clock,instrument to measure or keep track of time
 stänga,verb,close,obstruct (an opening)
+stänga,verb,close,move (a door)
+sluta,verb,close,bring one's eyelids together
+avsluta,verb,close,put an end to
 kläder,noun,clothes,apparel
 klubb,noun,club,association of members
+klubba,noun,club,heavy stick for use as weapon or plaything
+nattklubb,noun,club,establishment that provides staged entertainment
+klöver,noun,club,"playing card symbol, ♣"
 rock,noun,coat,outer garment covering the upper torso and arms
+lager,noun,coat,"covering of material, such as paint"
+täcklager,noun,coat,"covering of material, such as paint"
+hölje,noun,coat,"covering of material, such as paint"
+täcke,noun,coat,"covering of material, such as paint"
+hårbeklädnad,noun,coat,fur or feathers
+päls,noun,coat,fur or feathers
+fjäderdräkt,noun,coat,fur or feathers
 kaffe,noun,coffee,beverage
+kaffebuske,noun,coffee,plant
+kaffeträd,noun,coffee,plant
 kyla,noun,cold,low temperature
 köld,noun,cold,low temperature
+förkylning,noun,cold,illness
+snuva,noun,cold,illness
+högskola,noun,college,academic institution
+högskola,noun,college,institution of higher education
+fakultet,noun,college,institution of higher education
+högskola,noun,college,institution of higher education teaching undergraduates
+fakultet,noun,college,specialized division of a university
 färg,noun,color,spectral composition of visible light
+färg,noun,color,particular set of the visible spectrum
+färg,noun,color,hue as opposed to achromatic colors
+färg,noun,color,any of the standard dark tinctures used in a coat of arms
 komma,verb,come,to move nearer
 gemensam,adj,common,mutual
 allmän,adj,common,mutual
+vanlig,adj,common,usual
+vanlig,adj,common,found in large numbers or in a large quantity
+vanlig,adj,common,ordinary
+utral,adj,common,grammar: of the gender resulting from the coalescence of the masculine and feminine genders
 verksamhet,noun,company,"in legal context, a corporation"
 bolag,noun,company,"in legal context, a corporation"
+företag,noun,company,"in non-legal context, any business, without respect to incorporation"
+firma,noun,company,"in non-legal context, any business, without respect to incorporation"
+sällskap,noun,company,companionship
+kompani,noun,company,military unit
 jämföra,verb,compare,to assess the similarities between two things or between one thing and another
 sammanlikna,verb,compare,to assess the similarities between two things or between one thing and another
+komparera,verb,compare,to form the three degrees of comparison of
 slutföra,verb,complete,to finish
 färdigställa,verb,complete,to finish
 göra färdig,verb,complete,to finish
+fullborda,verb,complete,to make whole or entire
 dator,noun,computer,programmable electronic device
 datamaskin,noun,computer,programmable electronic device
+mänsklig beräknare,noun,computer,person
+mänsklig räknare,noun,computer,person
+räknare,noun,computer,person
+beräknare,noun,computer,person
+konsert,noun,concert,a musical entertainment in which several voices or instruments take part
 samtal,noun,conversation,expression and exchange of individual ideas through talking with other people
 konversation,noun,conversation,expression and exchange of individual ideas through talking with other people
 laga mat,verb,cook,to prepare food for eating
 tillaga,verb,cook,to prepare food for eating
+lagas,verb,cook,to become ready for eating
+koka,verb,cook,to become ready for eating
+koka,verb,cook,colloquial: to be uncomfortably hot
+stekas,verb,cook,colloquial: to be uncomfortably hot
 matlagning,noun,cooking,the process of preparing food by using heat
+kök,noun,cooking,the style or genre of food preparation; cookery; cuisine
 sval,adj,cool,having a slightly low temperature
+kylig,adj,cool,"not showing emotion, calm"
+lugn,adj,cool,"not showing emotion, calm"
+sval,adj,cool,"unenthusiastic, lukewarm, skeptical"
+kylig,adj,cool,"unenthusiastic, lukewarm, skeptical"
+cool,adj,cool,"colloquial: being considered as ""popular"" by others"
+poppis,adj,cool,"colloquial: being considered as ""popular"" by others"
+häftig,adj,cool,"colloquial: being considered as ""popular"" by others"
+fet,adj,cool,"colloquial: being considered as ""popular"" by others"
+schysst,adj,cool,"colloquial: being considered as ""popular"" by others"
+stilig,adj,cool,colloquial: in fashion
+ok,adj,cool,"colloquial: all right, acceptable"
+schysst,adj,cool,"colloquial: all right, acceptable"
+bra,adj,cool,"colloquial: all right, acceptable"
+fin,adj,cool,"colloquial: all right, acceptable"
 rätta,verb,correct,to make something become right that was previously wrong
 korrigera,verb,correct,to make something become right that was previously wrong
 kosta,verb,cost,"to incur a charge, a price"
 land,noun,country,region of land
+land,noun,country,nation state
+landsbygd,noun,country,"the country, rural area, as opposed to the town or city"
+landet,noun,country,"the country, rural area, as opposed to the town or city"
+landsort,noun,country,"the country, rural area, as opposed to the town or city"
+country,noun,country,country music
+kurs,noun,course,education: learning program
+rätt,noun,course,cooking: stage of a meal
+kurs,noun,course,nautical: direction of movement of a vessel
 släkting,noun,cousin,any relation (especially a distant one) who is not a direct ancestor or descendant but part of a person’s extended family
+kusin,noun,cousin,child of a person’s parent’s brother or sister
 ko,noun,cow,female domesticated ox or other bovine
 kossa,noun,cow,female domesticated ox or other bovine
+nötkreatur,noun,cow,any domestic bovine regardless of sex or age
+ko,noun,cow,female of various species of mammal
+kossa,noun,cow,derogatory: despicable woman
 grädde,noun,cream,oily part of milk
 römme,noun,cream,oily part of milk
 råm,noun,cream,oily part of milk
+gräddfärg,noun,cream,colour
+krämfärg,noun,cream,colour
+grädda,noun,cream,the best part
+kräm,noun,cream,product to apply to the skin
+hudkräm,noun,cream,product to apply to the skin
 skapa,verb,create,to put into existence
 kultur,noun,culture,"arts, customs and habits"
+kultur,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
+kultur,noun,culture,the collective noun for a group of bacteria
 kopp,noun,cup,drinking vessel
+kaffekopp,noun,cup,unit of measure
+kkp,noun,cup,unit of measure
+pokal,noun,cup,trophy
+cup,noun,cup,contest
+pokal,noun,cup,contest
+turnering,noun,cup,contest
+kupa,noun,cup,part of bra
+kund,noun,customer,one who purchases or receives a product or service
 skära,verb,cut,to perform an incision
+skära,verb,cut,to divide with a sharp instrument
+klippa,verb,cut,to divide with a sharp instrument
+kapa,verb,cut,to divide with a sharp instrument
+tillskära,verb,cut,to cut out fabric to specific lengths and shapes to make clothes
+skära,verb,cut,to cut out fabric to specific lengths and shapes to make clothes
+klippa,verb,cut,to cut out fabric to specific lengths and shapes to make clothes
+utesluta,verb,cut,to separate from prior association
+klippa bort,verb,cut,to separate from prior association
+kapa,verb,cut,to separate from prior association
+klippa,verb,cut,computing: to remove and place in memory
+tränga sig,verb,cut,to enter a queue in a wrong place
+klippa,verb,cut,to cease recording
+skära,verb,cut,to reduce
+skära,verb,cut,to form or shape by cutting
+skära ut,verb,cut,to form or shape by cutting
+klippa ut,verb,cut,to form or shape by cutting
+kupera,verb,cut,to divide a pack of playing cards
 pappa,noun,dad,informal: a father
 dansa,verb,dance,move rhythmically to music
 dansare,noun,dancer,person who dances
+danserska c dansös,noun,dancer,a female person who dances
 dans,noun,dancing,activity of dancing
 dansande,noun,dancing,activity of dancing
 farlig,adj,dangerous,full of danger
 farligt,adj,dangerous,full of danger
 mörk,adj,dark,having an absolute or relative lack of light
+mörk,adj,dark,"hidden, secret"
+mörk,adj,dark,without moral or spiritual light
+mörk,adj,dark,"not bright or light, deeper in hue"
 datum,noun,date,"that which specifies the time of writing, inscription etc."
+datum,noun,date,point of time at which a transaction or event takes place
+tidpunkt,noun,date,point in time
+träff,noun,date,pre-arranged social meeting
+träff,noun,date,companion when one is partaking in a social occasion
+träff,noun,date,meeting with a lover or potential lover; a person so met
+dejt,noun,date,meeting with a lover or potential lover; a person so met
 dadel,noun,date,fruit of the date palm
 dotter,noun,daughter,female offspring
 dag,noun,day,period between sunrise and sunset
+dygn,noun,day,period of 24 hours
+dag,noun,day,period of 24 hours
+dygn,noun,day,period from midnight to the following midnight
+dag,noun,day,period from midnight to the following midnight
+dygn,noun,day,rotational period of a planet
+dag,noun,day,"part of a day period which one spends at one's job, school, etc."
 kär,adj,dear,loved; lovable
+kär,adj,dear,precious to or greatly valued by someone
+kära,adj,dear,formal way of addressing
 besluta,verb,decide,to resolve or settle
 bestämma,verb,decide,to resolve or settle
+avgöra,verb,decide,give judgement
 delikat,adj,delicious,pleasing to taste
 läcker,adj,delicious,pleasing to taste
 smaklig,adj,delicious,pleasing to taste
 härlig,adj,delicious,pleasing to taste
 välsmakande,adj,delicious,pleasing to taste
 beskriva,verb,describe,to represent in words
+beskriva,verb,describe,to give rise to a geometrical structure
 beskrivning,noun,description,account in words
+signalement,noun,description,set of characteristics
 designa,verb,design,to plan an artwork etc.
 utforma,verb,design,to plan an artwork etc.
 skolbänk,noun,desk,table for writing and reading
 skrivbord,noun,desk,table for writing and reading
 detalj,noun,detail,part small enough to escape casual notice
 enskildhet,noun,detail,part small enough to escape casual notice
+detaljer,noun,detail,uncountable: a profusion of details
+oväsentlighet,noun,detail,part considered trivial enough to ignore
+oväsentlig sak,noun,detail,part considered trivial enough to ignore
+information,noun,detail,plural: personal information
+upplysning,noun,detail,plural: personal information
+detachement,noun,detail,military: temporary unit
+kommendering,noun,detail,military: temporary unit
+utkommendering,noun,detail,military: temporary unit
 dialog,noun,dialogue,conversation or other discourse between individuals
 samtal,noun,dialogue,conversation or other discourse between individuals
 konversation,noun,dialogue,conversation or other discourse between individuals
+dialog,noun,dialogue,verbal part of a literary or dramatic work
+dialog,noun,dialogue,literary form resembling a conversation
 ordbok,noun,dictionary,publication that explains the meanings of an ordered list of words
 ordlista,noun,dictionary,publication that explains the meanings of an ordered list of words
 lexikon,noun,dictionary,publication that explains the meanings of an ordered list of words
 dö,verb,die,to stop living
 avlida,verb,die,to stop living
 gå bort,verb,die,to stop living
+dö,verb,die,to become spiritually dead
+dö,verb,die,to be mortified or shocked
+dö,verb,die,to break down
 dag,noun,diet,council of leaders
 kost,noun,diet,food a person or animal consumes
 föda,noun,diet,food a person or animal consumes
+bantning,noun,diet,controlled regimen of food
+diet,noun,diet,controlled regimen of food
 avvikelse,noun,difference,quality of being different
 differens,noun,difference,quality of being different
 skillnad,noun,difference,quality of being different
 olikhet,noun,difference,quality of being different
+avvikelse,noun,difference,characteristic of something that makes it different from something else
+differens,noun,difference,characteristic of something that makes it different from something else
+skillnad,noun,difference,characteristic of something that makes it different from something else
+olikhet,noun,difference,characteristic of something that makes it different from something else
+meningsskiljaktighet,noun,difference,disagreement or argument about something important
+tvist,noun,difference,disagreement or argument about something important
+tvistepunkt,noun,difference,disagreement or argument about something important
+differens,noun,difference,arithmetic: result of a subtraction
+skillnad,noun,difference,arithmetic: result of a subtraction
 olik,adj,different,not the same
 annorlunda,adj,different,not the same
+annorlunda,adj,different,unlike most others
 svår,adj,difficult,"hard, not easy"
 middag,noun,dinner,evening meal
 oren,adj,dirty,covered with or containing dirt
 smutsig,adj,dirty,covered with or containing dirt
 skitig,adj,dirty,covered with or containing dirt
+snuskig,adj,dirty,"morally unclean, obscene or indecent"
+ful,adj,dirty,"dishonourable, violating standards or rules"
+ojuste,adj,dirty,"dishonourable, violating standards or rules"
+osnygg,adj,dirty,"dishonourable, violating standards or rules"
+orättmätig,adj,dirty,"illegal, improper"
+smutsig,adj,dirty,"illegal, improper"
+grumlig,adj,dirty,of color: discolored by impurities
+smutsig,adj,dirty,of color: discolored by impurities
 diskutera,verb,discuss,to converse or debate concerning a particular topic
 fat,noun,dish,vessel for holding/serving food
 tallrik,noun,dish,vessel for holding/serving food
+rätt,noun,dish,specific type of food
+maträtt,noun,dish,specific type of food
+parabolantenn,noun,dish,type of antenna
+parabol,noun,dish,type of antenna
+göra,verb,do,referring to an earlier verb (pro-verb)
+göra,verb,do,"perform, execute"
+duga,verb,do,"work, suffice"
+funka,verb,do,"work, suffice"
+göra,verb,do,cook
+laga,verb,do,cook
+besöka,verb,do,visit
+sitta inne,verb,do,be in jail
+gå på,verb,do,take drugs
+göra,verb,do,have a purpose
 doktor,noun,doctor,person who has attained a doctorate
 hund,noun,dog,animal
 hynda,noun,dog,animal
+hund,noun,dog,male canine
 dollar,noun,dollar,designation for specific currency
 dörr,noun,door,"portal of entry into a building, room or vehicle"
 port,noun,door,"portal of entry into a building, room or vehicle"
+lucka,noun,door,any flap that opens like a door
 ned,adv,down,"from a high to a low position, downwards"
 ner,adv,down,"from a high to a low position, downwards"
+lodrätt,adv,down,in crosswords
 rita,verb,draw,to produce a picture
 teckna,verb,draw,to produce a picture
+dra,verb,draw,"to pull out, unsheath"
+dra,verb,draw,to attract
+attrahera,verb,draw,to attract
+dra,verb,draw,to deduce or infer
+härleda,verb,draw,to deduce or infer
+lita på,verb,draw,to rely on
+dra för,verb,draw,to close curtains etc.
+dra,verb,draw,to determine the result of a lottery
 klä,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 kläda,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+klä sig,verb,dress,to put on clothes — see also get dressed
+klä på sig,verb,dress,to put on clothes — see also get dressed
+appretera,verb,dress,to prepare the surface of (a material)
+bearbeta,verb,dress,to prepare the surface of (a material)
+bereda,verb,dress,to prepare the surface of (a material)
+hugga jämn,verb,dress,to prepare the surface of (a material)
+hyvla,verb,dress,to prepare the surface of (a material)
+preparera,verb,dress,to prepare the surface of (a material)
+putsa,verb,dress,to prepare the surface of (a material)
+slipa,verb,dress,to prepare the surface of (a material)
+tukta,verb,dress,to prepare the surface of (a material)
 dricka,verb,drink,consume liquid through the mouth
+dricka,verb,drink,consume alcoholic beverages
+supa,verb,drink,consume alcoholic beverages
 framföra,verb,drive,to operate (a wheeled motorized vehicle)
 köra,verb,drive,to operate (a wheeled motorized vehicle)
+åka,verb,drive,to travel by operating a motorized vehicle
+köra,verb,drive,to travel by operating a motorized vehicle
+skjutsa,verb,drive,"to convey (a person, etc) in a wheeled motorized vehicle"
+köra,verb,drive,"to convey (a person, etc) in a wheeled motorized vehicle"
+driva,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+valla,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+driva på,verb,drive,to cause animals to flee out of
+driva,verb,drive,to move (something) by hitting it with great force
+driva,verb,drive,to cause (a mechanism) to operate
+köra,verb,drive,to cause (a mechanism) to operate
+driva,verb,drive,to motivate; to provide an incentive for
+sporra,verb,drive,to motivate; to provide an incentive for
+driva,verb,drive,to compel (to do something)
+driva,verb,drive,to cause to become
 förare,noun,driver,"one who drives something, e.g. cattle"
+förare,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+chaufför,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+drivrutin,noun,driver,program acting as interface between an application and hardware
+driver,noun,driver,golf club
 styck,adv,each,apiece
 var,adv,each,apiece
 vardera,adv,each,apiece
@@ -338,8 +899,12 @@ tidigt,adv,early,at a time before expected
 ostvart,adv,east,towards the east
 österut,adv,east,towards the east
 lätt,adj,easy,requiring little skill or effort
+lättfotad,adj,easy,consenting readily to sex
 äta,verb,eat,"to ingest — see also consume, ingest"
+gnaga,verb,eat,colloquial: cause to worry
+äta,verb,eat,eat a meal
 ägg,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+ägg,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 elefant,noun,elephant,mammal
 annars,adv,else,word that implies any result with the exception of the one being referred to
 e-posta,verb,email,(transitive) to send an email or emails to
@@ -347,59 +912,153 @@ maila,verb,email,(transitive) to send an email or emails to
 mejla,verb,email,(transitive) to send an email or emails to
 sluta,verb,end,"intransitive: be finished, be terminated"
 ända,verb,end,"intransitive: be finished, be terminated"
+sluta,verb,end,"transitive: finish, terminate (something)"
+avsluta,verb,end,"transitive: finish, terminate (something)"
 tycka om,verb,enjoy,to receive pleasure or satisfaction from something
 njuta,verb,enjoy,to receive pleasure or satisfaction from something
+åtnjuta,verb,enjoy,to have the use or benefit of something
 tillräckligt,adv,enough,sufficiently
 nog,adv,enough,sufficiently
 euro,noun,euro,currency unit of the European Monetary Union
+även,adv,even,implying extreme example
+ens,adv,even,implying extreme example
+till och med,adv,even,implying extreme example
+rentav,adv,even,implying extreme example
+än,adv,even,emphasising comparative
+än nu,adv,even,emphasising comparative
+ännu,adv,even,emphasising comparative
 afton,noun,evening,time of day between dusk and night
+kväll,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+afton,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 händelse,noun,event,occurrence
 evenemang,noun,event,occurrence
+evenemang,noun,event,prearranged social activity
+arrangemang,noun,event,prearranged social activity
+begivenhet,noun,event,prearranged social activity
+tillställning,noun,event,prearranged social activity
+gren,noun,event,one of several contests that combine to make up a sports competition
+händelse,noun,event,physics: point in spacetime
+händelse,noun,event,computing: action which triggers an event handler
+event,noun,event,computing: action which triggers an event handler
+händelse,noun,event,probability theory: a set of some of the possible outcomes
+utfall,noun,event,probability theory: a set of some of the possible outcomes
+fall,noun,event,probability theory: a set of some of the possible outcomes
+skede,noun,event,medicine: an episode of severe health conditions
 alltid,adv,ever,always
+någonsin,adv,ever,at any time
 exempel,noun,example,something representative of a group
+exempel,noun,example,something serving to explain or illustrate a rule
+illustrativt exempel,noun,example,something serving to explain or illustrate a rule
+exempel,noun,example,something serving as a pattern of behaviour
+föredöme,noun,example,something serving as a pattern of behaviour
+(varnande) exempel,noun,example,person punished as a warning to others
+exempel,noun,example,parallel or closely similar case
+exempel,noun,example,instance as a problem to be solved
+övningsexempel,noun,example,instance as a problem to be solved
 upphetsad,adj,excited,having great enthusiasm and energy
 upprymd,adj,excited,having great enthusiasm and energy
+exciterad,adj,excited,being in a state of higher energy
 spännande,adj,exciting,causing excitement
 öva,verb,exercise,exert for the sake of training
 träna,verb,exercise,exert for the sake of training
 praktisera,verb,exercise,exert for the sake of training
+motionera,verb,exercise,perform physical activity
+utöva,verb,exercise,use; put into practice
+ansätta,verb,exercise,occupy the attention and effort of
+sätta på prov,verb,exercise,occupy the attention and effort of
+utnyttja,verb,exercise,"take action, enforce"
 dyr,adj,expensive,having a high price or cost
 kostsam,adj,expensive,having a high price or cost
 förklara,verb,explain,to make intelligible
+förklara,verb,explain,excuse
 extra,adj,extra,"beyond what is due, usual"
 öga,noun,eye,organ
+öga,noun,eye,hole in needle
+nålsöga,noun,eye,hole in needle
+hyska,noun,eye,loop of metal
+ögla,noun,eye,loop of metal
+öga,noun,eye,of a hurricane
+centrum,noun,eye,of a hurricane
+öga,noun,eye,of a potato
 ansikte,noun,face,anatomy: front part of head
 anlete,noun,face,anatomy: front part of head
 fjäs,noun,face,anatomy: front part of head
 nuna,noun,face,anatomy: front part of head
+min,noun,face,facial expression
+uppsyn,noun,face,facial expression
+käft,noun,face,slang: the mouth
+ansikte,noun,face,public image
+anseende,noun,face,public image
+prestige,noun,face,public image
+yta,noun,face,geometry: bounding surface of a polyhedron
 faktum,noun,fact,an honest observation
+faktum,noun,fact,something actual
+verklighet,noun,fact,something actual
+verklighet,noun,fact,something which has become real
+faktum,noun,fact,something concrete used as a basis for further interpretation
+faktum,noun,fact,an objective consensus on a fundamental reality
+faktum,noun,fact,information about a particular subject
 fall,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+nedgång,noun,fall,a period of decline before the end
+fall,noun,fall,loss of greatness or status
 falsk,adj,false,"untrue, not factual, wrong"
 osann,adj,false,"untrue, not factual, wrong"
+konstgjord,adj,false,"spurious, artificial"
+falskt,adj,false,state in Boolean logic that indicates a negative result
+falskt,adj,false,music: out of tune
+bög,adj,family,(slang) homosexual
 känd,adj,famous,well known
 berömd,adj,famous,well known
 fantastisk,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
+långt,adv,far,"to, from or over a great distance"
 gård,noun,farm,place where agricultural activities take place
 jordbruk,noun,farm,place where agricultural activities take place
 farm,noun,farm,place where agricultural activities take place
 bonde,noun,farmer,person who works the land and/or who keeps livestock
 fast,adv,fast,in a firm or secure manner
+djupt,adv,fast,of sleeping: deeply or soundly
+fort,adv,fast,with great speed
+kvickt,adv,fast,with great speed
+snabbt,adv,fast,with great speed
+före,adv,fast,ahead of the correct time or schedule
 fet,adj,fat,carrying a larger than normal amount of fat on one's body
 tjock,adj,fat,carrying a larger than normal amount of fat on one's body
+tjock,adj,fat,thick
+fet,adj,fat,bountiful
+rik,adj,fat,bountiful
 fader,noun,father,male parent
 far,noun,father,male parent
 pappa,noun,father,male parent
 känna,verb,feel,transitive: to sense by touch
+känna,verb,feel,transitive: to experience an emotion or other mental state about
+känna,verb,feel,transitive: to think or believe
+tycka,verb,feel,transitive: to think or believe
+anse,verb,feel,transitive: to think or believe
+må,verb,feel,intransitive: to experience an emotion or other mental state
 sensation,noun,feeling,sensation
 känsla,noun,feeling,sensation
+känsla,noun,feeling,emotion; impression
+känslor,noun,feeling,in plural: emotional state or well-being
+känslor,noun,feeling,in plural: emotional attraction or desire
+känsla,noun,feeling,intuition
 festival,noun,festival,event or community gathering
 fylla,verb,fill,"add contents to, so it is full"
+fylla,verb,fill,"enter, making it full"
+fylla,verb,fill,"occupy fully, take up all of"
+fyllas,verb,fill,become full of contents
 slutgiltig,adj,final,last; ultimate
+ordfinal,adj,final,linguistics: occurring at the end of a word
 finna,verb,find,"encounter, locate, discover"
 hitta,verb,find,"encounter, locate, discover"
 uppdaga,verb,find,"encounter, locate, discover"
 upptäcka,verb,find,"encounter, locate, discover"
 utröna,verb,find,"encounter, locate, discover"
+finna,verb,find,point out
+hitta,verb,find,point out
+finna,verb,find,decide that
+konstatera,verb,find,decide that
+finna,verb,find,"determine, judge"
+konstatera,verb,find,"determine, judge"
 fin,adj,fine,of superior quality
 framstående,adj,fine,of superior quality
 härlig,adj,fine,of superior quality
@@ -407,64 +1066,236 @@ präktig,adj,fine,of superior quality
 skicklig,adj,fine,of superior quality
 utmärkt,adj,fine,of superior quality
 utsökt,adj,fine,of superior quality
+fin,adj,fine,of weather: sunny and not raining
+härlig,adj,fine,of weather: sunny and not raining
+bra,adj,fine,"being acceptable, adequate, passable, or satisfactory"
+grann,adj,fine,"good-looking, attractive"
+prydlig,adj,fine,"good-looking, attractive"
+stilig,adj,fine,"good-looking, attractive"
+ståtlig,adj,fine,"good-looking, attractive"
+vacker,adj,fine,"good-looking, attractive"
+fin,adj,fine,made up of particularly small pieces
+finkornig,adj,fine,made up of particularly small pieces
+fin,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
+liten,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
+nätt,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
+smal,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
+späd,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
+fin,adj,fine,made of slender or thin filaments
+fintrådig,adj,fine,made of slender or thin filaments
 slutföra,verb,finish,to complete
 fullfölja,verb,finish,to complete
 gå i mål,verb,finish,to complete
 avsluta,verb,finish,to complete
+sluta,verb,finish,to come to an end
 eld,noun,fire,oxidation reaction
 brand,noun,fire,oxidation reaction
+eld,noun,fire,instance of this chemical reaction
+brasa,noun,fire,instance of this chemical reaction
+bål,noun,fire,instance of this chemical reaction
+brasa,noun,fire,damaging occurrence of fire
+brand,noun,fire,damaging occurrence of fire
+eld,noun,fire,alchemy: one of the basic elements
+spis,noun,fire,heater or stove used in place of real fire
+ugn,noun,fire,heater or stove used in place of real fire
+eld,noun,fire,in-flight bullets
+beskjutning,noun,fire,in-flight bullets
 först,adv,first,before anything else
 fisk,noun,fish,vertebrate animal
+fiskar,noun,fish,collective plural of fish
+fisk,noun,fish,flesh of fish as food
+fiske,noun,fish,period of time spent fishing
 flykt,noun,flight,act of fleeing
 flyg,noun,flight,act of flying
+flight,noun,flight,journey made by an aircraft
 golv,noun,floor,bottom part of a room
+ord,noun,floor,right to speak
 blomma,noun,flower,reproductive structure in angiosperms
 flyga,verb,fly,to travel through air
+fly,verb,fly,to flee
+flyga,verb,fly,to cause to travel through the air
 följa,verb,follow,to go or come after in physical space
+följa,verb,follow,to go or come after in a sequence
+följa,verb,follow,to carry out in accordance to
+följa,verb,follow,to live one’s life according to
+hänga med,verb,follow,to understand
+förstå,verb,follow,to understand
+fatta,verb,follow,to understand
+haja,verb,follow,to understand
+följa,verb,follow,to be a logical consequence of
 mat,noun,food,any substance consumed by living organisms to sustain life
 föda,noun,food,any substance consumed by living organisms to sustain life
+föda,noun,food,anything intended to supply energy or nourishment of other forms
+matvara,noun,food,foodstuff
+födoämne,noun,food,foodstuff
+livsmedel,noun,food,foodstuff
 fot,noun,foot,part of human body
+fot,noun,foot,part of animal’s body
+hov,noun,foot,part of animal’s body
+klöv,noun,foot,part of animal’s body
+tass,noun,foot,part of animal’s body
+fot,noun,foot,bottom of anything
+ben,noun,foot,bottom of anything
+fot,noun,foot,projection on equipment
+ben,noun,foot,projection on equipment
+fot,noun,foot,unit of measure
 fotboll,noun,football,association football
+fotboll,noun,football,ball
 glömma,verb,forget,to lose remembrance of
 förgäta,verb,forget,to lose remembrance of
+glömma,verb,forget,to unintentionally not do
+glömma,verb,forget,to leave behind
+glömma,verb,forget,to cease remembering
 forma,verb,form,to give shape
+forma,verb,form,"to constitute, to compose"
 fri,adj,free,not imprisoned
+fri,adj,free,unconstrained
+ledig,adj,free,not in use
+fri,adj,free,without obligations
+fri,adj,free,software: with very few limitations on distribution or improvement
 kamrat,noun,friend,person whose company one enjoys
 vän,noun,friend,person whose company one enjoys
 väninna,noun,friend,person whose company one enjoys
+pojkvän,noun,friend,boyfriend or girlfriend
+flickvän,noun,friend,boyfriend or girlfriend
+bekant,noun,friend,person with whom you are acquainted
+vän,noun,friend,person with whom you are acquainted
+väninna,noun,friend,person with whom you are acquainted
+allierad,noun,friend,person who provides assistance
+vän,noun,friend,person who provides assistance
+väninna,noun,friend,person who provides assistance
+anhängare,noun,friend,person who backs something
+vän,noun,friend,person who backs something
+väninna,noun,friend,person who backs something
 vänlig,adj,friendly,"approachable, warm"
+vänlig,adj,friendly,characteristic of friendliness
 frukt,noun,fruit,part of plant
+frukt,noun,fruit,food
+avkastning,noun,fruit,figuratively: positive end result or reward of labour or effort
+behållning,noun,fruit,figuratively: positive end result or reward of labour or effort
+frukt,noun,fruit,figuratively: positive end result or reward of labour or effort
+nytta,noun,fruit,figuratively: positive end result or reward of labour or effort
+produkt,noun,fruit,figuratively: positive end result or reward of labour or effort
+resultat,noun,fruit,figuratively: positive end result or reward of labour or effort
+avkomma,noun,fruit,figuratively: child of a marriage
+frukt,noun,fruit,figuratively: child of a marriage
+livsfrukt,noun,fruit,figuratively: child of a marriage
+bög,noun,fruit,offensive slang: homosexual or effeminate man
+fikus,noun,fruit,offensive slang: homosexual or effeminate man
 full,adj,full,containing the maximum possible amount
+fullödig,adj,full,complete
+fullständig,adj,full,complete
+mätt,adj,full,"satisfied, in relation to eating"
 skoj,noun,fun,enjoyment or amusement
 rolig,adj,funny,amusing; comical
 komisk,adj,funny,amusing; comical
 lustig,adj,funny,amusing; comical
 skojig,adj,funny,amusing; comical
+konstig,adj,funny,strange; unusual
+märklig,adj,funny,strange; unusual
+underlig,adj,funny,strange; unusual
+sällsam,adj,funny,strange; unusual
 framtid,noun,future,the time ahead
 spel,noun,game,"playful activity that may be unstructured, amusement, pastime"
 lek,noun,game,"playful activity that may be unstructured, amusement, pastime"
+spel,noun,game,particular instance of playing a game; match
+match,noun,game,particular instance of playing a game; match
+vilt,noun,game,wild animals hunted for food
+byte,noun,game,wild animals hunted for food
+villebråd,noun,game,wild animals hunted for food
 trädgård,noun,garden,piece of land outside with flowers and plants
+park,noun,garden,gardens with public access
+tomt,noun,garden,grounds at the front or back of a house
+trädgård,noun,garden,grounds at the front or back of a house
 geografi,noun,geography,study of physical structure and inhabitants of the Earth
 få,verb,get,to obtain
 skaffa,verb,get,to obtain
+få,verb,get,to receive
+ta emot,verb,get,to receive
+emottaga,verb,get,to receive
+mottaga,verb,get,to receive
+motta,verb,get,to receive
+erhålla,verb,get,to receive
+bli,verb,get,to become
+få,verb,get,to cause to become
+göra,verb,get,to cause to become
+hämta,verb,get,to fetch
+ta på,verb,get,to don
+få på,verb,get,to don
+ta av,verb,get,to doff
+få av,verb,get,to doff
+få,verb,get,to cause to do
+nå,verb,get,to arrive at
+komma,verb,get,to arrive at
+anlända,verb,get,to arrive at
+börja,verb,get,to begin
+ta,verb,get,"to take, catch (transportation)"
+få,verb,get,"to be able to, be permitted, have opportunity"
+kunna,verb,get,"to be able to, be permitted, have opportunity"
+fatta,verb,get,colloquial: to understand
+haja,verb,get,colloquial: to understand
+begripa,verb,get,colloquial: to understand
+bli,verb,get,colloquial: to be
+bli,verb,get,to become ill with
+få,verb,get,to find as an answer
+få,verb,get,to bring to reckoning
+fånga,verb,get,to bring to reckoning
+uppfatta,verb,get,to hear completely
+fatta,verb,get,to hear completely
+höra,verb,get,to hear completely
 flicka,noun,girl,young female person
 tjej,noun,girl,young female person
 jänta,noun,girl,young female person
 tös,noun,girl,young female person
+tjej,noun,girl,woman — see also woman
+piga,noun,girl,female servant
+tjänsteflicka,noun,girl,female servant
 flickvän,noun,girlfriend,a female partner in a romantic relationship
 tjej,noun,girlfriend,a female partner in a romantic relationship
 kärasta,noun,girlfriend,a female partner in a romantic relationship
+väninna,noun,girlfriend,a female friend
+tjejkompis,noun,girlfriend,a female friend
 ge,verb,give,transfer the possession of something to someone else
 giva,verb,give,transfer the possession of something to someone else
+ge efter,verb,give,bend slightly when a force is applied
 glas,noun,glass,substance
+glas,noun,glass,drinking vessel
 gå,verb,go,to move through space (especially from one place to another)
 åka,verb,go,to move through space (especially from one place to another)
 resa,verb,go,to move through space (especially from one place to another)
 fara,verb,go,to move through space (especially from one place to another)
+gå,verb,go,"of a machine, to work"
+fungera,verb,go,"of a machine, to work"
+bli,verb,go,to become
+försvinna,verb,go,to disappear
+förstöras,verb,go,to be destroyed
+ljuda,verb,go,to make (a specified sound)
+låta,verb,go,to make (a specified sound)
+säga,verb,go,to make (a specified sound)
+passa,verb,go,to fit
+gå,verb,go,to fit
+gå ut (med),verb,go,to date
+dejta,verb,go,to date
+heja,verb,go,imperative: expressing encouragement or approval
 god,adj,good,acting in the interest of good; ethical good intentions
 bra,adj,good,acting in the interest of good; ethical good intentions
+bra,adj,good,useful for a particular purpose
+bra,adj,good,"of food, edible; not stale or rotten"
+god,adj,good,"of food, having a particularly pleasant taste"
+bra,adj,good,healthful
+nyttig,adj,good,healthful
+bra,adj,good,pleasant; enjoyable
+bra,adj,good,"of people, competent or talented"
+bra,adj,good,effective
+god,adj,good,effective
+bra,adj,good,favorable
+god,adj,good,favorable
+bra,adj,good,beneficial; worthwhile
+god,adj,good,beneficial; worthwhile
+dryg,adj,good,full; entire; at least
 farfar,noun,grandfather,grandfather (from either side)
 morfar,noun,grandfather,grandfather (from either side)
+förfader,noun,grandfather,male forefather
 farmor,noun,grandmother,mother of someone's parent
 mormor,noun,grandmother,mother of someone's parent
 see also farfar,noun,grandparent,parent of one's parent
@@ -474,18 +1305,50 @@ mormor.,noun,grandparent,parent of one's parent
 grå,noun,gray,colour
 gray,noun,gray,SI unit of absorbed radiation
 stor,adj,great,"very big, large scale"
+jättebra,adj,great,very good
+stor,adj,great,important title
 grönt,noun,green,colour
+grön,noun,green,member of a green party
 grupp,noun,group,number of things or persons being in some relation to each other
+grupp,noun,group,in group theory
+grupp,noun,group,people who perform music together
+hop,noun,group,small number of galaxies
+grupp,noun,group,column in the periodic table
+grupp,noun,group,in Unix
+grupp,noun,group,"a set of teams playing against each other in a division, while at the same not playing against other sets of teams of the same division."
 växa,verb,grow,(intransitive) to become bigger
+växa,verb,grow,(intransitive) to appear or sprout
+odla,verb,grow,(transitive) to cause something to become bigger
 gissning,noun,guess,prediction about the outcome of something
 gitarr,noun,guitar,musical instrument
 gym,noun,gym,sporting facility specialized for lifting weights and exercise
 hårstrå,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+hår,noun,hair,mass of such filaments on the human head
+hår,noun,hair,mass of such filaments growing from the skin of humans and animals
 hälft,noun,half,one of two equal parts into which anything may be divided
 halva,noun,half,one of two equal parts into which anything may be divided
 halvlek,noun,half,one of two equal parts into which anything may be divided
 planhalva,noun,half,one of two equal parts into which anything may be divided
+halva,noun,half,math: fraction
+del,noun,half,part; side; behalf
 hand,noun,hand,part of the fore limb
+visare,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+tvärhand,noun,hand,hand's breadth
+sida,noun,hand,"side; part; direction, either right or left"
+flank,noun,hand,"side; part; direction, either right or left"
+förmåga,noun,hand,power of performance; means of execution; ability; skill; dexterity
+skicklighet,noun,hand,power of performance; means of execution; ability; skill; dexterity
+handlag,noun,hand,power of performance; means of execution; ability; skill; dexterity
+hjälp,noun,hand,instance of helping
+handtag,noun,hand,instance of helping
+handstil,noun,hand,handwriting; style of penmanship
+namnteckning,noun,hand,person's autograph or signature
+underskrift,noun,hand,person's autograph or signature
+hand,noun,hand,"management, domain, control"
+hand,noun,hand,set of cards held by a player in a card game
+bunt,noun,hand,bundle of tobacco leaves
+klase,noun,hand,bunch of bananas
+applåd,noun,hand,applause
 hända,verb,happen,to occur
 ske,verb,happen,to occur
 inträffa,verb,happen,to occur
@@ -493,30 +1356,79 @@ inträffa,verb,happen,to occur
 förekomma,verb,happen,to occur
 glad,adj,happy,"contented, joyous"
 lycklig,adj,happy,"contented, joyous"
+gynnsam,adj,happy,"fortunate, lucky"
+lyckad,adj,happy,"fortunate, lucky"
+nöjd,adj,happy,content (to do something); having no objection (to something)
+nöjd,adj,happy,content (to do something); having no objection (to something)
 hatt,noun,hat,a head covering
 mössa,noun,hat,a head covering
 hata,verb,hate,to dislike intensely
 äga,verb,have,to possess
 ha,verb,have,to possess
+ha,verb,have,used to state the existence or presence of someone in a specified relationship with the subject
+ha,verb,have,auxiliary used in forming the perfect and the past perfect tenses
+få,verb,have,"cause to, by command or request"
+få,verb,have,cause to be
 huvud,noun,head,part of the body
 skalle,noun,head,part of the body
+huvud,noun,head,mental aptitude or skill
+förmåga,noun,head,mental aptitude or skill
+spets,noun,head,topmost or leading part
+topp,noun,head,topmost or leading part
+övre ända,noun,head,topmost or leading part
+huvud,noun,head,topmost or leading part
+huvud,noun,head,"end of hammer, axe, golf club etc."
+huvud,noun,head,"blunt end of a nail, screw etc."
+bornyr,noun,head,foam on carbonated beverages
+fradga,noun,head,foam on carbonated beverages
+skum,noun,head,foam on carbonated beverages
+ledare,noun,head,"leader, chief, mastermind"
+chef,noun,head,"leader, chief, mastermind"
+direktör,noun,head,"leader, chief, mastermind"
+föreståndare,noun,head,"leader, chief, mastermind"
+rektor,noun,head,"headmaster, headmistress"
+krona,noun,head,leafy top part of a tree
 hälsa,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+hälsa,noun,health,physical condition
+hälsa,noun,health,overall level of function of an organism
 frisk,adj,healthy,enjoying good health
+hälsosam,adj,healthy,conducive to health
+hälsosam,adj,healthy,evincing health
 höra,verb,hear,to perceive with the ear
+höra,verb,hear,to perceive sounds through the ear
 hjälp,noun,help,action given to provide assistance
+medhjälpare,noun,help,person or persons who provides assistance with some task
 här,adv,here,"in, on, or at this place"
+hit,adv,here,to this place
+hitåt,adv,here,to this place
 hög,adj,high,elevated; tall
+hög,adj,high,of great or large quantity
+hög,adj,high,acoustics: of greater frequency
+ljus,adj,high,acoustics: of greater frequency
+hög,adj,high,slang: under the influence of drugs
 historia,noun,history,aggregate of past events
+historia,noun,history,branch of knowledge that studies the past
+berättelse,noun,history,record or narrative description of past events
+historia,noun,history,record or narrative description of past events
+historik,noun,history,medicine: list of past and continuing medical conditions
+historik,noun,history,computing: record of previous user events
 hobby,noun,hobby,activity done for enjoyment in spare time
 lärkfalk,noun,hobby,Falco subbuteo
 hemma,adv,home,at home
+hem,adv,home,homewards
+hemåt,adv,home,homewards
 läxa,noun,homework,work that is done at home
 hemläxa,noun,homework,work that is done at home
 hemuppgift,noun,homework,work that is done at home
+hemläxa,noun,homework,preliminary or preparatory work
 hoppas,verb,hope,"to want something to happen, with expectation that it might"
 häst,noun,horse,members of the species Equus ferus
 russ,noun,horse,members of the species Equus ferus
 fåle,noun,horse,members of the species Equus ferus
+hästdjur,noun,horse,related or similar species
+bock,noun,horse,gymnastic equipment
+springare,noun,horse,knight in chess — see also knight
+häst,noun,horse,knight in chess — see also knight
 horse,noun,horse,slang: heroin
 häst,noun,horse,slang: heroin
 jonk,noun,horse,slang: heroin
@@ -524,112 +1436,296 @@ sjukhus,noun,hospital,large medical facility
 lasarett,noun,hospital,large medical facility
 het,adj,hot,having a high temperature
 varm,adj,hot,having a high temperature
+varm,adj,hot,of the weather
+het,adj,hot,of the weather
+varm,adj,hot,feeling the sensation of heat
+het,adj,hot,feverish
+varm,adj,hot,feverish
+febrig,adj,hot,feverish
+het,adj,hot,spicy
+kryddstark,adj,hot,spicy
+stulen,adj,hot,slang: stolen
+het,adj,hot,radioactive
+het,adj,hot,slang: physically very attractive
+het,adj,hot,"popular, in demand"
+häftig,adj,hot,"popular, in demand"
+fräck,adj,hot,"popular, in demand"
+tuff,adj,hot,"popular, in demand"
 hotell,noun,hotel,establishment providing accommodation
+hotell,noun,hotel,red property in the game of Monopoly
 timme,noun,hour,time period of sixty minutes
 hus,noun,house,human abode
+hus,noun,house,archetypal structure of a human abode
+hus,noun,house,debating chamber for government politicians
+kammare,noun,house,debating chamber for government politicians
+hus,noun,house,"an establishment, business"
+hus,noun,house,"the inner workings, as of a clock"
+hus,noun,house,"dynasty, familiar descendance"
 hur,adv,how,to what degree
+hur,adv,how,in what manner
+så,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+vad,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 däremot,adv,however,nevertheless
 dock,adv,however,nevertheless
 emellertid,adv,however,nevertheless
 hungrig,adj,hungry,affected by hunger; desirous of food
+hungrig,adj,hungry,"eager, having a desire for something"
 make,noun,husband,male partner in marriage
 man,noun,husband,male partner in marriage
 is,noun,ice,water in frozen form
+is,noun,ice,frozen volatile chemical
+glass,noun,ice,frozen dessert
+isglass,noun,ice,frozen dessert
+is,noun,ice,ice hockey: area where game is played
 glass,noun,ice cream,dessert
+glasstrut,noun,ice cream,in a cone
+strutglass,noun,ice cream,in a cone
+idé,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+tanke,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+idé,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
 föreställa sig,verb,imagine,(transitive) to form a mental image of something
 viktig,adj,important,having relevant and crucial value
 betydelsefull,adj,important,having relevant and crucial value
 förbättra,verb,improve,to make something better
 bättra,verb,improve,to make something better
+bli bättre,verb,improve,to become better
+förbättras,verb,improve,to become better
 in,adv,in,moving to the interior
 ta med,verb,include,to bring into as a part or member
 inkludera,verb,include,to bring into as a part or member
 inberäkna,verb,include,to bring into as a part or member
+inkludera,verb,include,"to contain, as part of a whole"
+innefatta,verb,include,"to contain, as part of a whole"
 information,noun,information,communicable knowledge
 intressera,verb,interest,to attract attention or concern
 intressant,adj,interesting,arousing or holding the attention
 intervjua,verb,interview,to have an interview
 presentera,verb,introduce,to cause someone to be acquainted
+presentera,verb,introduce,to make something or someone known by formal announcement or recommendation
+införa,verb,introduce,to bring into practice — see also bring in
 ö,noun,island,area of land completely surrounded by water
+ö,noun,island,entity surrounded by other entities that are very different from itself
 jacka,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+kavaj,noun,jacket,piece of a person's suit
 jeans,noun,jeans,denim trousers
 uppgift,noun,job,task
 jobb,noun,job,task
 uppdrag,noun,job,task
+arbete,noun,job,economic role for which a person is paid
+jobb,noun,job,economic role for which a person is paid
+anställning,noun,job,economic role for which a person is paid
+tjänst,noun,job,economic role for which a person is paid
 sammanfoga,verb,join,to combine more than one item into one; to put together
 foga samman,verb,join,to combine more than one item into one; to put together
 slå samman,verb,join,to combine more than one item into one; to put together
 föra samman,verb,join,to combine more than one item into one; to put together
+mötas,verb,join,to come together; to meet
+förenas,verb,join,to come together; to meet
+följa med,verb,join,to come into the company of
+komma med,verb,join,to come into the company of
+hänga med,verb,join,to come into the company of
+göra sällskap,verb,join,to come into the company of
+gå med (i),verb,join,to become a member of
 juice,noun,juice,liquid from a plant
 saft,noun,juice,liquid from a plant
+juice,noun,juice,beverage made of juice
+saft,noun,juice,beverage made of juice
+jos,noun,juice,beverage made of juice
+kräm,noun,juice,slang: electricity
+soppa,noun,juice,slang: fuel
 bara,adv,just,"only, simply, merely"
+just,adv,just,"recently, moments ago"
+precis,adv,just,"recently, moments ago"
+nyss,adv,just,"recently, moments ago"
+precis,adv,just,"by a narrow margin, barely"
+precis,adv,just,"exactly, precisely, perfectly"
 hålla,verb,keep,to maintain possession of
 behålla,verb,keep,to maintain possession of
+hålla,verb,keep,to remain faithful to given word
+bevara,verb,keep,to maintain the condition of; to preserve
+preservera,verb,keep,to maintain the condition of; to preserve
+fortsätta,verb,keep,to continue
 nyckel-,adj,key,indispensable
 sort,noun,kind,"type, race, category"
 slag,noun,kind,"type, race, category"
 typ,noun,kind,"type, race, category"
 art,noun,kind,"type, race, category"
+natura,noun,kind,goods and services as payment
 kök,noun,kitchen,room
 veta,verb,know,be justifiably certain or sure about (something true)
+känna,verb,know,be acquainted or familiar with
+känna till,verb,know,be acquainted or familiar with
+veta om,verb,know,be acquainted or familiar with
+veta,verb,know,have knowledge of
+kunna,verb,know,understand (a subject)
+känna till,verb,know,be informed about
+veta om,verb,know,be informed about
+veta,verb,know,be informed about
 land,noun,land,part of Earth that is not covered by oceans or other bodies of water
+mark,noun,land,real estate or landed property
+land,noun,land,country or region
+fosterland,noun,land,someone's homeplace
+land,noun,land,ground that is suitable for farming
 språk,noun,language,body of words used as a form of communication
 tungomål,noun,language,body of words used as a form of communication
+tal,noun,language,the ability to communicate using words
+språk,noun,language,vocabulary of a particular field
+språk,noun,language,particular words used
+språk,noun,language,computer language — see also computer language
+datorspråk,noun,language,computer language — see also computer language
 stor,adj,large,of greater size — see also big
 sent,adv,late,past a designated time
 för sent,adv,late,past a designated time
 senare,adv,later,more late
+senare,adv,later,afterward in time
+senare,adv,later,at some unspecified time in the future
 skratt,noun,laugh,expression of mirth peculiar to the human species
 lära sig,verb,learn,to acquire knowledge or ability
+få reda på,verb,learn,to come to know; to become informed of; to find out
 lämna (kvar),verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+lämna efter sig,verb,leave,to transfer possession after death
+kvarlåta,verb,leave,to transfer possession after death
+lämna,verb,leave,"to depart from, end one's connection or affiliation with"
+åka,verb,leave,to depart (intransitive)
+avresa,verb,leave,to depart (intransitive)
+ge sig av,verb,leave,to depart (intransitive)
 vänster,noun,left,the left side
+vänster,noun,left,the ensemble of left-wing political parties
+vänstern,noun,left,the ensemble of left-wing political parties
 ben,noun,leg,lower limb from groin to ankle
+underben,noun,leg,portion of the lower appendage from knee to ankle
+ben,noun,leg,part of garment covering the leg
+etapp,noun,leg,stage of journey
+omgång,noun,leg,game played in a tournament
+runda,noun,leg,game played in a tournament
+katet,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
 lektion,noun,lesson,section of learning or teaching
+läxa,noun,lesson,learning task assigned to a student
+läxa,noun,lesson,something learned
+läxa,noun,lesson,something that serves as a warning or encouragement
 låta,verb,let,allow
 bokstav,noun,letter,a symbol in an alphabet
+brev,noun,letter,written message
 bibliotek,noun,library,"institution which holds books, etc."
+bibliotek,noun,library,collection of books
+arkiv,noun,library,collection of records
+bibliotek,noun,library,collection of subprograms
 ljuga,verb,lie,tell an intentional untruth
 ligga,verb,lie,be in horizontal position
+ligga,verb,lie,be situated
 liv,noun,life,the state of being alive
 levnad,noun,life,the state of being alive
+liv,noun,life,the essence of the manifestation and the foundation of the being
+liv,noun,life,the subjective and inner manifestation of the individual
+liv,noun,life,a worthwhile existence
+livstid,noun,life,life sentence
+livstidsstraff,noun,life,life sentence
 belyst,adj,light,having light
 ljus,adj,light,having light
+blek,adj,light,pale in colour
+ljus,adj,light,pale in colour
+med grädde,adj,light,coffee: served with extra milk or cream
+med mjölk,adj,light,coffee: served with extra milk or cream
 lätt,adj,light,of low weight
+lätt-,adj,light,"low in fat, calories, alcohol, salt, etc."
 tycka om,verb,like,to enjoy
 gilla,verb,like,to enjoy
+tycka om,verb,like,to find attractive
+gilla,verb,like,to find attractive
+gilla,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+lajka,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
 lina,noun,line,"rope, cord, or string"
+linje,noun,line,"path through two or more points, threadlike mark"
+linje,noun,line,geometry: infinite one-dimensional figure
+linje,noun,line,geometry: continuous finite segment of such a figure
+anslutning,noun,line,telephone or network connection
+linje,noun,line,telephone or network connection
+distributionsled,noun,line,"connected series of public conveyances, and hence, an established arrangement for forwarding merchandise, etc."
+linje,noun,line,"threadlike crease marking the face or the hand; hence, characteristic mark — see also wrinkle"
+kö,noun,line,"straight sequence of people, queue"
+led,noun,line,"straight sequence of people, queue"
+linje,noun,line,series or succession of ancestors or descendants of a given person
+rad,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+replik,noun,line,"sentence of dialogue, especially in a script or screenplay"
+produktlinje,noun,line,"products or services sold by a business, or the business itself"
+sortiment,noun,line,"products or services sold by a business, or the business itself"
 lejon,noun,lion,big cat Panthera leo
+lejon,noun,lion,heraldic charge
 lyssna,verb,listen,to pay attention to a sound
+lyssna,verb,listen,to expect or wait for a sound
+lyda,verb,listen,to accept advice or obey instruction
+lyssna,verb,listen,to hear (something)
 liten,adj,little,small in size
+ringa,adj,little,"insignificant, trivial"
+föga,adj,little,"insignificant, trivial"
+liten,adj,little,very young
+yngre,adj,little,(of a sibling) younger
+lille-,adj,little,(of a sibling) younger
 leva,verb,live,be alive
+bo,verb,live,have permanent residence
+leva,verb,live,"survive, persevere, continue"
 lokal,adj,local,of a nearby location
+lokal,adj,local,computing: having limited scope
+lokal,adj,local,medicine: of or pertaining to a restricted part of an organism
 långt,adv,long,over a great distance
+länge,adv,long,for a particular duration
+länge,adv,long,for a long duration
 titta,verb,look,to try to see
 se,verb,look,to try to see
 kika,verb,look,to try to see
 kolla,verb,look,to try to see
 spana,verb,look,to try to see
+se ut,verb,look,"to appear, to seem"
+verka,verb,look,"to appear, to seem"
+synas,verb,look,"to appear, to seem"
 förlora,verb,lose,cause (something) to cease to be in one's possession or capability
 tappa bort,verb,lose,cause (something) to cease to be in one's possession or capability
 tappa,verb,lose,cause (something) to cease to be in one's possession or capability
 mista,verb,lose,cause (something) to cease to be in one's possession or capability
 bliva av med,verb,lose,cause (something) to cease to be in one's possession or capability
 varda av med,verb,lose,cause (something) to cease to be in one's possession or capability
+förlora,verb,lose,(transitive) fail to win
+tappa,verb,lose,shed (weight)
+förlora,verb,lose,have (somebody of one's kin) die
+mista,verb,lose,have (somebody of one's kin) die
+tappa bort,verb,lose,be unable to follow or trace (somebody or something) any longer
+förlora,verb,lose,fail to be the winner
 älska,verb,love,have a strong affection for
+behöva,verb,love,"to need, thrive on"
+tycka om,verb,love,be strongly inclined towards doing
+älska,verb,love,be strongly inclined towards doing
+älska,verb,love,care about; will good for
+älska,verb,love,(euphemistic): to have sex with
+älska med,verb,love,(euphemistic): to have sex with
 lunch,noun,lunch,meal around midday
 middag,noun,lunch,meal around midday
 maskin,noun,machine,mechanical or electrical device
 tidskrift,noun,magazine,periodical
 magasin,noun,magazine,periodical
+magasin,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 huvudsaklig,adj,main,"chief, most important, or principal in extent, etc."
 generell,adj,main,"chief, most important, or principal in extent, etc."
 allmän,adj,main,"chief, most important, or principal in extent, etc."
 compounds with huvud,adj,main,"chief, most important, or principal in extent, etc."
 göra,verb,make,to construct
+tillverka,verb,make,to produce
+skapa,verb,make,to create
+forma,verb,make,to form
+göra,verb,make,to cause to be
+tjäna,verb,make,"to earn, to gain (money)"
 man,noun,man,adult male human
 karl,noun,man,adult male human
+människa,noun,man,a human being
+människa,noun,man,a human being
+mänska,noun,man,a human being
+spelpjäs,noun,man,piece in board games
+pjäs,noun,man,piece in board games
 karta,noun,map,visual representation of an area
 marknad,noun,market,gathering for trading
+marknad,noun,market,spacious site for trading
+marknad,noun,market,geographical area where a commercial demand exists
+marknad,noun,market,formally organized system of trading in specified goods or effects
+marknads-,noun,market,used attributively
 gift,adj,married,in a state of marriage; having a wife or a husband
 matcha,verb,match,intransitive: to agree; to be equal
 vara lika,verb,match,intransitive: to agree; to be equal
@@ -638,96 +1734,270 @@ kanske,adv,maybe,indicating a lack of certainty
 möjligen,adv,maybe,indicating a lack of certainty
 måhända,adv,maybe,indicating a lack of certainty
 kanhända,adv,maybe,indicating a lack of certainty
+kanske,adv,maybe,as a pro-sentence
+möjligen,adv,maybe,as a pro-sentence
 måltid,noun,meal,food that is prepared and eaten
 mål,noun,meal,food that is prepared and eaten
 mjöl,noun,meal,coarse-ground edible part of various grains
 tänka,verb,mean,to intend; plan on doing
+mena,verb,mean,to have intentions of some kind
+betyda,verb,mean,"to convey, indicate"
+innebära,verb,mean,"to convey, indicate"
+mena,verb,mean,to signify
+betyda,verb,mean,to signify
+syfta på,verb,mean,to signify
+mena,verb,mean,to have conviction in what one says
+betyda,verb,mean,to result in; bring about
+innebära,verb,mean,to result in; bring about
 mening,noun,meaning,symbolic value of something
 betydelse,noun,meaning,symbolic value of something
+mening,noun,meaning,"significance of a thing, as ""the meaning of life"""
+betydelse,noun,meaning,definition or connotation of a word
 kött,noun,meat,animal flesh used as food
+kött,noun,meat,type of meat
+kött,noun,meat,any sort of flesh
+kött,noun,meat,solid edible part of a plant
+fruktkött,noun,meat,solid edible part of a plant
 träffa,verb,meet,to come face to face with by accident; to encounter
 råka,verb,meet,to come face to face with by accident; to encounter
+träffa,verb,meet,to come face to face with someone by arrangement
+möta,verb,meet,to come face to face with someone by arrangement
+träffas,verb,meet,to get acquainted with
+mötas,verb,meet,to get acquainted with
+mötas,verb,meet,to gather for a formal or social discussion; to hold a meeting
+träffas,verb,meet,to gather for a formal or social discussion; to hold a meeting
+möta,verb,meet,sport: to play a match
+möta,verb,meet,to converge and finally touch or intersect
+uppfylla,verb,meet,to satisfy; to comply with
+möte,noun,meeting,gathering for a purpose
+sammanträde,noun,meeting,gathering for a purpose
+möte,noun,meeting,encounter between people
 medlem,noun,member,one who officially belongs to a group
+lem,noun,member,"organ, limb"
+manslem,noun,member,penis
+lem,noun,member,penis
 meny,noun,menu,details of the food to be served at a banquet
+meny,noun,menu,list of dishes offered in a restaurant
+matsedel,noun,menu,list of dishes offered in a restaurant
+meny,noun,menu,computing: list from which the user may select an operation to be performed
 meddelande,noun,message,"communication, concept or information conveyed"
 budskap,noun,message,"communication, concept or information conveyed"
 mätare,noun,meter,measuring instrument
 -meter,noun,meter,measuring instrument
+mätare,noun,meter,short form of parking meter
+takt,noun,meter,increment of music
+taktart,noun,meter,increment of music
+versmått,noun,meter,rhythm of poetry
+midnatt,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 mil,noun,mile,measure of length
 engelsk mil,noun,mile,measure of length
 mjölk,noun,milk,liquid
 minut,noun,minute,unit of time
+ögonblick,noun,minute,short but unspecified period of time
+minut,noun,minute,unit of angular measure — see also minute of angle
+bågminut,noun,minute,unit of angular measure — see also minute of angle
+protokoll,noun,minute,record of meeting
+minut,noun,minute,minute of use of telephone network
 bomma,verb,miss,to fail to hit
 missa,verb,miss,to fail to hit
+undvika,verb,miss,to avoid; to escape
+sakna,verb,miss,to feel the absence of someone or something; to feel the want or need of
+missa,verb,miss,to fail to understand
+förbise,verb,miss,"to fail to notice, to overlook"
+missa,verb,miss,to fail to attend
+missa,verb,miss,to be late for something
 fel,noun,mistake,an error
 miss,noun,mistake,an error
 misstag,noun,mistake,an error
 modell,noun,model,person
 fotomodell,noun,model,person
 mannekäng,noun,model,person
+modell,noun,model,miniature
+modell,noun,model,simplified representation
+modell,noun,model,style
+littera,noun,model,style
+modell,noun,model,structural design
+förebild,noun,model,praiseworthy example
+föredöme,noun,model,praiseworthy example
 modern,adj,modern,pertaining to the current time and style
 nutida,adj,modern,pertaining to the current time and style
+modern,adj,modern,pertaining to history from c. 1800 onwards
 momang,noun,moment,very brief period of time
 ögonblick,noun,moment,very brief period of time
 moment,noun,moment,very brief period of time
+moment,noun,moment,moment of force
+kraftmoment,noun,moment,moment of force
+vridmoment,noun,moment,moment of force
 pengar,noun,money,means of exchange and measure of value
+valuta,noun,money,currency
+kontanter,noun,money,hard cash
 månad,noun,month,period into which a year is divided
 morgon,noun,morning,part of the day between dawn and midday
 förmiddag,noun,morning,part of the day between dawn and midday
+morgon,noun,morning,the part of the day after midnight and before midday
 mor,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 moder,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 mamma,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+mor,noun,mother,one’s female parent
+tant,noun,mother,any elderly woman
+gumma,noun,mother,any elderly woman
 berg,noun,mountain,large mass of earth and rock
+berg,noun,mountain,large amount
 mus,noun,mouse,rodent of the genus Mus
+mus,noun,mouse,computing: input device
+datormus,noun,mouse,computing: input device
 mun,noun,mouth,the opening of a creature through which food is ingested
 käft,noun,mouth,the opening of a creature through which food is ingested
+mynning,noun,mouth,"an outlet, aperture or orifice"
+mynning,noun,mouth,the end of a river out of which water flows
+åmynning,noun,mouth,the end of a river out of which water flows
+flodmynning,noun,mouth,the end of a river out of which water flows
 flytta sig,verb,move,(intransitive) to change place or posture; to go
 flytta på sig,verb,move,(intransitive) to change place or posture; to go
 röra sig,verb,move,(intransitive) to change place or posture; to go
 röra på sig,verb,move,(intransitive) to change place or posture; to go
+flytta,verb,move,to change residence
+flytta,verb,move,(transitive) to change the place of something
+flytta,verb,move,to cause to change place or posture; to set in motion
+röra (sig),verb,move,to cause to change place or posture; to set in motion
+flytta,verb,move,to transfer from one space or position to another
+röra,verb,move,to arouse the feelings or passions of
+föreslå,verb,move,to propose; to recommend
 film,noun,movie,motion picture
 museum,noun,museum,building or institution
 musik,noun,music,"sound, organized in time in a melodious way"
+musik,noun,music,any pleasing or interesting sounds
 måste,verb,must,be required to
 döpa,verb,name,to give a name to
 namnge,verb,name,to give a name to
+nämna,verb,name,"to mention, specify"
+nämna,verb,name,"to identify, define, specify"
+nämna,verb,name,to publicly implicate
+utnämna,verb,name,to designate for a role
+naturlig,adj,natural,of or relating to nature
 behöva,verb,need,to have an absolute requirement for
+måste,verb,need,to be obliged to
+nödgas,verb,need,to be obliged to
 negativ,adj,negative,not positive or neutral
+negativ,adj,negative,of electrical charge
+negativ,adj,negative,mathematics: less than zero
 grannskap,noun,neighborhood,quality of being a neighbor
+grannskap,noun,neighborhood,area near one's home
+kvarter,noun,neighborhood,area near one's home
+bostadsområde,noun,neighborhood,division of a municipality or region
+närhet,noun,neighborhood,quality of physical proximity
+grannsämja,noun,neighborhood,neighborly kindness or good will
+omgivning,noun,neighborhood,topology: set containing an open set which contains some specified point
 aldrig,adv,never,at no time
 ny,adj,new,recently made or created
+ny,adj,new,"additional, recently discovered"
+nyupptäckt,adj,new,"additional, recently discovered"
+ny,adj,new,current or later
+ny,adj,new,distinguishing something established more recently
+ny,adj,new,"in original condition, pristine"
+ny,adj,new,"refreshed, reinvigorated"
+ny,adj,new,newborn
+ny,adj,new,of recent origin
+ny,adj,new,"strange, unfamiliar"
+ny,adj,new,recently arrived or appeared
+ny,adj,new,"inexperienced, unaccustomed"
 nyhet,noun,news,new information of interest
 nyheter,noun,news,new information of interest
+nyheter,noun,news,reports of current events
 tidning,noun,newspaper,publication
 dagstidning,noun,newspaper,publication
 morgontidning,noun,newspaper,publication
 kvällstidning,noun,newspaper,publication
+tidningspapper,noun,newspaper,paper on which newspapers are printed
 näst,adv,next,"In a time, place or sequence closest or following"
+härnäst,adv,next,On the first subsequent occasion
 vänlig,adj,nice,"pleasant, satisfactory"
 sympatisk,adj,nice,"pleasant, satisfactory"
 trevlig,adj,nice,"pleasant, satisfactory"
+fin,adj,nice,"attractive, friendly"
+vacker,adj,nice,"attractive, friendly"
+god,adj,nice,having a pleasant taste or aroma
+smaklig,adj,nice,having a pleasant taste or aroma
+läcker,adj,nice,having a pleasant taste or aroma
+fin,adj,nice,showing or requiring great precision or sensitive discernment
 natt,noun,night,period between sunset and sunrise
+övernattning,noun,night,night spent away from home
+skymning,noun,night,nightfall
+mörker,noun,night,darkness
 näsa,noun,nose,protuberance on the face
+nos,noun,nose,"snout, nose of an animal"
+nos,noun,nose,tip of an object
+spets,noun,nose,tip of an object
+noslängd,noun,nose,length of a horse’s nose
+näsa,noun,nose,skill in recognising bouquet
+väderkorn,noun,nose,skill at finding information
 inte,adv,not,negates meaning of another word
 ej,adv,not,negates meaning of another word
 icke,adv,not,negates meaning of another word
+not,noun,note,marginal comment or explanation
+anteckning,noun,note,marginal comment or explanation
+anteckning,noun,note,memorandum
+lapp,noun,note,memorandum
+not,noun,note,short informal letter
+lapp,noun,note,short informal letter
+meddelande,noun,note,short informal letter
+brev,noun,note,short informal letter
+not,noun,note,character indicating the length and pitch of a tone
+not,noun,note,musical sound
 nu,adv,now,at the present time
+nu,adv,now,(word to introduce a point)
 tal,noun,number,abstract entity used to describe quantity
+tal,noun,number,numeral
+heltal,noun,number,mathematics: number
+nummer,noun,number,used to show the rank of something in a list or sequence
+antal,noun,number,quantity
+numerär,noun,number,quantity
+littera,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+nummer,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+nummer,noun,number,informal: telephone number
+numerus,noun,number,"grammar: state of being singular, dual or plural"
+nummer,noun,number,performance
+nummer,noun,number,issue of a periodical publication
 sjuksköterska,noun,nurse,person trained to provide care for the sick
 sjukskötare,noun,nurse,person trained to provide care for the sick
 objekt,noun,object,thing
 föremål,noun,object,thing
+objekt,noun,object,in grammar
+föremål,noun,object,person or thing to which an emotion is directed
+objekt,noun,object,object-oriented programming: instantiation of a class or structure
 ocean,noun,ocean,one of the large bodies of water
 världshav,noun,ocean,one of the large bodies of water
+kontor,noun,office,room(s) or building used for non-manual work
+byrå,noun,office,room(s) or building used for non-manual work
+byrå,noun,office,major governmental division
 ofta,adv,often,"frequently, many times"
 gammal,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+gammal,adj,old,of a living being: having lived for relatively many years
+åldrig,adj,old,of a living being: having lived for relatively many years
+ålderstigen,adj,old,of a living being: having lived for relatively many years
+tidigare,adj,old,former
+före detta,adj,old,former
+gammal,adj,old,having existed or lived for the specified time
 på,adv,on,to an operating state
+på,adv,on,continuing an action
+vidare,adv,on,continuing an action
+vidare,adv,on,"along, forwards (continuing an action)"
 en gång,adv,once,one and only one time
+tidigare,adv,once,formerly
+förut,adv,once,formerly
+en gång,adv,once,formerly
+för ut,adv,once,formerly
 lök,noun,onion,Allium cepa
 gullök,noun,onion,Allium cepa
 bara,adv,only,without others or anything further; exclusively
 endast,adv,only,without others or anything further; exclusively
 öppna,verb,open,to make something accessible
+öppna,verb,open,to make accessible to customers
+öppna,verb,open,to begin conducting business
+inleda,verb,open,to start (a campaign)
+ta upp,verb,open,to bring up (a topic)
+öppnas,verb,open,to become open
+öppna sig,verb,open,to become open
 mening,noun,opinion,thought a person has formed about a topic
 uppfattning,noun,opinion,thought a person has formed about a topic
 omdöme,noun,opinion,thought a person has formed about a topic
@@ -738,11 +2008,35 @@ orange,adj,orange,having the colour of the fruit of an orange tree
 brandgul,adj,orange,having the colour of the fruit of an orange tree
 apelsinfärgad,adj,orange,having the colour of the fruit of an orange tree
 ordna,verb,order,to set in (any) order
+ordna,verb,order,to set in (a good) order
+ge order,verb,order,to issue a command
+beordra,verb,order,to issue a command
+beställa,verb,order,to request some product or service
+lägga en order,verb,order,to request some product or service
 ur,adv,out,away from the inside or the centre
 utur,adv,out,away from the inside or the centre
+ute,adv,out,away from one's usual place or not indoors
+undan,adv,out,"away from, at a distance"
+borta,adv,out,"away from, at a distance"
+ur vägen,adv,out,"away from, at a distance"
+ur,adv,out,into a state of non-operation or non-existence
+ut,adv,out,into a state of non-operation or non-existence
+av,adv,out,into a state of non-operation or non-existence
+ut,adv,out,to the end
+ut,adv,out,"intensifier, emphasizer"
 ut,adv,outside,in or to the outside
 ute,adv,outside,in or to the outside
 utanför,adv,outside,in or to the outside
+ute,adv,outside,outdoors
+utanför,adv,outside,outdoors
+utomhus,adv,outside,outdoors
+över,adv,over,horizontally; from one place to another
+omkull,adv,over,from upright to horizontal position
+för,adv,over,to an excessive degree
+över-,adv,over,to an excessive degree
+över,adv,over,overnight
+igen,adv,over,again
+åter,adv,over,again
 egen,adj,own,belonging to (determiner)
 page,noun,page,serving boy
 sida,noun,page,one side of a leaf of a book
@@ -750,35 +2044,99 @@ blad,noun,page,one side of a leaf of a book
 färg,noun,paint,substance
 målarfärg,noun,paint,substance
 målning,noun,painting,an illustration or artwork using paint
+måleri,noun,painting,the action of applying paint
+målning,noun,painting,the action of applying paint
+måleri,noun,painting,artistic application of paint
 par,noun,pair,two similar or identical things
 byxa,noun,pants,garment covering the body from the waist downwards
+underbyxa,noun,pants,undergarment covering the genitals
+kalsonger,noun,pants,undergarment covering the genitals
+trosor,noun,pants,undergarment covering the genitals
 papper,noun,paper,sheet material
+artikel,noun,paper,written document shorter than a book
+artikel,noun,paper,academic paper
+papper,noun,paper,academic paper
 stycke,noun,paragraph,passage in text
 avsnitt,noun,paragraph,passage in text
 paragraf,noun,paragraph,passage in text
 förälder,noun,parent,person from whom one is descended
+förälder,noun,parent,person who acts as a parent in rearing a child — see also guardian
 parkera,verb,park,bring (a vehicle) to a halt
 stanna,verb,park,bring (a vehicle) to a halt
 del,noun,part,fraction of a whole
+del,noun,part,group inside a larger group
+del,noun,part,section of a document
+roll,noun,part,"position or role, especially in a play"
+stämma,noun,part,"music: melody played or sung by a particular instrument, voice, or group of instruments or voices"
+bena,noun,part,hair dividing line
 partner,noun,partner,someone who is associated with another in a common activity or interest
+kompanjon,noun,partner,a member of a business or law partnership
+partner,noun,partner,a member of a business or law partnership
+partner,noun,partner,"spouse, domestic, or romantic partner"
+äkta hälft,noun,partner,"spouse, domestic, or romantic partner"
+partner,noun,partner,dancing partner
 part,noun,party,law: particular side in a contract or legal action
+fest,noun,party,social gathering
+party,noun,party,social gathering
+kalas,noun,party,social gathering
+partaj,noun,party,social gathering
+firande,noun,party,social gathering
 pass,noun,passport,official document for foreign travel
 förflutna,noun,past,period of time that has already happened
 dåtid,noun,past,period of time that has already happened
+preteritum,noun,past,(grammar) past tense
+dåtid,noun,past,(grammar) past tense
+förfluten tid,noun,past,(grammar) past tense
+imperfekt,noun,past,(grammar) past tense
 betala,verb,pay,to give money in exchange for goods or services
 erlägga,verb,pay,to give money in exchange for goods or services
+betala sig,verb,pay,to be profitable
+löna sig,verb,pay,to be profitable
 penna,noun,pen,writing tool
 bläckpenna,noun,pen,writing tool
 hage,noun,pen,enclosure (enclosed area) for animals
 blyertspenna,noun,pencil,graphite writing-instrument
 penna,noun,pencil,graphite writing-instrument
 folk,noun,people,a body of human beings; a group of two or more persons
+folk,noun,people,a group of persons forming or belonging to a particular nation etc.
+folkslag,noun,people,a group of persons forming or belonging to a particular nation etc.
+folk,noun,people,a group of persons regarded as being employees etc.
+släkt,noun,people,"a person's ancestors, relatives or family"
+anhörig,noun,people,"a person's ancestors, relatives or family"
+folk,noun,people,the mass of community as distinguished from a special class
 pepparväxt,noun,pepper,plant
+peppar,noun,pepper,spice
+chilipeppar,noun,pepper,fruit of the capsicum
+paprika,noun,pepper,fruit of the capsicum
 fullkomlig,adj,perfect,fitting its definition precisely
 fulländad,adj,perfect,fitting its definition precisely
 perfekt,adj,perfect,fitting its definition precisely
+fullkomlig,adj,perfect,having all of its parts in harmony with a common purpose
+fulländad,adj,perfect,having all of its parts in harmony with a common purpose
+perfekt,adj,perfect,having all of its parts in harmony with a common purpose
+felfri,adj,perfect,without fault or mistake
+perfekt,adj,perfect,without fault or mistake
+fullkomlig,adj,perfect,thoroughly skilled or talented
+fulländad,adj,perfect,thoroughly skilled or talented
+perfekt,adj,perfect,thoroughly skilled or talented
+fantastisk,adj,perfect,excellent and delightful in all respects
+perfekt,adj,perfect,excellent and delightful in all respects
+väldigt fin,adj,perfect,excellent and delightful in all respects
+underbar,adj,perfect,excellent and delightful in all respects
+utmärkt,adj,perfect,excellent and delightful in all respects
+perfekt,adj,perfect,grammar: of a tense or verb form: representing a completed action
+fullt utvecklad,adj,perfect,biology: sexually mature and fully differentiated
 period,noun,period,a length of time
+period,noun,period,history: period of time seen as coherent entity
+tidsperiod,noun,period,history: period of time seen as coherent entity
+punkt,noun,period,punctation mark “.”
+period,noun,period,chemistry: row in the periodic table
+period,noun,period,geochronologic unit
 person,noun,person,individual
+person,noun,person,"specifically a human being — see also human, human being, man"
+person,noun,person,Christianity: any one of the three hypostases of the God
+person,noun,person,grammar: linguistic category
+personlig,adj,personal,of or pertaining to a particular person
 ringa,verb,phone,to call (someone) on the telephone
 telefonera,verb,phone,to call (someone) on the telephone
 fotografi,noun,photograph,picture
@@ -786,47 +2144,155 @@ foto,noun,photograph,picture
 kort,noun,photograph,picture
 fras,noun,phrase,short written or spoken expression
 uttryck,noun,phrase,short written or spoken expression
+fras,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+uttryck,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+fras,noun,phrase,music: small section of music in a larger piece
 piano,noun,piano,a keyboard musical instrument
 bild,noun,picture,"representation of visible reality produced by drawing, etc"
 tavla,noun,picture,"representation of visible reality produced by drawing, etc"
+bild,noun,picture,photograph
+fotografi,noun,picture,photograph
+film,noun,picture,cinema
 stycke,noun,piece,part of a larger whole
 bit,noun,piece,part of a larger whole
+stycke,noun,piece,single item belonging to a class of similar items
+pjäs,noun,piece,chess: figure other than pawn; similar counter in other games
+stycke,noun,piece,artistic creation
+stycke,noun,piece,artillery gun
+pjäs,noun,piece,artillery gun
+puffra,noun,piece,slang: gun
+nyp,noun,piece,slang: sexual encounter
 gris,noun,pig,mammal of genus Sus
 svin,noun,pig,mammal of genus Sus
+snut,noun,pig,derogatory slang for police officer
+gris,noun,pig,derogatory slang for police officer
 rosa,noun,pink,pale red colour
 skär,noun,pink,pale red colour
+nejlika,noun,pink,flower
 plats,noun,place,"location, position"
 placering,noun,place,"location, position"
 post,noun,place,"location, position"
 säte,noun,place,"location, position"
 ställe,noun,place,"location, position"
+gård,noun,place,"open space, courtyard, market square"
+plats,noun,place,"open space, courtyard, market square"
+torg,noun,place,"open space, courtyard, market square"
+plats,noun,place,"area one occupies, particularly for sitting"
+sittplats,noun,place,"area one occupies, particularly for sitting"
+säte,noun,place,"area one occupies, particularly for sitting"
+ståplats,noun,place,"area one occupies, particularly for sitting"
+liggplats,noun,place,"area one occupies, particularly for sitting"
+sovplats,noun,place,"area one occupies, particularly for sitting"
 projektera,verb,plan,to design
+planera,verb,plan,to create a plan for
+planera,verb,plan,to intend
 platan,noun,plane,deciduous tree
 platanträd,noun,plane,deciduous tree
 plan,noun,plane,level or flat surface
+plan,noun,plane,geometry: flat surface extending infinitely in all directions
+plan,noun,plane,level of existence
 hyvel,noun,plane,a tool
 plan,noun,plane,airplane
 planta,noun,plant,organism capable of photosynthesis
 växt,noun,plant,organism capable of photosynthesis
+växt,noun,plant,"a small or herbaceous organism, rather than a tree"
+växt,noun,plant,organism of the kingdom Plantae
+växt,noun,plant,ecology: multicellular eukaryote that includes chloroplasts in its cells
 spel,noun,play,playful activity
 lek,noun,play,playful activity
+spel,noun,play,individual's performance in a sport
+drag,noun,play,action carried out when it is one's turn to play
+pjäs,noun,play,literary composition intended to be represented
+teaterstycke,noun,play,literary composition intended to be represented
+drama,noun,play,literary composition intended to be represented
+skådespel,noun,play,literary composition intended to be represented
+teaterpjäs,noun,play,literary composition intended to be represented
+pjäs,noun,play,theatrical performance
+skådespel,noun,play,theatrical performance
+teaterpjäs,noun,play,theatrical performance
+teaterstycke,noun,play,theatrical performance
+drama,noun,play,theatrical performance
 spelare,noun,player,one who plays any game or sport
+skådespelare,noun,player,dramatic actor
+musiker,noun,player,one who plays a musical instrument
+musikant,noun,player,one who plays a musical instrument
+spelare,noun,player,"video games: gamer, gamester — see also gamer, gamester"
+spelare,noun,player,gambler — see also gambler
+spelare,noun,player,participant
+poäng,noun,point,opinion which adds to the discussion
+mening,noun,point,purpose or objective
+punkt,noun,point,location or place
+plats,noun,point,location or place
+punkt,noun,point,geometry: zero-dimensional object
+punkt,noun,point,full stop
+sida,noun,point,distinguishing quality
+prick,noun,point,something tiny
+poäng,noun,point,unit of scoring in a game or competition
+komma,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+punkt,noun,point,typography: unit of size
+spets,noun,point,sharp tip
+udd,noun,point,sharp tip
+tunga,noun,point,backgammon: one of the twelve triangular positions
+spets,noun,point,backgammon: one of the twelve triangular positions
+udde,noun,point,peninsula or promontory
+landtunga,noun,point,peninsula or promontory
+streck,noun,point,compass point
+växel,noun,point,railroad switch
 polis,noun,police,local or general law enforcement agency
 aina,noun,police,local or general law enforcement agency
 shorta,noun,police,local or general law enforcement agency
 pool,noun,pool,body of water
 bassäng,noun,pool,body of water
 damm,noun,pool,body of water
+vattenpöl,noun,pool,small body of standing or stagnant water; a puddle
+pöl,noun,pool,small body of standing or stagnant water; a puddle
+göl,noun,pool,small body of standing or stagnant water; a puddle
+pool,noun,pool,supply of resources
 fattig,adj,poor,with few or no possessions or money
+dålig,adj,poor,of low quality
+undermålig,adj,poor,of low quality
+eländig,adj,poor,of low quality
+miserabel,adj,poor,of low quality
+usel,adj,poor,of low quality
+stackars,adj,poor,used to express pity
+miserabel,adj,poor,used to express pity
 folklig,adj,popular,of or pertaining to the common people
 populär,adj,popular,of or pertaining to the common people
+folklig,adj,popular,aimed at the general public
+populär,adj,popular,aimed at the general public
+folklig,adj,popular,adapted to the means of the common people; cheap
+populär,adj,popular,adapted to the means of the common people; cheap
+populär,adj,popular,liked by many people
+positiv,adj,positive,legal: formally laid down
+säker,adj,positive,"fully assured in opinion, confident"
+övertygad,adj,positive,"fully assured in opinion, confident"
+positiv,adj,positive,mathematics: greater than zero
+tvärsäker,adj,positive,"overconfident, dogmatic"
+verklig,adj,positive,"philosophy: actual, real, concrete"
+reell,adj,positive,"philosophy: actual, real, concrete"
+faktisk,adj,positive,"philosophy: actual, real, concrete"
+positiv,adj,positive,physics: having more protons than electrons
+positiv,adj,positive,grammar: describing the primary sense
+absolut,adj,positive,derived from an object by itself; absolute
+positiv,adj,positive,characterised by features which support a hypothesis
+positiv,adj,positive,photography: of a visual image true to the original
+positiv,adj,positive,"favorable, desirable"
 möjlig,adj,possible,able but not certain to happen
+möjlig,adj,possible,capable of being done or achieved; feasible
+möjlig,adj,possible,"being considered, e.g. for a position"
 anslå,verb,post,hang a notice in a conspicuous manner
 sätta upp,verb,post,hang a notice in a conspicuous manner
 spika,verb,post,hang a notice in a conspicuous manner
 skriva,verb,post,hang a notice in a conspicuous manner
+posta,verb,post,send to an electronic forum
+skriva,verb,post,send to an electronic forum
+skicka,verb,post,send to an electronic forum
 posta,verb,post,send mail
 skicka,verb,post,send mail
+posta,verb,post,(Internet) publish a message
+skicka,verb,post,(Internet) publish a message
+skriva,verb,post,(Internet) publish a message
+lägga upp,verb,post,(Internet) publish a message
 potatis,noun,potato,plant tuber eaten as starchy vegetable
 potät,noun,potato,plant tuber eaten as starchy vegetable
 jordäpple,noun,potato,plant tuber eaten as starchy vegetable
@@ -834,14 +2300,19 @@ pära,noun,potato,plant tuber eaten as starchy vegetable
 pantoffel,noun,potato,plant tuber eaten as starchy vegetable
 plugg,noun,potato,plant tuber eaten as starchy vegetable
 pund,noun,pound,unit of mass (16 ounces avoirdupois)
+pund,noun,pound,unit of currency
 föredraga,verb,prefer,to favor
 föredra,verb,prefer,to favor
 förbereda,verb,prepare,to make ready for a specific future purpose
+förbereda,verb,prepare,to make ready for eating or drinking
+förbereda sig,verb,prepare,to make oneself ready
+förbereda,verb,prepare,to produce by combining elements
 nu,noun,present,current time
 nutid,noun,present,current time
 rätt,adv,pretty,somewhat
 ganska,adv,pretty,somewhat
 pris,noun,price,cost required to gain possession of something
+pris,noun,price,cost of an action or deed
 nog,adv,probably,in all likelihood
 sannolikt,adv,probably,in all likelihood
 troligen,adv,probably,in all likelihood
@@ -849,9 +2320,23 @@ antagligen,adv,probably,in all likelihood
 förmodligen,adv,probably,in all likelihood
 troligtvis,adv,probably,in all likelihood
 problem,noun,problem,difficulty
+uppgift,noun,problem,schoolwork exercise
+övning,noun,problem,schoolwork exercise
+problem,noun,problem,schoolwork exercise
 produkt,noun,product,commodity for sale
 vara,noun,product,commodity for sale
+produkt,noun,product,amount created by a process
+resultat,noun,product,consequence of efforts
+produkt,noun,product,result of chemical reaction
+produkt,noun,product,multiplication result
 program,noun,program,set of structured activities
+program,noun,program,"leaflet listing information about a play, game or other activity"
+program,noun,program,set of political goals
+partiprogram,noun,program,set of political goals
+program,noun,program,performance of a show or other broadcast on radio or television
+sändning,noun,program,performance of a show or other broadcast on radio or television
+program,noun,program,software application
+mjukvara,noun,program,software application
 projekt,noun,project,planned endeavor
 lila (blueish),noun,purple,colour
 purpur,noun,purple,colour
@@ -862,118 +2347,317 @@ ställa,verb,put,to place something somewhere
 lägga,verb,put,to place something somewhere
 he,verb,put,to place something somewhere
 placera,verb,put,to place something somewhere
+stöta,verb,put,athletics: to throw an iron ball
 fjärdedel,noun,quarter,one of four equal parts — see also one-fourth
 kvart,noun,quarter,one of four equal parts — see also one-fourth
 kvarts,noun,quarter,one of four equal parts — see also one-fourth
+kvartal,noun,quarter,period of three months
+stadsdel,noun,quarter,section of a town
+kvarter,noun,quarter,section of a town
 fråga,noun,question,"sentence, phrase or word"
 spörsmål,noun,question,"sentence, phrase or word"
 spörjning,noun,question,"sentence, phrase or word"
+fråga,noun,question,subject or topic
+tvivel,noun,question,doubt or challenge
 snabb,adj,quick,moving with speed
 rapp,adj,quick,moving with speed
 kvick,adj,quick,moving with speed
+snabb,adj,quick,occurring in a short time
+kvick,adj,quick,occurring in a short time
+hastig,adj,quick,occurring in a short time
+kvick,adj,quick,"lively, witty"
+rapp,adj,quick,"lively, witty"
+kvick,adj,quick,"mentally agile, perceptive"
+rapp,adj,quick,"mentally agile, perceptive"
+ilsk,adj,quick,easily aroused to anger
+ilsken,adj,quick,easily aroused to anger
+lättretlig,adj,quick,easily aroused to anger
+kvick,adj,quick,alive
+kvick,adj,quick,flowing
+kvick,adj,quick,"burning, fiery"
 tyst,adj,quiet,with little sound
 stilla,adj,quiet,with little sound
+lugn,adj,quiet,having little motion
+lugn,adj,quiet,not busy
+tyst,adj,quiet,not talking
 fullständigt,adv,quite,to the greatest extent; completely
 helt,adv,quite,to the greatest extent; completely
 komplett,adv,quite,to the greatest extent; completely
+verkligen,adv,quite,in a fully justified sense; truly
+alldeles,adv,quite,in a fully justified sense; truly
+sannerligen,adv,quite,in a fully justified sense; truly
+ganska,adv,quite,to a moderate extent
+rätt,adv,quite,to a moderate extent
+rätt så,adv,quite,to a moderate extent
+tämligen,adv,quite,to a moderate extent
 radio,noun,radio,technology
+radio,noun,radio,receiver
+radioapparat,noun,radio,receiver
 regna,verb,rain,of rain: to fall from the sky
+regna,verb,rain,to fall in large quantities
+låta något regna,verb,rain,to issue in large quantities
+låta något hagla,verb,rain,to issue in large quantities
 läsa,verb,read,to look at and interpret letters or other information
+läsa,verb,read,to speak aloud words or other information that is written
+läsa,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+förstå,verb,read,to be able to hear (in a radio connection)
+höra,verb,read,to be able to hear (in a radio connection)
+uppfatta,verb,read,to be able to hear (in a radio connection)
+studera,verb,read,to make a study of
 läsare,noun,reader,person who reads a publication
 läsarinna,noun,reader,person who reads a publication
 läsning,noun,reading,process of interpreting written language
 beredd,adj,ready,prepared for immediate action or use
 redo,adj,ready,prepared for immediate action or use
+redo,adj,ready,"inclined, apt to happen"
 sann,adj,real,"true, genuine, not merely nominal"
 verklig,adj,real,"true, genuine, not merely nominal"
+riktig,adj,real,"genuine, not artificial, counterfeit or fake"
+verklig,adj,real,"genuine, not artificial, counterfeit or fake"
+äkta,adj,real,"genuine, not artificial, counterfeit or fake"
+riktig,adj,real,"genuine, unfeigned, sincere"
+äkta,adj,real,"genuine, unfeigned, sincere"
+verklig,adj,real,that has physical existence
+reell,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
+fast,adj,real,law: relating to immovable tangible property
+typisk,adj,real,"absolute, complete, utter"
+äkta,adj,real,"absolute, complete, utter"
+verklig,adj,real,"absolute, complete, utter"
 egentligen,adv,really,actually
 verkligen,adv,really,actually
 sannerligen,adv,really,actually
+verkligen,adv,really,"informally, as an intensifier; very, very much"
 anledning,noun,reason,that which causes: a cause
 skäl,noun,reason,that which causes: a cause
 orsak,noun,reason,that which causes: a cause
 grund,noun,reason,that which causes: a cause
+anledning,noun,reason,motive for an action or determination
+skäl,noun,reason,motive for an action or determination
+motiv,noun,reason,motive for an action or determination
+grund,noun,reason,motive for an action or determination
+förstånd,noun,reason,(the capacity of the human mind for) rational thinking
+förnuft,noun,reason,(the capacity of the human mind for) rational thinking
 röd,noun,red,colour
 rött,noun,red,colour
 förslappa,verb,relax,to calm down
+slappna av,verb,relax,to become loose
 komma ihåg,verb,remember,to recall from one's memory
 minnas,verb,remember,to recall from one's memory
+komma ihåg,verb,remember,to memorize
+minnas,verb,remember,to memorize
+memorera,verb,remember,to memorize
+komma ihåg,verb,remember,to not forget to do something required
 repetera,verb,repeat,do or say again
 upprepa,verb,repeat,do or say again
 rapport,noun,report,information describing events
+knall,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
 restaurang,noun,restaurant,an eating establishment in which diners are served food
 resultat,noun,result,that which results
+resultat,noun,result,"fruit, beneficial or tangible effect"
 återkomst,noun,return,act of returning
 återvändo,noun,return,act of returning
 retur,noun,return,act of returning
+retur,noun,return,item that is returned
+avkastning,noun,return,finance: gain or loss from an investment
+återbäring,noun,return,finance: tax return
+skatteåterbäring,noun,return,finance: tax return
+deklaration,noun,return,finance: tax return
+självdeklaration,noun,return,finance: tax return
+retur,noun,return,computing: carriage return character
+returtangent,noun,return,computing: carriage return character
+vagnretur,noun,return,computing: carriage return character
+returvärde,noun,return,computing: return value
 ris,noun,rice,plants
+ris,noun,rice,seeds used as food
 rik,adj,rich,having wealth
 rida,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 åka (bike),verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+åka,verb,ride,to be transported in a vehicle as a passenger
+rätt,noun,right,legal or moral entitlement
+rättighet,noun,right,legal or moral entitlement
+höger,noun,right,"right, not left, side"
+höger sida,noun,right,"right, not left, side"
+högern,noun,right,right-wing politicians and parties
 flod,noun,river,large stream which drains a landmass
 älv,noun,river,large stream which drains a landmass
 å,noun,river,large stream which drains a landmass
+flod,noun,river,any large flow of a liquid
 väg,noun,road,a way for travel
+plats,noun,room,space
+utrymme,noun,room,space
+rum,noun,room,space
+rum,noun,room,division in a building
 rutin,noun,routine,course of action to be followed regularly; a standard procedure
+rutin,noun,routine,"set of normal procedures, often performed mechanically"
+rutin,noun,routine,computing: set of instructions designed to perform a specific task
 regel,noun,rule,regulation
 springa,verb,run,to move quickly on two feet
 löpa,verb,run,to move quickly on two feet
+driva,verb,run,to be in charge of
+leda,verb,run,to be in charge of
+styra,verb,run,to be in charge of
+rinna,verb,run,to flow
+rinna,verb,run,to have a liquid flowing from
+kandidera,verb,run,to be a candidate in an election
+missa,verb,run,to pass without stopping or yielding
+ledsen,adj,sad,feeling sorrow
+sorgsen,adj,sad,feeling sorrow
 sallad,noun,salad,food
 salt,noun,salt,sodium chloride
 koksalt,noun,salt,sodium chloride
 bordssalt,noun,salt,sodium chloride
+salt,noun,salt,compound of an acid and a base
 dubbelmacka,noun,sandwich,dish — see also open sandwich
 smörgås,noun,sandwich,dish — see also open sandwich
 macka,noun,sandwich,dish — see also open sandwich
 sandwich,noun,sandwich,dish — see also open sandwich
+säga,verb,say,to pronounce
+stå,verb,say,to indicate in a written form
+ponera,verb,say,imperative: let's say
+låt oss säga,verb,say,imperative: let's say
+låt säga,verb,say,imperative: let's say
 stim,noun,school,a group of fish
 skola,noun,school,an institution dedicated to teaching and learning
+skola,noun,school,an institution dedicated to teaching and learning before college or university
+högskola,noun,school,college or university
+universitet,noun,school,college or university
+lärosäte,noun,school,college or university
+fakultet,noun,school,a department/institute at a college or university
+institution,noun,school,a department/institute at a college or university
+skola,noun,school,an art movement
+skola,noun,school,(collectively) the followers of a particular doctrine
+lära,noun,school,(collectively) the followers of a particular doctrine
+skolbildning,noun,school,(collectively) the followers of a particular doctrine
 vetenskap,noun,science,collective discipline of learning acquired through the scientific method
+vetenskap,noun,science,particular discipline or branch of learning
+vetande,noun,science,fact of knowing something
+kunskap,noun,science,knowledge gained through study or practice
 vetenskapsman,noun,scientist,one whose activities make use of the scientific method
 forskare,noun,scientist,one whose activities make use of the scientific method
 vetenskapskvinna,noun,scientist,one whose activities make use of the scientific method
 sekund,noun,second,one-sixtieth of a minute; SI unit of time
+sekund,noun,second,unit of angular measure
+bågsekund,noun,second,unit of angular measure
+ögonblick,noun,second,"short, indeterminate amount of time"
+sekund,noun,second,"short, indeterminate amount of time"
 sekundant,noun,second,attendant of a duel or boxing match standing in for a contestant
 sekond,noun,second,attendant of a duel or boxing match standing in for a contestant
+stödjande,noun,second,one who agrees in addition
 tvåa,noun,second,number two in a series
+tvåa,noun,second,place next below first in a race or contest
+utskottsvara,noun,second,manufactured item that fails to meet quality control standards
+andrahandsvara,noun,second,manufactured item that fails to meet quality control standards
+andra chans,noun,second,another chance to achieve what should have been done the first time
+tvåan,noun,second,second gear
 se,verb,see,perceive with the eyes
+förstå,verb,see,understand
 sälja,verb,sell,to agree to transfer goods or provide services for payment
 skicka,verb,send,make something go somewhere
 sända,verb,send,make something go somewhere
 dom,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+dom,noun,sentence,judicial order for punishment
+straff,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+mening,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+fras,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+sättning,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 dela,verb,share,to give
 fördela,verb,share,to give
 utdela,verb,share,to give
+dela,verb,share,to have in common
+dela ut,verb,share,to divide and distribute
+dela,verb,share,to divide and distribute
+fördela,verb,share,to divide and distribute
+delge,verb,share,to tell to another
+förmedla,verb,share,to tell to another
 får,noun,sheep,animal
 skjorta,noun,shirt,article of clothing
 sko,noun,shoe,protective covering for the foot
+sko,noun,shoe,something resembling a shoe (e.g. brake shoe)
 handla,verb,shop,to visit shops
 shoppa,verb,shop,to visit shops
 shopping,noun,shopping,activity of buying
 inköp,noun,shopping,activity of buying
 kort,adj,short,having a small distance between ends or edges
+kort,adj,short,"of a person, of comparatively small height"
+kort,adj,short,having little duration
+kort,adj,short,constituting an abbreviation or shortened form
+förkortning,adj,short,constituting an abbreviation or shortened form
 skola,verb,should,expressing obligation
+bör,verb,should,expressing opinion
+borde,verb,should,expressing opinion
+böra,verb,should,expressing likelihood
+torde,verb,should,expressing likelihood
+skulle,verb,should,as a variant of the present subjunctive
+om,verb,should,if; in case of
+skulle,verb,should,if; in case of
 show,noun,show,entertainment
+uppvisning,noun,show,exhibition — see also exhibition
+utställning,noun,show,exhibition — see also exhibition
+demonstration,noun,show,demonstration
+program,noun,show,broadcast program(me)
 skur,noun,shower,brief fall of rain
+dusch,noun,shower,device for bathing
+dusch,noun,shower,instance of using of this device
 sjuka,adj,sick,"ill, used as a substantive: sick people, collectively"
+må illa,adj,sick,having an urge to vomit
+illamående,adj,sick,having an urge to vomit
+sjuk,adj,sick,having an urge to vomit
+trött,adj,sick,"tired (of), annoyed (by)"
+sjuk,adj,sick,"colloquial: mentally unstable, disturbed"
+sjuk,adj,sick,colloquial: in bad taste
+sjuk,adj,sick,"slang: very good, excellent"
 liknande,adj,similar,"having traits or characteristics in common; alike, comparable"
 sjunga,verb,sing,to produce harmonious sounds with one’s voice
 sångare,noun,singer,person who sings (male or generic term)
+sångerska,noun,singer,female person who sings
 syster,noun,sister,woman or girl having the same parents
+syster,noun,sister,a nun; a female member of a religious community
+sjuksköterska,noun,sister,senior nurse
+sjuksyster,noun,sister,senior nurse
+syster,noun,sister,senior nurse
+medsyster,noun,sister,any woman or girl with whom a bond is felt
 sitta,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
+sitta,verb,sit,of an object: occupy a given position permanently
+ligga,verb,sit,of an object: occupy a given position permanently
+sitta,verb,sit,to be a member of a deliberative body
+välkomnas,verb,sit,"of an agreement or arrangement, to be accepted"
 läge,noun,situation,combination of circumstances at a given moment; state of affairs
 ställning,noun,situation,combination of circumstances at a given moment; state of affairs
 situation,noun,situation,combination of circumstances at a given moment; state of affairs
+läge,noun,situation,position vis-à-vis surroundings
+plats,noun,situation,position vis-à-vis surroundings
+placering,noun,situation,position vis-à-vis surroundings
+plats,noun,situation,location
+läge,noun,situation,location
+plats,noun,situation,one's status with regard to circumstances
+status,noun,situation,one's status with regard to circumstances
+ställning,noun,situation,one's status with regard to circumstances
+situation,noun,situation,one's status with regard to circumstances
+plats,noun,situation,position of employment
+ställning,noun,situation,position of employment
+tjänst,noun,situation,position of employment
+anställning,noun,situation,position of employment
 färdighet,noun,skill,capacity to do something well
 skicklighet,noun,skill,capacity to do something well
 kjol,noun,skirt,article of clothing
+kjol,noun,skirt,part of dress that hangs below waist
+kjoltyg,noun,skirt,slang: woman
 sova,verb,sleep,to rest in state of reduced consciousness
 långsam,adj,slow,not quick in motion
 seg,adj,slow,not quick in motion
 liten,adj,small,not large
+liten,adj,small,young
+ung,adj,small,young
+smart,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+klok,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+elegant,adj,smart,good-looking
 orm,noun,snake,legless reptile
+orm,noun,snake,treacherous person
 snöa,verb,snow,have snow fall from the atmosphere
 så,adv,so,very
+så,adv,so,to a particular extent
+så,adv,so,in the same aformentioned manner
+så,adv,so,slang: very much
 ibland,adv,sometimes,"on certain occasions, but not always"
 stundom,adv,sometimes,"on certain occasions, but not always"
 då och då,adv,sometimes,"on certain occasions, but not always"
@@ -984,58 +2668,195 @@ son,noun,son,a male person in relation to his parents
 låt,noun,song,music with words
 sång,noun,song,music with words
 visa,noun,song,music with words
+sång,noun,song,the act or art of singing
+sång,noun,song,sound of another animal
+spottstyver,noun,song,inexpensive deal
 snart,adv,soon,within a short time
+sorglig,adj,sorry,"poor, regrettable"
+ledsam,adj,sorry,"poor, regrettable"
 ljuda,verb,sound,to produce a sound
 låta,verb,sound,to produce a sound
 soppa,noun,soup,dish
+rymd,noun,space,physical extent in two or three dimensions
+utrymme,noun,space,physical extent in two or three dimensions
+rum,noun,space,physical extent in two or three dimensions
+rymd,noun,space,area beyond atmosphere of planets
+världsrymd,noun,space,area beyond atmosphere of planets
+utrymme,noun,space,personal freedom
+rum,noun,space,personal freedom
+mellanrum,noun,space,"gap between written characters, lines etc."
+mellanslag,noun,space,"gap between written characters, lines etc."
+rum,noun,space,geometry: set of points
+rymd,noun,space,geometry: set of points
+rum,noun,space,mathematics: generalized construct or set
 tala,verb,speak,to communicate with one's voice using words
 prata,verb,speak,to communicate with one's voice using words
 snacka,verb,speak,to communicate with one's voice using words
+konversera,verb,speak,to have a conversation
+snacka,verb,speak,to have a conversation
+tala samman,verb,speak,to have a conversation
+samtala,verb,speak,to have a conversation
+kommunicera,verb,speak,to communicate or converse by some means other than orally
+tala,verb,speak,to deliver a speech
+hålla tal,verb,speak,to deliver a speech
+tala,verb,speak,to be able to communicate in a language
+kunna,verb,speak,to be able to communicate in a language
 speciell,adj,special,distinguished by a unique or unusual quality
 särskild,adj,special,distinguished by a unique or unusual quality
+speciell,adj,special,of particular interest or value; certain; dear; beloved; favored
+speciell,adj,special,"of or related to disabilities, especially learning or intellectual disabilities"
 stava,verb,spell,to write or say the letters that form a word
+stava,verb,spell,to compose a word
+betyda,verb,spell,to indicate that some future event will occur
+rättstavning,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+ortografi,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+stavning,noun,spelling,manner of spelling of words; correct spelling
+stavning,noun,spelling,a specific spelling of a word
 spendera,verb,spend,to pay out
+tillbringa,verb,spend,"to consume, to use up (time)"
+ägna,verb,spend,"to consume, to use up (time)"
+spendera,verb,spend,"to consume, to use up (time)"
+lägga,verb,spend,"to consume, to use up (time)"
+lägga ner,verb,spend,"to consume, to use up (time)"
 sport,noun,sport,any athletic activity that uses physical skills
 idrott,noun,sport,any athletic activity that uses physical skills
 vår,noun,spring,season between winter and summer in temperate climates
+källa,noun,spring,water springing from the ground
+fjäder,noun,spring,device made of flexible material
 stå,verb,stand,to support oneself on the feet in an erect position
+ställa sig upp,verb,stand,to rise to one’s feet
+stå,verb,stand,to remain motionless
+motstå,verb,stand,to undergo; withstand; hold up
+stå ut med,verb,stand,to tolerate
+tolerera,verb,stand,to tolerate
+stå,verb,stand,to be placed in an upright or vertical orientation
+ställa,verb,stand,to place in an upright or standing position
+ställa upp,verb,stand,to seek election
+kandidera,verb,stand,to seek election
+gälla,verb,stand,to be valid
 stjärna,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+stjärna,noun,star,(astronomy) a luminous celestial body made of plasma
+stjärna,noun,star,concave polygon
+stjärna,noun,star,celebrity
+stjärna,noun,star,actor
+stjärna,noun,star,talented or famous person
+stjärna,noun,star,asterisk
+asterisk,noun,star,asterisk
+stjärna,noun,star,quality rating symbol
 börja,verb,start,to begin
+starta,verb,start,to set in motion
+starta,verb,start,to initiate operation of a vehicle or machine
+sätta igång,verb,start,to initiate operation of a vehicle or machine
+börja,verb,start,"of an activity, to begin"
+rycka till,verb,start,to jerk suddenly in surprise
+uttryck,noun,statement,presentation of opinion or position — see also assertion
+sats,noun,statement,computing: instruction in a computer program
+programsats,noun,statement,computing: instruction in a computer program
 station,noun,station,place where a vehicle may stop
 stanna,verb,stay,to remain in a particular place
 vistas,verb,stay,to remain in a particular place
+hålla sig,verb,stay,to continue to have a particular quality
+förbli,verb,stay,to continue to have a particular quality
+förbliva,verb,stay,to continue to have a particular quality
+skjuta upp,verb,stay,to postpone
+senarelägga,verb,stay,to postpone
+fortfarande,adv,still,"up to a time, as in the preceding time"
+ännu,adv,still,"up to a time, as in the preceding time"
+än,adv,still,to an even greater degree
+ännu,adv,still,to an even greater degree
+ändå,adv,still,to an even greater degree
+ändå,adv,still,nevertheless
+trots,adv,still,nevertheless
 hållplats,noun,stop,place to get on and off mass transport
+stopp,noun,stop,interruption of travel
+stopp,noun,stop,device to block a moving object
+punkt,noun,stop,punctuation symbol
+stoppboll,noun,stop,tennis: very short shot
 lager,noun,store,place where items may be kept
+lager,noun,store,supply held in storage
 historia,noun,story,account of events
 berättelse,noun,story,account of events
+händelse,noun,story,social media temporary publication
+story,noun,story,social media temporary publication
 gata,noun,street,paved part of road in a village or a town
 kraftfull,adj,strong,capable of producing great physical force
 stark,adj,strong,capable of producing great physical force
+hållfast,adj,strong,capable of withstanding great physical force
+stadig,adj,strong,capable of withstanding great physical force
+stark,adj,strong,capable of withstanding great physical force
+energisk,adj,strong,"determined, unyielding"
+stark,adj,strong,"determined, unyielding"
+mustig,adj,strong,highly stimulating to the senses
+stark,adj,strong,highly stimulating to the senses
+frän,adj,strong,having an offensive or intense odor or flavor
+stark,adj,strong,having an offensive or intense odor or flavor
+skarp,adj,strong,having an offensive or intense odor or flavor
+stark,adj,strong,having a high concentration of an essential or active ingredient
+stark,adj,strong,having a high alcoholic content
+oregelbunden,adj,strong,grammar: irregular
+stark,adj,strong,grammar: irregular
+stark,adj,strong,military: not easily subdued or taken
 student,noun,student,person who studies a subject
 studentska,noun,student,person who studies a subject
 elev,noun,student,person who studies a subject
+student,noun,student,person enrolled at a university — see also university student
+studentska,noun,student,person enrolled at a university — see also university student
 studera,verb,study,to revise/review materials
 lära,verb,study,to revise/review materials
 läsa,verb,study,to revise/review materials
+studera,verb,study,to take a course
+plugga,verb,study,to take a course
+studera,verb,study,to acquire knowledge
 stift,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+stil,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+drip,noun,style,"particular way in which one grooms, adorns, dresses, or carries oneself; (specifically) a way thought to be attractive or fashionable"
 subjekt,noun,subject,in grammar
+ämne,noun,subject,main topic
+föremål,noun,subject,main topic
+ämne,noun,subject,particular area of study
+undersåte,noun,subject,citizen in a monarchy
 framgång,noun,success,achievement of one's aim or goal
 succé,noun,success,achievement of one's aim or goal
 socker,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+socker,noun,sugar,any of a series of carbohydrates used by organisms to store energy
+socker,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
 sommar,noun,summer,hottest season
 sol,noun,sun,"a star, especially when seen as the centre of any single solar system"
+sol,noun,sun,light and warmth received from the sun
+solljus,noun,sun,light and warmth received from the sun
+soluppgång,noun,sun,sunrise or sunset
+solnedgång,noun,sun,sunrise or sunset
 stormarknad,noun,supermarket,store
 säker,adj,sure,"certain, reliable"
+säker,adj,sure,certain in one's knowledge or belief
 sweater,noun,sweater,knitted jacket worn by athletes before or after exercise
+(tjock)tröja,noun,sweater,similar garment worn for warmth
 simma,verb,swim,move through water
 simning,noun,swimming,human activity of moving oneself through water
 bord,noun,table,item of furniture
+tabell,noun,table,grid of data in rows and columns
+tabell,noun,table,collection of arithmetic calculations
 fatta,verb,take,to get into one's hands or control
 gripa,verb,take,to get into one's hands or control
 ta,verb,take,to get into one's hands or control
 ta,verb,take,to get into one's hands or control
 tag i,verb,take,to get into one's hands or control
 hålla sig i,verb,take,to get into one's hands or control
+ta,verb,take,to get into one's possession
+få tag på,verb,take,to get into one's possession
+ta,verb,take,to grab and move to oneself
+föra fram till sig,verb,take,to grab and move to oneself
+erövra,verb,take,to gain a position by force
+ta,verb,take,to gain a position by force
+ta,verb,take,to have sex with
+ta,verb,take,to carry
+ta,verb,take,to choose
+välja,verb,take,to choose
+hålla,verb,take,to support or carry without failing or breaking
+ta,verb,take,to support or carry without failing or breaking
+ta,verb,take,to endure
+tåla,verb,take,to endure
+ta,verb,take,to ingest medicine
 prata,verb,talk,to communicate by speech
 tala,verb,talk,to communicate by speech
 snacka,verb,talk,to communicate by speech
@@ -1043,10 +2864,24 @@ babbla,verb,talk,to communicate by speech
 orera,verb,talk,to communicate by speech
 lång,adj,tall,of a person
 hög,adj,tall,of a person
+hög,adj,tall,of a building
+lång,adj,tall,of a story
 taxi,noun,taxi,vehicle available for public hire
+te,noun,tea,drink made from leaves of tea plant
+kopp te,noun,tea,cup of this drink
+te,noun,tea,drink made from other plants
+brygd,noun,tea,drink made from other plants
+infusion,noun,tea,drink made from other plants
+fika,noun,tea,light afternoon meal
 lära,verb,teach,to pass on knowledge
 lära ut,verb,teach,to pass on knowledge
+undervisa,verb,teach,to pass on one's knowledge as one's profession
 lärare,noun,teacher,person who teaches
+lärarinna,noun,teacher,woman who teaches
+fröken,noun,teacher,woman who teaches
+lag,noun,team,group of people
+team,noun,team,group of people
+stall,noun,team,group of people
 tonåring,noun,teenager,person aged between thirteen and nineteen
 ringa,verb,telephone,to call someone
 telefonera,verb,telephone,to call someone
@@ -1054,39 +2889,97 @@ fjernsyn,noun,television,medium
 TV,noun,television,medium
 televisjon,noun,television,medium
 television,noun,television,medium
+television,noun,television,device for receiving television signals
+TV,noun,television,device for receiving television signals
+TV-apparat,noun,television,device for receiving television signals
+television,noun,television,program broadcasting
 säga,verb,tell,to pass information
 berätta,verb,tell,to pass information
 tala om,verb,tell,to pass information
+säga åt,verb,tell,to instruct
+säga till,verb,tell,to instruct
+tala om,verb,tell,to instruct
+säga,verb,tell,"to discern, notice, identify or distinguish"
+avgöra,verb,tell,"to discern, notice, identify or distinguish"
 tennis,noun,tennis,sport played by two or four players with strung racquets
 fruktansvärd,adj,terrible,dreadful; causing alarm or fear
 hemsk,adj,terrible,dreadful; causing alarm or fear
 text,noun,text,a written passage
+sms,noun,text,a brief written message transmitted between mobile phones
 tacka,verb,thank,to express appreciation or gratitude toward (someone or something)
 tack,noun,thanks,expression of gratitude
+tack,noun,thanks,grateful feelings
 teater,noun,theater,place or building
+teater,noun,theater,drama or performance as a profession or artform
 då,adv,then,at that time
+därpå,adv,then,soon afterward
+sen,adv,then,soon afterward
+sedan,adv,then,soon afterward
+så,adv,then,soon afterward
+sen,adv,then,next in order
+sedan,adv,then,next in order
+alltså,adv,then,in that case
+då,adv,then,in that case
+i så fall,adv,then,in that case
+samtidigt,adv,then,at the same time; on the other hand
+å andra sidan,adv,then,at the same time; on the other hand
 där,adv,there,in or at that place
+där),adv,there,to or into that place; thither
+där,adv,there,"in that matter, relation, etc.; at that point, stage, etc."
+det,adv,there,in existence
 sak,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 ting,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 grej,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+grej,noun,thing,latest fad or fashion
+ting,noun,thing,historical: public assembly or judicial council
 tänka över,verb,think,"to ponder, to go over in one's head"
 tänka,verb,think,"to ponder, to go over in one's head"
+tänka,verb,think,communicate to oneself in one’s mind
+tycka,verb,think,be of the opinion that
+anse,verb,think,be of the opinion that
+mena,verb,think,be of the opinion that
+tro,verb,think,"guess, reckon"
+tycka,verb,think,"consider, judge, regard something as"
 törstig,adj,thirsty,needing to drink
 törstande,adj,thirsty,needing to drink
 biljett,noun,ticket,admission to entertainment
+biljett,noun,ticket,pass for transportation
+bot,noun,ticket,traffic citation
 tid,noun,time,inevitable passing of events
+dags,noun,time,division of the day: particular moment or hour
+tid,noun,time,"time of day, as indicated by a clock, etc"
+tidpunkt,noun,time,"time of day, as indicated by a clock, etc"
+gång,noun,time,instance or occurrence
+gång,noun,time,ratio of comparison
 trött,adj,tired,in need of rest or sleep
+titel,noun,title,"name of a book, etc"
 idag,noun,today,today (noun)
 tillsammans,adv,together,"at the same time, in the same place"
 ihop,adv,together,"at the same time, in the same place"
+tillsammans,adv,together,into one place
 toalett,noun,toilet,personal grooming
+toalett,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+sc,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+dass,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toalett,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+toalettstol,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 tomat,noun,tomato,tomato plant
+tomat,noun,tomato,fruit
 morgondag,noun,tomorrow,the day after the present day
 också,adv,too,likewise
 även,adv,too,likewise
 med,adv,too,likewise
 ock,adv,too,likewise
+alltför,adv,too,more than enough; as too much
+för,adv,too,more than enough; as too much
+allt för,adv,too,more than enough; as too much
+visst,adv,too,used to contradict a negative assertion
 tand,noun,tooth,anatomy: tooth
+tand,noun,tooth,saw tooth
+sågtand,noun,tooth,saw tooth
+kugge,noun,tooth,gear tooth
+hjultand,noun,tooth,gear tooth
+kugg,noun,tooth,gear tooth
 samtalsämne,noun,topic,subject; theme
 ämne,noun,topic,subject; theme
 tema,noun,topic,subject; theme
@@ -1097,22 +2990,66 @@ by,noun,town,settlement
 småstad,noun,town,settlement
 trafik,noun,traffic,pedestrians or vehicles on roads or on the air
 samfärdsel,noun,traffic,pedestrians or vehicles on roads or on the air
+handel,noun,traffic,commercial transportation or exchange of goods
+illegal handel,noun,traffic,"illegal trade or exchange of goods, often drugs"
+trafficking,noun,traffic,"illegal trade or exchange of goods, often drugs"
+trafik,noun,traffic,"exchange or flux of information, messages or data"
 släp,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+tåg,noun,train,line of connected cars or carriages
+persontåg,noun,train,line of connected cars or carriages
+godståg,noun,train,line of connected cars or carriages
+tåg,noun,train,"group of animals, vehicles, or people"
+kedja,noun,train,series of events or ideas which are interconnected
+pulståg,noun,train,series of electric pulses
 resa,noun,travel,act of traveling
+resor,noun,travel,plural: series of journeys
+reseskildringar,noun,travel,plural: account of one's travels
+bana,noun,travel,motion of a piece of machinery
+gång,noun,travel,motion of a piece of machinery
+slag,noun,travel,motion of a piece of machinery
+rörelse,noun,travel,motion of a piece of machinery
+slaglängd,noun,travel,length of a mechanical stroke
 träd,noun,tree,large woody plant
+skoblock,noun,tree,shoe tree
+träd,noun,tree,(graph theory) connected graph with no cycles
+träd,noun,tree,(computing theory) recursive data structure
 resa,noun,trip,journey
 tripp,noun,trip,journey
 tur,noun,trip,journey
+felsteg,noun,trip,stumble or misstep
+tripp,noun,trip,period of time in which one experiences drug-induced reverie or hallucinations
+drogrus,noun,trip,period of time in which one experiences drug-induced reverie or hallucinations
+narkotikarus,noun,trip,period of time in which one experiences drug-induced reverie or hallucinations
 flaggstångsknopp,noun,truck,top of a flagpole
 knopp,noun,truck,top of a flagpole
+lastbil,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+lastvagn,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 sann,adj,true,concurring with a given set of facts
+sann,adj,true,state in Boolean logic that indicates an affirmative or positive result
+trogen,adj,true,"loyal, faithful"
+sann,adj,true,"loyal, faithful"
+äkta,adj,true,"genuine, legitimate"
+sann,adj,true,"genuine, legitimate"
 försöka,verb,try,to attempt
 pröva,verb,try,to attempt
 prova,verb,try,to attempt
+prova,verb,try,to make an experiment
+testa,verb,try,to make an experiment
+prova,verb,try,to put to test
+pröva,verb,try,to put to test
+testa,verb,try,to put to test
+prova,verb,try,"to taste, sample, etc"
+pröva,verb,try,to put on trial
+turas om,noun,turn,chance to use (something) shared in sequence with others
+tur,noun,turn,chance to use (something) shared in sequence with others
+tur,noun,turn,one's chance to make a move in a game
+varv,noun,turn,single loop of a coil
 två gånger,adv,twice,two times
 typ,noun,type,grouping based on shared characteristics
+förebild,noun,type,theology: event or person that prefigures or foreshadows
 paraply,noun,umbrella,cloth-covered frame used for protection against rain or sun
 parasoll,noun,umbrella,cloth-covered frame used for protection against rain or sun
+paraply,noun,umbrella,"something that covers a wide range of concepts, ideas, etc."
 onkel,noun,uncle,brother (or brother-in-law) of someone’s parent
 farbror,noun,uncle,brother (or brother-in-law) of someone’s parent
 fars svåger,noun,uncle,brother (or brother-in-law) of someone’s parent
@@ -1121,49 +3058,110 @@ morbror,noun,uncle,brother (or brother-in-law) of someone’s parent
 mors svåger,noun,uncle,brother (or brother-in-law) of someone’s parent
 ingift morbror,noun,uncle,brother (or brother-in-law) of someone’s parent
 förstå,verb,understand,to grasp the meaning of
+förstå,verb,understand,to believe one grasps the meaning of
+förstå,verb,understand,to believe
 universitet,noun,university,institution of higher education
 högskola,noun,university,institution of higher education
 upp,adv,up,away from earth’s surface
 uppåt,adv,up,away from earth’s surface
+för-,adv,up,"completely, thoroughly"
+till,adv,up,"completely, thoroughly"
+upp,adv,up,"completely, thoroughly"
+isär,adv,up,"completely, thoroughly"
+itu,adv,up,"completely, thoroughly"
+upp,adv,up,"higher, louder"
+upp,adv,up,higher in pitch
 använda,verb,use,"employ, apply"
 bruka,verb,use,"employ, apply"
 nyttja,verb,use,"employ, apply"
+förbruka,verb,use,"to exhaust the supply of, to consume"
+bruka,verb,use,rare: to habitually do
 nyttig,adj,useful,having a practical or beneficial use
 användbar,adj,useful,having a practical or beneficial use
 tjänlig,adj,useful,having a practical or beneficial use
 vanligtvis,adv,usually,most of the time
+lov,noun,vacation,official holiday period
+ferie,noun,vacation,official holiday period
+semester,noun,vacation,period of leisure time
+ledighet,noun,vacation,period of leisure time
 grönsak,noun,vegetable,a plant raised for some edible part of it
+planta,noun,vegetable,any plant
+växt,noun,vegetable,any plant
+grönsak,noun,vegetable,edible part of such a plant
+grönsak,noun,vegetable,a person whose brain has been damaged
 mycket,adv,very,to a high degree
 väldigt,adv,very,to a high degree
 jätte-,adv,very,to a high degree
+allra,adv,very,"true, truly"
+sann,adv,very,"true, truly"
+allra,adv,very,emphasizes superlativeness
 video,noun,video,"television show, movie"
+videofilm,noun,video,motion picture stored on VHS
+video,noun,video,VHS
+videoband,noun,video,VHS
+videokassett,noun,video,VHS
 besök,noun,visit,single act of visiting
 visit,noun,visit,single act of visiting
 gäst,noun,visitor,guest
 besökare,noun,visitor,guest
+besökare,noun,visitor,sightseer
+gäst,noun,visitor,players away from home
 vänta,verb,wait,delay until some event
 bida,verb,wait,delay until some event
 kypare,noun,waiter,a server in a restaurant or similar
 servitör,noun,waiter,a server in a restaurant or similar
 servitris,noun,waiter,a server in a restaurant or similar
+väntande,noun,waiter,someone who waits
 vakna,verb,wake,to stop sleeping
+väcka,verb,wake,to make somebody stop sleeping
 promenad,noun,walk,trip made by walking
 vandring,noun,walk,trip made by walking
+promenad,noun,walk,distance walked
+vandring,noun,walk,distance walked
+gång,noun,walk,manner of walking
+gång,noun,walk,maintained place on which to walk
 vall,noun,wall,defensive rampart
+mur,noun,wall,structure built for defense surrounding an area
+vägg,noun,wall,substantial structure acting as side or division in a building
+vägg,noun,wall,"anatomy, zoology, botany: divisive or containing structure"
 vilja,verb,want,to desire
 varm,adj,warm,having a temperature slightly higher than usual
 tvätta,verb,wash,to clean with water
 tvaga,verb,wash,to clean with water
 två,verb,wash,to clean with water
 vaska,verb,wash,to clean with water
+skölja,verb,wash,to move or erode by the force of water in motion
+spola,verb,wash,to move or erode by the force of water in motion
+vaska,verb,wash,mining: to separate valuable material
+skölja,verb,wash,to be eroded or carried away
+spola,verb,wash,to be eroded or carried away
 klocka,noun,watch,portable or wearable timepiece
 ur,noun,watch,portable or wearable timepiece
+bevakning,noun,watch,the act of guarding
+vakt,noun,watch,particular time period
+vaktpass,noun,watch,particular time period
+vakt,noun,watch,person or group of people who guard
+vaktpatrull,noun,watch,person or group of people who guard
+vakt,noun,watch,group of sailors and officers
+vakt,noun,watch,period of time on duty
 vatten,noun,water,inorganic compound H₂O
 vätur,noun,water,inorganic compound H₂O
+vatten,noun,water,one of the basic elements
+vatten,noun,water,"body of water, or specific part of it"
+vatten,noun,water,"body of water, or specific part of it"
 väg,noun,way,"road, direction, path"
+sätt,noun,way,method or manner
+vis,noun,way,method or manner
 bära,verb,wear,to have on (clothes or accessories)
 ha på sig,verb,wear,to have on (clothes or accessories)
+slita,verb,wear,to erode due to use
+trötta ut,verb,wear,to exhaust physically
+vända undan vinden,verb,wear,nautical: to bring to other tack by bringing the wind around the stern
 väder,noun,weather,state of the atmosphere
+väder,noun,weather,unpleasant or destructive atmospheric conditions
+väder och vind,noun,weather,unpleasant or destructive atmospheric conditions
+vädrets makter,noun,weather,unpleasant or destructive atmospheric conditions
+lovart,noun,weather,nautical: windward side of a ship
 webbplats,noun,website,a collection of pages on the World Wide Web
 sajt,noun,website,a collection of pages on the World Wide Web
 webbsajt,noun,website,a collection of pages on the World Wide Web
@@ -1175,31 +3173,74 @@ weekend,noun,weekend,break in the working week
 välkommen,adj,welcome,whose arrival is a cause of joy
 frisk,adj,well,in good health
 när,adv,when,"at what time, as a direct question"
+när,adv,when,"at what time, as an indirect question"
 var,adv,where,at what place; to what place; from what place
+var,adv,where,at or in what place
+där,adv,where,at or in which place
+var,adv,where,at or in which place
+vart,adv,where,to what place
+vart,adv,where,to which place or situation
+dit,adv,where,to which place or situation
+vartän,adv,where,wherever
+där,adv,where,the place in which
+var,adv,where,legal: in the situation in which
 vitt,noun,white,color
+vit,noun,white,person of European descent
 varför,adv,why,for what reason
 hustru,noun,wife,female partner in a marriage
 maka,noun,wife,female partner in a marriage
 fru,noun,wife,female partner in a marriage
 testamentera,verb,will,to bequeath
 vilja,verb,will,to wish or desire
+komma till att,verb,will,indicating future action
+komma att,verb,will,indicating future action
+skola,verb,will,indicating future action
+vilja,verb,will,indicating future action
+tänka,verb,will,indicating future action
 vinna,verb,win,transitive: achieve victory in
 segra,verb,win,transitive: achieve victory in
+vinna,verb,win,obtain (someone) by wooing
+vinna,verb,win,intransitive: achieve by winning
+segra,verb,win,intransitive: achieve by winning
 fönster,noun,window,opening for light and air
 ruta,noun,window,opening for light and air
 vindöga,noun,window,opening for light and air
 glugg,noun,window,opening for light and air
+fönster,noun,window,period of time
+fönster,noun,window,area on a computer screen
 vin,noun,wine,alcoholic beverage made from grapes
+vin,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+vinröd,noun,wine,wine colour
 vinter,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 kvinna,noun,woman,adult female person
 underbar,adj,wonderful,"excellent, extremely impressive"
 ord,noun,word,unit of language
+ord,noun,word,computing: fixed-size group of bits handled as a unit
+ord,noun,word,promise
 arbete,noun,work,"labour, employment, occupation, job"
 jobb,noun,work,"labour, employment, occupation, job"
+arbete,noun,work,place where one is employed
+jobb,noun,work,place where one is employed
+arbete,noun,work,effort expended on a particular task
+arbete,noun,work,result of a particular manner of production
+verk,noun,work,"literary, artistic, or intellectual production"
+arbete,noun,work,physics: measure of energy expended in moving an object
 arbetare,noun,worker,person who performs labor
 värld,noun,world,human collective existence
+värld,noun,world,the Earth
+värld,noun,world,inhabited planet
+värld,noun,world,individual or group perspective or social setting
 skulle,verb,would,indicating an action or state that is conditional on another
+skulle,verb,would,indicating a possible (but not definite) future action or state
+We sat on the bench,verb,would,indicating a possible (but not definite) future action or state
+skulle,verb,would,indicating an action in the past that was planned or intended
+In the winters,verb,would,indicating an action in the past that happened repeatedly or commonly
 skriva,verb,write,"to form letters, etc."
+skriva,verb,write,to send a letter to
+skriva,verb,write,to be the author of
+skriva,verb,write,to be an author
+författa,verb,write,to be an author
+skriva,verb,write,record (data)
 skribent,noun,writer,person who writes; an author
 författare,noun,writer,person who writes; an author
 skriftställare,noun,writer,person who writes; an author
@@ -1208,12 +3249,18 @@ skrift,noun,writing,written letters or symbols
 fel,adj,wrong,incorrect
 felaktig,adj,wrong,incorrect
 inkorrekt,adj,wrong,incorrect
+fel,adj,wrong,immoral
+fel,adj,wrong,improper
+fel,adj,wrong,not working
 gård,noun,yard,land around a house
 trädgård,noun,yard,land around a house
 tomt,noun,yard,land around a house
 rå,noun,yard,nautical: tapered timber from which square sails hang
+yard,noun,yard,three feet
 år,noun,year,time it takes for the Earth to complete one revolution around the Sun
 gul,noun,yellow,color
 gårdag,noun,yesterday,day before today
 i går,noun,yesterday,day before today
+gårdag,noun,yesterday,the recent past
 ung,adj,young,in the early part of life or growth
+ung,adj,young,as if young

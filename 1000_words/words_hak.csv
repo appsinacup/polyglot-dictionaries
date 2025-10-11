@@ -1,8 +1,10 @@
 word,part_of_speech,english_word,sense
 拜五,noun,Friday,day of the week
 拜六,noun,Saturday,day of the week
+地址,noun,address,description of the location of a property; direction for correspondence
 下晝 /下昼,noun,afternoon,part of the day between noon and evening
 空氣 /空气,noun,air,historical: one of the basic elements
+空氣 /空气,noun,air,mixture of gases making up the atmosphere of the Earth
 機場 /机场,noun,airport,place designated for airplanes
 飛機場 /飞机场,noun,airport,place designated for airplanes
 動物 /动物,noun,animal,organism
@@ -20,6 +22,7 @@ word,part_of_speech,english_word,sense
 腳踏車 /脚踏车,noun,bicycle,vehicle
 自轉車 /自转车,noun,bicycle,vehicle
 大,adj,big,of a great size — see also large
+大人,adj,big,adult
 鳥子 /鸟子,noun,bird,animal
 鳥 /鸟,noun,bird,animal
 鳥仔 /鸟仔,noun,bird,animal
@@ -28,6 +31,7 @@ word,part_of_speech,english_word,sense
 船,noun,boat,water craft
 書 /书,noun,book,collection of sheets of paper bound together containing printed or written material
 盎仔,noun,bottle,container
+兄弟,noun,brother,male fellow member of a religious community
 公共汽車 /公共汽车,noun,bus,vehicle
 公車 /公车,noun,bus,vehicle
 巴士,noun,bus,vehicle
@@ -57,10 +61,20 @@ word,part_of_speech,english_word,sense
 企業 /企业,noun,company,"in legal context, a corporation"
 電腦 /电脑,noun,computer,programmable electronic device
 計算機 /计算机,noun,computer,programmable electronic device
+叔伯阿哥,noun,cousin,child of a person’s parent’s brother or sister
+叔伯老弟,noun,cousin,child of a person’s parent’s brother or sister
+叔伯阿姊,noun,cousin,child of a person’s parent’s brother or sister
+叔伯老妹,noun,cousin,child of a person’s parent’s brother or sister
+表哥,noun,cousin,child of a person’s parent’s brother or sister
+表老弟,noun,cousin,child of a person’s parent’s brother or sister
+表姊,noun,cousin,child of a person’s parent’s brother or sister
+表老妹,noun,cousin,child of a person’s parent’s brother or sister
 牛嫲,noun,cow,female domesticated ox or other bovine
+牛,noun,cow,any domestic bovine regardless of sex or age
 文化,noun,culture,"arts, customs and habits"
 杯仔,noun,cup,drinking vessel
 妹仔,noun,daughter,female offspring
+日,noun,day,period of 24 hours
 好食,adj,delicious,pleasing to taste
 字典,noun,dictionary,publication that explains the meanings of an ordered list of words
 死,verb,die,to stop living
@@ -78,19 +92,27 @@ word,part_of_speech,english_word,sense
 耳公,noun,ear,organ of hearing
 食,verb,eat,"to ingest — see also consume, ingest"
 卵,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+卵,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+雞卵 /鸡卵,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 象,noun,elephant,mammal
 事件,noun,event,occurrence
 活動 /活动,noun,event,occurrence
 目珠,noun,eye,organ
+針眼 /针眼,noun,eye,hole in needle
+針鼻 /针鼻,noun,eye,hole in needle
 面,noun,face,anatomy: front part of head
 父親 /父亲,noun,father,male parent
 阿爸,noun,father,male parent
+神父,noun,father,term of address for a priest
 火,noun,fire,oxidation reaction
 魚 /鱼,noun,fish,vertebrate animal
 花,noun,flower,reproductive structure in angiosperms
 食物,noun,food,any substance consumed by living organisms to sustain life
 足球,noun,football,association football
 朋友,noun,friend,person whose company one enjoys
+果子,noun,fruit,food
+果作,noun,fruit,food
+成果,noun,fruit,figuratively: positive end result or reward of labour or effort
 遊戲 /游戏,noun,game,"playful activity that may be unstructured, amusement, pastime"
 細妹仔 /细妹仔,noun,girl,young female person
 女朋友,noun,girlfriend,a female partner in a romantic relationship
@@ -104,21 +126,29 @@ word,part_of_speech,english_word,sense
 姐婆,noun,grandmother,mother of someone's parent
 外阿婆,noun,grandmother,mother of someone's parent
 吉他,noun,guitar,musical instrument
+頭髮 /头发,noun,hair,mass of such filaments on the human head
 手,noun,hand,part of the fore limb
 帽仔,noun,hat,a head covering
 有,verb,have,to possess
 頭那 /头那,noun,head,part of the body
 健康,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 高,adj,high,elevated; tall
+高,adj,high,of great or large quantity
+高,adj,high,acoustics: of greater frequency
 歷史 /历史,noun,history,aggregate of past events
 希望,verb,hope,"to want something to happen, with expectation that it might"
 馬 /马,noun,horse,members of the species Equus ferus
 病院,noun,hospital,large medical facility
 旅館 /旅馆,noun,hotel,establishment providing accommodation
 點鐘 /点钟,noun,hour,time period of sixty minutes
+點鐘 /点钟,noun,hour,"unit to denote the hour, such as military usage in English"
 屋,noun,house,human abode
 屋仔,noun,house,human abode
 幾 /几,adv,how,to what degree
+仰般,adv,how,in what manner
+如何,adv,how,in what manner
+仰般,adv,how,in what state
+如何,adv,how,in what state
 肚枵,adj,hungry,affected by hunger; desirous of food
 肚飢 /肚饥,adj,hungry,affected by hunger; desirous of food
 丈夫,noun,husband,male partner in marriage
@@ -133,6 +163,8 @@ word,part_of_speech,english_word,sense
 語言 /语言,noun,language,body of words used as a form of communication
 腿,noun,leg,lower limb from groin to ankle
 腳 /脚,noun,leg,lower limb from groin to ankle
+下想,noun,leg,portion of the lower appendage from knee to ankle
+細腳髀 /细脚髀,noun,leg,portion of the lower appendage from knee to ankle
 字母,noun,letter,a symbol in an alphabet
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 生命,noun,life,the state of being alive
@@ -143,18 +175,23 @@ word,part_of_speech,english_word,sense
 愛 /爱,verb,love,have a strong affection for
 雜誌 /杂志,noun,magazine,periodical
 男人,noun,man,adult male human
+人類 /人类,noun,man,a human being
 地圖 /地图,noun,map,visual representation of an area
+市場 /市场,noun,market,spacious site for trading
 肉,noun,meat,animal flesh used as food
 星光半夜,noun,midnight,middle of the night
 分鐘 /分钟,noun,minute,unit of time
 錯誤 /错误,noun,mistake,an error
 模特兒 /模特儿,noun,model,person
+模型,noun,model,miniature
+模型,noun,model,simplified representation
 錢 /钱,noun,money,means of exchange and measure of value
 母親 /母亲,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 娘親 /娘亲,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 阿姆,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 山,noun,mountain,large mass of earth and rock
 老鼠,noun,mouse,rodent of the genus Mus
+滑鼠,noun,mouse,computing: input device
 口,noun,mouth,the opening of a creature through which food is ingested
 嘴,noun,mouth,the opening of a creature through which food is ingested
 電影 /电影,noun,movie,motion picture
@@ -163,6 +200,8 @@ word,part_of_speech,english_word,sense
 新,adj,new,recently made or created
 報紙 /报纸,noun,newspaper,publication
 新聞紙 /新闻纸,noun,newspaper,publication
+報紙 /报纸,noun,newspaper,paper on which newspapers are printed
+新聞紙 /新闻纸,noun,newspaper,paper on which newspapers are printed
 鼻,noun,nose,protuberance on the face
 鼻公,noun,nose,protuberance on the face
 唔,adv,not,negates meaning of another word
@@ -177,6 +216,9 @@ word,part_of_speech,english_word,sense
 筆 /笔,noun,pen,writing tool
 鋼筆 /钢笔,noun,pen,writing tool
 鉛筆 /铅笔,noun,pencil,graphite writing-instrument
+胡椒,noun,pepper,spice
+番椒,noun,pepper,fruit of the capsicum
+馦椒,noun,pepper,fruit of the capsicum
 人,noun,person,individual
 豬 /猪,noun,pig,mammal of genus Sus
 豬仔 /猪仔,noun,pig,mammal of genus Sus
@@ -186,16 +228,24 @@ word,part_of_speech,english_word,sense
 馬鈴薯 /马铃薯,noun,potato,plant tuber eaten as starchy vegetable
 今下,noun,present,current time
 價錢 /价钱,noun,price,cost required to gain possession of something
+節目 /节目,noun,program,performance of a show or other broadcast on radio or television
 問題 /问题,noun,question,"sentence, phrase or word"
+收音機 /收音机,noun,radio,receiver
+啦濟喲 /啦济哟,noun,radio,receiver
 讀 /读,verb,read,to look at and interpret letters or other information
 記得 /记得,verb,remember,to recall from one's memory
 餐廳 /餐厅,noun,restaurant,an eating establishment in which diners are served food
 結果 /结果,noun,result,that which results
+結果 /结果,noun,result,"fruit, beneficial or tangible effect"
+禾仔,noun,rice,seeds used as food
+權利 /权利,noun,right,legal or moral entitlement
+房間 /房间,noun,room,division in a building
 走,verb,run,to move quickly on two feet
 鹽 /盐,noun,salt,sodium chloride
 三明治,noun,sandwich,dish — see also open sandwich
 學校 /学校,noun,school,an institution dedicated to teaching and learning
 學堂 /学堂,noun,school,an institution dedicated to teaching and learning
+學校 /学校,noun,school,an institution dedicated to teaching and learning before college or university
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
 綿羊 /绵羊,noun,sheep,animal
 鞋仔,noun,shoe,protective covering for the foot
@@ -206,7 +256,10 @@ word,part_of_speech,english_word,sense
 蛇哥,noun,snake,legless reptile
 倈仔 /俫仔,noun,son,a male person in relation to his parents
 孻仔 /𡥧仔,noun,son,a male person in relation to his parents
+養子 /养子,noun,son,an adopted son
 歌,noun,song,music with words
+太空,noun,space,area beyond atmosphere of planets
+宇宙,noun,space,area beyond atmosphere of planets
 講 /讲,verb,speak,to communicate with one's voice using words
 運動 /运动,noun,sport,any athletic activity that uses physical skills
 春天,noun,spring,season between winter and summer in temperate climates
@@ -225,6 +278,7 @@ word,part_of_speech,english_word,sense
 泅水仔,verb,swim,move through water
 計程車 /计程车,noun,taxi,vehicle available for public hire
 他庫西 /他库西,noun,taxi,vehicle available for public hire
+茶,noun,tea,drink made from leaves of tea plant
 先生,noun,teacher,person who teaches
 教師 /教师,noun,teacher,person who teaches
 老師 /老师,noun,teacher,person who teaches
@@ -234,12 +288,15 @@ word,part_of_speech,english_word,sense
 嘴渴,adj,thirsty,needing to drink
 肚渴,adj,thirsty,needing to drink
 時間 /时间,noun,time,inevitable passing of events
+擺 /摆,noun,time,instance or occurrence
 𤸁,adj,tired,in need of rest or sleep
 今晡日,noun,today,today (noun)
+番茄,noun,tomato,fruit
 韶早,noun,tomorrow,the day after the present day
 也,adv,too,likewise
 牙齒 /牙齿,noun,tooth,anatomy: tooth
 城市,noun,town,settlement
+火車 /火车,noun,train,line of connected cars or carriages
 樹 /树,noun,tree,large woody plant
 樹仔 /树仔,noun,tree,large woody plant
 遮仔,noun,umbrella,cloth-covered frame used for protection against rain or sun
@@ -262,6 +319,10 @@ word,part_of_speech,english_word,sense
 禮拜 /礼拜,noun,week,period of seven days
 哪仔,adv,where,at what place; to what place; from what place
 哪位,adv,where,at what place; to what place; from what place
+哪仔,adv,where,at or in which place
+哪位,adv,where,at or in which place
+哪仔,adv,where,wherever
+哪位,adv,where,wherever
 白色,noun,white,color
 做麼個 /做么个,adv,why,for what reason
 餔娘 /𫗦娘,noun,wife,female partner in a marriage
@@ -274,6 +335,10 @@ word,part_of_speech,english_word,sense
 冷天,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 女人,noun,woman,adult female person
 世界,noun,world,human collective existence
+宇宙,noun,world,the universe
+世界,noun,world,the Earth
+世界,noun,world,inhabited planet
+世界,noun,world,individual or group perspective or social setting
 寫 /写,verb,write,"to form letters, etc."
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun

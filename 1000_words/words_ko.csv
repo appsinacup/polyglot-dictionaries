@@ -13,7 +13,24 @@ word,part_of_speech,english_word,sense
 화요,noun,Tuesday,day of the week
 수요일,noun,Wednesday,day of the week
 수요,noun,Wednesday,day of the week
+이곳저곳,adv,about,here and there
+여기저기,adv,about,here and there
+쯤,adv,about,"nearly, approximately"
+대략,adv,about,"nearly, approximately"
+약,adv,about,"nearly, approximately"
+경,adv,about,"nearly, approximately"
+거꾸로,adv,about,"to a reversed order, or opposite direction"
+둥글게,adv,about,in circuit
+행동,noun,action,something done so as to accomplish a purpose
+작동,noun,action,way of motion or functioning
+액션,noun,action,fast-paced activity
+성교,noun,action,slang: intercourse
+교전,noun,action,military: combat
+전투,noun,action,military: combat
+소송,noun,action,law: charge
 활동,noun,activity,state or quality of being active
+활동,noun,activity,something done as an action or a movement
+활동,noun,activity,something done for pleasure or entertainment
 배우,noun,actor,person who performs in a theatrical play or film — see also actress
 여배우,noun,actor,person who performs in a theatrical play or film — see also actress
 연기자,noun,actor,person who performs in a theatrical play or film — see also actress
@@ -23,6 +40,15 @@ word,part_of_speech,english_word,sense
 덧붙이다,verb,add,to append (e.g. a statement); to say further information; to add on
 부연(敷衍)하다,verb,add,to append (e.g. a statement); to say further information; to add on
 부연(敷演)하다,verb,add,to append (e.g. a statement); to say further information; to add on
+더하다,verb,add,to make an addition; to augment; to increase; to add on
+늘리다,verb,add,to make an addition; to augment; to increase; to add on
+보태다,verb,add,to make an addition; to augment; to increase; to add on
+추가(追加)하다,verb,add,to make an addition; to augment; to increase; to add on
+더하기하다,verb,add,"to perform the arithmetical operation of addition, to add up"
+덧셈하다,verb,add,"to perform the arithmetical operation of addition, to add up"
+합산(合算)하다,verb,add,"to perform the arithmetical operation of addition, to add up"
+연설,noun,address,act of addressing oneself to a person or group
+주소,noun,address,description of the location of a property; direction for correspondence
 성인,noun,adult,fully grown human
 어른,noun,adult,fully grown human
 조언,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
@@ -30,13 +56,37 @@ word,part_of_speech,english_word,sense
 권고,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 무서워하다,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 오후,noun,afternoon,part of the day between noon and evening
+다시,adv,again,another time
+또,adv,again,another time
+ᆻ지,adv,again,used in a question to ask something one has forgotten
+ᆻ죠,adv,again,used in a question to ask something one has forgotten
 연령,noun,age,amount of time since the birth of a being or the beginning of a thing
 년령,noun,age,amount of time since the birth of a being or the beginning of a thing
 나이,noun,age,amount of time since the birth of a being or the beginning of a thing
 연세,noun,age,amount of time since the birth of a being or the beginning of a thing
 살,noun,age,amount of time since the birth of a being or the beginning of a thing
+노령,noun,age,state of being old; latter part of life
+로령,noun,age,state of being old; latter part of life
+고령,noun,age,state of being old; latter part of life
+연령,noun,age,one of the stages of life
+년령,noun,age,one of the stages of life
+나이,noun,age,one of the stages of life
+살,noun,age,one of the stages of life
+연세,noun,age,one of the stages of life
+년세,noun,age,one of the stages of life
+성년,noun,age,time of life at which one attains full personal rights and capacities
+시대,noun,age,particular period of time in history
+세대,noun,age,generation — see also generation
+일생,noun,age,lifespan
+수명,noun,age,lifespan
 동의(同意)하다,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+동의하다,verb,agree,"to yield assent, to accede"
+약속하다,verb,agree,"to yield assent, to accede"
+합의하다,verb,agree,to come to terms or to a common resolve
+일치하다,verb,agree,"to resemble, coincide, correspond"
+일치하다,verb,agree,"grammar: to correspond in gender, number, case, person, etc."
 공기,noun,air,historical: one of the basic elements
+공기,noun,air,mixture of gases making up the atmosphere of the Earth
 공항,noun,airport,place designated for airplanes
 비행장,noun,airport,place designated for airplanes
 항공역,noun,airport,place designated for airplanes
@@ -49,28 +99,53 @@ word,part_of_speech,english_word,sense
 화난,adj,angry,displaying anger
 동물,noun,animal,organism
 생물,noun,animal,organism
+동물,noun,animal,organism other than human
+생물,noun,animal,organism other than human
 대답(對答)하다,verb,answer,to make a reply or response to
 회답(回答)하다,verb,answer,to make a reply or response to
 회신(回信)하다,verb,answer,to make a reply or response to
 응답(應答)하다,verb,answer,to make a reply or response to
 답변(答辯)하다,verb,answer,to make a reply or response to
 답(答)하다,verb,answer,to make a reply or response to
+전화(電話)를 받다,verb,answer,to respond to a call
+응(應)하다,verb,answer,to respond to a call
+대응(對應)하다,verb,answer,to suit a need or purpose satisfactorily
+응(應)하다,verb,answer,to suit a need or purpose satisfactorily
+답변(答辯)하다,verb,answer,law: to file a response to a complaint
 아파트,noun,apartment,domicile occupying part of a building
 맨션,noun,apartment,domicile occupying part of a building
 아빠트,noun,apartment,domicile occupying part of a building
 사과,noun,apple,fruit of Malus domestica
 면적,noun,area,maths: measure of extent of a surface
+지역,noun,area,particular geographic region
+지구,noun,area,particular geographic region
+영역,noun,area,particular geographic region
+부분,noun,area,any particular extent
+공간,noun,area,any particular extent
+범위,noun,area,"figuratively, any extent, scope or range"
+분야,noun,area,"figuratively, any extent, scope or range"
+지하출입구,noun,area,"open space, below ground level, between the front of a house and the pavement"
 무기,noun,arm,weapon
 팔,noun,arm,upper appendage from shoulder to wrist
+도착하다,verb,arrive,to get to a certain place
 예술,noun,art,human effort
 아트,noun,art,human effort
+미술,noun,art,conscious production or arrangement
+아트,noun,art,conscious production or arrangement
+예술,noun,art,skillful creative activity
+아트,noun,art,skillful creative activity
 기사,noun,article,"story, report, or opinion piece"
 논문,noun,article,"story, report, or opinion piece"
 론문,noun,article,"story, report, or opinion piece"
+항목,noun,article,member of a group or class
+관사,noun,article,part of speech that specifies a noun
+조항,noun,article,section of a legal document
 화가,noun,artist,person who creates art
 묻다,verb,ask,request an answer
 질문하다,verb,ask,request an answer
 여쭈다,verb,ask,request an answer
+청하다,verb,ask,make a request
+부탁하다,verb,ask,make a request
 고모,noun,aunt,a parent's sister or sister-in-law
 이모,noun,aunt,a parent's sister or sister-in-law
 이모님,noun,aunt,a parent's sister or sister-in-law
@@ -93,10 +168,16 @@ word,part_of_speech,english_word,sense
 외숙모님,noun,aunt,a parent's sister or sister-in-law
 외삼촌댁,noun,aunt,a parent's sister or sister-in-law
 구모,noun,aunt,a parent's sister or sister-in-law
+아주머니,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
+아줌마,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
+쩐다,adj,awesome,"excellent, exciting"
 아기,noun,baby,very young human being
 유아,noun,baby,very young human being
 젖먹이,noun,baby,very young human being
+새끼,noun,baby,young animal
+베이비,noun,baby,term of endearment — see also darling
 뒤로,adv,back,to or in a previous condition or place
+뒤로,adv,back,away from the front or from an edge
 나쁘다,adj,bad,unfavorable; negative
 나쁜,adj,bad,unfavorable; negative
 가방,noun,bag,flexible container
@@ -107,14 +188,30 @@ word,part_of_speech,english_word,sense
 무도회,noun,ball,formal dance
 공,noun,ball,solid or hollow sphere
 구,noun,ball,solid or hollow sphere
+공,noun,ball,"object, generally spherical, used for playing games"
+볼,noun,ball,"object, generally spherical, used for playing games"
+볼,noun,ball,baseball: a pitch that falls outside the strike zone
+불알,noun,ball,testicle — see also testicle
+불,noun,ball,testicle — see also testicle
+볼,noun,ball,anatomy: ball of a foot
 바나나,noun,banana,fruit
+바나나색,noun,banana,color
 둑,noun,bank,edge of river or lake
 은행,noun,bank,institution
+은행,noun,bank,branch office
+술집,noun,bar,business licensed to sell intoxicating beverages
+바,noun,bar,business licensed to sell intoxicating beverages
+퍼브,noun,bar,business licensed to sell intoxicating beverages
 야구,noun,baseball,ball game
+야구공,noun,baseball,ball used in baseball-game
 농구,noun,basketball,the sport
 롱구,noun,basketball,the sport
 배스킷볼,noun,basketball,the sport
+농구공,noun,basketball,the ball used in the sport
 욕조,noun,bath,tub
+욕실,noun,bath,building or area where bathing occurs
+목욕실,noun,bath,building or area where bathing occurs
+목욕,noun,bath,act of bathing
 욕실,noun,bathroom,a room with a bathtub
 목욕실,noun,bathroom,a room with a bathtub
 바닷가,noun,beach,sandy shore
@@ -124,6 +221,9 @@ word,part_of_speech,english_word,sense
 되다,verb,become,to begin to be
 침대,noun,bed,piece of furniture
 잠자리,noun,bed,piece of furniture
+잠자리,noun,bed,prepared spot to spend the night in
+하상,noun,bed,the bottom of a lake or other body of water
+모판,noun,bed,garden plot
 침실,noun,bedroom,room in a house where a bed is kept for sleeping
 맥주,noun,beer,alcoholic drink made of malt
 시작하다,verb,begin,"to start, to initiate (transitive)"
@@ -131,29 +231,42 @@ word,part_of_speech,english_word,sense
 시작,noun,beginning,act of doing that which begins anything
 처음,noun,beginning,act of doing that which begins anything
 믿다,verb,believe,to accept that someone is telling the truth (object: person)
+믿다,verb,believe,to accept as true
+생각하다,verb,believe,to consider likely
 최선,adj,best,superlative of the adjective good
 더 좋은,adj,better,comparative of the adjectives good or well
 자전거,noun,bicycle,vehicle
 크다,adj,big,of a great size — see also large
 큰,adj,big,of a great size — see also large
+어른,adj,big,adult
+성인,adj,big,adult
 자전거,noun,bike,bicycle
+법률안,noun,bill,draft of a law
+법안,noun,bill,draft of a law
+계산서,noun,bill,invoice
+송장,noun,bill,invoice
 부리,noun,bill,bird's beak
 새,noun,bird,animal
 조류,noun,bird,animal
 생일,noun,birthday,anniversary
 생신,noun,birthday,anniversary
 탄신,noun,birthday,anniversary
+생년월일,noun,birthday,date of birth — see also date of birth
 검정,noun,black,colour/color
 검은색,noun,black,colour/color
 흑색,noun,black,colour/color
+흑인,noun,black,dark-skinned person — see also Negro
 블로그,noun,blog,a personal or corporate website
 금발(金髮)의,adj,blond,of a pale golden colour
+금발(金髮)의,adj,blond,having blond hair
 파랑,noun,blue,colour
 파란색,noun,blue,colour
 배,noun,boat,water craft
 보트,noun,boat,water craft
 몸,noun,body,physical structure of a human or animal
 신체,noun,body,physical structure of a human or animal
+신체,noun,body,fleshly or corporeal nature of a human
+본체,noun,body,largest or most important part of anything (e.g. car bodywork)
 책,noun,book,collection of sheets of paper bound together containing printed or written material
 도서,noun,book,collection of sheets of paper bound together containing printed or written material
 장화,noun,boot,heavy shoe that covers part of the leg
@@ -163,6 +276,7 @@ word,part_of_speech,english_word,sense
 지루하다,adj,boring,causing boredom or tiredness
 재미없다,adj,boring,causing boredom or tiredness
 병,noun,bottle,container
+한 병의 분령,noun,bottle,contents of such a container
 상자,noun,box,cuboid space; container
 박스,noun,box,cuboid space; container
 소년,noun,boy,young male
@@ -174,7 +288,9 @@ word,part_of_speech,english_word,sense
 남자친구,noun,boyfriend,male partner in a romantic relationship
 남친,noun,boyfriend,male partner in a romantic relationship
 보이프렌드,noun,boyfriend,male partner in a romantic relationship
+남사친,noun,boyfriend,male friend
 빵,noun,bread,baked dough made from cereals
+휴게,noun,break,"rest or pause, usually from work"
 아침,noun,breakfast,first meal of the day
 아침밥,noun,breakfast,first meal of the day
 아침 식사,noun,breakfast,first meal of the day
@@ -196,11 +312,16 @@ word,part_of_speech,english_word,sense
 짓다,verb,build,(transitive) to form by combining materials or parts
 건설하다,verb,build,(transitive) to form by combining materials or parts
 건설,noun,building,act or process of building
+건물,noun,building,closed structure with walls and a roof
+빌딩,noun,building,closed structure with walls and a roof
 버스,noun,bus,vehicle
 뻐스,noun,bus,vehicle
+버스,noun,bus,electrical conductor
 사업,noun,business,commercial enterprise or establishment
 기업,noun,business,commercial enterprise or establishment
 업무,noun,business,commercial enterprise or establishment
+바쁜,adj,busy,doing a great deal
+바쁘다,adj,busy,doing a great deal
 버터,noun,butter,soft foodstuff made from milk
 빠다,noun,butter,soft foodstuff made from milk
 사다,verb,buy,to obtain something with money
@@ -208,14 +329,21 @@ word,part_of_speech,english_word,sense
 과자,noun,cake,type of sweet dessert
 케이크,noun,cake,type of sweet dessert
 외침,noun,call,cry or shout
+울음,noun,call,characteristic cry of a bird or other animal
+부름,noun,call,beckoning or summoning
+통화,noun,call,telephone conversation
+방문,noun,call,social visit
 카메라,noun,camera,still camera
 사진기,noun,camera,still camera
+비디오 카메라,noun,camera,movie camera
+카메라,noun,camera,movie camera
 ...을/ᄅ 수 있다,verb,can,to be able to; to know how to
 못,verb,cannot,"cannot — see also can, not"
 ...수 없다,verb,cannot,"cannot — see also can, not"
 못하다,verb,cannot,"cannot — see also can, not"
 자동차,noun,car,"automobile, a vehicle steered by a driver"
 차,noun,car,"automobile, a vehicle steered by a driver"
+카드,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 경력,noun,career,one's calling in life; a person's occupation
 직업,noun,career,one's calling in life; a person's occupation
 당근,noun,carrot,Daucus carota ssp. sativus
@@ -224,52 +352,105 @@ word,part_of_speech,english_word,sense
 고양이,noun,cat,domestic species
 센트,noun,cent,subunit of currency in US and elsewhere
 전,noun,cent,subunit of currency in US and elsewhere
+센트,noun,cent,one-hundredth of a euro
+유로센트,noun,cent,one-hundredth of a euro
 중심,noun,center,point equidistant from all points on the perimeter of a circle
 중앙,noun,center,point equidistant from all points on the perimeter of a circle
+중심,noun,center,point equidistant from all points on the surface of a sphere
+가운데,noun,center,point on a line midway between the ends
+중심,noun,center,point on a line midway between the ends
+센터,noun,center,place where a function or activity occurs
+센터,noun,center,in basketball
 의자,noun,chair,furniture
 변화,noun,change,the process of becoming different
+잔돈,noun,change,small denominations of money given in exchange for a larger denomination
+거스름돈,noun,change,small denominations of money given in exchange for a larger denomination
+거스름돈,noun,change,balance returned after a purchase
+잔돈,noun,change,balance returned after a purchase
+갈아탐,noun,change,a transfer between vehicles
+차트,noun,chart,non-narrative presentation of data
+도표,noun,chart,non-narrative presentation of data
 싸다,adj,cheap,low and/or reduced in price
 싼,adj,cheap,low and/or reduced in price
 확인하다,verb,check,"to inspect, examine"
 치즈,noun,cheese,dairy product
 건락,noun,cheese,dairy product
 닭,noun,chicken,bird
+닭고기,noun,chicken,meat
+치킨,noun,chicken,meat
 어린이,noun,child,son or daughter; someone's child
 아이,noun,child,son or daughter; someone's child
 애,noun,child,son or daughter; someone's child
+어린이,noun,child,a minor
 초콜릿,noun,chocolate,food made from ground roasted cocoa beans
 초콜렛,noun,chocolate,food made from ground roasted cocoa beans
 초코,noun,chocolate,food made from ground roasted cocoa beans
 쵸콜레트,noun,chocolate,food made from ground roasted cocoa beans
 쇼콜라,noun,chocolate,food made from ground roasted cocoa beans
+초콜릿색,noun,chocolate,colour
+초코색,noun,chocolate,colour
+쇼콜라색,noun,chocolate,colour
 고르다,verb,choose,to pick
+고르다,verb,choose,to elect
+선택하다,verb,choose,to decide to act in a certain way
 도시,noun,city,large settlement
 시내,noun,city,large settlement
 시,noun,city,large settlement
 등급,noun,class,"group, collection, category or set sharing characteristics or attributes"
 종류,noun,class,"group, collection, category or set sharing characteristics or attributes"
+계급,noun,class,"social grouping, based on job, wealth, etc."
+계층,noun,class,"social grouping, based on job, wealth, etc."
+반,noun,class,group of students in a regularly scheduled meeting with a teacher
+클래스,noun,class,group of students in a regularly scheduled meeting with a teacher
+수업,noun,class,series of classes covering a single subject
+클래스,noun,class,series of classes covering a single subject
+학년,noun,class,group of students who commenced or completed their education during a particular year
 교실,noun,classroom,room in a school
 교장,noun,classroom,room in a school
 청소하다,verb,clean,(transitive) to remove dirt from a place or object
+청소하다,verb,clean,(transitive) to tidy up
+소제하다,verb,clean,(transitive) to tidy up
 오르다,verb,climb,"to ascend, to go up"
+오르다,verb,climb,"to mount, to move upwards on"
+기어 올라가다,verb,climb,to move by using the hands and feet
 시계,noun,clock,instrument to measure or keep track of time
 닫다,verb,close,obstruct (an opening)
 덮다,verb,close,obstruct (an opening)
+닫다,verb,close,move (a door)
 옷,noun,clothes,apparel
 의복,noun,clothes,apparel
 동아리,noun,club,association of members
 동호회,noun,club,association of members
+몽둥이,noun,club,heavy stick for use as weapon or plaything
+클럽,noun,club,establishment that provides staged entertainment
+나이트 클럽,noun,club,establishment that provides staged entertainment
+클럽,noun,club,"playing card symbol, ♣"
+클로버,noun,club,"playing card symbol, ♣"
 코트,noun,coat,outer garment covering the upper torso and arms
 외투,noun,coat,outer garment covering the upper torso and arms
 커피,noun,coffee,beverage
+커피콩,noun,coffee,beans
+커피색,noun,coffee,colour
 추위,noun,cold,low temperature
+감기,noun,cold,illness
+고뿔,noun,cold,illness
+대학,noun,college,institution of higher education
 색깔,noun,color,spectral composition of visible light
 색,noun,color,spectral composition of visible light
+피부색,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
 오다,verb,come,to move nearer
+도착하다,verb,come,"to arrive, to appear"
+이르다,verb,come,"to arrive, to appear"
+가다,verb,come,to orgasm
 상호,adj,common,mutual
 공통,adj,common,mutual
+통상,adj,common,usual
 회사,noun,company,"in legal context, a corporation"
 기업,noun,company,"in legal context, a corporation"
+기업,noun,company,"in non-legal context, any business, without respect to incorporation"
+방문자,noun,company,social visitors
+동료,noun,company,companionship
+중대,noun,company,military unit
 비교하다,verb,compare,to assess the similarities between two things or between one thing and another
 비유하다,verb,compare,to assess the similarities between two things or between one thing and another
 견주다,verb,compare,to assess the similarities between two things or between one thing and another
@@ -277,6 +458,8 @@ word,part_of_speech,english_word,sense
 전자계산기,noun,computer,programmable electronic device
 콤퓨터,noun,computer,programmable electronic device
 뗀노,noun,computer,programmable electronic device
+콘서트,noun,concert,a musical entertainment in which several voices or instruments take part
+음악회,noun,concert,a musical entertainment in which several voices or instruments take part
 대화,noun,conversation,expression and exchange of individual ideas through talking with other people
 회화,noun,conversation,expression and exchange of individual ideas through talking with other people
 이야기,noun,conversation,expression and exchange of individual ideas through talking with other people
@@ -286,17 +469,41 @@ word,part_of_speech,english_word,sense
 료리,noun,cooking,the process of preparing food by using heat
 쌀쌀하다,adj,cool,having a slightly low temperature
 시원하다,adj,cool,having a slightly low temperature
+멋있다,adj,cool,"colloquial: being considered as ""popular"" by others"
+멋지다,adj,cool,"colloquial: being considered as ""popular"" by others"
+훌륭하다,adj,cool,"colloquial: being considered as ""popular"" by others"
+멋있다,adj,cool,colloquial: in fashion
+쿨하다,adj,cool,colloquial: in fashion
 교정하다,verb,correct,to make something become right that was previously wrong
 들다,verb,cost,"to incur a charge, a price"
 나라,noun,country,region of land
 국가,noun,country,region of land
+나라,noun,country,nation state
+국가,noun,country,nation state
+시골,noun,country,"the country, rural area, as opposed to the town or city"
+컨트리,noun,country,country music
+코스,noun,course,education: learning program
+과정,noun,course,education: learning program
+코스,noun,course,nautical: direction of movement of a vessel
+항로,noun,course,nautical: direction of movement of a vessel
+코스,noun,course,intended passage of voyage
+사촌,noun,cousin,child of a person’s parent’s brother or sister
+종형제,noun,cousin,child of a person’s parent’s brother or sister
 암소,noun,cow,female domesticated ox or other bovine
+소,noun,cow,any domestic bovine regardless of sex or age
 크림,noun,cream,oily part of milk
+크림,noun,cream,product to apply to the skin
 창조하다,verb,create,to put into existence
 문화,noun,culture,"arts, customs and habits"
 컵,noun,cup,drinking vessel
 고뿌,noun,cup,drinking vessel
 잔,noun,cup,drinking vessel
+잔,noun,cup,unit of measure
+손님,noun,customer,one who purchases or receives a product or service
+손,noun,customer,one who purchases or receives a product or service
+객,noun,customer,one who purchases or receives a product or service
+고객,noun,customer,one who purchases or receives a product or service
+고객님,noun,customer,one who purchases or receives a product or service
 끊다,verb,cut,to perform an incision
 아빠,noun,dad,informal: a father
 아버지,noun,dad,informal: a father
@@ -306,16 +513,32 @@ word,part_of_speech,english_word,sense
 춤꾼,noun,dancer,person who dances
 위험하다,adj,dangerous,full of danger
 어둡다,adj,dark,having an absolute or relative lack of light
+어둡다,adj,dark,"hidden, secret"
+어둡다,adj,dark,without moral or spiritual light
+어둡다,adj,dark,"not bright or light, deeper in hue"
 연월일,noun,date,"that which specifies the time of writing, inscription etc."
 년월일,noun,date,"that which specifies the time of writing, inscription etc."
 월일,noun,date,"that which specifies the time of writing, inscription etc."
 날짜,noun,date,"that which specifies the time of writing, inscription etc."
+날짜,noun,date,point of time at which a transaction or event takes place
+만날 약속,noun,date,pre-arranged social meeting
+데이트,noun,date,pre-arranged social meeting
+데이트,noun,date,meeting with a lover or potential lover; a person so met
 대추,noun,date,fruit of the date palm
 딸,noun,daughter,female offspring
 따님,noun,daughter,female offspring
 낮,noun,day,period between sunrise and sunset
+일주야,noun,day,period of 24 hours
+하루,noun,day,period of 24 hours
+일,noun,day,period of 24 hours
+일,noun,day,period from midnight to the following midnight
+날,noun,day,period from midnight to the following midnight
+하루,noun,day,period from midnight to the following midnight
+주간,noun,day,"part of a day period which one spends at one's job, school, etc."
 해결하다,verb,decide,to resolve or settle
 정하다,verb,decide,to resolve or settle
+결정하다,verb,decide,give judgement
+정하다,verb,decide,give judgement
 맛있다,adj,delicious,pleasing to taste
 서술하다,verb,describe,to represent in words
 묘사하다,verb,describe,to represent in words
@@ -334,37 +557,75 @@ word,part_of_speech,english_word,sense
 돌아가시다,verb,die,to stop living
 숨지다,verb,die,to stop living
 사망하다,verb,die,to stop living
+다이어트,noun,diet,controlled regimen of food
 차이,noun,difference,quality of being different
 다름,noun,difference,quality of being different
+차,noun,difference,arithmetic: result of a subtraction
+차이,noun,difference,arithmetic: result of a subtraction
 다른,adj,different,not the same
 어렵다,adj,difficult,"hard, not easy"
 힘들다,adj,difficult,"hard, not easy"
 저녁,noun,dinner,evening meal
+점심,noun,dinner,midday meal
+정찬,noun,dinner,a formal meal
+만찬,noun,dinner,a formal meal
 더럽다,adj,dirty,covered with or containing dirt
 토론(討論)하다,verb,discuss,to converse or debate concerning a particular topic
 상의(相議)하다,verb,discuss,to converse or debate concerning a particular topic
 토의(討議)하다,verb,discuss,to converse or debate concerning a particular topic
 접시,noun,dish,vessel for holding/serving food
+접시,noun,dish,contents of such a vessel
+요리,noun,dish,specific type of food
+료리,noun,dish,specific type of food
+디시,noun,dish,specific type of food
+식사,noun,dish,specific type of food
+디시,noun,dish,type of antenna
+하다,verb,do,"perform, execute"
 박사,noun,doctor,person who has attained a doctorate
 개,noun,dog,animal
 견,noun,dog,animal
 구,noun,dog,animal
 강아지,noun,dog,animal
+개 같은 놈,noun,dog,morally reprehensible person — see also scoundrel
 달러,noun,dollar,designation for specific currency
 불,noun,dollar,designation for specific currency
 문,noun,door,"portal of entry into a building, room or vehicle"
 아래에,adv,down,"from a high to a low position, downwards"
 아래로,adv,down,"from a high to a low position, downwards"
 밑으로,adv,down,"from a high to a low position, downwards"
+남쪽으로,adv,down,to the south
+내려가다,adv,down,away from the city
+꺼져,adv,down,into a state of non-operation
+닫혀,adv,down,into a state of non-operation
 아래층에,adv,downstairs,downstairs (adverb)
 아래층으로,adv,downstairs,downstairs (adverb)
 그리다,verb,draw,to produce a picture
+뽑다,verb,draw,"to pull out, unsheath"
+끌다,verb,draw,to attract
+끌어내다,verb,draw,to deduce or infer
+따르다,verb,draw,to rely on
+드리우다,verb,draw,to close curtains etc.
+비기다,verb,draw,to end a game with neither side winning
+입다,verb,dress,to put on clothes — see also get dressed
+옷을 입다,verb,dress,to put on clothes — see also get dressed
 마시다,verb,drink,consume liquid through the mouth
 드시다,verb,drink,consume liquid through the mouth
 먹다,verb,drink,consume liquid through the mouth
 운전하다,verb,drive,to operate (a wheeled motorized vehicle)
 드라이브하다,verb,drive,to operate (a wheeled motorized vehicle)
 몰다,verb,drive,to operate (a wheeled motorized vehicle)
+몰다,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+운전사,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+운전자,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+기사,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+운전기사,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+드라이버,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+운전사,noun,driver,person who drives some other vehicle
+운전자,noun,driver,person who drives some other vehicle
+기사,noun,driver,person who drives some other vehicle
+드라이버,noun,driver,person who drives some other vehicle
+드라이버,noun,driver,program acting as interface between an application and hardware
+드라이버,noun,driver,golf club
 이삭,noun,ear,fruiting body of a grain plant
 귀,noun,ear,organ of hearing
 일찍,adv,early,at a time before expected
@@ -373,116 +634,223 @@ word,part_of_speech,english_word,sense
 쉽다,adj,easy,requiring little skill or effort
 용이하다,adj,easy,requiring little skill or effort
 간단하다,adj,easy,requiring little skill or effort
+헤프다,adj,easy,consenting readily to sex
 먹다,verb,eat,"to ingest — see also consume, ingest"
 드시다,verb,eat,"to ingest — see also consume, ingest"
 잡수시다,verb,eat,"to ingest — see also consume, ingest"
 섭취하다,verb,eat,"to ingest — see also consume, ingest"
+괴롭히다,verb,eat,colloquial: cause to worry
+식사하다,verb,eat,eat a meal
+밥 먹다,verb,eat,eat a meal
 달걀,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+계란,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+달걀,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 코끼리,noun,elephant,mammal
 끝나다,verb,end,"intransitive: be finished, be terminated"
 마치다,verb,end,"intransitive: be finished, be terminated"
+끝내다,verb,end,"transitive: finish, terminate (something)"
+완성하다,verb,end,"transitive: finish, terminate (something)"
+종료하다,verb,end,"transitive: finish, terminate (something)"
+결론짓다,verb,end,"transitive: finish, terminate (something)"
 즐기다,verb,enjoy,to receive pleasure or satisfaction from something
+향수하다,verb,enjoy,to have the use or benefit of something
+누리다,verb,enjoy,to have the use or benefit of something
 충분히,adv,enough,sufficiently
 유로,noun,euro,currency unit of the European Monetary Union
+-조차,adv,even,implying extreme example
+심지어,adv,even,implying extreme example
+-도,adv,even,implying extreme example
+-까지,adv,even,implying extreme example
+까지도,adv,even,implying extreme example
+더,adv,even,emphasising comparative
+저녁,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 행사,noun,event,occurrence
 이벤트,noun,event,occurrence
 사건,noun,event,occurrence
+사건,noun,event,physics: point in spacetime
+사건,noun,event,probability theory: a set of some of the possible outcomes
 이제까지,adv,ever,always
 늘,adv,ever,always
 항상,adv,ever,always
 언제나,adv,ever,always
+언제든,adv,ever,at any time
 보기,noun,example,something representative of a group
 예,noun,example,something representative of a group
 례,noun,example,something representative of a group
 예시,noun,example,something representative of a group
 례시,noun,example,something representative of a group
+예,noun,example,something serving to explain or illustrate a rule
+례,noun,example,something serving to explain or illustrate a rule
 흥분하다,adj,excited,having great enthusiasm and energy
 신나다,adj,excited,having great enthusiasm and energy
 연습하다,verb,exercise,exert for the sake of training
 비싸다,adj,expensive,having a high price or cost
 설명하다,verb,explain,to make intelligible
+변명하다,verb,explain,excuse
 눈,noun,eye,organ
+귀,noun,eye,hole in needle
+바늘귀,noun,eye,hole in needle
+눈,noun,eye,of a hurricane
+눈,noun,eye,mark on an animal resembling an eye
+눈,noun,eye,of a potato
+눈,noun,eye,ability to notice what others might miss
 얼굴,noun,face,anatomy: front part of head
 낯,noun,face,anatomy: front part of head
 안면,noun,face,anatomy: front part of head
+표정,noun,face,facial expression
+체면,noun,face,public image
+인상,noun,face,public image
+면,noun,face,geometry: bounding surface of a polyhedron
 사실,noun,fact,an honest observation
 진상,noun,fact,an honest observation
+사실,noun,fact,something actual
+현실,noun,fact,something which has become real
+사실,noun,fact,something concrete used as a basis for further interpretation
+실제,noun,fact,an objective consensus on a fundamental reality
+기정사실,noun,fact,an objective consensus on a fundamental reality
+사실,noun,fact,an objective consensus on a fundamental reality
+정보,noun,fact,information about a particular subject
+사실,noun,fact,information about a particular subject
+멸망,noun,fall,a period of decline before the end
 거짓,adj,false,"untrue, not factual, wrong"
 유명한,adj,famous,well known
 농장,noun,farm,place where agricultural activities take place
 농부,noun,farmer,person who works the land and/or who keeps livestock
 농사꾼,noun,farmer,person who works the land and/or who keeps livestock
+빨리,adv,fast,with great speed
 뚱뚱하다,adj,fat,carrying a larger than normal amount of fat on one's body
+두껍다,adj,fat,thick
 아버지,noun,father,male parent
 아빠,noun,father,male parent
 아버님,noun,father,male parent
 애비,noun,father,male parent
 부친,noun,father,male parent
+신부,noun,father,term of address for a priest
+느끼다,verb,feel,transitive: to experience an emotion or other mental state about
+ᆯ 것 같다,verb,feel,transitive: to think or believe
 감각,noun,feeling,sensation
 느낌,noun,feeling,sensation
+감정,noun,feeling,emotion; impression
+기,noun,feeling,in plural: emotional state or well-being
+연,noun,feeling,in plural: emotional attraction or desire
+련,noun,feeling,in plural: emotional attraction or desire
 축제,noun,festival,event or community gathering
 축일,noun,festival,event or community gathering
 채우다,verb,fill,"add contents to, so it is full"
 찾다,verb,find,"encounter, locate, discover"
+훌륭하다,adj,fine,"good-looking, attractive"
 끝내다,verb,finish,to complete
 완성하다,verb,finish,to complete
 종료하다,verb,finish,to complete
 마감하다,verb,finish,to complete
 불,noun,fire,oxidation reaction
+큰불,noun,fire,damaging occurrence of fire
+화재,noun,fire,damaging occurrence of fire
+화덕,noun,fire,heater or stove used in place of real fire
 우선,adv,first,before anything else
 물고기,noun,fish,vertebrate animal
 고기,noun,fish,vertebrate animal
 어류,noun,fish,vertebrate animal
+생선,noun,fish,flesh of fish as food
+물고기,noun,fish,flesh of fish as food
 탈출,noun,flight,act of fleeing
 날기,noun,flight,act of flying
 비행,noun,flight,act of flying
+날기,noun,flight,instance of flying
+비행,noun,flight,journey made by an aircraft
+항공편,noun,flight,journey made by an aircraft
 바닥,noun,floor,bottom part of a room
 꽃,noun,flower,reproductive structure in angiosperms
 날다,verb,fly,to travel through air
 따르다,verb,follow,to go or come after in physical space
+팔로우하다,verb,follow,to subscribe to see content from an account on a social media platform
 음식,noun,food,any substance consumed by living organisms to sustain life
 먹을 것,noun,food,any substance consumed by living organisms to sustain life
 식량,noun,food,any substance consumed by living organisms to sustain life
 먹이,noun,food,any substance consumed by living organisms to sustain life
 밥,noun,food,any substance consumed by living organisms to sustain life
 진지,noun,food,any substance consumed by living organisms to sustain life
+식품,noun,food,foodstuff
 발,noun,foot,part of human body
+발,noun,foot,part of animal’s body
+피트,noun,foot,unit of measure
 축구,noun,football,association football
 풋볼,noun,football,association football
+축구공,noun,football,ball
 잊다,verb,forget,to lose remembrance of
 잊어버리다,verb,forget,to lose remembrance of
 까먹다,verb,forget,to lose remembrance of
 자유,adj,free,not imprisoned
+자유적(自由的)이다,adj,free,unconstrained
+막힘없다,adj,free,unobstructed
+자의,adj,free,without obligations
+자유롭다,adj,free,without obligations
+자유,adj,free,software: with very few limitations on distribution or improvement
 친구,noun,friend,person whose company one enjoys
 동무,noun,friend,person whose company one enjoys
 벗,noun,friend,person whose company one enjoys
 친절하다,adj,friendly,"approachable, warm"
 앞의,adj,front,located at or near the front
 과일,noun,fruit,part of plant
+과일,noun,fruit,food
+성과,noun,fruit,figuratively: positive end result or reward of labour or effort
 채우다,adj,full,containing the maximum possible amount
+완전하다,adj,full,complete
+부르다,adj,full,"satisfied, in relation to eating"
 재미,noun,fun,enjoyment or amusement
 우습다,adj,funny,amusing; comical
 재미있다,adj,funny,amusing; comical
+이상하다,adj,funny,strange; unusual
 미래,noun,future,the time ahead
 장래,noun,future,the time ahead
 놀이,noun,game,"playful activity that may be unstructured, amusement, pastime"
 게임,noun,game,"playful activity that may be unstructured, amusement, pastime"
+경기,noun,game,particular instance of playing a game; match
+시합,noun,game,particular instance of playing a game; match
+사냥감,noun,game,wild animals hunted for food
+수렵물,noun,game,wild animals hunted for food
+어획물,noun,game,wild animals hunted for food
 정원,noun,garden,piece of land outside with flowers and plants
 지리학,noun,geography,study of physical structure and inhabitants of the Earth
 얻다,verb,get,to obtain
+받다,verb,get,to receive
+되다,verb,get,to become
+가져오다,verb,get,to fetch
+입다,verb,get,to don
+쓰다,verb,get,to don
+벗다,verb,get,to doff
+도착하다,verb,get,to arrive at
+이르다,verb,get,to arrive at
+도달하다,verb,get,to arrive at
+시작하다,verb,get,to begin
+타다,verb,get,"to take, catch (transportation)"
+알아듣다,verb,get,colloquial: to understand
 소녀,noun,girl,young female person
 여자(女子)아이,noun,girl,young female person
 녀자(女子)아이,noun,girl,young female person
+여자,noun,girl,woman — see also woman
+녀자,noun,girl,woman — see also woman
 여자친구,noun,girlfriend,a female partner in a romantic relationship
 여친,noun,girlfriend,a female partner in a romantic relationship
 걸프렌드,noun,girlfriend,a female partner in a romantic relationship
+여사친,noun,girlfriend,a female friend
 주다,verb,give,transfer the possession of something to someone else
 드리다,verb,give,transfer the possession of something to someone else
 유리,noun,glass,substance
 류리,noun,glass,substance
+글라스,noun,glass,drinking vessel
+잔,noun,glass,drinking vessel
+컵,noun,glass,drinking vessel
+고뿌,noun,glass,drinking vessel
 가다,verb,go,to move through space (especially from one place to another)
+작동하다,verb,go,"of a machine, to work"
+사라지다,verb,go,to disappear
+내다,verb,go,to make (a specified sound)
 좋다,adj,good,acting in the interest of good; ethical good intentions
 좋은,adj,good,acting in the interest of good; ethical good intentions
+좋다,adj,good,useful for a particular purpose
+좋은,adj,good,useful for a particular purpose
+맛있다,adj,good,"of food, having a particularly pleasant taste"
 작별,noun,goodbye,an utterance of goodbye
 할아버지,noun,grandfather,grandfather (from either side)
 친할아버지,noun,grandfather,grandfather (from either side)
@@ -493,6 +861,11 @@ word,part_of_speech,english_word,sense
 크다,adj,great,"very big, large scale"
 거대하다,adj,great,"very big, large scale"
 위대하다,adj,great,"very big, large scale"
+대단하다,adj,great,very good
+훌륭하다,adj,great,very good
+근사하다,adj,great,very good
+멋지다,adj,great,very good
+위대하다,adj,great,important title
 초록,noun,green,colour
 녹색,noun,green,colour
 록색,noun,green,colour
@@ -508,13 +881,22 @@ word,part_of_speech,english_word,sense
 헬스장,noun,gym,sporting facility specialized for lifting weights and exercise
 털,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
 머리,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+머리칼,noun,hair,mass of such filaments on the human head
+머리카락,noun,hair,mass of such filaments on the human head
+머리,noun,hair,mass of such filaments on the human head
+머리털,noun,hair,mass of such filaments on the human head
 반,noun,half,one of two equal parts into which anything may be divided
+반,noun,half,math: fraction
 손,noun,hand,part of the fore limb
+바늘,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+침,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
 일어나다,verb,happen,to occur
 발생하다,verb,happen,to occur
 행복하다,adj,happy,"contented, joyous"
 기뻐하다,adj,happy,"contented, joyous"
 기쁘다,adj,happy,"contented, joyous"
+운좋은,adj,happy,"fortunate, lucky"
+만족하다,adj,happy,content (to do something); having no objection (to something)
 모자,noun,hat,a head covering
 싫어하다,verb,hate,to dislike intensely
 미워하다,verb,hate,to dislike intensely
@@ -522,19 +904,38 @@ word,part_of_speech,english_word,sense
 가지다,verb,have,to possess
 갖다,verb,have,to possess
 있으시다,verb,have,to possess
+띠다,verb,have,to partake of something
+낳다,verb,have,give birth to — see also give birth
+출산하다,verb,have,give birth to — see also give birth
+까다,verb,have,give birth to — see also give birth
 머리,noun,head,part of the body
+머리,noun,head,mental aptitude or skill
+두뇌,noun,head,mental aptitude or skill
+마리,noun,head,measure word for livestock and game
+통,noun,head,"clump of seeds, leaves or flowers"
 건강,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 건강하다,adj,healthy,enjoying good health
 듣다,verb,hear,to perceive with the ear
 도움,noun,help,action given to provide assistance
 원조,noun,help,action given to provide assistance
+도우미,noun,help,person or persons who provides assistance with some task
+조수,noun,help,person or persons who provides assistance with some task
+도움말,noun,help,textual support of a software application
 여기,adv,here,"in, on, or at this place"
+이리,adv,here,to this place
+이쪽으로,adv,here,to this place
 높다,adj,high,elevated; tall
 역사,noun,history,aggregate of past events
 력사,noun,history,aggregate of past events
+사학,noun,history,branch of knowledge that studies the past
+역사,noun,history,record or narrative description of past events
+력사,noun,history,record or narrative description of past events
+병력,noun,history,medicine: list of past and continuing medical conditions
 취미,noun,hobby,activity done for enjoyment in spare time
 새홀리기,noun,hobby,Falco subbuteo
 집에,adv,home,at home
+집에,adv,home,homewards
+집으로,adv,home,homewards
 숙제,noun,homework,work that is done at home
 바라다,verb,hope,"to want something to happen, with expectation that it might"
 희망하다,verb,hope,"to want something to happen, with expectation that it might"
@@ -543,15 +944,29 @@ word,part_of_speech,english_word,sense
 병원,noun,hospital,large medical facility
 의원,noun,hospital,large medical facility
 뜨겁다,adj,hot,having a high temperature
+덥다,adj,hot,of the weather
+덥다,adj,hot,feeling the sensation of heat
+열(이) 나는,adj,hot,feverish
+맵다,adj,hot,spicy
+빼앗기다,adj,hot,slang: stolen
+뺏기다,adj,hot,slang: stolen
+섹시하다,adj,hot,slang: physically very attractive
+잘생겼다,adj,hot,slang: physically very attractive
+핫하다,adj,hot,"popular, in demand"
+인기(가) 많다,adj,hot,"popular, in demand"
 호텔,noun,hotel,establishment providing accommodation
 여관,noun,hotel,establishment providing accommodation
 려관,noun,hotel,establishment providing accommodation
 객사,noun,hotel,establishment providing accommodation
 시,noun,hour,time period of sixty minutes
 시간,noun,hour,time period of sixty minutes
+시,noun,hour,"unit to denote the hour, such as military usage in English"
 집,noun,house,human abode
 댁,noun,house,human abode
+의원,noun,house,debating chamber for government politicians
 얼마나,adv,how,to what degree
+어떻게,adv,how,in what manner
+어찌,adv,how,in what manner
 그러나,adv,however,nevertheless
 하지만,adv,however,nevertheless
 -(으)나,adv,however,nevertheless
@@ -563,13 +978,21 @@ word,part_of_speech,english_word,sense
 양반,noun,husband,male partner in marriage
 량반,noun,husband,male partner in marriage
 얼음,noun,ice,water in frozen form
+아이스,noun,ice,frozen dessert
+아이스크림,noun,ice,frozen dessert
 아이스크림,noun,ice cream,dessert
 에스키모,noun,ice cream,dessert
 까까오,noun,ice cream,dessert
+생각,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+아이디어,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+사상,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+구상,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
 상상하다,verb,imagine,(transitive) to form a mental image of something
 중요하다,adj,important,having relevant and crucial value
 개선하다,verb,improve,to make something better
+개선되다,verb,improve,to become better
 안으로,adv,in,moving to the interior
+포함하다,verb,include,"to contain, as part of a whole"
 안내,noun,information,communicable knowledge
 정보,noun,information,communicable knowledge
 흥미를 끌다,verb,interest,to attract attention or concern
@@ -581,67 +1004,155 @@ word,part_of_speech,english_word,sense
 섬,noun,island,area of land completely surrounded by water
 도,noun,island,area of land completely surrounded by water
 재킷,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+재킷,noun,jacket,piece of a person's suit
 청바지,noun,jeans,denim trousers
 진,noun,jeans,denim trousers
 일,noun,job,task
+직업,noun,job,economic role for which a person is paid
+일자리,noun,job,economic role for which a person is paid
+일,noun,job,economic role for which a person is paid
+아르바이트,noun,job,economic role for which a person is paid
+알바,noun,job,economic role for which a person is paid
+조브,noun,job,computing: task(s) carried out in batch mode
+가입하다,verb,join,to come into the company of
+합류하다,verb,join,to become a member of
+참가하다,verb,join,to become a member of
+가맹하다,verb,join,to become a member of
+가입하다,verb,join,to become a member of
 즙,noun,juice,liquid from a plant
 과일단물,noun,juice,liquid from a plant
+즙,noun,juice,beverage made of juice
+주스,noun,juice,beverage made of juice
+과일단물,noun,juice,beverage made of juice
 지키다,verb,keep,to maintain possession of
+지키다,verb,keep,to maintain the condition of; to preserve
+유지하다,verb,keep,to maintain the condition of; to preserve
+머물다,verb,keep,"to remain in, to be confined to"
+머무르다,verb,keep,"to remain in, to be confined to"
+참다,verb,keep,to restrain
+계속하다,verb,keep,to continue
+기르다,verb,keep,of livestock: to raise; to care for
 종류,noun,kind,"type, race, category"
 부엌,noun,kitchen,room
 주방,noun,kitchen,room
 알다,verb,know,be justifiably certain or sure about (something true)
+...와 친한 사이다,verb,know,be acquainted or familiar with
+알다,verb,know,be acquainted or familiar with
 땅,noun,land,part of Earth that is not covered by oceans or other bodies of water
 뭍,noun,land,part of Earth that is not covered by oceans or other bodies of water
 토지,noun,land,part of Earth that is not covered by oceans or other bodies of water
 육지,noun,land,part of Earth that is not covered by oceans or other bodies of water
 륙지,noun,land,part of Earth that is not covered by oceans or other bodies of water
+땅,noun,land,real estate or landed property
+토지,noun,land,real estate or landed property
+부동산,noun,land,real estate or landed property
+땅,noun,land,country or region
+나라,noun,land,country or region
+국가,noun,land,country or region
+조국,noun,land,someone's homeplace
+땅,noun,land,ground that is suitable for farming
+토지,noun,land,ground that is suitable for farming
 언어,noun,language,body of words used as a form of communication
 말,noun,language,body of words used as a form of communication
+언어,noun,language,the ability to communicate using words
+말,noun,language,the ability to communicate using words
+용어,noun,language,vocabulary of a particular field
+용어,noun,language,particular words used
+단어,noun,language,particular words used
+언어,noun,language,computer language — see also computer language
 크다,adj,large,of greater size — see also big
 늦다,adv,late,past a designated time
 지각하다,adv,late,past a designated time
 후에,adv,later,more late
 후,adv,later,more late
+나중에,adv,later,afterward in time
 웃음,noun,laugh,expression of mirth peculiar to the human species
 웃음소리,noun,laugh,expression of mirth peculiar to the human species
 배우다,verb,learn,to acquire knowledge or ability
 떠나다,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 나가다,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 방치하다,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+떠나다,verb,leave,to depart (intransitive)
 왼쪽,noun,left,the left side
 좌측,noun,left,the left side
+좌익,noun,left,the ensemble of left-wing political parties
 다리,noun,leg,lower limb from groin to ankle
 각,noun,leg,lower limb from groin to ankle
+종아리,noun,leg,portion of the lower appendage from knee to ankle
+하퇴,noun,leg,portion of the lower appendage from knee to ankle
+여정,noun,leg,stage of journey
+구간,noun,leg,stage of journey
+경기,noun,leg,game played in a tournament
+변,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
+빗변,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
 수업,noun,lesson,section of learning or teaching
 과,noun,lesson,section of learning or teaching
+과,noun,lesson,learning task assigned to a student
+수업,noun,lesson,something learned
+교훈,noun,lesson,something that serves as a warning or encouragement
 허락하다,verb,let,allow
+임대하다,verb,let,put up for rent
 문자,noun,letter,a symbol in an alphabet
 글씨,noun,letter,a symbol in an alphabet
 글자,noun,letter,a symbol in an alphabet
+편지,noun,letter,written message
+편지,noun,letter,written message
 도서관,noun,library,"institution which holds books, etc."
+장서,noun,library,collection of books
+라이브러리,noun,library,collection of subprograms
+서고,noun,library,deck or draw pile
 거짓말하다,verb,lie,tell an intentional untruth
 거짓말을 하다,verb,lie,tell an intentional untruth
 놓이다,verb,lie,be in horizontal position
 생명,noun,life,the state of being alive
 삶,noun,life,the state of being alive
 생활,noun,life,the state of being alive
+존재,noun,life,the essence of the manifestation and the foundation of the being
+생활,noun,life,the essence of the manifestation and the foundation of the being
+존재,noun,life,"the world in general, existence"
 밝다,adj,light,having light
+창백(蒼白)하다,adj,light,pale in colour
+옅다,adj,light,pale in colour
+밝다,adj,light,pale in colour
 가볍다,adj,light,of low weight
 경량(輕量)의,adj,light,of low weight
+저(低)하다,adj,light,"low in fat, calories, alcohol, salt, etc."
 좋아하다,verb,like,to enjoy
+좋아하다,verb,like,to find attractive
+좋아요하다,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
 라인,noun,line,group of people born in a certain year
+줄,noun,line,"path through two or more points, threadlike mark"
+선,noun,line,"path through two or more points, threadlike mark"
+라인,noun,line,"path through two or more points, threadlike mark"
+행,noun,line,"single horizontal row of text on a screen, printed paper, etc."
 사자,noun,lion,big cat Panthera leo
 듣다,verb,listen,to pay attention to a sound
+듣다,verb,listen,to expect or wait for a sound
+듣다,verb,listen,to accept advice or obey instruction
+들어주다,verb,listen,to accept advice or obey instruction
+들리다,verb,listen,to hear (something)
 작은,adj,little,small in size
 살다,verb,live,be alive
+살다,verb,live,have permanent residence
+거주하다,verb,live,have permanent residence
 지방의,adj,local,of a nearby location
 길게,adv,long,over a great distance
 멀리,adv,long,over a great distance
+오래,adv,long,for a long duration
 보다,verb,look,to try to see
+보이다,verb,look,"to appear, to seem"
+생기다,verb,look,"to appear, to seem"
+마주하다,verb,look,to face
+향하다,verb,look,to face
 잃다,verb,lose,cause (something) to cease to be in one's possession or capability
+지다,verb,lose,(transitive) fail to win
+패배하다,verb,lose,(transitive) fail to win
+여위다,verb,lose,shed (weight)
+살이 빠지다,verb,lose,shed (weight)
+지다,verb,lose,fail to be the winner
 사랑하다,verb,love,have a strong affection for
 애정을 품다,verb,love,have a strong affection for
+좋아하다,verb,love,be strongly inclined towards doing
 점심,noun,lunch,meal around midday
 점심(點心)밥,noun,lunch,meal around midday
 점심(點心) 식사,noun,lunch,meal around midday
@@ -652,14 +1163,38 @@ word,part_of_speech,english_word,sense
 기계,noun,machine,mechanical or electrical device
 기계,noun,machine,mechanical or electrical device
 머신,noun,machine,mechanical or electrical device
+기구,noun,machine,group that controls an organization
 잡지,noun,magazine,periodical
+탄약고,noun,magazine,ammunition storehouse
+탄창,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 주요하다,adj,main,"chief, most important, or principal in extent, etc."
 만들다,verb,make,to construct
 하다,verb,make,to construct
 제작하다,verb,make,to construct
+생산하다,verb,make,to produce
+만들다,verb,make,to create
+제작하다,verb,make,to create
+이루다,verb,make,to form
+구성하다,verb,make,to constitute
+해석하다,verb,make,to interpret
+성공하다,verb,make,to bring into success
+달성하다,verb,make,to bring into success
+일으키다,verb,make,to cause to do
+시키다,verb,make,to force to do
+벌다,verb,make,"to earn, to gain (money)"
+쇼핑 센터,noun,mall,enclosed shopping centre
 남자,noun,man,adult male human
 사내,noun,man,adult male human
+사람,noun,man,a human being
+인류,noun,man,a human being
+인간,noun,man,a human being
 지도,noun,map,visual representation of an area
+시장,noun,market,spacious site for trading
+마켓,noun,market,spacious site for trading
+시장,noun,market,group of potential customers
+마켓,noun,market,group of potential customers
+시장,noun,market,geographical area where a commercial demand exists
+마켓,noun,market,geographical area where a commercial demand exists
 맞다,verb,match,intransitive: to agree; to be equal
 맞추다,verb,match,intransitive: to agree; to be equal
 아마,adv,maybe,indicating a lack of certainty
@@ -672,19 +1207,44 @@ word,part_of_speech,english_word,sense
 기울,noun,meal,coarse-ground edible part of various grains
 밀기울,noun,meal,coarse-ground edible part of various grains
 의도(意圖)하다,verb,mean,to intend; plan on doing
+의도(意圖)하다,verb,mean,to have intentions of some kind
+의미(意味)하다,verb,mean,"to convey, indicate"
+뜻하다,verb,mean,"to convey, indicate"
+의미(意味)하다,verb,mean,to signify
+의미(意味)하다,verb,mean,to have conviction in what one says
+초래(招來)하다,verb,mean,to result in; bring about
 뜻,noun,meaning,symbolic value of something
 의미,noun,meaning,symbolic value of something
 의의,noun,meaning,symbolic value of something
+의미,noun,meaning,"significance of a thing, as ""the meaning of life"""
+의의,noun,meaning,"significance of a thing, as ""the meaning of life"""
+목적,noun,meaning,"significance of a thing, as ""the meaning of life"""
+뜻,noun,meaning,definition or connotation of a word
+의미,noun,meaning,definition or connotation of a word
 고기,noun,meat,animal flesh used as food
 살,noun,meat,animal flesh used as food
 -육,noun,meat,animal flesh used as food
+고기,noun,meat,type of meat
+살,noun,meat,type of meat
+-육,noun,meat,type of meat
+고기,noun,meat,any sort of flesh
+살,noun,meat,any sort of flesh
+-육,noun,meat,any sort of flesh
 만나다,verb,meet,to come face to face with by accident; to encounter
 뵙다,verb,meet,to come face to face with by accident; to encounter
 만나기,noun,meeting,action noun of the verb to meet
+회합,noun,meeting,gathering for a purpose
+회의,noun,meeting,gathering for a purpose
+만나기,noun,meeting,encounter between people
 회원,noun,member,one who officially belongs to a group
 멤버,noun,member,one who officially belongs to a group
 메뉴,noun,menu,details of the food to be served at a banquet
 메뉴판,noun,menu,details of the food to be served at a banquet
+메뉴,noun,menu,list of dishes offered in a restaurant
+메뉴판,noun,menu,list of dishes offered in a restaurant
+차림표,noun,menu,list of dishes offered in a restaurant
+식단표,noun,menu,list of dishes offered in a restaurant
+메뉴,noun,menu,computing: list from which the user may select an operation to be performed
 소식,noun,message,"communication, concept or information conveyed"
 메시지,noun,message,"communication, concept or information conveyed"
 전언,noun,message,"communication, concept or information conveyed"
@@ -695,51 +1255,103 @@ word,part_of_speech,english_word,sense
 밤중,noun,midnight,middle of the night
 반야,noun,midnight,middle of the night
 심야,noun,midnight,middle of the night
+자정,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+밤 열두시,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+밤 12시,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 마일,noun,mile,measure of length
+노트,noun,mile,informal: one mile per hour
 젖,noun,milk,liquid
 유즙,noun,milk,liquid
 밀크,noun,milk,liquid
 우유,noun,milk,liquid
 분,noun,minute,unit of time
+회의록,noun,minute,record of meeting
+의사록,noun,minute,record of meeting
 놓치다,verb,miss,to fail to hit
+그리워하다,verb,miss,to feel the absence of someone or something; to feel the want or need of
 실수,noun,mistake,an error
 잘못,noun,mistake,an error
 착각,noun,mistake,an error
 착오,noun,mistake,an error
 에러,noun,mistake,an error
 모델,noun,model,person
+모델,noun,model,miniature
+모형,noun,model,miniature
+모델,noun,model,simplified representation
+모범,noun,model,simplified representation
+모형,noun,model,simplified representation
+모형,noun,model,style
+모형,noun,model,structural design
 현대의,adj,modern,pertaining to the current time and style
 순간,noun,moment,very brief period of time
+모멘트,noun,moment,moment of force
 돈,noun,money,means of exchange and measure of value
 금전,noun,money,means of exchange and measure of value
 화폐,noun,money,means of exchange and measure of value
+돈,noun,money,currency
+화폐,noun,money,currency
+현금,noun,money,hard cash
+부,noun,money,wealth
 달,noun,month,period into which a year is divided
 월,noun,month,period into which a year is divided
 월간,noun,month,period into which a year is divided
 아침,noun,morning,part of the day between dawn and midday
+아침,noun,morning,the part of the day after midnight and before midday
+오전,noun,morning,the part of the day after midnight and before midday
 엄마,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 어머니,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 어머님,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 에미,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 어미,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 모친,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+엄마,noun,mother,one’s female parent
+어머니,noun,mother,one’s female parent
 산,noun,mountain,large mass of earth and rock
 메 뫼,noun,mountain,large mass of earth and rock
+태산,noun,mountain,large amount
 생쥐,noun,mouse,rodent of the genus Mus
 쥐,noun,mouse,rodent of the genus Mus
+마우스,noun,mouse,computing: input device
 입,noun,mouth,the opening of a creature through which food is ingested
+하구,noun,mouth,the end of a river out of which water flows
 움직이다,verb,move,(intransitive) to change place or posture; to go
+움직이다,verb,move,to act; to take action
+이사하다,verb,move,to change residence
+옮기다,verb,move,to change residence
+이동시키다,verb,move,(transitive) to change the place of something
+옮기다,verb,move,to cause to change place or posture; to set in motion
+이동시키다,verb,move,to transfer from one space or position to another
+움직이다,verb,move,to arouse the feelings or passions of
+움직이다,verb,move,to propose; to recommend
 영화,noun,movie,motion picture
 박물관,noun,museum,building or institution
 미술관,noun,museum,building or institution
 음악,noun,music,"sound, organized in time in a melodious way"
+음악,noun,music,any pleasing or interesting sounds
+악보,noun,music,sheet music
 -어야 하다,verb,must,be required to
 -어야 되다,verb,must,be required to
+-겠-,verb,must,"said about something that is very likely, probable, or certain to be true"
+-을 것이다,verb,must,"said about something that is very likely, probable, or certain to be true"
 이름짓다,verb,name,to give a name to
+고르다,verb,name,"to mention, specify"
+선택하다,verb,name,"to mention, specify"
+자세히 기입하다,verb,name,"to identify, define, specify"
+지명하다,verb,name,to designate for a role
+임명하다,verb,name,to designate for a role
+자연의,adj,natural,of or relating to nature
+자연스럽다,adj,natural,without additives
+자연스럽다,adj,natural,as expected
 가까이,adv,near,at or towards a position close in space or time
 필요하다,verb,need,to have an absolute requirement for
 요하다,verb,need,to have an absolute requirement for
+필요하다,verb,need,to want strongly
+요하다,verb,need,to want strongly
 소극적인,adj,negative,not positive or neutral
+음,adj,negative,mathematics: less than zero
+근처,noun,neighborhood,area near one's home
+부근,noun,neighborhood,area near one's home
+동네,noun,neighborhood,area near one's home
 절대로,adv,never,at no time
 결코,adv,never,at no time
 새롭다,adj,new,recently made or created
@@ -750,39 +1362,96 @@ word,part_of_speech,english_word,sense
 소문,noun,news,new information of interest
 뉴스,noun,news,new information of interest
 알림,noun,news,new information of interest
+뉴스,noun,news,reports of current events
+기사,noun,news,reports of current events
+보도,noun,news,reports of current events
 신문,noun,newspaper,publication
 좋은,adj,nice,"pleasant, satisfactory"
+착하다,adj,nice,"attractive, friendly"
 밤,noun,night,period between sunset and sunrise
+박,noun,night,night spent away from home
+황혼,noun,night,nightfall
 코,noun,nose,protuberance on the face
+코,noun,nose,"snout, nose of an animal"
+코,noun,nose,tip of an object
 안,adv,not,negates meaning of another word
 ...아니다,adv,not,negates meaning of another word
+기록,noun,note,memorandum
+메모,noun,note,memorandum
+노트,noun,note,memorandum
+노트,noun,note,short informal letter
+메모,noun,note,short informal letter
+음표,noun,note,character indicating the length and pitch of a tone
+음표,noun,note,musical sound
 지금,adv,now,at the present time
 이제,adv,now,at the present time
+자,adv,now,(word to introduce a point)
+그런데,adv,now,(word to introduce a point)
 숫자,noun,number,abstract entity used to describe quantity
 수,noun,number,abstract entity used to describe quantity
+숫자,noun,number,numeral
+수사,noun,number,numeral
+번호,noun,number,used to show the rank of something in a list or sequence
+번,noun,number,used to show the rank of something in a list or sequence
+숫자,noun,number,quantity
+수량,noun,number,quantity
+번호,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+번호,noun,number,informal: telephone number
+수,noun,number,"grammar: state of being singular, dual or plural"
 간호원,noun,nurse,person trained to provide care for the sick
 간호사,noun,nurse,person trained to provide care for the sick
+간호사,noun,nurse,person who takes care of other people's young
+유모,noun,nurse,person who takes care of other people's young
+보모,noun,nurse,person who takes care of other people's young
 물건,noun,object,thing
 것,noun,object,thing
+목적,noun,object,"the goal, end or purpose of something"
+목적어,noun,object,in grammar
+대상,noun,object,person or thing to which an emotion is directed
+객체,noun,object,object-oriented programming: instantiation of a class or structure
 대양,noun,ocean,one of the large bodies of water
 바다,noun,ocean,one of the large bodies of water
 의식,noun,office,ceremonial religious duty or rite
 예배,noun,office,ceremonial religious duty or rite
 례배,noun,office,ceremonial religious duty or rite
+지위,noun,office,position of responsibility
+직,noun,office,position of responsibility
+직위,noun,office,position of responsibility
+사무소,noun,office,room(s) or building used for non-manual work
+사무실,noun,office,room(s) or building used for non-manual work
+오피스,noun,office,room(s) or building used for non-manual work
+관청,noun,office,major governmental division
+국,noun,office,major governmental division
+청,noun,office,major governmental division
+부,noun,office,major governmental division
 수시로,adv,often,"frequently, many times"
 자주,adv,often,"frequently, many times"
 흔히,adv,often,"frequently, many times"
 낡다,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 오래되다,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+늙다,adj,old,of a living being: having lived for relatively many years
+나이들다,adj,old,of a living being: having lived for relatively many years
+연로하다,adj,old,of a living being: having lived for relatively many years
+나이 많다,adj,old,of a living being: having lived for relatively many years
+오래되다,adj,old,former
+먹었다,adj,old,having existed or lived for the specified time
 한 번,adv,once,one and only one time
 양파,noun,onion,Allium cepa
 ...만,adv,only,without others or anything further; exclusively
 오직,adv,only,without others or anything further; exclusively
+겨우,adv,only,no more than
+고작,adv,only,no more than
 열다,verb,open,to make something accessible
 펴다,verb,open,to make something accessible
+열리다,verb,open,to become open
 의견,noun,opinion,thought a person has formed about a topic
 견해,noun,opinion,thought a person has formed about a topic
 주황색(朱黃色)의,adj,orange,having the colour of the fruit of an orange tree
+정리하다,verb,order,to set in (a good) order
+명령하다,verb,order,to issue a command
+명하다,verb,order,to issue a command
+주문하다,verb,order,to request some product or service
+시키다,verb,order,to request some product or service
 밖에,adv,outside,in or to the outside
 자기의,adj,own,belonging to (determiner)
 페이지,noun,page,serving boy
@@ -793,23 +1462,39 @@ word,part_of_speech,english_word,sense
 한쌍,noun,pair,two similar or identical things
 켤레,noun,pair,two similar or identical things
 페어,noun,pair,two similar or identical things
+한쌍,noun,pair,two people in a relationship
+일대,noun,pair,two people in a relationship
+한쌍,noun,pair,couple of working animals attached to work together
+짝,noun,pair,"kinematics: two elements, which permit only certain kind of relative motion"
+면짝,noun,pair,"kinematics: two elements, which permit only certain kind of relative motion"
 바지,noun,pants,garment covering the body from the waist downwards
+팬티,noun,pants,undergarment covering the genitals
+빤스,noun,pants,undergarment covering the genitals
 종이,noun,paper,sheet material
+보,noun,paper,open hand in the game of rock paper scissors
 단락,noun,paragraph,passage in text
 부모,noun,parent,person from whom one is descended
 어버이,noun,parent,person from whom one is descended
 부모님,noun,parent,person from whom one is descended
+보호자,noun,parent,person who acts as a parent in rearing a child — see also guardian
 주차하다,verb,park,bring (a vehicle) to a halt
 부분,noun,part,fraction of a whole
 일부,noun,part,fraction of a whole
 쪽,noun,part,fraction of a whole
+편,noun,part,section of a document
 파트너,noun,partner,someone who is associated with another in a common activity or interest
 동반자,noun,partner,someone who is associated with another in a common activity or interest
 동료,noun,partner,someone who is associated with another in a common activity or interest
+애인,noun,partner,"spouse, domestic, or romantic partner"
+반려자,noun,partner,"spouse, domestic, or romantic partner"
+파티,noun,party,social gathering
+잔치,noun,party,social gathering
 여권,noun,passport,official document for foreign travel
 려권,noun,passport,official document for foreign travel
 패스포트,noun,passport,official document for foreign travel
 과거,noun,past,period of time that has already happened
+과거형,noun,past,(grammar) past tense
+과거 시제,noun,past,(grammar) past tense
 지불하다,verb,pay,to give money in exchange for goods or services
 내다,verb,pay,to give money in exchange for goods or services
 계산하다,verb,pay,to give money in exchange for goods or services
@@ -820,24 +1505,57 @@ word,part_of_speech,english_word,sense
 연필,noun,pencil,graphite writing-instrument
 사람들,noun,people,a body of human beings; a group of two or more persons
 사람,noun,people,a body of human beings; a group of two or more persons
+국민,noun,people,a group of persons forming or belonging to a particular nation etc.
+민족,noun,people,a group of persons forming or belonging to a particular nation etc.
+인민,noun,people,a group of persons forming or belonging to a particular nation etc.
+사람들,noun,people,a group of persons regarded as being employees etc.
+신하,noun,people,a group of persons regarded as being employees etc.
+백성,noun,people,a group of persons regarded as being employees etc.
+가족,noun,people,"a person's ancestors, relatives or family"
+양친,noun,people,"a person's ancestors, relatives or family"
+근친자,noun,people,"a person's ancestors, relatives or family"
+선조,noun,people,"a person's ancestors, relatives or family"
+평민,noun,people,the mass of community as distinguished from a special class
+서민,noun,people,the mass of community as distinguished from a special class
+고추,noun,pepper,spice
+후추,noun,pepper,spice
 완벽하다,adj,perfect,fitting its definition precisely
+완벽하다,adj,perfect,without fault or mistake
 기간,noun,period,a length of time
+시대,noun,period,history: period of time seen as coherent entity
+마침표,noun,period,punctation mark “.”
+종지부,noun,period,punctation mark “.”
+주기,noun,period,length of time during which something repeats
+기,noun,period,geochronologic unit
 사람,noun,person,individual
 인,noun,person,individual
 분,noun,person,individual
+사람,noun,person,"specifically a human being — see also human, human being, man"
+개인,noun,person,the physical body seen as distinct from the mind
+법인,noun,person,any individual or formal organization with standing before the courts
+인칭,noun,person,grammar: linguistic category
 개인의,adj,personal,pertaining to human beings
+개인의,adj,personal,of or pertaining to a particular person
 전화를 걸다,verb,phone,to call (someone) on the telephone
 전화하다,verb,phone,to call (someone) on the telephone
 사진,noun,photograph,picture
 어구,noun,phrase,short written or spoken expression
 구,noun,phrase,short written or spoken expression
+구,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+악구,noun,phrase,music: small section of music in a larger piece
+프레이즈,noun,phrase,music: small section of music in a larger piece
 피아노,noun,piano,a keyboard musical instrument
 그림,noun,picture,"representation of visible reality produced by drawing, etc"
 회화,noun,picture,"representation of visible reality produced by drawing, etc"
 도화,noun,picture,"representation of visible reality produced by drawing, etc"
+사진,noun,picture,photograph
+영화,noun,picture,cinema
 조각,noun,piece,part of a larger whole
 부분,noun,piece,part of a larger whole
 쪽,noun,piece,part of a larger whole
+기물,noun,piece,chess: figure other than pawn; similar counter in other games
+피스,noun,piece,chess: figure other than pawn; similar counter in other games
+작품,noun,piece,artistic creation
 돼지,noun,pig,mammal of genus Sus
 분홍색,noun,pink,pale red colour
 핑크,noun,pink,pale red colour
@@ -845,30 +1563,74 @@ word,part_of_speech,english_word,sense
 터,noun,place,"location, position"
 곳,noun,place,"location, position"
 위치,noun,place,"location, position"
+광장,noun,place,"open space, courtyard, market square"
+장소,noun,place,any area of the earth
+곳,noun,place,any area of the earth
+자리,noun,place,"area one occupies, particularly for sitting"
+좌석,noun,place,"area one occupies, particularly for sitting"
+계획하다,verb,plan,to create a plan for
+의도하다,verb,plan,to intend
+작정하다,verb,plan,to intend
 대패,noun,plane,a tool
 식물,noun,plant,organism capable of photosynthesis
+풀,noun,plant,"a small or herbaceous organism, rather than a tree"
+화초,noun,plant,"a small or herbaceous organism, rather than a tree"
+식물,noun,plant,organism of the kingdom Plantae
+식물,noun,plant,ecology: multicellular eukaryote that includes chloroplasts in its cells
+함정,noun,plant,object placed to incriminate
+프락치,noun,plant,person behaving as a member of the public during a covert operation
+플랜트,noun,plant,snooker shot
+시설,noun,plant,large piece of machinery
+설비,noun,plant,large piece of machinery
 놀이,noun,play,playful activity
+연극,noun,play,theatrical performance
+희곡,noun,play,theatrical performance
 선수,noun,player,one who plays any game or sport
 플레이어,noun,player,one who plays any game or sport
+플레이어,noun,player,electronic device
+플레이어,noun,player,software application
+점,noun,point,geometry: zero-dimensional object
+점,noun,point,unit of scoring in a game or competition
+포인트,noun,point,unit of scoring in a game or competition
+점,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+포인트,noun,point,typography: unit of size
 경찰,noun,police,local or general law enforcement agency
+포켓볼,noun,pool,cue sport played on a pool table
 가난하다,adj,poor,with few or no possessions or money
 빈곤하다,adj,poor,with few or no possessions or money
+인기 있는,adj,popular,liked by many people
+확실한,adj,positive,legal: formally laid down
+양,adj,positive,mathematics: greater than zero
 가능하다,adj,possible,able but not certain to happen
 감자,noun,potato,plant tuber eaten as starchy vegetable
 파운드,noun,pound,unit of mass (16 ounces avoirdupois)
+파운드,noun,pound,unit of currency
 더 좋아하다,verb,prefer,to favor
 선호(選好)하다,verb,prefer,to favor
 준비하다,verb,prepare,to make ready for a specific future purpose
 마견하다,verb,prepare,to make ready for a specific future purpose
+준비하다,verb,prepare,to make oneself ready
 현재,noun,present,current time
 값,noun,price,cost required to gain possession of something
 가격,noun,price,cost required to gain possession of something
+품삯,noun,price,cost of an action or deed
+노임,noun,price,cost of an action or deed
 아마,adv,probably,in all likelihood
 문제,noun,problem,difficulty
+문제,noun,problem,schoolwork exercise
+과제,noun,problem,schoolwork exercise
 상품,noun,product,commodity for sale
 제품,noun,product,commodity for sale
+생성물,noun,product,amount created by a process
+결과,noun,product,consequence of efforts
+생성물,noun,product,result of chemical reaction
+적,noun,product,multiplication result
+곱,noun,product,multiplication result
 일정,noun,program,set of structured activities
 프로그램,noun,program,set of structured activities
+프로그램,noun,program,performance of a show or other broadcast on radio or television
+프로,noun,program,performance of a show or other broadcast on radio or television
+프로그램,noun,program,software application
 계획,noun,project,planned endeavor
 사업,noun,project,planned endeavor
 프로젝트,noun,project,planned endeavor
@@ -876,21 +1638,36 @@ word,part_of_speech,english_word,sense
 보라색,noun,purple,colour
 두다,verb,put,to place something somewhere
 놓다,verb,put,to place something somewhere
+두다,verb,put,"to bring or set into a certain relation, state or condition"
+놓다,verb,put,"to bring or set into a certain relation, state or condition"
+나타내다,verb,put,to express something in a certain manner
 4분의 1,noun,quarter,one of four equal parts — see also one-fourth
 사분의 일,noun,quarter,one of four equal parts — see also one-fourth
+분기,noun,quarter,period of three months
+쿼터,noun,quarter,basketball period
 질문,noun,question,"sentence, phrase or word"
 빠른,adj,quick,moving with speed
 빠르다,adj,quick,moving with speed
+빠르다,adj,quick,occurring in a short time
+빠르다,adj,quick,"mentally agile, perceptive"
 빨리,adv,quickly,"rapidly, fast"
 어서,adv,quickly,"rapidly, fast"
 조용하다,adj,quiet,with little sound
 상당히,adv,quite,to the greatest extent; completely
+완전히,adv,quite,in a fully justified sense; truly
+꽤,adv,quite,to a moderate extent
 라디오,noun,radio,technology
 라지오,noun,radio,technology
+라디오,noun,radio,receiver
+무선,noun,radio,receiver
+라지오,noun,radio,receiver
+라디오 수신기,noun,radio,receiver
 오다,verb,rain,of rain: to fall from the sky
 읽다,verb,read,to look at and interpret letters or other information
+읽다,verb,read,to speak aloud words or other information that is written
 독자,noun,reader,person who reads a publication
 읽는 사람,noun,reader,person who reads a publication
+리더,noun,reader,any device that reads something
 독서,noun,reading,process of interpreting written language
 읽기,noun,reading,process of interpreting written language
 준비된,adj,ready,prepared for immediate action or use
@@ -899,6 +1676,14 @@ word,part_of_speech,english_word,sense
 진실(眞實)의,adj,real,"true, genuine, not merely nominal"
 참,adj,real,"true, genuine, not merely nominal"
 진,adj,real,"true, genuine, not merely nominal"
+진짜(眞)의,adj,real,"genuine, not artificial, counterfeit or fake"
+진품(眞品)의,adj,real,"genuine, not artificial, counterfeit or fake"
+진,adj,real,"genuine, not artificial, counterfeit or fake"
+진품(眞品)의,adj,real,"genuine, unfeigned, sincere"
+실존(實存)의,adj,real,that has physical existence
+실수(實數)의,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
+부동산(不動産)의,adj,real,law: relating to immovable tangible property
+절대(絕對)의,adj,real,"absolute, complete, utter"
 정말로,adv,really,actually
 진짜,adv,really,actually
 진짜로,adv,really,actually
@@ -906,9 +1691,17 @@ word,part_of_speech,english_word,sense
 이유,noun,reason,that which causes: a cause
 리유,noun,reason,that which causes: a cause
 원인,noun,reason,that which causes: a cause
+이성,noun,reason,(the capacity of the human mind for) rational thinking
+이치,noun,reason,(the capacity of the human mind for) rational thinking
 빨강,noun,red,colour
 빨간색,noun,red,colour
+공산주의자,noun,red,"socialist, communist"
+빨갱이,noun,red,"socialist, communist"
+적포도주,noun,red,red wine — see also red wine
+레드 와인,noun,red,red wine — see also red wine
 기억하다,verb,remember,to recall from one's memory
+암기하다,verb,remember,to memorize
+기억하다,verb,remember,to memorize
 되풀이하다,verb,repeat,do or say again
 반복하다,verb,repeat,do or say again
 따라하다,verb,repeat,do or say again
@@ -916,47 +1709,105 @@ word,part_of_speech,english_word,sense
 리포트,noun,report,information describing events
 레포트,noun,report,information describing events
 보고서,noun,report,information describing events
+총성,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
 식당,noun,restaurant,an eating establishment in which diners are served food
 레스토랑,noun,restaurant,an eating establishment in which diners are served food
 음식점,noun,restaurant,an eating establishment in which diners are served food
 결과,noun,result,that which results
+성과,noun,result,"fruit, beneficial or tangible effect"
 벼,noun,rice,plants
+쌀,noun,rice,seeds used as food
+밥,noun,rice,seeds used as food
+진지,noun,rice,seeds used as food
 풍부하다,adj,rich,having wealth
 부유하다,adj,rich,having wealth
+풍부하다,adj,rich,"productive, fertile"
 타다,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 말을 타다,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+타다,verb,ride,to be transported in a vehicle as a passenger
+권리,noun,right,legal or moral entitlement
+오른쪽,noun,right,"right, not left, side"
+우익,noun,right,right-wing politicians and parties
 강,noun,river,large stream which drains a landmass
 수,noun,river,large stream which drains a landmass
 가람,noun,river,large stream which drains a landmass
 길,noun,road,a way for travel
 도로,noun,road,a way for travel
+공간,noun,room,space
+자리,noun,room,space
+겨를,noun,room,space
+틈,noun,room,space
+짬,noun,room,space
+여유,noun,room,space
+방,noun,room,division in a building
 일과,noun,routine,course of action to be followed regularly; a standard procedure
+관례,noun,routine,"set of normal procedures, often performed mechanically"
+루틴,noun,routine,computing: set of instructions designed to perform a specific task
 규칙,noun,rule,regulation
 규율,noun,rule,regulation
 규률,noun,rule,regulation
 룰,noun,rule,regulation
 달리다,verb,run,to move quickly on two feet
 뛰다,verb,run,to move quickly on two feet
+맡다,verb,run,to be in charge of
+흐르다,verb,run,to flow
+작동하다,verb,run,"of a machine, to be operating normally"
+작용하다,verb,run,"of a machine, to be operating normally"
+실행하다,verb,run,"to execute or carry out a plan, procedure or program"
+출마하다,verb,run,to be a candidate in an election
+나오다,verb,run,to be presented in the media
+새다,verb,run,"to leak, spread or bleed in an undesirable fashion"
+흘러나오다,verb,run,"to leak, spread or bleed in an undesirable fashion"
+나아가다,verb,run,to pass without stopping or yielding
+도망가다,verb,run,to flee away from a danger or towards help
+도망치다,verb,run,to flee away from a danger or towards help
+슬프다,adj,sad,feeling sorrow
+아쉽다,adj,sad,feeling sorrow
 샐러드,noun,salad,food
 소금,noun,salt,sodium chloride
 염,noun,salt,sodium chloride
+염,noun,salt,compound of an acid and a base
 샌드위치,noun,sandwich,dish — see also open sandwich
 겹빵이,noun,sandwich,dish — see also open sandwich
 말하다,verb,say,"to say, to tell"
 말씀하다,verb,say,"to say, to tell"
+말하다,verb,say,to pronounce
+말씀하다,verb,say,to pronounce
+암송하다,verb,say,to recite
+대,verb,say,to have a common expression
+답니다,verb,say,to have a common expression
 학교,noun,school,an institution dedicated to teaching and learning
+중등학교,noun,school,an institution dedicated to teaching and learning before college or university
+대학,noun,school,college or university
+대학교,noun,school,college or university
+학과,noun,school,a department/institute at a college or university
+학파,noun,school,(collectively) the followers of a particular doctrine
+학원,noun,school,an establishment offering specialized instruction (driving etc.)
 과학,noun,science,collective discipline of learning acquired through the scientific method
+과학,noun,science,particular discipline or branch of learning
+지식,noun,science,fact of knowing something
+지식,noun,science,knowledge gained through study or practice
 과학자,noun,scientist,one whose activities make use of the scientific method
 초,noun,second,one-sixtieth of a minute; SI unit of time
 부분,noun,section,"cutting, part cut out"
+부분,noun,section,"part, piece or subdivision of anything"
+섹션,noun,section,"part, piece or subdivision of anything"
 보다,verb,see,perceive with the eyes
 뵙다,verb,see,perceive with the eyes
+알다,verb,see,understand
+이해하다,verb,see,understand
+리해하다,verb,see,understand
 팔다,verb,sell,to agree to transfer goods or provide services for payment
 판매하다,verb,sell,to agree to transfer goods or provide services for payment
+팔리다,verb,sell,to be sold
 보내다,verb,send,make something go somewhere
 판결,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 선고,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+판결,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+문장,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+센텐스,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 나누다,verb,share,to give
+공유하다,verb,share,to have in common
 양,noun,sheep,animal
 면양,noun,sheep,animal
 셔츠,noun,shirt,article of clothing
@@ -971,10 +1822,18 @@ word,part_of_speech,english_word,sense
 장보기,noun,shopping,activity of buying
 짧다,adj,short,having a small distance between ends or edges
 짧은,adj,short,having a small distance between ends or edges
+작다,adj,short,"of a person, of comparatively small height"
+짧다,adj,short,having little duration
 해야 한다,verb,should,expressing obligation
 쇼,noun,show,entertainment
 흥행,noun,show,entertainment
+전시회,noun,show,exhibition — see also exhibition
+쇼,noun,show,broadcast program(me)
+프로그램,noun,show,broadcast program(me)
 소나기,noun,shower,brief fall of rain
+샤워,noun,shower,device for bathing
+샤워기,noun,shower,device for bathing
+샤워,noun,shower,instance of using of this device
 비슷하다,adj,similar,"having traits or characteristics in common; alike, comparable"
 같다,adj,similar,"having traits or characteristics in common; alike, comparable"
 노래하다,verb,sing,to produce harmonious sounds with one’s voice
@@ -989,10 +1848,19 @@ word,part_of_speech,english_word,sense
 동생,noun,sister,woman or girl having the same parents
 시스터,noun,sister,woman or girl having the same parents
 누이,noun,sister,woman or girl having the same parents
+수녀,noun,sister,a nun; a female member of a religious community
 앉다,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 상태,noun,situation,combination of circumstances at a given moment; state of affairs
 상황,noun,situation,combination of circumstances at a given moment; state of affairs
 처지,noun,situation,combination of circumstances at a given moment; state of affairs
+상태,noun,situation,position vis-à-vis surroundings
+상황,noun,situation,position vis-à-vis surroundings
+처지,noun,situation,position vis-à-vis surroundings
+장소,noun,situation,location
+위치,noun,situation,location
+상태,noun,situation,one's status with regard to circumstances
+상황,noun,situation,one's status with regard to circumstances
+처지,noun,situation,one's status with regard to circumstances
 기술,noun,skill,capacity to do something well
 스킬,noun,skill,capacity to do something well
 치마,noun,skirt,article of clothing
@@ -1004,11 +1872,17 @@ word,part_of_speech,english_word,sense
 느리다,adj,slow,not quick in motion
 작다,adj,small,not large
 작은,adj,small,not large
+어린,adj,small,young
+똑똑하다,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+영리하다,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+머리가 좋다,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 뱀,noun,snake,legless reptile
 눈이 내리다,verb,snow,have snow fall from the atmosphere
 눈이 오다,verb,snow,have snow fall from the atmosphere
 너무,adv,so,very
 매우,adv,so,very
+그렇게,adv,so,to a particular extent
+그렇게,adv,so,in the same aformentioned manner
 때때로,adv,sometimes,"on certain occasions, but not always"
 자주,adv,sometimes,"on certain occasions, but not always"
 가끔씩은,adv,sometimes,"on certain occasions, but not always"
@@ -1021,37 +1895,75 @@ word,part_of_speech,english_word,sense
 금방,adv,soon,within a short time
 죄송하다,adj,sorry,"repentant, apologetic"
 미안하다,adj,sorry,"repentant, apologetic"
+안타깝다,adj,sorry,"grieved, saddened"
 울리다,verb,sound,to produce a sound
+소리를 내다,verb,sound,to cause to produce a sound
 국,noun,soup,dish
 탕,noun,soup,dish
 수프,noun,soup,dish
+공간,noun,space,physical extent in two or three dimensions
+우주,noun,space,area beyond atmosphere of planets
+공간,noun,space,bounded or specific physical extent
+공백,noun,space,"gap between written characters, lines etc."
+공백,noun,space,piece of type used to separate words
+스페이스,noun,space,piece of type used to separate words
+공간,noun,space,geometry: set of points
+공간,noun,space,mathematics: generalized construct or set
 말하다,verb,speak,to communicate with one's voice using words
 말씀하다,verb,speak,to communicate with one's voice using words
 이야기하다,verb,speak,to communicate with one's voice using words
+이야기하다,verb,speak,to have a conversation
+대화하다,verb,speak,to have a conversation
+하다,verb,speak,to be able to communicate in a language
 특별하다,adj,special,distinguished by a unique or unusual quality
 특수하다,adj,special,distinguished by a unique or unusual quality
 철자하다,verb,spell,to write or say the letters that form a word
+철자하다,verb,spell,to compose a word
+의미하다,verb,spell,to indicate that some future event will occur
+철자법,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+맞춤법,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+스펠,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+스펠링,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
 쓰다,verb,spend,to pay out
 소비하다,verb,spend,to pay out
 들이다,verb,spend,to pay out
+보내다,verb,spend,"to consume, to use up (time)"
+들이다,verb,spend,"to consume, to use up (time)"
 운동,noun,sport,any athletic activity that uses physical skills
 스포츠,noun,sport,any athletic activity that uses physical skills
 봄,noun,spring,season between winter and summer in temperate climates
 춘계,noun,spring,season between winter and summer in temperate climates
+샘,noun,spring,water springing from the ground
+용수철,noun,spring,device made of flexible material
+출렁쇠,noun,spring,device made of flexible material
+스프링,noun,spring,device made of flexible material
 서다,verb,stand,to support oneself on the feet in an erect position
+올라서다,verb,stand,to rise to one’s feet
+서다,verb,stand,to rise to one’s feet
 별,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 항성,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+스타,noun,star,celebrity
+유명인,noun,star,celebrity
+별표,noun,star,asterisk
+애스터리스크,noun,star,asterisk
 시작하다,verb,start,to begin
 성명,noun,statement,declaration or remark
 진술,noun,statement,declaration or remark
+문,noun,statement,computing: instruction in a computer program
 터미널,noun,station,place where a vehicle may stop
 정류장,noun,station,place where a vehicle may stop
 역,noun,station,place where a vehicle may stop
 정거장,noun,station,place where a vehicle may stop
+주둔지,noun,station,military base
+방송국,noun,station,place used for broadcasting
+채널,noun,station,broadcasting entity
 머무르다,verb,stay,to remain in a particular place
 투숙하다,verb,stay,to remain in a particular place
 묵다,verb,stay,to remain in a particular place
 숙박하다,verb,stay,to remain in a particular place
+여전히,adv,still,"up to a time, as in the preceding time"
+아직,adv,still,"up to a time, as in the preceding time"
+계속,adv,still,"up to a time, as in the preceding time"
 정류장,noun,stop,place to get on and off mass transport
 창고,noun,store,place where items may be kept
 이야기,noun,story,account of events
@@ -1065,11 +1977,31 @@ word,part_of_speech,english_word,sense
 길거리,noun,street,paved part of road in a village or a town
 강하다,adj,strong,capable of producing great physical force
 세다,adj,strong,capable of producing great physical force
+굳세다,adj,strong,capable of withstanding great physical force
+굳세다,adj,strong,"determined, unyielding"
+세다,adj,strong,highly stimulating to the senses
+짙다,adj,strong,having an offensive or intense odor or flavor
+짙다,adj,strong,having a high concentration of an essential or active ingredient
+굳세다,adj,strong,military: not easily subdued or taken
 학생,noun,student,person who studies a subject
+학생,noun,student,person enrolled at a university — see also university student
+공부하다,verb,study,to take a course
+공부하다,verb,study,to acquire knowledge
+배우다,verb,study,to acquire knowledge
+작풍,noun,style,manner of expression in writing or speech
+스타일,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 주어,noun,subject,in grammar
+주제,noun,subject,main topic
+학과,noun,subject,particular area of study
+과목,noun,subject,particular area of study
+신하,noun,subject,citizen in a monarchy
+백성,noun,subject,citizen in a monarchy
+신민,noun,subject,citizen in a monarchy
+신민,noun,subject,"person ruled over by another, especially a monarch or state authority"
 성공,noun,success,achievement of one's aim or goal
 설탕,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 사탕,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+당류,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
 여름,noun,summer,hottest season
 하계,noun,summer,hottest season
 해,noun,sun,"a star, especially when seen as the centre of any single solar system"
@@ -1077,8 +2009,12 @@ word,part_of_speech,english_word,sense
 슈퍼마켓,noun,supermarket,store
 슈퍼,noun,supermarket,store
 확실하다,adj,sure,"certain, reliable"
+확실하다,adj,sure,certain in one's knowledge or belief
 스웨터,noun,sweater,knitted jacket worn by athletes before or after exercise
 쎄타,noun,sweater,knitted jacket worn by athletes before or after exercise
+스웨터,noun,sweater,similar garment worn for warmth
+풀오버,noun,sweater,similar garment worn for warmth
+쎄타,noun,sweater,similar garment worn for warmth
 수영하다,verb,swim,move through water
 헤엄치다,verb,swim,move through water
 수영,noun,swimming,human activity of moving oneself through water
@@ -1086,22 +2022,50 @@ word,part_of_speech,english_word,sense
 탁자,noun,table,item of furniture
 상,noun,table,item of furniture
 밥상,noun,table,item of furniture
+표,noun,table,grid of data in rows and columns
+테이블,noun,table,grid of data in rows and columns
+표,noun,table,collection of arithmetic calculations
+테이블,noun,table,computing: a lookup table
 잡다,verb,take,to get into one's hands or control
 쥐다,verb,take,to get into one's hands or control
+얻다,verb,take,to get into one's possession
+받아들이다,verb,take,to receive or accept
+접수하다,verb,take,to receive or accept
+잡다,verb,take,to grab and move to oneself
+빼앗다,verb,take,to gain a position by force
+점령하다,verb,take,to gain a position by force
+나르다,verb,take,to carry
+고르다,verb,take,to choose
+선택하다,verb,take,to choose
+참다,verb,take,to endure
+견디다,verb,take,to endure
+인내하다,verb,take,to endure
+먹다,verb,take,to ingest medicine
+복용하다,verb,take,to ingest medicine
+받아들이다,verb,take,to assume or interpret to be
+간주하다,verb,take,to consider in a particular way
+걸리다,verb,take,to last or expend (an amount of time)
 말하다,verb,talk,to communicate by speech
 말씀하다,verb,talk,to communicate by speech
 이야기하다,verb,talk,to communicate by speech
+대화하다,verb,talk,to communicate by other means than speech
 키가 크다,adj,tall,of a person
 키가 큰,adj,tall,of a person
+높다,adj,tall,of a building
 택시,noun,taxi,vehicle available for public hire
 딱씨,noun,taxi,vehicle available for public hire
 차,noun,tea,dried leaves of tea plant
 찻잎,noun,tea,dried leaves of tea plant
 다엽,noun,tea,dried leaves of tea plant
+차,noun,tea,drink made from leaves of tea plant
+차 한 잔,noun,tea,cup of this drink
+차,noun,tea,cup of drink made from other plants
 가르치다,verb,teach,to pass on knowledge
 선생,noun,teacher,person who teaches
 선생님,noun,teacher,person who teaches
 교사,noun,teacher,person who teaches
+팀,noun,team,group of people
+대,noun,team,group of people
 틴에이저,noun,teenager,person aged between thirteen and nineteen
 십대,noun,teenager,person aged between thirteen and nineteen
 10대,noun,teenager,person aged between thirteen and nineteen
@@ -1115,44 +2079,99 @@ word,part_of_speech,english_word,sense
 테레비,noun,television,medium
 텔레비,noun,television,medium
 전시,noun,television,medium
+텔레비전,noun,television,device for receiving television signals
+텔레비죤,noun,television,device for receiving television signals
+티비,noun,television,device for receiving television signals
+티뷔,noun,television,device for receiving television signals
+텔레비,noun,television,device for receiving television signals
+수상기,noun,television,device for receiving television signals
+텔레비전,noun,television,program broadcasting
 말하다,verb,tell,to pass information
 말씀하다,verb,tell,to pass information
 알리다,verb,tell,to pass information
 테니스,noun,tennis,sport played by two or four players with strung racquets
 정구,noun,tennis,sport played by two or four players with strung racquets
 끔찍하다,adj,terrible,dreadful; causing alarm or fear
+시험하다,verb,test,to administer an examination during the academic term
 텍스트,noun,text,a written passage
 본문,noun,text,a written passage
+메시지,noun,text,a brief written message transmitted between mobile phones
+소식,noun,text,a brief written message transmitted between mobile phones
 감사하다,verb,thank,to express appreciation or gratitude toward (someone or something)
 극장,noun,theater,place or building
 그때,adv,then,at that time
 그 때,adv,then,at that time
+나중에,adv,then,soon afterward
+이후,adv,then,soon afterward
+그러면,adv,then,in that case
 거기에,adv,there,in or at that place
 거기,adv,there,in or at that place
+거기에,adv,there,to or into that place; thither
 물건,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 것,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 생각하다,verb,think,"to ponder, to go over in one's head"
+생각하다,verb,think,communicate to oneself in one’s mind
+사고하다,verb,think,communicate to oneself in one’s mind
+숙고하다,verb,think,communicate to oneself in one’s mind
 목마르다,adj,thirsty,needing to drink
 갈증나다,adj,thirsty,needing to drink
 표,noun,ticket,admission to entertainment
 티켓,noun,ticket,admission to entertainment
+티켓,noun,ticket,pass for transportation
+표,noun,ticket,pass for transportation
 시간,noun,time,inevitable passing of events
+시간,noun,time,quantity of availability in time
+시간,noun,time,measurement of a quantity of time
+시대,noun,time,"extended period of time, defined or undefined: age, era, etc."
+때,noun,time,"extended period of time, defined or undefined: age, era, etc."
+시간,noun,time,division of the day: particular moment or hour
+순간,noun,time,division of the day: particular moment or hour
+시,noun,time,division of the day: particular moment or hour
+때,noun,time,division of the day: particular moment or hour
+시간,noun,time,"time of day, as indicated by a clock, etc"
+시각,noun,time,"time of day, as indicated by a clock, etc"
+때,noun,time,"time of day, as indicated by a clock, etc"
+시각,noun,time,measurement under some system of the time of day or moment in time
+때,noun,time,measurement under some system of the time of day or moment in time
+시각,noun,time,numerical indication of a particular moment in time
+회,noun,time,instance or occurrence
+번,noun,time,instance or occurrence
+차,noun,time,instance or occurrence
+경험,noun,time,a personal experience
 피곤한,adj,tired,in need of rest or sleep
 칭호,noun,title,prefix or suffix added to a name
+칭호,noun,title,"name of a book, etc"
+표제,noun,title,"name of a book, etc"
+표제,noun,title,"name of a book, etc"
+제목,noun,title,"name of a book, etc"
+타이틀,noun,title,"name of a book, etc"
+표제,noun,title,subject of a writing
+표제,noun,title,subject of a writing
+서명,noun,title,subject of a writing
 오늘,noun,today,today (noun)
 금일,noun,today,today (noun)
 함께,adv,together,"at the same time, in the same place"
 같이,adv,together,"at the same time, in the same place"
+뒷간,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+화장실,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+변소,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+변기,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+토마토,noun,tomato,fruit
+도마도,noun,tomato,fruit
+일년감,noun,tomato,fruit
 내일,noun,tomorrow,the day after the present day
 명일,noun,tomorrow,the day after the present day
 오늘저녁,noun,tonight,nighttime today
 오늘밤,noun,tonight,nighttime today
 -도,adv,too,likewise
 역시,adv,too,likewise
+너무,adv,too,more than enough; as too much
 이,noun,tooth,anatomy: tooth
 니,noun,tooth,anatomy: tooth
 이빨,noun,tooth,anatomy: tooth
 치아,noun,tooth,anatomy: tooth
+톱니,noun,tooth,saw tooth
+톱니,noun,tooth,gear tooth
 화제,noun,topic,subject; theme
 주제,noun,topic,subject; theme
 테마,noun,topic,subject; theme
@@ -1165,28 +2184,53 @@ word,part_of_speech,english_word,sense
 읍,noun,town,settlement
 시,noun,town,settlement
 교통,noun,traffic,pedestrians or vehicles on roads or on the air
+교신,noun,traffic,"exchange or flux of information, messages or data"
+트래픽,noun,traffic,"exchange or flux of information, messages or data"
 트레인,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+기차,noun,train,line of connected cars or carriages
+열차,noun,train,line of connected cars or carriages
+렬차,noun,train,line of connected cars or carriages
+행렬,noun,train,"group of animals, vehicles, or people"
 여행,noun,travel,act of traveling
 려행,noun,travel,act of traveling
 나무,noun,tree,large woody plant
+트리,noun,tree,(graph theory) connected graph with no cycles
+나무,noun,tree,(graph theory) connected graph with no cycles
+수형도,noun,tree,(graph theory) connected graph with no cycles
 여행,noun,trip,journey
 여정,noun,trip,journey
+트럭,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 참되다,adj,true,concurring with a given set of facts
 바르다,adj,true,concurring with a given set of facts
 진실의,adj,true,concurring with a given set of facts
+참,adj,true,state in Boolean logic that indicates an affirmative or positive result
+참되다,adj,true,"loyal, faithful"
+바르다,adj,true,"loyal, faithful"
+참되다,adj,true,"genuine, legitimate"
+바르다,adj,true,"genuine, legitimate"
 시도하다,verb,try,to attempt
 시험하다,verb,try,to attempt
 노력하다,verb,try,to attempt
 보다,verb,try,to attempt
 회전,noun,turn,change of direction or orientation
+회전,noun,turn,movement about an axis ending up with the same orientation
+돌기,noun,turn,movement about an axis ending up with the same orientation
+돌리기,noun,turn,movement about an axis ending up with the same orientation
+차례,noun,turn,chance to use (something) shared in sequence with others
+차례,noun,turn,spell of work
+차례,noun,turn,one's chance to make a move in a game
 두번,adv,twice,two times
 유형,noun,type,grouping based on shared characteristics
 종류,noun,type,grouping based on shared characteristics
 형,noun,type,grouping based on shared characteristics
 타입,noun,type,grouping based on shared characteristics
+이상형,noun,type,preferred sort of person
+타입,noun,type,preferred sort of person
+형,noun,type,computing theory: tag indicating data type
 우산,noun,umbrella,cloth-covered frame used for protection against rain or sun
 아저씨,noun,uncle,brother (or brother-in-law) of someone’s parent
 삼촌,noun,uncle,brother (or brother-in-law) of someone’s parent
+아저씨,noun,uncle,form of address to a man by young people or children in some countries
 알다,verb,understand,to grasp the meaning of
 이해하다,verb,understand,to grasp the meaning of
 리해하다,verb,understand,to grasp the meaning of
@@ -1200,38 +2244,56 @@ word,part_of_speech,english_word,sense
 사용(使用)하다,verb,use,"employ, apply"
 유용하다,adj,useful,having a practical or beneficial use
 도움이 되다,adj,useful,having a practical or beneficial use
+휴가,noun,vacation,period of leisure time
 채소,noun,vegetable,a plant raised for some edible part of it
 야채,noun,vegetable,a plant raised for some edible part of it
+푸성귀,noun,vegetable,any plant
+식물,noun,vegetable,any plant
+나물,noun,vegetable,edible part of such a plant
+채소,noun,vegetable,edible part of such a plant
+식물 인간,noun,vegetable,a person whose brain has been damaged
 아주,adv,very,to a high degree
 매우,adv,very,to a high degree
 너무,adv,very,to a high degree
 굉장히,adv,very,to a high degree
+정말,adv,very,"true, truly"
 비디오,noun,video,"television show, movie"
 영상,noun,video,"television show, movie"
+클립,noun,video,film clip
+비디오,noun,video,motion picture stored on VHS
 방문,noun,visit,single act of visiting
 왕방,noun,visit,single act of visiting
 내방,noun,visit,single act of visiting
 래방,noun,visit,single act of visiting
 방문객,noun,visitor,guest
 손님,noun,visitor,guest
+관광객,noun,visitor,sightseer
 기다리다,verb,wait,delay until some event
 대기하다,verb,wait,delay until some event
+시중들다,verb,wait,to serve customers
+서비스하다,verb,wait,to serve customers
 웨이터,noun,waiter,a server in a restaurant or similar
 일어나다,verb,wake,to stop sleeping
+을 깨우다,verb,wake,to make somebody stop sleeping
 산책,noun,walk,trip made by walking
+걸음새,noun,walk,manner of walking
 벽,noun,wall,defensive rampart
 성벽,noun,wall,defensive rampart
+벽,noun,wall,structure built for defense surrounding an area
+벽,noun,wall,substantial structure acting as side or division in a building
 빌다,verb,want,to desire
 바라다,verb,want,to desire
 싶다,verb,want,to desire
 원하다,verb,want,to desire
 -고 싶어요,verb,want,to desire
 따뜻하다,adj,warm,having a temperature slightly higher than usual
+열렬하다,adj,warm,"caring, of relation to another person"
 씻다,verb,wash,to clean with water
 시계,noun,watch,portable or wearable timepiece
 워치,noun,watch,portable or wearable timepiece
 물,noun,water,inorganic compound H₂O
 길,noun,way,"road, direction, path"
+방법,noun,way,method or manner
 입다,verb,wear,to have on (clothes or accessories)
 신다,verb,wear,to have on (clothes or accessories)
 쓰다,verb,wear,to have on (clothes or accessories)
@@ -1248,9 +2310,13 @@ word,part_of_speech,english_word,sense
 언제,adv,when,"at what time, as a direct question"
 어디,adv,where,at what place; to what place; from what place
 하처,adv,where,at what place; to what place; from what place
+어디,adv,where,at or in which place
+-으로,adv,where,to which place or situation
+어디든지,adv,where,wherever
 하양,noun,white,color
 흰색,noun,white,color
 백색,noun,white,color
+백인,noun,white,person of European descent
 왜,adv,why,for what reason
 아내,noun,wife,female partner in a marriage
 집사람,noun,wife,female partner in a marriage
@@ -1259,13 +2325,26 @@ word,part_of_speech,english_word,sense
 마누라,noun,wife,female partner in a marriage
 와이프,noun,wife,female partner in a marriage
 부인,noun,wife,female partner in a marriage
+-을 것이다,verb,will,indicating future action
+-ㄹ 것이다,verb,will,indicating future action
+-을게,verb,will,indicating future action
+-ㄹ게,verb,will,indicating future action
+-겠-,verb,will,indicating future action
 이기다,verb,win,transitive: achieve victory in
 승리하다,verb,win,transitive: achieve victory in
+이기다,verb,win,intransitive: achieve by winning
 창문,noun,window,opening for light and air
 창,noun,window,opening for light and air
 창구,noun,window,opening for light and air
+창,noun,window,area on a computer screen
+윈도,noun,window,area on a computer screen
 포도주,noun,wine,alcoholic beverage made from grapes
 와인,noun,wine,alcoholic beverage made from grapes
+술,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+주,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+과실주,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+포도주 빛의,noun,wine,wine colour
+포도주색,noun,wine,wine colour
 겨울,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 동계,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 여성,noun,woman,adult female person
@@ -1280,15 +2359,32 @@ word,part_of_speech,english_word,sense
 낱말,noun,word,unit of language
 단어,noun,word,unit of language
 마디,noun,word,unit of language
+말,noun,word,promise
+약속,noun,word,promise
+복음,noun,word,the word of God
+말씀,noun,word,the word of God
 일,noun,work,"labour, employment, occupation, job"
 노동,noun,work,"labour, employment, occupation, job"
 로동,noun,work,"labour, employment, occupation, job"
 직업,noun,work,"labour, employment, occupation, job"
+일자리,noun,work,place where one is employed
+직장,noun,work,place where one is employed
+노력,noun,work,effort expended on a particular task
+작업,noun,work,effort expended on a particular task
+결과,noun,work,result of a particular manner of production
+작,noun,work,result of a particular manner of production
+작품,noun,work,"literary, artistic, or intellectual production"
+저작,noun,work,"literary, artistic, or intellectual production"
 노동자,noun,worker,person who performs labor
 로동자,noun,worker,person who performs labor
 근로자,noun,worker,person who performs labor
 세계,noun,world,human collective existence
 누리,noun,world,human collective existence
+우주,noun,world,the universe
+지구,noun,world,the Earth
+세계,noun,world,the Earth
+세계,noun,world,inhabited planet
+계,noun,world,individual or group perspective or social setting
 쓰다,verb,write,"to form letters, etc."
 적다,verb,write,"to form letters, etc."
 저자,noun,writer,person who writes; an author
@@ -1298,16 +2394,30 @@ word,part_of_speech,english_word,sense
 작자,noun,writer,person who writes; an author
 쓰기,noun,writing,written letters or symbols
 문자,noun,writing,written letters or symbols
+쓰기,noun,writing,process of representing a language
+적기,noun,writing,process of representing a language
+집필,noun,writing,process of representing a language
+저작,noun,writing,work of an author
 그른,adj,wrong,incorrect
+틀리다,adj,wrong,asserting something incorrect — see also be wrong
 뜰,noun,yard,land around a house
 마당,noun,yard,land around a house
+울안,noun,yard,enclosed area for a specific purpose
 활대,noun,yard,nautical: tapered timber from which square sails hang
+지팡이,noun,yard,"staff, rod, stick"
+야드,noun,yard,three feet
+마,noun,yard,three feet
 년,noun,year,time it takes for the Earth to complete one revolution around the Sun
 연,noun,year,time it takes for the Earth to complete one revolution around the Sun
 해,noun,year,time it takes for the Earth to complete one revolution around the Sun
+학년,noun,year,a level or grade at school or college
 황색,noun,yellow,color
 노랑,noun,yellow,color
 어제,noun,yesterday,day before today
 작일,noun,yesterday,day before today
 어리다,adj,young,in the early part of life or growth
 젊다,adj,young,in the early part of life or growth
+어리다,adj,young,as if young
+이르다,adj,young,belonging in the early part of life
+어리다,adj,young,having little experience
+어리석다,adj,young,having little experience

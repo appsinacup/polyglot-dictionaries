@@ -13,61 +13,105 @@ word,part_of_speech,english_word,sense
 อังคาร,noun,Tuesday,day of the week
 วันพุธ,noun,Wednesday,day of the week
 พุธ,noun,Wednesday,day of the week
+กรรม,noun,action,something done so as to accomplish a purpose
+การกระทำ,noun,action,something done so as to accomplish a purpose
+การเคลื่อนไหว,noun,activity,something done as an action or a movement
+กิจกรรม,noun,activity,something done for pleasure or entertainment
 นักแสดง,noun,actor,person who performs in a theatrical play or film — see also actress
 นักแสดงหญิง,noun,actress,female actor — see also actor
 เสริม,verb,add,to append (e.g. a statement); to say further information; to add on
 เพิ่มเติม,verb,add,to append (e.g. a statement); to say further information; to add on
+เพิ่ม,verb,add,to make an addition; to augment; to increase; to add on
+บวก,verb,add,"to perform the arithmetical operation of addition, to add up"
+รวม,verb,add,"to perform the arithmetical operation of addition, to add up"
+ที่อยู่,noun,address,description of the location of a property; direction for correspondence
 ผู้ใหญ่,noun,adult,fully grown human
 คำแนะนำ,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 อาเทศ,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 กลัว,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 ตอนบ่าย,noun,afternoon,part of the day between noon and evening
 ยามบ่าย,noun,afternoon,part of the day between noon and evening
+อีก,adv,again,another time
+ใหม่,adv,again,another time
 อายุ,noun,age,amount of time since the birth of a being or the beginning of a thing
+อายุ,noun,age,one of the stages of life
+สมัย,noun,age,particular period of time in history
+กาล,noun,age,particular period of time in history
+ยุค,noun,age,particular period of time in history
+อายุ,noun,age,lifespan
 ตกลง,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+อากาศ,noun,air,mixture of gases making up the atmosphere of the Earth
 ท่าอากาศยาน,noun,airport,place designated for airplanes
 สนามบิน,noun,airport,place designated for airplanes
 ด้วย,adv,also,in addition; besides; as well; further; too
 ก็,adv,also,in addition; besides; as well; further; too
 ตลอด,adv,always,at all times
+เสมอ,adv,always,"constantly during a certain period, or regularly at stated intervals"
+บ่อย,adv,always,"constantly during a certain period, or regularly at stated intervals"
 โกรธ,adj,angry,displaying anger
 สัตว์,noun,animal,organism
 ตอบ,verb,answer,to make a reply or response to
 อพาร์ทเมนท์,noun,apartment,domicile occupying part of a building
 แอปเปิล,noun,apple,fruit of Malus domestica
 พื้นที่,noun,area,maths: measure of extent of a surface
+บริเวณ,noun,area,particular geographic region
+พื้นที่,noun,area,particular geographic region
+เขต,noun,area,particular geographic region
 อาวุธ,noun,arm,weapon
 แขน,noun,arm,upper appendage from shoulder to wrist
 ถึง,verb,arrive,to reach
 สู่,verb,arrive,to reach
 มาถึง,verb,arrive,to reach
+มา,verb,arrive,to get to a certain place
+ถึง,verb,arrive,to get to a certain place
 ศิลปะ,noun,art,human effort
+ศิลปะ,noun,art,conscious production or arrangement
+ศิลปะ,noun,art,skillful creative activity
 บทความ,noun,article,"story, report, or opinion piece"
+คำกำกับนาม,noun,article,part of speech that specifies a noun
+มาตรา,noun,article,section of a legal document
+ข้อ,noun,article,section of a legal document
 ศิลปิน,noun,artist,person who creates art
 จิตรกร,noun,artist,person who creates art
 ถาม,verb,ask,request an answer
 ถามหา,verb,ask,request an answer
+วาน,verb,ask,make a request
+ขอ,verb,ask,make a request
 ป้า,noun,aunt,a parent's sister or sister-in-law
 อา,noun,aunt,a parent's sister or sister-in-law
 น้า,noun,aunt,a parent's sister or sister-in-law
+ป้า,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
 เด็กอ่อน,noun,baby,very young human being
 เด็กน้อย,noun,baby,very young human being
 ทารก,noun,baby,very young human being
 ทาริกา,noun,baby,very young human being
 แย่,adj,bad,unfavorable; negative
 เลว,adj,bad,unfavorable; negative
+เลว,adj,bad,"evil, wicked"
+ชั่ว,adj,bad,"evil, wicked"
+ร้าย,adj,bad,"evil, wicked"
 ถุง,noun,bag,flexible container
 กระเป๋า,noun,bag,flexible container
 งานลีลาศ,noun,ball,formal dance
 บอล,noun,ball,solid or hollow sphere
+บอล,noun,ball,"object, generally spherical, used for playing games"
 กล้วย,noun,banana,fruit
+ต้นกล้วย,noun,banana,plant
 ตลิ่ง,noun,bank,edge of river or lake
 ฝั่ง,noun,bank,edge of river or lake
 ธนาคาร,noun,bank,institution
+กระปุกออมสิน,noun,bank,device used to store coins or currency
 บาร์,noun,bar,unit of pressure
+บาร์,noun,bar,business licensed to sell intoxicating beverages
+ผับ,noun,bar,business licensed to sell intoxicating beverages
+ร้านเหล้า,noun,bar,business licensed to sell intoxicating beverages
+ร้านสุรา,noun,bar,business licensed to sell intoxicating beverages
+บาร์,noun,bar,counter of such premises
+บาร์,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
 เบสบอล,noun,baseball,ball game
 บาสเกตบอล,noun,basketball,the sport
 อ่างอาบน้ำ,noun,bath,tub
+ห้องน้ำ,noun,bath,building or area where bathing occurs
 ห้องน้ำ,noun,bathroom,a room with a bathtub
 หาด,noun,beach,sandy shore
 ชายหาด,noun,beach,sandy shore
@@ -87,12 +131,19 @@ word,part_of_speech,english_word,sense
 จักรยาน,noun,bicycle,vehicle
 รถถีบ,noun,bicycle,vehicle
 ใหญ่,adj,big,of a great size — see also large
+โต,adj,big,adult
 จักรยาน,noun,bike,bicycle
+มอเตอร์ไซค์,noun,bike,motorcycle
+พระราชบัญญัติ,noun,bill,draft of a law
+ร่างพระราชบัญญัติ,noun,bill,draft of a law
+บิล,noun,bill,invoice
+ใบเก็บเงิน,noun,bill,invoice
 จะงอย,noun,bill,bird's beak
 นก,noun,bird,animal
 ปักษา,noun,bird,animal
 วันเกิด,noun,birthday,anniversary
 สีดำ,noun,black,colour/color
+คนผิวดำ,noun,black,dark-skinned person — see also Negro
 บล็อก,noun,blog,a personal or corporate website
 สีน้ำเงิน,noun,blue,colour
 สีฟ้า,noun,blue,colour
@@ -110,6 +161,8 @@ word,part_of_speech,english_word,sense
 การต่อย,noun,box,blow with the fist
 กล่อง,noun,box,cuboid space; container
 หีบ,noun,box,cuboid space; container
+กล่อง,noun,box,"rectangular border around an image, text, etc."
+กรอบ,noun,box,"rectangular border around an image, text, etc."
 เด็กผู้ชาย,noun,boy,young male
 เด็กชาย,noun,boy,young male
 แฟน,noun,boyfriend,male partner in a romantic relationship
@@ -130,26 +183,39 @@ word,part_of_speech,english_word,sense
 สร้าง,verb,build,(transitive) to form by combining materials or parts
 ก่อสร้าง,verb,build,(transitive) to form by combining materials or parts
 การสร้าง,noun,building,act or process of building
+ตึก,noun,building,closed structure with walls and a roof
+อาคาร,noun,building,closed structure with walls and a roof
+โรง,noun,building,closed structure with walls and a roof
+หอ,noun,building,closed structure with walls and a roof
 รถบัส,noun,bus,vehicle
 รถ,noun,bus,vehicle
 บัส,noun,bus,vehicle
 รถเมล์,noun,bus,vehicle
 ธุรกิจ,noun,business,commercial enterprise or establishment
 บริษัท,noun,business,commercial enterprise or establishment
+กงกาง,noun,business,"occupation, work or trade of a person"
+ยุ่ง,adj,busy,doing a great deal
 เนย,noun,butter,soft foodstuff made from milk
 ซื้อ,verb,buy,to obtain something with money
 เค้ก,noun,cake,type of sweet dessert
 กล้องถ่ายรูป,noun,camera,still camera
 กล้องถ่ายภาพ,noun,camera,still camera
 กล้อง,noun,camera,still camera
+กล้องถ่ายวิดีโอ,noun,camera,movie camera
 ได้,verb,can,to be able to; to know how to
 ย่อม,verb,can,to be able to; to know how to
 สามารถ,verb,can,to be able to; to know how to
 เป็น,verb,can,to be able to; to know how to
+ย่อม,verb,can,may
+ทิ้ง,verb,can,to discard
+เย็บปาก,verb,can,to shut up
+ปลด,verb,can,to fire or dismiss an employee
 ...ไม่ได้,verb,cannot,"cannot — see also can, not"
 ...ไม่เป็น,verb,cannot,"cannot — see also can, not"
 รถยนต์,noun,car,"automobile, a vehicle steered by a driver"
 รถ,noun,car,"automobile, a vehicle steered by a driver"
+บัตร,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+การ์ด,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 อาชีพ,noun,career,one's calling in life; a person's occupation
 การงาน,noun,career,one's calling in life; a person's occupation
 แครอท,noun,carrot,Daucus carota ssp. sativus
@@ -157,13 +223,24 @@ word,part_of_speech,english_word,sense
 ถือ,verb,carry,to transport by lifting
 ขน,verb,carry,to transport by lifting
 พกพา,verb,carry,to transport by lifting
+ทด,verb,carry,in an addition
 แมว,noun,cat,domestic species
 วิฬาร์,noun,cat,domestic species
+แมว,noun,cat,member of the family Felidae
 เซ็นต์,noun,cent,subunit of currency in US and elsewhere
 กลาง,noun,center,point equidistant from all points on the perimeter of a circle
+กลาง,noun,center,point equidistant from all points on the surface of a sphere
+กลาง,noun,center,point on a line midway between the ends
+กลาง,noun,center,point in the interior of figure with mean coordinates
+สถานี,noun,center,place where a function or activity occurs
 เก้าอี้,noun,chair,furniture
 ตั่ง,noun,chair,furniture
 การแปลง,noun,change,the process of becoming different
+เงินทอน,noun,change,small denominations of money given in exchange for a larger denomination
+เงินทอน,noun,change,balance returned after a purchase
+ผัง,noun,chart,non-narrative presentation of data
+แผนผัง,noun,chart,non-narrative presentation of data
+ชาร์ต,noun,chart,non-narrative presentation of data
 ถูก,adj,cheap,low and/or reduced in price
 ตรวจ,verb,check,"to inspect, examine"
 ตรวจสอบ,verb,check,"to inspect, examine"
@@ -179,6 +256,7 @@ word,part_of_speech,english_word,sense
 คัดเลือก,verb,choose,to pick
 คัด,verb,choose,to pick
 เฟ้น,verb,choose,to pick
+เลือกตั้ง,verb,choose,to elect
 เมือง,noun,city,large settlement
 นคร,noun,city,large settlement
 กรุง,noun,city,large settlement
@@ -186,48 +264,113 @@ word,part_of_speech,english_word,sense
 ประเภท,noun,class,"group, collection, category or set sharing characteristics or attributes"
 พรรค์,noun,class,"group, collection, category or set sharing characteristics or attributes"
 ชนิด,noun,class,"group, collection, category or set sharing characteristics or attributes"
+คลาส,noun,class,"social grouping, based on job, wealth, etc."
+ชนชั้น,noun,class,"social grouping, based on job, wealth, etc."
+ชั้นชน,noun,class,"social grouping, based on job, wealth, etc."
+ระดับ,noun,class,group of students in a regularly scheduled meeting with a teacher
+ชั้น,noun,class,group of students in a regularly scheduled meeting with a teacher
+ชั้น,noun,class,series of classes covering a single subject
+รุ่น,noun,class,group of students who commenced or completed their education during a particular year
+ชั้น,noun,class,"category of seats in an airplane, train or other means of mass transportation"
+ชั้น,noun,class,taxonomy: classification below Phylum and above Order
+ชั้นหนึ่ง,noun,class,best of its kind
+คลาส,noun,class,set theory: collection of sets definable by a shared property
+คลาส,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 ห้องเรียน,noun,classroom,room in a school
 ล้าง,verb,clean,(transitive) to remove dirt from a place or object
 เช็ด,verb,clean,(transitive) to remove dirt from a place or object
+เก็บกวาด,verb,clean,(transitive) to tidy up
+ทำความสะอาด,verb,clean,(intransitive) to make things clean
 ปีน,verb,climb,"to ascend, to go up"
 ขึ้น,verb,climb,"to ascend, to go up"
+ปีน,verb,climb,"to mount, to move upwards on"
+ไต่,verb,climb,"to mount, to move upwards on"
+ไต่,verb,climb,to scale
+ปีน,verb,climb,to move by using the hands and feet
+ไต่,verb,climb,to move by using the hands and feet
+ปีน,verb,climb,to practice the sport of climbing
+ไต่,verb,climb,to practice the sport of climbing
+เลื้อย,verb,climb,of plants: to grow upwards by clinging to something
 นาฬิกา,noun,clock,instrument to measure or keep track of time
 โมง,noun,clock,instrument to measure or keep track of time
 ปิด,verb,close,obstruct (an opening)
+งับ,verb,close,move (a door)
+หุบ,verb,close,move (a door)
+ปิด,verb,close,move (a door)
+หลับ,verb,close,bring one's eyelids together
 เสื้อผ้า,noun,clothes,apparel
 คลับ,noun,club,association of members
 สโมสร,noun,club,association of members
+กระบอง,noun,club,heavy stick for use as weapon or plaything
+ตะบอง,noun,club,heavy stick for use as weapon or plaything
+คลับ,noun,club,establishment that provides staged entertainment
+ดอกจิก,noun,club,"playing card symbol, ♣"
 เสื้อนอก,noun,coat,outer garment covering the upper torso and arms
 เสื้อโค้ท,noun,coat,outer garment covering the upper torso and arms
 กาแฟ,noun,coffee,beverage
+เมล็ดกาแฟ,noun,coffee,beans
+ต้นกาแฟ,noun,coffee,plant
+หวัด,noun,cold,illness
+ไข้หวัด,noun,cold,illness
+วิทยาลัย,noun,college,academic institution
+วิทยาลัย,noun,college,institution of higher education
+วิทยาลัย,noun,college,institution of higher education teaching undergraduates
+วิทยาลัย,noun,college,postsecondary institution that does not award bachelor's degrees
+วิทยาลัย,noun,college,"non-specialized, semi-autonomous division of a university"
+วิทยาลัย,noun,college,specialized division of a university
+วิทยาลัย,noun,college,in the formal names of private schools: secondary school
+วิทยาลัย,noun,college,institution of further education at an intermediate level
+วิทยาลัย,noun,college,high school or secondary school
+วิทยาลัย,noun,college,institution for adult education at a basic or intermediate level
 สี,noun,color,spectral composition of visible light
 มา,verb,come,to move nearer
+ถึงจุดสุดยอด,verb,come,to orgasm
+เสร็จ,verb,come,to orgasm
 บริษัท,noun,company,"in legal context, a corporation"
 ธุรกิจ,noun,company,"in legal context, a corporation"
 กงสี,noun,company,"in legal context, a corporation"
+กองร้อย,noun,company,military unit
 เปรียบเทียบ,verb,compare,to assess the similarities between two things or between one thing and another
 สำเร็จ,verb,complete,to finish
 คอมพิวเตอร์,noun,computer,programmable electronic device
 คณิตกรณ์,noun,computer,programmable electronic device
 คอม,noun,computer,programmable electronic device
+คอนเสิร์ต,noun,concert,a musical entertainment in which several voices or instruments take part
 การสนทนา,noun,conversation,expression and exchange of individual ideas through talking with other people
 ปรุงอาหาร,verb,cook,to prepare food for eating
 ประกอบอาหาร,verb,cook,to prepare food for eating
 หุงหาอาหาร,verb,cook,to prepare food for eating
 ทำอาหาร,verb,cook,to prepare food for eating
 เย็น,adj,cool,having a slightly low temperature
+เจ๋ง,adj,cool,"colloquial: being considered as ""popular"" by others"
 แก้ไข,verb,correct,to make something become right that was previously wrong
 ราคา,verb,cost,"to incur a charge, a price"
 ประเทศ,noun,country,region of land
 เมือง,noun,country,region of land
+ประเทศ,noun,country,nation state
+เมือง,noun,country,nation state
+ชาติ,noun,country,nation state
+รัฐ,noun,country,nation state
+ชนบท,noun,country,"the country, rural area, as opposed to the town or city"
+ลูกพี่ลูกน้อง,noun,cousin,child of a person’s parent’s brother or sister
 วัว,noun,cow,female domesticated ox or other bovine
 โค,noun,cow,female domesticated ox or other bovine
 ครีม,noun,cream,oily part of milk
+ครีม,noun,cream,colour
+นวล,noun,cream,colour
+ครีม,noun,cream,product to apply to the skin
 สร้างสรรค์,verb,create,to put into existence
 สร้าง,verb,create,to put into existence
 วัฒนธรรม,noun,culture,"arts, customs and habits"
 ถ้วย,noun,cup,drinking vessel
+ลูกค้า,noun,customer,one who purchases or receives a product or service
 ตัด,verb,cut,to perform an incision
+ตัด,verb,cut,to divide with a sharp instrument
+หั่น,verb,cut,to divide with a sharp instrument
+ตัด,verb,cut,to reduce
+ทอน,verb,cut,to reduce
+ลด,verb,cut,to reduce
+ตัด,verb,cut,to form or shape by cutting
 พ่อ,noun,dad,informal: a father
 เต้นรำ,verb,dance,move rhythmically to music
 รำ,verb,dance,move rhythmically to music
@@ -237,21 +380,32 @@ word,part_of_speech,english_word,sense
 อันตราย,adj,dangerous,full of danger
 มืด,adj,dark,having an absolute or relative lack of light
 วันที่,noun,date,"that which specifies the time of writing, inscription etc."
+วันที่,noun,date,point of time at which a transaction or event takes place
+นัด,noun,date,pre-arranged social meeting
+เดท,noun,date,meeting with a lover or potential lover; a person so met
 อินทผลัม,noun,date,fruit of the date palm
 ลูกสาว,noun,daughter,female offspring
 กลางวัน,noun,day,period between sunrise and sunset
+วัน,noun,day,period of 24 hours
+วัน,noun,day,period from midnight to the following midnight
+วัน,noun,day,rotational period of a planet
+วัน,noun,day,"part of a day period which one spends at one's job, school, etc."
+เรียน,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
 ตัดสินใจ,verb,decide,to resolve or settle
 ตัดสิน,verb,decide,to resolve or settle
 อร่อย,adj,delicious,pleasing to taste
 โอชา,adj,delicious,pleasing to taste
 พรรณนา,verb,describe,to represent in words
 การพรรณนา,noun,description,account in words
+การพรรณนา,noun,description,act of describing
 ออกแบบ,verb,design,to plan an artwork etc.
 โต๊ะ,noun,desk,table for writing and reading
 โต๊ะทำงาน,noun,desk,table for writing and reading
 รายละเอียด,noun,detail,part small enough to escape casual notice
+รายละเอียด,noun,detail,uncountable: a profusion of details
 การสนทนา,noun,dialogue,conversation or other discourse between individuals
 บทพูด,noun,dialogue,conversation or other discourse between individuals
+บทสนทนา,noun,dialogue,literary form resembling a conversation
 พจนานุกรม,noun,dictionary,publication that explains the meanings of an ordered list of words
 ดิกชันนารี,noun,dictionary,publication that explains the meanings of an ordered list of words
 ดิก,noun,dictionary,publication that explains the meanings of an ordered list of words
@@ -259,8 +413,12 @@ word,part_of_speech,english_word,sense
 ตาย,verb,die,to stop living
 เสียชีวิต,verb,die,to stop living
 ความต่าง,noun,difference,quality of being different
+ความต่าง,noun,difference,characteristic of something that makes it different from something else
+ความเห็นต่าง,noun,difference,disagreement or argument about something important
+ผลต่าง,noun,difference,arithmetic: result of a subtraction
 อื่น,adj,different,not the same
 ต่าง,adj,different,not the same
+ต่าง,adj,different,unlike most others
 ยาก,adj,difficult,"hard, not easy"
 ลำบาก,adj,difficult,"hard, not easy"
 สกปรก,adj,dirty,covered with or containing dirt
@@ -270,7 +428,9 @@ word,part_of_speech,english_word,sense
 อภิปราย,verb,discuss,to converse or debate concerning a particular topic
 ถก,verb,discuss,to converse or debate concerning a particular topic
 จาน,noun,dish,vessel for holding/serving food
+อาหาร,noun,dish,specific type of food
 ไหม,verb,do,in questions
+ทำ,verb,do,"perform, execute"
 ดอกเตอร์,noun,doctor,person who has attained a doctorate
 ดุษฎีบัณฑิต,noun,doctor,person who has attained a doctorate
 หมา,noun,dog,animal
@@ -280,11 +440,22 @@ word,part_of_speech,english_word,sense
 ประตู,noun,door,"portal of entry into a building, room or vehicle"
 ลง,adv,down,"from a high to a low position, downwards"
 วาด,verb,draw,to produce a picture
+ถอน,verb,draw,"to pull out, unsheath"
+ชัก,verb,draw,"to pull out, unsheath"
+เสมอ,verb,draw,to end a game with neither side winning
+จั่ว,verb,draw,cardgames: to take the top card of a deck into hand
+แต่งตัว,verb,dress,to put on clothes — see also get dressed
 ดื่ม,verb,drink,consume liquid through the mouth
+ดื่ม,verb,drink,consume alcoholic beverages
 ขับ,verb,drive,to operate (a wheeled motorized vehicle)
 ขับรถ,verb,drive,to operate (a wheeled motorized vehicle)
+ต้อน,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+จิก,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+ผลัก,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
 คนขับ,noun,driver,"one who drives something, e.g. cattle"
 ผู้ขับ,noun,driver,"one who drives something, e.g. cattle"
+คนขับรถ,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+คนขับ,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
 หู,noun,ear,organ of hearing
 แต่วัน,adv,early,at a time before expected
 ง่าย,adj,easy,requiring little skill or effort
@@ -295,16 +466,24 @@ word,part_of_speech,english_word,sense
 แดก,verb,eat,"to ingest — see also consume, ingest"
 เสวย,verb,eat,"to ingest — see also consume, ingest"
 บริโภค,verb,eat,"to ingest — see also consume, ingest"
+กินข้าว,verb,eat,eat a meal
+ทานข้าว,verb,eat,eat a meal
 ไข่,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+ไข่,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 ช้าง,noun,elephant,mammal
 คชสาร,noun,elephant,mammal
+ยุติ,verb,end,"transitive: finish, terminate (something)"
 เพลิดเพลิน,verb,enjoy,to receive pleasure or satisfaction from something
 พอ,adv,enough,sufficiently
 ยูโร,noun,euro,currency unit of the European Monetary Union
+แม้,adv,even,implying extreme example
 เย็น,noun,evening,time of day between dusk and night
 ค่ำ,noun,evening,time of day between dusk and night
+เย็น,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+ค่ำ,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 เหตุการณ์,noun,event,occurrence
 ตัวอย่าง,noun,example,something representative of a group
+ตื่นเต้น,adj,excited,being in a state of higher energy
 ฝึก,verb,exercise,exert for the sake of training
 หัด,verb,exercise,exert for the sake of training
 ฝึกหัด,verb,exercise,exert for the sake of training
@@ -315,8 +494,11 @@ word,part_of_speech,english_word,sense
 นิยาม,verb,explain,to make intelligible
 พิเศษ,adj,extra,"beyond what is due, usual"
 เพิ่ม,adj,extra,"beyond what is due, usual"
+เว่อร์,adj,extra,over-the-top
 ตา,noun,eye,organ
 หน้า,noun,face,anatomy: front part of head
+ด้านหน้า,noun,face,"surface, especially a front or outer one"
+ข้อเท็จจริง,noun,fact,something actual
 มีชื่อเสียง,adj,famous,well known
 โด่งดัง,adj,famous,well known
 กระหึ่ม,adj,famous,well known
@@ -328,68 +510,111 @@ word,part_of_speech,english_word,sense
 ชาวนา,noun,farmer,person who works the land and/or who keeps livestock
 ชาวไร่,noun,farmer,person who works the land and/or who keeps livestock
 ชาวสวน,noun,farmer,person who works the land and/or who keeps livestock
+เร็ว,adv,fast,with great speed
+ไว,adv,fast,with great speed
 อ้วน,adj,fat,carrying a larger than normal amount of fat on one's body
 พ่อ,noun,father,male parent
 บิดา,noun,father,male parent
 สัมผัส,verb,feel,transitive: to sense by touch
+รู้สึก,verb,feel,transitive: to experience an emotion or other mental state about
+เชื่อ,verb,feel,transitive: to think or believe
+คิด,verb,feel,transitive: to think or believe
+คลำ,verb,feel,intransitive: to search by touching
+รู้สึก,verb,feel,intransitive: to experience an emotion or other mental state
+เห็นใจ,verb,feel,intransitive: to sympathise
+ความรู้สึก,noun,feeling,emotion; impression
+อารมณ์,noun,feeling,emotion; impression
 งานฉลอง,noun,festival,event or community gathering
 มหกรรม,noun,festival,event or community gathering
 ทำให้เต็ม,verb,fill,"add contents to, so it is full"
 พบ,verb,find,"encounter, locate, discover"
 เจอ,verb,find,"encounter, locate, discover"
+ดี,adj,fine,"being acceptable, adequate, passable, or satisfactory"
 เสร็จ,verb,finish,to complete
 แล้ว,verb,finish,to complete
 สำเร็จ,verb,finish,to complete
 แล้วเสร็จ,verb,finish,to complete
+จบ,verb,finish,to come to an end
 ไฟ,noun,fire,oxidation reaction
+เพลิง,noun,fire,damaging occurrence of fire
+ไฟ,noun,fire,alchemy: one of the basic elements
+เตา,noun,fire,heater or stove used in place of real fire
 ก่อน,adv,first,before anything else
 ก่อนอื่น,adv,first,before anything else
 ปลา,noun,fish,vertebrate animal
 มีน,noun,fish,vertebrate animal
 การบิน,noun,flight,act of flying
+การบิน,noun,flight,instance of flying
+เที่ยวบิน,noun,flight,journey made by an aircraft
 พื้น,noun,floor,bottom part of a room
 ดอก,noun,flower,reproductive structure in angiosperms
 ดอกไม้,noun,flower,reproductive structure in angiosperms
 บุษบา,noun,flower,reproductive structure in angiosperms
 บิน,verb,fly,to travel through air
+หนี,verb,fly,to flee
 ตาม,verb,follow,to go or come after in physical space
 ทยอย,verb,follow,to go or come after in physical space
+ติดตาม,verb,follow,to keep track of
+ติดตาม,verb,follow,to subscribe to see content from an account on a social media platform
 อาหาร,noun,food,any substance consumed by living organisms to sustain life
 ของกิน,noun,food,any substance consumed by living organisms to sustain life
+อาหาร,noun,food,anything intended to supply energy or nourishment of other forms
+ของกิน,noun,food,foodstuff
 เท้า,noun,foot,part of human body
+เท้า,noun,foot,part of animal’s body
+ตีน,noun,foot,part of animal’s body
+ฟุต,noun,foot,unit of measure
 ฟุตบอล,noun,football,association football
+ฟุตบอล,noun,football,ball
 ลืม,verb,forget,to lose remembrance of
+ลืม,verb,forget,to leave behind
 อิสระ,adj,free,not imprisoned
+ว่าง,adj,free,not in use
+ว่าง,adj,free,without obligations
 เพื่อน,noun,friend,person whose company one enjoys
 สหาย,noun,friend,person whose company one enjoys
 มิตร,noun,friend,person whose company one enjoys
 เกลอ,noun,friend,person whose company one enjoys
+แฟน,noun,friend,boyfriend or girlfriend
 กันเอง,adj,friendly,"approachable, warm"
 เป็นกันเอง,adj,friendly,"approachable, warm"
 ลูก,noun,fruit,part of plant
 ผล,noun,fruit,part of plant
 ผลไม้,noun,fruit,part of plant
+ผลไม้,noun,fruit,food
+ได้ผลดี,noun,fruit,figuratively: positive end result or reward of labour or effort
+กอ,noun,fruit,offensive slang: homosexual or effeminate man
+แต๋ว,noun,fruit,offensive slang: homosexual or effeminate man
+เกย์,noun,fruit,offensive slang: homosexual or effeminate man
 เต็ม,adj,full,containing the maximum possible amount
+อิ่ม,adj,full,"satisfied, in relation to eating"
 ความสนุก,noun,fun,enjoyment or amusement
 ตลก,adj,funny,amusing; comical
 อนาคต,noun,future,the time ahead
 กีฬา,noun,game,"playful activity that may be unstructured, amusement, pastime"
 เกม,noun,game,"playful activity that may be unstructured, amusement, pastime"
 การเล่น,noun,game,"playful activity that may be unstructured, amusement, pastime"
+กีฬา,noun,game,particular instance of playing a game; match
 สวน,noun,garden,piece of land outside with flowers and plants
 ภูมิศาสตร์,noun,geography,study of physical structure and inhabitants of the Earth
+ได้รับ,verb,get,to receive
+รับ,verb,get,to receive
 เด็กผู้หญิง,noun,girl,young female person
 เด็กหญิง,noun,girl,young female person
 เด็กสาว,noun,girl,young female person
 แฟนสาว,noun,girlfriend,a female partner in a romantic relationship
 แฟน,noun,girlfriend,a female partner in a romantic relationship
+เพื่อนสาว,noun,girlfriend,a female friend
 ให้,verb,give,transfer the possession of something to someone else
 มอบให้,verb,give,transfer the possession of something to someone else
 จอก,noun,glass,substance
 แก้ว,noun,glass,substance
+แก้ว,noun,glass,drinking vessel
 ไป,verb,go,to move through space (especially from one place to another)
 ดี,adj,good,acting in the interest of good; ethical good intentions
 ดี ๆ,adj,good,acting in the interest of good; ethical good intentions
+ดูดี,adj,good,useful for a particular purpose
+สวยงาม,adj,good,useful for a particular purpose
 ปู่,noun,grandfather,grandfather (from either side)
 ตา,noun,grandfather,grandfather (from either side)
 ก๋ง,noun,grandfather,grandfather (from either side)
@@ -401,16 +626,23 @@ word,part_of_speech,english_word,sense
 กลุ่ม,noun,group,number of things or persons being in some relation to each other
 โต,verb,grow,(intransitive) to become bigger
 โตขึ้น,verb,grow,(intransitive) to become bigger
+งอก,verb,grow,(intransitive) to appear or sprout
+เพาะ,verb,grow,(transitive) to cause something to become bigger
 กีตาร์,noun,guitar,musical instrument
 โรงยิม,noun,gym,sporting facility specialized for lifting weights and exercise
 ยิม,noun,gym,sporting facility specialized for lifting weights and exercise
+ผม,noun,hair,mass of such filaments on the human head
+ขน,noun,hair,mass of such filaments growing from the skin of humans and animals
 ครึ่ง,noun,half,one of two equal parts into which anything may be divided
 ครึ่งหนึ่ง,noun,half,one of two equal parts into which anything may be divided
 มือ,noun,hand,part of the fore limb
+เข็มนาฬิกา,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
 เกิด,verb,happen,to occur
 มีความสุข,adj,happy,"contented, joyous"
 ดีใจ,adj,happy,"contented, joyous"
+ยินดี,adj,happy,content (to do something); having no objection (to something)
 หมวก,noun,hat,a head covering
+หัวโขน,noun,hat,a role or capacity
 เกลียด,verb,hate,to dislike intensely
 มี,verb,have,to possess
 หัว,noun,head,part of the body
@@ -422,34 +654,52 @@ word,part_of_speech,english_word,sense
 ที่นี่,adv,here,"in, on, or at this place"
 ตรงนี้,adv,here,"in, on, or at this place"
 สูง,adj,high,elevated; tall
+เมา,adj,high,slang: under the influence of drugs
 ประวัติศาสตร์,noun,history,aggregate of past events
 ประวัติ,noun,history,aggregate of past events
+ประวัติศาสตร์,noun,history,branch of knowledge that studies the past
 งานอดิเรก,noun,hobby,activity done for enjoyment in spare time
 การบ้าน,noun,homework,work that is done at home
 หวัง,verb,hope,"to want something to happen, with expectation that it might"
 คาดหวัง,verb,hope,"to want something to happen, with expectation that it might"
 ม้า,noun,horse,members of the species Equus ferus
+ม้า,noun,horse,knight in chess — see also knight
 โรงพยาบาล,noun,hospital,large medical facility
 ร้อน,adj,hot,having a high temperature
+ร้อน,adj,hot,of the weather
+ร้อน,adj,hot,feeling the sensation of heat
+ตัวร้อน,adj,hot,feverish
+เผ็ด,adj,hot,spicy
+มีเสน่ห์,adj,hot,slang: physically very attractive
 โรงแรม,noun,hotel,establishment providing accommodation
 โฮเต็ล,noun,hotel,establishment providing accommodation
 ชั่วโมง,noun,hour,time period of sixty minutes
 บ้าน,noun,house,human abode
 เรือน,noun,house,human abode
+สภา,noun,house,debating chamber for government politicians
 อย่างไร,adv,how,to what degree
+ยังไง,adv,how,in what manner
+อย่างไร,adv,how,in what manner
+กระไร,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 อย่างไรก็ตาม,adv,however,nevertheless
 หิว,adj,hungry,affected by hunger; desirous of food
 ท้องเลว,adj,hungry,affected by hunger; desirous of food
+กระหาย,adj,hungry,"eager, having a desire for something"
 สามี,noun,husband,male partner in marriage
 ผัว,noun,husband,male partner in marriage
 น้ำแข็ง,noun,ice,water in frozen form
 ไอศกรีม,noun,ice cream,dessert
 ไอติม,noun,ice cream,dessert
+ไอศกรีม,noun,ice cream,in a cone
+ไอติม,noun,ice cream,in a cone
+ความคิด,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 จินตนาการ,verb,imagine,(transitive) to form a mental image of something
 จินตนา,verb,imagine,(transitive) to form a mental image of something
 สำคัญ,adj,important,having relevant and crucial value
 เอ้,adj,important,having relevant and crucial value
 ปรับปรุง,verb,improve,to make something better
+ดีขึ้น,verb,improve,to become better
+ทุเลา,verb,improve,to become better
 ข่าว,noun,information,communicable knowledge
 ข้อมูล,noun,information,communicable knowledge
 น่าสนใจ,adj,interesting,arousing or holding the attention
@@ -463,23 +713,38 @@ word,part_of_speech,english_word,sense
 ยีน,noun,jeans,denim trousers
 กางเกงยีน,noun,jeans,denim trousers
 งาน,noun,job,task
+การงาน,noun,job,economic role for which a person is paid
+การ,noun,job,economic role for which a person is paid
+งาน,noun,job,economic role for which a person is paid
+น้ำผลไม้,noun,juice,beverage made of juice
+น้ำ,noun,juice,beverage made of juice
 เก็บ,verb,keep,to maintain possession of
 ไว้,verb,keep,to maintain possession of
+เก็บ,verb,keep,to maintain the condition of; to preserve
+ไว้,verb,keep,to maintain the condition of; to preserve
+คอย,verb,keep,to continue
+หมั่น,verb,keep,to continue
 ชนิด,noun,kind,"type, race, category"
 ประเภท,noun,kind,"type, race, category"
 อย่าง,noun,kind,"type, race, category"
 ครัว,noun,kitchen,room
 รู้,verb,know,be justifiably certain or sure about (something true)
 ทราบ,verb,know,be justifiably certain or sure about (something true)
+รู้จัก,verb,know,be acquainted or familiar with
 ดิน,noun,land,part of Earth that is not covered by oceans or other bodies of water
 ภู,noun,land,part of Earth that is not covered by oceans or other bodies of water
+ประเทศ,noun,land,country or region
+เมือง,noun,land,country or region
 ภาษา,noun,language,body of words used as a form of communication
+ภาษา,noun,language,nonverbal communication
 ใหญ่,adj,large,of greater size — see also big
 เรียน,verb,learn,to acquire knowledge or ability
 ศึกษา,verb,learn,to acquire knowledge or ability
 เรียนรู้,verb,learn,to acquire knowledge or ability
 เหลือ,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+จาก,verb,leave,to depart (intransitive)
 ขา,noun,leg,lower limb from groin to ankle
+ด้านประกอบมุมฉาก,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
 บทเรียน,noun,lesson,section of learning or teaching
 ให้,verb,let,allow
 ปล่อย,verb,let,allow
@@ -488,6 +753,7 @@ word,part_of_speech,english_word,sense
 อักขระ,noun,letter,a symbol in an alphabet
 ตัวหนังสือ,noun,letter,a symbol in an alphabet
 หนังสือ,noun,letter,a symbol in an alphabet
+จดหมาย,noun,letter,written message
 ห้องสมุด,noun,library,"institution which holds books, etc."
 หอสมุด,noun,library,"institution which holds books, etc."
 คลังสมอง,noun,library,"institution which holds books, etc."
@@ -495,20 +761,34 @@ word,part_of_speech,english_word,sense
 ทอดตัว,verb,lie,be in horizontal position
 ชีวิต,noun,life,the state of being alive
 สว่าง,adj,light,having light
+อ่อน,adj,light,pale in colour
 เบา,adj,light,of low weight
 ชอบ,verb,like,to enjoy
+ชอบ,verb,like,to find attractive
+เส้น,noun,line,"path through two or more points, threadlike mark"
+เส้นตรง,noun,line,"path through two or more points, threadlike mark"
 สิงโต,noun,lion,big cat Panthera leo
 ราชสีห์,noun,lion,big cat Panthera leo
 สีห์,noun,lion,big cat Panthera leo
 ฟัง,verb,listen,to pay attention to a sound
+ฟัง,verb,listen,to expect or wait for a sound
+ฟัง,verb,listen,to accept advice or obey instruction
+ยิน,verb,listen,to hear (something)
 เล็ก,adj,little,small in size
 มีชีวิต,verb,live,be alive
 อยู่,verb,live,be alive
+อยู่,verb,live,have permanent residence
+อาศัย,verb,live,have permanent residence
 ส่วนท้องถิ่น,adj,local,of a nearby location
 ท้องถิ่น,adj,local,of a nearby location
 มอง,verb,look,to try to see
 ดู,verb,look,to try to see
 เสีย,verb,lose,cause (something) to cease to be in one's possession or capability
+แพ้,verb,lose,(transitive) fail to win
+พ่าย,verb,lose,(transitive) fail to win
+ลด,verb,lose,shed (weight)
+เสีย,verb,lose,have (somebody of one's kin) die
+หลง,verb,lose,be unable to follow or trace (somebody or something) any longer
 รัก,verb,love,have a strong affection for
 อาหารกลางวัน,noun,lunch,meal around midday
 อาหารเที่ยง,noun,lunch,meal around midday
@@ -522,10 +802,18 @@ word,part_of_speech,english_word,sense
 เครื่องจักร,noun,machine,mechanical or electrical device
 นิตยสาร,noun,magazine,periodical
 วารสาร,noun,magazine,periodical
+ซองกระสุน,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 หลัก,adj,main,"chief, most important, or principal in extent, etc."
+ถนนคนเดิน,noun,mall,pedestrianized street
+ศูนย์การค้า,noun,mall,enclosed shopping centre
+ห้างสรรพสินค้า,noun,mall,enclosed shopping centre
+ห้าง,noun,mall,enclosed shopping centre
 ผู้ชาย,noun,man,adult male human
 ชาย,noun,man,adult male human
+มนุษย์,noun,man,a human being
+คน,noun,man,a human being
 แผนที่,noun,map,visual representation of an area
+ตลาด,noun,market,spacious site for trading
 แต่งงาน,adj,married,in a state of marriage; having a wife or a husband
 สมรส,adj,married,in a state of marriage; having a wife or a husband
 คงจะ,adv,maybe,indicating a lack of certainty
@@ -535,7 +823,13 @@ word,part_of_speech,english_word,sense
 มื้อ,noun,meal,food that is prepared and eaten
 แป้ง,noun,meal,coarse-ground edible part of various grains
 ตั้งใจ,verb,mean,to intend; plan on doing
+หมายถึง,verb,mean,"to convey, indicate"
+หมายความ,verb,mean,"to convey, indicate"
+หมายถึง,verb,mean,to signify
 ความหมาย,noun,meaning,symbolic value of something
+ความหมาย,noun,meaning,"significance of a thing, as ""the meaning of life"""
+ความหมาย,noun,meaning,definition or connotation of a word
+คำแปล,noun,meaning,definition or connotation of a word
 เนื้อ,noun,meat,animal flesh used as food
 หา,verb,meet,to come face to face with by accident; to encounter
 พบ,verb,meet,to come face to face with by accident; to encounter
@@ -543,39 +837,62 @@ word,part_of_speech,english_word,sense
 ประสบ,verb,meet,to come face to face with by accident; to encounter
 เจอกัน,verb,meet,to come face to face with by accident; to encounter
 พบกัน,verb,meet,to come face to face with by accident; to encounter
+การประชุม,noun,meeting,gathering for a purpose
 สมาชิก,noun,member,one who officially belongs to a group
 เมนู,noun,menu,details of the food to be served at a banquet
+เมนู,noun,menu,list of dishes offered in a restaurant
+รายการอาหาร,noun,menu,list of dishes offered in a restaurant
+เมนู,noun,menu,computing: list from which the user may select an operation to be performed
 ข้อความ,noun,message,"communication, concept or information conveyed"
 มิเตอร์,noun,meter,measuring instrument
+เที่ยงคืน,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 ไมล์,noun,mile,measure of length
 น้ำนม,noun,milk,liquid
 นม,noun,milk,liquid
 นาที,noun,minute,unit of time
+แป๊บเดียว,noun,minute,short but unspecified period of time
+ลิปดา,noun,minute,unit of angular measure — see also minute of angle
 พลาด,verb,miss,to fail to hit
+คิดถึง,verb,miss,to feel the absence of someone or something; to feel the want or need of
 ข้อผิดพลาด,noun,mistake,an error
 ความผิดพลาด,noun,mistake,an error
 นางแบบ,noun,model,person
 นายแบบ,noun,model,person
 โมเดล,noun,model,person
+แบบจำลอง,noun,model,miniature
+ตุ๊กตุ่น,noun,model,miniature
+แบบจำลอง,noun,model,simplified representation
+แบบอย่าง,noun,model,style
+แม่แบบ,noun,model,structural design
+แบบอย่าง,noun,model,praiseworthy example
 ครู่,noun,moment,very brief period of time
 เดี๋ยว,noun,moment,very brief period of time
+โมเมนต์,noun,moment,moment of force
 เงิน,noun,money,means of exchange and measure of value
 เงินตรา,noun,money,means of exchange and measure of value
 เดือน,noun,month,period into which a year is divided
 มาส,noun,month,period into which a year is divided
 ตอนเช้า,noun,morning,part of the day between dawn and midday
 เช้า,noun,morning,part of the day between dawn and midday
+เช้า,noun,morning,the part of the day after midnight and before midday
 แม่,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 มารดา,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+แม่,noun,mother,one’s female parent
+มารดา,noun,mother,one’s female parent
 ภู,noun,mountain,large mass of earth and rock
 เขา,noun,mountain,large mass of earth and rock
 ภูเขา,noun,mountain,large mass of earth and rock
 ดอย,noun,mountain,large mass of earth and rock
 หนู,noun,mouse,rodent of the genus Mus
+เมาส์,noun,mouse,computing: input device
+เม้าส์,noun,mouse,computing: input device
 ปาก,noun,mouth,the opening of a creature through which food is ingested
 เคลื่อน,verb,move,(intransitive) to change place or posture; to go
 เคลื่อนที่,verb,move,(intransitive) to change place or posture; to go
 ขยับ,verb,move,(intransitive) to change place or posture; to go
+ลงมือ,verb,move,to act; to take action
+ย้าย,verb,move,to change residence
+เดิน,verb,move,(transitive) to change the place of something
 ภาพยนตร์,noun,movie,motion picture
 หนัง,noun,movie,motion picture
 พิพิธภัณฑ์,noun,museum,building or institution
@@ -586,43 +903,77 @@ word,part_of_speech,english_word,sense
 เรียก,verb,name,to give a name to
 เรียกขาน,verb,name,to give a name to
 ต้องการ,verb,need,to have an absolute requirement for
+จำเป็น,verb,need,to be obliged to
+ลบ,adj,negative,mathematics: less than zero
 ไม่เคย,adv,never,at no time
 ใหม่,adj,new,recently made or created
 สด,adj,new,recently made or created
+ใหม่,adj,new,"additional, recently discovered"
+ใหม่,adj,new,distinguishing something established more recently
 ข่าว,noun,news,new information of interest
 ข่าวสาร,noun,news,new information of interest
 ข่าวคราว,noun,news,new information of interest
 หนังสือพิมพ์,noun,newspaper,publication
+หนังสือพิมพ์,noun,newspaper,paper on which newspapers are printed
 ดี,adj,nice,"pleasant, satisfactory"
 กลางคืน,noun,night,period between sunset and sunrise
 คืน,noun,night,period between sunset and sunrise
 ราตรี,noun,night,period between sunset and sunrise
+คืน,noun,night,evening or night spent at a particular activity
+คืน,noun,night,night spent away from home
+ค่ำ,noun,night,nightfall
+ความมืด,noun,night,darkness
 จมูก,noun,nose,protuberance on the face
 นัตถุ์,noun,nose,protuberance on the face
 นาสิก,noun,nose,protuberance on the face
 ดัง,noun,nose,protuberance on the face
 ไม่,adv,not,negates meaning of another word
 ไม่ใช่,adv,not,negates meaning of another word
+โน้ต,noun,note,musical sound
 บัดนี้,adv,now,at the present time
 เดี๋ยวนี้,adv,now,at the present time
 จำนวน,noun,number,abstract entity used to describe quantity
 เลข,noun,number,abstract entity used to describe quantity
+เลข,noun,number,numeral
+ตัวเลข,noun,number,numeral
+หมายเลข,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+เบอร์,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+เบอร์,noun,number,informal: telephone number
 พยาบาล,noun,nurse,person trained to provide care for the sick
 วัตถุ,noun,object,thing
+วัตถุประสงค์,noun,object,"the goal, end or purpose of something"
+กรรม,noun,object,in grammar
+อ็อบเจกต์,noun,object,object-oriented programming: instantiation of a class or structure
 มหาสมุทร,noun,ocean,one of the large bodies of water
+สำนักงาน,noun,office,room(s) or building used for non-manual work
+สำนัก,noun,office,room(s) or building used for non-manual work
+ออฟฟิศ,noun,office,room(s) or building used for non-manual work
+ที่ทำการ,noun,office,room(s) or building used for non-manual work
 บ่อย,adv,often,"frequently, many times"
 เก่า,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+แก่,adj,old,of a living being: having lived for relatively many years
+เก่า,adj,old,former
+ก่อน,adj,old,former
 หอมใหญ่,noun,onion,Allium cepa
+เท่านั้น,adv,only,no more than
 เปิด,verb,open,to make something accessible
+เปิด,verb,open,to make accessible to customers
+เปิด,verb,open,to bring up (a topic)
+เปิด,verb,open,to become open
 ความเห็น,noun,opinion,thought a person has formed about a topic
 เสียง,noun,opinion,thought a person has formed about a topic
 ส้ม,adj,orange,having the colour of the fruit of an orange tree
+บัญชา,verb,order,to issue a command
+สั่ง,verb,order,to request some product or service
+สั่งซื้อ,verb,order,to request some product or service
 หน้า,noun,page,one side of a leaf of a book
 สี,noun,paint,substance
 จิตรกรรม,noun,painting,an illustration or artwork using paint
 คู่,noun,pair,two similar or identical things
+คู่หนึ่ง,noun,pair,two people in a relationship
 กางเกง,noun,pants,garment covering the body from the waist downwards
 กระดาษ,noun,paper,sheet material
+บทความวิชาการ,noun,paper,academic paper
 อนุเฉท,noun,paragraph,passage in text
 ย่อหน้า,noun,paragraph,passage in text
 พ่อแม่,noun,parent,person from whom one is descended
@@ -632,14 +983,19 @@ word,part_of_speech,english_word,sense
 หุ้นส่วน,noun,partner,someone who is associated with another in a common activity or interest
 ภาคี,noun,partner,someone who is associated with another in a common activity or interest
 ภาคินี,noun,partner,someone who is associated with another in a common activity or interest
+คู่,noun,partner,"spouse, domestic, or romantic partner"
 คู่ความ,noun,party,law: particular side in a contract or legal action
 คู่สัญญา,noun,party,law: particular side in a contract or legal action
 ภาคี,noun,party,law: particular side in a contract or legal action
 คู่กรณี,noun,party,law: particular side in a contract or legal action
 คู่พิพาท,noun,party,law: particular side in a contract or legal action
+งานเลี้ยง,noun,party,social gathering
+งาน,noun,party,social gathering
+ปาร์ตี้,noun,party,online gaming: player characters organized into a single group
 หนังสือเดินทาง,noun,passport,official document for foreign travel
 พาสปอร์ต,noun,passport,official document for foreign travel
 อดีต,noun,past,period of time that has already happened
+อดีตกาล,noun,past,(grammar) past tense
 จ่าย,verb,pay,to give money in exchange for goods or services
 ปากกา,noun,pen,writing tool
 คอก,noun,pen,enclosure (enclosed area) for animals
@@ -648,10 +1004,25 @@ word,part_of_speech,english_word,sense
 คน,noun,people,a body of human beings; a group of two or more persons
 ผู้,noun,people,a body of human beings; a group of two or more persons
 บุคคล,noun,people,a body of human beings; a group of two or more persons
+คน,noun,people,a group of persons forming or belonging to a particular nation etc.
+ประชาชน,noun,people,a group of persons forming or belonging to a particular nation etc.
+บุคลากร,noun,people,a group of persons regarded as being employees etc.
+พริกไทย,noun,pepper,spice
+พริกหยวก,noun,pepper,fruit of the capsicum
 สมบูรณ์,adj,perfect,fitting its definition precisely
+ไม่ผิดพลาด,adj,perfect,without fault or mistake
+ไร้ตำหนิ,adj,perfect,without fault or mistake
+เชี่ยวชาญ,adj,perfect,thoroughly skilled or talented
+ชำนาญ,adj,perfect,thoroughly skilled or talented
+กาลสมบูรณ์,adj,perfect,grammar: of a tense or verb form: representing a completed action
+สมบูรณ์เพศ,adj,perfect,botany: having both male and female parts
 ตอน,noun,period,a length of time
+จุด,noun,period,punctation mark “.”
+มหัพภาค,noun,period,punctation mark “.”
 คน,noun,person,individual
 บุคคล,noun,person,individual
+บุคคล,noun,person,any individual or formal organization with standing before the courts
+ส่วนตัว,adj,personal,of or pertaining to a particular person
 โทร,verb,phone,to call (someone) on the telephone
 โทรศัพท์,verb,phone,to call (someone) on the telephone
 รูปถ่าย,noun,photograph,picture
@@ -661,27 +1032,48 @@ word,part_of_speech,english_word,sense
 ภาพ,noun,photograph,picture
 วลี,noun,phrase,short written or spoken expression
 ประโยค,noun,phrase,short written or spoken expression
+วลี,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
 เปียโน,noun,piano,a keyboard musical instrument
 ภาพ,noun,picture,"representation of visible reality produced by drawing, etc"
 รูปภาพ,noun,picture,"representation of visible reality produced by drawing, etc"
+รูป,noun,picture,photograph
+รูปภาพ,noun,picture,photograph
+ภาพถ่าย,noun,picture,photograph
 อัน,noun,piece,part of a larger whole
 ชิ้น,noun,piece,part of a larger whole
 หมู,noun,pig,mammal of genus Sus
 สีชมพู,noun,pink,pale red colour
+สีชมพู,noun,pink,flower
 บริเวณ,noun,place,"location, position"
 สถานที่,noun,place,"location, position"
+จัตุรัส,noun,place,"open space, courtyard, market square"
+สแควร์,noun,place,"open space, courtyard, market square"
+พลาซ่า,noun,place,"open space, courtyard, market square"
+วางแผน,verb,plan,to create a plan for
+วางแผนการ,verb,plan,to create a plan for
 ระนาบ,noun,plane,level or flat surface
+ระนาบ,noun,plane,geometry: flat surface extending infinitely in all directions
 พืช,noun,plant,organism capable of photosynthesis
+พืช,noun,plant,organism of the kingdom Plantae
+พืช,noun,plant,ecology: multicellular eukaryote that includes chloroplasts in its cells
 การเล่น,noun,play,playful activity
+ละคร,noun,play,theatrical performance
 ผู้เล่น,noun,player,one who plays any game or sport
+เครื่องเล่น,noun,player,electronic device
+พินทุ,noun,point,geometry: zero-dimensional object
 ตำรวจ,noun,police,local or general law enforcement agency
 โปลิศ,noun,police,local or general law enforcement agency
 สระน้ำ,noun,pool,body of water
 จน,adj,poor,with few or no possessions or money
 ยากจน,adj,poor,with few or no possessions or money
+ฮิต,adj,popular,liked by many people
+บวก,adj,positive,mathematics: greater than zero
 เป็นไปได้,adj,possible,able but not certain to happen
+เป็นไปได้,adj,possible,capable of being done or achieved; feasible
+โพสต์,verb,post,(Internet) publish a message
 มันฝรั่ง,noun,potato,plant tuber eaten as starchy vegetable
 ปอนด์,noun,pound,unit of mass (16 ounces avoirdupois)
+ปอนด์,noun,pound,unit of currency
 ชอบ ~ มากกว่า,verb,prefer,to favor
 เตรียม,verb,prepare,to make ready for a specific future purpose
 จัด,verb,prepare,to make ready for a specific future purpose
@@ -694,15 +1086,31 @@ word,part_of_speech,english_word,sense
 ค่า,noun,price,cost required to gain possession of something
 ท่าจะ,adv,probably,in all likelihood
 ปัญหา,noun,problem,difficulty
+โจทย์,noun,problem,schoolwork exercise
+เรื่อง,noun,problem,puzzling circumstance
 ผลิตภัณฑ์,noun,product,commodity for sale
 สินค้า,noun,product,commodity for sale
+ผลผลิต,noun,product,amount created by a process
+ผล,noun,product,consequence of efforts
+ผลิตภัณฑ์,noun,product,result of chemical reaction
+ผลคูณ,noun,product,multiplication result
 โครงการ,noun,program,set of structured activities
+รายการ,noun,program,performance of a show or other broadcast on radio or television
+โปรแกรม,noun,program,performance of a show or other broadcast on radio or television
+โปรแกรม,noun,program,software application
 โครงการ,noun,project,planned endeavor
 สีม่วง,noun,purple,colour
 วาง,verb,put,to place something somewhere
 เสี้ยว,noun,quarter,one of four equal parts — see also one-fourth
 หนึ่งในสี่,noun,quarter,one of four equal parts — see also one-fourth
 หนึ่งส่วนสี่,noun,quarter,one of four equal parts — see also one-fourth
+เหรียญสลึง,noun,quarter,coin worth 25 cents
+ไตรมาส,noun,quarter,period of three months
+ควอเตอร์,noun,quarter,basketball period
+ควอร์เตอร์,noun,quarter,basketball period
+เขต,noun,quarter,section of a town
+ย่าน,noun,quarter,section of a town
+แถบ,noun,quarter,section of a town
 คำถาม,noun,question,"sentence, phrase or word"
 เร็ว,adj,quick,moving with speed
 ไว,adj,quick,moving with speed
@@ -714,16 +1122,23 @@ word,part_of_speech,english_word,sense
 วิทยุ,noun,radio,technology
 ฝนตก,verb,rain,of rain: to fall from the sky
 อ่าน,verb,read,to look at and interpret letters or other information
+อ่าน,verb,read,to speak aloud words or other information that is written
+อ่านออกเสียง,verb,read,to speak aloud words or other information that is written
 ผู้อ่าน,noun,reader,person who reads a publication
 การอ่าน,noun,reading,process of interpreting written language
 พร้อม,adj,ready,prepared for immediate action or use
 จริง,adj,real,"true, genuine, not merely nominal"
+จริงๆ,adv,really,"informally, as an intensifier; very, very much"
 เหตุผล,noun,reason,that which causes: a cause
 สาเหตุ,noun,reason,that which causes: a cause
 เหตุ,noun,reason,that which causes: a cause
+เหตุผล,noun,reason,(the capacity of the human mind for) rational thinking
 สีแดง,noun,red,colour
 ผ่อนคลาย,verb,relax,to calm down
 หย่อนใจ,verb,relax,to calm down
+ผ่อนคลาย,verb,relax,to make something loose
+หย่อน,verb,relax,to become loose
+ลดหย่อน,verb,relax,to make something (such as codes and regulations) more lenient
 จำได้,verb,remember,to recall from one's memory
 จำ,verb,remember,to recall from one's memory
 จดจำ,verb,remember,to recall from one's memory
@@ -734,35 +1149,53 @@ word,part_of_speech,english_word,sense
 ภัตตาคาร,noun,restaurant,an eating establishment in which diners are served food
 ผล,noun,result,that which results
 ผลลัพธ์,noun,result,that which results
+ผล,noun,result,"fruit, beneficial or tangible effect"
 ข้าว,noun,rice,plants
+ข้าว,noun,rice,seeds used as food
 รวย,adj,rich,having wealth
 มีเงิน,adj,rich,having wealth
 ขี่,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 ขับ,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+โดยสาร,verb,ride,to be transported in a vehicle as a passenger
+สาร,verb,ride,to be transported in a vehicle as a passenger
+ไป...โดยสาร,verb,ride,to be transported in a vehicle as a passenger
+สิทธิ,noun,right,legal or moral entitlement
 แม่น้ำ,noun,river,large stream which drains a landmass
 ถนน,noun,road,a way for travel
 ทาง,noun,road,a way for travel
 หนทาง,noun,road,a way for travel
+ห้อง,noun,room,division in a building
 กฎ,noun,rule,regulation
 นิติ,noun,rule,regulation
 กติกา,noun,rule,regulation
 ระเบียบ,noun,rule,regulation
 ธรรม,noun,rule,regulation
 วิ่ง,verb,run,to move quickly on two feet
+เศร้า,adj,sad,feeling sorrow
+เศร้าโศก,adj,sad,feeling sorrow
 สลัด,noun,salad,food
 เกลือ,noun,salt,sodium chloride
 แซนด์วิช,noun,sandwich,dish — see also open sandwich
+กล่าว,verb,say,to pronounce
+พูด,verb,say,to pronounce
 โรงเรียน,noun,school,an institution dedicated to teaching and learning
+วิทยาลัย,noun,school,college or university
+วิทยาลัย,noun,school,a department/institute at a college or university
 วิทยาศาสตร์,noun,science,collective discipline of learning acquired through the scientific method
 นักวิทยาศาสตร์,noun,scientist,one whose activities make use of the scientific method
 วินาที,noun,second,one-sixtieth of a minute; SI unit of time
+พิลิปดา,noun,second,unit of angular measure
+วินาที,noun,second,"short, indeterminate amount of time"
+ส่วน,noun,section,"part, piece or subdivision of anything"
 เห็น,verb,see,perceive with the eyes
 ดู,verb,see,perceive with the eyes
 แล,verb,see,perceive with the eyes
 ขาย,verb,sell,to agree to transfer goods or provide services for payment
 ส่ง,verb,send,make something go somewhere
 คำพิพากษา,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+ประโยค,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 แบ่ง,verb,share,to give
+ปัน,verb,share,to divide and distribute
 แกะ,noun,sheep,animal
 เสื้อเชิ้ต,noun,shirt,article of clothing
 เสื้อ,noun,shirt,article of clothing
@@ -771,9 +1204,13 @@ word,part_of_speech,english_word,sense
 ชอปปิ้ง,noun,shopping,activity of buying
 การซื้อของ,noun,shopping,activity of buying
 สั้น,adj,short,having a small distance between ends or edges
+เตี้ย,adj,short,"of a person, of comparatively small height"
 ควร,verb,should,expressing obligation
 ละคร,noun,show,entertainment
 โชว์,noun,show,entertainment
+ละคร,noun,show,broadcast program(me)
+ฝักบัว,noun,shower,device for bathing
+เจ๋ง,adj,sick,"slang: very good, excellent"
 คล้าย,adj,similar,"having traits or characteristics in common; alike, comparable"
 ขับร้อง,verb,sing,to produce harmonious sounds with one’s voice
 ร้องเพลง,verb,sing,to produce harmonious sounds with one’s voice
@@ -788,7 +1225,10 @@ word,part_of_speech,english_word,sense
 หลับ,verb,sleep,to rest in state of reduced consciousness
 ช้า,adj,slow,not quick in motion
 เล็ก,adj,small,not large
+ฉลาด,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 งู,noun,snake,legless reptile
+มาก,adv,so,to a particular extent
+เพื่อให้,adv,so,in the same aformentioned manner
 บางที,adv,sometimes,"on certain occasions, but not always"
 บางครั้ง,adv,sometimes,"on certain occasions, but not always"
 ลูกชาย,noun,son,a male person in relation to his parents
@@ -798,10 +1238,18 @@ word,part_of_speech,english_word,sense
 ในเร็ววัน,adv,soon,within a short time
 เร็วๆนี้,adv,soon,within a short time
 ซุป,noun,soup,dish
+ช่องว่าง,noun,space,physical extent in two or three dimensions
+ที่ว่าง,noun,space,physical extent in two or three dimensions
+อวกาศ,noun,space,area beyond atmosphere of planets
+อาณาเขต,noun,space,bounded or specific physical extent
+ช่องไฟ,noun,space,"gap between written characters, lines etc."
+ช่อง,noun,space,"a gap, an empty place"
 พูด,verb,speak,to communicate with one's voice using words
 กล่าว,verb,speak,to communicate with one's voice using words
+สนทนา,verb,speak,to have a conversation
 พิเศษ,adj,special,distinguished by a unique or unusual quality
 สะกด,verb,spell,to write or say the letters that form a word
+สะกด,verb,spell,to compose a word
 จับจ่าย,verb,spend,to pay out
 ใช้จ่าย,verb,spend,to pay out
 ใช้,verb,spend,to pay out
@@ -810,27 +1258,49 @@ word,part_of_speech,english_word,sense
 ใบไม้ผลิ,noun,spring,season between winter and summer in temperate climates
 ฤดูใบไม้ผลิ,noun,spring,season between winter and summer in temperate climates
 หน้าใบไม้ผลิ,noun,spring,season between winter and summer in temperate climates
+น้ำพุ,noun,spring,water springing from the ground
+สปริง,noun,spring,device made of flexible material
 ยืน,verb,stand,to support oneself on the feet in an erect position
+ลุก,verb,stand,to rise to one’s feet
 ดาว,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+ดาวฤกษ์,noun,star,(astronomy) a luminous celestial body made of plasma
+ดารา,noun,star,celebrity
 เริ่ม,verb,start,to begin
 เริ่มต้น,verb,start,to begin
 ตั้งต้น,verb,start,to begin
 แถลงการณ์,noun,statement,declaration or remark
 คำแถลง,noun,statement,declaration or remark
 ถ้อยแถลง,noun,statement,declaration or remark
+งบ,noun,statement,finance: document that summarizes financial activity
+สเตตเมนต์,noun,statement,finance: document that summarizes financial activity
+ข้อความสั่ง,noun,statement,computing: instruction in a computer program
 สถานี,noun,station,place where a vehicle may stop
 อยู่,verb,stay,to remain in a particular place
 คงอยู่,verb,stay,to remain in a particular place
+ยัง,adv,still,"up to a time, as in the preceding time"
 ป้ายรถเมล์,noun,stop,place to get on and off mass transport
+หยุด,noun,stop,interruption of travel
 เรื่องราว,noun,story,account of events
 นิทาน,noun,story,account of events
 อาขยาน,noun,story,account of events
 เรื่อง,noun,story,account of events
 ถนน,noun,street,paved part of road in a village or a town
 แข็งแรง,adj,strong,capable of producing great physical force
+แข็งแกร่ง,adj,strong,"determined, unyielding"
 นักเรียน,noun,student,person who studies a subject
+นักศึกษา,noun,student,person enrolled at a university — see also university student
+ศึกษา,verb,study,to acquire knowledge
+เรียน,verb,study,to acquire knowledge
 ก้านชูเกสรตัวเมีย,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+รูปแบบ,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+ลีลา,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+สไตล์,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 ประธาน,noun,subject,in grammar
+เรื่อง,noun,subject,main topic
+วิชา,noun,subject,particular area of study
+คนในบังคับ,noun,subject,"person ruled over by another, especially a monarch or state authority"
+ผู้รับการทดลอง,noun,subject,"human, animal or an inanimate object that is being examined"
+สัตว์ทดลอง,noun,subject,"human, animal or an inanimate object that is being examined"
 ความสำเร็จ,noun,success,achievement of one's aim or goal
 ผลสำเร็จ,noun,success,achievement of one's aim or goal
 น้ำตาล,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
@@ -840,11 +1310,15 @@ word,part_of_speech,english_word,sense
 ดวงอาทิตย์,noun,sun,"a star, especially when seen as the centre of any single solar system"
 ตะวัน,noun,sun,"a star, especially when seen as the centre of any single solar system"
 ดาวฤกษ์,noun,sun,"a star, especially when seen as the centre of any single solar system"
+แดด,noun,sun,light and warmth received from the sun
+แสงแดด,noun,sun,light and warmth received from the sun
 ซูเปอร์มาร์เก็ต,noun,supermarket,store
+เสื้อขนสัตว์,noun,sweater,similar garment worn for warmth
 ว่ายน้ำ,verb,swim,move through water
 ว่าย,verb,swim,move through water
 การว่ายน้ำ,noun,swimming,human activity of moving oneself through water
 โต๊ะ,noun,table,item of furniture
+ตาราง,noun,table,grid of data in rows and columns
 เอา,verb,take,to get into one's hands or control
 หยิบ,verb,take,to get into one's hands or control
 พูด,verb,talk,to communicate by speech
@@ -852,53 +1326,102 @@ word,part_of_speech,english_word,sense
 สนทนา,verb,talk,to communicate by speech
 กล่าว,verb,talk,to communicate by speech
 สูง,adj,tall,of a person
+สูง,adj,tall,of a building
 แท็กซี่,noun,taxi,vehicle available for public hire
 รถแท็กซี่,noun,taxi,vehicle available for public hire
 ชา,noun,tea,dried leaves of tea plant
 ใบชา,noun,tea,dried leaves of tea plant
+ชา,noun,tea,drink made from leaves of tea plant
+น้ำชา,noun,tea,drink made from leaves of tea plant
+ชาถ้วยหนึ่ง,noun,tea,cup of this drink
+ชาหนึ่งถ้วย,noun,tea,cup of this drink
 สอน,verb,teach,to pass on knowledge
 ครู,noun,teacher,person who teaches
 อาจารย์,noun,teacher,person who teaches
+ทีม,noun,team,group of people
+เหล่า,noun,team,group of people
 วัยรุ่น,noun,teenager,person aged between thirteen and nineteen
 โทรศัพท์,verb,telephone,to call someone
 โทร,verb,telephone,to call someone
 โทรทัศน์,noun,television,medium
 ทีวี,noun,television,medium
 สื่อโทรทัศน์,noun,television,medium
+โทรทัศน์,noun,television,device for receiving television signals
+เครื่องรับโทรทัศน์,noun,television,device for receiving television signals
+โทรทัศน์,noun,television,program broadcasting
 บอก,verb,tell,to pass information
 กล่าว,verb,tell,to pass information
 พูด,verb,tell,to pass information
 เทนนิส,noun,tennis,sport played by two or four players with strung racquets
+แย่,adj,terrible,very bad
+ไม่ดีเลย,adj,terrible,very bad
 ข้อความ,noun,text,a written passage
+ตำรา,noun,text,"a book, tome or other set of writings"
+ข้อความสั้น,noun,text,a brief written message transmitted between mobile phones
+ข้อความ,noun,text,a brief written message transmitted between mobile phones
 ขอบคุณ,verb,thank,to express appreciation or gratitude toward (someone or something)
 ขอบใจ,verb,thank,to express appreciation or gratitude toward (someone or something)
 ขอบพระคุณ,verb,thank,to express appreciation or gratitude toward (someone or something)
 โรงละคร,noun,theater,place or building
+ละคร,noun,theater,drama or performance as a profession or artform
 ตอนนั้น,adv,then,at that time
+แล้วก็,adv,then,soon afterward
 ที่นั่น,adv,there,in or at that place
 ตรงนั้น,adv,there,in or at that place
 นั้น,adv,there,in or at that place
 สิ่ง,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+ทรัพย์,noun,thing,law: corporeal object
 คิด,verb,think,"to ponder, to go over in one's head"
 นึก,verb,think,"to ponder, to go over in one's head"
+คิด,verb,think,communicate to oneself in one’s mind
+คิด,verb,think,to conceive of something or someone
+นึก,verb,think,to conceive of something or someone
+คิด,verb,think,be of the opinion that
+มอง,verb,think,be of the opinion that
+คิด,verb,think,"guess, reckon"
+เดา,verb,think,"guess, reckon"
+ถือ,verb,think,"consider, judge, regard something as"
 กระหาย,adj,thirsty,needing to drink
 ตั๋ว,noun,ticket,admission to entertainment
 บัตร,noun,ticket,admission to entertainment
+ตั๋ว,noun,ticket,pass for transportation
 เวลา,noun,time,inevitable passing of events
 กาล,noun,time,inevitable passing of events
+เวลา,noun,time,quantity of availability in time
+ครั้ง,noun,time,instance or occurrence
 เหนื่อย,adj,tired,in need of rest or sleep
 คำนำหน้าชื่อ,noun,title,prefix or suffix added to a name
 คำนำหน้านาม,noun,title,prefix or suffix added to a name
+สิทธิ,noun,title,right to ownership
+กรรมสิทธิ์,noun,title,right to ownership
+ลักษณะ,noun,title,"section or division of a subject, as a law, lawbook, etc"
+ชื่อเรื่อง,noun,title,"name of a book, etc"
+ชื่อ,noun,title,"name of a book, etc"
+นาม,noun,title,"name of a book, etc"
+ฉายา,noun,title,"name of a book, etc"
 วันนี้,noun,today,today (noun)
 พร้อม,adv,together,"at the same time, in the same place"
 ด้วยกัน,adv,together,"at the same time, in the same place"
+ห้องน้ำ,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+สุขา,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+ส้วม,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+โถส้วม,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+มะเขือเทศ,noun,tomato,fruit
 พรุ่งนี้,noun,tomorrow,the day after the present day
 ก็,adv,too,likewise
 ยัง,adv,too,likewise
 ด้วย,adv,too,likewise
+เกิน,adv,too,more than enough; as too much
+ไป,adv,too,more than enough; as too much
+เกินไป,adv,too,more than enough; as too much
+มากไป,adv,too,more than enough; as too much
 ฟัน,noun,tooth,anatomy: tooth
 ทันต์,noun,tooth,anatomy: tooth
 กราม,noun,tooth,anatomy: tooth
+ฟัน,noun,tooth,saw tooth
+เฟือง,noun,tooth,saw tooth
+ฟัน,noun,tooth,gear tooth
+เฟือง,noun,tooth,gear tooth
 หัวข้อ,noun,topic,subject; theme
 กระทู้,noun,topic,subject; theme
 นักท่องเที่ยว,noun,tourist,someone who travels for pleasure
@@ -907,15 +1430,28 @@ word,part_of_speech,english_word,sense
 นคร,noun,town,settlement
 เชียง,noun,town,settlement
 จราจร,noun,traffic,pedestrians or vehicles on roads or on the air
+รถไฟ,noun,train,line of connected cars or carriages
 การเดินทาง,noun,travel,act of traveling
 ต้นไม้,noun,tree,large woody plant
 เฌอ,noun,tree,large woody plant
 พฤกษา,noun,tree,large woody plant
+แผนภาพต้นไม้,noun,tree,(graph theory) connected graph with no cycles
 การเดินทาง,noun,trip,journey
 เดินทาง,noun,trip,journey
 เที่ยว,noun,trip,journey
+รถบรรทุก,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 จริง,adj,true,concurring with a given set of facts
+จริง,adj,true,state in Boolean logic that indicates an affirmative or positive result
 พยายาม,verb,try,to attempt
+ลอง,verb,try,to make an experiment
+ทดลอง,verb,try,to make an experiment
+ทดลอง,verb,try,to put to test
+ทดสอบ,verb,try,to put to test
+ลอง,verb,try,"to taste, sample, etc"
+ชิม,verb,try,"to taste, sample, etc"
+พิจารณา,verb,try,to put on trial
+ตา,noun,turn,chance to use (something) shared in sequence with others
+ตา,noun,turn,one's chance to make a move in a game
 ประเภท,noun,type,grouping based on shared characteristics
 ชนิด,noun,type,grouping based on shared characteristics
 รูปแบบ,noun,type,grouping based on shared characteristics
@@ -924,6 +1460,12 @@ word,part_of_speech,english_word,sense
 ลุง,noun,uncle,brother (or brother-in-law) of someone’s parent
 อา,noun,uncle,brother (or brother-in-law) of someone’s parent
 น้า,noun,uncle,brother (or brother-in-law) of someone’s parent
+ลุง,noun,uncle,close male friend of the parents
+อา,noun,uncle,close male friend of the parents
+น้า,noun,uncle,close male friend of the parents
+ลุง,noun,uncle,form of address to a man by young people or children in some countries
+ปู่,noun,uncle,form of address to a man by young people or children in some countries
+ตา,noun,uncle,form of address to a man by young people or children in some countries
 เข้าใจ,verb,understand,to grasp the meaning of
 รู้เรื่อง,verb,understand,to grasp the meaning of
 ทราบ,verb,understand,to grasp the meaning of
@@ -932,17 +1474,27 @@ word,part_of_speech,english_word,sense
 ใช้,verb,use,"employ, apply"
 นำมาใช้,verb,use,"employ, apply"
 ประโยชน์,adj,useful,having a practical or beneficial use
+วันหยุด,noun,vacation,period of leisure time
 พืชผัก,noun,vegetable,a plant raised for some edible part of it
 ผัก,noun,vegetable,a plant raised for some edible part of it
+พืช,noun,vegetable,any plant
+ผัก,noun,vegetable,edible part of such a plant
+ผัก,noun,vegetable,a person whose brain has been damaged
 มาก,adv,very,to a high degree
 แสน,adv,very,to a high degree
 วิดีโอ,noun,video,"television show, movie"
+วิดีโอ,noun,video,motion picture stored on VHS
 รอ,verb,wait,delay until some event
 เด็กเสิร์ฟ,noun,waiter,a server in a restaurant or similar
 บ๋อย,noun,waiter,a server in a restaurant or similar
 สาวเสิร์ฟ,noun,waiter,a server in a restaurant or similar
 ปลุก,verb,wake,to stop sleeping
+ปลุก,verb,wake,to make somebody stop sleeping
 กำแพง,noun,wall,defensive rampart
+กำแพง,noun,wall,structure built for defense surrounding an area
+ผนัง,noun,wall,substantial structure acting as side or division in a building
+ฝา,noun,wall,substantial structure acting as side or division in a building
+ผนัง,noun,wall,"anatomy, zoology, botany: divisive or containing structure"
 อยาก,verb,want,to desire
 ต้องการ,verb,want,to desire
 เอา,verb,want,to desire
@@ -954,6 +1506,9 @@ word,part_of_speech,english_word,sense
 น้ำ,noun,water,inorganic compound H₂O
 ชล,noun,water,inorganic compound H₂O
 ทาง,noun,way,"road, direction, path"
+วิถีทาง,noun,way,means to enter or leave
+วิธี,noun,way,method or manner
+วิถี,noun,way,method or manner
 ใส่,verb,wear,to have on (clothes or accessories)
 สวมใส่,verb,wear,to have on (clothes or accessories)
 สวม,verb,wear,to have on (clothes or accessories)
@@ -975,14 +1530,22 @@ word,part_of_speech,english_word,sense
 เมื่อไร,adv,when,"at what time, as a direct question"
 เมื่อใด,adv,when,"at what time, as a direct question"
 ที่ไหน,adv,where,at what place; to what place; from what place
+ที่ไหน,adv,where,at or in which place
+ไหน,adv,where,at or in which place
 สีขาว,noun,white,color
+ฝรั่ง,noun,white,person of European descent
+คนผิวขาว,noun,white,person of European descent
 ทำไม,adv,why,for what reason
 ไฉน,adv,why,for what reason
 ภริยา,noun,wife,female partner in a marriage
 ภรรยา,noun,wife,female partner in a marriage
 เมีย,noun,wife,female partner in a marriage
+จะ,verb,will,indicating future action
 ชนะ,verb,win,transitive: achieve victory in
 เอาชนะ,verb,win,transitive: achieve victory in
+ถูกรางวัล,verb,win,to gain a prize
+ได้,verb,win,to gain a prize
+ชนะ,verb,win,intransitive: achieve by winning
 หน้าต่าง,noun,window,opening for light and air
 วินโดว์,noun,window,opening for light and air
 เหล้าองุ่น,noun,wine,alcoholic beverage made from grapes
@@ -995,6 +1558,7 @@ word,part_of_speech,english_word,sense
 ญิง,noun,woman,adult female person
 คำ,noun,word,unit of language
 งาน,noun,work,"labour, employment, occupation, job"
+ผลงาน,noun,work,"literary, artistic, or intellectual production"
 คนงาน,noun,worker,person who performs labor
 กรรมกร,noun,worker,person who performs labor
 พนักงาน,noun,worker,person who performs labor
@@ -1003,6 +1567,9 @@ word,part_of_speech,english_word,sense
 ผู้ปฏิบัติงาน,noun,worker,person who performs labor
 ผู้ใช้แรงงาน,noun,worker,person who performs labor
 โลก,noun,world,human collective existence
+จักรวาล,noun,world,the universe
+โลก,noun,world,the Earth
+โลก,noun,world,inhabited planet
 เขียน,verb,write,"to form letters, etc."
 ขีด,verb,write,"to form letters, etc."
 นักเขียน,noun,writer,person who writes; an author
@@ -1011,9 +1578,15 @@ word,part_of_speech,english_word,sense
 ผิด,adj,wrong,incorrect
 ลาน,noun,yard,land around a house
 สนาม,noun,yard,land around a house
+หลา,noun,yard,three feet
 ปี,noun,year,time it takes for the Earth to complete one revolution around the Sun
+ปี,noun,year,time it takes for any planetary body to make one revolution around another body
+ปี,noun,year,a period between set dates that mark a year
+ปี,noun,year,a level or grade at school or college
 สีเหลือง,noun,yellow,color
 เมื่อวานนี้,noun,yesterday,day before today
 เด็ก,adj,young,in the early part of life or growth
 หนุ่ม,adj,young,in the early part of life or growth
 สาว,adj,young,in the early part of life or growth
+อ่อนวัย,adj,young,as if young
+อ่อน,adj,young,having little experience

@@ -21,10 +21,13 @@ word,part_of_speech,english_word,sense
 周三,noun,Wednesday,day of the week
 演員 /演员,noun,actor,person who performs in a theatrical play or film — see also actress
 加,verb,add,to append (e.g. a statement); to say further information; to add on
+稱呼 /称呼,noun,address,act of addressing oneself to a person or group
+地址,noun,address,description of the location of a property; direction for correspondence
 大人,noun,adult,fully grown human
 下晝 /下昼,noun,afternoon,part of the day between noon and evening
 同意,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 空氣 /空气,noun,air,historical: one of the basic elements
+空氣 /空气,noun,air,mixture of gases making up the atmosphere of the Earth
 機場 /机场,noun,airport,place designated for airplanes
 飛機場 /飞机场,noun,airport,place designated for airplanes
 航空站,noun,airport,place designated for airplanes
@@ -34,6 +37,7 @@ word,part_of_speech,english_word,sense
 成日,adv,always,at all times
 嬲,adj,angry,displaying anger
 動物 /动物,noun,animal,organism
+動物 /动物,noun,animal,organism other than human
 公寓,noun,apartment,domicile occupying part of a building
 柏文,noun,apartment,domicile occupying part of a building
 雅柏文,noun,apartment,domicile occupying part of a building
@@ -50,6 +54,8 @@ word,part_of_speech,english_word,sense
 姨媽 /姨妈,noun,aunt,a parent's sister or sister-in-law
 阿姨,noun,aunt,a parent's sister or sister-in-law
 舅母,noun,aunt,a parent's sister or sister-in-law
+勁 /劲,adj,awesome,"excellent, exciting"
+正,adj,awesome,"excellent, exciting"
 BB,noun,baby,very young human being
 蘇蝦仔 /苏虾仔,noun,baby,very young human being
 𤘅孲仔 /𤘅𰌦仔,noun,baby,very young human being
@@ -59,16 +65,24 @@ BB仔,noun,baby,very young human being
 袋,noun,bag,flexible container
 包,noun,bag,flexible container
 舞會 /舞会,noun,ball,formal dance
+波,noun,ball,"object, generally spherical, used for playing games"
 香蕉,noun,banana,fruit
 蕉,noun,banana,fruit
+香蕉樹 /香蕉树,noun,banana,plant
 銀行 /银行,noun,bank,institution
+酒吧,noun,bar,business licensed to sell intoxicating beverages
+酒館 /酒馆,noun,bar,business licensed to sell intoxicating beverages
+酒店,noun,bar,business licensed to sell intoxicating beverages
 籃球 /篮球,noun,basketball,the sport
+籃球 /篮球,noun,basketball,the ball used in the sport
 沙灘 /沙滩,noun,beach,sandy shore
 灘 /滩,noun,beach,sandy shore
 靚 /靓,adj,beautiful,attractive
 好睇,adj,beautiful,attractive
 漂亮,adj,beautiful,attractive
 美麗 /美丽,adj,beautiful,attractive
+靚 /靓,adj,beautiful,"of weather: pleasant, clear"
+好天,adj,beautiful,"of weather: pleasant, clear"
 床,noun,bed,piece of furniture
 床鋪 /床铺,noun,bed,piece of furniture
 臥榻 /卧榻,noun,bed,piece of furniture
@@ -80,13 +94,16 @@ BB仔,noun,baby,very young human being
 自行車 /自行车,noun,bicycle,vehicle
 腳踏車 /脚踏车,noun,bicycle,vehicle
 大,adj,big,of a great size — see also large
+大人,adj,big,adult
 雀仔,noun,bird,animal
 雀,noun,bird,animal
 鳥 /鸟,noun,bird,animal
 生日,noun,birthday,anniversary
 生辰,noun,birthday,anniversary
 牛一,noun,birthday,anniversary
+出生日期,noun,birthday,date of birth — see also date of birth
 黑色,noun,black,colour/color
+黑人,noun,black,dark-skinned person — see also Negro
 網誌 /网志,noun,blog,a personal or corporate website
 藍色 /蓝色,noun,blue,colour
 船,noun,boat,water craft
@@ -104,6 +121,8 @@ BB仔,noun,baby,very young human being
 條仔 /条仔,noun,boyfriend,male partner in a romantic relationship
 麵包 /面包,noun,bread,baked dough made from cereals
 包,noun,bread,baked dough made from cereals
+麵包 /面包,noun,bread,countable: any variety of bread
+包,noun,bread,countable: any variety of bread
 早飯 /早饭,noun,breakfast,first meal of the day
 早餐,noun,breakfast,first meal of the day
 哥哥,noun,brother,male sibling
@@ -112,17 +131,23 @@ BB仔,noun,baby,very young human being
 大佬,noun,brother,male sibling
 細佬 /细佬,noun,brother,male sibling
 阿哥,noun,brother,male sibling
+弟兄,noun,brother,male fellow member of a religious community
 啡色,noun,brown,colour
 建設 /建设,verb,build,(transitive) to form by combining materials or parts
 建造,verb,build,(transitive) to form by combining materials or parts
+建築物 /建筑物,noun,building,closed structure with walls and a roof
 巴士,noun,bus,vehicle
 公共汽車 /公共汽车,noun,bus,vehicle
 公交車 /公交车,noun,bus,vehicle
 忙,adj,busy,crowded with business or activities
 唔得閒 /唔得闲,adj,busy,crowded with business or activities
+忙,adj,busy,doing a great deal
+唔得閒 /唔得闲,adj,busy,doing a great deal
 牛油,noun,butter,soft foodstuff made from milk
 買 /买,verb,buy,to obtain something with money
 蛋糕,noun,cake,type of sweet dessert
+通話 /通话,noun,call,telephone conversation
+電話 /电话,noun,call,telephone conversation
 相機 /相机,noun,camera,still camera
 影相機 /影相机,noun,camera,still camera
 識得 /识得,verb,can,to be able to; to know how to
@@ -135,22 +160,34 @@ BB仔,noun,baby,very young human being
 仙,noun,cent,subunit of currency in US and elsewhere
 分,noun,cent,subunit of currency in US and elsewhere
 厘,noun,cent,subunit of currency in US and elsewhere
+歐仙 /欧仙,noun,cent,one-hundredth of a euro
 凳 /櫈,noun,chair,furniture
 椅子,noun,chair,furniture
 平,adj,cheap,low and/or reduced in price
+渣,adj,cheap,of poor quality
+鮓 /鲊,adj,cheap,of poor quality
 check (cek¹),verb,check,"to inspect, examine"
 芝士,noun,cheese,dairy product
+芝士,noun,cheese,countable: any particular variety of cheese
 雞 /鷄 /鸡,noun,chicken,bird
+雞肉 /鷄肉 /鸡肉,noun,chicken,meat
 仔女,noun,child,son or daughter; someone's child
 細路 /细路,noun,child,son or daughter; someone's child
 細蚊仔 /细蚊仔,noun,child,son or daughter; someone's child
 細路哥 /细路哥,noun,child,son or daughter; someone's child
 細路仔 /细路仔,noun,child,son or daughter; someone's child
+細路 /细路,noun,child,a minor
+細蚊仔 /细蚊仔,noun,child,a minor
+細路哥 /细路哥,noun,child,a minor
+仔,noun,child,(computing) object which has a subservient or derivative role relative to another object
 朱古力,noun,chocolate,food made from ground roasted cocoa beans
 巧克力,noun,chocolate,food made from ground roasted cocoa beans
+朱古力,noun,chocolate,small piece of confectionery made from chocolate
+朱古力色,noun,chocolate,colour
 揀 /拣,verb,choose,to pick
 選擇 /选择,verb,choose,to pick
 城市,noun,city,large settlement
+綱 /纲,noun,class,taxonomy: classification below Phylum and above Order
 教室,noun,classroom,room in a school
 課堂 /课堂,noun,classroom,room in a school
 課室 /课室,noun,classroom,room in a school
@@ -158,6 +195,8 @@ check (cek¹),verb,check,"to inspect, examine"
 時鐘 /时钟,noun,clock,instrument to measure or keep track of time
 鐘錶 /钟表,noun,clock,instrument to measure or keep track of time
 閂 /闩,verb,close,obstruct (an opening)
+關 /关,verb,close,move (a door)
+瞇埋 /眯埋,verb,close,bring one's eyelids together
 衣服,noun,clothes,apparel
 服裝 /服装,noun,clothes,apparel
 衣著,noun,clothes,apparel
@@ -165,24 +204,48 @@ check (cek¹),verb,check,"to inspect, examine"
 衫褲 /衫裤,noun,clothes,apparel
 衫,noun,clothes,apparel
 俱樂部 /俱乐部,noun,club,association of members
+夜總會 /夜总会,noun,club,establishment that provides staged entertainment
+梅花,noun,club,"playing card symbol, ♣"
 褸 /褛,noun,coat,outer garment covering the upper torso and arms
 咖啡,noun,coffee,beverage
+咖啡豆,noun,coffee,beans
+咖啡色,noun,coffee,colour
+啡色,noun,coffee,colour
 色,noun,color,spectral composition of visible light
 顏色 /颜色,noun,color,spectral composition of visible light
+顏色 /颜色,noun,color,particular set of the visible spectrum
 嚟,verb,come,to move nearer
+到,verb,come,"to arrive, to appear"
 公司,noun,company,"in legal context, a corporation"
 企業 /企业,noun,company,"in legal context, a corporation"
+企業 /企业,noun,company,"in non-legal context, any business, without respect to incorporation"
 電腦 /电脑,noun,computer,programmable electronic device
+演唱會 /演唱会,noun,concert,a musical entertainment in which several voices or instruments take part
 會話 /会话,noun,conversation,expression and exchange of individual ideas through talking with other people
 談話 /谈话,noun,conversation,expression and exchange of individual ideas through talking with other people
 對話 /对话,noun,conversation,expression and exchange of individual ideas through talking with other people
 涼 /凉,adj,cool,having a slightly low temperature
+國家 /国家,noun,country,nation state
+課程 /课程,noun,course,education: learning program
+堂大佬,noun,cousin,child of a person’s parent’s brother or sister
+堂細佬 /堂细佬,noun,cousin,child of a person’s parent’s brother or sister
+堂家姐,noun,cousin,child of a person’s parent’s brother or sister
+堂妹,noun,cousin,child of a person’s parent’s brother or sister
+表哥,noun,cousin,child of a person’s parent’s brother or sister
+表弟,noun,cousin,child of a person’s parent’s brother or sister
+表姐,noun,cousin,child of a person’s parent’s brother or sister
+表妹,noun,cousin,child of a person’s parent’s brother or sister
 母牛,noun,cow,female domesticated ox or other bovine
 牛乸,noun,cow,female domesticated ox or other bovine
+牛,noun,cow,any domestic bovine regardless of sex or age
 忌廉,noun,cream,oily part of milk
 文化,noun,culture,"arts, customs and habits"
 杯,noun,cup,drinking vessel
+cup,noun,cup,part of bra
+顧客 /顾客,noun,customer,one who purchases or receives a product or service
+主顧 /主顾,noun,customer,one who purchases or receives a product or service
 切,verb,cut,to perform an incision
+切,verb,cut,to divide with a sharp instrument
 阿爸,noun,dad,informal: a father
 爸爸,noun,dad,informal: a father
 爹哋,noun,dad,informal: a father
@@ -190,10 +253,16 @@ check (cek¹),verb,check,"to inspect, examine"
 危險 /危险,adj,dangerous,full of danger
 黑,adj,dark,having an absolute or relative lack of light
 黑暗,adj,dark,having an absolute or relative lack of light
+隱秘 /隐秘,adj,dark,"hidden, secret"
+邪惡 /邪恶,adj,dark,without moral or spiritual light
+黑暗,adj,dark,"not bright or light, deeper in hue"
+日期,noun,date,point of time at which a transaction or event takes place
 女,noun,daughter,female offspring
 白天,noun,day,period between sunrise and sunset
 日頭 /日头,noun,day,period between sunrise and sunset
+日,noun,day,period of 24 hours
 解決 /解决,verb,decide,to resolve or settle
+決定 /决定,verb,decide,give judgement
 好食,adj,delicious,pleasing to taste
 好味,adj,delicious,pleasing to taste
 好吃,adj,delicious,pleasing to taste
@@ -206,6 +275,7 @@ check (cek¹),verb,check,"to inspect, examine"
 瓜,verb,die,to stop living
 釘 /钉,verb,die,to stop living
 歸西 /归西,verb,die,to stop living
+死火,verb,die,to break down
 唔同 唔一樣 /唔一样,adj,different,not the same
 難 /难,adj,difficult,"hard, not easy"
 困難 /困难,adj,difficult,"hard, not easy"
@@ -222,24 +292,47 @@ check (cek¹),verb,check,"to inspect, examine"
 門 /门,noun,door,"portal of entry into a building, room or vehicle"
 戶 /户,noun,door,"portal of entry into a building, room or vehicle"
 畫 /画,verb,draw,to produce a picture
+罨藥 /罨药,verb,dress,to apply a dressing to or otherwise treat (a wound)
+敷藥 /敷药,verb,dress,to apply a dressing to or otherwise treat (a wound)
 飲 /饮,verb,drink,consume liquid through the mouth
 呷,verb,drink,consume liquid through the mouth
 揸車 /揸车,verb,drive,to operate (a wheeled motorized vehicle)
 開車 /开车,verb,drive,to operate (a wheeled motorized vehicle)
+趕 /赶,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+司機 /司机,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+駕駛員 /驾驶员,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+駕駛者 /驾驶者,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+柴可夫,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+司機 /司机,noun,driver,person who drives some other vehicle
+駕駛員 /驾驶员,noun,driver,person who drives some other vehicle
+駕駛者 /驾驶者,noun,driver,person who drives some other vehicle
+柴可夫,noun,driver,person who drives some other vehicle
+驅動程式 /驱动程式,noun,driver,program acting as interface between an application and hardware
+驅動程序 /驱动程序,noun,driver,program acting as interface between an application and hardware
 耳仔,noun,ear,organ of hearing
 耳,noun,ear,organ of hearing
 容易,adj,easy,requiring little skill or effort
 易,adj,easy,requiring little skill or effort
 食,verb,eat,"to ingest — see also consume, ingest"
 吃,verb,eat,"to ingest — see also consume, ingest"
+食飯 /食饭,verb,eat,eat a meal
+吃飯 /吃饭,verb,eat,eat a meal
+吃飯 /吃饭,verb,eat,eat a meal
 卵,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+蛋,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+雞蛋 /鸡蛋,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 象,noun,elephant,mammal
 大象,noun,elephant,mammal
 大笨象,noun,elephant,mammal
 email,verb,email,(transitive) to send an email or emails to
+e,verb,email,(transitive) to send (something) through email
 享受,verb,enjoy,to receive pleasure or satisfaction from something
 歐元 /欧元,noun,euro,currency unit of the European Monetary Union
 歐羅 /欧罗,noun,euro,currency unit of the European Monetary Union
+更加,adv,even,emphasising comparative
+傍晚,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+夜晚,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+挨晚,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 事件,noun,event,occurrence
 活動 /活动,noun,event,occurrence
 例子,noun,example,something representative of a group
@@ -247,8 +340,12 @@ email,verb,email,(transitive) to send an email or emails to
 解釋 /解释,verb,explain,to make intelligible
 眼,noun,eye,organ
 眼睛,noun,eye,organ
+針眼 /针眼,noun,eye,hole in needle
+颱風眼 /台风眼,noun,eye,of a hurricane
+風眼 /风眼,noun,eye,of a hurricane
 面,noun,face,anatomy: front part of head
 臉 /脸,noun,face,anatomy: front part of head
+事實 /事实,noun,fact,something actual
 落下,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 出名,adj,famous,well known
 農場 /农场,noun,farm,place where agricultural activities take place
@@ -259,12 +356,19 @@ email,verb,email,(transitive) to send an email or emails to
 爸爸,noun,father,male parent
 老竇 /老窦,noun,father,male parent
 老豆,noun,father,male parent
+神父,noun,father,term of address for a priest
 感覺 /感觉,noun,feeling,sensation
+感情,noun,feeling,emotion; impression
 搵到 /揾到,verb,find,"encounter, locate, discover"
 火,noun,fire,oxidation reaction
+火燭 /火烛,noun,fire,damaging occurrence of fire
+火災 /火灾,noun,fire,damaging occurrence of fire
 先,adv,first,before anything else
 第一,adv,first,before anything else
 魚 /鱼,noun,fish,vertebrate animal
+魚 /鱼,noun,fish,flesh of fish as food
+魚肉 /鱼肉,noun,fish,flesh of fish as food
+魚肉 /鱼肉,noun,fish,flesh of fish as food
 地板,noun,floor,bottom part of a room
 花,noun,flower,reproductive structure in angiosperms
 飛 /飞,verb,fly,to travel through air
@@ -275,14 +379,26 @@ email,verb,email,(transitive) to send an email or emails to
 食物,noun,food,any substance consumed by living organisms to sustain life
 腳 /脚,noun,foot,part of human body
 足,noun,foot,part of human body
+腳 /脚,noun,foot,part of animal’s body
+足,noun,foot,part of animal’s body
+腳 /脚,noun,foot,bottom of anything
+英尺,noun,foot,unit of measure
 足球,noun,football,association football
+澳式足球,noun,football,"game in Northern Territory, South Australia, Tasmania, Victoria, Western Australia"
+足球,noun,football,ball
 唔記得 /唔记得,verb,forget,to lose remembrance of
 自由,adj,free,not imprisoned
 朋友,noun,friend,person whose company one enjoys
 友人,noun,friend,person whose company one enjoys
 果,noun,fruit,part of plant
 果實 /果实,noun,fruit,part of plant
+生果,noun,fruit,food
+水果,noun,fruit,food
+成果,noun,fruit,figuratively: positive end result or reward of labour or effort
 滿 /满,adj,full,containing the maximum possible amount
+完全,adj,full,complete
+全,adj,full,"total, entire"
+飽 /饱,adj,full,"satisfied, in relation to eating"
 未來 /未来,noun,future,the time ahead
 將來 /将来,noun,future,the time ahead
 遊戲 /游戏,noun,game,"playful activity that may be unstructured, amusement, pastime"
@@ -294,6 +410,7 @@ email,verb,email,(transitive) to send an email or emails to
 條女 /条女,noun,girlfriend,a female partner in a romantic relationship
 畀,verb,give,transfer the possession of something to someone else
 玻璃,noun,glass,substance
+杯,noun,glass,drinking vessel
 去,verb,go,to move through space (especially from one place to another)
 好,adj,good,acting in the interest of good; ethical good intentions
 良,adj,good,acting in the interest of good; ethical good intentions
@@ -314,6 +431,7 @@ email,verb,email,(transitive) to send an email or emails to
 綠色 /绿色,noun,green,colour
 青,noun,green,colour
 結他 /结他,noun,guitar,musical instrument
+頭髮 /头发,noun,hair,mass of such filaments on the human head
 半,noun,half,one of two equal parts into which anything may be divided
 一半,noun,half,one of two equal parts into which anything may be divided
 手,noun,hand,part of the fore limb
@@ -327,10 +445,15 @@ email,verb,email,(transitive) to send an email or emails to
 健康,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 身體 /身体,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 健康,adj,healthy,enjoying good health
+健康,adj,healthy,conducive to health
 聽到 /听到,verb,hear,to perceive with the ear
 呢度,adv,here,"in, on, or at this place"
 高,adj,high,elevated; tall
+高,adj,high,of great or large quantity
+高,adj,high,acoustics: of greater frequency
+high (haai¹),adj,high,slang: under the influence of drugs
 歷史 /历史,noun,history,aggregate of past events
+歷史學 /历史学,noun,history,branch of knowledge that studies the past
 愛好 /爱好,noun,hobby,activity done for enjoyment in spare time
 嗜好,noun,hobby,activity done for enjoyment in spare time
 功課 /功课,noun,homework,work that is done at home
@@ -338,12 +461,31 @@ email,verb,email,(transitive) to send an email or emails to
 馬 /马,noun,horse,members of the species Equus ferus
 醫院 /医院,noun,hospital,large medical facility
 熱 /热,adj,hot,having a high temperature
+熱 /热,adj,hot,of the weather
+炎熱 /炎热,adj,hot,of the weather
+辣,adj,hot,spicy
 旅館 /旅馆,noun,hotel,establishment providing accommodation
 酒店,noun,hotel,establishment providing accommodation
 鐘頭 /钟头,noun,hour,time period of sixty minutes
 鐘 /钟,noun,hour,time period of sixty minutes
+點 /点,noun,hour,"unit to denote the hour, such as military usage in English"
+點鐘 /点钟,noun,hour,"unit to denote the hour, such as military usage in English"
+時 /时,noun,hour,"unit to denote the hour, such as military usage in English"
 屋,noun,house,human abode
+議院 /议院,noun,house,debating chamber for government politicians
 幾 /几,adv,how,to what degree
+怎麼樣 /怎么样,adv,how,in what manner
+怎麼 /怎么,adv,how,in what manner
+怎樣 /怎样,adv,how,in what manner
+點樣 /点样,adv,how,in what manner
+點 /点,adv,how,in what manner
+如何,adv,how,in what manner
+點 /点,adv,how,in what state
+如何,adv,how,in what state
+怎麼樣 /怎么样,adv,how,in what state
+怎樣 /怎样,adv,how,in what state
+多,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+多麼 /多么,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 肚餓 /肚饿,adj,hungry,affected by hunger; desirous of food
 餓 /饿,adj,hungry,affected by hunger; desirous of food
 飢餓 /饥饿,adj,hungry,affected by hunger; desirous of food
@@ -358,25 +500,40 @@ email,verb,email,(transitive) to send an email or emails to
 得意,adj,interesting,arousing or holding the attention
 介紹 /介绍,verb,introduce,to cause someone to be acquainted
 紹介 /绍介,verb,introduce,to cause someone to be acquainted
+引見 /引见,verb,introduce,to make something or someone known by formal announcement or recommendation
 島 /岛,noun,island,area of land completely surrounded by water
 島嶼 /岛屿,noun,island,area of land completely surrounded by water
 海島 /海岛,noun,island,area of land completely surrounded by water
 牛仔褲 /牛仔裤,noun,jeans,denim trousers
+工作,noun,job,economic role for which a person is paid
 保持,verb,keep,to maintain possession of
+維持 /维持,verb,keep,to maintain the condition of; to preserve
+繼續 /继续,verb,keep,to continue
 類 /类,noun,kind,"type, race, category"
 廚房 /厨房,noun,kitchen,room
 知,verb,know,be justifiably certain or sure about (something true)
+國家 /国家,noun,land,country or region
+祖國 /祖国,noun,land,someone's homeplace
 語言 /语言,noun,language,body of words used as a form of communication
 大,adj,large,of greater size — see also big
 遲啲 /迟啲,adv,later,more late
+之後 /之后,adv,later,afterward in time
+遲過 /迟过,adv,later,afterward in time
+陣間 /阵间,adv,later,at some unspecified time in the future
 學 /学,verb,learn,to acquire knowledge or ability
 學 /学,verb,learn,to acquire knowledge or ability
 留,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 腿,noun,leg,lower limb from groin to ankle
 髀,noun,leg,lower limb from groin to ankle
 腳 /脚,noun,leg,lower limb from groin to ankle
+小腿,noun,leg,portion of the lower appendage from knee to ankle
+細髀 /细髀,noun,leg,portion of the lower appendage from knee to ankle
+腳瓜 /脚瓜,noun,leg,portion of the lower appendage from knee to ankle
 字母,noun,letter,a symbol in an alphabet
 字,noun,letter,a symbol in an alphabet
+信,noun,letter,written message
+書信 /书信,noun,letter,written message
+尺牘 /尺牍,noun,letter,written message
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 講大話 /讲大话,verb,lie,tell an intentional untruth
 瞓 /𰥛,verb,lie,be in horizontal position
@@ -385,31 +542,53 @@ email,verb,email,(transitive) to send an email or emails to
 輕 /轻,adj,light,of low weight
 喜歡 /喜欢,verb,like,to enjoy
 鍾意 /钟意,verb,like,to enjoy
+喜歡 /喜欢,verb,like,to find attractive
+鍾意 /钟意,verb,like,to find attractive
+行,noun,line,"single horizontal row of text on a screen, printed paper, etc."
 獅子 /狮子,noun,lion,big cat Panthera leo
 聽 /听,verb,listen,to pay attention to a sound
+住,verb,live,have permanent residence
+居住,verb,live,have permanent residence
 本地,adj,local,of a nearby location
 睇,verb,look,to try to see
 望,verb,look,to try to see
+好似,verb,look,"to appear, to seem"
 冇咗,verb,lose,cause (something) to cease to be in one's possession or capability
 丟 /丢,verb,lose,cause (something) to cease to be in one's possession or capability
+輸 /输,verb,lose,(transitive) fail to win
+減 /减,verb,lose,shed (weight)
 愛 /爱,verb,love,have a strong affection for
 愛情 /爱情,verb,love,have a strong affection for
+做愛 /做爱,verb,love,(euphemistic): to have sex with
 晏晝 /晏昼,noun,lunch,meal around midday
 機 /机,noun,machine,mechanical or electrical device
 機器 /机器,noun,machine,mechanical or electrical device
 雜誌 /杂志,noun,magazine,periodical
 整,verb,make,to construct
+整,verb,make,to produce
+整,verb,make,to create
+搵錢 /揾钱,verb,make,"to earn, to gain (money)"
 男人,noun,man,adult male human
+人,noun,man,a human being
+人類 /人类,noun,man,a human being
 地圖 /地图,noun,map,visual representation of an area
+市場 /市场,noun,market,spacious site for trading
+市場 /市场,noun,market,group of potential customers
+市場 /市场,noun,market,geographical area where a commercial demand exists
 結咗婚 /结咗婚,adj,married,in a state of marriage; having a wife or a husband
 或者,adv,maybe,indicating a lack of certainty
 有可能,adv,maybe,indicating a lack of certainty
 意義 /意义,noun,meaning,symbolic value of something
+意思,noun,meaning,definition or connotation of a word
 肉,noun,meat,animal flesh used as food
+肉,noun,meat,type of meat
+肉,noun,meat,any sort of flesh
+會議 /会议,noun,meeting,gathering for a purpose
 會員 /会员,noun,member,one who officially belongs to a group
 成員 /成员,noun,member,one who officially belongs to a group
 菜單 /菜单,noun,menu,details of the food to be served at a banquet
 餐牌,noun,menu,details of the food to be served at a banquet
+餐牌,noun,menu,list of dishes offered in a restaurant
 信息,noun,message,"communication, concept or information conveyed"
 信息,noun,message,"communication, concept or information conveyed"
 英里,noun,mile,measure of length
@@ -418,8 +597,12 @@ email,verb,email,(transitive) to send an email or emails to
 奶,noun,milk,liquid
 乳,noun,milk,liquid
 分鐘 /分钟,noun,minute,unit of time
+掛住 /挂住,verb,miss,to feel the absence of someone or something; to feel the want or need of
+錯過 /错过,verb,miss,to be late for something
 錯誤 /错误,noun,mistake,an error
 模特兒 /模特儿,noun,model,person
+模型,noun,model,miniature
+模型,noun,model,simplified representation
 錢 /钱,noun,money,means of exchange and measure of value
 月,noun,month,period into which a year is divided
 上晝 /上昼,noun,morning,part of the day between dawn and midday
@@ -430,17 +613,26 @@ email,verb,email,(transitive) to send an email or emails to
 媽媽 /妈妈,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 山,noun,mountain,large mass of earth and rock
 老鼠,noun,mouse,rodent of the genus Mus
+滑鼠,noun,mouse,computing: input device
+老鼠,noun,mouse,computing: input device
+鼠標 /鼠标,noun,mouse,computing: input device
+踎士,noun,mouse,computing: input device
 口,noun,mouth,the opening of a creature through which food is ingested
 嘴,noun,mouth,the opening of a creature through which food is ingested
 喐,verb,move,(intransitive) to change place or posture; to go
+感動 /感动,verb,move,to arouse the feelings or passions of
 電影 /电影,noun,movie,motion picture
 博物館 /博物馆,noun,museum,building or institution
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
+附近,noun,neighborhood,area near one's home
+鄰里,noun,neighborhood,area near one's home
 新,adj,new,recently made or created
 消息,noun,news,new information of interest
+新聞 /新闻,noun,news,reports of current events
 報紙 /报纸,noun,newspaper,publication
 夜晚,noun,night,period between sunset and sunrise
 鼻,noun,nose,protuberance on the face
+鼻,noun,nose,"snout, nose of an animal"
 不,adv,not,negates meaning of another word
 唔,adv,not,negates meaning of another word
 而家,adv,now,at the present time
@@ -449,37 +641,66 @@ email,verb,email,(transitive) to send an email or emails to
 現在 /现在,adv,now,at the present time
 現今 /现今,adv,now,at the present time
 現時 /现时,adv,now,at the present time
+數詞 /数词,noun,number,numeral
+數 /数,noun,number,numeral
+數字 /数字,noun,number,numeral
+號碼 /号码,noun,number,used to show the rank of something in a list or sequence
+號 /号,noun,number,used to show the rank of something in a list or sequence
 護士 /护士,noun,nurse,person trained to provide care for the sick
 姑娘,noun,nurse,person trained to provide care for the sick
 大洋,noun,ocean,one of the large bodies of water
+寫字樓 /写字楼,noun,office,room(s) or building used for non-manual work
+辦公室 /办公室,noun,office,room(s) or building used for non-manual work
+事務所 /事务所,noun,office,room(s) or building used for non-manual work
 好多時 /好多时,adv,often,"frequently, many times"
 成日,adv,often,"frequently, many times"
 經常 /经常,adv,often,"frequently, many times"
 舊 /旧,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+老,adj,old,of a living being: having lived for relatively many years
 洋蔥 /洋葱,noun,onion,Allium cepa
+洋蔥 /洋葱,noun,onion,bulb
+洋蔥頭 /洋葱头,noun,onion,bulb
 淨係 /净系,adv,only,without others or anything further; exclusively
+淨係 /净系,adv,only,no more than
 開 /开,verb,open,to make something accessible
 意見 /意见,noun,opinion,thought a person has formed about a topic
 睇法,noun,opinion,thought a person has formed about a topic
 橙色,adj,orange,having the colour of the fruit of an orange tree
+命令,verb,order,to issue a command
 頁 /页,noun,page,one side of a leaf of a book
+頁 /页,noun,page,one of the pieces of paper bound together within a book or document
 油漆,noun,paint,substance
 油,noun,paint,substance
 褲 /裤,noun,pants,garment covering the body from the waist downwards
 㠸,noun,pants,garment covering the body from the waist downwards
+底褲 /底裤,noun,pants,undergarment covering the genitals
+底橫 /底横,noun,pants,undergarment covering the genitals
 紙 /纸,noun,paper,sheet material
+包,noun,paper,open hand in the game of rock paper scissors
+論文 /论文,noun,paper,academic paper
 段落,noun,paragraph,passage in text
 親 /亲,noun,parent,person from whom one is descended
 父母,noun,parent,person from whom one is descended
 停,verb,park,bring (a vehicle) to a halt
 泊,verb,park,bring (a vehicle) to a halt
 部分,noun,part,fraction of a whole
+聚會 /聚会,noun,party,social gathering
+派對 /派对,noun,party,social gathering
+party,noun,party,social gathering
+P,noun,party,social gathering
 護照 /护照,noun,passport,official document for foreign travel
 筆 /笔,noun,pen,writing tool
 鉛筆 /铅笔,noun,pencil,graphite writing-instrument
 人,noun,people,a body of human beings; a group of two or more persons
+國民 /国民,noun,people,a group of persons forming or belonging to a particular nation etc.
+民族,noun,people,a group of persons forming or belonging to a particular nation etc.
+人民,noun,people,a group of persons forming or belonging to a particular nation etc.
 胡椒,noun,pepper,plant
+胡椒,noun,pepper,spice
+胡椒粉,noun,pepper,spice
+純 /纯,adj,perfect,"music: interval or any compound interval of a unison, octave, or fourths and fifths that are not tritones."
 人,noun,person,individual
+人,noun,person,"specifically a human being — see also human, human being, man"
 影相,noun,photograph,picture
 片語 /片语,noun,phrase,short written or spoken expression
 鋼琴 /钢琴,noun,piano,a keyboard musical instrument
@@ -487,8 +708,13 @@ email,verb,email,(transitive) to send an email or emails to
 塊 /块,noun,piece,part of a larger whole
 豬 /猪,noun,pig,mammal of genus Sus
 粉紅色 /粉红色,noun,pink,pale red colour
+康乃馨,noun,pink,flower
 地方,noun,place,"location, position"
 植物,noun,plant,organism capable of photosynthesis
+戲劇 /戏剧,noun,play,theatrical performance
+話劇 /话剧,noun,play,theatrical performance
+分,noun,point,unit of scoring in a game or competition
+點 /点,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
 警察,noun,police,local or general law enforcement agency
 窮 /穷,adj,poor,with few or no possessions or money
 寄,verb,post,send mail
@@ -503,36 +729,62 @@ email,verb,email,(transitive) to send an email or emails to
 困難 /困难,noun,problem,difficulty
 難題 /难题,noun,problem,difficulty
 麻煩 /麻烦,noun,problem,difficulty
+題目 /题目,noun,problem,schoolwork exercise
+習題 /习题,noun,problem,schoolwork exercise
+課題 /课题,noun,problem,schoolwork exercise
 計劃 /计划,noun,program,set of structured activities
+節目 /节目,noun,program,performance of a show or other broadcast on radio or television
+應用程式 /应用程式,noun,program,software application
+程序,noun,program,software application
+程式,noun,program,software application
 紫色,noun,purple,colour
 問題 /问题,noun,question,"sentence, phrase or word"
 快,adj,quick,moving with speed
 快手,adj,quick,moving with speed
+快脆,adj,quick,occurring in a short time
 無線電 /無綫電 /无线电,noun,radio,technology
+收音機 /收音机,noun,radio,receiver
 落雨,verb,rain,of rain: to fall from the sky
 讀 /读,verb,read,to look at and interpret letters or other information
 讀者 /读者,noun,reader,person who reads a publication
 真係 /真系,adv,really,actually
 理由,noun,reason,that which causes: a cause
 原因,noun,reason,that which causes: a cause
+理由,noun,reason,motive for an action or determination
+道理,noun,reason,motive for an action or determination
+原因,noun,reason,motive for an action or determination
 紅色 /红色,noun,red,colour
 記得 /记得,verb,remember,to recall from one's memory
+記住 /记住,verb,remember,to memorize
+記實 /记实,verb,remember,to memorize
+記住 /记住,verb,remember,to not forget to do something required
 餐廳 /餐厅,noun,restaurant,an eating establishment in which diners are served food
 食肆,noun,restaurant,an eating establishment in which diners are served food
 結果 /结果,noun,result,that which results
+結果 /结果,noun,result,"fruit, beneficial or tangible effect"
 禾,noun,rice,plants
+米,noun,rice,seeds used as food
+飯 /饭,noun,rice,seeds used as food
+白飯 /白饭,noun,rice,seeds used as food
+權利 /权利,noun,right,legal or moral entitlement
 河,noun,river,large stream which drains a landmass
 江,noun,river,large stream which drains a landmass
 河流,noun,river,large stream which drains a landmass
 路,noun,road,a way for travel
 道路,noun,road,a way for travel
+房,noun,room,division in a building
+房間 /房间,noun,room,division in a building
 走,verb,run,to move quickly on two feet
 跑,verb,run,to move quickly on two feet
+唔開心 /唔开心,adj,sad,feeling sorrow
 沙律,noun,salad,food
 鹽 /盐,noun,salt,sodium chloride
 三文治,noun,sandwich,dish — see also open sandwich
+講 /讲,verb,say,to pronounce
 學校 /学校,noun,school,an institution dedicated to teaching and learning
 書館 /书馆,noun,school,an institution dedicated to teaching and learning
+學校 /学校,noun,school,an institution dedicated to teaching and learning before college or university
+大學 /大学,noun,school,college or university
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
 科學家 /科学家,noun,scientist,one whose activities make use of the scientific method
 見 /见,verb,see,perceive with the eyes
@@ -540,6 +792,7 @@ email,verb,email,(transitive) to send an email or emails to
 睇,verb,see,perceive with the eyes
 賣 /卖,verb,sell,to agree to transfer goods or provide services for payment
 寄,verb,send,make something go somewhere
+句子,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 綿羊 /绵羊,noun,sheep,animal
 羊,noun,sheep,animal
 羊咩,noun,sheep,animal
@@ -550,8 +803,12 @@ email,verb,email,(transitive) to send an email or emails to
 買嘢 /买嘢,noun,shopping,activity of buying
 購物 /购物,noun,shopping,activity of buying
 短,adj,short,having a small distance between ends or edges
+矮,adj,short,"of a person, of comparatively small height"
+短,adj,short,having little duration
 應該 /应该,verb,should,expressing obligation
 騷 /骚,noun,show,entertainment
+沖涼 /冲凉,noun,shower,instance of using of this device
+淋浴,noun,shower,instance of using of this device
 差唔多,adj,similar,"having traits or characteristics in common; alike, comparable"
 唱,verb,sing,to produce harmonious sounds with one’s voice
 唱歌,verb,sing,to produce harmonious sounds with one’s voice
@@ -568,15 +825,28 @@ email,verb,email,(transitive) to send an email or emails to
 瞓覺 /𰥛觉,verb,sleep,to rest in state of reduced consciousness
 慢,adj,slow,not quick in motion
 細 /细,adj,small,not large
+細 /细,adj,small,young
+叻,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 蛇,noun,snake,legless reptile
 落雪,verb,snow,have snow fall from the atmosphere
 好,adv,so,very
+咁,adv,so,to a particular extent
+噉樣 /噉样,adv,so,in the same aformentioned manner
+噉样,adv,so,in the same aformentioned manner
 有時 /有时,adv,sometimes,"on certain occasions, but not always"
 仔,noun,son,a male person in relation to his parents
 囝仔,noun,son,a male person in relation to his parents
+養子 /养子,noun,son,an adopted son
 歌,noun,song,music with words
 湯 /汤,noun,soup,dish
+空間 /空间,noun,space,physical extent in two or three dimensions
+太空,noun,space,area beyond atmosphere of planets
+宇宙,noun,space,area beyond atmosphere of planets
+空間 /空间,noun,space,area beyond atmosphere of planets
+空白,noun,space,"gap between written characters, lines etc."
+空格,noun,space,piece of type used to separate words
 講 /讲,verb,speak,to communicate with one's voice using words
+識講 /识讲,verb,speak,to be able to communicate in a language
 特別 /特别,adj,special,distinguished by a unique or unusual quality
 串,verb,spell,to write or say the letters that form a word
 運動 /运动,noun,sport,any athletic activity that uses physical skills
@@ -584,13 +854,27 @@ email,verb,email,(transitive) to send an email or emails to
 企,verb,stand,to support oneself on the feet in an erect position
 星,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 星星,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+恆星 /恒星,noun,star,(astronomy) a luminous celestial body made of plasma
+星形,noun,star,concave polygon
 開始 /开始,verb,start,to begin
 站,noun,station,place where a vehicle may stop
+電臺 /電台 /电台,noun,station,place used for broadcasting
+仍然,adv,still,"up to a time, as in the preceding time"
 故事,noun,story,account of events
 街,noun,street,paved part of road in a village or a town
 路,noun,street,paved part of road in a village or a town
 學生 /学生,noun,student,person who studies a subject
+學生 /学生,noun,student,person enrolled at a university — see also university student
+學習 /学习,verb,study,to acquire knowledge
 主語 /主语,noun,subject,in grammar
+主題 /主题,noun,subject,main topic
+科目,noun,subject,particular area of study
+學科 /学科,noun,subject,particular area of study
+臣民,noun,subject,citizen in a monarchy
+臣民,noun,subject,"person ruled over by another, especially a monarch or state authority"
+子民,noun,subject,"person ruled over by another, especially a monarch or state authority"
+主題 /主题,noun,subject,music: main theme
+主旋律,noun,subject,music: main theme
 成功,noun,success,achievement of one's aim or goal
 糖,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 夏天,noun,summer,hottest season
@@ -599,24 +883,35 @@ email,verb,email,(transitive) to send an email or emails to
 太陽 /太阳,noun,sun,"a star, especially when seen as the centre of any single solar system"
 日頭 /日头,noun,sun,"a star, especially when seen as the centre of any single solar system"
 熱頭 /热头,noun,sun,"a star, especially when seen as the centre of any single solar system"
+陽光 /阳光,noun,sun,light and warmth received from the sun
 超級市場 /超级市场,noun,supermarket,store
 超市,noun,supermarket,store
 游水,verb,swim,move through water
 游泳,noun,swimming,human activity of moving oneself through water
 檯 /台,noun,table,item of furniture
 枱,noun,table,item of furniture
+表格,noun,table,grid of data in rows and columns
+表,noun,table,grid of data in rows and columns
 攞 /𫽋,verb,take,to get into one's hands or control
 講 /讲,verb,talk,to communicate by speech
+溝通 /沟通,verb,talk,to communicate by other means than speech
 高,adj,tall,of a person
+高,adj,tall,of a building
 的士,noun,taxi,vehicle available for public hire
 計程車 /计程车,noun,taxi,vehicle available for public hire
 出租車 /出租车,noun,taxi,vehicle available for public hire
 老的,noun,taxi,vehicle available for public hire
+茶,noun,tea,drink made from leaves of tea plant
 教,verb,teach,to pass on knowledge
 老師 /老师,noun,teacher,person who teaches
 教師 /教师,noun,teacher,person who teaches
 先生,noun,teacher,person who teaches
+團隊 /团队,noun,team,group of people
+隊伍 /队伍,noun,team,group of people
+隊 /队,noun,team,group of people
 電視 /电视,noun,television,medium
+電視機 /电视机,noun,television,device for receiving television signals
+電視 /电视,noun,television,program broadcasting
 網球 /网球,noun,tennis,sport played by two or four players with strung racquets
 課文 /课文,noun,text,a written passage
 劇場 /剧场,noun,theater,place or building
@@ -626,16 +921,33 @@ email,verb,email,(transitive) to send an email or emails to
 事物,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 物件,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 諗 /谂,verb,think,"to ponder, to go over in one's head"
+諗 /谂,verb,think,communicate to oneself in one’s mind
 口渴,adj,thirsty,needing to drink
 頸渴 /颈渴,adj,thirsty,needing to drink
 飛 /飞,noun,ticket,admission to entertainment
+飛 /飞,noun,ticket,pass for transportation
+機票 /机票,noun,ticket,pass for transportation
+車飛 /车飞,noun,ticket,pass for transportation
+船飛 /船飞,noun,ticket,pass for transportation
+罰單 /罚单,noun,ticket,traffic citation
+牌照,noun,ticket,permit to operate machine
+执照,noun,ticket,permit to operate machine
 時間 /时间,noun,time,inevitable passing of events
 時光 /时光,noun,time,inevitable passing of events
+時間 /时间,noun,time,quantity of availability in time
+時間 /时间,noun,time,measurement of a quantity of time
+時候 /时候,noun,time,division of the day: particular moment or hour
+時刻 /时刻,noun,time,division of the day: particular moment or hour
+時候 /时候,noun,time,numerical indication of a particular moment in time
+次,noun,time,instance or occurrence
 攰,adj,tired,in need of rest or sleep
 疲倦,adj,tired,in need of rest or sleep
 今日,noun,today,today (noun)
 今天,noun,today,today (noun)
+廁所 /厕所,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+洗手間 /洗手间,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
 番茄,noun,tomato,tomato plant
+番茄,noun,tomato,fruit
 明天,noun,tomorrow,the day after the present day
 聽日 /听日,noun,tomorrow,the day after the present day
 明日,noun,tomorrow,the day after the present day
@@ -649,8 +961,12 @@ email,verb,email,(transitive) to send an email or emails to
 城鎮 /城镇,noun,town,settlement
 鎮 /镇,noun,town,settlement
 交通,noun,traffic,pedestrians or vehicles on roads or on the air
+火車 /火车,noun,train,line of connected cars or carriages
+列車 /列车,noun,train,line of connected cars or carriages
 樹 /树,noun,tree,large woody plant
 樹木 /树木,noun,tree,large woody plant
+卡車 /卡车,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+貨車 /货车,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 款,noun,type,grouping based on shared characteristics
 種 /种,noun,type,grouping based on shared characteristics
 遮,noun,umbrella,cloth-covered frame used for protection against rain or sun
@@ -659,16 +975,20 @@ email,verb,email,(transitive) to send an email or emails to
 姑丈,noun,uncle,brother (or brother-in-law) of someone’s parent
 舅父,noun,uncle,brother (or brother-in-law) of someone’s parent
 姨丈,noun,uncle,brother (or brother-in-law) of someone’s parent
+叔叔,noun,uncle,form of address to a man by young people or children in some countries
 明白,verb,understand,to grasp the meaning of
 大學 /大学,noun,university,institution of higher education
 用,verb,use,"employ, apply"
 使用,verb,use,"employ, apply"
+用晒,verb,use,"to exhaust the supply of, to consume"
 有用,adj,useful,having a practical or beneficial use
 平時 /平时,adv,usually,most of the time
+假期,noun,vacation,period of leisure time
 好,adv,very,to a high degree
 非常,adv,very,to a high degree
 影片,noun,video,"television show, movie"
 等,verb,wait,delay until some event
+企檯 /企台,verb,wait,to serve customers
 侍應 /侍应,noun,waiter,a server in a restaurant or similar
 企檯 /企台,noun,waiter,a server in a restaurant or similar
 企枱,noun,waiter,a server in a restaurant or similar
@@ -680,8 +1000,10 @@ email,verb,email,(transitive) to send an email or emails to
 愛 /爱,verb,want,to desire
 暖,adj,warm,having a temperature slightly higher than usual
 洗,verb,wash,to clean with water
+沖走 /冲走,verb,wash,to move or erode by the force of water in motion
 手錶 /手表,noun,watch,portable or wearable timepiece
 水,noun,water,inorganic compound H₂O
+水,noun,water,one of the basic elements
 著 /着,verb,wear,to have on (clothes or accessories)
 戴,verb,wear,to have on (clothes or accessories)
 天氣 /天气,noun,weather,state of the atmosphere
@@ -693,10 +1015,16 @@ email,verb,email,(transitive) to send an email or emails to
 禮拜尾 /礼拜尾,noun,weekend,break in the working week
 幾時 /几时,adv,when,"at what time, as a direct question"
 何時 /何时,adv,when,"at what time, as a direct question"
+幾時 /几时,adv,when,"at what time, as an indirect question"
 哪裡 /哪裏 /哪里,adv,where,at what place; to what place; from what place
 邊度 /边度,adv,where,at what place; to what place; from what place
 邊處 /边处,adv,where,at what place; to what place; from what place
+邊度 /边度,adv,where,at or in which place
+邊處 /边处,adv,where,at or in which place
+邊度 /边度,adv,where,wherever
+邊處 /边处,adv,where,wherever
 白色,noun,white,color
+白人,noun,white,person of European descent
 點解 /点解,adv,why,for what reason
 為乜 /为乜,adv,why,for what reason
 做乜,adv,why,for what reason
@@ -705,6 +1033,7 @@ email,verb,email,(transitive) to send an email or emails to
 妻子,noun,wife,female partner in a marriage
 老婆,noun,wife,female partner in a marriage
 太太,noun,wife,female partner in a marriage
+會 /会,verb,will,indicating future action
 贏 /赢,verb,win,transitive: achieve victory in
 勝利 /胜利,verb,win,transitive: achieve victory in
 窗,noun,window,opening for light and air
@@ -717,10 +1046,16 @@ email,verb,email,(transitive) to send an email or emails to
 詞 /词,noun,word,unit of language
 工作,noun,work,"labour, employment, occupation, job"
 世界,noun,world,human collective existence
+宇宙,noun,world,the universe
+世界,noun,world,the Earth
+世界,noun,world,inhabited planet
+世界,noun,world,individual or group perspective or social setting
 寫 /写,verb,write,"to form letters, etc."
 作家,noun,writer,person who writes; an author
 錯 /错,adj,wrong,incorrect
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
+年級 /年级,noun,year,a level or grade at school or college
+學年 /学年,noun,year,a level or grade at school or college
 黃色 /黄色,noun,yellow,color
 昨天,noun,yesterday,day before today
 琴日,noun,yesterday,day before today

@@ -16,11 +16,19 @@ word,part_of_speech,english_word,sense
 الثُّلَثَاء,noun,Tuesday,day of the week
 الْأَرْبِعَاء,noun,Wednesday,day of the week
 يَوْم الْأَرْبِعَاء,noun,Wednesday,day of the week
+حَوَالِي,adv,about,"nearly, approximately"
+عَمَل,noun,action,something done so as to accomplish a purpose
 نَشَاط,noun,activity,state or quality of being active
 مُمَثِّل,noun,actor,person who performs in a theatrical play or film — see also actress
 مُمَثِّلَة,noun,actor,person who performs in a theatrical play or film — see also actress
 مُمَثِّلَة,noun,actress,female actor — see also actor
 أَضَافَ,verb,add,to append (e.g. a statement); to say further information; to add on
+اِضَافَ,verb,add,to make an addition; to augment; to increase; to add on
+جَمَعَ,verb,add,"to perform the arithmetical operation of addition, to add up"
+خُطْبَة,noun,address,act of addressing oneself to a person or group
+نِدَاء,noun,address,act of addressing oneself to a person or group
+عُنْوَان,noun,address,description of the location of a property; direction for correspondence
+عِنْوَان,noun,address,description of the location of a property; direction for correspondence
 بَالِغ,noun,adult,fully grown human
 رَاشِد,noun,adult,fully grown human
 نَصِيحَة,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
@@ -32,10 +40,22 @@ word,part_of_speech,english_word,sense
 زَوَالِيّ,noun,afternoon,part of the day between noon and evening
 هَاجِرِيّ,noun,afternoon,part of the day between noon and evening
 عصر,noun,afternoon,part of the day between noon and evening
+مَرَّة أُخْرَى,adv,again,another time
+ثَانِيَةً,adv,again,another time
+مُجَدَّدًا,adv,again,another time
+مِنْ جَدِيدٍ,adv,again,another time
 عُمْر,noun,age,amount of time since the birth of a being or the beginning of a thing
 عُمُر,noun,age,amount of time since the birth of a being or the beginning of a thing
+سِنّ,noun,age,one of the stages of life
+عَصْر,noun,age,particular period of time in history
+زَمَان,noun,age,particular period of time in history
+عُمْر,noun,age,lifespan
+عُمُر,noun,age,lifespan
 وَافَقَ,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 هَوَاء,noun,air,historical: one of the basic elements
+هَوَاء,noun,air,mixture of gases making up the atmosphere of the Earth
+جَوّ,noun,air,the apparently open space above the ground
+نَغَم,noun,air,"music: a song, an aria"
 مَطَار,noun,airport,place designated for airplanes
 أَيْضًا,adv,also,in addition; besides; as well; further; too
 كَذٰلِكَ,adv,also,in addition; besides; as well; further; too
@@ -50,12 +70,16 @@ word,part_of_speech,english_word,sense
 غَاضِب,adj,angry,displaying anger
 غَضْبَان,adj,angry,displaying anger
 حَيَوَان,noun,animal,organism
+حَيَوَان,noun,animal,organism other than human
+حَيَوَان,noun,animal,person who behaves wildly
+وَحْش,noun,animal,person who behaves wildly
 أَجَابَ,verb,answer,to make a reply or response to
 رَدَّ,verb,answer,to make a reply or response to
 جَاوَبَ,verb,answer,to make a reply or response to
 رد,verb,answer,to make a reply or response to
 رَد,verb,answer,to make a reply or response to
 جَاوَب,verb,answer,to make a reply or response to
+رَدّ,verb,answer,to respond to a call
 شَقَّة,noun,apartment,domicile occupying part of a building
 تُفَّاحَة,noun,apple,fruit of Malus domestica
 تُفَّاح,noun,apple,fruit of Malus domestica
@@ -65,25 +89,51 @@ word,part_of_speech,english_word,sense
 تفّاحة,noun,apple,fruit of Malus domestica
 تُفَّاحة,noun,apple,fruit of Malus domestica
 مِسَاحَة,noun,area,maths: measure of extent of a surface
+مِنْطَقَة,noun,area,particular geographic region
+نَاحِيَة,noun,area,particular geographic region
 سِلَاح,noun,arm,weapon
 ذِرَاع,noun,arm,upper appendage from shoulder to wrist
 وَصَلَ,verb,arrive,to reach
+وَصَلَ,verb,arrive,to get to a certain place
 فَنّ,noun,art,human effort
 فُنُون,noun,art,human effort
 صَنْعَة,noun,art,human effort
 فن,noun,art,human effort
+فَنّ,noun,art,conscious production or arrangement
+فُنُون,noun,art,conscious production or arrangement
+فَنّ,noun,art,skillful creative activity
+فُنُون,noun,art,skillful creative activity
+فن,noun,art,skillful creative activity
+فَنّ,noun,art,study
+فُنُون,noun,art,study
+فَنّ,noun,art,aesthetic value
+فُنُون,noun,art,aesthetic value
+فَنّ,noun,art,artwork
+فُنُون,noun,art,artwork
+فَنّ,noun,art,field or category of art
+فُنُون,noun,art,field or category of art
+فَنّ,noun,art,nonscientific branch of learning
+فُنُون,noun,art,nonscientific branch of learning
 مَقَال,noun,article,"story, report, or opinion piece"
 مَقَالَة,noun,article,"story, report, or opinion piece"
+أَدَاة التَّعْرِيف,noun,article,part of speech that specifies a noun
+مادّةٌ,noun,article,section of a legal document
+مَوَادُّ,noun,article,section of a legal document
 فَنَّان,noun,artist,person who creates art
 فَنَّانَة,noun,artist,person who creates art
 رَسَّام,noun,artist,person who creates art
 رَسَّامَة,noun,artist,person who creates art
+فَنَّان,noun,artist,person who creates art as an occupation
+فَنَّانَة,noun,artist,person who creates art as an occupation
 سَأَلَ,verb,ask,request an answer
 سأل,verb,ask,request an answer
 سأل,verb,ask,request an answer
 سقصى,verb,ask,request an answer
 سول,verb,ask,request an answer
 سال,verb,ask,request an answer
+سَأَلَ,verb,ask,make a request
+طَلَبَ,verb,ask,make a request
+طلب,verb,ask,make a request
 عَمَّة,noun,aunt,a parent's sister or sister-in-law
 خَالَة,noun,aunt,a parent's sister or sister-in-law
 زَوْجةُ العَمّ,noun,aunt,a parent's sister or sister-in-law
@@ -93,6 +143,9 @@ word,part_of_speech,english_word,sense
 طفل,noun,baby,very young human being
 بيبي,noun,baby,very young human being
 نونو,noun,baby,very young human being
+حَبِيبِي,noun,baby,term of endearment — see also darling
+حَبِيبِي,noun,baby,form of address to a man or a woman considered to be attractive
+عَزِيزِي,noun,baby,form of address to a man or a woman considered to be attractive
 سَيِّئ,adj,bad,unfavorable; negative
 وحش,adj,bad,unfavorable; negative
 شين,adj,bad,unfavorable; negative
@@ -100,6 +153,7 @@ word,part_of_speech,english_word,sense
 عاطل,adj,bad,unfavorable; negative
 سَيِّئ,adj,bad,unfavorable; negative
 عاطل,adj,bad,unfavorable; negative
+شَرِير,adj,bad,"evil, wicked"
 حَقِيبَة,noun,bag,flexible container
 جَيْب,noun,bag,flexible container
 كِيس,noun,bag,flexible container
@@ -110,6 +164,8 @@ word,part_of_speech,english_word,sense
 خنشة,noun,bag,flexible container
 شنطة,noun,bag,flexible container
 كيس,noun,bag,flexible container
+كِيس,noun,bag,paper (or plastic) container given or sold to shoppers
+چيس,noun,bag,paper (or plastic) container given or sold to shoppers
 كُرَة,noun,ball,solid or hollow sphere
 كُبَّة,noun,ball,solid or hollow sphere
 كورة,noun,ball,solid or hollow sphere
@@ -118,6 +174,8 @@ word,part_of_speech,english_word,sense
 كورة,noun,ball,solid or hollow sphere
 طابة,noun,ball,solid or hollow sphere
 كورة,noun,ball,solid or hollow sphere
+كُرَة,noun,ball,"object, generally spherical, used for playing games"
+ضَرَّة,noun,ball,anatomy: ball of a foot
 مَوْزَة,noun,banana,fruit
 مَوْز,noun,banana,fruit
 موزة,noun,banana,fruit
@@ -129,13 +187,22 @@ word,part_of_speech,english_word,sense
 ضِفَّة,noun,bank,edge of river or lake
 مَصْرِف,noun,bank,institution
 بَنْك,noun,bank,institution
+مَصْرِف,noun,bank,branch office
+بَنْك,noun,bank,branch office
 بَار,noun,bar,unit of pressure
+خَانَة,noun,bar,business licensed to sell intoxicating beverages
+بَار,noun,bar,business licensed to sell intoxicating beverages
 بَيْسْبُول,noun,baseball,ball game
 كُرَة اَلسَّلَّة,noun,basketball,the sport
+كُرَة اَلسَّلَّة,noun,basketball,the ball used in the sport
 حَمَّام,noun,bath,tub
 مُغْسَل,noun,bath,tub
 مَغْطِس,noun,bath,tub
 مِغْطَس,noun,bath,tub
+حَمَّام,noun,bath,building or area where bathing occurs
+مُغْتَسَل,noun,bath,building or area where bathing occurs
+اِسْتِحْمَام,noun,bath,act of bathing
+اِغْتِسَال,noun,bath,act of bathing
 حَمَّام,noun,bathroom,a room with a bathtub
 شَاطِئ,noun,beach,sandy shore
 جَمِيل,adj,beautiful,attractive
@@ -150,6 +217,11 @@ word,part_of_speech,english_word,sense
 تخت,noun,bed,piece of furniture
 ناموسية,noun,bed,piece of furniture
 تخت,noun,bed,piece of furniture
+قَاع,noun,bed,the bottom of a lake or other body of water
+حَوْض,noun,bed,the bottom of a lake or other body of water
+مَشَارَة,noun,bed,garden plot
+حَوْض,noun,bed,garden plot
+زِرَاعَة,noun,bed,garden plot
 غُرْفَة نَوْم,noun,bedroom,room in a house where a bed is kept for sleeping
 بِيرَة,noun,beer,alcoholic drink made of malt
 جِعَة,noun,beer,alcoholic drink made of malt
@@ -159,7 +231,14 @@ word,part_of_speech,english_word,sense
 اِبْتَدَأَ,verb,begin,"to start, to initiate (transitive)"
 شَرَعَ,verb,begin,"to start, to initiate (transitive)"
 بِدَايَة,noun,beginning,act of doing that which begins anything
+بِدَايَة,noun,beginning,that which begins or originates something
+بِدَايَة,noun,beginning,initial portion of some extended thing
 صَدَّقَ,verb,believe,to accept that someone is telling the truth (object: person)
+صَدَّقَ,verb,believe,to accept as true
+ظَنَّ,verb,believe,to consider likely
+آمَنَ,verb,believe,to have religious faith; to believe in a greater truth
+صَدَّقَ,verb,believe,to have religious faith; to believe in a greater truth
+آمَنَ بِـ,verb,believe,to ascribe existence to
 أَفْضَل,adj,best,superlative of the adjective good
 أَفْضَل,adj,better,comparative of the adjectives good or well
 أَحْسَن,adj,better,comparative of the adjectives good or well
@@ -169,6 +248,10 @@ word,part_of_speech,english_word,sense
 كبير,adj,big,of a great size — see also large
 كبير,adj,big,of a great size — see also large
 كبير,adj,big,of a great size — see also large
+كَبِير,adj,big,adult
+لَائِحَة,noun,bill,draft of a law
+فَاتُورَة,noun,bill,invoice
+حِسَاب,noun,bill,invoice
 مِنْقَار,noun,bill,bird's beak
 طَائِر,noun,bird,animal
 عُصْفُور,noun,bird,animal
@@ -180,10 +263,15 @@ word,part_of_speech,english_word,sense
 برطال,noun,bird,animal
 عَصْفور,noun,bird,animal
 طير,noun,bird,animal
+مزة,noun,bird,woman
 عِيد مِيلَاد,noun,birthday,anniversary
 يَوْم مِيلَاد,noun,birthday,anniversary
 أَسْوَد,noun,black,colour/color
 أسود,noun,black,colour/color
+زِنْجِيّ,noun,black,dark-skinned person — see also Negro
+زَنْجِيّ,noun,black,dark-skinned person — see also Negro
+أَسْوَد,noun,black,dark-skinned person — see also Negro
+سَوْدَاء,noun,black,dark-skinned person — see also Negro
 مُدَوَّنَة إِلِكْتْرُونِيَّة,noun,blog,a personal or corporate website
 مُدَوَّنَة,noun,blog,a personal or corporate website
 بْلُوغ,noun,blog,a personal or corporate website
@@ -191,6 +279,9 @@ word,part_of_speech,english_word,sense
 بْلُوق,noun,blog,a personal or corporate website
 أَشْقَر,adj,blond,of a pale golden colour
 شَقْرَاء,adj,blond,of a pale golden colour
+أَشْقَر,adj,blond,having blond hair
+شَقْرَاء,adj,blond,having blond hair
+شُقْر,adj,blond,having blond hair
 أَزْرَق,noun,blue,colour
 زرق,noun,blue,colour
 قَارِب,noun,boat,water craft
@@ -220,6 +311,9 @@ word,part_of_speech,english_word,sense
 كتاب,noun,book,collection of sheets of paper bound together containing printed or written material
 كتاب,noun,book,collection of sheets of paper bound together containing printed or written material
 كتاب,noun,book,collection of sheets of paper bound together containing printed or written material
+سِجِل,noun,book,record of betting
+سِفْر,noun,book,"major division of a published work, larger than a chapter"
+سِجِلّ,noun,book,usually in plural: records of the accounts of a business
 جَزْمَة,noun,boot,heavy shoe that covers part of the leg
 بسطار,noun,boot,heavy shoe that covers part of the leg
 مَلُول,adj,bored,suffering from boredom
@@ -265,6 +359,9 @@ word,part_of_speech,english_word,sense
 خَلِيل,noun,boyfriend,male partner in a romantic relationship
 رَفِيق,noun,boyfriend,male partner in a romantic relationship
 حَبِيب,noun,boyfriend,male partner in a romantic relationship
+صَدِيق,noun,boyfriend,male friend
+رَفِيق,noun,boyfriend,male friend
+زَمِيل,noun,boyfriend,male friend
 خُبْز,noun,bread,baked dough made from cereals
 عيش,noun,bread,baked dough made from cereals
 خُبز,noun,bread,baked dough made from cereals
@@ -273,6 +370,7 @@ word,part_of_speech,english_word,sense
 قرص,noun,bread,baked dough made from cereals
 خِبِز,noun,bread,baked dough made from cereals
 خِبِز,noun,bread,baked dough made from cereals
+اِسْتِرَاحَة,noun,break,"rest or pause, usually from work"
 إِفْطَار,noun,breakfast,first meal of the day
 فَطُور,noun,breakfast,first meal of the day
 أَحْضَرَ,verb,bring,to transport toward somebody/somewhere
@@ -292,12 +390,23 @@ word,part_of_speech,english_word,sense
 أَسْمَر,noun,brown,colour
 بَنَى,verb,build,(transitive) to form by combining materials or parts
 بِنَاء,noun,building,act or process of building
+مَبْنَى,noun,building,closed structure with walls and a roof
+بِنَاء,noun,building,closed structure with walls and a roof
+دَار,noun,building,closed structure with walls and a roof
+بِنَايَة,noun,building,closed structure with walls and a roof
+عِمَارَة,noun,building,closed structure with walls and a roof
 حَافِلَة,noun,bus,vehicle
 بَاص,noun,bus,vehicle
 أُتُوبِيس,noun,bus,vehicle
 أُتُوبُوس,noun,bus,vehicle
+نَاقِل,noun,bus,electrical conductor
 شَرِكَة,noun,business,commercial enterprise or establishment
+عَمَل,noun,business,"occupation, work or trade of a person"
+تِجَارَة,noun,business,"occupation, work or trade of a person"
+مَشْرُوع,noun,business,"occupation, work or trade of a person"
+رعايَة,noun,business,patronage
 مَشْغُول,adj,busy,crowded with business or activities
+مَشْغُول,adj,busy,doing a great deal
 زُبْدَة,noun,butter,soft foodstuff made from milk
 زبدة,noun,butter,soft foodstuff made from milk
 زبدة,noun,butter,soft foodstuff made from milk
@@ -305,16 +414,23 @@ word,part_of_speech,english_word,sense
 زبدة,noun,butter,soft foodstuff made from milk
 اِشْتَرَى,verb,buy,to obtain something with money
 كَعْكَة,noun,cake,type of sweet dessert
+اِتِّصَال,noun,call,telephone conversation
+مُكَالَمَة,noun,call,telephone conversation
+زِيَارَة,noun,call,social visit
 كَمِرَة,noun,camera,still camera
 كَامِيرَا,noun,camera,still camera
 آلَة تَصْوِير,noun,camera,still camera
 مُصَوِّرَة,noun,camera,still camera
+كَامِيرَا,noun,camera,movie camera
+كَامِيرَا فِيدِيُو,noun,camera,movie camera
 قَدَرَ,verb,can,to be able to; to know how to
 اِسْتَطَاعَ,verb,can,to be able to; to know how to
 أَمْكَنَ,verb,can,to be able to; to know how to
 قدر,verb,can,to be able to; to know how to
 قدر,verb,can,to be able to; to know how to
 قدر,verb,can,to be able to; to know how to
+اِسْتَطَاعَ,verb,can,may
+مُمْكِن,verb,can,may
 عَجَزَ,verb,cannot,"cannot — see also can, not"
 لَا يَسْتَطِيع,verb,cannot,"cannot — see also can, not"
 سَيَّارَة,noun,car,"automobile, a vehicle steered by a driver"
@@ -323,7 +439,12 @@ word,part_of_speech,english_word,sense
 سيارة,noun,car,"automobile, a vehicle steered by a driver"
 سَيَّارَة,noun,car,"automobile, a vehicle steered by a driver"
 طوموبيل,noun,car,"automobile, a vehicle steered by a driver"
+بِطَاقَة,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+كَارْت,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+وَرَقَة,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+كَرْت,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 مِهْنَة,noun,career,one's calling in life; a person's occupation
+مَسِيرَة,noun,career,an individual’s work and life roles over their lifespan
 جَزَر,noun,carrot,Daucus carota ssp. sativus
 جزر,noun,carrot,Daucus carota ssp. sativus
 جُزَر,noun,carrot,Daucus carota ssp. sativus
@@ -356,19 +477,29 @@ word,part_of_speech,english_word,sense
 مَرْكَز,noun,center,point equidistant from all points on the perimeter of a circle
 وَسَط,noun,center,point equidistant from all points on the perimeter of a circle
 وَسْط,noun,center,point equidistant from all points on the perimeter of a circle
+مَرْكَز,noun,center,point equidistant from all points on the surface of a sphere
+مَرْكَز,noun,center,point on a line midway between the ends
+مَرْكَز,noun,center,point in the interior of figure with mean coordinates
+مَرْكَز,noun,center,place where a function or activity occurs
 كُرْسِيّ,noun,chair,furniture
 مَقْعَد,noun,chair,furniture
 كرسي,noun,chair,furniture
 كرسي,noun,chair,furniture
 شلية,noun,chair,furniture
+كُرْسِيّ مُعَلِّم,noun,chair,distinguished professorship
 تَغْيِير,noun,change,the process of becoming different
 تَبْدِيل,noun,change,the process of becoming different
+فَكَّة,noun,change,small denominations of money given in exchange for a larger denomination
+بَاقٍ,noun,change,balance returned after a purchase
+مُخَطَّط بَيَانِيّ,noun,chart,non-narrative presentation of data
+مُخَطَط,noun,chart,non-narrative presentation of data
 رَخِيص,adj,cheap,low and/or reduced in price
 اِسْتَأْنَى,verb,check,"to inspect, examine"
 دَقَّقَ,verb,check,"to inspect, examine"
 ضَبَطَ,verb,check,"to inspect, examine"
 أَوْقَفَ,verb,check,"to inspect, examine"
 فَحَصَ,verb,check,"to inspect, examine"
+كَشَّ,verb,check,chess: to make a move which puts an adversary's king in check
 جُبْن,noun,cheese,dairy product
 جبنة,noun,cheese,dairy product
 جبن,noun,cheese,dairy product
@@ -379,33 +510,58 @@ word,part_of_speech,english_word,sense
 فرخة,noun,chicken,bird
 دياي,noun,chicken,bird
 دجاجة,noun,chicken,bird
+دَجَاج,noun,chicken,meat
+لَحْم دَجَاج,noun,chicken,meat
+فراخ,noun,chicken,meat
 وَلَد,noun,child,son or daughter; someone's child
 اِبْن,noun,child,son or daughter; someone's child
 اِبْنَة,noun,child,son or daughter; someone's child
+طِفْل,noun,child,a minor
+طِفْلَة,noun,child,a minor
+عيل,noun,child,a minor
+طفل,noun,child,a minor
+بزر,noun,child,a minor
+ياهل,noun,child,a minor
+وَلَد,noun,child,a minor
+صبي,noun,child,a minor
+درّي,noun,child,a minor
 شُوكُولَاتَة,noun,chocolate,food made from ground roasted cocoa beans
 اِخْتَارَ,verb,choose,to pick
+اِخْتَارَ,verb,choose,to elect
 مَدِينَة,noun,city,large settlement
 بَلَد,noun,city,large settlement
 صِنْف,noun,class,"group, collection, category or set sharing characteristics or attributes"
 صَنْف,noun,class,"group, collection, category or set sharing characteristics or attributes"
+طَبَقَة,noun,class,"social grouping, based on job, wealth, etc."
+طَبَقَة,noun,class,division of society into classes
+فَصْل,noun,class,group of students in a regularly scheduled meeting with a teacher
+صَفّ,noun,class,group of students in a regularly scheduled meeting with a teacher
+طَائِفَة,noun,class,taxonomy: classification below Phylum and above Order
 صَفّ,noun,classroom,room in a school
 غُرْفَة التَّدْرِيس,noun,classroom,room in a school
 فَصْل,noun,classroom,room in a school
 فَصْل مَدْرَسِيّ,noun,classroom,room in a school
 نَظَّفَ,verb,clean,(transitive) to remove dirt from a place or object
 تَسَلَّقَ,verb,climb,"to ascend, to go up"
+تَسَلَّقَ,verb,climb,"to mount, to move upwards on"
 سَاعَة,noun,clock,instrument to measure or keep track of time
 ساعة,noun,clock,instrument to measure or keep track of time
 مݣانة,noun,clock,instrument to measure or keep track of time
 أَغْلَقَ,verb,close,obstruct (an opening)
 سَكَّر,verb,close,obstruct (an opening)
 قَفَّل,verb,close,obstruct (an opening)
+أَغْلَقَ,verb,close,move (a door)
 مَلَابِس,noun,clothes,apparel
 ثِيَاب,noun,clothes,apparel
 كِسْوَة,noun,clothes,apparel
 نَادٍ,noun,club,association of members
 اَلنَّادِي,noun,club,association of members
 جَمْعِيَّة,noun,club,association of members
+هِرَاوَة,noun,club,heavy stick for use as weapon or plaything
+عَصًا,noun,club,hitting implement in certain ball games
+نَادٍ لَيْلِيّ,noun,club,establishment that provides staged entertainment
+اَلنَّادِي اَللَّيْلِيّ,noun,club,establishment that provides staged entertainment
+سِبَاتِي,noun,club,"playing card symbol, ♣"
 مِعْطَف,noun,coat,outer garment covering the upper torso and arms
 قَهْوَة,noun,coffee,beverage
 قَهْوَة,noun,coffee,beverage
@@ -413,10 +569,22 @@ word,part_of_speech,english_word,sense
 گهوة,noun,coffee,beverage
 قَهْوَة,noun,coffee,beverage
 قهوة,noun,coffee,beverage
+بُنّ,noun,coffee,beans
+بُنّ,noun,coffee,beans
+بُن,noun,coffee,plant
 بُرُودَة,noun,cold,low temperature
 بَرْد,noun,cold,low temperature
 برد,noun,cold,low temperature
 برودة,noun,cold,low temperature
+زُكَام,noun,cold,illness
+رَشْح,noun,cold,illness
+بَرْد,noun,cold,illness
+كُلِّيَّة,noun,college,academic institution
+مَعْهَد,noun,college,institution of higher education
+كُلِّيَّة,noun,college,institution of higher education teaching undergraduates
+مَعْهَد,noun,college,"non-specialized, semi-autonomous division of a university"
+كُلِّيَّة,noun,college,institution of further education at an intermediate level
+كُلِّيَّة,noun,college,institution of further education at an intermediate level
 لَوْن,noun,color,spectral composition of visible light
 لون,noun,color,spectral composition of visible light
 ألوان,noun,color,spectral composition of visible light
@@ -425,6 +593,7 @@ word,part_of_speech,english_word,sense
 رنق,noun,color,spectral composition of visible light
 لون,noun,color,spectral composition of visible light
 لون,noun,color,spectral composition of visible light
+لَوْن,noun,color,particular set of the visible spectrum
 جَاءَ,verb,come,to move nearer
 أَتَى,verb,come,to move nearer
 جا,verb,come,to move nearer
@@ -434,8 +603,24 @@ word,part_of_speech,english_word,sense
 إجا,verb,come,to move nearer
 إجا,verb,come,to move nearer
 أجا,verb,come,to move nearer
+قَدِمَ,verb,come,"to arrive, to appear"
+وَصَلَ,verb,come,"to arrive, to appear"
+وصل,verb,come,"to arrive, to appear"
+وصل,verb,come,"to arrive, to appear"
+وصل,verb,come,"to arrive, to appear"
+جا,verb,come,"to arrive, to appear"
+وصل,verb,come,"to arrive, to appear"
+جا,verb,come,"to arrive, to appear"
+وصل,verb,come,"to arrive, to appear"
+وصل,verb,come,"to arrive, to appear"
+شَائِع,adj,common,usual
+شَائِع,adj,common,found in large numbers or in a large quantity
 شَرِكَة,noun,company,"in legal context, a corporation"
+شَرِكَة,noun,company,"in non-legal context, any business, without respect to incorporation"
+رِفْقَة,noun,company,companionship
+سَرِيَّة,noun,company,military unit
 قَارَنَ,verb,compare,to assess the similarities between two things or between one thing and another
+شَبَّهَ,verb,compare,to declare two things to be similar in some respect
 اِنْتَهَى,verb,complete,to finish
 أَكْمَلَ,verb,complete,to finish
 حَاسُوب,noun,computer,programmable electronic device
@@ -444,6 +629,10 @@ word,part_of_speech,english_word,sense
 كمبيوتر,noun,computer,programmable electronic device
 كومبيوتر,noun,computer,programmable electronic device
 كمبيوتر,noun,computer,programmable electronic device
+مُحَاسِب,noun,computer,person
+حَفْلَة,noun,concert,musical accordance or harmony
+عَزْف,noun,concert,a musical entertainment in which several voices or instruments take part
+حَفْلَة مُوسِيقِيَّة,noun,concert,a musical entertainment in which several voices or instruments take part
 مُحَادَثَة,noun,conversation,expression and exchange of individual ideas through talking with other people
 مُكَالَمَة,noun,conversation,expression and exchange of individual ideas through talking with other people
 حِوَار,noun,conversation,expression and exchange of individual ideas through talking with other people
@@ -453,6 +642,7 @@ word,part_of_speech,english_word,sense
 طَبَخَ,verb,cook,to prepare food for eating
 طيب,verb,cook,to prepare food for eating
 طبخ,verb,cook,to prepare food for eating
+طاب,verb,cook,to become ready for eating
 طَبْخ,noun,cooking,the process of preparing food by using heat
 بَارِد,adj,cool,having a slightly low temperature
 صَحَّحَ,verb,correct,to make something become right that was previously wrong
@@ -463,15 +653,45 @@ word,part_of_speech,english_word,sense
 أَرْض,noun,country,region of land
 دَار,noun,country,region of land
 منطقة,noun,country,region of land
+دَوْلَة,noun,country,nation state
+بَلَد,noun,country,nation state
+وَطَن,noun,country,nation state
+بلد,noun,country,nation state
+وطن,noun,country,nation state
+دولة,noun,country,nation state
+بلد,noun,country,nation state
+بلاد,noun,country,nation state
+وطن,noun,country,nation state
+رِيف,noun,country,"the country, rural area, as opposed to the town or city"
+ريف,noun,country,"the country, rural area, as opposed to the town or city"
+كونتري,noun,country,country music
+كنتري,noun,country,country music
+دَوْرَة,noun,course,education: learning program
+دَوْرَات,noun,course,education: learning program
+حَلَقَة دِرَاسِيَّة,noun,course,education: learning program
+اِبْن عَمّ,noun,cousin,child of a person’s parent’s brother or sister
+بِنْت عَمّ,noun,cousin,child of a person’s parent’s brother or sister
+اِبْن عَمَّة,noun,cousin,child of a person’s parent’s brother or sister
+بِنْت عَمَّة,noun,cousin,child of a person’s parent’s brother or sister
+اِبْن خَال,noun,cousin,child of a person’s parent’s brother or sister
+بِنْت خَال,noun,cousin,child of a person’s parent’s brother or sister
+اِبْن خَالَة,noun,cousin,child of a person’s parent’s brother or sister
+بِنْت خَالَة,noun,cousin,child of a person’s parent’s brother or sister
 بَقَرَة,noun,cow,female domesticated ox or other bovine
 بقرة,noun,cow,female domesticated ox or other bovine
 بْقَرَة,noun,cow,female domesticated ox or other bovine
 بقرة,noun,cow,female domesticated ox or other bovine
 بقرة,noun,cow,female domesticated ox or other bovine
+بَقَرَة,noun,cow,any domestic bovine regardless of sex or age
+بَقَر,noun,cow,any domestic bovine regardless of sex or age
+اَبْقَار,noun,cow,any domestic bovine regardless of sex or age
 قِشْطَة,noun,cream,oily part of milk
 قِشْدَة,noun,cream,oily part of milk
+كْرِيم,noun,cream,product to apply to the skin
+كِرِيم,noun,cream,product to apply to the skin
 خَلَقَ,verb,create,to put into existence
 ثَقَافَة,noun,culture,"arts, customs and habits"
+ثَقَافَة,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
 كَأْس,noun,cup,drinking vessel
 كُوب,noun,cup,drinking vessel
 فِنْجَان,noun,cup,drinking vessel
@@ -482,8 +702,16 @@ word,part_of_speech,english_word,sense
 كاسة,noun,cup,drinking vessel
 كوب,noun,cup,drinking vessel
 فنجان,noun,cup,drinking vessel
+كُوب,noun,cup,unit of measure
+فِنْجَان,noun,cup,trophy
+زَبُون,noun,customer,one who purchases or receives a product or service
+عَمِيل,noun,customer,one who purchases or receives a product or service
 جَرَحَ,verb,cut,to perform an incision
+قَطَعَ,verb,cut,to divide with a sharp instrument
+قَصَّ,verb,cut,computing: to remove and place in memory
 بَابَا,noun,dad,informal: a father
+أبي,noun,dad,familiar address of one's own father
+بابا,noun,dad,familiar address of one's own father
 رَقَصَ,verb,dance,move rhythmically to music
 رقص,verb,dance,move rhythmically to music
 شطح,verb,dance,move rhythmically to music
@@ -491,10 +719,21 @@ word,part_of_speech,english_word,sense
 رقص,verb,dance,move rhythmically to music
 رَاقِص,noun,dancer,person who dances
 رَاقِصَة,noun,dancer,person who dances
+رَاقِصَة,noun,dancer,a female person who dances
 خَطِر,adj,dangerous,full of danger
 مُظْلِم,adj,dark,having an absolute or relative lack of light
 دَاكِن,adj,dark,having an absolute or relative lack of light
+غَامِق,adj,dark,"not bright or light, deeper in hue"
+دَاكِن,adj,dark,"not bright or light, deeper in hue"
+غامج,adj,dark,"not bright or light, deeper in hue"
+غَامِق,adj,dark,"not bright or light, deeper in hue"
 تَارِيخ,noun,date,"that which specifies the time of writing, inscription etc."
+تَارِيخ,noun,date,point of time at which a transaction or event takes place
+مُوَاعَدَة,noun,date,pre-arranged social meeting
+مَوْعِد,noun,date,pre-arranged social meeting
+مَوْعِد,noun,date,pre-arranged social meeting
+لِقَاء الْحُبّ,noun,date,meeting with a lover or potential lover; a person so met
+مَوْعِد,noun,date,meeting with a lover or potential lover; a person so met
 تَمْرَة,noun,date,fruit of the date palm
 تَمْر,noun,date,fruit of the date palm
 بَلَح,noun,date,fruit of the date palm
@@ -515,10 +754,24 @@ word,part_of_speech,english_word,sense
 يَوْم,noun,day,period between sunrise and sunset
 نَهَار,noun,day,period between sunrise and sunset
 نهار,noun,day,period between sunrise and sunset
+يَوْم,noun,day,period of 24 hours
+يوم,noun,day,period of 24 hours
+ايام,noun,day,period of 24 hours
+يوم,noun,day,period of 24 hours
+يوم,noun,day,period of 24 hours
+يَوْم,noun,day,period from midnight to the following midnight
+يَوْم,noun,day,"part of a day period which one spends at one's job, school, etc."
 عَزِيز,adj,dear,loved; lovable
 عَزِيْزَة,adj,dear,loved; lovable
+غَالِي,adj,dear,precious to or greatly valued by someone
+غَالِيَّة,adj,dear,precious to or greatly valued by someone
+عَزِيز,adj,dear,formal way of addressing
+عَزِيْزَة,adj,dear,formal way of addressing
+عَزِيز,adj,dear,an informal way of addressing the recipient in a letter's opening line
+عَزِيْزَة,adj,dear,an informal way of addressing the recipient in a letter's opening line
 قَرَّرَ,verb,decide,to resolve or settle
 صَمَّمَ,verb,decide,to resolve or settle
+قَرَّرَ,verb,decide,give judgement
 لَذِيذ,adj,delicious,pleasing to taste
 شَهِيّ,adj,delicious,pleasing to taste
 وَصَفَ,verb,describe,to represent in words
@@ -533,6 +786,7 @@ word,part_of_speech,english_word,sense
 حِوَار,noun,dialogue,conversation or other discourse between individuals
 مُحَادَثَة,noun,dialogue,conversation or other discourse between individuals
 مُكَالَمَة,noun,dialogue,conversation or other discourse between individuals
+حِوَار,noun,dialogue,verbal part of a literary or dramatic work
 قَامُوس,noun,dictionary,publication that explains the meanings of an ordered list of words
 مُعْجَم,noun,dictionary,publication that explains the meanings of an ordered list of words
 قاموس,noun,dictionary,publication that explains the meanings of an ordered list of words
@@ -540,20 +794,33 @@ word,part_of_speech,english_word,sense
 تُوُفِّيَ,verb,die,to stop living
 بَرْلَمَان,noun,diet,council of leaders
 مَجْلِس,noun,diet,council of leaders
+حِمْيَة,noun,diet,controlled regimen of food
+نِظَام غِذَائِيّ,noun,diet,controlled regimen of food
 فَرْق,noun,difference,quality of being different
 اِخْتِلَاف,noun,difference,quality of being different
 تَفَاوُت,noun,difference,quality of being different
+فَرْق,noun,difference,characteristic of something that makes it different from something else
+فُرُوق,noun,difference,characteristic of something that makes it different from something else
+خِلاف,noun,difference,disagreement or argument about something important
+خِلافات,noun,difference,disagreement or argument about something important
+فَرْق,noun,difference,arithmetic: result of a subtraction
 مُخْتَلِف,adj,different,not the same
+آٰخَر,adj,different,unlike most others
 صَعْب,adj,difficult,"hard, not easy"
 عَشَاء,noun,dinner,evening meal
+غَدَاء,noun,dinner,midday meal
 قَذِر,adj,dirty,covered with or containing dirt
 وَسِخ,adj,dirty,covered with or containing dirt
 نَاقَشَ,verb,discuss,to converse or debate concerning a particular topic
 بَحَثَ,verb,discuss,to converse or debate concerning a particular topic
 طَبَق,noun,dish,vessel for holding/serving food
 صَحْن,noun,dish,vessel for holding/serving food
+طَبَق,noun,dish,contents of such a vessel
+طَعَام,noun,dish,specific type of food
 هَل,verb,do,in questions
 أَ,verb,do,in questions
+فَعَلَ,verb,do,"perform, execute"
+عَمِلَ,verb,do,"perform, execute"
 دُكْتُور,noun,doctor,person who has attained a doctorate
 كَلْب,noun,dog,animal
 كلب,noun,dog,animal
@@ -561,6 +828,9 @@ word,part_of_speech,english_word,sense
 كَلْب,noun,dog,animal
 كلب,noun,dog,animal
 كلب,noun,dog,animal
+كَلْب,noun,dog,morally reprehensible person — see also scoundrel
+چلب,noun,dog,morally reprehensible person — see also scoundrel
+كلب,noun,dog,morally reprehensible person — see also scoundrel
 دُولَار,noun,dollar,designation for specific currency
 أَبْوَاب,noun,door,"portal of entry into a building, room or vehicle"
 بَاب,noun,door,"portal of entry into a building, room or vehicle"
@@ -569,13 +839,24 @@ word,part_of_speech,english_word,sense
 تَحْتَ,adv,down,"from a high to a low position, downwards"
 تَحْت,adv,down,"from a high to a low position, downwards"
 رَسَمَ,verb,draw,to produce a picture
+سَحَبَ,verb,draw,"to pull out, unsheath"
+جَرَّ,verb,draw,"to pull out, unsheath"
+دَلَجَ,verb,draw,"to extract a liquid, or cause a liquid to come out"
+غَرَفَ,verb,draw,"to extract a liquid, or cause a liquid to come out"
+مَتَحَ,verb,draw,"to extract a liquid, or cause a liquid to come out"
+لَبِسَ,verb,dress,to put on clothes — see also get dressed
 شَرِبَ,verb,drink,consume liquid through the mouth
 شرب,verb,drink,consume liquid through the mouth
 شِرِب,verb,drink,consume liquid through the mouth
 شْرب,verb,drink,consume liquid through the mouth
 قَادَ,verb,drive,to operate (a wheeled motorized vehicle)
 سَاقَ,verb,drive,to operate (a wheeled motorized vehicle)
+سَاقَ,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+سَاقَ,verb,drive,to move (something) by hitting it with great force
 سَائِق,noun,driver,"one who drives something, e.g. cattle"
+سَائِق,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+سَوَّاق,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+سَائِق,noun,driver,person who drives some other vehicle
 سُنْبُلَة,noun,ear,fruiting body of a grain plant
 أُذُن,noun,ear,organ of hearing
 أُذْن,noun,ear,organ of hearing
@@ -595,22 +876,30 @@ word,part_of_speech,english_word,sense
 بيضة,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
 بيض,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
 بيضة,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+بَيْضَة,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 فِيل,noun,elephant,mammal
 فيل,noun,elephant,mammal
 اِنْتَهَى,verb,end,"intransitive: be finished, be terminated"
+أَنْهَى,verb,end,"transitive: finish, terminate (something)"
 اِسْتَمْتَعَ,verb,enjoy,to receive pleasure or satisfaction from something
 تَمَتَّعَ,verb,enjoy,to receive pleasure or satisfaction from something
 اِنْبَسَطَ,verb,enjoy,to receive pleasure or satisfaction from something
+حَظِيَ,verb,enjoy,to have the use or benefit of something
 تَمَامًا,adv,enough,sufficiently
 يُورُو,noun,euro,currency unit of the European Monetary Union
 يورو,noun,euro,currency unit of the European Monetary Union
+حَتَّى,adv,even,implying extreme example
 مساء,noun,evening,time of day between dusk and night
+مَسَاء,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 وَاقِعَة,noun,event,occurrence
 حَادِثَة,noun,event,occurrence
+يَوْمًا,adv,ever,at any time
 مِثَال,noun,example,something representative of a group
 مَثَل,noun,example,something representative of a group
 أُمْثُولَة,noun,example,something representative of a group
+مِثَال,noun,example,something serving to explain or illustrate a rule
 مُتَحَمِّس,adj,excited,having great enthusiasm and energy
+مُتَهَيِّج,adj,excited,being in a state of higher energy
 مُثِير,adj,exciting,causing excitement
 تَمَرَّنَ,verb,exercise,exert for the sake of training
 غَالٍ,adj,expensive,having a high price or cost
@@ -629,6 +918,8 @@ word,part_of_speech,english_word,sense
 عين,noun,eye,organ
 عين,noun,eye,organ
 عينين or ⁧عيون,noun,eye,organ
+سُمّ,noun,eye,hole in needle
+خُرْبَة,noun,eye,hole in needle
 وَجْه,noun,face,anatomy: front part of head
 مُحَيًّا,noun,face,anatomy: front part of head
 وش,noun,face,anatomy: front part of head
@@ -640,9 +931,13 @@ word,part_of_speech,english_word,sense
 وش,noun,face,anatomy: front part of head
 وجه,noun,face,anatomy: front part of head
 وجّ,noun,face,anatomy: front part of head
+مَظْهَر,noun,face,public image
 مَعْلُومَة,noun,fact,an honest observation
 حَقِيقَة,noun,fact,an honest observation
 وَاقِعَة,noun,fact,an honest observation
+حَقِيقَة,noun,fact,something actual
+مَعْلُومَة,noun,fact,something actual
+وَاقِعَة,noun,fact,something actual
 سُقُوط,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 هُوِيّ,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 وُقُوع,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
@@ -651,14 +946,18 @@ word,part_of_speech,english_word,sense
 زَائِف,adj,false,"untrue, not factual, wrong"
 بَاطِل,adj,false,"untrue, not factual, wrong"
 كَاذِب,adj,false,"untrue, not factual, wrong"
+كَاذِب,adj,false,uttering falsehood
 مَشْهُور,adj,famous,well known
 شَهِير,adj,famous,well known
+مَشْهُور,adj,famous,in the public eye
 رَائِع,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
 مَزْرَعَة,noun,farm,place where agricultural activities take place
 فَلَّاح,noun,farmer,person who works the land and/or who keeps livestock
 فَلَّاحَة,noun,farmer,person who works the land and/or who keeps livestock
 مُزَارِع,noun,farmer,person who works the land and/or who keeps livestock
 مُزَارِعَة,noun,farmer,person who works the land and/or who keeps livestock
+بِسُرْعَة,adv,fast,with great speed
+عَاجِلًا,adv,fast,with great speed
 سَمِين,adj,fat,carrying a larger than normal amount of fat on one's body
 بَدِين,adj,fat,carrying a larger than normal amount of fat on one's body
 أَب,noun,father,male parent
@@ -674,24 +973,40 @@ word,part_of_speech,english_word,sense
 أبو,noun,father,male parent
 أب,noun,father,male parent
 بابا,noun,father,male parent
+بَابَا,noun,father,term of address for a priest
 شَعَرَ,verb,feel,transitive: to sense by touch
 حَسَّ,verb,feel,transitive: to sense by touch
+شَعَرَ,verb,feel,transitive: to experience an emotion or other mental state about
+شَعَرَ,verb,feel,transitive: to think or believe
+تحسس,verb,feel,intransitive: to search by touching
+شَعَرَ بِ,verb,feel,intransitive: to experience an emotion or other mental state
 شُعُور,noun,feeling,sensation
+عَاطِفَة,noun,feeling,emotion; impression
+إِحْسَاس,noun,feeling,emotion; impression
 عِيد,noun,festival,event or community gathering
 مَهْرَجَان,noun,festival,event or community gathering
 مَلَأَ,verb,fill,"add contents to, so it is full"
+مَلَأَ,verb,fill,"occupy fully, take up all of"
+اِمْتَلأَ,verb,fill,become full of contents
 وَجَدَ,verb,find,"encounter, locate, discover"
 لَقِيَ,verb,find,"encounter, locate, discover"
+وَجَدَ,verb,find,decide that
 فَرَغَ,verb,finish,to complete
 أَنْهَى,verb,finish,to complete
 أَتَمَّ,verb,finish,to complete
 اِنْتَهَى,verb,finish,to complete
+اِنْتَهَى,verb,finish,to come to an end
 نَار,noun,fire,oxidation reaction
 نار,noun,fire,oxidation reaction
 نار,noun,fire,oxidation reaction
 نار,noun,fire,oxidation reaction
 عافية,noun,fire,oxidation reaction
 نار,noun,fire,oxidation reaction
+حَرِيق,noun,fire,damaging occurrence of fire
+حريجة,noun,fire,damaging occurrence of fire
+حريقة,noun,fire,damaging occurrence of fire
+حريق,noun,fire,damaging occurrence of fire
+حريق,noun,fire,damaging occurrence of fire
 أَوَّلاً,adv,first,before anything else
 سَمَكَة,noun,fish,vertebrate animal
 سَمَك,noun,fish,vertebrate animal
@@ -705,11 +1020,15 @@ word,part_of_speech,english_word,sense
 حوت,noun,fish,vertebrate animal
 حوتة,noun,fish,vertebrate animal
 سمك,noun,fish,vertebrate animal
+سَمَك,noun,fish,collective plural of fish
+سمك,noun,fish,collective plural of fish
 فِرَار,noun,flight,act of fleeing
 طَيَرَان,noun,flight,act of flying
 تَحْلِيق,noun,flight,act of flying
+طَيَرَان,noun,flight,journey made by an aircraft
 أَرْضِيَّة,noun,floor,bottom part of a room
 أَرْض,noun,floor,bottom part of a room
+طَابِق,noun,floor,horizontal structure dividing a building
 زَهْرَة,noun,flower,reproductive structure in angiosperms
 زُهُور,noun,flower,reproductive structure in angiosperms
 أَزْهَار,noun,flower,reproductive structure in angiosperms
@@ -720,6 +1039,12 @@ word,part_of_speech,english_word,sense
 طار,verb,fly,to travel through air
 تَبِعَ,verb,follow,to go or come after in physical space
 اِتَّبَعَ,verb,follow,to go or come after in physical space
+خَلَفَ,verb,follow,to go or come after in a sequence
+تَلَا,verb,follow,to go or come after in a sequence
+اِتَّبَعَ,verb,follow,to carry out in accordance to
+اِتَّبَعَ,verb,follow,to live one’s life according to
+تَابَعَ,verb,follow,to keep track of
+تَتَبَّعَ,verb,follow,to keep track of
 طَعَام,noun,food,any substance consumed by living organisms to sustain life
 أَكْل,noun,food,any substance consumed by living organisms to sustain life
 رِجْل,noun,foot,part of human body
@@ -729,11 +1054,24 @@ word,part_of_speech,english_word,sense
 ريل,noun,foot,part of human body
 رجل,noun,foot,part of human body
 إجر,noun,foot,part of human body
+قَدَم,noun,foot,part of animal’s body
+قدم,noun,foot,part of animal’s body
+رجل,noun,foot,part of animal’s body
+رجل,noun,foot,part of animal’s body
+قَدَم,noun,foot,unit of measure
 كُرَة اَلْقَدَم,noun,football,association football
 فوتبول,noun,football,association football
 نَسِيَ,verb,forget,to lose remembrance of
+نَسِيَ,verb,forget,to unintentionally not do
+نَسِيَ,verb,forget,to leave behind
+نَسِيَ,verb,forget,to cease remembering
 شَكَّلَ,verb,form,to give shape
 حُرّ,adj,free,not imprisoned
+حُرّ,adj,free,unconstrained
+شَاغِر,adj,free,not in use
+حُرّ,adj,free,software: with very few limitations on distribution or improvement
+بِغَيْرِ,adj,free,without
+بِدُونِ,adj,free,without
 صَدِيق,noun,friend,person whose company one enjoys
 صَدِيقَة,noun,friend,person whose company one enjoys
 صَاحِب,noun,friend,person whose company one enjoys
@@ -750,6 +1088,9 @@ word,part_of_speech,english_word,sense
 لَطِيف,adj,friendly,"approachable, warm"
 أَمَامِيّ,adj,front,located at or near the front
 ثَمَرَة,noun,fruit,part of plant
+فَاكِهَة,noun,fruit,food
+ثَمَرَة,noun,fruit,figuratively: child of a marriage
+شَاذّ جِنْسِيًّا,noun,fruit,offensive slang: homosexual or effeminate man
 مُمْتَلِئ,adj,full,containing the maximum possible amount
 مَلِيء,adj,full,containing the maximum possible amount
 مَلْآن,adj,full,containing the maximum possible amount
@@ -761,6 +1102,8 @@ word,part_of_speech,english_word,sense
 عامرة,adj,full,containing the maximum possible amount
 مليان,adj,full,containing the maximum possible amount
 ملان,adj,full,containing the maximum possible amount
+شِبَع,adj,full,"satisfied, in relation to eating"
+شبعان,adj,full,"satisfied, in relation to eating"
 مَرَح,noun,fun,enjoyment or amusement
 تَرْفِيه,noun,fun,enjoyment or amusement
 تَسْلِيَة,noun,fun,enjoyment or amusement
@@ -776,6 +1119,8 @@ word,part_of_speech,english_word,sense
 لعبة,noun,game,"playful activity that may be unstructured, amusement, pastime"
 لعب,noun,game,"playful activity that may be unstructured, amusement, pastime"
 لعبة,noun,game,"playful activity that may be unstructured, amusement, pastime"
+لَعْب,noun,game,particular instance of playing a game; match
+طَرِيدَة,noun,game,wild animals hunted for food
 بُسْتَان,noun,garden,piece of land outside with flowers and plants
 حَدِيقَة,noun,garden,piece of land outside with flowers and plants
 جَنَّة,noun,garden,piece of land outside with flowers and plants
@@ -786,6 +1131,8 @@ word,part_of_speech,english_word,sense
 جنينة,noun,garden,piece of land outside with flowers and plants
 جُغْرَافِيَا,noun,geography,study of physical structure and inhabitants of the Earth
 اِسْتَلَمَ,verb,get,to obtain
+اِسْتَقْبَلَ,verb,get,to receive
+أَصْبَحَ,verb,get,to become
 بِنْت,noun,girl,young female person
 فَتَاة,noun,girl,young female person
 طِفْلة,noun,girl,young female person
@@ -798,6 +1145,7 @@ word,part_of_speech,english_word,sense
 صَدِيقَة,noun,girlfriend,a female partner in a romantic relationship
 صَاحِبَة,noun,girlfriend,a female partner in a romantic relationship
 حَبِيبَة,noun,girlfriend,a female partner in a romantic relationship
+صَدِيقَة,noun,girlfriend,a female friend
 أَعْطَى,verb,give,transfer the possession of something to someone else
 وَهَبَ,verb,give,transfer the possession of something to someone else
 مَنَحَ,verb,give,transfer the possession of something to someone else
@@ -811,12 +1159,22 @@ word,part_of_speech,english_word,sense
 قزاز,noun,glass,substance
 زجاج,noun,glass,substance
 قزاز,noun,glass,substance
+كَأْس,noun,glass,drinking vessel
+كُوب,noun,glass,drinking vessel
+قَدَح,noun,glass,drinking vessel
+كباية,noun,glass,drinking vessel
+قلاص,noun,glass,drinking vessel
+كاسة,noun,glass,drinking vessel
+كوب,noun,glass,drinking vessel
 ذَهَبَ,verb,go,to move through space (especially from one place to another)
 رَاحَ,verb,go,to move through space (especially from one place to another)
 راح,verb,go,to move through space (especially from one place to another)
 راح,verb,go,to move through space (especially from one place to another)
 راح,verb,go,to move through space (especially from one place to another)
 راح,verb,go,to move through space (especially from one place to another)
+ذَهَبَ,verb,go,to disappear
+زَالَ,verb,go,to disappear
+اِخْتَفَى,verb,go,to disappear
 حَسَن,adj,good,acting in the interest of good; ethical good intentions
 جَيِّد,adj,good,acting in the interest of good; ethical good intentions
 طَيِّب,adj,good,acting in the interest of good; ethical good intentions
@@ -830,12 +1188,17 @@ word,part_of_speech,english_word,sense
 طَيِّب,adj,good,acting in the interest of good; ethical good intentions
 كويس,adj,good,acting in the interest of good; ethical good intentions
 منيح,adj,good,acting in the interest of good; ethical good intentions
+حَسَن,adj,good,useful for a particular purpose
+جَيِّد,adj,good,useful for a particular purpose
+صِحِّيّ,adj,good,healthful
 جَدّ,noun,grandfather,grandfather (from either side)
 جَدَّة,noun,grandmother,mother of someone's parent
 جَدّ,noun,grandparent,parent of one's parent
 جَدَّة,noun,grandparent,parent of one's parent
 عَظِيم,adj,great,"very big, large scale"
 كَبِير,adj,great,"very big, large scale"
+رَائِع,adj,great,very good
+عَظِيم,adj,great,very good
 أَخْضَر,noun,green,colour
 خَضْرَاء,noun,green,colour
 خُضْر,noun,green,colour
@@ -849,8 +1212,16 @@ word,part_of_speech,english_word,sense
 جِيتَار,noun,guitar,musical instrument
 صَالَة رِيَاضِيَّة,noun,gym,sporting facility specialized for lifting weights and exercise
 شَعْرَة,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+شَعْر,noun,hair,mass of such filaments on the human head
+شَعْرَة,noun,hair,mass of such filaments on the human head
+شعر,noun,hair,mass of such filaments on the human head
+شعرة,noun,hair,mass of such filaments on the human head
+شعر,noun,hair,mass of such filaments on the human head
+شعرة,noun,hair,mass of such filaments on the human head
 نِصْف,noun,half,one of two equal parts into which anything may be divided
 نُصْف,noun,half,one of two equal parts into which anything may be divided
+نِصْف,noun,half,math: fraction
+نُصْف,noun,half,math: fraction
 يَد,noun,hand,part of the fore limb
 إيد,noun,hand,part of the fore limb
 إدين,noun,hand,part of the fore limb
@@ -859,12 +1230,15 @@ word,part_of_speech,english_word,sense
 يد,noun,hand,part of the fore limb
 إيد,noun,hand,part of the fore limb
 إيد,noun,hand,part of the fore limb
+عَقْرَب,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+عَامِل,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
 حَدَثَ,verb,happen,to occur
 جَرَى,verb,happen,to occur
 حَصَلَ,verb,happen,to occur
 وَقَعَ,verb,happen,to occur
 سَعِيد,adj,happy,"contented, joyous"
 فَرِح,adj,happy,"contented, joyous"
+مَحْظُوظ,adj,happy,"fortunate, lucky"
 قُبَّعَة,noun,hat,a head covering
 بُرْنَيْطَة,noun,hat,a head covering
 بِرْنِيطَة,noun,hat,a head covering
@@ -880,6 +1254,7 @@ word,part_of_speech,english_word,sense
 عِنْدَك,verb,have,to possess
 عِنْدَك,verb,have,to possess
 etc.,verb,have,to possess
+تَنَاوَلَ,verb,have,to partake of something
 رَأْس,noun,head,part of the body
 راس,noun,head,part of the body
 دماغ,noun,head,part of the body
@@ -887,24 +1262,42 @@ etc.,verb,have,to possess
 راس,noun,head,part of the body
 راس,noun,head,part of the body
 راس,noun,head,part of the body
+رَئِيس,noun,head,individual person
+رَئِيسَة,noun,head,individual person
+رَأْس,noun,head,topmost or leading part
+رَئِيس,noun,head,"leader, chief, mastermind"
+رَئِيس,noun,head,"headmaster, headmistress"
 صِحَّة,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 عَافِيَة,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 سَلَامَة,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 صَحِيح,adj,healthy,enjoying good health
 سَلِيم,adj,healthy,enjoying good health
 مُعَاف,adj,healthy,enjoying good health
+صِحِّيّ,adj,healthy,conducive to health
 سَمِعَ,verb,hear,to perceive with the ear
+سَمِع,verb,hear,to perceive sounds through the ear
 مُسَاعَدَة,noun,help,action given to provide assistance
 مَعُونَة,noun,help,action given to provide assistance
 مَدَد,noun,help,action given to provide assistance
 إِمْدَاد,noun,help,action given to provide assistance
+مُسَاعِد,noun,help,person or persons who provides assistance with some task
+مُسَاعِدَة,noun,help,person or persons who provides assistance with some task
+مُعَاوِن,noun,help,person or persons who provides assistance with some task
+مُعَاوِنَة,noun,help,person or persons who provides assistance with some task
 هُنَا,adv,here,"in, on, or at this place"
+إِلَى هُنَا,adv,here,to this place
 عَالٍ,adj,high,elevated; tall
 اَلْعَالِي,adj,high,elevated; tall
 طَوِيل,adj,high,elevated; tall
 عالي,adj,high,elevated; tall
+مَسْطُول,adj,high,slang: under the influence of drugs
 تَارِيخ,noun,history,aggregate of past events
 تاريخ,noun,history,aggregate of past events
+تَارِيخ,noun,history,branch of knowledge that studies the past
+تاريخ,noun,history,branch of knowledge that studies the past
+تَارِيخ,noun,history,set of events involving an entity
+تَارِيخ,noun,history,record or narrative description of past events
+مَحْفُوظَات,noun,history,computing: record of previous user events
 هِوَايَة,noun,hobby,activity done for enjoyment in spare time
 وَاجِب,noun,homework,work that is done at home
 وَاجِب مَنْزِلِيّ,noun,homework,work that is done at home
@@ -938,6 +1331,11 @@ etc.,verb,have,to possess
 سَاخِن,adj,hot,having a high temperature
 سخن,adj,hot,having a high temperature
 حار,adj,hot,having a high temperature
+حَرَّان,adj,hot,of the weather
+حَارّ,adj,hot,of the weather
+حَرَّان,adj,hot,of the weather
+حَرّ,adj,hot,of the weather
+حار,adj,hot,of the weather
 فُنْدُق,noun,hotel,establishment providing accommodation
 نُزْل,noun,hotel,establishment providing accommodation
 أُوتِيل,noun,hotel,establishment providing accommodation
@@ -951,6 +1349,7 @@ etc.,verb,have,to possess
 فندق,noun,hotel,establishment providing accommodation
 أوتيل,noun,hotel,establishment providing accommodation
 سَاعَة,noun,hour,time period of sixty minutes
+وَقْت,noun,hour,the time
 بَيْت,noun,house,human abode
 مَنْزِل,noun,house,human abode
 دَار,noun,house,human abode
@@ -961,6 +1360,7 @@ etc.,verb,have,to possess
 دار,noun,house,human abode
 دار,noun,house,human abode
 خيمة,noun,house,human abode
+مَجْلِس,noun,house,debating chamber for government politicians
 كَيْفَ,adv,how,to what degree
 ازاي,adv,how,to what degree
 كيف,adv,how,to what degree
@@ -969,6 +1369,23 @@ etc.,verb,have,to possess
 كيف,adv,how,to what degree
 شلون,adv,how,to what degree
 كيف,adv,how,to what degree
+كَيْف,adv,how,in what manner
+ازاي,adv,how,in what manner
+كيف,adv,how,in what manner
+كيفاش,adv,how,in what manner
+كيف,adv,how,in what manner
+كيف,adv,how,in what manner
+شلون,adv,how,in what manner
+كيف,adv,how,in what manner
+كَيْفَ,adv,how,in what state
+ازاي,adv,how,in what state
+كيف,adv,how,in what state
+كيفاش,adv,how,in what state
+كيف,adv,how,in what state
+كيف,adv,how,in what state
+شلون,adv,how,in what state
+كيف,adv,how,in what state
+كَيْف,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 لٰكِن,adv,however,nevertheless
 لٰكِنَّ,adv,however,nevertheless
 وَلٰكِن,adv,however,nevertheless
@@ -994,10 +1411,14 @@ etc.,verb,have,to possess
 آيْس كِرِيم,noun,ice cream,dessert
 مُثَلَّجَات f pl جِيلَاتِيّ,noun,ice cream,dessert
 دُنْدُرْمَة,noun,ice cream,dessert
+فِكْرَة,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+فِكْر,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 تَخَيَّلَ,verb,imagine,(transitive) to form a mental image of something
 تَصَوَّرَ,verb,imagine,(transitive) to form a mental image of something
 مُهِمّ,adj,important,having relevant and crucial value
 حَسَّنَ,verb,improve,to make something better
+تَحَسَّنَ,verb,improve,to become better
+تضمن,verb,include,"to contain, as part of a whole"
 مَعْلُومَات,noun,information,communicable knowledge
 مَعْلُومَة,noun,information,communicable knowledge
 كيف,noun,information,communicable knowledge
@@ -1014,8 +1435,17 @@ etc.,verb,have,to possess
 سُتْرَة,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
 جِينْز,noun,jeans,denim trousers
 مَهَمَّة,noun,job,task
+عَمَل,noun,job,economic role for which a person is paid
+وَظِيفَة,noun,job,economic role for which a person is paid
+مِهْنَة,noun,job,economic role for which a person is paid
+شُغْل,noun,job,economic role for which a person is paid
+مِهْنَة,noun,job,economic role for which a person is paid
 وَصَلَ,verb,join,to combine more than one item into one; to put together
+اِتَّصَلَ,verb,join,to come together; to meet
+اِلْتَحَقَ بِـ,verb,join,to become a member of
+اِنْضَمَّ إِلَى,verb,join,to become a member of
 عَصِير,noun,juice,liquid from a plant
+عَصِير,noun,juice,beverage made of juice
 فَقَط,adv,just,"only, simply, merely"
 اِحْتَفَظَ,verb,keep,to maintain possession of
 أَبْقَى,verb,keep,to maintain possession of
@@ -1027,24 +1457,49 @@ etc.,verb,have,to possess
 عرف,verb,know,be justifiably certain or sure about (something true)
 عرف,verb,know,be justifiably certain or sure about (something true)
 دِرِي,verb,know,be justifiably certain or sure about (something true)
+عَرَفَ,verb,know,be acquainted or familiar with
+عرف,verb,know,be acquainted or familiar with
+عِرِف,verb,know,be acquainted or familiar with
+دِري,verb,know,be acquainted or familiar with
+دَرَى,verb,know,have knowledge of
+عَرَفَ,verb,know,have knowledge of
 بَرّ,noun,land,part of Earth that is not covered by oceans or other bodies of water
 أَرْض,noun,land,part of Earth that is not covered by oceans or other bodies of water
 يابِسة,noun,land,part of Earth that is not covered by oceans or other bodies of water
 أرض,noun,land,part of Earth that is not covered by oceans or other bodies of water
+بِلَاد,noun,land,country or region
+أَرْض,noun,land,country or region
+بَلَد,noun,land,country or region
 لُغَة,noun,language,body of words used as a form of communication
 لِسَان,noun,language,body of words used as a form of communication
 لغة,noun,language,body of words used as a form of communication
 لُغَة,noun,language,body of words used as a form of communication
 لُغَة,noun,language,body of words used as a form of communication
+لُغَة,noun,language,vocabulary of a particular field
+لُغَة,noun,language,computer language — see also computer language
 كَبِير,adj,large,of greater size — see also big
 وَاسِع,adj,large,of greater size — see also big
 مُتَأَخِّرًا,adv,late,past a designated time
 فِيمَا بَعْد,adv,later,more late
 بعدين,adv,later,more late
+لَاحِقًا,adv,later,afterward in time
+فِيمَا بَعْد,adv,later,at some unspecified time in the future
+فِيمَا بَعْدُ,adv,later,at some unspecified time in the future
 ضَحْكَة,noun,laugh,expression of mirth peculiar to the human species
 تَعَلَّمَ,verb,learn,to acquire knowledge or ability
+تَعَلَّمَ,verb,learn,to attend educational activity
+اِعْتَبَرَ,verb,learn,to make use of a bad experience
+اِتَّعَظَ,verb,learn,to make use of a bad experience
+اِتَّعَظَ,verb,learn,to gain knowledge from a bad experience so as to improve
+اِعْتَبَرَ,verb,learn,to gain knowledge from a bad experience so as to improve
 تَرَكَ,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+تَرَكَ,verb,leave,"to depart from, end one's connection or affiliation with"
+غَادَرَ,verb,leave,"to depart from, end one's connection or affiliation with"
+تَرَكَ,verb,leave,to depart (intransitive)
+غَادَرَ,verb,leave,to depart (intransitive)
+اِنْصَرَفَ,verb,leave,to depart (intransitive)
 يسار,noun,left,the left side
+يَسَار,noun,left,the ensemble of left-wing political parties
 رِجْل,noun,leg,lower limb from groin to ankle
 سَاق,noun,leg,lower limb from groin to ankle
 رجل,noun,leg,lower limb from groin to ankle
@@ -1054,11 +1509,17 @@ etc.,verb,have,to possess
 إجر,noun,leg,lower limb from groin to ankle
 دَرْس,noun,lesson,section of learning or teaching
 حِصَّة,noun,lesson,section of learning or teaching
+دَرْس,noun,lesson,something learned
+عِبْرَة,noun,lesson,something that serves as a warning or encouragement
 سَمَحَ,verb,let,allow
 دَعَّ,verb,let,allow
 حَرْف,noun,letter,a symbol in an alphabet
 حرف,noun,letter,a symbol in an alphabet
 حرف,noun,letter,a symbol in an alphabet
+رِسَالَة,noun,letter,written message
+مَكْتُوب,noun,letter,written message
+جواب,noun,letter,written message
+برية,noun,letter,written message
 مَكْتَبَة,noun,library,"institution which holds books, etc."
 مكتبة,noun,library,"institution which holds books, etc."
 مكتبة,noun,library,"institution which holds books, etc."
@@ -1074,6 +1535,7 @@ etc.,verb,have,to possess
 حياة,noun,life,the state of being alive
 حياة,noun,life,the state of being alive
 حياة,noun,life,the state of being alive
+حَياة,noun,life,the essence of the manifestation and the foundation of the being
 مُنِيرٌ,adj,light,having light
 خَفِيف,adj,light,of low weight
 خفيف,adj,light,of low weight
@@ -1082,6 +1544,11 @@ etc.,verb,have,to possess
 أَحَبَّ,verb,like,to enjoy
 اِسْتَمْطَعَ,verb,like,to enjoy
 أَعْجَبَ,verb,like,to enjoy
+خَطّ,noun,line,"path through two or more points, threadlike mark"
+خَطّ,noun,line,telephone or network connection
+صَفّ,noun,line,"straight sequence of people, queue"
+سَطْر,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+خَطّ,noun,line,"single horizontal row of text on a screen, printed paper, etc."
 أَسَد,noun,lion,big cat Panthera leo
 لَيْث,noun,lion,big cat Panthera leo
 أسَد,noun,lion,big cat Panthera leo
@@ -1097,6 +1564,10 @@ etc.,verb,have,to possess
 سمع,verb,listen,to pay attention to a sound
 سمع,verb,listen,to pay attention to a sound
 سمع,verb,listen,to pay attention to a sound
+أَنْصَتَ,verb,listen,to expect or wait for a sound
+أَطَاعَ,verb,listen,to accept advice or obey instruction
+سَمِعَ,verb,listen,to hear (something)
+سمع,verb,listen,to hear (something)
 صَغِير,adj,little,small in size
 صغير,adj,little,small in size
 صغير,adj,little,small in size
@@ -1105,6 +1576,10 @@ etc.,verb,have,to possess
 حَيِيَ,verb,live,be alive
 عَاشَ,verb,live,be alive
 عَاش,verb,live,be alive
+سَكَنَ,verb,live,have permanent residence
+عَاشَ,verb,live,have permanent residence
+أَقَامَ,verb,live,have permanent residence
+يَنْجُو,verb,live,"survive, persevere, continue"
 مَحَلِّيّ,adj,local,of a nearby location
 نَظَرَ,verb,look,to try to see
 شاف,verb,look,to try to see
@@ -1119,17 +1594,34 @@ etc.,verb,have,to possess
 تطلّع,verb,look,to try to see
 تفرّج,verb,look,to try to see
 شاف,verb,look,to try to see
+بَدَا,verb,look,"to appear, to seem"
 خَسِرَ,verb,lose,cause (something) to cease to be in one's possession or capability
 فَقَدَ,verb,lose,cause (something) to cease to be in one's possession or capability
+خَسِرَ,verb,lose,(transitive) fail to win
+فَقَدَ,verb,lose,have (somebody of one's kin) die
+خَسِرَ,verb,lose,fail to be the winner
 أَحَبَّ,verb,love,have a strong affection for
 حب,verb,love,have a strong affection for
+أَحَبَّ,verb,love,be strongly inclined towards doing
 غَدَاء,noun,lunch,meal around midday
 آلَة,noun,machine,mechanical or electrical device
 مَاكِينَة,noun,machine,mechanical or electrical device
 مَجَلَّة,noun,magazine,periodical
+مَخْزَن ذَخِيرَة عَسْكَرِيَّة,noun,magazine,ammunition storehouse
+خَزَّان الْبُنْدُقِيَّة,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
+مَخْزَن طَلَقَاتِ السِّلَاحِ,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 رَئِيسِيّ,adj,main,"chief, most important, or principal in extent, etc."
 فَعَلَ,verb,make,to construct
 صَنَعَ,verb,make,to construct
+صَنَعَ,verb,make,to produce
+صَنَعَ,verb,make,to create
+جَعَلَ,verb,make,to cause to be
+جَعَلَ,verb,make,to cause to do
+جَعَلَ,verb,make,to force to do
+جَعَلَ,verb,make,to indicate or suggest to be
+مَرْكَز تَسَوِّق,noun,mall,enclosed shopping centre
+مَرْكَز تِجَارِيّ,noun,mall,enclosed shopping centre
+مول,noun,mall,enclosed shopping centre
 رَجُل,noun,man,adult male human
 راجِل,noun,man,adult male human
 ريال,noun,man,adult male human
@@ -1139,37 +1631,78 @@ etc.,verb,have,to possess
 رِجَّال,noun,man,adult male human
 زلمة,noun,man,adult male human
 رجل,noun,man,adult male human
+إِنْسَان,noun,man,a human being
+نَاس,noun,man,a human being
+بَشَر,noun,man,a human being
+إِنْس,noun,man,a human being
+إنسان,noun,man,a human being
+بنيآدم,noun,man,a human being
+إنسان,noun,man,a human being
+بني آدم,noun,man,a human being
+إنسان,noun,man,a human being
+بنادم,noun,man,a human being
 خَرِيطَة,noun,map,visual representation of an area
 سُوق,noun,market,gathering for trading
+سُوق,noun,market,spacious site for trading
+سوق,noun,market,spacious site for trading
+سوق,noun,market,spacious site for trading
 مُتَزَوِّج,adj,married,in a state of marriage; having a wife or a husband
 مُتَأَهِّل,adj,married,in a state of marriage; having a wife or a husband
+مُتَزَوِّجَة,adj,married,in a state of marriage; having a husband
+مُتَزَوِّج,adj,married,in a state of marriage; having a wife
 رُبَّمَا,adv,maybe,indicating a lack of certainty
 مِن اَلْمُمْكِن,adv,maybe,indicating a lack of certainty
 لَعَلَّ,adv,maybe,indicating a lack of certainty
+رُبَّمَا,adv,maybe,as a pro-sentence
+مِن اَلْمُمْكِن,adv,maybe,as a pro-sentence
 وَجْبَة,noun,meal,food that is prepared and eaten
 أكلة,noun,meal,food that is prepared and eaten
+عَنَى,verb,mean,"to convey, indicate"
+عَنَى,verb,mean,to signify
+قَصَدَ,verb,mean,to signify
 مَعْنًى,noun,meaning,symbolic value of something
 الْمَعْنَى,noun,meaning,symbolic value of something
+مَعْنًى,noun,meaning,"significance of a thing, as ""the meaning of life"""
+مَعْنًى,noun,meaning,definition or connotation of a word
 لَحْم,noun,meat,animal flesh used as food
 لحمة,noun,meat,animal flesh used as food
 شركة,noun,meat,animal flesh used as food
 لحمة,noun,meat,animal flesh used as food
+لَحْم,noun,meat,type of meat
+لحمة,noun,meat,type of meat
+لَحْم,noun,meat,any sort of flesh
+لحمة,noun,meat,any sort of flesh
 لَاقَى,verb,meet,to come face to face with by accident; to encounter
 لَقِيَ,verb,meet,to come face to face with by accident; to encounter
 اِلْتَقَى,verb,meet,to come face to face with by accident; to encounter
+اِلْتَقَى,verb,meet,to come face to face with someone by arrangement
+تَقَابَلَ,verb,meet,to come face to face with someone by arrangement
+تَعَرَّفَ,verb,meet,to get acquainted with
 مُلَاقَاة,noun,meeting,action noun of the verb to meet
 لِقَاء,noun,meeting,action noun of the verb to meet
+اِجْتِمَاع,noun,meeting,gathering for a purpose
+مَجْلِس,noun,meeting,gathering for a purpose
+مُلَاقَاة,noun,meeting,encounter between people
+مُقَابَلَة,noun,meeting,encounter between people
 عُضْو,noun,member,one who officially belongs to a group
 عِضْو,noun,member,one who officially belongs to a group
+عُضُو,noun,member,"organ, limb"
 قَائِمَة,noun,menu,details of the food to be served at a banquet
 قَائِمَةُ الطَّعَام,noun,menu,details of the food to be served at a banquet
+قَائِمَة,noun,menu,list of dishes offered in a restaurant
+قَائِمَةُ طَعَام,noun,menu,list of dishes offered in a restaurant
+قَائِمَة,noun,menu,computing: list from which the user may select an operation to be performed
 رِسَالَة,noun,message,"communication, concept or information conveyed"
 خَبَر,noun,message,"communication, concept or information conveyed"
 مَعْلُومَة,noun,message,"communication, concept or information conveyed"
 مِقْيَاس,noun,meter,measuring instrument
+وَزْن,noun,meter,rhythm of poetry
+بَحْر,noun,meter,rhythm of poetry
 مُنْتَصَف لَيْل,noun,midnight,middle of the night
 مُنْتَصَف اللَّيْل,noun,midnight,middle of the night
+مُنْتَصَف اَللَّيْل,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 مِيل,noun,mile,measure of length
+عُقْدَة,noun,mile,informal: one mile per hour
 حَلِيب,noun,milk,liquid
 لَبَن,noun,milk,liquid
 دَقِيقَة,noun,minute,unit of time
@@ -1177,12 +1710,20 @@ etc.,verb,have,to possess
 دَقِيقة,noun,minute,unit of time
 دقيقة,noun,minute,unit of time
 أَخْطَأَ,verb,miss,to fail to hit
+اِفْتَقَدَ,verb,miss,to feel the absence of someone or something; to feel the want or need of
+اِشْتَاقَ,verb,miss,to feel the absence of someone or something; to feel the want or need of
+فَاتَ,verb,miss,to fail to attend
 خَطَأ,noun,mistake,an error
 غَلْطَة,noun,mistake,an error
 غَلَط,noun,mistake,an error
 عَارِضُ أَزْيَاءٍ,noun,model,person
 مُودِيل,noun,model,person
 مُودِيل,noun,model,person
+نَمُوذَج مُصَغَّر,noun,model,miniature
+نَمُوذَج,noun,model,simplified representation
+نَمُوذَج,noun,model,style
+نَمُوذَج,noun,model,structural design
+قَدْوَة,noun,model,praiseworthy example
 عَصْرِيّ,adj,modern,pertaining to the current time and style
 حَدِيث,adj,modern,pertaining to the current time and style
 مُعَاصِر,adj,modern,pertaining to the current time and style
@@ -1198,22 +1739,40 @@ etc.,verb,have,to possess
 فلوس,noun,money,means of exchange and measure of value
 فلوس,noun,money,means of exchange and measure of value
 مصاري,noun,money,means of exchange and measure of value
+نُقُود,noun,money,currency
+عُمْلَة,noun,money,currency
+نَقْد,noun,money,hard cash
+نقود,noun,money,hard cash
+مَال,noun,money,wealth
 شَهْر,noun,month,period into which a year is divided
 صَبَاح,noun,morning,part of the day between dawn and midday
 غُدْوة,noun,morning,part of the day between dawn and midday
 صباح,noun,morning,part of the day between dawn and midday
 صُبُح,noun,morning,part of the day between dawn and midday
 صباح,noun,morning,part of the day between dawn and midday
+صَبَاح,noun,morning,the part of the day after midnight and before midday
+شُرُوق,noun,morning,the part of the day after midnight and before midday
+صباح,noun,morning,the part of the day after midnight and before midday
 أُمّ,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 وَالِدَة,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 مَامَا,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 أُمّ,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+أُمّ,noun,mother,one’s female parent
+ماما,noun,mother,one’s female parent
+أم,noun,mother,one’s female parent
+والدة,noun,mother,one’s female parent
+إم,noun,mother,one’s female parent
+ماما,noun,mother,one’s female parent
+إم,noun,mother,one’s female parent
+ماما,noun,mother,one’s female parent
 جَبَل,noun,mountain,large mass of earth and rock
 طُور,noun,mountain,large mass of earth and rock
 فَأْرَة,noun,mouse,rodent of the genus Mus
 فَأْر,noun,mouse,rodent of the genus Mus
 فار,noun,mouse,rodent of the genus Mus
 فار,noun,mouse,rodent of the genus Mus
+فَأْرَة,noun,mouse,computing: input device
+مَاوْس,noun,mouse,computing: input device
 فَم,noun,mouth,the opening of a creature through which food is ingested
 بق,noun,mouth,the opening of a creature through which food is ingested
 حلج,noun,mouth,the opening of a creature through which food is ingested
@@ -1225,6 +1784,10 @@ etc.,verb,have,to possess
 تم,noun,mouth,the opening of a creature through which food is ingested
 حَرُكَ,verb,move,(intransitive) to change place or posture; to go
 تَحَرَّكَ,verb,move,(intransitive) to change place or posture; to go
+اِنْتَقَلَ,verb,move,to change residence
+تَحَلْحَلَ,verb,move,to change residence
+رَحَلَ,verb,move,to change residence
+تَحَرَّكَ,verb,move,(transitive) to change the place of something
 فِلْم,noun,movie,motion picture
 شَرِيط,noun,movie,motion picture
 فِيلْم سِينَمَائِيّ,noun,movie,motion picture
@@ -1240,12 +1803,30 @@ etc.,verb,have,to possess
 يَلْزَم,verb,must,be required to
 لَا بُدَّ,verb,must,be required to
 لَازِم,verb,must,be required to
+لَابُدَّ,verb,must,"said about something that is very likely, probable, or certain to be true"
 سَمَّى,verb,name,to give a name to
 سمى,verb,name,to give a name to
+اِخْتَارَ,verb,name,"to mention, specify"
+عَيَّنَ,verb,name,"to identify, define, specify"
+عَيَّنَ,verb,name,to designate for a role
+نَصَبَ,verb,name,to designate for a role
+طَبِيعِيّ,adj,natural,of or relating to nature
 قَرِيبًا,adv,near,at or towards a position close in space or time
 اِحْتَاجَ,verb,need,to have an absolute requirement for
+اِحْتَاجَ,verb,need,to want strongly
 سَلْبِيّ,adj,negative,not positive or neutral
+سَلْبِيّ,adj,negative,of electrical charge
+سَالِب,adj,negative,of electrical charge
+مَنْفِيّ,adj,negative,linguistics: denying a proposition
+سَلْبِيّ,adj,negative,inherently damaging
+سَلْبِيّ,adj,negative,pessimistic
+سَالِب,adj,negative,of or relating to a photographic image in which the colours and relations are reversed
+سَالِب,adj,negative,chemistry: metalloidal; nonmetallic
 جِوَار,noun,neighborhood,quality of being a neighbor
+جِوَار,noun,neighborhood,area near one's home
+قُرْب,noun,neighborhood,area near one's home
+حَيّ,noun,neighborhood,area near one's home
+حَيّ,noun,neighborhood,division of a municipality or region
 أَبَدًا,adv,never,at no time
 جَدِيد,adj,new,recently made or created
 حَدِيث,adj,new,recently made or created
@@ -1255,10 +1836,14 @@ etc.,verb,have,to possess
 جديد,adj,new,recently made or created
 أَخْبَارأَنْبَاء,noun,news,new information of interest
 خَبَر,noun,news,new information of interest
+أَخْبَار,noun,news,reports of current events
+أَنْبَاء,noun,news,reports of current events
 جَرِيدَة,noun,newspaper,publication
 صَحِيفَة,noun,newspaper,publication
 حَسَّن,adj,nice,"pleasant, satisfactory"
 لَطِيف,adj,nice,"pleasant, satisfactory"
+طَيِّب,adj,nice,having a pleasant taste or aroma
+عَطِر,adj,nice,having a pleasant taste or aroma
 لَيْلَة,noun,night,period between sunset and sunrise
 لَيْل,noun,night,period between sunset and sunrise
 ليل,noun,night,period between sunset and sunrise
@@ -1266,6 +1851,10 @@ etc.,verb,have,to possess
 بليل,noun,night,period between sunset and sunrise
 ليلة,noun,night,period between sunset and sunrise
 ليل,noun,night,period between sunset and sunrise
+عشية,noun,night,evening or night spent at a particular activity
+ليلة,noun,night,evening or night spent at a particular activity
+مَغْرِب,noun,night,nightfall
+مغْرب,noun,night,nightfall
 أَنْف,noun,nose,protuberance on the face
 خَشَم,noun,nose,protuberance on the face
 مناخير,noun,nose,protuberance on the face
@@ -1293,6 +1882,10 @@ etc.,verb,have,to possess
 مش,adv,not,negates meaning of another word
 مو,adv,not,negates meaning of another word
 مش,adv,not,negates meaning of another word
+مُلَاحَظَة,noun,note,"mark, or sign, made to call attention"
+مَلْحُوظَة,noun,note,"mark, or sign, made to call attention"
+مُذَكَّرَة,noun,note,memorandum
+دَرَجَة,noun,note,musical sound
 الْآنَ,adv,now,at the present time
 حَالًا,adv,now,at the present time
 عَدَد,noun,number,abstract entity used to describe quantity
@@ -1301,6 +1894,17 @@ etc.,verb,have,to possess
 رقَم,noun,number,abstract entity used to describe quantity
 رقم,noun,number,abstract entity used to describe quantity
 نمرة,noun,number,abstract entity used to describe quantity
+عَدَد,noun,number,numeral
+رَقْم,noun,number,numeral
+رقم,noun,number,numeral
+عَدَد,noun,number,mathematics: number
+رَقْم,noun,number,used to show the rank of something in a list or sequence
+نمره,noun,number,used to show the rank of something in a list or sequence
+نمرة,noun,number,used to show the rank of something in a list or sequence
+نمرة,noun,number,used to show the rank of something in a list or sequence
+رقم,noun,number,used to show the rank of something in a list or sequence
+رَقْم,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+رَقْم,noun,number,informal: telephone number
 مُمَرِّض,noun,nurse,person trained to provide care for the sick
 مُمَرِّضَة,noun,nurse,person trained to provide care for the sick
 ممرض,noun,nurse,person trained to provide care for the sick
@@ -1308,8 +1912,15 @@ etc.,verb,have,to possess
 عُرْضَة,noun,object,thing
 شَيْء,noun,object,thing
 غَرَضْ,noun,object,thing
+هَدَف,noun,object,"the goal, end or purpose of something"
+مَفْعُول بِهِ,noun,object,in grammar
+مَفْعُول,noun,object,in grammar
+كَائِن,noun,object,object-oriented programming: instantiation of a class or structure
 مُحِيط,noun,ocean,one of the large bodies of water
 قَامُوس,noun,ocean,one of the large bodies of water
+مَهَمَّة,noun,office,position of responsibility
+مَكْتَب,noun,office,room(s) or building used for non-manual work
+قَلَم,noun,office,room(s) or building used for non-manual work
 كَثِيرًا,adv,often,"frequently, many times"
 غَالِبًا,adv,often,"frequently, many times"
 كَثِيرًا مَا,adv,often,"frequently, many times"
@@ -1319,6 +1930,13 @@ etc.,verb,have,to possess
 قديم,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 قديم,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 قديم,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+كَبِير اَلسِّنّ,adj,old,of a living being: having lived for relatively many years
+مُسِنّ,adj,old,of a living being: having lived for relatively many years
+عجوز,adj,old,of a living being: having lived for relatively many years
+كَبير,adj,old,of a living being: having lived for relatively many years
+عجوز,adj,old,of a living being: having lived for relatively many years
+شايب,adj,old,of a living being: having lived for relatively many years
+كبير,adj,old,of a living being: having lived for relatively many years
 مَرَّةً,adv,once,one and only one time
 مَرَّةً وَاحِدَةً,adv,once,one and only one time
 بَصَل,noun,onion,Allium cepa
@@ -1328,10 +1946,12 @@ etc.,verb,have,to possess
 بصل,noun,onion,Allium cepa
 بصلة,noun,onion,Allium cepa
 فَقَط,adv,only,without others or anything further; exclusively
+فَقَط,adv,only,no more than
 فَتَحَ,verb,open,to make something accessible
 فتح,verb,open,to make something accessible
 حل,verb,open,to make something accessible
 فتح,verb,open,to make something accessible
+اِنْفَتَحَ,verb,open,to become open
 رَأْي,noun,opinion,thought a person has formed about a topic
 نَظَر,noun,opinion,thought a person has formed about a topic
 فِكْر,noun,opinion,thought a person has formed about a topic
@@ -1339,6 +1959,11 @@ etc.,verb,have,to possess
 عَلَى العَكْس,adv,opposite,in an opposite position
 بُرْتُقَالِيّ,adj,orange,having the colour of the fruit of an orange tree
 رَتَّبَ,verb,order,to set in (any) order
+رَتَّبَ,verb,order,to set in (a good) order
+أَمَرَ,verb,order,to issue a command
+طَلَبَ,verb,order,to request some product or service
+حَجَزَ,verb,order,to request some product or service
+خَارِج,adv,outside,outdoors
 مِلْك,adj,own,belonging to (determiner)
 نَفْس,adj,own,belonging to (determiner)
 صَفْحَة,noun,page,one side of a leaf of a book
@@ -1347,10 +1972,15 @@ etc.,verb,have,to possess
 لَوْحَة,noun,painting,an illustration or artwork using paint
 صُورَة,noun,painting,an illustration or artwork using paint
 لَوْحَة فَنِّيَّة,noun,painting,an illustration or artwork using paint
+طِلَاء,noun,painting,the action of applying paint
+دِهَان,noun,painting,the action of applying paint
+رَسْم فَنِّيّ,noun,painting,artistic application of paint
+فَنّ تَصْوِير زَيْتِيّ,noun,painting,artistic application of paint
 زَوْج,noun,pair,two similar or identical things
 بِنْطَال,noun,pants,garment covering the body from the waist downwards
 سِرْوَال,noun,pants,garment covering the body from the waist downwards
 بَنْطَلُون,noun,pants,garment covering the body from the waist downwards
+سِرْوَال اَلسُّنَة,noun,pants,undergarment covering the genitals
 وَرَق,noun,paper,sheet material
 قِرْطَاس,noun,paper,sheet material
 كَاغِد,noun,paper,sheet material
@@ -1359,6 +1989,8 @@ etc.,verb,have,to possess
 ورق,noun,paper,sheet material
 كاغط,noun,paper,sheet material
 ورقة,noun,paper,sheet material
+وَرَقَة,noun,paper,written document shorter than a book
+وَرَقَة,noun,paper,academic paper
 فِقْرَة,noun,paragraph,passage in text
 بَنْد,noun,paragraph,passage in text
 وَالِد,noun,parent,person from whom one is descended
@@ -1371,15 +2003,26 @@ etc.,verb,have,to possess
 جُزَء,noun,part,fraction of a whole
 قِسْم,noun,part,fraction of a whole
 جزء,noun,part,fraction of a whole
+دَوْر,noun,part,"position or role, especially in a play"
 شَرِيك,noun,partner,someone who is associated with another in a common activity or interest
 شَرِيكَة,noun,partner,someone who is associated with another in a common activity or interest
 رَفِيق,noun,partner,someone who is associated with another in a common activity or interest
 رَفِيقَة,noun,partner,someone who is associated with another in a common activity or interest
+حَبِيب,noun,partner,"spouse, domestic, or romantic partner"
+حَبِيبَة,noun,partner,"spouse, domestic, or romantic partner"
 طَرَف,noun,party,law: particular side in a contract or legal action
+حِزْب,noun,party,"group of people forming one side in a given dispute, contest etc."
+طَرَف,noun,party,"group of people forming one side in a given dispute, contest etc."
+حَفْلَة,noun,party,social gathering
+اِحْتِفَال,noun,party,social gathering
 جَوَاز سَفَر,noun,passport,official document for foreign travel
 إِجَازَة مُرُور,noun,passport,official document for foreign travel
 مَاضٍ,noun,past,period of time that has already happened
 الْمَاضِي,noun,past,period of time that has already happened
+مَاضٍ,noun,past,(grammar) past tense
+الْمَاضِي,noun,past,(grammar) past tense
+فِعْل مَاضٍ,noun,past,(grammar) past tense
+الْفِعْل الْمَاضِي,noun,past,(grammar) past tense
 دَفَعَ,verb,pay,to give money in exchange for goods or services
 خَلَّصَ,verb,pay,to give money in exchange for goods or services
 دفع,verb,pay,to give money in exchange for goods or services
@@ -1399,16 +2042,40 @@ etc.,verb,have,to possess
 خَلْق,noun,people,a body of human beings; a group of two or more persons
 ناس,noun,people,a body of human beings; a group of two or more persons
 ناس,noun,people,a body of human beings; a group of two or more persons
+خَلْق,noun,people,a group of persons forming or belonging to a particular nation etc.
+شَعْب,noun,people,a group of persons forming or belonging to a particular nation etc.
+قَوْم,noun,people,a group of persons forming or belonging to a particular nation etc.
+أَهْل,noun,people,"a person's ancestors, relatives or family"
+شَعْب,noun,people,the mass of community as distinguished from a special class
 فِلْفِل,noun,pepper,plant
 فُلْفُل,noun,pepper,plant
+فِلْفِل,noun,pepper,spice
+فُلْفُل,noun,pepper,spice
 كَامِل,adj,perfect,fitting its definition precisely
+كَامِل,adj,perfect,having all of its parts in harmony with a common purpose
 فَتْرَة,noun,period,a length of time
+مَرْحَلَة زَمْنِيَّة,noun,period,history: period of time seen as coherent entity
+مُدَّة,noun,period,history: period of time seen as coherent entity
+حِين,noun,period,history: period of time seen as coherent entity
+فَتْرَة,noun,period,history: period of time seen as coherent entity
+عَصْر,noun,period,history: period of time seen as coherent entity
+نُقْطَة,noun,period,punctation mark “.”
+عَلَامَة فَصْلِيَّة,noun,period,punctation mark “.”
+حَدَث مُتَكَرِّر,noun,period,length of time during which something repeats
+حِصَّةٌ,noun,period,division of school day
+عَصْر,noun,period,geochronologic unit
 شَخْص,noun,person,individual
 مَرْء,noun,person,individual
 فَرْد,noun,person,individual
 شخص,noun,person,individual
 حد,noun,person,individual
 شخص,noun,person,individual
+إِنْسَان,noun,person,"specifically a human being — see also human, human being, man"
+إنسان,noun,person,"specifically a human being — see also human, human being, man"
+بنادم,noun,person,"specifically a human being — see also human, human being, man"
+أُقْنُوم,noun,person,Christianity: any one of the three hypostases of the God
+فَرْد,noun,person,the physical body seen as distinct from the mind
+شَخْصِيّ,adj,personal,of or pertaining to a particular person
 تَلْفَنَ,verb,phone,to call (someone) on the telephone
 صُورَة,noun,photograph,picture
 صُورَة شَمْسِيَّة,noun,photograph,picture
@@ -1422,7 +2089,11 @@ etc.,verb,have,to possess
 تَصْوِير,noun,picture,"representation of visible reality produced by drawing, etc"
 تَصْوِيرَة,noun,picture,"representation of visible reality produced by drawing, etc"
 رَسْم,noun,picture,"representation of visible reality produced by drawing, etc"
+صُورَة,noun,picture,photograph
+صُورَة شَمْسِيَّة,noun,picture,photograph
 قِطْعَة,noun,piece,part of a larger whole
+قِطْعَةٌ,noun,piece,single item belonging to a class of similar items
+قِطْعَة,noun,piece,chess: figure other than pawn; similar counter in other games
 خِنْزِير,noun,pig,mammal of genus Sus
 حَلُوف,noun,pig,mammal of genus Sus
 خنزير,noun,pig,mammal of genus Sus
@@ -1435,6 +2106,7 @@ etc.,verb,have,to possess
 وَرْدِيّ,noun,pink,pale red colour
 زَهْرِيّ,noun,pink,pale red colour
 بَمْبِيّ,noun,pink,pale red colour
+قَرَنْفُل,noun,pink,flower
 مَكَان,noun,place,"location, position"
 مكان,noun,place,"location, position"
 حتة,noun,place,"location, position"
@@ -1442,6 +2114,12 @@ etc.,verb,have,to possess
 مَحَل,noun,place,"location, position"
 بلاصة,noun,place,"location, position"
 موضع,noun,place,"location, position"
+مَيْدَان,noun,place,"open space, courtyard, market square"
+مَكَان,noun,place,any area of the earth
+مَقْعَد,noun,place,"area one occupies, particularly for sitting"
+خَطَّطَ,verb,plan,to create a plan for
+نَوَى,verb,plan,to intend
+بلاني,verb,plan,to intend
 دُلْب,noun,plane,deciduous tree
 صِنَار,noun,plane,deciduous tree
 مِسْحَاج,noun,plane,a tool
@@ -1451,45 +2129,82 @@ etc.,verb,have,to possess
 طَيَّارَة,noun,plane,airplane
 نَبَات,noun,plant,organism capable of photosynthesis
 لَعِب,noun,play,playful activity
+دَوْر,noun,play,action carried out when it is one's turn to play
+مَسْرَحِيَّة,noun,play,literary composition intended to be represented
+مَسْرَح,noun,play,theatrical performance
+مَسْرَحِيَّة,noun,play,theatrical performance
 لَاعِب,noun,player,one who plays any game or sport
+مُقَامِر,noun,player,gambler — see also gambler
+مَشْغَل,noun,player,electronic device
+جِهَاز,noun,player,electronic device
+جَهَاز,noun,player,electronic device
+مَشْغَل,noun,player,software application
+نُقْطَة,noun,point,opinion which adds to the discussion
+مَوْقِع,noun,point,location or place
+نُقْطَة,noun,point,geometry: zero-dimensional object
+نُقْطَة,noun,point,full stop
+نُقْطَة,noun,point,unit of scoring in a game or competition
 شُرْطَة,noun,police,local or general law enforcement agency
 بُولِيس,noun,police,local or general law enforcement agency
 بِرْكَة,noun,pool,body of water
 فَقِير,adj,poor,with few or no possessions or money
+مِسْكِين,adj,poor,used to express pity
 شَعْبِيّ,adj,popular,of or pertaining to the common people
+مَحْبُوب,adj,popular,liked by many people
+مُوجَب,adj,positive,mathematics: greater than zero
+إِيجَابِيّ,adj,positive,"philosophy: actual, real, concrete"
+مُوجَب,adj,positive,physics: having more protons than electrons
 مُمْكِن,adj,possible,able but not certain to happen
+نشر,verb,post,(Internet) publish a message
 بَطَاطَا,noun,potato,plant tuber eaten as starchy vegetable
 بَطَاطِس,noun,potato,plant tuber eaten as starchy vegetable
 بَاوْنْد,noun,pound,unit of mass (16 ounces avoirdupois)
 رَطْل,noun,pound,unit of mass (16 ounces avoirdupois)
+جُنَيْه,noun,pound,unit of currency
+لِيرَة f or لَيْرَة,noun,pound,unit of currency
 فَضَّلَ,verb,prefer,to favor
 آثَرَ,verb,prefer,to favor
 جَهَّزَ,verb,prepare,to make ready for a specific future purpose
 حَضَّرَ,verb,prepare,to make ready for a specific future purpose
 أَعَدَّ,verb,prepare,to make ready for a specific future purpose
+اِسْتَعَدَّ,verb,prepare,to make oneself ready
+تَأَهَّبَ,verb,prepare,to make oneself ready
 الزَّمَان,noun,present,current time
 الْحَال,noun,present,current time
 حَاضِر,noun,present,current time
 ثَمَن,noun,price,cost required to gain possession of something
 سِعْر,noun,price,cost required to gain possession of something
+ثَمَن,noun,price,cost of an action or deed
 مِن اَلْمُحْتَمَل,adv,probably,in all likelihood
 رُبَّمَا,adv,probably,in all likelihood
 مُشْكِلَة,noun,problem,difficulty
+تَمْرِين,noun,problem,schoolwork exercise
+مَسْأَلَة,noun,problem,puzzling circumstance
 مُنْتَج,noun,product,commodity for sale
 سِلْعَة,noun,product,commodity for sale
 حَاصِل,noun,product,commodity for sale
 مَحْصُول,noun,product,commodity for sale
+حَاصِل ضَرْب,noun,product,multiplication result
+جَدَاء,noun,product,multiplication result
 بَرْنَامَج,noun,program,set of structured activities
+بَرْنَامَج,noun,program,"leaflet listing information about a play, game or other activity"
+بَرْنَامَج,noun,program,performance of a show or other broadcast on radio or television
+بَرْنَامَج,noun,program,software application
 مَشْرُوع,noun,project,planned endeavor
 بَنَفْسَجِيّ,noun,purple,colour
 أُرْجُوَانِيّ,noun,purple,colour
 وَضَعَ,verb,put,to place something somewhere
 حَطَّ,verb,put,to place something somewhere
 رُبُع,noun,quarter,one of four equal parts — see also one-fourth
+حَارَة,noun,quarter,section of a town
 سُؤَال,noun,question,"sentence, phrase or word"
 سؤال,noun,question,"sentence, phrase or word"
 سؤال,noun,question,"sentence, phrase or word"
+مَسْأَلَة,noun,question,subject or topic
 سَرِيع,adj,quick,moving with speed
+سَرِيعٌ,adj,quick,occurring in a short time
+حَيٌّ,adj,quick,alive
+جَارٍ,adj,quick,pregnant
 بِسُرْعَة,adv,quickly,"rapidly, fast"
 عَاجِلًا,adv,quickly,"rapidly, fast"
 صَامِت,adj,quiet,with little sound
@@ -1499,27 +2214,45 @@ etc.,verb,have,to possess
 مِذْيَاع,noun,radio,technology
 راديو,noun,radio,technology
 راديو,noun,radio,technology
+رَادْيُو,noun,radio,receiver
+رَادِيُو,noun,radio,receiver
+مِذْيَاع,noun,radio,receiver
+راديو,noun,radio,receiver
 أَمْطَرَ,verb,rain,of rain: to fall from the sky
 مَطَرَ,verb,rain,of rain: to fall from the sky
 مطر,verb,rain,of rain: to fall from the sky
+أَمْطَرَ,verb,rain,to issue in large quantities
 قَرَأَ,verb,read,to look at and interpret letters or other information
 قرا,verb,read,to look at and interpret letters or other information
 قَرَا,verb,read,to look at and interpret letters or other information
 قِري,verb,read,to look at and interpret letters or other information
+قَرَأَ,verb,read,to speak aloud words or other information that is written
 قَارِئ,noun,reader,person who reads a publication
 قَارِئَة,noun,reader,person who reads a publication
+قَارِئ,noun,reader,"person who recites literary works, usually to an audience"
+قَارِئَة,noun,reader,"person who recites literary works, usually to an audience"
+قَارِئ,noun,reader,person employed by a publisher to read works and determine their merits
+قَارِئَة,noun,reader,person employed by a publisher to read works and determine their merits
+قَارِئ,noun,reader,any device that reads something
 قِرَاءَة,noun,reading,process of interpreting written language
 مُطَالَعَة,noun,reading,process of interpreting written language
+قِرَاءَة,noun,reading,interpretation
 جَاهِز,adj,ready,prepared for immediate action or use
 مُسْتَعِدّ,adj,ready,prepared for immediate action or use
+حَاضِر,adj,ready,"inclined, apt to happen"
+مُسْتَعِدّ,adj,ready,"inclined, apt to happen"
 حَقِيقِيّ,adj,real,"true, genuine, not merely nominal"
 وَاقِعِيّ,adj,real,"true, genuine, not merely nominal"
 حَقًّا,adv,really,actually
 سَبَب,noun,reason,that which causes: a cause
+عَقْل,noun,reason,(the capacity of the human mind for) rational thinking
 حُمْرَة,noun,red,colour
 أَحْمَر,noun,red,colour
 أحمر,noun,red,colour
+اِسْتَرْخَى,verb,relax,to make something loose
+اِسْتَرْخَى,verb,relax,to become loose
 تَذَكَّرَ,verb,remember,to recall from one's memory
+اِسْتَذْكَرَ,verb,remember,to memorize
 كَرَّرَ,verb,repeat,do or say again
 أَعَادَ,verb,repeat,do or say again
 تَقْرِير,noun,report,information describing events
@@ -1533,17 +2266,36 @@ etc.,verb,have,to possess
 رز,noun,rice,plants
 روز,noun,rice,plants
 رز,noun,rice,plants
+أَرُزّ,noun,rice,seeds used as food
+رُزّ,noun,rice,seeds used as food
+رزة,noun,rice,seeds used as food
+رز,noun,rice,seeds used as food
+عيش,noun,rice,seeds used as food
+روز,noun,rice,seeds used as food
 غَنِيّ,adj,rich,having wealth
 رَكِبَ,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 اِمْتَطَى,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 اقتعد,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+رَكِبَ,verb,ride,to be transported in a vehicle as a passenger
+حَقّ,noun,right,legal or moral entitlement
+حُقُوق,noun,right,legal or moral entitlement
+حقّ,noun,right,legal or moral entitlement
+يَمِين,noun,right,"right, not left, side"
 نَهْر,noun,river,large stream which drains a landmass
 أَنْهَار,noun,river,large stream which drains a landmass
 أَنْهُر,noun,river,large stream which drains a landmass
 نهر,noun,river,large stream which drains a landmass
 نهر,noun,river,large stream which drains a landmass
+نهر أبيض,noun,river,typography: visually undesirable effect of white space running down a page
 طَرِيق,noun,road,a way for travel
 سِكَّة,noun,road,a way for travel
+فَضاء,noun,room,space
+غُرْفَة,noun,room,division in a building
+حُجْرَة,noun,room,division in a building
+قَمَرَة,noun,room,division in a building
+قَمْرَة,noun,room,division in a building
+صَالَة,noun,room,division in a building
+بَيْت,noun,room,division in a building
 قَانُون,noun,rule,regulation
 قَاعِدَة,noun,rule,regulation
 رَكَضَ,verb,run,to move quickly on two feet
@@ -1552,6 +2304,12 @@ etc.,verb,have,to possess
 جري,verb,run,to move quickly on two feet
 جْرى,verb,run,to move quickly on two feet
 ركض,verb,run,to move quickly on two feet
+حَزِين,adj,sad,feeling sorrow
+زعلان,adj,sad,feeling sorrow
+مُتْضَايِق,adj,sad,feeling sorrow
+زعلان,adj,sad,feeling sorrow
+زعلان,adj,sad,feeling sorrow
+مُحْزِنٌ,adj,sad,"causing sorrow, lamentable"
 سَلَطَة,noun,salad,food
 مِلْح,noun,salt,sodium chloride
 ملح,noun,salt,sodium chloride
@@ -1559,13 +2317,30 @@ etc.,verb,have,to possess
 سَانْدَوِيتْش,noun,sandwich,dish — see also open sandwich
 شَطِيرَة,noun,sandwich,dish — see also open sandwich
 قَالَ,verb,say,"to say, to tell"
+قَالَ,verb,say,to pronounce
+قال,verb,say,to pronounce
+قَال,verb,say,to pronounce
+قال,verb,say,to pronounce
+حكى,verb,say,to pronounce
+حكى,verb,say,to pronounce
+يَتْلُو,verb,say,to recite
+قَالَ,verb,say,to communicate verbally or in writing
+يَقُول,verb,say,to communicate verbally or in writing
 مَدْرَسَة,noun,school,an institution dedicated to teaching and learning
 مَكْتَب,noun,school,an institution dedicated to teaching and learning
 مدرسة,noun,school,an institution dedicated to teaching and learning
 مدرسة,noun,school,an institution dedicated to teaching and learning
 مدرسة,noun,school,an institution dedicated to teaching and learning
 مدرسة,noun,school,an institution dedicated to teaching and learning
+مَدْرَسَة,noun,school,an institution dedicated to teaching and learning before college or university
+كُلِّيَّة,noun,school,college or university
+جَامِعَة,noun,school,college or university
+قِسِم,noun,school,a department/institute at a college or university
+مَدْرَسَة,noun,school,(collectively) the followers of a particular doctrine
 عِلْم,noun,science,collective discipline of learning acquired through the scientific method
+عِلْم,noun,science,particular discipline or branch of learning
+عِلْم,noun,science,fact of knowing something
+مَعْرِفَة,noun,science,fact of knowing something
 عَالِم,noun,scientist,one whose activities make use of the scientific method
 عَالِمَة,noun,scientist,one whose activities make use of the scientific method
 ثَانِيَة,noun,second,one-sixtieth of a minute; SI unit of time
@@ -1576,6 +2351,8 @@ etc.,verb,have,to possess
 ثانية,noun,second,one-sixtieth of a minute; SI unit of time
 قِسْم,noun,section,"cutting, part cut out"
 جُزْء,noun,section,"cutting, part cut out"
+جُزْء,noun,section,"part, piece or subdivision of anything"
+مَقْطَع,noun,section,part of a document
 رَأَى,verb,see,perceive with the eyes
 عَايَنَ,verb,see,perceive with the eyes
 شاف,verb,see,perceive with the eyes
@@ -1583,10 +2360,15 @@ etc.,verb,have,to possess
 شاف,verb,see,perceive with the eyes
 شاف,verb,see,perceive with the eyes
 بَاعَ,verb,sell,to agree to transfer goods or provide services for payment
+اِنْبَاعَ,verb,sell,to be sold
+بِيعَ,verb,sell,to be sold
 أَرْسَلَ,verb,send,make something go somewhere
 بَعَثَ,verb,send,make something go somewhere
 حُكْم,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+حُكْم,noun,sentence,judicial order for punishment
+جُمْلَة,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 شَارَكَ,verb,share,to give
+شَارَكَ,verb,share,to divide and distribute
 خَرُوف,noun,sheep,animal
 ضَأْن,noun,sheep,animal
 غَنَم,noun,sheep,animal
@@ -1615,18 +2397,27 @@ etc.,verb,have,to possess
 قَصِير,adj,short,having a small distance between ends or edges
 قصير,adj,short,having a small distance between ends or edges
 قصير,adj,short,having a small distance between ends or edges
+قَصِير,adj,short,having little duration
 يَنْبَغِي أَنْ,verb,should,expressing obligation
 مِنْ اَلْمَفْرُوض أَنْ,verb,should,expressing obligation
 مِنْ اَلْمُفْتَرَض أَنْ,verb,should,expressing obligation
 عَرْض,noun,show,entertainment
 اِسْتِعْرَاض,noun,show,entertainment
+مَعْرِض,noun,show,exhibition — see also exhibition
+إِظْهَار,noun,show,demonstration
+عَرْض,noun,show,demonstration
+بَرْنَامَج,noun,show,broadcast program(me)
 شَتْوَة,noun,shower,brief fall of rain
 مَطْرَة,noun,shower,brief fall of rain
+مِرَشَّة,noun,shower,device for bathing
+دُش,noun,shower,device for bathing
+دُوش,noun,shower,device for bathing
 مُمَاثِل,adj,similar,"having traits or characteristics in common; alike, comparable"
 غَنَّى,verb,sing,to produce harmonious sounds with one’s voice
 مُطْرِب,noun,singer,person who sings (male or generic term)
 مُغَنٍّ,noun,singer,person who sings (male or generic term)
 الْمُغَنِّي,noun,singer,person who sings (male or generic term)
+مُغَنِّيَة,noun,singer,female person who sings
 أُخْت,noun,sister,woman or girl having the same parents
 شَقِيقَة,noun,sister,woman or girl having the same parents
 أخت,noun,sister,woman or girl having the same parents
@@ -1634,12 +2425,20 @@ etc.,verb,have,to possess
 أخت,noun,sister,woman or girl having the same parents
 إخت,noun,sister,woman or girl having the same parents
 أخت,noun,sister,woman or girl having the same parents
+أخت,noun,sister,any woman or girl with whom a bond is felt
 جَلَسَ,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 جلس,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 قعد,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 قعد,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 حَالَة,noun,situation,combination of circumstances at a given moment; state of affairs
 وَضْع,noun,situation,combination of circumstances at a given moment; state of affairs
+حَالَة,noun,situation,position vis-à-vis surroundings
+وَضْع,noun,situation,position vis-à-vis surroundings
+وَضْع,noun,situation,position vis-à-vis surroundings
+حَالَة,noun,situation,location
+وَضْع,noun,situation,location
+حَالَة,noun,situation,one's status with regard to circumstances
+وَضْع,noun,situation,one's status with regard to circumstances
 مَهَارَة,noun,skill,capacity to do something well
 تَنُّورَة,noun,skirt,article of clothing
 جُوب,noun,skirt,article of clothing
@@ -1661,6 +2460,11 @@ etc.,verb,have,to possess
 صغير,adj,small,not large
 صغير,adj,small,not large
 زغير,adj,small,not large
+صَغِير,adj,small,young
+صغير,adj,small,young
+زغير,adj,small,young
+شَاطِر,adj,smart,exhibiting social ability or cleverness
+ذَكِيّ,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 ثُعْبَان,noun,snake,legless reptile
 حَنَش,noun,snake,legless reptile
 حَيَّة,noun,snake,legless reptile
@@ -1679,6 +2483,9 @@ etc.,verb,have,to possess
 أحيانا,adv,sometimes,"on certain occasions, but not always"
 بعض ساعات,adv,sometimes,"on certain occasions, but not always"
 اِبْن,noun,son,a male person in relation to his parents
+اِبْن,noun,son,a son through major influence
+اِبْن,noun,son,male descendant
+اِبْن,noun,son,familiar address
 أُغْنِيَّة,noun,song,music with words
 أُغْنِيَة,noun,song,music with words
 اغنية,noun,song,music with words
@@ -1689,11 +2496,18 @@ etc.,verb,have,to possess
 سِرْعَانَ مَا,adv,soon,within a short time
 سُرْعَانَ مَا,adv,soon,within a short time
 آسِف,adj,sorry,"repentant, apologetic"
+حَزِين,adj,sorry,"grieved, saddened"
+مُؤْسِف,adj,sorry,"poor, regrettable"
+مُحْزِن,adj,sorry,"poor, regrettable"
 صَوَّتَ,verb,sound,to produce a sound
 طَلَّع صوت,verb,sound,to produce a sound
 شُورَبَة,noun,soup,dish
 شُرْبَة,noun,soup,dish
 حَسَاء,noun,soup,dish
+فَرَاغ,noun,space,physical extent in two or three dimensions
+مَكَان,noun,space,physical extent in two or three dimensions
+فَضَاء,noun,space,area beyond atmosphere of planets
+مَسَافَة,noun,space,"gap between written characters, lines etc."
 تَحَدَّثَ,verb,speak,to communicate with one's voice using words
 تَكَلَّمَ,verb,speak,to communicate with one's voice using words
 كلم,verb,speak,to communicate with one's voice using words
@@ -1702,16 +2516,37 @@ etc.,verb,have,to possess
 دوى,verb,speak,to communicate with one's voice using words
 حكى,verb,speak,to communicate with one's voice using words
 حكى,verb,speak,to communicate with one's voice using words
+تَحَدَّثَ,verb,speak,to have a conversation
+تَكَلَّمَ,verb,speak,to have a conversation
+تَكَلَّمَ,verb,speak,to be able to communicate in a language
+حكى,verb,speak,to be able to communicate in a language
 خَاصّ,adj,special,distinguished by a unique or unusual quality
 خُصُوصِيّ,adj,special,distinguished by a unique or unusual quality
 هَجَّى,verb,spell,to write or say the letters that form a word
 تَهَجَّى,verb,spell,to write or say the letters that form a word
+هَجَّى,verb,spell,to compose a word
+تَهَجَّى,verb,spell,to compose a word
+عِلْم اَلْإِمْلَاء,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+هِجَاء,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+عِلْم اَلْإِمْلَاء,noun,spelling,a specific spelling of a word
+هِجَاء,noun,spelling,a specific spelling of a word
+تَهْجِئَة,noun,spelling,a specific spelling of a word
 أَنْفَقَ,verb,spend,to pay out
 صَرَفَ,verb,spend,to pay out
+قَضَى,verb,spend,"to consume, to use up (time)"
 رِيَاضَة,noun,sport,any athletic activity that uses physical skills
+ذو روح رياضية,noun,sport,person who exhibits either good or bad sportsmanship
+خلوق,noun,sport,somebody who behaves or reacts in an admirable manner
 رَبِيع,noun,spring,season between winter and summer in temperate climates
 ربيع,noun,spring,season between winter and summer in temperate climates
 رَبيع,noun,spring,season between winter and summer in temperate climates
+عَيْن,noun,spring,water springing from the ground
+يَنْبُوع,noun,spring,water springing from the ground
+عْيْن,noun,spring,water springing from the ground
+يَاي,noun,spring,device made of flexible material
+زُنْبُرُك,noun,spring,device made of flexible material
+نَابِض,noun,spring,device made of flexible material
+سوستة,noun,spring,device made of flexible material
 وَقَفَ,verb,stand,to support oneself on the feet in an erect position
 وقف,verb,stand,to support oneself on the feet in an erect position
 وقف,verb,stand,to support oneself on the feet in an erect position
@@ -1720,19 +2555,48 @@ etc.,verb,have,to possess
 كوكب,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 نجمة,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 نَجْمَة,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+نَجْم,noun,star,(astronomy) a luminous celestial body made of plasma
+نجمة,noun,star,(astronomy) a luminous celestial body made of plasma
+نَجْمَة,noun,star,(astronomy) a luminous celestial body made of plasma
+نَجْمَة,noun,star,celebrity
+إِجَّامَة,noun,star,asterisk
 بَدَأَ,verb,start,to begin
 تَصْرِيح,noun,statement,declaration or remark
 مَحَطَّة,noun,station,place where a vehicle may stop
+إِذَاعَة,noun,station,place used for broadcasting
+مَحَطَّة إِذَاعِيَّة,noun,station,place used for broadcasting
 مَكَثَ,verb,stay,to remain in a particular place
 بَقِيَ,verb,stay,to remain in a particular place
 سَاكِنًا,adv,still,without motion
+لَا يَزَال,adv,still,"up to a time, as in the preceding time"
+مَا زَالَ,adv,still,"up to a time, as in the preceding time"
+اِلَى اَلْأٰن,adv,still,"up to a time, as in the preceding time"
+رَغِم ذٰلِك,adv,still,nevertheless
+مَعَ ذٰلِك,adv,still,nevertheless
 مَوْقِف,noun,stop,place to get on and off mass transport
+وَقْفَة,noun,stop,interruption of travel
 قِصَّة,noun,story,account of events
 حِكَايَة,noun,story,account of events
 رِوَايَة,noun,story,account of events
 شَارِع,noun,street,paved part of road in a village or a town
 زَنَقَة,noun,street,paved part of road in a village or a town
 قَوِيّ,adj,strong,capable of producing great physical force
+مَنِيع,adj,strong,capable of withstanding great physical force
+مَتِيْن,adj,strong,capable of withstanding great physical force
+شَدِيْد,adj,strong,fast moving water
+قَوِيّ,adj,strong,"determined, unyielding"
+راسِخ,adj,strong,"determined, unyielding"
+شَدِيْد,adj,strong,highly stimulating to the senses
+قَوْيّ,adj,strong,highly stimulating to the senses
+شَدِيْد,adj,strong,having an offensive or intense odor or flavor
+حَادّ,adj,strong,having a high concentration of an essential or active ingredient
+ثَقِيْل,adj,strong,having a high concentration of an essential or active ingredient
+ثَقِيْل,adj,strong,having a high alcoholic content
+شَاذّ,adj,strong,grammar: irregular
+غَيْر نِظَامِيّ,adj,strong,grammar: irregular
+مَنِيْع,adj,strong,military: not easily subdued or taken
+حَصِيْن,adj,strong,military: not easily subdued or taken
+دامِغ,adj,strong,convincing
 طَالِب,noun,student,person who studies a subject
 طَالِبَة,noun,student,person who studies a subject
 تِلْمِيذ,noun,student,person who studies a subject
@@ -1741,10 +2605,27 @@ etc.,verb,have,to possess
 طالبة,noun,student,person who studies a subject
 طالب,noun,student,person who studies a subject
 تلميذ,noun,student,person who studies a subject
+طَالِب,noun,student,"person enrolled at a school, university or other education institution"
+طَالِبَة,noun,student,"person enrolled at a school, university or other education institution"
+تِلْمِيذ,noun,student,"person enrolled at a school, university or other education institution"
+تِلْمِيذَة,noun,student,"person enrolled at a school, university or other education institution"
+طالب,noun,student,"person enrolled at a school, university or other education institution"
+طالبة,noun,student,"person enrolled at a school, university or other education institution"
+طَالِب,noun,student,person enrolled at a university — see also university student
+طَالِبَة,noun,student,person enrolled at a university — see also university student
 ذَاكَرَ,verb,study,to revise/review materials
 دَرَسَ,verb,study,to revise/review materials
+دَرَسَ,verb,study,to take a course
+دَرَسَ,verb,study,to acquire knowledge
+تَعَلَّمَ,verb,study,to acquire knowledge
+أُسْلُوب,noun,style,manner of expression in writing or speech
+أُسْلُوب,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 فَاعِل,noun,subject,in grammar
 مُبْتَدَأ,noun,subject,in grammar
+مَوْضُوع,noun,subject,main topic
+دَوْرَة,noun,subject,particular area of study
+مَادَّة,noun,subject,particular area of study
+رَعِيَّة,noun,subject,citizen in a monarchy
 نَجَاح,noun,success,achievement of one's aim or goal
 سُكَّر,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 صَيْف,noun,summer,hottest season
@@ -1759,6 +2640,8 @@ etc.,verb,have,to possess
 سُوبَرْمَارْكِت,noun,supermarket,store
 سُوبَر مَارْكِت,noun,supermarket,store
 أَكِيد,adj,sure,"certain, reliable"
+مُتَأَكِّد,adj,sure,certain in one's knowledge or belief
+سْوِيتَر,noun,sweater,similar garment worn for warmth
 سَبَحَ,verb,swim,move through water
 سِبَاحَة,noun,swimming,human activity of moving oneself through water
 طَاوِلَة,noun,table,item of furniture
@@ -1772,17 +2655,39 @@ etc.,verb,have,to possess
 طبلة,noun,table,item of furniture
 ميدة,noun,table,item of furniture
 طاولة,noun,table,item of furniture
+جَدْوَل,noun,table,grid of data in rows and columns
 أَخَذَ,verb,take,to get into one's hands or control
 خد,verb,take,to get into one's hands or control
 أخذ,verb,take,to get into one's hands or control
 أخذ,verb,take,to get into one's hands or control
+أَخَذَ,verb,take,to get into one's possession
+أَخَذَ,verb,take,to seize or capture
+أَخَذَ,verb,take,to appropriate or transfer into one's own possession
+أَخَذَ,verb,take,to capture or win in a game
+أَخَذَ,verb,take,to receive or accept
+أَخَذَ بِـ,verb,take,"to accept and follow advice, etc."
+اِتَّخَذَ,verb,take,to receive into some relationship
+أَخَذَ,verb,take,to receive or acquire property by law
+أَخَذَ,verb,take,to grab and move to oneself
+أَخَذَ,verb,take,to carry
+وَدَّى,verb,take,to carry
+أَخَذَ,verb,take,to choose
+عَانَى,verb,take,to endure
+اِسْتَغْرَقَ,verb,take,to last or expend (an amount of time)
+اِلْتَقَطَ,verb,take,"a photo, film, fingerprints, etc."
 تَكَلَّمَ,verb,talk,to communicate by speech
 تَحَدَّثَ,verb,talk,to communicate by speech
 طَوِيل,adj,tall,of a person
+طَوِيل,adj,tall,of a building
 تَاكْسِي,noun,taxi,vehicle available for public hire
 سَيَّارَةْ أُجْرَة,noun,taxi,vehicle available for public hire
 شَاي,noun,tea,dried leaves of tea plant
+شَاي,noun,tea,drink made from leaves of tea plant
+فِنْجَان شَاي,noun,tea,cup of this drink
+شَاي,noun,tea,drink made from other plants
+فِنْجَان شَاي,noun,tea,cup of drink made from other plants
 عَلَّمَ,verb,teach,to pass on knowledge
+عَلَّمَ,verb,teach,to cause to learn or understand
 مُعَلِّم,noun,teacher,person who teaches
 مُعَلِّمَة,noun,teacher,person who teaches
 مُدَرِّس,noun,teacher,person who teaches
@@ -1800,11 +2705,27 @@ etc.,verb,have,to possess
 مُعَلِّمة,noun,teacher,person who teaches
 معلم,noun,teacher,person who teaches
 أستاد,noun,teacher,person who teaches
+مُعَلِّمَة,noun,teacher,woman who teaches
+مُدَرِّسَة,noun,teacher,woman who teaches
+مدرسة,noun,teacher,woman who teaches
+ابلة,noun,teacher,woman who teaches
+معلمة,noun,teacher,woman who teaches
+مدرسة,noun,teacher,woman who teaches
+معلمة,noun,teacher,woman who teaches
+أبلة,noun,teacher,woman who teaches
+معلمة,noun,teacher,woman who teaches
+أستادة,noun,teacher,woman who teaches
+فَرِيق,noun,team,group of people
 مُرَاهِق,noun,teenager,person aged between thirteen and nineteen
 تَلْفَنَ,verb,telephone,to call someone
 تِلْفَاز,noun,television,medium
 تِلِفِزْيُون,noun,television,medium
 تَلْفَزَة,noun,television,medium
+تِلْفَاز,noun,television,device for receiving television signals
+تِلِفِزْيُون,noun,television,device for receiving television signals
+جِهَاز تِلِفِزْيُون,noun,television,device for receiving television signals
+تِلْفَاز,noun,television,program broadcasting
+تِلِفِزْيُون,noun,television,program broadcasting
 أَخْبَرَ,verb,tell,to pass information
 قَالَ,verb,tell,to pass information
 تَنِس,noun,tennis,sport played by two or four players with strung racquets
@@ -1812,14 +2733,36 @@ etc.,verb,have,to possess
 كُرَةُ المَضْرِب,noun,tennis,sport played by two or four players with strung racquets
 كُرَةُ المِضْرَب,noun,tennis,sport played by two or four players with strung racquets
 فَظِيع,adj,terrible,dreadful; causing alarm or fear
+مُرْعِب,adj,terrible,most formidable
+مُرْعِب,adj,terrible,intense; extreme in degree or extent
+فَظِيع,adj,terrible,unpleasant
+أَرْبَد,adj,terrible,unpleasant
+فَظِيع,adj,terrible,very bad
+أَرْبَد,adj,terrible,very bad
+اِمْتَحَنَ,verb,test,to administer an examination during the academic term
+اِمْتَحَنَ,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+اِخْتَبَرَ,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+اِبْتَلَى,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+فَتَنَ,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 نَصّ,noun,text,a written passage
+رِسَالَة,noun,text,a brief written message transmitted between mobile phones
+مِيسِيج,noun,text,a brief written message transmitted between mobile phones
+إِس إِم إِس,noun,text,a brief written message transmitted between mobile phones
+رِسَالَة إِس إِم إِس,noun,text,a brief written message transmitted between mobile phones
 شَكَرَ,verb,thank,to express appreciation or gratitude toward (someone or something)
 مَسْرَح,noun,theater,place or building
+مَسْرَح,noun,theater,drama or performance as a profession or artform
 آنَذَاكَ,adv,then,at that time
 حِينَئِذٍ,adv,then,at that time
+ثُمَّ,adv,then,soon afterward
+ثُمَّ,adv,then,next in order
+إِذًا,adv,then,in that case
+إِذَنْ,adv,then,in that case
 هُنَاكَ,adv,there,in or at that place
 هُنَالِكَ,adv,there,in or at that place
 هُنَا,adv,there,in or at that place
+إِلَى هُنَاكَ,adv,there,to or into that place; thither
+هُنَاكَ,adv,there,in existence
 شَيْء,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 حاجة,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 شي,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
@@ -1840,9 +2783,15 @@ etc.,verb,have,to possess
 فَكَّر,verb,think,"to ponder, to go over in one's head"
 فَكَّر,verb,think,"to ponder, to go over in one's head"
 فَكَّر,verb,think,"to ponder, to go over in one's head"
+فَكَّرَ,verb,think,communicate to oneself in one’s mind
+ظَنَّ,verb,think,be of the opinion that
+ظَنّ,verb,think,be of the opinion that
+حَسَّب,verb,think,be of the opinion that
+ظَنَّ,verb,think,"guess, reckon"
 عَطْشَان,adj,thirsty,needing to drink
 ظَمْآن,adj,thirsty,needing to drink
 تَذْكِرَة,noun,ticket,admission to entertainment
+تَذْكِرَة,noun,ticket,pass for transportation
 زَمَان,noun,time,inevitable passing of events
 زَمَن,noun,time,inevitable passing of events
 وَقْت,noun,time,inevitable passing of events
@@ -1853,9 +2802,23 @@ etc.,verb,have,to possess
 زَمَان,noun,time,inevitable passing of events
 وقت,noun,time,inevitable passing of events
 زمان,noun,time,inevitable passing of events
+وَقْت,noun,time,quantity of availability in time
+وَقْت,noun,time,measurement of a quantity of time
+عَصْر,noun,time,"extended period of time, defined or undefined: age, era, etc."
+إِبَّان,noun,time,"extended period of time, defined or undefined: age, era, etc."
+حِين,noun,time,division of the day: particular moment or hour
+وَقْت,noun,time,division of the day: particular moment or hour
+أَوَان,noun,time,division of the day: particular moment or hour
+مَرَّة,noun,time,instance or occurrence
+مرة,noun,time,instance or occurrence
+خطرة,noun,time,instance or occurrence
+دقة,noun,time,instance or occurrence
 مُتْعَب,adj,tired,in need of rest or sleep
 تَعْبَان,adj,tired,in need of rest or sleep
 لَقَب,noun,title,prefix or suffix added to a name
+عُنْوَان,noun,title,"name of a book, etc"
+عِنْوَان,noun,title,"name of a book, etc"
+اِسْم,noun,title,"name of a book, etc"
 الْيَوْم,noun,today,today (noun)
 النهرده,noun,today,today (noun)
 اليوم,noun,today,today (noun)
@@ -1863,8 +2826,19 @@ etc.,verb,have,to possess
 هاد النهار,noun,today,today (noun)
 مَعًا,adv,together,"at the same time, in the same place"
 سَوِيًّا,adv,together,"at the same time, in the same place"
+مِرْحَاض,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+حَمَّام,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+تْوَالِيتّ,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+دَوْرَةُ المِيَاه,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+مِرْحَاض,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+تواليت,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+كبنيه,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+قعدة,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+كَبِنيه,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 طَمَاطِم,noun,tomato,tomato plant
 بَنَدُورَة,noun,tomato,tomato plant
+بَنْدُورَة,noun,tomato,fruit
+طَمَاطِم,noun,tomato,fruit
 غَد,noun,tomorrow,the day after the present day
 بُكرة,noun,tomorrow,the day after the present day
 اَللَّيْلَة,noun,tonight,nighttime today
@@ -1872,6 +2846,9 @@ etc.,verb,have,to possess
 كَذٰلِكَ,adv,too,likewise
 كَمَان,adv,too,likewise
 بَرْضُه,adv,too,likewise
+أَكْثَرَ مِنَ اللّازِمِ,adv,too,more than enough; as too much
+لِلْغايةِ,adv,too,more than enough; as too much
+مُفْرِط,adv,too,more than enough; as too much
 سِنّ,noun,tooth,anatomy: tooth
 سن,noun,tooth,anatomy: tooth
 سنة,noun,tooth,anatomy: tooth
@@ -1888,6 +2865,11 @@ etc.,verb,have,to possess
 بَلْدَة,noun,town,settlement
 مُرُور,noun,traffic,pedestrians or vehicles on roads or on the air
 ذَيْل,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+قِطَار,noun,train,line of connected cars or carriages
+قطر,noun,train,line of connected cars or carriages
+قطار,noun,train,line of connected cars or carriages
+قِطَار,noun,train,line of connected cars or carriages
+قَافِلَة,noun,train,"group of animals, vehicles, or people"
 مُسَافِرَة,noun,travel,act of traveling
 رِحْلَة,noun,travel,act of traveling
 سَفَر,noun,travel,act of traveling
@@ -1905,13 +2887,25 @@ etc.,verb,have,to possess
 سَفَر,noun,trip,journey
 سَيَاحَة,noun,trip,journey
 جَوْلَة,noun,trip,journey
+هَذَيَان,noun,trip,period of time in which one experiences drug-induced reverie or hallucinations
+شَاحِنَة,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+كَمْيُون,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+لُورِي,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 حَقّ,adj,true,concurring with a given set of facts
 صَحِيح,adj,true,concurring with a given set of facts
 صَادِق,adj,true,concurring with a given set of facts
+حَقٌّ,adj,true,"loyal, faithful"
+حَقِيقِيّ,adj,true,"genuine, legitimate"
 حَاوَلَ,verb,try,to attempt
 سَعَى,verb,try,to attempt
 طَلَب,verb,try,to attempt
+حَاكَمَ,verb,try,to put on trial
 اِنْعِطَاف,noun,turn,change of direction or orientation
+دَوْرَة,noun,turn,movement about an axis ending up with the same orientation
+دَوْر,noun,turn,chance to use (something) shared in sequence with others
+نَوْبَة,noun,turn,chance to use (something) shared in sequence with others
+دَوْر,noun,turn,spell of work
+نَوْبَة,noun,turn,spell of work
 مَرَّتَيْن,adv,twice,two times
 مرتين,adv,twice,two times
 نَوْع,noun,type,grouping based on shared characteristics
@@ -1919,6 +2913,8 @@ etc.,verb,have,to possess
 طِرَاز,noun,type,grouping based on shared characteristics
 مِظَلَّة,noun,umbrella,cloth-covered frame used for protection against rain or sun
 شَمْسِيَّة,noun,umbrella,cloth-covered frame used for protection against rain or sun
+وَاقٍ,noun,umbrella,anything that provides protection
+الْوَاقِي,noun,umbrella,anything that provides protection
 عَمّ,noun,uncle,brother (or brother-in-law) of someone’s parent
 خَال,noun,uncle,brother (or brother-in-law) of someone’s parent
 زَوْجُ العَمّة,noun,uncle,brother (or brother-in-law) of someone’s parent
@@ -1932,20 +2928,29 @@ etc.,verb,have,to possess
 مُفِيد,adj,useful,having a practical or beneficial use
 نَافِع,adj,useful,having a practical or beneficial use
 عَادَةً,adv,usually,most of the time
+عُطْلَة,noun,vacation,period of leisure time
+إِجَازَة,noun,vacation,period of leisure time
 خُضَر,noun,vegetable,a plant raised for some edible part of it
 خُضَار,noun,vegetable,a plant raised for some edible part of it
 خَضْرَاوَات,noun,vegetable,a plant raised for some edible part of it
 بَقْلَة,noun,vegetable,a plant raised for some edible part of it
+نَبَات,noun,vegetable,any plant
+بَقْلَة,noun,vegetable,any plant
 جِدًّا,adv,very,to a high degree
 فِيدِيُو,noun,video,"television show, movie"
 فيديو,noun,video,"television show, movie"
+فِيدِيُو,noun,video,motion picture stored on VHS
 زِيَارَة,noun,visit,single act of visiting
 زَائِر,noun,visitor,guest
+زَائِر,noun,visitor,sightseer
+سَائِح,noun,visitor,sightseer
 اِنْتَظَرَ,verb,wait,delay until some event
 نَادِل,noun,waiter,a server in a restaurant or similar
 نَادِلَة,noun,waiter,a server in a restaurant or similar
 اِسْتَيْقَظَ,verb,wake,to stop sleeping
+أَيْقَظَ,verb,wake,to make somebody stop sleeping
 مَسِير,noun,walk,trip made by walking
+مِشْيَة,noun,walk,manner of walking
 حَائِط,noun,wall,defensive rampart
 جِدَار,noun,wall,defensive rampart
 سُور,noun,wall,defensive rampart
@@ -1954,6 +2959,16 @@ etc.,verb,have,to possess
 حيط,noun,wall,defensive rampart
 جِدَار,noun,wall,defensive rampart
 سور,noun,wall,defensive rampart
+سُور,noun,wall,structure built for defense surrounding an area
+سور,noun,wall,structure built for defense surrounding an area
+سور,noun,wall,structure built for defense surrounding an area
+سور,noun,wall,structure built for defense surrounding an area
+جِدَار,noun,wall,substantial structure acting as side or division in a building
+حيط,noun,wall,substantial structure acting as side or division in a building
+طوفة,noun,wall,substantial structure acting as side or division in a building
+جُدار,noun,wall,substantial structure acting as side or division in a building
+حيط,noun,wall,substantial structure acting as side or division in a building
+حيط,noun,wall,substantial structure acting as side or division in a building
 أَرَادَ,verb,want,to desire
 رَغِبَ,verb,want,to desire
 شَاءَ,verb,want,to desire
@@ -1967,6 +2982,7 @@ etc.,verb,have,to possess
 دَفِيء,adj,warm,having a temperature slightly higher than usual
 غَسَلَ,verb,wash,to clean with water
 سَاعَة,noun,watch,portable or wearable timepiece
+حَارِس,noun,watch,person or group of people who guard
 مَاء,noun,water,inorganic compound H₂O
 مية,noun,water,inorganic compound H₂O
 امبو,noun,water,inorganic compound H₂O
@@ -1976,9 +2992,12 @@ etc.,verb,have,to possess
 مَيّ,noun,water,inorganic compound H₂O
 مي,noun,water,inorganic compound H₂O
 مية,noun,water,inorganic compound H₂O
+مِيَاه,noun,water,"body of water, or specific part of it"
 طَرِيق,noun,way,"road, direction, path"
 سَبِيل,noun,way,"road, direction, path"
 طريق,noun,way,"road, direction, path"
+طَرِيقَة,noun,way,method or manner
+طريقة,noun,way,method or manner
 لَبِسَ,verb,wear,to have on (clothes or accessories)
 اِرْتَدَى,verb,wear,to have on (clothes or accessories)
 طَقْس,noun,weather,state of the atmosphere
@@ -2020,11 +3039,27 @@ etc.,verb,have,to possess
 وَيْن,adv,where,at what place; to what place; from what place
 وَيْن,adv,where,at what place; to what place; from what place
 فين,adv,where,at what place; to what place; from what place
+أَيْنَ,adv,where,at or in what place
+فين,adv,where,at or in what place
+فاين,adv,where,at or in what place
+وين,adv,where,at or in what place
+حَيْث,adv,where,at or in which place
+إِلَى أَيْنَ,adv,where,to what place
+حَيْثُ,adv,where,the place in which
 أَبْيَض,noun,white,color
 بَيْضَاء,noun,white,color
 أبيض,noun,white,color
 بيضا,noun,white,color
 بيض,noun,white,color
+قَوْقَازِيّ,noun,white,person of European descent
+يَافِثِيّ,noun,white,person of European descent
+أَبْيَض,noun,white,person of European descent
+أبيض,noun,white,person of European descent
+بيضا,noun,white,person of European descent
+بيض,noun,white,person of European descent
+قوقازى,noun,white,person of European descent
+قوقازية,noun,white,person of European descent
+قوقازيين,noun,white,person of European descent
 لِمَاذَا,adv,why,for what reason
 لِمَ,adv,why,for what reason
 زَوْجَة,noun,wife,female partner in a marriage
@@ -2032,6 +3067,7 @@ etc.,verb,have,to possess
 رَبِحَ,verb,win,transitive: achieve victory in
 كَسَبَ,verb,win,transitive: achieve victory in
 فَازَ,verb,win,transitive: achieve victory in
+رَبِحَ,verb,win,to gain a prize
 نَافِذَة,noun,window,opening for light and air
 شُبَّاك,noun,window,opening for light and air
 طَاقَة,noun,window,opening for light and air
@@ -2048,6 +3084,8 @@ etc.,verb,have,to possess
 سرجب,noun,window,opening for light and air
 شرجب,noun,window,opening for light and air
 شباك,noun,window,opening for light and air
+نَافِذَة,noun,window,area on a computer screen
+ويندو,noun,window,area on a computer screen
 نَبِيذ,noun,wine,alcoholic beverage made from grapes
 خَمْر,noun,wine,alcoholic beverage made from grapes
 شَرَاب,noun,wine,alcoholic beverage made from grapes
@@ -2056,6 +3094,8 @@ etc.,verb,have,to possess
 خَمُر,noun,wine,alcoholic beverage made from grapes
 نبيد,noun,wine,alcoholic beverage made from grapes
 خمر,noun,wine,alcoholic beverage made from grapes
+خَمْر,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+نَبِيذ,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
 شِتَاء,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 شتا,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 شتا,noun,winter,"fourth season, marked by short days and the lowest temperatures"
@@ -2065,6 +3105,10 @@ etc.,verb,have,to possess
 كَلِمَة,noun,word,unit of language
 كلمة,noun,word,unit of language
 كلمة,noun,word,unit of language
+كَلِمَة,noun,word,something which has been said
+كَلَام,noun,word,something which has been said
+قَوْل,noun,word,something which has been said
+كَلِمَةُ اللهِ,noun,word,the word of God
 عَمَل,noun,work,"labour, employment, occupation, job"
 شُغْل,noun,work,"labour, employment, occupation, job"
 خِدْمَة,noun,work,"labour, employment, occupation, job"
@@ -2073,26 +3117,45 @@ etc.,verb,have,to possess
 شغل,noun,work,"labour, employment, occupation, job"
 خدمة,noun,work,"labour, employment, occupation, job"
 وظيفة,noun,work,"labour, employment, occupation, job"
+مُصَنَّف,noun,work,"literary, artistic, or intellectual production"
+مُؤَلَّف,noun,work,"literary, artistic, or intellectual production"
+عَمَل,noun,work,"literary, artistic, or intellectual production"
 عَامِل,noun,worker,person who performs labor
 عَامِلَة,noun,worker,person who performs labor
 عَالَم,noun,world,human collective existence
+عالم,noun,world,the universe
+عَالَم,noun,world,the Earth
+دُنْيَا,noun,world,the Earth
+عَالَم,noun,world,inhabited planet
+دُنْيَا,noun,world,inhabited planet
+عَالَم,noun,world,individual or group perspective or social setting
+دُنْيَا,noun,world,individual or group perspective or social setting
 كَتَبَ,verb,write,"to form letters, etc."
 كتب,verb,write,"to form letters, etc."
 كِتَب,verb,write,"to form letters, etc."
+كَاتَبَ,verb,write,to send a letter to
+َأَلَّف,verb,write,to be the author of
 كَاتِب,noun,writer,person who writes; an author
 كَاتِبَة,noun,writer,person who writes; an author
 مُؤَلِّف,noun,writer,person who writes; an author
 مُؤَلِّفَة,noun,writer,person who writes; an author
 كِتَابَة,noun,writing,written letters or symbols
+كِتَابَة,noun,writing,something written
+كِتَابَة,noun,writing,process of representing a language
+كتبة,noun,writing,style of writing
 خَاطِئ,adj,wrong,incorrect
 خَطَأ,adj,wrong,incorrect
+مُخْطِئ,adj,wrong,asserting something incorrect — see also be wrong
 حَدِيقَة,noun,yard,land around a house
+يَارْدَة,noun,yard,three feet
+يَارْد,noun,yard,three feet
 أَعْوَام,noun,year,time it takes for the Earth to complete one revolution around the Sun
 سَنَوَات,noun,year,time it takes for the Earth to complete one revolution around the Sun
 عَام,noun,year,time it takes for the Earth to complete one revolution around the Sun
 سَنَة,noun,year,time it takes for the Earth to complete one revolution around the Sun
 سنة,noun,year,time it takes for the Earth to complete one revolution around the Sun
 سنة,noun,year,time it takes for the Earth to complete one revolution around the Sun
+صَفّ,noun,year,a level or grade at school or college
 أَصْفَر,noun,yellow,color
 أَمْس,noun,yesterday,day before today
 صَغِير,adj,young,in the early part of life or growth

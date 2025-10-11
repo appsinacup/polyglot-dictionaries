@@ -8,6 +8,12 @@ Chúa nhật,noun,Sunday,day of the week
 thứ năm,noun,Thursday,day of the week
 thứ ba,noun,Tuesday,day of the week
 thứ tư,noun,Wednesday,day of the week
+khoảng,adv,about,"nearly, approximately"
+chừng,adv,about,"nearly, approximately"
+cỡ,adv,about,"nearly, approximately"
+độ,adv,about,"nearly, approximately"
+hành động,noun,action,something done so as to accomplish a purpose
+động tác,noun,action,way of motion or functioning
 hoạt động,noun,activity,state or quality of being active
 diễn viên,noun,actor,person who performs in a theatrical play or film — see also actress
 nữ diễn viên,noun,actor,person who performs in a theatrical play or film — see also actress
@@ -16,14 +22,33 @@ nói,verb,add,to append (e.g. a statement); to say further information; to add o
 thêm,verb,add,to append (e.g. a statement); to say further information; to add on
 nói thêm,verb,add,to append (e.g. a statement); to say further information; to add on
 thêm thắt,verb,add,to append (e.g. a statement); to say further information; to add on
+thêm,verb,add,to make an addition; to augment; to increase; to add on
+cộng,verb,add,"to perform the arithmetical operation of addition, to add up"
+địa chỉ,noun,address,description of the location of a property; direction for correspondence
 người lớn,noun,adult,fully grown human
 lời khuyên,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 đáng sợ,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 buổi chiều,noun,afternoon,part of the day between noon and evening
 chiều,noun,afternoon,part of the day between noon and evening
+lại,adv,again,another time
 tuổi,noun,age,amount of time since the birth of a being or the beginning of a thing
+tuổi,noun,age,state of being old; latter part of life
+tuổi,noun,age,one of the stages of life
+thọ mệnh,noun,age,one of the stages of life
+tuổi,noun,age,time of life at which some particular power or capacity is understood to become vested
+độ tuổi,noun,age,time of life at which some particular power or capacity is understood to become vested
+tuổi,noun,age,time of life at which one attains full personal rights and capacities
+độ tuổi,noun,age,time of life at which one attains full personal rights and capacities
+thời kì,noun,age,particular period of time in history
+thời kỳ,noun,age,particular period of time in history
+thời đại,noun,age,particular period of time in history
+thời đại,noun,age,great period in the history of the Earth
+thế hệ,noun,age,generation — see also generation
+tuổi thọ,noun,age,lifespan
 đồng ý,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+ăn khớp,verb,agree,"to resemble, coincide, correspond"
 khí,noun,air,historical: one of the basic elements
+không khí,noun,air,mixture of gases making up the atmosphere of the Earth
 sân bay,noun,airport,place designated for airplanes
 phi trường,noun,airport,place designated for airplanes
 cảng hàng không,noun,airport,place designated for airplanes
@@ -37,25 +62,38 @@ giận,adj,angry,displaying anger
 tức,adj,angry,displaying anger
 thú vật,noun,animal,organism
 động vật,noun,animal,organism
+thú vật,noun,animal,organism other than human
+động vật,noun,animal,organism other than human
 trả lời,verb,answer,to make a reply or response to
+đáp lời,verb,answer,to respond to a call
+trả lời,verb,answer,to respond to a call
 căn hộ,noun,apartment,domicile occupying part of a building
 táo tây,noun,apple,fruit of Malus domestica
 bôm,noun,apple,fruit of Malus domestica
 táo,noun,apple,fruit of Malus domestica
 bom,noun,apple,fruit of Malus domestica
+miền,noun,area,particular geographic region
+vùng,noun,area,particular geographic region
 vũ khí,noun,arm,weapon
 cánh tay,noun,arm,upper appendage from shoulder to wrist
 tay,noun,arm,upper appendage from shoulder to wrist
 đến,verb,arrive,to reach
+đến,verb,arrive,to get to a certain place
 nghệ thuật,noun,art,human effort
+nghệ thuật,noun,art,skillful creative activity
 bài viết,noun,article,"story, report, or opinion piece"
+mạo từ,noun,article,part of speech that specifies a noun
+điều,noun,article,section of a legal document
 họa sĩ,noun,artist,person who creates art
 hỏi,verb,ask,request an answer
+cầu xin,verb,ask,make a request
 cô,noun,aunt,a parent's sister or sister-in-law
 dì,noun,aunt,a parent's sister or sister-in-law
 dễ sợ,adj,awesome,causing awe or terror
 đáng sợ,adj,awesome,causing awe or terror
 đáng kinh sợ,adj,awesome,causing awe or terror
+tuyệt vời,adj,awesome,"excellent, exciting"
+tuyệt cú mèo,adj,awesome,"excellent, exciting"
 bé,noun,baby,very young human being
 em bé,noun,baby,very young human being
 lùi lại,adv,back,to or in a previous condition or place
@@ -68,14 +106,28 @@ vũ hội,noun,ball,formal dance
 hội khiêu vũ,noun,ball,formal dance
 hội nhảy,noun,ball,formal dance
 hình cầu,noun,ball,solid or hollow sphere
+bóng,noun,ball,"object, generally spherical, used for playing games"
+banh,noun,ball,"object, generally spherical, used for playing games"
+mặt cầu,noun,ball,mathematics: set of points in a metric space lying within a given distance of a given point
+dái,noun,ball,testicle — see also testicle
+trứng dái,noun,ball,testicle — see also testicle
 (trái) chuối,noun,banana,fruit
 (quả) chuối,noun,banana,fruit
+(cây) chuối,noun,banana,plant
 bờ,noun,bank,edge of river or lake
 ngân hàng,noun,bank,institution
 nhà băng,noun,bank,institution
+quán rượu,noun,bar,business licensed to sell intoxicating beverages
+ba,noun,bar,business licensed to sell intoxicating beverages
 bóng chày,noun,baseball,ball game
 bóng rổ,noun,basketball,the sport
 bồn tắm,noun,bath,tub
+phòng tắm,noun,bath,building or area where bathing occurs
+buồng tắm,noun,bath,building or area where bathing occurs
+tắm,noun,bath,act of bathing
+tắm rửa,noun,bath,act of bathing
+tắm gội,noun,bath,act of bathing
+rửa ráy,noun,bath,act of bathing
 buồng tắm,noun,bathroom,a room with a bathtub
 phòng tắm,noun,bathroom,a room with a bathtub
 bãi biển,noun,beach,sandy shore
@@ -84,12 +136,25 @@ xinh đẹp,adj,beautiful,attractive
 trở nên,verb,become,to begin to be
 trở thành,verb,become,to begin to be
 giường,noun,bed,piece of furniture
+chỗ ngủ,noun,bed,prepared spot to spend the night in
+lớp,noun,bed,flat surface or layer on which something else is to be placed
+nền,noun,bed,flat surface or layer on which something else is to be placed
+đáy,noun,bed,the bottom of a lake or other body of water
+lòng,noun,bed,the bottom of a lake or other body of water
+luống,noun,bed,garden plot
+lớp,noun,bed,"deposit of ore, coal etc."
 phòng ngủ,noun,bedroom,room in a house where a bed is kept for sleeping
 buồng ngủ,noun,bedroom,room in a house where a bed is kept for sleeping
 bia,noun,beer,alcoholic drink made of malt
+rượu,noun,beer,drink made from roots
+rượu bia,noun,beer,drink made from roots
+li bia,noun,beer,glass of beer
+cốc bia,noun,beer,glass of beer
+loại bia,noun,beer,variety of these beverages
 bắt đầu,verb,begin,"to start, to initiate (transitive)"
 phần đầu,noun,beginning,act of doing that which begins anything
 bắt đầu,noun,beginning,act of doing that which begins anything
+đầu,noun,beginning,initial portion of some extended thing
 tin,verb,believe,to accept that someone is telling the truth (object: person)
 tin tưởng,verb,believe,to accept that someone is telling the truth (object: person)
 tốt hơn,adj,better,comparative of the adjectives good or well
@@ -100,10 +165,20 @@ lớn,adj,big,of a great size — see also large
 to,adj,big,of a great size — see also large
 bự,adj,big,of a great size — see also large
 xe đạp,noun,bike,bicycle
+xe máy,noun,bike,motorcycle
+xe gắn máy,noun,bike,motorcycle
+dự luật,noun,bill,draft of a law
 mỏ,noun,bill,bird's beak
 chim,noun,bird,animal
 sinh nhật,noun,birthday,anniversary
+ngày sinh,noun,birthday,date of birth — see also date of birth
+ngày sinh tháng đẻ,noun,birthday,date of birth — see also date of birth
+ngày sanh,noun,birthday,date of birth — see also date of birth
 đen,noun,black,colour/color
+màu đen,noun,black,"dye, pigment"
+màu đen,noun,black,"pen, pencil, etc. with black pigment"
+người da đen,noun,black,dark-skinned person — see also Negro
+người đen,noun,black,dark-skinned person — see also Negro
 nhật ký web,noun,blog,a personal or corporate website
 trang cá nhân,noun,blog,a personal or corporate website
 (màu) xanh,noun,blue,colour
@@ -116,15 +191,25 @@ cơ thể,noun,body,physical structure of a human or animal
 thân,noun,body,physical structure of a human or animal
 mình,noun,body,physical structure of a human or animal
 người,noun,body,physical structure of a human or animal
+hội,noun,body,group having a common purpose or opinion
+phường hội,noun,body,"organisation, company or other authoritative group"
+xô viết,noun,body,"organisation, company or other authoritative group"
+thể,noun,body,any physical object or material thing
+chất,noun,body,"substance, material presence"
 sách,noun,book,collection of sheets of paper bound together containing printed or written material
 sổ,noun,book,collection of sheets of paper bound together containing printed or written material
 sách giáo khoa,noun,book,collection of sheets of paper bound together containing printed or written material
+tập,noun,book,"major division of a published work, larger than a chapter"
+quyển,noun,book,"major division of a published work, larger than a chapter"
 giày ống,noun,boot,heavy shoe that covers part of the leg
 ủng,noun,boot,heavy shoe that covers part of the leg
 chán,adj,bored,suffering from boredom
 chán,adj,boring,causing boredom or tiredness
 chai,noun,bottle,container
+chai,noun,bottle,contents of such a container
 hộp,noun,box,cuboid space; container
+hộp,noun,box,as much as fills a box
+hộp,noun,box,"computer, or the case in which it is housed"
 con trai,noun,boy,young male
 trai,noun,boy,young male
 bạn trai,noun,boyfriend,male partner in a romantic relationship
@@ -132,20 +217,26 @@ người yêu,noun,boyfriend,male partner in a romantic relationship
 bánh mì,noun,bread,baked dough made from cereals
 bánh mỳ,noun,bread,baked dough made from cereals
 bánh tây,noun,bread,baked dough made from cereals
+nghỉ,noun,break,"rest or pause, usually from work"
 bữa sáng,noun,breakfast,first meal of the day
 mang,verb,bring,to transport toward somebody/somewhere
 anh or anh trai,noun,brother,male sibling
 em trai,noun,brother,male sibling
 em,noun,brother,male sibling
 anh em,noun,brother,male sibling
+anh em,noun,brother,male having parents in common
+huynh đệ,noun,brother,male having parents in common
 nâu,noun,brown,colour
 xây,verb,build,(transitive) to form by combining materials or parts
 xây dựng,verb,build,(transitive) to form by combining materials or parts
+toà nhà,noun,building,closed structure with walls and a roof
 xe buýt,noun,bus,vehicle
 ô tô buýt,noun,bus,vehicle
 buýt,noun,bus,vehicle
 doanh nghiệp,noun,business,commercial enterprise or establishment
 doanh thương,noun,business,commercial enterprise or establishment
+bận,adj,busy,doing a great deal
+bận rộn,adj,busy,doing a great deal
 bơ,noun,butter,soft foodstuff made from milk
 mua,verb,buy,to obtain something with money
 bánh,noun,cake,type of sweet dessert
@@ -155,22 +246,42 @@ máy chụp hình,noun,camera,still camera
 máy chụp ảnh,noun,camera,still camera
 máy ảnh,noun,camera,still camera
 ca-mê-ra,noun,camera,still camera
+máy quay phim,noun,camera,movie camera
+máy quay,noun,camera,movie camera
+máy ghi hình,noun,camera,movie camera
+ca-mê-ra,noun,camera,movie camera
 có thể,verb,can,to be able to; to know how to
 được,verb,can,to be able to; to know how to
+có thể,verb,can,may
+có lẽ,verb,can,may
 có thể không,verb,cannot,"cannot — see also can, not"
 xe hơi,noun,car,"automobile, a vehicle steered by a driver"
 ô tô,noun,car,"automobile, a vehicle steered by a driver"
 xe ô tô,noun,car,"automobile, a vehicle steered by a driver"
 xe,noun,car,"automobile, a vehicle steered by a driver"
+thẻ,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 nghề nghiệp,noun,career,one's calling in life; a person's occupation
 cà rốt,noun,carrot,Daucus carota ssp. sativus
 ca rốt,noun,carrot,Daucus carota ssp. sativus
 mang,verb,carry,to transport by lifting
 mèo,noun,cat,domestic species
+mèo,noun,cat,member of the family Felidae
 phần trăm,noun,cent,subunit of currency in US and elsewhere
 trung tâm,noun,center,point equidistant from all points on the perimeter of a circle
 tâm,noun,center,point equidistant from all points on the perimeter of a circle
+trung tâm,noun,center,point equidistant from all points on the surface of a sphere
+tâm,noun,center,point equidistant from all points on the surface of a sphere
+trung tâm,noun,center,point on a line midway between the ends
+trung điểm,noun,center,point on a line midway between the ends
+điểm giữa,noun,center,point on a line midway between the ends
+trọng tâm,noun,center,point in the interior of figure with mean coordinates
+trung tâm,noun,center,place where a function or activity occurs
+tâm điểm,noun,center,topic of particular importance
 ghế,noun,chair,furniture
+tiền lẻ,noun,change,small denominations of money given in exchange for a larger denomination
+tiền nhỏ,noun,change,small denominations of money given in exchange for a larger denomination
+biểu đồ,noun,chart,non-narrative presentation of data
+đồ biểu,noun,chart,non-narrative presentation of data
 rẻ,adj,cheap,low and/or reduced in price
 kiểm tra,verb,check,"to inspect, examine"
 khám,verb,check,"to inspect, examine"
@@ -182,41 +293,82 @@ gà,noun,chicken,bird
 đứa bé,noun,child,son or daughter; someone's child
 đứa trẻ,noun,child,son or daughter; someone's child
 con,noun,child,son or daughter; someone's child
+đứa bé,noun,child,a minor
+đứa trẻ,noun,child,a minor
+con,noun,child,(computing) object which has a subservient or derivative role relative to another object
 sô-cô-la,noun,chocolate,food made from ground roasted cocoa beans
 sôcôla,noun,chocolate,food made from ground roasted cocoa beans
 socola,noun,chocolate,food made from ground roasted cocoa beans
+kẹo sô-cô-la,noun,chocolate,small piece of confectionery made from chocolate
+kẹo sôcôla,noun,chocolate,small piece of confectionery made from chocolate
+kẹo socola,noun,chocolate,small piece of confectionery made from chocolate
+màu sô-cô-la,noun,chocolate,colour
+màu sôcôla,noun,chocolate,colour
+màu socola,noun,chocolate,colour
 chọn,verb,choose,to pick
 lựa chọn,verb,choose,to pick
 kén chọn,verb,choose,to pick
+chọn,verb,choose,to elect
 thành phố,noun,city,large settlement
 thành,noun,city,large settlement
 phố,noun,city,large settlement
 đô thị,noun,city,large settlement
+giai cấp,noun,class,"social grouping, based on job, wealth, etc."
+lớp,noun,class,group of students in a regularly scheduled meeting with a teacher
+lớp,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 lớp học,noun,classroom,room in a school
 phòng học,noun,classroom,room in a school
 lớp,noun,classroom,room in a school
 lau,verb,clean,(transitive) to remove dirt from a place or object
 làm sạch,verb,clean,(transitive) to remove dirt from a place or object
+dọn dẹp,verb,clean,(transitive) to tidy up
 leo,verb,climb,"to ascend, to go up"
 lên,verb,climb,"to ascend, to go up"
 trèo,verb,climb,"to ascend, to go up"
+leo,verb,climb,"to mount, to move upwards on"
+trèo,verb,climb,"to mount, to move upwards on"
 đồng hồ,noun,clock,instrument to measure or keep track of time
 đóng,verb,close,obstruct (an opening)
+đóng,verb,close,move (a door)
+nhắm,verb,close,bring one's eyelids together
 quần áo,noun,clothes,apparel
 đồ,noun,clothes,apparel
 câu lạc bộ,noun,club,association of members
 CLB,noun,club,association of members
+dùi cui,noun,club,heavy stick for use as weapon or plaything
+gậy tày,noun,club,heavy stick for use as weapon or plaything
+gậy,noun,club,heavy stick for use as weapon or plaything
 áo bành tô,noun,coat,outer garment covering the upper torso and arms
 áo khoác,noun,coat,outer garment covering the upper torso and arms
 cà phê,noun,coffee,beverage
+hột cà phê,noun,coffee,beans
+hạt cà phê,noun,coffee,beans
+cây cà phê,noun,coffee,plant
+màu cà phê,noun,coffee,colour
 rét,noun,cold,low temperature
+cảm,noun,cold,illness
+trường cao đẳng,noun,college,institution of higher education teaching undergraduates
+khoa,noun,college,specialized division of a university
 màu,noun,color,spectral composition of visible light
 màu sắc,noun,color,spectral composition of visible light
+màu,noun,color,particular set of the visible spectrum
+Vietnamese: sắc,noun,color,particular set of the visible spectrum
+màu da,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
 lại,verb,come,to move nearer
 đến,verb,come,to move nearer
+xuất,verb,come,to orgasm
+ra,verb,come,to orgasm
+thành,verb,come,to become
+trở nên,verb,come,to become
+trở thành,verb,come,to become
 chung,adj,common,mutual
+thường,adj,common,usual
+thông thường,adj,common,usual
+thường,adj,common,ordinary
+bình thường,adj,common,ordinary
 công ty,noun,company,"in legal context, a corporation"
 xí nghiệp,noun,company,"in legal context, a corporation"
+đại đội,noun,company,military unit
 so sánh,verb,compare,to assess the similarities between two things or between one thing and another
 so,verb,compare,to assess the similarities between two things or between one thing and another
 hoàn thành,verb,complete,to finish
@@ -224,6 +376,9 @@ máy vi tính,noun,computer,programmable electronic device
 máy điện toán,noun,computer,programmable electronic device
 máy tính,noun,computer,programmable electronic device
 máy tính điện tử,noun,computer,programmable electronic device
+buổi hoà nhạc,noun,concert,a musical entertainment in which several voices or instruments take part
+"(buổi, cuộc) biểu diễn",noun,concert,a musical entertainment in which several voices or instruments take part
+hoà tấu,noun,concert,a musical entertainment in which several voices or instruments take part
 (cuộc) đối thoại,noun,conversation,expression and exchange of individual ideas through talking with other people
 nấu,verb,cook,to prepare food for eating
 nấu chín,verb,cook,to prepare food for eating
@@ -234,11 +389,24 @@ sửa,verb,correct,to make something become right that was previously wrong
 chữa,verb,correct,to make something become right that was previously wrong
 sửa chữa,verb,correct,to make something become right that was previously wrong
 đất nước,noun,country,region of land
+quốc gia,noun,country,nation state
+đất nước,noun,country,nation state
+miền quê,noun,country,"the country, rural area, as opposed to the town or city"
+nông thôn,noun,country,"the country, rural area, as opposed to the town or city"
+khoá học,noun,course,education: learning program
+anh họ,noun,cousin,child of a person’s parent’s brother or sister
+chị họ,noun,cousin,child of a person’s parent’s brother or sister
+em họ,noun,cousin,child of a person’s parent’s brother or sister
 bò cái,noun,cow,female domesticated ox or other bovine
+bò,noun,cow,any domestic bovine regardless of sex or age
+cái,noun,cow,female of various species of mammal
 kem,noun,cream,oily part of milk
 cơ rem,noun,cream,oily part of milk
 kem sữa,noun,cream,oily part of milk
 váng sữa,noun,cream,oily part of milk
+màu kem,noun,cream,colour
+kem,noun,cream,product to apply to the skin
+cờ-rem,noun,cream,product to apply to the skin
 tạo,verb,create,to put into existence
 tạo nên,verb,create,to put into existence
 sáng tạo,verb,create,to put into existence
@@ -247,6 +415,8 @@ chén,noun,cup,drinking vessel
 ly,noun,cup,drinking vessel
 tách,noun,cup,drinking vessel
 cốc,noun,cup,drinking vessel
+cúp,noun,cup,trophy
+khách hàng,noun,customer,one who purchases or receives a product or service
 cắt,verb,cut,to perform an incision
 bố,noun,dad,informal: a father
 ba,noun,dad,informal: a father
@@ -261,14 +431,29 @@ người khiêu vũ,noun,dancer,person who dances
 vũ công,noun,dancer,person who dances
 nguy hiểm,adj,dangerous,full of danger
 tối,adj,dark,having an absolute or relative lack of light
+mờ ám,adj,dark,"hidden, secret"
 ngày,noun,date,"that which specifies the time of writing, inscription etc."
 ngày tháng,noun,date,"that which specifies the time of writing, inscription etc."
+ngày,noun,date,point of time at which a transaction or event takes place
+ngày tháng,noun,date,point of time at which a transaction or event takes place
+hẹn,noun,date,pre-arranged social meeting
+(sự) hẹn hò,noun,date,meeting with a lover or potential lover; a person so met
+(sự) hẹn gặp,noun,date,meeting with a lover or potential lover; a person so met
 trái chà là,noun,date,fruit of the date palm
 con gái,noun,daughter,female offspring
 ban ngày,noun,day,period between sunrise and sunset
+ngày,noun,day,period of 24 hours
+hôm,noun,day,period of 24 hours
+bữa,noun,day,period of 24 hours
+ngày,noun,day,period from midnight to the following midnight
+ban ngày,noun,day,"part of a day period which one spends at one's job, school, etc."
 thân,adj,dear,loved; lovable
 thân mến,adj,dear,loved; lovable
 thân ái,adj,dear,loved; lovable
+kính thưa,adj,dear,formal way of addressing
+thưa,adj,dear,formal way of addressing
+thân mến,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
+thân ái,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
 quyết định,verb,decide,to resolve or settle
 ngon,adj,delicious,pleasing to taste
 miêu tả,verb,describe,to represent in words
@@ -302,8 +487,18 @@ về nơi chín suối,verb,die,to stop living
 về nơi an nghỉ cuối cùng,verb,die,to stop living
 về cõi vĩnh hằng,verb,die,to stop living
 về suối vàng,verb,die,to stop living
+thất sủng,verb,die,to become hated or utterly ignored
+hú vía,verb,die,to be mortified or shocked
+hú hồn,verb,die,to be mortified or shocked
+hết hồn,verb,die,to be mortified or shocked
 chế độ ăn uống,noun,diet,food a person or animal consumes
+chế độ ăn kiêng,noun,diet,controlled regimen of food
 sự khác nhau,noun,difference,quality of being different
+sự khác biệt,noun,difference,characteristic of something that makes it different from something else
+sự khác nhau,noun,difference,characteristic of something that makes it different from something else
+sự bất đồng,noun,difference,disagreement or argument about something important
+hiệu số,noun,difference,arithmetic: result of a subtraction
+hiệu,noun,difference,arithmetic: result of a subtraction
 khác,adj,different,not the same
 khó,adj,difficult,"hard, not easy"
 khó khăn,adj,difficult,"hard, not easy"
@@ -312,9 +507,24 @@ bữa tối,noun,dinner,evening meal
 bẩn,adj,dirty,covered with or containing dirt
 bẩn thỉu,adj,dirty,covered with or containing dirt
 dơ,adj,dirty,covered with or containing dirt
+bẩn,adj,dirty,that makes one dirty
+bẩn thỉu,adj,dirty,that makes one dirty
+tục tĩu,adj,dirty,"morally unclean, obscene or indecent"
+bậy,adj,dirty,"morally unclean, obscene or indecent"
+bậy bạ,adj,dirty,"morally unclean, obscene or indecent"
+xấu,adj,dirty,"dishonourable, violating standards or rules"
+xấu xa,adj,dirty,"dishonourable, violating standards or rules"
+bất hợp pháp,adj,dirty,"illegal, improper"
+không hợp pháp,adj,dirty,"illegal, improper"
+trái luật,adj,dirty,"illegal, improper"
 thảo luận,verb,discuss,to converse or debate concerning a particular topic
 đĩa,noun,dish,vessel for holding/serving food
+món,noun,dish,specific type of food
+món ăn,noun,dish,specific type of food
+chảo,noun,dish,type of antenna
 có phải ... không (là),verb,do,in questions
+làm,verb,do,"perform, execute"
+được,verb,do,be reasonable or acceptable
 tiến sĩ,noun,doctor,person who has attained a doctorate
 chó,noun,dog,animal
 cẩu,noun,dog,animal
@@ -325,13 +535,22 @@ khuyển,noun,dog,animal
 đồng Mỹ,noun,dollar,designation for specific currency
 cửa,noun,door,"portal of entry into a building, room or vehicle"
 xuống,adv,down,"from a high to a low position, downwards"
+vào,adv,down,to the south
 vẽ,verb,draw,to produce a picture
 vạch,verb,draw,to produce a picture
 dựng lên,verb,draw,to produce a picture
 (quần áo) mặc,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+sửa soạn,verb,dress,to prepare the surface of (a material)
+sửa soạn,verb,dress,"to prepare (food) for cooking or eating, especially by seasoning it; to add a dressing or sauce (to food, especially a salad)"
+nêm,verb,dress,"to prepare (food) for cooking or eating, especially by seasoning it; to add a dressing or sauce (to food, especially a salad)"
 uống,verb,drink,consume liquid through the mouth
+uống rượu,verb,drink,consume alcoholic beverages
+uống say,verb,drink,consume alcoholic beverages
+nhậu,verb,drink,consume alcoholic beverages
 lái,verb,drive,to operate (a wheeled motorized vehicle)
 lái xe,verb,drive,to operate (a wheeled motorized vehicle)
+người lái,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+tài xế,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
 bông,noun,ear,fruiting body of a grain plant
 tai,noun,ear,organ of hearing
 sớm,adv,early,at a time before expected
@@ -340,23 +559,37 @@ dễ,adj,easy,requiring little skill or effort
 ăn,verb,eat,"to ingest — see also consume, ingest"
 ăn cơm,verb,eat,"to ingest — see also consume, ingest"
 xơi,verb,eat,"to ingest — see also consume, ingest"
+ăn cơm,verb,eat,eat a meal
 trứng,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+trứng,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 voi,noun,elephant,mammal
 gửi điện thư,verb,email,(transitive) to send an email or emails to
 gửi thư điện tử,verb,email,(transitive) to send an email or emails to
 gửi điện,verb,email,(transitive) to send an email or emails to
 kết thúc,verb,end,"intransitive: be finished, be terminated"
 hết,verb,end,"intransitive: be finished, be terminated"
+làm xong,verb,end,"transitive: finish, terminate (something)"
+hoàn thành,verb,end,"transitive: finish, terminate (something)"
+kết thúc,verb,end,"transitive: finish, terminate (something)"
+kết liễu,verb,end,"transitive: finish, terminate (something)"
 thưởng thức,verb,enjoy,to receive pleasure or satisfaction from something
+hưởng thụ,verb,enjoy,to have the use or benefit of something
 đủ,adv,enough,sufficiently
 euro,noun,euro,currency unit of the European Monetary Union
 Âu kim,noun,euro,currency unit of the European Monetary Union
+ngay cả,adv,even,implying extreme example
+thậm chí,adv,even,implying extreme example
+lại còn,adv,even,emphasising comparative
+lại,adv,even,emphasising comparative
+còn,adv,even,emphasising comparative
 chiều tối,noun,evening,time of day between dusk and night
 sự kiện,noun,event,occurrence
 sự việc,noun,event,occurrence
 bao giờ,adv,ever,always
+bao giờ,adv,ever,at any time
 ví dụ,noun,example,something representative of a group
 bị kích thích,adj,excited,having great enthusiasm and energy
+bị kích thích,adj,excited,being in a state of higher energy
 gây hứng thú,adj,exciting,causing excitement
 lý thú,adj,exciting,causing excitement
 luyện tập,verb,exercise,exert for the sake of training
@@ -368,16 +601,24 @@ giải thích,verb,explain,to make intelligible
 thêm,adj,extra,"beyond what is due, usual"
 mắt,noun,eye,organ
 mặt,noun,face,anatomy: front part of head
+mặt,noun,face,public image
+thể diện,noun,face,public image
 sự thật,noun,fact,an honest observation
+sự việc,noun,fact,something actual
+sự thật,noun,fact,something actual
 sai,adj,false,"untrue, not factual, wrong"
+sai,adj,false,state in Boolean logic that indicates a negative result
 nổi tiếng,adj,famous,well known
 nổi danh,adj,famous,well known
 trang trại,noun,farm,place where agricultural activities take place
 nông trường,noun,farm,place where agricultural activities take place
 nông dân,noun,farmer,person who works the land and/or who keeps livestock
+nhanh,adv,fast,with great speed
+mau,adv,fast,with great speed
 mập,adj,fat,carrying a larger than normal amount of fat on one's body
 béo,adj,fat,carrying a larger than normal amount of fat on one's body
 béo phì,adj,fat,carrying a larger than normal amount of fat on one's body
+dày,adj,fat,thick
 cha,noun,father,male parent
 ba,noun,father,male parent
 bố,noun,father,male parent
@@ -385,7 +626,14 @@ tía,noun,father,male parent
 thầy,noun,father,male parent
 cậu,noun,father,male parent
 bọ,noun,father,male parent
+ông,noun,father,term of address for an elderly man
+bác,noun,father,term of address for an elderly man
+chú,noun,father,term of address for an elderly man
+cha,noun,father,term of address for a priest
+cảm thấy,verb,feel,transitive: to experience an emotion or other mental state about
+mò,verb,feel,intransitive: to search by touching
 cảm giác,noun,feeling,sensation
+cảm xúc,noun,feeling,emotion; impression
 ngày hội,noun,festival,event or community gathering
 đại hội liên hoan,noun,festival,event or community gathering
 hội diễn,noun,festival,event or community gathering
@@ -396,12 +644,20 @@ tìm,verb,find,"encounter, locate, discover"
 kết thúc,verb,finish,to complete
 hoàn thành,verb,finish,to complete
 làm xong,verb,finish,to complete
+hết,verb,finish,to come to an end
 lửa,noun,fire,oxidation reaction
+lửa,noun,fire,instance of this chemical reaction
+vụ cháy,noun,fire,damaging occurrence of fire
+hoả hoạn,noun,fire,damaging occurrence of fire
+hoả,noun,fire,alchemy: one of the basic elements
+hoả lực,noun,fire,in-flight bullets
 trước tiên,adv,first,before anything else
 trước hết,adv,first,before anything else
 trước nhất,adv,first,before anything else
 cá,noun,fish,vertebrate animal
 chuyến bay,noun,flight,act of flying
+bay,noun,flight,journey made by an aircraft
+chuyến bay,noun,flight,journey made by an aircraft
 sàn,noun,floor,bottom part of a room
 nền,noun,floor,bottom part of a room
 hoa,noun,flower,reproductive structure in angiosperms
@@ -409,12 +665,23 @@ bông,noun,flower,reproductive structure in angiosperms
 bay,verb,fly,to travel through air
 theo,verb,follow,to go or come after in physical space
 đi theo,verb,follow,to go or come after in physical space
+theo sau,verb,follow,to go or come after in a sequence
+làm theo,verb,follow,to carry out in accordance to
+theo dõi,verb,follow,to keep track of
+theo dõi,verb,follow,to subscribe to see content from an account on a social media platform
+kéo theo,verb,follow,to be a logical consequence of
 thức ăn,noun,food,any substance consumed by living organisms to sustain life
 đồ ăn,noun,food,any substance consumed by living organisms to sustain life
 thực phẩm,noun,food,any substance consumed by living organisms to sustain life
 bàn chân,noun,foot,part of human body
+chân,noun,foot,part of animal’s body
+foot,noun,foot,unit of measure
+bộ,noun,foot,unit of measure
 bóng đá,noun,football,association football
 quên,verb,forget,to lose remembrance of
+quên,verb,forget,to unintentionally not do
+quên,verb,forget,to leave behind
+quên,verb,forget,to cease remembering
 làm thành,verb,form,to give shape
 tạo thành,verb,form,to give shape
 nặn thành,verb,form,to give shape
@@ -424,23 +691,41 @@ thiết lập,verb,form,to give shape
 thành lập,verb,form,to give shape
 sáng lập,verb,form,to give shape
 tạo,verb,form,to give shape
+hình thành,verb,form,(intransitive) to take shape
+thành hình,verb,form,(intransitive) to take shape
+cấu tạo,verb,form,(linguistics) to create a word
 tự do,adj,free,not imprisoned
+tự do,adj,free,unconstrained
+rỗi,adj,free,without obligations
 người bạn,noun,friend,person whose company one enjoys
 bạn,noun,friend,person whose company one enjoys
 thân thiện,adj,friendly,"approachable, warm"
 quả,noun,fruit,part of plant
 trái,noun,fruit,part of plant
 trái cây,noun,fruit,part of plant
+trái cây,noun,fruit,food
 đầy,adj,full,containing the maximum possible amount
+đầy đủ,adj,full,complete
+toàn phần,adj,full,complete
+cả,adj,full,"total, entire"
+tất cả,adj,full,"total, entire"
+no,adj,full,"satisfied, in relation to eating"
+no nê,adj,full,"satisfied, in relation to eating"
+no bụng,adj,full,"satisfied, in relation to eating"
 buồn cười,adj,funny,amusing; comical
 ngồ ngộ,adj,funny,amusing; comical
 khôi hài,adj,funny,amusing; comical
+là lạ,adj,funny,strange; unusual
 tương lai,noun,future,the time ahead
 trò chơi,noun,game,"playful activity that may be unstructured, amusement, pastime"
+thi đấu,noun,game,particular instance of playing a game; match
 vườn,noun,garden,piece of land outside with flowers and plants
+vườn rau,noun,garden,grounds at the front or back of a house
 địa lý học,noun,geography,study of physical structure and inhabitants of the Earth
 được,verb,get,to obtain
 lấy,verb,get,to obtain
+nhận được,verb,get,to receive
+nhận,verb,get,to receive
 cô gái,noun,girl,young female person
 con gái,noun,girl,young female person
 gái,noun,girl,young female person
@@ -448,10 +733,21 @@ bạn gái,noun,girlfriend,a female partner in a romantic relationship
 người yêu,noun,girlfriend,a female partner in a romantic relationship
 cho,verb,give,transfer the possession of something to someone else
 thuỷ tinh,noun,glass,substance
+ly,noun,glass,drinking vessel
+cốc,noun,glass,drinking vessel
 đi,verb,go,to move through space (especially from one place to another)
+chạy,verb,go,"of a machine, to work"
+vận hành,verb,go,"of a machine, to work"
+biến mất,verb,go,to disappear
+bị phá hủy,verb,go,to be destroyed
 tốt,adj,good,acting in the interest of good; ethical good intentions
 hay,adj,good,acting in the interest of good; ethical good intentions
 tuyệt,adj,good,acting in the interest of good; ethical good intentions
+tốt,adj,good,useful for a particular purpose
+ngon,adj,good,"of food, having a particularly pleasant taste"
+giỏi,adj,good,"of people, competent or talented"
+khá,adj,good,"of people, competent or talented"
+khá,adj,good,effective
 câu tạm biệt; lời tạm biệt; việc tạm biệt,noun,goodbye,an utterance of goodbye
 ông,noun,grandfather,grandfather (from either side)
 ôông,noun,grandfather,grandfather (from either side)
@@ -461,13 +757,19 @@ bà nội,noun,grandmother,mother of someone's parent
 màu xám,noun,gray,colour
 vĩ đại,adj,great,"very big, large scale"
 tuyệt quá,adj,great,"very big, large scale"
+tuyệt,adj,great,very good
+Cả,adj,great,important title
 (màu) xanh,noun,green,colour
 (màu) xanh lá cây,noun,green,colour
 (màu) xanh lục,noun,green,colour
 lục,noun,green,colour
+đảng viên đảng Xanh,noun,green,member of a green party
 nhóm,noun,group,number of things or persons being in some relation to each other
 lớn,verb,grow,(intransitive) to become bigger
 lớn lên,verb,grow,(intransitive) to become bigger
+mọc,verb,grow,(intransitive) to appear or sprout
+nuôi lớn,verb,grow,(transitive) to cause something to become bigger
+nuôi,verb,grow,(transitive) to cause something to become bigger
 sự đoán,noun,guess,prediction about the outcome of something
 đàn ghi-ta,noun,guitar,musical instrument
 ghi-ta,noun,guitar,musical instrument
@@ -476,29 +778,64 @@ tây ban cầm,noun,guitar,musical instrument
 phòng thể dục,noun,gym,sporting facility specialized for lifting weights and exercise
 phòng tập thể dục,noun,gym,sporting facility specialized for lifting weights and exercise
 phòng thi đấu,noun,gym,sporting facility specialized for lifting weights and exercise
+tóc,noun,hair,mass of such filaments on the human head
+lông,noun,hair,mass of such filaments growing from the skin of humans and animals
 nửa,noun,half,one of two equal parts into which anything may be divided
 tay,noun,hand,part of the fore limb
+kim,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+phía,noun,hand,"side; part; direction, either right or left"
+bên,noun,hand,"side; part; direction, either right or left"
+hướng,noun,hand,"side; part; direction, either right or left"
+mặt,noun,hand,"side; part; direction, either right or left"
+công nhân,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+nhân công,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+thủy thủ,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+chữ viết,noun,hand,handwriting; style of penmanship
+tay,noun,hand,personal possession; ownership
+quyền,noun,hand,personal possession; ownership
+quyền hành,noun,hand,personal possession; ownership
+ván (a),noun,hand,"that which is, or may be, held in a hand at once"
+buộc (b),noun,hand,"that which is, or may be, held in a hand at once"
+ván,noun,hand,set of cards held by a player in a card game
+nải,noun,hand,bunch of bananas
+tay,noun,hand,"actual performance; deed; act; workmanship; agency; hence, manner of performance."
 xảy ra,verb,happen,to occur
 xảy đến,verb,happen,to occur
 mừng,adj,happy,"contented, joyous"
 vui,adj,happy,"contented, joyous"
 hạnh phúc,adj,happy,"contented, joyous"
+sướng,adj,happy,"fortunate, lucky"
+sung sướng,adj,happy,"fortunate, lucky"
+may,adj,happy,"fortunate, lucky"
+may mắn,adj,happy,"fortunate, lucky"
+hạnh phúc,adj,happy,"fortunate, lucky"
+vui lòng,adj,happy,content (to do something); having no objection (to something)
+tài tình,adj,happy,"appropriate, apt, felicitous"
 mũ,noun,hat,a head covering
 nón,noun,hat,a head covering
 ghét,verb,hate,to dislike intensely
 có,verb,have,to possess
 đầu,noun,head,part of the body
+con,noun,head,measure word for livestock and game
 sức khỏe,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 khỏe mạnh,adj,healthy,enjoying good health
+tốt cho sức khỏe,adj,healthy,conducive to health
 nghe,verb,hear,to perceive with the ear
 giúp,noun,help,action given to provide assistance
 giúp đỡ,noun,help,action given to provide assistance
 trợ giúp,noun,help,action given to provide assistance
 hỗ trợ,noun,help,action given to provide assistance
 tại đây,adv,here,"in, on, or at this place"
+đây,adv,here,to this place
+bên này,adv,here,to this place
 cao cấp,adj,high,elevated; tall
 cao,adj,high,elevated; tall
+phê,adj,high,slang: under the influence of drugs
 lịch sử,noun,history,aggregate of past events
+lịch sử,noun,history,branch of knowledge that studies the past
+lịch sử,noun,history,record or narrative description of past events
+lịch sử,noun,history,medicine: list of past and continuing medical conditions
+lịch sử,noun,history,computing: record of previous user events
 sở thích riêng,noun,hobby,activity done for enjoyment in spare time
 sở thích,noun,hobby,activity done for enjoyment in spare time
 bài tập,noun,homework,work that is done at home
@@ -510,6 +847,11 @@ bệnh viện,noun,hospital,large medical facility
 nhà thương,noun,hospital,large medical facility
 y viện,noun,hospital,large medical facility
 nóng,adj,hot,having a high temperature
+(thời tiết) nóng,adj,hot,of the weather
+nóng,adj,hot,of the weather
+nóng,adj,hot,of the weather
+nóng,adj,hot,of the weather
+cay,adj,hot,spicy
 khách sạn,noun,hotel,establishment providing accommodation
 lữ quán,noun,hotel,establishment providing accommodation
 ô ten,noun,hotel,establishment providing accommodation
@@ -517,20 +859,31 @@ giờ,noun,hour,time period of sixty minutes
 tiếng,noun,hour,time period of sixty minutes
 nhà,noun,house,human abode
 nhà ở,noun,house,human abode
+nghị viện,noun,house,debating chamber for government politicians
 thế nào,adv,how,to what degree
 làm sao,adv,how,to what degree
 sao,adv,how,to what degree
+như thế nào,adv,how,in what manner
+làm sao,adv,how,in what manner
+sao,adv,how,in what manner
+sao,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+làm sao,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 tuy nhiên,adv,however,nevertheless
 đói,adj,hungry,affected by hunger; desirous of food
 chồng,noun,husband,male partner in marriage
 băng,noun,ice,water in frozen form
 đá,noun,ice,water in frozen form
 kem,noun,ice cream,dessert
+ý định,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+tư tưởng,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+ý niệm,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 tưởng tượng,verb,imagine,(transitive) to form a mental image of something
 quan trọng,adj,important,having relevant and crucial value
 trọng yếu,adj,important,having relevant and crucial value
 cải thiện,verb,improve,to make something better
 cải tiến,verb,improve,to make something better
+cải thiện,verb,improve,to become better
+bao gồm,verb,include,"to contain, as part of a whole"
 thông tin,noun,information,communicable knowledge
 làm... chú ý,verb,interest,to attract attention or concern
 thú vị,adj,interesting,arousing or holding the attention
@@ -539,36 +892,76 @@ phỏng vấn,verb,interview,to have an interview
 giới thiệu,verb,introduce,to cause someone to be acquainted
 đảo,noun,island,area of land completely surrounded by water
 áo vét tông,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+áo tây,noun,jacket,piece of a person's suit
+áo vét,noun,jacket,piece of a person's suit
 jeans,noun,jeans,denim trousers
 quần jeans,noun,jeans,denim trousers
 quần bò,noun,jeans,denim trousers
 công việc,noun,job,task
+nghề,noun,job,economic role for which a person is paid
 nước ép,noun,juice,liquid from a plant
+nước ép,noun,juice,beverage made of juice
+nước,noun,juice,beverage made of juice
 chỉ,adv,just,"only, simply, merely"
+chỉ việc,adv,just,used to reduce the force of an imperative
+chỉ cần,adv,just,used to reduce the force of an imperative
+một chút,adv,just,used to convey a less serious or formal tone
+một tí,adv,just,used to convey a less serious or formal tone
+thử xem,adv,just,used to convey a less serious or formal tone
+hoàn toàn,adv,just,"absolutely, positively"
+thật là,adv,just,"absolutely, positively"
+thật đúng là,adv,just,"absolutely, positively"
+vừa,adv,just,"recently, moments ago"
+vừa mới,adv,just,"recently, moments ago"
+chỉ vừa,adv,just,"by a narrow margin, barely"
+vừa đúng,adv,just,"by a narrow margin, barely"
+vừa đủ,adv,just,"by a narrow margin, barely"
+vừa kịp,adv,just,"by a narrow margin, barely"
+đúng,adv,just,"exactly, precisely, perfectly"
+chính,adv,just,"exactly, precisely, perfectly"
 giữ,verb,keep,to maintain possession of
+tiếp tục,verb,keep,to continue
+cứ,verb,keep,to continue
 loại,noun,kind,"type, race, category"
 nhà bếp,noun,kitchen,room
 bếp,noun,kitchen,room
 biết,verb,know,be justifiably certain or sure about (something true)
+làm quen,verb,know,be acquainted or familiar with
 đất,noun,land,part of Earth that is not covered by oceans or other bodies of water
+quốc gia,noun,land,country or region
+tổ quốc,noun,land,someone's homeplace
 tiếng,noun,language,body of words used as a form of communication
 ngôn ngữ,noun,language,body of words used as a form of communication
 tiếng nói,noun,language,body of words used as a form of communication
+ngôn ngữ,noun,language,nonverbal communication
+ngôn ngữ,noun,language,vocabulary of a particular field
+biệt ngữ,noun,language,vocabulary of a particular field
+từ vựng,noun,language,vocabulary of a particular field
+thuật ngữ,noun,language,vocabulary of a particular field
+ngôn ngữ,noun,language,computer language — see also computer language
+ngôn ngữ máy tính,noun,language,computer language — see also computer language
 rộng,adj,large,of greater size — see also big
+sau,adv,later,afterward in time
 tiếng cười,noun,laugh,expression of mirth peculiar to the human species
 học,verb,learn,to acquire knowledge or ability
 học tập,verb,learn,to acquire knowledge or ability
 rời,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+bỏ,verb,leave,"to depart from, end one's connection or affiliation with"
+rời khỏi,verb,leave,to depart (intransitive)
 chân,noun,leg,lower limb from groin to ankle
 giò,noun,leg,lower limb from groin to ankle
 cẳng,noun,leg,lower limb from groin to ankle
 bài,noun,lesson,section of learning or teaching
 bài học,noun,lesson,section of learning or teaching
+bài học,noun,lesson,something learned
+bài học,noun,lesson,something that serves as a warning or encouragement
 trở,verb,let,allow
 để,verb,let,allow
 chữ cái,noun,letter,a symbol in an alphabet
 kí tự,noun,letter,a symbol in an alphabet
+thư,noun,letter,written message
 thư viện,noun,library,"institution which holds books, etc."
+thư viện,noun,library,collection of subprograms
 nói dối,verb,lie,tell an intentional untruth
 nói láo,verb,lie,tell an intentional untruth
 nằm,verb,lie,be in horizontal position
@@ -578,22 +971,51 @@ sinh mệnh,noun,life,the state of being alive
 sinh mạng,noun,life,the state of being alive
 sáng,adj,light,having light
 sáng sủa,adj,light,having light
+nhạt,adj,light,pale in colour
+nhẹ,adj,light,coffee: served with extra milk or cream
+nhiều sữa,adj,light,coffee: served with extra milk or cream
+nhiều kem,adj,light,coffee: served with extra milk or cream
 nhẹ,adj,light,of low weight
 nhẹ nhàng,adj,light,of low weight
+nhẹ,adj,light,lightly-built
+nhanh nhẹn,adj,light,lightly-built
+nhẹ,adj,light,"low in fat, calories, alcohol, salt, etc."
+tầm thường,adj,light,of little significance
 thích,verb,like,to enjoy
+thích,verb,like,to find attractive
+đường,noun,line,"path through two or more points, threadlike mark"
+hàng,noun,line,"straight sequence of people, queue"
+dòng,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+hàng,noun,line,"single horizontal row of text on a screen, printed paper, etc."
 sư tử,noun,lion,big cat Panthera leo
 liệt kê,verb,list,to create or recite a list
 nghe,verb,listen,to pay attention to a sound
 lắng nghe,verb,listen,to pay attention to a sound
+chờ đợi,verb,listen,to expect or wait for a sound
+chờ,verb,listen,to expect or wait for a sound
+đợi cho,verb,listen,to expect or wait for a sound
+nghe theo,verb,listen,to accept advice or obey instruction
+tuân theo,verb,listen,to accept advice or obey instruction
+vâng lời,verb,listen,to accept advice or obey instruction
+nghe,verb,listen,to hear (something)
+để ý đến,verb,listen,to hear (something)
 nhỏ,adj,little,small in size
 sống,verb,live,be alive
+ở,verb,live,have permanent residence
+sống,verb,live,have permanent residence
 địa phương,adj,local,of a nearby location
 nhìn,verb,look,to try to see
 dòm,verb,look,to try to see
 nhòm,verb,look,to try to see
 ngó,verb,look,to try to see
 mất,verb,lose,cause (something) to cease to be in one's possession or capability
+thua,verb,lose,(transitive) fail to win
+mất,verb,lose,have (somebody of one's kin) die
+băng hà,verb,lose,have (somebody of one's kin) die
 yêu,verb,love,have a strong affection for
+yêu,verb,love,be strongly inclined towards doing
+yêu,verb,love,care about; will good for
+yêu,verb,love,(euphemistic): to have sex with
 bữa trưa,noun,lunch,meal around midday
 bữa ăn trưa,noun,lunch,meal around midday
 máy,noun,machine,mechanical or electrical device
@@ -602,10 +1024,22 @@ tạp chí,noun,magazine,periodical
 chính,adj,main,"chief, most important, or principal in extent, etc."
 chủ yếu,adj,main,"chief, most important, or principal in extent, etc."
 làm,verb,make,to construct
+phố đi bộ,noun,mall,pedestrianized street
+trung tâm thương mại,noun,mall,enclosed shopping centre
+trung tâm mua sắm,noun,mall,enclosed shopping centre
+thương xá,noun,mall,enclosed shopping centre
 đàn ông,noun,man,adult male human
+người,noun,man,a human being
+con người,noun,man,a human being
+loài người,noun,man,a human being
 bản đồ,noun,map,visual representation of an area
 địa đồ,noun,map,visual representation of an area
+ánh xạ,noun,map,function
 chợ,noun,market,gathering for trading
+chợ,noun,market,spacious site for trading
+thị trường,noun,market,group of potential customers
+thị trường,noun,market,geographical area where a commercial demand exists
+thị trường,noun,market,formally organized system of trading in specified goods or effects
 kết hôn,adj,married,in a state of marriage; having a wife or a husband
 thành lập gia đình,adj,married,in a state of marriage; having a wife or a husband
 cưới,adj,married,in a state of marriage; having a wife or a husband
@@ -615,24 +1049,48 @@ có chồng,adj,married,in a state of marriage; having a wife or a husband
 có lẽ,adv,maybe,indicating a lack of certainty
 bữa,noun,meal,food that is prepared and eaten
 bữa cơm,noun,meal,food that is prepared and eaten
+nghĩa là,verb,mean,"to convey, indicate"
+có nghĩa là,verb,mean,to signify
 nghĩa,noun,meaning,symbolic value of something
 ý nghĩa,noun,meaning,symbolic value of something
 ý vị,noun,meaning,symbolic value of something
+nghĩa,noun,meaning,"significance of a thing, as ""the meaning of life"""
+ý nghĩa,noun,meaning,"significance of a thing, as ""the meaning of life"""
+ý vị,noun,meaning,"significance of a thing, as ""the meaning of life"""
+nghĩa,noun,meaning,definition or connotation of a word
+ý nghĩa,noun,meaning,definition or connotation of a word
 thịt,noun,meat,animal flesh used as food
 gặp,verb,meet,to come face to face with by accident; to encounter
+làm quen,verb,meet,to get acquainted with
 gặp gỡ,noun,meeting,action noun of the verb to meet
+hội nghị,noun,meeting,gathering for a purpose
+hội họp,noun,meeting,gathering for a purpose
 hội viên,noun,member,one who officially belongs to a group
 thành viên,noun,member,one who officially belongs to a group
 thực đơn,noun,menu,details of the food to be served at a banquet
+thực đơn,noun,menu,list of dishes offered in a restaurant
+bảng kê món ăn,noun,menu,list of dishes offered in a restaurant
+trình đơn,noun,menu,computing: list from which the user may select an operation to be performed
+danh mục,noun,menu,computing: list from which the user may select an operation to be performed
+bảng chọn,noun,menu,computing: list from which the user may select an operation to be performed
 tin nhắn,noun,message,"communication, concept or information conveyed"
 cái đo,noun,meter,measuring instrument
 người đo,noun,meter,measuring instrument
+nửa đêm,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
+đêm,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 dặm,noun,mile,measure of length
 sữa,noun,milk,liquid
 phút,noun,minute,unit of time
+lát,noun,minute,short but unspecified period of time
+chốc,noun,minute,short but unspecified period of time
+phút,noun,minute,unit of angular measure — see also minute of angle
+biên bản,noun,minute,record of meeting
 trật,verb,miss,to fail to hit
 trượt,verb,miss,to fail to hit
 hụt,verb,miss,to fail to hit
+nhớ,verb,miss,to feel the absence of someone or something; to feel the want or need of
+lỡ,verb,miss,to fail to attend
+trễ,verb,miss,to be late for something
 lỗi,noun,mistake,an error
 người mẫu,noun,model,person
 hiện đại,adj,modern,pertaining to the current time and style
@@ -640,11 +1098,13 @@ chốc,noun,moment,very brief period of time
 chốc lát,noun,moment,very brief period of time
 giây lát,noun,moment,very brief period of time
 khoảnh khắc,noun,moment,very brief period of time
+mô men,noun,moment,moment of force
 tiền,noun,money,means of exchange and measure of value
 đồng,noun,money,means of exchange and measure of value
 bạc,noun,money,means of exchange and measure of value
 tháng,noun,month,period into which a year is divided
 buổi sáng,noun,morning,part of the day between dawn and midday
+buổi sáng,noun,morning,the part of the day after midnight and before midday
 mẹ,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 má,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 mạ,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
@@ -655,8 +1115,18 @@ u,noun,mother,"female (human) who parents a child, gives birth to a baby, or is 
 nạ,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 đẻ,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 cái,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+má,noun,mother,one’s female parent
+mẹ,noun,mother,one’s female parent
+mợ,noun,mother,one’s female parent
+u,noun,mother,one’s female parent
+mạ,noun,mother,one’s female parent
+nạ,noun,mother,one’s female parent
+bầm,noun,mother,one’s female parent
+mệ,noun,mother,one’s female parent
 núi,noun,mountain,large mass of earth and rock
 chuột,noun,mouse,rodent of the genus Mus
+chuột,noun,mouse,computing: input device
+chuột máy tính,noun,mouse,computing: input device
 miệng,noun,mouth,the opening of a creature through which food is ingested
 mồm,noun,mouth,the opening of a creature through which food is ingested
 chuyển động,verb,move,(intransitive) to change place or posture; to go
@@ -668,13 +1138,25 @@ viện bảo tàng,noun,museum,building or institution
 phải,verb,must,be required to
 đặt tên,verb,name,to give a name to
 cho tên,verb,name,to give a name to
+chọn,verb,name,"to mention, specify"
+nhận,verb,name,to publicly implicate
 gần,adv,near,at or towards a position close in space or time
 cần,verb,need,to have an absolute requirement for
+cần,verb,need,to want strongly
+muốn,verb,need,to want strongly
+cần phải,verb,need,to be obliged to
 tiêu cực,adj,negative,not positive or neutral
+âm,adj,negative,of electrical charge
+âm,adj,negative,mathematics: less than zero
+phủ định,adj,negative,linguistics: denying a proposition
+lân cận,noun,neighborhood,topology: set containing an open set which contains some specified point
 không bao giờ,adv,never,at no time
 mới,adj,new,recently made or created
 tin tức,noun,news,new information of interest
 tin,noun,news,new information of interest
+bản tin,noun,news,reports of current events
+tin,noun,news,reports of current events
+thời sự,noun,news,reports of current events
 tờ báo,noun,newspaper,publication
 báo,noun,newspaper,publication
 báo chí,noun,newspaper,publication
@@ -683,26 +1165,57 @@ tốt,adj,nice,"pleasant, satisfactory"
 tối,noun,night,period between sunset and sunrise
 ban đêm,noun,night,period between sunset and sunrise
 khuya,noun,night,period between sunset and sunrise
+đêm,noun,night,evening or night spent at a particular activity
+đêm,noun,night,night spent away from home
+đêm,noun,night,quality of sleep obtained during a night
+đêm ngủ,noun,night,quality of sleep obtained during a night
+tối,noun,night,nightfall
+tối,noun,night,darkness
 mũi,noun,nose,protuberance on the face
 không,adv,not,negates meaning of another word
 chẳng,adv,not,negates meaning of another word
 chả,adv,not,negates meaning of another word
+bút ký,noun,note,memorandum
+âm phù,noun,note,character indicating the length and pitch of a tone
+âm phù,noun,note,musical sound
+nốt nhạc,noun,note,musical sound
 bây giờ,adv,now,at the present time
 hiện tại,adv,now,at the present time
 số,noun,number,abstract entity used to describe quantity
+số,noun,number,numeral
+số,noun,number,used to show the rank of something in a list or sequence
+số,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+số,noun,number,"grammar: state of being singular, dual or plural"
 y tá,noun,nurse,person trained to provide care for the sick
+bảo mẫu,noun,nurse,person who takes care of other people's young
+bảo mỗ,noun,nurse,person who takes care of other people's young
 đồ vật,noun,object,thing
 vật thể,noun,object,thing
+tân ngữ,noun,object,in grammar
+đối tượng,noun,object,person or thing to which an emotion is directed
+đối tượng,noun,object,object-oriented programming: instantiation of a class or structure
 đại dương,noun,ocean,one of the large bodies of water
+văn phòng,noun,office,room(s) or building used for non-manual work
 thường,adv,often,"frequently, many times"
 hay,adv,often,"frequently, many times"
 luôn,adv,often,"frequently, many times"
 thường hay,adv,often,"frequently, many times"
 cũ,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+già,adj,old,of a living being: having lived for relatively many years
+cựu,adj,old,former
+tuổi,adj,old,having existed or lived for the specified time
+cũ,adj,old,"(of an item) used, not new"
+chán,adj,old,tiresome
 một lần,adv,once,one and only one time
+từng,adv,once,formerly
+đã từng,adv,once,formerly
 hành tây,noun,onion,Allium cepa
 hành,noun,onion,Allium cepa
+trực tuyến,adj,online,available over the Internet
+trên mạng,adj,online,available over the Internet
 chỉ,adv,only,without others or anything further; exclusively
+chỉ,adv,only,no more than
+chỉ mới,adv,only,as recently as
 mở,verb,open,to make something accessible
 ý kiến,noun,opinion,thought a person has formed about a topic
 kiến giải,noun,opinion,thought a person has formed about a topic
@@ -710,6 +1223,11 @@ kiến giải,noun,opinion,thought a person has formed about a topic
 đối diện,adv,opposite,in an opposite position
 xếp,verb,order,to set in (any) order
 đặt,verb,order,to set in (any) order
+ra lệnh,verb,order,to issue a command
+hạ lệnh,verb,order,to issue a command
+truyền lệnh,verb,order,to issue a command
+gọi,verb,order,to request some product or service
+đặt,verb,order,to request some product or service
 riêng,adj,own,belonging to (determiner)
 trang,noun,page,one side of a leaf of a book
 nước sơn,noun,paint,substance
@@ -717,20 +1235,33 @@ bức tranh,noun,painting,an illustration or artwork using paint
 bức vẽ,noun,painting,an illustration or artwork using paint
 đôi,noun,pair,two similar or identical things
 cặp,noun,pair,two similar or identical things
+cặp,noun,pair,two people in a relationship
 quần lót dài,noun,pants,garment covering the body from the waist downwards
 quần,noun,pants,garment covering the body from the waist downwards
 giấy,noun,paper,sheet material
+bài văn,noun,paper,written document shorter than a book
 đoạn,noun,paragraph,passage in text
 phụ huynh,noun,parent,person from whom one is descended
+mẹ,noun,parent,computing: object from which a child or derived object is descended
 đậu,verb,park,bring (a vehicle) to a halt
 đỗ,verb,park,bring (a vehicle) to a halt
 phần,noun,part,fraction of a whole
 đồng liêu,noun,partner,someone who is associated with another in a common activity or interest
 đồng nghiệp,noun,partner,someone who is associated with another in a common activity or interest
+đối tác,noun,partner,a member of a business or law partnership
 bên,noun,party,law: particular side in a contract or legal action
+phe,noun,party,"group of people forming one side in a given dispute, contest etc."
+phe đảng,noun,party,"group of people forming one side in a given dispute, contest etc."
+bên,noun,party,"group of people forming one side in a given dispute, contest etc."
+đội,noun,party,military: discrete detachment of troops
+tiệc,noun,party,social gathering
+nhóm,noun,party,group of people travelling or attending an event together
+tổ đội,noun,party,online gaming: player characters organized into a single group
 hộ chiếu,noun,passport,official document for foreign travel
 giấy thông hành,noun,passport,official document for foreign travel
 quá khứ,noun,past,period of time that has already happened
+thời quá khứ,noun,past,(grammar) past tense
+thì quá khứ,noun,past,(grammar) past tense
 trả,verb,pay,to give money in exchange for goods or services
 thanh toán,verb,pay,to give money in exchange for goods or services
 bút mực,noun,pen,writing tool
@@ -742,9 +1273,24 @@ bút,noun,pen,writing tool
 bút chì,noun,pencil,graphite writing-instrument
 viết chì,noun,pencil,graphite writing-instrument
 người,noun,people,a body of human beings; a group of two or more persons
+nhân dân,noun,people,a group of persons forming or belonging to a particular nation etc.
+dân tộc,noun,people,a group of persons forming or belonging to a particular nation etc.
+dân,noun,people,a group of persons regarded as being employees etc.
+nhân viên,noun,people,a group of persons regarded as being employees etc.
+gia đình,noun,people,"a person's ancestors, relatives or family"
 tiêu,noun,pepper,plant
+tiêu,noun,pepper,spice
 hoàn toàn,adj,perfect,fitting its definition precisely
+hoàn hảo,adj,perfect,without fault or mistake
+hoàn mĩ,adj,perfect,excellent and delightful in all respects
+hoàn thành,adj,perfect,grammar: of a tense or verb form: representing a completed action
+đúng,adj,perfect,"music: interval or any compound interval of a unison, octave, or fourths and fifths that are not tritones."
+giai đoạn,noun,period,history: period of time seen as coherent entity
+thời kì,noun,period,history: period of time seen as coherent entity
+tiết,noun,period,division of school day
+kỉ,noun,period,geochronologic unit
 người,noun,person,individual
+ngôi,noun,person,grammar: linguistic category
 gọi điện thoại,verb,phone,to call (someone) on the telephone
 gọi điện,verb,phone,to call (someone) on the telephone
 kêu điện thoại,verb,phone,to call (someone) on the telephone
@@ -754,8 +1300,11 @@ hình,noun,photograph,picture
 ảnh,noun,photograph,picture
 cụm từ,noun,phrase,short written or spoken expression
 câu,noun,phrase,short written or spoken expression
+cụm từ,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
 dương cầm,noun,piano,a keyboard musical instrument
 hình ảnh,noun,picture,"representation of visible reality produced by drawing, etc"
+hình,noun,picture,photograph
+tấm hình,noun,picture,photograph
 miếng,noun,piece,part of a larger whole
 mảnh,noun,piece,part of a larger whole
 mẩu,noun,piece,part of a larger whole
@@ -766,7 +1315,12 @@ hồng,noun,pink,pale red colour
 nơi,noun,place,"location, position"
 chỗ,noun,place,"location, position"
 chốn,noun,place,"location, position"
+quảng trường,noun,place,"open space, courtyard, market square"
+ghế,noun,place,"area one occupies, particularly for sitting"
 cây tiêu huyền,noun,plane,deciduous tree
+mặt phẳng,noun,plane,geometry: flat surface extending infinitely in all directions
+trình độ,noun,plane,level of existence
+mức,noun,plane,level of existence
 bào,noun,plane,a tool
 máy bay,noun,plane,airplane
 tàu bay,noun,plane,airplane
@@ -774,22 +1328,45 @@ thực vật,noun,plant,organism capable of photosynthesis
 cây,noun,plant,organism capable of photosynthesis
 chơi,noun,play,playful activity
 trò chơi,noun,play,playful activity
+vở kịch,noun,play,literary composition intended to be represented
+kịch nói,noun,play,theatrical performance
 cầu thủ,noun,player,one who plays any game or sport
+dân chơi,noun,player,"person ""playing the field"""
+ý,noun,point,opinion which adds to the discussion
+ý tưởng,noun,point,opinion which adds to the discussion
+nơi,noun,point,location or place
+điểm,noun,point,geometry: zero-dimensional object
+đầu nhọn,noun,point,sharp tip
 cảnh sát,noun,police,local or general law enforcement agency
 công an,noun,police,local or general law enforcement agency
 bể,noun,pool,body of water
+vũng,noun,pool,small body of standing or stagnant water; a puddle
+bi-a,noun,pool,cue sport played on a pool table
 nghèo,adj,poor,with few or no possessions or money
 khó,adj,poor,with few or no possessions or money
 nhân dân,adj,popular,of or pertaining to the common people
 bình nhân,adj,popular,of or pertaining to the common people
+đại chúng,adj,popular,aimed at the general public
+phổ cập,adj,popular,aimed at the general public
+phổ biến,adj,popular,liked by many people
+nổi tiếng,adj,popular,liked by many people
+dương,adj,positive,mathematics: greater than zero
+dương,adj,positive,physics: having more protons than electrons
 có thể,adj,possible,able but not certain to happen
 dán,verb,post,hang a notice in a conspicuous manner
+yết,verb,post,hold up to public blame or reproach
+đăng,verb,post,send to an electronic forum
 gửi,verb,post,send mail
 gởi,verb,post,send mail
+đăng,verb,post,(Internet) publish a message
 khoai tây,noun,potato,plant tuber eaten as starchy vegetable
 cân Anh,noun,pound,unit of mass (16 ounces avoirdupois)
 pound,noun,pound,unit of mass (16 ounces avoirdupois)
 pao,noun,pound,unit of mass (16 ounces avoirdupois)
+cân Anh,noun,pound,unit of mass (12 troy ounces)
+pound,noun,pound,unit of mass (12 troy ounces)
+pao,noun,pound,unit of mass (12 troy ounces)
+bảng,noun,pound,unit of currency
 thích hơn,verb,prefer,to favor
 chuẩn bị,verb,prepare,to make ready for a specific future purpose
 hiện tại,noun,present,current time
@@ -801,8 +1378,11 @@ có thể,adv,probably,in all likelihood
 vấn đề,noun,problem,difficulty
 sản phẩm,noun,product,commodity for sale
 hàng hoá,noun,product,commodity for sale
+tích,noun,product,multiplication result
 chương trình,noun,program,set of structured activities
 kế hoạch,noun,program,set of structured activities
+chương trình,noun,program,performance of a show or other broadcast on radio or television
+chương trình,noun,program,software application
 kế hoạch,noun,project,planned endeavor
 đề án,noun,project,planned endeavor
 dự án,noun,project,planned endeavor
@@ -817,22 +1397,46 @@ mau,adv,quickly,"rapidly, fast"
 lẹ,adv,quickly,"rapidly, fast"
 yên tĩnh,adj,quiet,with little sound
 im lặng,adj,quiet,with little sound
+khá,adv,quite,to a moderate extent
 ra đi ô truyền thanh,noun,radio,technology
 vô tuyến truyền thanh,noun,radio,technology
 vô tuyến điện,noun,radio,technology
+ra đi ô,noun,radio,receiver
+máy thu thanh,noun,radio,receiver
 mưa,verb,rain,of rain: to fall from the sky
 đọc,verb,read,to look at and interpret letters or other information
+đọc,verb,read,to speak aloud words or other information that is written
+chỉ,verb,read,to consist of certain text
+đề,verb,read,to consist of certain text
+viết,verb,read,"of text, etc., to be interpreted or read in a particular way"
+ghi,verb,read,"of text, etc., to be interpreted or read in a particular way"
+học,verb,read,to make a study of
+nghiên cứu,verb,read,to make a study of
 sự đọc,noun,reading,process of interpreting written language
 sẵn sàng,adj,ready,prepared for immediate action or use
 thật,adj,real,"true, genuine, not merely nominal"
 thiệt,adj,real,"true, genuine, not merely nominal"
 thực,adj,real,"true, genuine, not merely nominal"
+thật,adj,real,that has physical existence
+thiệt,adj,real,that has physical existence
+thực,adj,real,that has physical existence
+thật sự,adj,real,"absolute, complete, utter"
+thiệt sự,adj,real,"absolute, complete, utter"
+thực sự,adj,real,"absolute, complete, utter"
 thật sự,adv,really,actually
+rất,adv,really,"informally, as an intensifier; very, very much"
 lý do,noun,reason,that which causes: a cause
 nguyên nhân,noun,reason,that which causes: a cause
+lý do,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+nguyên nhân,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+lý trí,noun,reason,(the capacity of the human mind for) rational thinking
 đỏ,noun,red,colour
+đỏ,noun,red,"socialist, communist"
 bình tĩnh,verb,relax,to calm down
 nhớ,verb,remember,to recall from one's memory
+nhớ,verb,remember,to memorize
+thuộc,verb,remember,to memorize
+thuộc lòng,verb,remember,to memorize
 lặp,verb,repeat,do or say again
 lặp lại,verb,repeat,do or say again
 báo cáo,noun,report,information describing events
@@ -845,31 +1449,68 @@ hàng,noun,restaurant,an eating establishment in which diners are served food
 kết quả,noun,result,that which results
 lúa,noun,rice,plants
 穭,noun,rice,plants
+gạo,noun,rice,seeds used as food
+cơm,noun,rice,seeds used as food
 giàu,adj,rich,having wealth
 lái,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 cưỡi,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 cỡi,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+quyền lợi,noun,right,legal or moral entitlement
+quyền,noun,right,legal or moral entitlement
+bên phải,noun,right,"right, not left, side"
+cánh hữu,noun,right,right-wing politicians and parties
 sông,noun,river,large stream which drains a landmass
 giang,noun,river,large stream which drains a landmass
 hà,noun,river,large stream which drains a landmass
 đường,noun,road,a way for travel
 đường bộ,noun,road,a way for travel
+không gian,noun,room,space
+chỗ,noun,room,space
+buồng,noun,room,division in a building
+phòng,noun,room,division in a building
 quy tắc,noun,rule,regulation
 quy luật,noun,rule,regulation
 quy định,noun,rule,regulation
 thể lệ,noun,rule,regulation
 chạy,verb,run,to move quickly on two feet
+chảy,verb,run,to flow
+buồn,adj,sad,feeling sorrow
+buồn bả,adj,sad,feeling sorrow
+buồn rầu,adj,sad,feeling sorrow
+đáng buồn,adj,sad,"causing sorrow, lamentable"
 muối,noun,salt,sodium chloride
 bánh mì kẹp,noun,sandwich,dish — see also open sandwich
 xăng-uých,noun,sandwich,dish — see also open sandwich
 xăng-đuých,noun,sandwich,dish — see also open sandwich
 nói,verb,say,"to say, to tell"
+nói,verb,say,to pronounce
+đọc,verb,say,to recite
 trường,noun,school,an institution dedicated to teaching and learning
 trường học,noun,school,an institution dedicated to teaching and learning
+trường,noun,school,college or university
+đại học,noun,school,college or university
+trường đại học,noun,school,college or university
+phân khoa,noun,school,a department/institute at a college or university
+phân khoa đại học,noun,school,a department/institute at a college or university
+trường phái,noun,school,(collectively) the followers of a particular doctrine
 khoa học,noun,science,collective discipline of learning acquired through the scientific method
+ngành khoa học,noun,science,particular discipline or branch of learning
+môn khoa học,noun,science,particular discipline or branch of learning
+tri thức,noun,science,fact of knowing something
+kiến thức,noun,science,fact of knowing something
+tri thức,noun,science,knowledge gained through study or practice
+kiến thức,noun,science,knowledge gained through study or practice
 nhà khoa học,noun,scientist,one whose activities make use of the scientific method
 giây,noun,second,one-sixtieth of a minute; SI unit of time
+(góc) giây,noun,second,unit of angular measure
+giây lát,noun,second,"short, indeterminate amount of time"
+chốc,noun,second,"short, indeterminate amount of time"
+lúc,noun,second,"short, indeterminate amount of time"
 (người) phụ tá,noun,second,attendant of a duel or boxing match standing in for a contestant
+hạng nhì,noun,second,place next below first in a race or contest
+hạng hai,noun,second,place next below first in a race or contest
+phần,noun,section,"part, piece or subdivision of anything"
+bộ phận,noun,section,"part, piece or subdivision of anything"
 nhìn thấy,verb,see,perceive with the eyes
 xem xét,verb,see,perceive with the eyes
 thấy,verb,see,perceive with the eyes
@@ -877,8 +1518,15 @@ xem,verb,see,perceive with the eyes
 bán,verb,sell,to agree to transfer goods or provide services for payment
 gửi,verb,send,make something go somewhere
 bản án,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+án,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+câu,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 chia sẻ,verb,share,to give
 sẻ chia,verb,share,to give
+đều có,verb,share,to have in common
+có chung,verb,share,to have in common
+phân chia,verb,share,to divide and distribute
+phân phối,verb,share,to divide and distribute
+chia sẻ,verb,share,to tell to another
 cừu,noun,sheep,animal
 áo sơ mi,noun,shirt,article of clothing
 sơ mi,noun,shirt,article of clothing
@@ -887,9 +1535,18 @@ giày,noun,shoe,protective covering for the foot
 sự đi mua hàng,noun,shopping,activity of buying
 mua sắm,noun,shopping,activity of buying
 ngắn,adj,short,having a small distance between ends or edges
+thấp,adj,short,"of a person, of comparatively small height"
+lùn,adj,short,"of a person, of comparatively small height"
 nên,verb,should,expressing obligation
 biểu diễn,noun,show,entertainment
 trình diễn,noun,show,entertainment
+triển lãm,noun,show,exhibition — see also exhibition
+chương trình,noun,show,broadcast program(me)
+vòi sen,noun,shower,device for bathing
+vòi hoa sen,noun,shower,device for bathing
+vòi tắm,noun,shower,device for bathing
+hoa sen,noun,shower,device for bathing
+mưa rào,noun,shower,instance of using of this device
 giống,adj,similar,"having traits or characteristics in common; alike, comparable"
 tựa,adj,similar,"having traits or characteristics in common; alike, comparable"
 như,adj,similar,"having traits or characteristics in common; alike, comparable"
@@ -901,25 +1558,39 @@ ca sĩ,noun,singer,person who sings (male or generic term)
 chị or chị gái,noun,sister,woman or girl having the same parents
 em gái,noun,sister,woman or girl having the same parents
 em,noun,sister,woman or girl having the same parents
+chị em,noun,sister,attributively: of an entity that has a special relationship with another
+(có) liên quan,noun,sister,attributively: of an entity that has a special relationship with another
 ngồi,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 tình hình,noun,situation,combination of circumstances at a given moment; state of affairs
+tình thế,noun,situation,position vis-à-vis surroundings
+tình hình,noun,situation,position vis-à-vis surroundings
+vị trí,noun,situation,location
+địa điểm,noun,situation,location
 váy,noun,skirt,article of clothing
+vạt,noun,skirt,loose edging to any part of a dress
 ngủ,verb,sleep,to rest in state of reduced consciousness
 ngủ gục,verb,sleep,to rest in state of reduced consciousness
 chậm,adj,slow,not quick in motion
 chậm chạp,adj,slow,not quick in motion
 nhỏ,adj,small,not large
 bé,adj,small,not large
+thông minh,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+thông tuệ,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+lanh lợi,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+giỏi,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 rắn,noun,snake,legless reptile
 có tuyết rơi,verb,snow,have snow fall from the atmosphere
 rất,adv,so,very
 lắm,adv,so,very
 lém,adv,so,very
+vậy,adv,so,to a particular extent
+như vậy,adv,so,to a particular extent
 thỉnh thoảng,adv,sometimes,"on certain occasions, but not always"
 con trai,noun,son,a male person in relation to his parents
 bài hát,noun,song,music with words
 ca,noun,song,music with words
 ca khúc,noun,song,music with words
+ca hát,noun,song,the act or art of singing
 sớm,adv,soon,within a short time
 chẳng bao lâu nữa,adv,soon,within a short time
 kêu vang,verb,sound,to produce a sound
@@ -929,12 +1600,22 @@ nước lèo,noun,soup,dish
 súp,noun,soup,dish
 soup,noun,soup,dish
 xúp,noun,soup,dish
+khoảng,noun,space,physical extent in two or three dimensions
+chỗ,noun,space,physical extent in two or three dimensions
+không gian,noun,space,physical extent in two or three dimensions
+không gian,noun,space,area beyond atmosphere of planets
+khoảng không,noun,space,area beyond atmosphere of planets
+không gian,noun,space,geometry: set of points
+không gian,noun,space,mathematics: generalized construct or set
 nói,verb,speak,to communicate with one's voice using words
+biết nói,verb,speak,to be able to communicate in a language
 đặc biệt,adj,special,distinguished by a unique or unusual quality
+đánh vần,verb,spell,to compose a word
 tiêu,verb,spend,to pay out
 thể thao,noun,sport,any athletic activity that uses physical skills
 mùa xuân,noun,spring,season between winter and summer in temperate climates
 xuân,noun,spring,season between winter and summer in temperate climates
+lò xo,noun,spring,device made of flexible material
 đứng,verb,stand,to support oneself on the feet in an erect position
 sao,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 bắt đầu,verb,start,to begin
@@ -942,7 +1623,13 @@ nhà ga,noun,station,place where a vehicle may stop
 bến,noun,station,place where a vehicle may stop
 trạm,noun,station,place where a vehicle may stop
 ga,noun,station,place where a vehicle may stop
+bến,noun,station,place where one stands or stays
+trạm,noun,station,place where one stands or stays
+đài,noun,station,place used for broadcasting
+đài,noun,station,broadcasting entity
+kênh,noun,station,broadcasting entity
 ở,verb,stay,to remain in a particular place
+còn,adv,still,"up to a time, as in the preceding time"
 bến xe,noun,stop,place to get on and off mass transport
 chuyện,noun,story,account of events
 tự sự,noun,story,account of events
@@ -950,46 +1637,111 @@ tự sự,noun,story,account of events
 đường phố,noun,street,paved part of road in a village or a town
 phố,noun,street,paved part of road in a village or a town
 mạnh,adj,strong,capable of producing great physical force
+chắc,adj,strong,capable of withstanding great physical force
 học sinh,noun,student,person who studies a subject
 sinh viên,noun,student,person who studies a subject
+sinh viên,noun,student,person enrolled at a university — see also university student
+học,verb,study,to take a course
+học,verb,study,to acquire knowledge
 vòi nhụy,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+cách điệu,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+kiểu dáng,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+phong cách,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 chủ ngữ,noun,subject,in grammar
+chủ đề,noun,subject,main topic
+môn học,noun,subject,particular area of study
 sự thành công,noun,success,achievement of one's aim or goal
 thành công,noun,success,achievement of one's aim or goal
 đường,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 chất đường,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+đường,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
+chất đường,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
 mùa hè,noun,summer,hottest season
 mùa hạ,noun,summer,hottest season
 hạ,noun,summer,hottest season
 hè,noun,summer,hottest season
 mặt trời,noun,sun,"a star, especially when seen as the centre of any single solar system"
 siêu thị,noun,supermarket,store
+chắc chắn,adj,sure,certain in one's knowledge or belief
 áo săng-đay,noun,sweater,knitted jacket worn by athletes before or after exercise
 áo pu-lơ-vơ,noun,sweater,knitted jacket worn by athletes before or after exercise
+áo len,noun,sweater,similar garment worn for warmth
 bơi,verb,swim,move through water
 tắm,verb,swim,move through water
 bơi lội,noun,swimming,human activity of moving oneself through water
 bàn,noun,table,item of furniture
+bảng,noun,table,grid of data in rows and columns
+bảng kế,noun,table,grid of data in rows and columns
+biểu,noun,table,grid of data in rows and columns
+bảng,noun,table,collection of arithmetic calculations
+bảng kế,noun,table,collection of arithmetic calculations
+biểu,noun,table,collection of arithmetic calculations
 nắm,verb,take,to get into one's hands or control
 lấy,verb,take,to get into one's hands or control
 nắm lấy,verb,take,to get into one's hands or control
 cầm,verb,take,to get into one's hands or control
+nắm,verb,take,to get into one's possession
+lấy,verb,take,to get into one's possession
+nắm lấy,verb,take,to get into one's possession
+bắt,verb,take,to seize or capture
+bắt giữ,verb,take,to seize or capture
+chiếm,verb,take,to seize or capture
+chiếm lấy,verb,take,to seize or capture
+bắt,verb,take,to catch fish or game
+lấy,verb,take,to appropriate or transfer into one's own possession
+nhận,verb,take,to receive or accept
+theo,verb,take,"to accept and follow advice, etc."
+nghe theo,verb,take,"to accept and follow advice, etc."
+nhận,verb,take,to receive into some relationship
+lấy,verb,take,to grab and move to oneself
+nắm,verb,take,to grab and move to oneself
+nắm lấy,verb,take,to grab and move to oneself
+chiếm,verb,take,to gain a position by force
+chiếm giữ,verb,take,to gain a position by force
+mang,verb,take,to carry
+mang theo,verb,take,to carry
+đem,verb,take,to carry
+đem theo,verb,take,to carry
+đưa,verb,take,to lead or convey
+dẫn,verb,take,to lead or convey
+dắt,verb,take,to lead or convey
+chọn,verb,take,to choose
+chịu,verb,take,to support or carry without failing or breaking
+chịu,verb,take,to endure
+chịu đựng,verb,take,to endure
+uống,verb,take,to ingest medicine
+coi như,verb,take,to assume or interpret to be
+cho là,verb,take,to assume or interpret to be
+xem như,verb,take,to assume or interpret to be
+mất,verb,take,to last or expend (an amount of time)
+lấy,verb,take,"a photo, film, fingerprints, etc."
+chụp,verb,take,"a photo, film, fingerprints, etc."
+quay,verb,take,"a photo, film, fingerprints, etc."
+đi,verb,take,9. (transitive) to use as a means of transportation.
 nói,verb,talk,to communicate by speech
 nói chuyện,verb,talk,to communicate by speech
 nói được,verb,talk,to communicate by speech
 trò chuyện,verb,talk,to communicate by speech
 cao,adj,tall,of a person
+cao,adj,tall,of a building
 xe tắc xi,noun,taxi,vehicle available for public hire
 tắc xi,noun,taxi,vehicle available for public hire
 trà,noun,tea,dried leaves of tea plant
 chè,noun,tea,dried leaves of tea plant
 lá trà,noun,tea,dried leaves of tea plant
 lá chè,noun,tea,dried leaves of tea plant
+trà,noun,tea,drink made from leaves of tea plant
+chè,noun,tea,drink made from leaves of tea plant
+nước trà,noun,tea,drink made from leaves of tea plant
+nước chè,noun,tea,drink made from leaves of tea plant
 dạy,verb,teach,to pass on knowledge
 dạy học,verb,teach,to pass on knowledge
 dạy bảo,verb,teach,to pass on knowledge
 dạy dỗ,verb,teach,to pass on knowledge
 giáo viên,noun,teacher,person who teaches
+cô giáo,noun,teacher,woman who teaches
+đội,noun,team,group of people
+ban,noun,team,group of people
 thiếu niên,noun,teenager,person aged between thirteen and nineteen
 gọi điện thoại,verb,telephone,to call someone
 gọi điện,verb,telephone,to call someone
@@ -1001,6 +1753,14 @@ truyền hình,noun,television,medium
 TV,noun,television,medium
 ti vi,noun,television,medium
 vô tuyến truyền hình,noun,television,medium
+máy thu hình,noun,television,device for receiving television signals
+TV,noun,television,device for receiving television signals
+ti-vi,noun,television,device for receiving television signals
+truyền hình,noun,television,program broadcasting
+TV,noun,television,program broadcasting
+ti-vi,noun,television,program broadcasting
+vô tuyến truyền hình,noun,television,program broadcasting
+phát hình,noun,television,program broadcasting
 kể,verb,tell,to pass information
 bảo,verb,tell,to pass information
 nói,verb,tell,to pass information
@@ -1009,6 +1769,9 @@ ten-nít,noun,tennis,sport played by two or four players with strung racquets
 khủng khiếp,adj,terrible,dreadful; causing alarm or fear
 thử,verb,test,to challenge
 thử thách,verb,test,to challenge
+đưa bài thi,verb,test,to administer an examination during the academic term
+kiểm thử,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+kiểm tra,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 văn bản,noun,text,a written passage
 cám ơn,verb,thank,to express appreciation or gratitude toward (someone or something)
 biết ơn,verb,thank,to express appreciation or gratitude toward (someone or something)
@@ -1018,25 +1781,60 @@ khi đó,adv,then,at that time
 lúc đó,adv,then,at that time
 lúc ấy,adv,then,at that time
 hồi đó,adv,then,at that time
+sau đó,adv,then,soon afterward
+rồi,adv,then,soon afterward
+xong rồi,adv,then,soon afterward
+rồi,adv,then,next in order
+rồi đến,adv,then,next in order
+rồi tới,adv,then,next in order
+thì,adv,then,in that case
+thế thì,adv,then,in that case
+vậy thì,adv,then,in that case
 đằng kia,adv,there,in or at that place
 đó,adv,there,in or at that place
+đằng kia,adv,there,to or into that place; thither
 vật,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 điều,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 thứ,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+nghĩ,verb,think,communicate to oneself in one’s mind
+suy nghĩ,verb,think,communicate to oneself in one’s mind
+thấy,verb,think,to conceive of something or someone
 khát,adj,thirsty,needing to drink
 vé,noun,ticket,admission to entertainment
+vé,noun,ticket,pass for transportation
+vé lên tàu,noun,ticket,pass for transportation
+thẻ lên tàu,noun,ticket,pass for transportation
+(tờ) giấy phạt,noun,ticket,traffic citation
+liên danh,noun,ticket,informal: list of candidates
+danh sách ứng viên,noun,ticket,informal: list of candidates
 thời gian,noun,time,inevitable passing of events
+thời gian,noun,time,quantity of availability in time
+lần,noun,time,instance or occurrence
 mệt mỏi,adj,tired,in need of rest or sleep
 mệt nhọc,adj,tired,in need of rest or sleep
+tên,noun,title,"name of a book, etc"
+tên gọi,noun,title,"name of a book, etc"
 bữa nay,noun,today,today (noun)
 hôm nay,noun,today,today (noun)
 cùng nhau,adv,together,"at the same time, in the same place"
 với nhau,adv,together,"at the same time, in the same place"
+vệ sinh,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+nhà vệ sinh,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+phòng vệ sinh,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+cầu tiêu,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+nhà cầu,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toa-lét,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+xí bệt,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+cầu tiêu,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 cà chua,noun,tomato,tomato plant
+cà chua,noun,tomato,fruit
 tối nay,noun,tonight,nighttime today
 đêm nay,noun,tonight,nighttime today
 cũng,adv,too,likewise
+quá,adv,too,more than enough; as too much
 răng,noun,tooth,anatomy: tooth
+răng,noun,tooth,saw tooth
+răng,noun,tooth,gear tooth
 chủ đề,noun,topic,subject; theme
 khách du lịch,noun,tourist,someone who travels for pleasure
 tỉnh,noun,town,settlement
@@ -1044,16 +1842,31 @@ thành phố,noun,town,settlement
 thị trấn,noun,town,settlement
 sự giao thông,noun,traffic,pedestrians or vehicles on roads or on the air
 giao thông,noun,traffic,pedestrians or vehicles on roads or on the air
+xe lửa,noun,train,line of connected cars or carriages
+tàu hỏa,noun,train,line of connected cars or carriages
+tàu lửa,noun,train,line of connected cars or carriages
+hỏa xa,noun,train,line of connected cars or carriages
 sự du lịch,noun,travel,act of traveling
 sự lữ hành,noun,travel,act of traveling
 cây,noun,tree,large woody plant
+cần,noun,tree,slang: marijuana
 chuyến,noun,trip,journey
+xe tải,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 thật,adj,true,concurring with a given set of facts
 phải,adj,true,concurring with a given set of facts
+đích thực,adj,true,"genuine, legitimate"
 cố gắng,verb,try,to attempt
 gắng,verb,try,to attempt
+thử nghiệm,verb,try,to make an experiment
+thử,verb,try,"to taste, sample, etc"
+xét xử,verb,try,to put on trial
+lượt,noun,turn,chance to use (something) shared in sequence with others
+phiên,noun,turn,chance to use (something) shared in sequence with others
+lượt,noun,turn,one's chance to make a move in a game
 loại,noun,type,grouping based on shared characteristics
 kiểu,noun,type,grouping based on shared characteristics
+chữ in,noun,type,printing block letter/character
+kiểu,noun,type,computing theory: tag indicating data type
 dù,noun,umbrella,cloth-covered frame used for protection against rain or sun
 ô,noun,umbrella,cloth-covered frame used for protection against rain or sun
 bác,noun,uncle,brother (or brother-in-law) of someone’s parent
@@ -1067,11 +1880,18 @@ dùng,verb,use,"employ, apply"
 xài,verb,use,"employ, apply"
 sử dụng,verb,use,"employ, apply"
 có ích,adj,useful,having a practical or beneficial use
+nghỉ lễ,noun,vacation,official holiday period
+kì nghỉ,noun,vacation,period of leisure time
 rau,noun,vegetable,a plant raised for some edible part of it
+thực vật,noun,vegetable,any plant
+người thực vật,noun,vegetable,a person whose brain has been damaged
 rất,adv,very,to a high degree
 lắm,adv,very,to a high degree
 quá,adv,very,to a high degree
 vi-đê-ô,noun,video,"television show, movie"
+vi-đê-ô,noun,video,film clip
+vi-đê-ô,noun,video,motion picture stored on VHS
+băng hình,noun,video,VHS
 đi thăm,noun,visit,single act of visiting
 khách,noun,visitor,guest
 đợi,verb,wait,delay until some event
@@ -1081,8 +1901,10 @@ người hầu bàn,noun,waiter,a server in a restaurant or similar
 chị hầu bàn,noun,waiter,a server in a restaurant or similar
 bồi,noun,waiter,a server in a restaurant or similar
 thức dậy,verb,wake,to stop sleeping
+đánh thức,verb,wake,to make somebody stop sleeping
 sự đi dạo,noun,walk,trip made by walking
 tường,noun,wall,defensive rampart
+tường,noun,wall,substantial structure acting as side or division in a building
 muốn,verb,want,to desire
 cần,verb,want,to desire
 ấm,adj,warm,having a temperature slightly higher than usual
@@ -1090,6 +1912,9 @@ rửa,verb,wash,to clean with water
 giặt,verb,wash,to clean with water
 đồng hồ,noun,watch,portable or wearable timepiece
 nước,noun,water,inorganic compound H₂O
+thuỷ,noun,water,one of the basic elements
+lối,noun,way,means to enter or leave
+cách,noun,way,method or manner
 mặc,verb,wear,to have on (clothes or accessories)
 đeo,verb,wear,to have on (clothes or accessories)
 đi,verb,wear,to have on (clothes or accessories)
@@ -1106,16 +1931,25 @@ khỏe,adj,well,in good health
 mạnh,adj,well,in good health
 khi nào,adv,when,"at what time, as a direct question"
 bao giờ,adv,when,"at what time, as a direct question"
+bao giờ,adv,when,"at what time, as an indirect question"
 ở đâu,adv,where,at what place; to what place; from what place
+đâu,adv,where,at or in which place
+ở đâu,adv,where,in what situation
+nơi,adv,where,the place in which
+chỗ,adv,where,the place in which
 trắng,noun,white,color
+người trắng,noun,white,person of European descent
+người bạch,noun,white,person of European descent
 sao,adv,why,for what reason
 vì sao,adv,why,for what reason
 tại sao,adv,why,for what reason
 vợ,noun,wife,female partner in a marriage
+sẽ,verb,will,indicating future action
 thắng,verb,win,transitive: achieve victory in
 chiến thắng,verb,win,transitive: achieve victory in
 thắng lợi,verb,win,transitive: achieve victory in
 cửa sổ,noun,window,opening for light and air
+cửa sổ,noun,window,area on a computer screen
 rượu vàng,noun,wine,alcoholic beverage made from grapes
 rượu vang,noun,wine,alcoholic beverage made from grapes
 mùa đông,noun,winter,"fourth season, marked by short days and the lowest temperatures"
@@ -1128,15 +1962,25 @@ nhời,noun,word,unit of language
 tiếng,noun,word,unit of language
 việc làm,noun,work,"labour, employment, occupation, job"
 công việc,noun,work,"labour, employment, occupation, job"
+tác phẩm,noun,work,"literary, artistic, or intellectual production"
 công nhân,noun,worker,person who performs labor
 thế giới,noun,world,human collective existence
+vũ trụ,noun,world,the universe
+trái đất,noun,world,the Earth
 viết,verb,write,"to form letters, etc."
 ghi,verb,write,"to form letters, etc."
+viết,verb,write,to be the author of
+ghi,verb,write,record (data)
 nhà văn,noun,writer,person who writes; an author
 chữ viết,noun,writing,written letters or symbols
 sai,adj,wrong,incorrect
 không đúng,adj,wrong,incorrect
+xấu,adj,wrong,immoral
+không tốt,adj,wrong,immoral
 sân,noun,yard,land around a house
+sân,noun,yard,enclosed area for a specific purpose
+thước Anh,noun,yard,three feet
+yard,noun,yard,three feet
 năm,noun,year,time it takes for the Earth to complete one revolution around the Sun
 hoàng,noun,yellow,color
 vàng,noun,yellow,color

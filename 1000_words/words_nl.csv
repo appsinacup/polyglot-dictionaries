@@ -7,24 +7,73 @@ donderdag,noun,Thursday,day of the week
 dinsdag,noun,Tuesday,day of the week
 woensdag,noun,Wednesday,day of the week
 rond,adv,about,on all sides
+rond-,adv,about,here and there
+ongeveer,adv,about,"nearly, approximately"
+vrijwel,adv,about,"nearly, approximately"
+bijna,adv,about,"nearly, approximately"
+nabij,adv,about,near; in the vicinity
+dichtbij,adv,about,near; in the vicinity
+om-,adv,about,"to a reversed order, or opposite direction"
+in tegenovergestelde richting,adv,about,"to a reversed order, or opposite direction"
+overstag,adv,about,nautical: to the opposite tack
+afwisselend,adv,about,in succession; one after another
+beurtelings,adv,about,in succession; one after another
+rond,adv,about,in circuit
+boven,adv,above,in a higher place
+hierboven,adv,above,in a higher place
+handeling,noun,action,something done so as to accomplish a purpose
+actie,noun,action,something done so as to accomplish a purpose
+beweging,noun,action,way of motion or functioning
+werking,noun,action,way of motion or functioning
+actie,noun,action,fast-paced activity
+actie,noun,action,slang: intercourse
+actie,noun,action,military: combat
 activiteit,noun,activity,state or quality of being active
 actief,noun,activity,state or quality of being active
+activiteit,noun,activity,something done as an action or a movement
+beweging,noun,activity,something done as an action or a movement
+werkzaamheid,noun,activity,something done as an action or a movement
+activiteit,noun,activity,something done for pleasure or entertainment
 acteur,noun,actor,person who performs in a theatrical play or film — see also actress
 actrice,noun,actor,person who performs in a theatrical play or film — see also actress
 toneelspeler,noun,actor,person who performs in a theatrical play or film — see also actress
 toneelspeelster,noun,actor,person who performs in a theatrical play or film — see also actress
+doener,noun,actor,one who acts; a doer
 actrice,noun,actress,female actor — see also actor
 toevoegen,verb,add,to append (e.g. a statement); to say further information; to add on
+toevoegen,verb,add,to make an addition; to augment; to increase; to add on
+optellen,verb,add,"to perform the arithmetical operation of addition, to add up"
+adres,noun,address,description of the location of a property; direction for correspondence
 volwassene,noun,adult,fully grown human
 raad,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 advies,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
+aankondiging,noun,advice,information or notice given
 bang,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 bevreesd,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 namiddag,noun,afternoon,part of the day between noon and evening
 weer,adv,again,back to a former place or state
 weder,adv,again,back to a former place or state
+opnieuw,adv,again,another time
+nogmaals,adv,again,another time
+weer,adv,again,another time
+alweer,adv,again,another time
+wederom,adv,again,another time
+ook al weer,adv,again,used in a question to ask something one has forgotten
 leeftijd,noun,age,amount of time since the birth of a being or the beginning of a thing
 ouderdom,noun,age,amount of time since the birth of a being or the beginning of a thing
+ouderdom,noun,age,state of being old; latter part of life
+leeftijd,noun,age,one of the stages of life
+volwassenheid,noun,age,time of life at which one attains full personal rights and capacities
+meerderjarigheid,noun,age,time of life at which one attains full personal rights and capacities
+tijdperk,noun,age,particular period of time in history
+era,noun,age,particular period of time in history
+tijd,noun,age,particular period of time in history
+epoch,noun,age,particular period of time in history
+tijdperk,noun,age,great period in the history of the Earth
+era,noun,age,great period in the history of the Earth
+generatie,noun,age,generation — see also generation
+leeftijd,noun,age,lifespan
+ouderdom,noun,age,lifespan
 overeenkomen,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 afspreken,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 instemmen,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
@@ -32,7 +81,14 @@ overeenstemmen,verb,agree,harmonize in opinion; be in unison or concord; be unit
 toestemmen,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 rijmen,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
 het eens zijn met,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+overeenstemmen,verb,agree,"to resemble, coincide, correspond"
+congrueren,verb,agree,"grammar: to correspond in gender, number, case, person, etc."
 lucht,noun,air,historical: one of the basic elements
+lucht,noun,air,mixture of gases making up the atmosphere of the Earth
+air,noun,air,"sense of poise, graciousness, quality"
+air,noun,air,"pretension, snobbishness"
+leegte,noun,air,informal: absence of anything
+leemte,noun,air,informal: absence of anything
 luchthaven,noun,airport,place designated for airplanes
 vlieghaven,noun,airport,place designated for airplanes
 ook,adv,also,in addition; besides; as well; further; too
@@ -42,33 +98,64 @@ altijd,adv,always,at all times
 immer,adv,always,at all times
 altoos,adv,always,at all times
 steeds,adv,always,at all times
+steeds,adv,always,"constantly during a certain period, or regularly at stated intervals"
+altijd,adv,always,"constantly during a certain period, or regularly at stated intervals"
+telkens,adv,always,"constantly during a certain period, or regularly at stated intervals"
 wonderbaarlijk,adj,amazing,causing wonder and amazement
 verbluffend,adj,amazing,causing wonder and amazement
 kwaad,adj,angry,displaying anger
 boos,adj,angry,displaying anger
 dier,noun,animal,organism
 beest,noun,animal,organism
+beest,noun,animal,person who behaves wildly
 antwoorden,verb,answer,to make a reply or response to
+beantwoorden,verb,answer,to respond to a call
+beantwoorden,verb,answer,to suit a need or purpose satisfactorily
 woning,noun,apartment,domicile occupying part of a building
 appartement,noun,apartment,domicile occupying part of a building
 flat,noun,apartment,domicile occupying part of a building
 appel,noun,apple,fruit of Malus domestica
 oppervlakte,noun,area,maths: measure of extent of a surface
+regio,noun,area,particular geographic region
+streek,noun,area,particular geographic region
+gebied,noun,area,particular geographic region
 wapen,noun,arm,weapon
+wapen,noun,arm,heraldic bearings
+wapenschild,noun,arm,heraldic bearings
 arm,noun,arm,upper appendage from shoulder to wrist
 bereiken,verb,arrive,to reach
 aankomen,verb,arrive,to reach
 arriveren,verb,arrive,to reach
+aankomen,verb,arrive,to get to a certain place
+arriveren,verb,arrive,to get to a certain place
+bereiken,verb,arrive,to get to a certain place
+bereiken,verb,arrive,to obtain a level of success or fame
+het gemaakt hebben,verb,arrive,to obtain a level of success or fame
 kunst,noun,art,human effort
+kunst,noun,art,conscious production or arrangement
+kunst,noun,art,skillful creative activity
+kunst,noun,art,study
+kunstwerk,noun,art,aesthetic value
+kunst,noun,art,skill
 artikel,noun,article,"story, report, or opinion piece"
+artikel,noun,article,member of a group or class
+lidwoord,noun,article,part of speech that specifies a noun
+artikel,noun,article,section of a legal document
 kunstenaar,noun,artist,person who creates art
 kunstenares,noun,artist,person who creates art
 artiest,noun,artist,person who creates art
+kunstenaar,noun,artist,person who creates art as an occupation
+kunstenares,noun,artist,person who creates art as an occupation
+artiest,noun,artist,person who creates art as an occupation
+artiest,noun,artist,skilled person
 vragen,verb,ask,request an answer
+vragen,verb,ask,make a request
 tante,noun,aunt,a parent's sister or sister-in-law
+tante,noun,aunt,"affectionate term for an older woman, by means of fictive kin"
 weg,adv,away,from a place; hence
 angstaanjagend,adj,awesome,causing awe or terror
 beangstigend,adj,awesome,causing awe or terror
+indrukwekkend,adj,awesome,"excellent, exciting"
 baby,noun,baby,very young human being
 zuigeling,noun,baby,very young human being
 geborene,noun,baby,very young human being
@@ -76,40 +163,129 @@ pasgeborene,noun,baby,very young human being
 nieuwgeborene,noun,baby,very young human being
 boreling,noun,baby,very young human being
 wiegenkind,noun,baby,very young human being
+jong,noun,baby,young animal
+kleintje,noun,baby,young animal
+baby,noun,baby,immature or infantile person
+kleuter,noun,baby,immature or infantile person
+stuk,noun,baby,form of address to a man or a woman considered to be attractive
+schatje,noun,baby,form of address to a man or a woman considered to be attractive
+liefje,noun,baby,form of address to a man or a woman considered to be attractive
+kindje,noun,baby,pet project
+benjamin,noun,baby,lastborn of a family
 terug,adv,back,to or in a previous condition or place
+tegen,adv,back,in a manner that impedes
 slecht,adj,bad,unfavorable; negative
+ongepast,adj,bad,not suitable or fitting
+ongepast,adj,bad,"not appropriate, of manners etc."
+ongemanierd,adj,bad,"not appropriate, of manners etc."
+verkeerd,adj,bad,"not appropriate, of manners etc."
+onaangenaam,adj,bad,tricky; stressful; unpleasant
+naar,adj,bad,tricky; stressful; unpleasant
+slecht,adj,bad,"evil, wicked"
+kwaad,adj,bad,"evil, wicked"
 zak,noun,bag,flexible container
 tas,noun,bag,flexible container
+zakje,noun,bag,paper (or plastic) container given or sold to shoppers
+tasje,noun,bag,paper (or plastic) container given or sold to shoppers
 bal,noun,ball,formal dance
 gala,noun,ball,formal dance
 bol,noun,ball,solid or hollow sphere
+bal,noun,ball,"object, generally spherical, used for playing games"
+kloot,noun,ball,"object, generally spherical, used for playing games"
+bolletje,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+bolleke,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+kluwen,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+kogel,noun,ball,ballistics: a solid nonexplosive missile
+bal,noun,ball,testicle — see also testicle
+kloot,noun,ball,testicle — see also testicle
+ballen,noun,ball,mildly vulgar slang: nonsense
+kloten,noun,ball,mildly vulgar slang: nonsense
+kloten aan z’n lijf,noun,ball,in plural — slang — courage
 banaan,noun,banana,fruit
 pisang,noun,banana,fruit
 bacove,noun,banana,fruit
+bananenplant,noun,banana,plant
+bananengeel,noun,banana,color
 oever,noun,bank,edge of river or lake
+helling,noun,bank,incline of an aircraft
 bank,noun,bank,institution
+bank,noun,bank,branch office
+-bank,noun,bank,storage for important goods
 bar,noun,bar,unit of pressure
 stang,noun,bar,solid object with uniform cross-section
 staaf,noun,bar,solid object with uniform cross-section
 baar,noun,bar,solid object with uniform cross-section
 blok,noun,bar,solid object with uniform cross-section
+staaf,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+baar,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+stang,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+blok,noun,bar,cuboid piece of any commodity
+stuk,noun,bar,cuboid piece of any commodity
+reep,noun,bar,cuboid piece of any commodity
+blok,noun,bar,"long, narrow drawn or printed rectangle, cuboid or cylinder"
+bar,noun,bar,business licensed to sell intoxicating beverages
+café,noun,bar,business licensed to sell intoxicating beverages
+taveerne,noun,bar,business licensed to sell intoxicating beverages
+kroeg,noun,bar,business licensed to sell intoxicating beverages
+bar,noun,bar,counter of such premises
+toog,noun,bar,counter of such premises
+tapkast,noun,bar,counter of such premises
+bar,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+verbod,noun,bar,official order prohibiting some activity
+ban,noun,bar,official order prohibiting some activity
+advocatuur,noun,bar,law: collective term for lawyers
+balie,noun,bar,law: collective term for lawyers
+advocatuur,noun,bar,law: profession of lawyers
+orde van advocaten,noun,bar,law: profession of lawyers
+zandbank,noun,bar,nautical: sand formation
 honkbal,noun,baseball,ball game
+honkbal,noun,baseball,ball used in baseball-game
 basketbal,noun,basketball,the sport
+basketbal,noun,basketball,the ball used in the sport
 bad,noun,bath,tub
 badkuip,noun,bath,tub
+badkamer,noun,bath,building or area where bathing occurs
+bad,noun,bath,act of bathing
 badkamer,noun,bathroom,a room with a bathtub
 strand,noun,beach,sandy shore
 mooi,adj,beautiful,attractive
 schoon,adj,beautiful,attractive
+mooi,adj,beautiful,"of weather: pleasant, clear"
 worden,verb,become,to begin to be
 bed,noun,bed,piece of furniture
 sponde,noun,bed,piece of furniture
+bed,noun,bed,prepared spot to spend the night in
+slaapplaats,noun,bed,prepared spot to spend the night in
+bed,noun,bed,flat surface or layer on which something else is to be placed
+bedding,noun,bed,flat surface or layer on which something else is to be placed
+bodem,noun,bed,flat surface or layer on which something else is to be placed
+onderlaag,noun,bed,flat surface or layer on which something else is to be placed
+bedding,noun,bed,the bottom of a lake or other body of water
+bodem,noun,bed,the bottom of a lake or other body of water
+bank,noun,bed,area where a large number of shellfish is found
+bed,noun,bed,garden plot
+bloembed,noun,bed,garden plot
+tuinbed,noun,bed,garden plot
+ader,noun,bed,"deposit of ore, coal etc."
+laag,noun,bed,"deposit of ore, coal etc."
 slaapkamer,noun,bedroom,room in a house where a bed is kept for sleeping
 bier,noun,beer,alcoholic drink made of malt
+biertje,noun,beer,glass of beer
 beginnen,verb,begin,"to start, to initiate (transitive)"
 aanvangen,verb,begin,"to start, to initiate (transitive)"
 begin,noun,beginning,act of doing that which begins anything
+begin,noun,beginning,that which is begun
+begin,noun,beginning,that which begins or originates something
+aanvang,noun,beginning,that which begins or originates something
+begin,noun,beginning,initial portion of some extended thing
 geloven,verb,believe,to accept that someone is telling the truth (object: person)
+geloven,verb,believe,to accept as true
+geloven,verb,believe,to consider likely
+denken,verb,believe,to consider likely
+geloven,verb,believe,to have religious faith; to believe in a greater truth
+geloven in,verb,believe,to ascribe existence to
+geloven in,verb,believe,to believe that something is right or desirable
+geloven in,verb,believe,to have confidence in
 beneden,adv,below,in a lower place
 beter,adj,better,comparative of the adjectives good or well
 fiets,noun,bicycle,vehicle
@@ -117,38 +293,94 @@ rijwiel,noun,bicycle,vehicle
 velo,noun,bicycle,vehicle
 groot,adj,big,of a great size — see also large
 omvangrijk,adj,big,of a great size — see also large
+volwassen,adj,big,adult
 fiets,noun,bike,bicycle
 velo,noun,bike,bicycle
+motorfiets,noun,bike,motorcycle
+brommer,noun,bike,motorcycle
+wetsontwerp,noun,bill,draft of a law
+wetsvoorstel,noun,bill,draft of a law
+rekening,noun,bill,invoice
+factuur,noun,bill,invoice
+plakaat,noun,bill,advertisement
 hellebaard,noun,bill,weapon of infantry
 snavel,noun,bill,bird's beak
 bek,noun,bill,bird's beak
 vogel,noun,bird,animal
+griet,noun,bird,woman
 verjaardag,noun,birthday,anniversary
+geboortedag,noun,birthday,date of birth — see also date of birth
+geboortedatum,noun,birthday,date of birth — see also date of birth
 zwart,noun,black,colour/color
+zwarte,noun,black,dark-skinned person — see also Negro
 blog,noun,blog,a personal or corporate website
 blond,adj,blond,of a pale golden colour
+blond,adj,blond,having blond hair
 blauw,noun,blue,colour
+blauw,noun,blue,blue pigment
+blauw,noun,blue,blue clothing
+blauwtje,noun,blue,butterfly of the subfamily Polyommatinae
 boot,noun,boat,water craft
 schip,noun,boat,water craft
 lichaam,noun,body,physical structure of a human or animal
+lichaam,noun,body,fleshly or corporeal nature of a human
+hoofddeel,noun,body,largest or most important part of anything (e.g. car bodywork)
+carrosserie,noun,body,largest or most important part of anything (e.g. car bodywork)
+lijf,noun,body,section of a dress
+massa,noun,body,group having a common purpose or opinion
+menigte,noun,body,group having a common purpose or opinion
+orgaan,noun,body,"organisation, company or other authoritative group"
+organisatie,noun,body,"organisation, company or other authoritative group"
+corpus,noun,body,collection of knowledge
+massa,noun,body,collection of knowledge
+verzameling,noun,body,collection of knowledge
+deel,noun,body,any physical object or material thing
+deeltje,noun,body,any physical object or material thing
+lichaam,noun,body,any physical object or material thing
+lijf,noun,body,"substance, material presence"
+substantie,noun,body,"substance, material presence"
 boek,noun,book,collection of sheets of paper bound together containing printed or written material
+boek,noun,book,"convenient collection of small paper items, such as stamps"
+album,noun,book,"convenient collection of small paper items, such as stamps"
+boek,noun,book,"major division of a published work, larger than a chapter"
+boeken,noun,book,usually in plural: records of the accounts of a business
 bootleg,noun,boot,bootleg recording
 laars,noun,boot,heavy shoe that covers part of the leg
 bot,noun,boot,heavy shoe that covers part of the leg
 hoge schoen,noun,boot,heavy shoe that covers part of the leg
+huls,noun,boot,"construction: flexible cover to protect a shaft, lever, switch etc."
+beschermhuls,noun,boot,"construction: flexible cover to protect a shaft, lever, switch etc."
 verveeld,adj,bored,suffering from boredom
 saai,adj,boring,causing boredom or tiredness
 fles,noun,bottle,container
+fles,noun,bottle,contents of such a container
 vuistslag,noun,box,blow with the fist
 buxus,noun,box,shrub or tree of the genus Buxus — see also box tree
 buksboom,noun,box,shrub or tree of the genus Buxus — see also box tree
 buks,noun,box,shrub or tree of the genus Buxus — see also box tree
 doos,noun,box,cuboid space; container
 kist,noun,box,cuboid space; container
+bok,noun,box,driver’s seat on a coach
+buis,noun,box,(slang) television
+doos,noun,box,"(slang, vulgar) the vagina"
+bak,noun,box,"computer, or the case in which it is housed"
+kader,noun,box,"rectangular border around an image, text, etc."
 jongen,noun,boy,young male
+boy,noun,boy,male servant
+huisboy,noun,boy,male servant
+boy,noun,boy,historical: non-white male servant
+nikker,noun,boy,non-white male
+jongen,noun,boy,"male of any age, used as a friendly diminutive"
+kerel,noun,boy,"male of any age, used as a friendly diminutive"
+man,noun,boy,male friend
+jongen,noun,boy,male friend
+kerel,noun,boy,male friend
+boy,noun,boy,male friend
 vriend,noun,boyfriend,male partner in a romantic relationship
 lief,noun,boyfriend,male partner in a romantic relationship
 brood,noun,bread,baked dough made from cereals
+brood,noun,bread,countable: any variety of bread
+poen,noun,bread,slang: money
 ontbijt,noun,breakfast,first meal of the day
 ochtendmaal n or ochtendmaaltijd,noun,breakfast,first meal of the day
 ochtendeten,noun,breakfast,first meal of the day
@@ -162,122 +394,324 @@ inbeet n or inbijt,noun,breakfast,first meal of the day
 brengen,verb,bring,to transport toward somebody/somewhere
 broer,noun,brother,male sibling
 broeder,noun,brother,male sibling
+broer,noun,brother,male having parents in common
+broeder,noun,brother,male having parents in common
+broeder,noun,brother,male fellow member of a religious community
+broeder,noun,brother,peer
 bruin,noun,brown,colour
 bouwen,verb,build,(transitive) to form by combining materials or parts
+opbouwen,verb,build,(transitive) to increase or strengthen by adding gradually to
 bouwen,noun,building,act or process of building
 bouw,noun,building,act or process of building
+gebouw,noun,building,closed structure with walls and a roof
 bus,noun,bus,vehicle
 autobus,noun,bus,vehicle
 stadsbus,noun,bus,vehicle
 bedrijf,noun,business,commercial enterprise or establishment
 zaak,noun,business,commercial enterprise or establishment
 onderneming,noun,business,commercial enterprise or establishment
+zaken,noun,business,"occupation, work or trade of a person"
+zakenleven,noun,business,"occupation, work or trade of a person"
+vak,noun,business,"commercial, industrial or professional activity"
+zaken,noun,business,volume or amount of commercial trade
+klandizie,noun,business,patronage
+zaken,noun,business,something involving one personally
+businessclass,noun,business,business class
 druk,adj,busy,crowded with business or activities
+bezig,adj,busy,doing a great deal
+bezig,adj,busy,engaged
+druk,adj,busy,complicated
 boter,noun,butter,soft foodstuff made from milk
 kopen,verb,buy,to obtain something with money
 aanschaffen,verb,buy,to obtain something with money
 aankopen,verb,buy,to obtain something with money
+slikken,verb,buy,to accept as true
 taart,noun,cake,type of sweet dessert
 cake,noun,cake,type of sweet dessert
 gebak,noun,cake,type of sweet dessert
 koek,noun,cake,type of sweet dessert
+stuk,noun,cake,block of dense material
+blok,noun,cake,block of dense material
 roep,noun,call,cry or shout
+roep,noun,call,characteristic cry of a bird or other animal
+telefoongesprek,noun,call,telephone conversation
+oproep,noun,call,telephone conversation
+telefoon,noun,call,telephone conversation
+bezoek,noun,call,social visit
 fototoestel,noun,camera,still camera
 fotoapparaat,noun,camera,still camera
 camera,noun,camera,still camera
+camera,noun,camera,movie camera
 kunnen,verb,can,to be able to; to know how to
+mogen,verb,can,may
 inblikken,verb,can,to preserve
 conserveren,verb,can,to preserve
+afvoeren,verb,can,to discard
+stil houden,verb,can,to shut up
 niet kunnen,verb,cannot,"cannot — see also can, not"
 auto,noun,car,"automobile, a vehicle steered by a driver"
 wagen,noun,car,"automobile, a vehicle steered by a driver"
 automobiel,noun,car,"automobile, a vehicle steered by a driver"
 kaart,noun,card,"resource or an argument, used to achieve a purpose"
 troef,noun,card,"resource or an argument, used to achieve a purpose"
+kaart,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+plan,noun,card,list of scheduled events
+agenda,noun,card,list of scheduled events
+schema,noun,card,list of scheduled events
 kaarde,noun,card,device to raise the nap on a fabric
+kaardplank,noun,card,hand-held tool for preparing materials for spinning
+kaarde,noun,card,hand-held tool for preparing materials for spinning
+wolkam,noun,card,hand-held tool for preparing materials for spinning
+kaardrol,noun,card,machine for disentagling the fibres of wool prior to spinning
 carrière,noun,career,one's calling in life; a person's occupation
 loopbaan,noun,career,one's calling in life; a person's occupation
 wortel,noun,carrot,Daucus carota ssp. sativus
 peen,noun,carrot,Daucus carota ssp. sativus
 dragen,verb,carry,to transport by lifting
+beschikbaar hebben,verb,carry,to stock or supply
+ter beschikking hebben,verb,carry,to stock or supply
+overnemen,verb,carry,to adopt; take over or stand in
+overdragen,verb,carry,in an addition
+onthouden,verb,carry,in an addition
+dragen,verb,carry,to transmit or travel
+te horen zijn,verb,carry,to transmit or travel
 huiskat,noun,cat,domestic species
 kat,noun,cat,domestic species
 poes,noun,cat,domestic species
 kater,noun,cat,domestic species
+kat,noun,cat,member of the family Felidae
+katachtige,noun,cat,member of the family Felidae
+felien,noun,cat,member of the family Felidae
+kat,noun,cat,wheeled shelter used as siege weapon
+schildpad,noun,cat,wheeled shelter used as siege weapon
 cent,noun,cent,subunit of currency in US and elsewhere
 centrum,noun,center,point equidistant from all points on the perimeter of a circle
 middelpunt,noun,center,point equidistant from all points on the perimeter of a circle
+centrum,noun,center,point equidistant from all points on the surface of a sphere
+middelpunt,noun,center,point equidistant from all points on the surface of a sphere
+midden,noun,center,point on a line midway between the ends
+centrum,noun,center,point on a line midway between the ends
+centrum,noun,center,point in the interior of figure with mean coordinates
+centrum,noun,center,place where a function or activity occurs
+middelpunt,noun,center,topic of particular importance
 stoel,noun,chair,furniture
 zetel,noun,chair,furniture
+leerstoel,noun,chair,distinguished professorship
 verandering,noun,change,the process of becoming different
 aanpassing,noun,change,the process of becoming different
 wijziging,noun,change,the process of becoming different
+wisselgeld,noun,change,small denominations of money given in exchange for a larger denomination
+vervanging,noun,change,a replacement
+wijziging,noun,change,a replacement
+wissel,noun,change,a replacement
+andere kleren,noun,change,a replacement
+wisselgeld,noun,change,balance returned after a purchase
+kleingeld,noun,change,amount of cash
+overstap,noun,change,a transfer between vehicles
+hitlijst,noun,chart,"ranked listing of competitors, as of recorded music"
 goedkoop,adj,cheap,low and/or reduced in price
 onduur,adj,cheap,low and/or reduced in price
 betaalbaar,adj,cheap,low and/or reduced in price
 afgeprijsd,adj,cheap,low and/or reduced in price
 in aanbieding,adj,cheap,low and/or reduced in price
+goedkoop,adj,cheap,of poor quality
+laagwaardig,adj,cheap,of poor quality
+ordinair,adj,cheap,of poor quality
+goedkoop,adj,cheap,of little worth
+waardeloos,adj,cheap,of little worth
+schamel,adj,cheap,of little worth
+gierig,adj,cheap,"frugal, stingy"
 controleren,verb,check,"to inspect, examine"
 inspecteren,verb,check,"to inspect, examine"
 checken,verb,check,"to inspect, examine"
+aanvinken,verb,check,to mark with a checkmark
+aankruisen,verb,check,to mark with a checkmark
+afvinken,verb,check,to mark with a checkmark
+verifiëren,verb,check,to verify or compare with a source of information
+controleren,verb,check,to verify or compare with a source of information
 kaas,noun,cheese,dairy product
 kip,noun,chicken,bird
 hen,noun,chicken,bird
 hoen,noun,chicken,bird
+kip,noun,chicken,meat
+kippenvlees,noun,chicken,meat
+lafaard,noun,chicken,coward
+wezel,noun,chicken,coward
+lafbek,noun,chicken,coward
+angsthaas,noun,chicken,coward
 kind,noun,child,son or daughter; someone's child
+kind,noun,child,a minor
+kind,noun,child,(computing) object which has a subservient or derivative role relative to another object
 chocolade,noun,chocolate,food made from ground roasted cocoa beans
 chocola,noun,chocolate,food made from ground roasted cocoa beans
+chocolaatje,noun,chocolate,small piece of confectionery made from chocolate
+bonbon,noun,chocolate,small piece of confectionery made from chocolate
+chocoladebonbon,noun,chocolate,small piece of confectionery made from chocolate
+praline,noun,chocolate,small piece of confectionery made from chocolate
+chocoladekleur,noun,chocolate,colour
 kiezen,verb,choose,to pick
 uitkiezen,verb,choose,to pick
+kiezen,verb,choose,to elect
+verkiezen,verb,choose,to elect
+kiezen,verb,choose,to decide to act in a certain way
 stad,noun,city,large settlement
 klasse,noun,class,"group, collection, category or set sharing characteristics or attributes"
+klasse,noun,class,"social grouping, based on job, wealth, etc."
+laag,noun,class,"social grouping, based on job, wealth, etc."
+klas,noun,class,group of students in a regularly scheduled meeting with a teacher
+klasse,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 klaslokaal,noun,classroom,room in a school
 schoonmaken,verb,clean,(transitive) to remove dirt from a place or object
 kuisen,verb,clean,(transitive) to remove dirt from a place or object
 poetsen,verb,clean,(transitive) to remove dirt from a place or object
 reinigen,verb,clean,(transitive) to remove dirt from a place or object
 wassen,verb,clean,(transitive) to remove dirt from a place or object
+opruimen,verb,clean,(transitive) to tidy up
+poetsen,verb,clean,(intransitive) to make things clean
+schoonmaken,verb,clean,(intransitive) to make things clean
 klimmen,verb,climb,"to ascend, to go up"
+beklimmen,verb,climb,"to mount, to move upwards on"
 klok,noun,clock,instrument to measure or keep track of time
+teller,noun,clock,odometer
+kilometerteller,noun,clock,odometer
 dichten,verb,close,obstruct (an opening)
 sluiten,verb,close,obstruct (an opening)
+dichtdoen,verb,close,move (a door)
+sluiten,verb,close,bring one's eyelids together
+afsluiten,verb,close,put an end to
+beëindigen,verb,close,put an end to
+verkleinen,verb,close,to make smaller
 kleren,noun,clothes,apparel
 club,noun,club,association of members
+knuppel,noun,club,heavy stick for use as weapon or plaything
+klaveren,noun,club,"playing card symbol, ♣"
 mantel,noun,coat,outer garment covering the upper torso and arms
 jas,noun,coat,outer garment covering the upper torso and arms
+laag,noun,coat,"covering of material, such as paint"
 koffie,noun,coffee,beverage
+koffie,noun,coffee,beans
+koffieboon,noun,coffee,beans
+koffie,noun,coffee,plant
+koffieplant,noun,coffee,plant
+mokka,noun,coffee,colour
+koffiebruin,noun,coffee,colour
 kou,noun,cold,low temperature
 koude,noun,cold,low temperature
+verkoudheid,noun,cold,illness
+faculteit,noun,college,specialized division of a university
 kleur,noun,color,spectral composition of visible light
+kleur,noun,color,particular set of the visible spectrum
+kleur,noun,color,hue as opposed to achromatic colors
+kleur,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
+kleur,noun,color,"interest, especially in a selective area"
+kleur,noun,color,any of the standard dark tinctures used in a coat of arms
+kleur,noun,color,standard or banner (colors)
 komen,verb,come,to move nearer
+komen,verb,come,to have a relative position in a sequence
+klaarkomen,verb,come,to orgasm
 gemeen,adj,common,mutual
 gemene,adj,common,mutual
 gewoon,adj,common,mutual
 gewone,adj,common,mutual
+gemeen,adj,common,usual
+gemene,adj,common,usual
+gewoon,adj,common,usual
+gewone,adj,common,usual
+veelvoorkomend,adj,common,found in large numbers or in a large quantity
+gewoon,adj,common,ordinary
+commuun,adj,common,grammar: of the gender resulting from the coalescence of the masculine and feminine genders
 bedrijf,noun,company,"in legal context, a corporation"
 zaak,noun,company,"in legal context, a corporation"
 firma,noun,company,"in legal context, a corporation"
 compagnie,noun,company,"in legal context, a corporation"
 gezelschap,noun,company,"in legal context, a corporation"
 vennootschap,noun,company,"in legal context, a corporation"
+maatschappij,noun,company,"in non-legal context, any business, without respect to incorporation"
+gezelschap,noun,company,group of individuals with a common purpose
+bezoek,noun,company,social visitors
+bezoekers,noun,company,social visitors
+gezelschap,noun,company,companionship
+compagnie,noun,company,military unit
 vergelijken,verb,compare,to assess the similarities between two things or between one thing and another
+overeenstemmen,verb,compare,to be similar
 voltooien,verb,complete,to finish
+aanvullen,verb,complete,to make whole or entire
 computer,noun,computer,programmable electronic device
 rekenaar,noun,computer,programmable electronic device
+rekenaar,noun,computer,person
+concert,noun,concert,musical accordance or harmony
 gesprek,noun,conversation,expression and exchange of individual ideas through talking with other people
 conversatie,noun,conversation,expression and exchange of individual ideas through talking with other people
 koken,verb,cook,to prepare food for eating
+koken,verb,cook,to become ready for eating
+bakken,verb,cook,colloquial: to be uncomfortably hot
 koel,adj,cool,having a slightly low temperature
 fris,adj,cool,having a slightly low temperature
+koel,adj,cool,allowing or suggesting heat relief
+verkoelend,adj,cool,allowing or suggesting heat relief
+verkwikkend,adj,cool,allowing or suggesting heat relief
+kil,adj,cool,"not showing emotion, calm"
+kalm (pjes),adj,cool,"not showing emotion, calm"
+koel (tjes),adj,cool,"not showing emotion, calm"
+kil,adj,cool,"unenthusiastic, lukewarm, skeptical"
+koel,adj,cool,"unenthusiastic, lukewarm, skeptical"
+lauw,adj,cool,"unenthusiastic, lukewarm, skeptical"
+onentoesiast,adj,cool,"unenthusiastic, lukewarm, skeptical"
+stoer,adj,cool,calmly audacious
+koelbloedig,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+(ijzig) kalm,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+beheerst,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+zelfzeker,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+cool,adj,cool,"colloquial: being considered as ""popular"" by others"
+cool,adj,cool,colloquial: in fashion
+in,adj,cool,colloquial: in fashion
+hip,adj,cool,colloquial: in fashion
+blits,adj,cool,colloquial: in fashion
+aanvaardbaar,adj,cool,"colloquial: all right, acceptable"
+acceptabel,adj,cool,"colloquial: all right, acceptable"
+in orde,adj,cool,"colloquial: all right, acceptable"
+okee,adj,cool,"colloquial: all right, acceptable"
+patabel,adj,cool,"colloquial: all right, acceptable"
+kalm,adj,cool,colloquial: not upset
+bedaard,adj,cool,colloquial: not upset
+rustig,adj,cool,colloquial: not upset
+beheerst,adj,cool,colloquial: not upset
 corrigeren,verb,correct,to make something become right that was previously wrong
 verbeteren,verb,correct,to make something become right that was previously wrong
 kosten,verb,cost,"to incur a charge, a price"
 land,noun,country,region of land
+land,noun,country,nation state
+platteland,noun,country,"the country, rural area, as opposed to the town or city"
+open veld,noun,country,"the country, rural area, as opposed to the town or city"
+country,noun,country,country music
+cursus,noun,course,education: learning program
+opleiding,noun,course,education: learning program
+gang,noun,course,cooking: stage of a meal
+gerecht,noun,course,cooking: stage of a meal
+parcours,noun,course,itinerary of a race
+baan,noun,course,sports: trajectory of a ball etc.
+koers,noun,course,nautical: direction of movement of a vessel
+koers,noun,course,intended passage of voyage
+neef,noun,cousin,child of a person’s parent’s brother or sister
+nicht,noun,cousin,child of a person’s parent’s brother or sister
+volle neef,noun,cousin,child of a person’s parent’s brother or sister
+volle nicht,noun,cousin,child of a person’s parent’s brother or sister
+kozijn,noun,cousin,child of a person’s parent’s brother or sister
 koe,noun,cow,female domesticated ox or other bovine
+rund,noun,cow,any domestic bovine regardless of sex or age
+koe,noun,cow,female of various species of mammal
+domme koe,noun,cow,derogatory: despicable woman
 room,noun,cream,oily part of milk
+crème,noun,cream,colour
+crème de la crème,noun,cream,the best part
+crème,noun,cream,product to apply to the skin
+zalf,noun,cream,product to apply to the skin
 creëren,verb,create,to put into existence
 scheppen,verb,create,to put into existence
 maken,verb,create,to put into existence
+creëren,verb,create,"to design, invest with a new form, shape etc."
+scheppen,verb,create,"to design, invest with a new form, shape etc."
+ontwerpen,verb,create,"to design, invest with a new form, shape etc."
 cultuur,noun,culture,"arts, customs and habits"
 beker,noun,cup,drinking vessel
 kop,noun,cup,drinking vessel
@@ -285,24 +719,83 @@ mok,noun,cup,drinking vessel
 tas,noun,cup,drinking vessel
 jat,noun,cup,drinking vessel
 kopje,noun,cup,drinking vessel
+beker,noun,cup,trophy
+bekertoernooi,noun,cup,contest
+toque,noun,cup,protective covering for the male genitalia
+klant,noun,customer,one who purchases or receives a product or service
 snijden,verb,cut,to perform an incision
+snijden,verb,cut,to divide with a sharp instrument
+knippen,verb,cut,to divide with a sharp instrument
+scheiden,verb,cut,to separate from prior association
+knippen,verb,cut,computing: to remove and place in memory
+voorsteken,verb,cut,to enter a queue in a wrong place
+knippen,verb,cut,to cease recording
+stoppen,verb,cut,to cease recording
+snijden in,verb,cut,to reduce
+verminderen,verb,cut,to reduce
+slijpen,verb,cut,to form or shape by cutting
+verdelen,verb,cut,to intersect dividing into half
+spijbelen,verb,cut,"colloquial, not to attend a class"
+kappen,verb,cut,to change direction suddenly
+schudden,verb,cut,to divide a pack of playing cards
 pappa,noun,dad,informal: a father
 dansen,verb,dance,move rhythmically to music
 danser,noun,dancer,person who dances
+danseres,noun,dancer,a female person who dances
+exotisch danser,noun,dancer,euphemism for stripper
+karakterdanser,noun,dancer,euphemism for stripper
+stripdanser,noun,dancer,euphemism for stripper
 dansen,noun,dancing,activity of dancing
 gevaarlijk,adj,dangerous,full of danger
 gevaarlijke,adj,dangerous,full of danger
+gevaarlijk,adj,dangerous,"causing danger, ready to do harm or injury"
 donker,adj,dark,having an absolute or relative lack of light
 duister,adj,dark,having an absolute or relative lack of light
+duister,adj,dark,"hidden, secret"
+geheim,adj,dark,"hidden, secret"
+donker,adj,dark,"not bright or light, deeper in hue"
 datum,noun,date,"that which specifies the time of writing, inscription etc."
+datum,noun,date,point of time at which a transaction or event takes place
+tijdstip,noun,date,point in time
+einde,noun,date,assigned end; conclusion
+levensduur,noun,date,obsolete: given or assigned length of life
+afspraakje,noun,date,pre-arranged social meeting
+afspraak,noun,date,pre-arranged social meeting
+date,noun,date,companion when one is partaking in a social occasion
+afspraakje,noun,date,meeting with a lover or potential lover; a person so met
+date,noun,date,meeting with a lover or potential lover; a person so met
 dadel,noun,date,fruit of the date palm
 dochter,noun,daughter,female offspring
 dag,noun,day,period between sunrise and sunset
+dag,noun,day,period of 24 hours
+etmaal,noun,day,period of 24 hours
+dag,noun,day,period from midnight to the following midnight
+etmaal,noun,day,period from midnight to the following midnight
+dag,noun,day,rotational period of a planet
+dag,noun,day,"part of a day period which one spends at one's job, school, etc."
 (teer)geliefd,adj,dear,loved; lovable
 bemind,adj,dear,loved; lovable
 lief,adj,dear,loved; lovable
 beminnelijk,adj,dear,loved; lovable
 kostbaar,adj,dear,loved; lovable
+liefdevol,adj,dear,"loving, affectionate, heartfelt"
+innig,adj,dear,"loving, affectionate, heartfelt"
+dierbaar,adj,dear,precious to or greatly valued by someone
+geliefd,adj,dear,precious to or greatly valued by someone
+gekoesterd,adj,dear,precious to or greatly valued by someone
+duur,adj,dear,precious to or greatly valued by someone
+precieus,adj,dear,precious to or greatly valued by someone
+waardevol,adj,dear,precious to or greatly valued by someone
+beste,adj,dear,formal way of addressing
+geachte,adj,dear,formal way of addressing
+hooggeachte,adj,dear,formal way of addressing
+weledele,adj,dear,formal way of addressing
+waarde,adj,dear,formal way of addressing
+lieve,adj,dear,an informal way of addressing the recipient in a letter's opening line
+beste,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
+lieve,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
+waarde,adj,dear,a formal way to start (often after my) addressing somebody one likes or regards kindly
+(mijn) beste,adj,dear,an ironic way to start (often after my) addressing an inferior
 beslissen,verb,decide,to resolve or settle
 besluiten,verb,decide,to resolve or settle
 heerlijk,adj,delicious,pleasing to taste
@@ -316,31 +809,71 @@ ontwerpen,verb,design,to plan an artwork etc.
 bureau,noun,desk,table for writing and reading
 schrijftafel,noun,desk,table for writing and reading
 lessenaar,noun,desk,table for writing and reading
+deelredactie,noun,desk,team in a news outlet specialized on a topic
+deskredactie,noun,desk,team in a news outlet specialized on a topic
 detail,noun,detail,part small enough to escape casual notice
 kleinigheid,noun,detail,part small enough to escape casual notice
+detail,noun,detail,uncountable: a profusion of details
+kleinigheid,noun,detail,uncountable: a profusion of details
+detail,noun,detail,part considered trivial enough to ignore
+kleinigheid,noun,detail,part considered trivial enough to ignore
+persoonsgegevens,noun,detail,plural: personal information
+detachement,noun,detail,military: temporary unit
 dialoog,noun,dialogue,conversation or other discourse between individuals
 gesprek,noun,dialogue,conversation or other discourse between individuals
+dialoog,noun,dialogue,verbal part of a literary or dramatic work
+dialoog,noun,dialogue,literary form resembling a conversation
 woordenboek,noun,dictionary,publication that explains the meanings of an ordered list of words
 dictionaire,noun,dictionary,publication that explains the meanings of an ordered list of words
 doodgaan,verb,die,to stop living
 sterven,verb,die,to stop living
 overlijden,verb,die,to stop living
+sterven,verb,die,to become hated or utterly ignored
+sterven,verb,die,to become spiritually dead
+sterven,verb,die,to be mortified or shocked
+het laten afweten,verb,die,to break down
+het opgeven,verb,die,to break down
+doodgaan,verb,die,to fail to evoke laughter
 parlement,noun,diet,council of leaders
 rijksdag,noun,diet,council of leaders
 landdag,noun,diet,council of leaders
 dieet,noun,diet,food a person or animal consumes
+dieet,noun,diet,controlled regimen of food
 verschil,noun,difference,quality of being different
+verschil,noun,difference,characteristic of something that makes it different from something else
+onderscheid,noun,difference,characteristic of something that makes it different from something else
+meningsverschil,noun,difference,disagreement or argument about something important
+verschil,noun,difference,arithmetic: result of a subtraction
 verschillend,adj,different,not the same
 anders,adj,different,not the same
 ongelijk,adj,different,not the same
+anders,adj,different,unlike most others
 moeilijk,adj,difficult,"hard, not easy"
+moeilijk,adj,difficult,"hard to manage (said of a person, horse, etc.)"
 avondeten,noun,dinner,evening meal
 avondmaaltijd,noun,dinner,evening meal
 avondmaal,noun,dinner,evening meal
 eten,noun,dinner,evening meal
+voer,noun,dinner,a meal given to an animal
+middageten,noun,dinner,midday meal
+middagmaaltijd,noun,dinner,midday meal
+middagmaal,noun,dinner,midday meal
+lunch,noun,dinner,midday meal
+diner,noun,dinner,a formal meal
 vuil,adj,dirty,covered with or containing dirt
 smerig,adj,dirty,covered with or containing dirt
 vies,adj,dirty,covered with or containing dirt
+vuil,adj,dirty,"morally unclean, obscene or indecent"
+vulgair,adj,dirty,"morally unclean, obscene or indecent"
+obsceen,adj,dirty,"morally unclean, obscene or indecent"
+schunnig,adj,dirty,"morally unclean, obscene or indecent"
+vuil,adj,dirty,"dishonourable, violating standards or rules"
+smerig,adj,dirty,"dishonourable, violating standards or rules"
+grof,adj,dirty,"dishonourable, violating standards or rules"
+oneerlijk,adj,dirty,"dishonourable, violating standards or rules"
+vuil,adj,dirty,"illegal, improper"
+oneerlijk,adj,dirty,"illegal, improper"
+vuil,adj,dirty,of color: discolored by impurities
 overleggen,verb,discuss,to converse or debate concerning a particular topic
 discussiëren,verb,discuss,to converse or debate concerning a particular topic
 debatteren,verb,discuss,to converse or debate concerning a particular topic
@@ -349,29 +882,79 @@ bepraten,verb,discuss,to converse or debate concerning a particular topic
 bespreken,verb,discuss,to converse or debate concerning a particular topic
 bord,noun,dish,vessel for holding/serving food
 taloor,noun,dish,vessel for holding/serving food
+bord,noun,dish,contents of such a vessel
+gerecht,noun,dish,contents of such a vessel
+gerecht,noun,dish,specific type of food
+vaat,noun,dish,tableware to be/being washed
+stoot,noun,dish,slang: sexually attractive person
+wel,verb,do,for emphasis
+doen,verb,do,"perform, execute"
+volstaan,verb,do,"work, suffice"
+gaan,verb,do,be reasonable or acceptable
+bakken,verb,do,cook
+koken,verb,do,cook
+doen,verb,do,visit
+bezoeken,verb,do,visit
+zitten,verb,do,be in jail
+binnendoen,verb,do,slang: have sex with
+doen,verb,do,slang: have sex with
 doctor,noun,doctor,person who has attained a doctorate
 hond,noun,dog,animal
+reu,noun,dog,male canine
 dollar,noun,dollar,designation for specific currency
 deur,noun,door,"portal of entry into a building, room or vehicle"
 portier,noun,door,"portal of entry into a building, room or vehicle"
 naar beneden,adv,down,"from a high to a low position, downwards"
 neer,adv,down,"from a high to a low position, downwards"
+naar beneden,adv,down,to the south
+uit,adv,down,into a state of non-operation
+af,adv,down,into a state of non-operation
 beneden,adv,downstairs,downstairs (adverb)
 tekenen,verb,draw,to produce a picture
+trekken,verb,draw,"to pull out, unsheath"
+putten,verb,draw,"to extract a liquid, or cause a liquid to come out"
+aantrekken,verb,draw,to attract
+sluiten,verb,draw,to close curtains etc.
+gelijkspelen,verb,draw,to end a game with neither side winning
+trekken,verb,draw,to determine the result of a lottery
 kleden,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 aankleden,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+zich aankleden,verb,dress,to put on clothes — see also get dressed
+zich kleden,verb,dress,to put on clothes — see also get dressed
 drinken,verb,drink,consume liquid through the mouth
+drinken,verb,drink,consume alcoholic beverages
 besturen,verb,drive,to operate (a wheeled motorized vehicle)
 rijden,verb,drive,to operate (a wheeled motorized vehicle)
+rijden,verb,drive,to travel by operating a motorized vehicle
+rijden,verb,drive,"to convey (a person, etc) in a wheeled motorized vehicle"
+drijven,verb,drive,"to direct a vehicle powered by a horse, ox or similar animal"
+drijven,verb,drive,to impel or urge (especially animals) onward by force; to push forward; to compel to move on
+voortdrijven,verb,drive,to cause animals to flee out of
+indrijven,verb,drive,to move (something) by hitting it with great force
+aandrijven,verb,drive,to cause (a mechanism) to operate
+motiveren,verb,drive,to motivate; to provide an incentive for
+drijven,verb,drive,to compel (to do something)
+drijven,verb,drive,to cause to become
+maken,verb,drive,to cause to become
+bestuurder,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+chauffeur,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+bestuurder,noun,driver,person who drives some other vehicle
+stuurprogramma,noun,driver,program acting as interface between an application and hardware
 aar,noun,ear,fruiting body of a grain plant
 oor,noun,ear,organ of hearing
 oostwaarts,adv,east,towards the east
 makkelijk,adj,easy,requiring little skill or effort
 gemakkelijk,adj,easy,requiring little skill or effort
+makkelijk,adj,easy,consenting readily to sex
+gemakkelijk,adj,easy,consenting readily to sex
 eten,verb,eat,"to ingest — see also consume, ingest"
 vreten,verb,eat,"to ingest — see also consume, ingest"
 consumeren,verb,eat,"to ingest — see also consume, ingest"
+vreten,verb,eat,colloquial: cause to worry
+opvreten,verb,eat,colloquial: cause to worry
+eten,verb,eat,eat a meal
 ei,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+ei,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 olifant,noun,elephant,mammal
 elpendier,noun,elephant,mammal
 elp,noun,elephant,mammal
@@ -380,140 +963,335 @@ anders,adv,else,word that implies any result with the exception of the one being
 in het andere geval,adv,else,word that implies any result with the exception of the one being referred to
 e-mailen,verb,email,(transitive) to send an email or emails to
 mailen,verb,email,(transitive) to send an email or emails to
+e-mailen,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+mailen,verb,email,"(intransitive) to send, or compose and send, an email or emails"
 eindigen,verb,end,"intransitive: be finished, be terminated"
 ophouden,verb,end,"intransitive: be finished, be terminated"
 einden,verb,end,"intransitive: be finished, be terminated"
+beëindigen,verb,end,"transitive: finish, terminate (something)"
 genieten van,verb,enjoy,to receive pleasure or satisfaction from something
+genieten,verb,enjoy,to have the use or benefit of something
 genoeg,adv,enough,sufficiently
 euro,noun,euro,currency unit of the European Monetary Union
+zelfs,adv,even,implying extreme example
+(niet) eens,adv,even,implying extreme example
+nog,adv,even,emphasising comparative
 avond,noun,evening,time of day between dusk and night
+avond,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+avondfeest,noun,evening,a party or gathering held in the evening
 gebeurtenis,noun,event,occurrence
 evenement,noun,event,occurrence
 ooit,adv,ever,always
 altijd,adv,ever,always
 steeds,adv,ever,always
+ooit,adv,ever,at any time
 voorbeeld,noun,example,something representative of a group
+voorbeeld,noun,example,something serving to explain or illustrate a rule
+voorbeeld,noun,example,something serving as a pattern of behaviour
 opgewonden,adj,excited,having great enthusiasm and energy
 opgetogen,adj,excited,having great enthusiasm and energy
+aangeslagen,adj,excited,being in a state of higher energy
 spannend,adj,exciting,causing excitement
 trainen,verb,exercise,exert for the sake of training
 oefenen,verb,exercise,exert for the sake of training
+sporten,verb,exercise,perform physical activity
+bewegen,verb,exercise,perform physical activity
+uitoefenen,verb,exercise,use; put into practice
+gebruikmaken,verb,exercise,use; put into practice
+kwellen,verb,exercise,occupy the attention and effort of
+lastigvallen,verb,exercise,occupy the attention and effort of
 duur,adj,expensive,having a high price or cost
 uitleggen,verb,explain,to make intelligible
 verklaren,verb,explain,to make intelligible
 toelichten,verb,explain,to make intelligible
+verklaren,verb,explain,excuse
 extra,adj,extra,"beyond what is due, usual"
 oog,noun,eye,organ
 kijker,noun,eye,organ
 gezichtsorgaan,noun,eye,organ
 oculus,noun,eye,organ
+oog,noun,eye,hole in needle
+naaldoog,noun,eye,hole in needle
+oog,noun,eye,of a hurricane
+oog,noun,eye,of a potato
+oog,noun,eye,ability to notice what others might miss
 gezicht,noun,face,anatomy: front part of head
+gezicht,noun,face,facial expression
+gezichtsdrukking,noun,face,facial expression
+bakkes,noun,face,slang: the mouth
+gezicht,noun,face,public image
+zijde,noun,face,geometry: bounding surface of a polyhedron
 feit,noun,fact,an honest observation
+feit,noun,fact,something actual
+werkelijkheid,noun,fact,something actual
+feit,noun,fact,something which has become real
+feit,noun,fact,something concrete used as a basis for further interpretation
+feit,noun,fact,an objective consensus on a fundamental reality
+feit,noun,fact,information about a particular subject
 val,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+verval,noun,fall,a period of decline before the end
+val,noun,fall,loss of greatness or status
+ondergang,noun,fall,loss of greatness or status
 onwaar,adj,false,"untrue, not factual, wrong"
 vals,adj,false,"untrue, not factual, wrong"
 fout,adj,false,"untrue, not factual, wrong"
 onjuist,adj,false,"untrue, not factual, wrong"
+vals,adj,false,"spurious, artificial"
+onecht,adj,false,"spurious, artificial"
+onwaar,adj,false,state in Boolean logic that indicates a negative result
+vals,adj,false,state in Boolean logic that indicates a negative result
 beroemd,adj,famous,well known
+alom bekend,adj,famous,in the public eye
 fantastisch,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
 grandioos,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
+fantasierijk,adj,fantastic,existing in or constructed from fantasy
 boerderij,noun,farm,place where agricultural activities take place
 hoeve,noun,farm,place where agricultural activities take place
 boer,noun,farmer,person who works the land and/or who keeps livestock
 boerin,noun,farmer,person who works the land and/or who keeps livestock
 landbouwer,noun,farmer,person who works the land and/or who keeps livestock
 veehouder,noun,farmer,person who works the land and/or who keeps livestock
+snel,adv,fast,with great speed
+vlug,adv,fast,with great speed
 vet,adj,fat,carrying a larger than normal amount of fat on one's body
 dik,adj,fat,carrying a larger than normal amount of fat on one's body
 gezet,adj,fat,carrying a larger than normal amount of fat on one's body
 corpulent,adj,fat,carrying a larger than normal amount of fat on one's body
 volslank,adj,fat,carrying a larger than normal amount of fat on one's body
+dik,adj,fat,thick
+gezet,adj,fat,thick
+corpulent,adj,fat,thick
+vet,adj,fat,bountiful
 vader,noun,father,male parent
 papa,noun,father,male parent
 pap,noun,father,male parent
 pa,noun,father,male parent
+vadertje,noun,father,term of address for an elderly man
 voelen,verb,feel,transitive: to sense by touch
+voelen,verb,feel,transitive: to experience an emotion or other mental state about
 gevoel,noun,feeling,sensation
+gevoel,noun,feeling,emotion; impression
+emotie,noun,feeling,emotion; impression
+gevoelens,noun,feeling,in plural: emotional state or well-being
+gevoelens,noun,feeling,in plural: emotional attraction or desire
+voorgevoel,noun,feeling,intuition
 festival,noun,festival,event or community gathering
 feest,noun,festival,event or community gathering
 vullen,verb,fill,"add contents to, so it is full"
 opvullen,verb,fill,"add contents to, so it is full"
+vullen,verb,fill,"enter, making it full"
+vullen,verb,fill,"occupy fully, take up all of"
+vollopen,verb,fill,become full of contents
+vervullen,verb,fill,become pervaded with something
+gevuld worden met,verb,fill,become pervaded with something
+vervullen,verb,fill,"satisfy, obey"
+invullen,verb,fill,install someone or be installed in
+vullen,verb,fill,treat (a tooth)
 finaal,adj,final,last; ultimate
 laatste,adj,final,last; ultimate
 ultiem,adj,final,last; ultimate
 definitief,adj,final,last; ultimate
 vinden,verb,find,"encounter, locate, discover"
 aantreffen,verb,find,"encounter, locate, discover"
+vinden,verb,find,point out
+ontdekken,verb,find,point out
+vinden,verb,find,decide that
+van mening zijn dat,verb,find,decide that
+achten,verb,find,"determine, judge"
 uitstekend,adj,fine,of superior quality
+prachtig,adj,fine,of weather: sunny and not raining
+goed,adj,fine,"being acceptable, adequate, passable, or satisfactory"
+fijn,adj,fine,made up of particularly small pieces
 afwerken,verb,finish,to complete
 beëindigen,verb,finish,to complete
+ophouden,verb,finish,to come to an end
+eindigen,verb,finish,to come to an end
+gedaan zijn,verb,finish,to come to an end
 vuur,noun,fire,oxidation reaction
+vuur,noun,fire,instance of this chemical reaction
+brand,noun,fire,damaging occurrence of fire
+vuur,noun,fire,alchemy: one of the basic elements
+vuur,noun,fire,heater or stove used in place of real fire
+fornuis,noun,fire,heater or stove used in place of real fire
+stoof,noun,fire,heater or stove used in place of real fire
+vuur,noun,fire,elements to start a fire
+vuur,noun,fire,in-flight bullets
 eerst,adv,first,before anything else
 vis,noun,fish,vertebrate animal
 vlucht,noun,flight,act of flying
 vliegen,noun,flight,act of flying
+vlucht,noun,flight,journey made by an aircraft
 vloer,noun,floor,bottom part of a room
 bloem,noun,flower,reproductive structure in angiosperms
 vliegen,verb,fly,to travel through air
+vluchten,verb,fly,to flee
+besturen,verb,fly,to cause to travel through the air
+aanslaan,verb,fly,to be accepted
+lukken,verb,fly,to be accepted
 volgen,verb,follow,to go or come after in physical space
+volgen,verb,follow,to live one’s life according to
+volgen,verb,follow,to understand
+volgen,verb,follow,to subscribe to see content from an account on a social media platform
+volgen,verb,follow,to be a logical consequence of
 voedsel,noun,food,any substance consumed by living organisms to sustain life
 eten,noun,food,any substance consumed by living organisms to sustain life
 voet,noun,foot,part of human body
+poot,noun,foot,part of animal’s body
+pootje,noun,foot,part of animal’s body
+poot,noun,foot,projection on equipment
+pootje,noun,foot,projection on equipment
+voet,noun,foot,unit of measure
 voetbal,noun,football,association football
+voetbal,noun,football,ball
+voetballen,noun,football,practise of any of these games
 vergeten,verb,forget,to lose remembrance of
+vergeten,verb,forget,to unintentionally not do
+nalaten,verb,forget,to unintentionally not do
+vergeten,verb,forget,to cease remembering
 vormen,verb,form,to give shape
 vormgeven,verb,form,to give shape
 vrij,adj,free,not imprisoned
 los,adj,free,not imprisoned
+vrij,adj,free,unconstrained
+los,adj,free,unconstrained
+loslopend,adj,free,unconstrained
+vrij,adj,free,unobstructed
+open,adj,free,unobstructed
+vrij,adj,free,without obligations
+ongedwongen,adj,free,without obligations
+vrij,adj,free,software: with very few limitations on distribution or improvement
+vrije,adj,free,software: with very few limitations on distribution or improvement
+zonder,adj,free,without
+-vrij,adj,free,without
 vriend,noun,friend,person whose company one enjoys
 vriendje,noun,friend,person whose company one enjoys
 vriendin,noun,friend,person whose company one enjoys
 vriendinnetje,noun,friend,person whose company one enjoys
 maatje,noun,friend,person whose company one enjoys
+vriend,noun,friend,boyfriend or girlfriend
+vriendje,noun,friend,boyfriend or girlfriend
+vriendin,noun,friend,boyfriend or girlfriend
 vriendelijk,adj,friendly,"approachable, warm"
 hartelijk,adj,friendly,"approachable, warm"
+vriendelijk,adj,friendly,characteristic of friendliness
+sympathiek,adj,friendly,characteristic of friendliness
+aangenaam,adj,friendly,characteristic of friendliness
+vriendschappelijk,adj,friendly,characteristic of friendliness
+vriendschappelijk,adj,friendly,without hostility
+bevriend,adj,friendly,pertaining to friendlies in the conflict sense
 voor-,adj,front,located at or near the front
 vrucht,noun,fruit,part of plant
 fruit,noun,fruit,part of plant
+fruit,noun,fruit,food
+vrucht,noun,fruit,food
+ooft,noun,fruit,food
+vrucht,noun,fruit,figuratively: positive end result or reward of labour or effort
+spruit,noun,fruit,figuratively: child of a marriage
 vol,adj,full,containing the maximum possible amount
+volledig,adj,full,complete
+vol,adj,full,"total, entire"
+volledig,adj,full,"total, entire"
+vol,adj,full,"satisfied, in relation to eating"
+verzadigd,adj,full,"satisfied, in relation to eating"
+zat,adj,full,"satisfied, in relation to eating"
+ruim,adj,full,"of a garment: ample, wide"
+wijd,adj,full,"of a garment: ample, wide"
+vol,adj,full,having depth and body
 lol,noun,fun,enjoyment or amusement
 plezier,noun,fun,enjoyment or amusement
 pret,noun,fun,enjoyment or amusement
+plezier,noun,fun,"playful, often noisy, activity"
+pret,noun,fun,"playful, often noisy, activity"
+lol,noun,fun,"playful, often noisy, activity"
 grappig,adj,funny,amusing; comical
 geinig,adj,funny,amusing; comical
 komiek,adj,funny,amusing; comical
+eigenaardig,adj,funny,strange; unusual
+raar,adj,funny,strange; unusual
+zeldzaam,adj,funny,strange; unusual
+merkwaardig,adj,funny,strange; unusual
+vreemd,adj,funny,strange; unusual
+bizar,adj,funny,strange; unusual
 toekomst,noun,future,the time ahead
+toekomst,noun,future,something that will happen in moments yet to come
 spel,noun,game,"playful activity that may be unstructured, amusement, pastime"
 spelleke,noun,game,"playful activity that may be unstructured, amusement, pastime"
+wedstrijd,noun,game,particular instance of playing a game; match
+wild,noun,game,wild animals hunted for food
 tuin,noun,garden,piece of land outside with flowers and plants
 gaard,noun,garden,piece of land outside with flowers and plants
+tuin,noun,garden,gardens with public access
+park,noun,garden,gardens with public access
+tuin,noun,garden,grounds at the front or back of a house
 geografie,noun,geography,study of physical structure and inhabitants of the Earth
 aardrijkskunde,noun,geography,study of physical structure and inhabitants of the Earth
 nemen,verb,get,to obtain
 pakken,verb,get,to obtain
 halen,verb,get,to obtain
+krijgen,verb,get,to receive
+verkrijgen,verb,get,to receive
+worden,verb,get,to become
+maken,verb,get,to cause to become
+halen,verb,get,to fetch
+doen,verb,get,to cause to do
+laten,verb,get,to cause to do
+aankomen,verb,get,to arrive at
+nemen,verb,get,"to take, catch (transportation)"
+begrijpen,verb,get,colloquial: to understand
+verstaan,verb,get,colloquial: to understand
+snappen,verb,get,colloquial: to understand
+worden,verb,get,colloquial: to be
 meisje,noun,girl,young female person
 meid,noun,girl,young female person
+vrouw,noun,girl,woman — see also woman
+meid,noun,girl,female servant
 vriendin,noun,girlfriend,a female partner in a romantic relationship
 meisje,noun,girlfriend,a female partner in a romantic relationship
+vriendin,noun,girlfriend,a female friend
 geven,verb,give,transfer the possession of something to someone else
 overhandigen,verb,give,transfer the possession of something to someone else
+meegeven,verb,give,bend slightly when a force is applied
 glas,noun,glass,substance
+glas,noun,glass,drinking vessel
 gaan,verb,go,to move through space (especially from one place to another)
+verdwijnen,verb,go,to disappear
+weggaan,verb,go,to disappear
 goed,adj,good,acting in the interest of good; ethical good intentions
+goed,adj,good,useful for a particular purpose
+goed,adj,good,"of food, edible; not stale or rotten"
+goed,adj,good,"of food, having a particularly pleasant taste"
+goed,adj,good,healthful
+goed,adj,good,pleasant; enjoyable
+goed,adj,good,"of people, competent or talented"
+goed,adj,good,effective
+goed,adj,good,favorable
+goed,adj,good,beneficial; worthwhile
 grootvader,noun,grandfather,grandfather (from either side)
 opa,noun,grandfather,grandfather (from either side)
 bompa,noun,grandfather,grandfather (from either side)
+voorvader,noun,grandfather,male forefather
 grootmoeder,noun,grandmother,mother of someone's parent
 oma,noun,grandmother,mother of someone's parent
 grootouder,noun,grandparent,parent of one's parent
 grijs,noun,gray,colour
 groot,adj,great,"very big, large scale"
+heerlijk,adj,great,very good
+prachtig,adj,great,very good
 groen,noun,green,colour
+groene,noun,green,member of a green party
+groene jongen,noun,green,member of a green party
 groep,noun,group,number of things or persons being in some relation to each other
 verzameling,noun,group,number of things or persons being in some relation to each other
+groep,noun,group,in group theory
+groep,noun,group,column in the periodic table
 groeien,verb,grow,(intransitive) to become bigger
 wassen,verb,grow,(intransitive) to become bigger
+groeien,verb,grow,(intransitive) to appear or sprout
+spruiten,verb,grow,(intransitive) to appear or sprout
+ontspruiten,verb,grow,(intransitive) to appear or sprout
+doen groeien,verb,grow,(transitive) to cause something to become bigger
+telen,verb,grow,(transitive) to cause something to become bigger
+kweken,verb,grow,(transitive) to cause something to become bigger
 gok,noun,guess,prediction about the outcome of something
 gissing,noun,guess,prediction about the outcome of something
 veronderstelling,noun,guess,prediction about the outcome of something
@@ -522,34 +1300,91 @@ gis,noun,guess,prediction about the outcome of something
 gitaar,noun,guitar,musical instrument
 sportschool,noun,gym,sporting facility specialized for lifting weights and exercise
 haar,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+haar,noun,hair,mass of such filaments on the human head
+haar,noun,hair,mass of such filaments growing from the skin of humans and animals
 helft,noun,half,one of two equal parts into which anything may be divided
 hand,noun,hand,part of the fore limb
+wijzer,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+kant,noun,hand,"side; part; direction, either right or left"
+zijde,noun,hand,"side; part; direction, either right or left"
+handigheid,noun,hand,power of performance; means of execution; ability; skill; dexterity
+matroos,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+werkkracht,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+werkman,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+handschift,noun,hand,handwriting; style of penmanship
+handtekening,noun,hand,person's autograph or signature
+handvol,noun,hand,"that which is, or may be, held in a hand at once"
+speelhand,noun,hand,set of cards held by a player in a card game
+greep,noun,hand,"small part of a gunstock near the lock, grasped when aiming"
+handgreep,noun,hand,"small part of a gunstock near the lock, grasped when aiming"
 gebeuren,verb,happen,to occur
 gelukkig,adj,happy,"contented, joyous"
 blij,adj,happy,"contented, joyous"
+gelukkig,adj,happy,"fortunate, lucky"
+tevreden,adj,happy,content (to do something); having no objection (to something)
+handig,adj,happy,"appropriate, apt, felicitous"
+bedreven,adj,happy,"appropriate, apt, felicitous"
+kundig,adj,happy,"appropriate, apt, felicitous"
 hoed,noun,hat,a head covering
+pet,noun,hat,a role or capacity
+petje,noun,hat,a role or capacity
 haten,verb,hate,to dislike intensely
 hebben,verb,have,to possess
+hebben,verb,have,auxiliary used in forming the perfect and the past perfect tenses
+zijn,verb,have,auxiliary used in forming the perfect and the past perfect tenses
+krijgen,verb,have,give birth to — see also give birth
+hebben,verb,have,engage in sexual intercourse with
 hoofd,noun,head,part of the body
 kop,noun,head,part of the body
+hoofd,noun,head,topmost or leading part
+kop,noun,head,"end of hammer, axe, golf club etc."
+schuim,noun,head,foam on carbonated beverages
+hoofd,noun,head,"leader, chief, mastermind"
+baas,noun,head,"leader, chief, mastermind"
+bazin,noun,head,"leader, chief, mastermind"
+leider,noun,head,"leader, chief, mastermind"
+leidster,noun,head,"leader, chief, mastermind"
+chef,noun,head,"leader, chief, mastermind"
+cheffin,noun,head,"leader, chief, mastermind"
+hoofdmeester,noun,head,"headmaster, headmistress"
+krop,noun,head,"clump of seeds, leaves or flowers"
+hoofd (geven),noun,head,slang: oral sex
 gezondheid,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 welzijn,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 gezond,adj,healthy,enjoying good health
+gezond,adj,healthy,conducive to health
+hartig,adj,healthy,evincing health
+gezond,adj,healthy,"significant, hefty"
+deugdelijk,adj,healthy,"significant, hefty"
+duchtig,adj,healthy,"significant, hefty"
+hartig,adj,healthy,"significant, hefty"
 horen,verb,hear,to perceive with the ear
+horen,verb,hear,To receive information about; to come to learn of
 hulp,noun,help,action given to provide assistance
+helper,noun,help,person or persons who provides assistance with some task
+helpster,noun,help,person or persons who provides assistance with some task
 hier,adv,here,"in, on, or at this place"
+hierheen,adv,here,to this place
 hoog,adj,high,elevated; tall
+hoog,adj,high,of great or large quantity
+high,adj,high,slang: under the influence of drugs
 geschiedenis,noun,history,aggregate of past events
 historie,noun,history,aggregate of past events
+geschiedenis,noun,history,branch of knowledge that studies the past
+geschiedenis,noun,history,medicine: list of past and continuing medical conditions
 hobby,noun,hobby,activity done for enjoyment in spare time
 vrijetijdsbesteding,noun,hobby,activity done for enjoyment in spare time
 boomvalk,noun,hobby,Falco subbuteo
 thuis,adv,home,at home
+naar huis,adv,home,homewards
 huiswerk,noun,homework,work that is done at home
 huistaak,noun,homework,work that is done at home
+huiswerk,noun,homework,preliminary or preparatory work
 hopen,verb,hope,"to want something to happen, with expectation that it might"
 paard,noun,horse,members of the species Equus ferus
 ros,noun,horse,members of the species Equus ferus
+bok,noun,horse,gymnastic equipment
+paard,noun,horse,knight in chess — see also knight
 ziekenhuis,noun,hospital,large medical facility
 hospitaal,noun,hospital,large medical facility
 gasthuis,noun,hospital,large medical facility
@@ -560,160 +1395,503 @@ gasthuizen,noun,hospital,large medical facility
 klinieken,noun,hospital,large medical facility
 heet,adj,hot,having a high temperature
 warm,adj,hot,having a high temperature
+warm,adj,hot,of the weather
+heet,adj,hot,of the weather
+pittig,adj,hot,spicy
+pikant,adj,hot,spicy
+heet,adj,hot,spicy
+begeerlijk,adj,hot,slang: physically very attractive
+heet,adj,hot,slang: physically very attractive
+lekker,adj,hot,slang: physically very attractive
+aantrekkelijk,adj,hot,slang: physically very attractive
+porno,adj,hot,slang: physically very attractive
 hotel,noun,hotel,establishment providing accommodation
 uur,noun,hour,time period of sixty minutes
 stonde,noun,hour,time period of sixty minutes
+uur,noun,hour,the time
+tijd,noun,hour,the time
 huis,noun,house,human abode
 onderkomen,noun,house,human abode
+zaal,noun,house,theatre
+kamer,noun,house,debating chamber for government politicians
+huis,noun,house,debating chamber for government politicians
+huis,noun,house,"dynasty, familiar descendance"
+huis,noun,house,astrology: one of the twelve divisions of an astrological chart
+vadertje en moedertje,noun,house,children's game
 hoe,adv,how,to what degree
+hoe,adv,how,in what manner
+hoe,adv,how,in what state
+hoe,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 daarentegen,adv,however,nevertheless
 echter,adv,however,nevertheless
 evenwel,adv,however,nevertheless
 hongerig,adj,hungry,affected by hunger; desirous of food
 honger hebben,adj,hungry,affected by hunger; desirous of food
+hongerend,adj,hungry,"eager, having a desire for something"
+hongerig,adj,hungry,"eager, having a desire for something"
+begerig,adj,hungry,"eager, having a desire for something"
+lustend,adj,hungry,"eager, having a desire for something"
+snakkend,adj,hungry,"eager, having a desire for something"
 man,noun,husband,male partner in marriage
 echtgenoot,noun,husband,male partner in marriage
 ijs,noun,ice,water in frozen form
+ijs,noun,ice,frozen dessert
+ijsje,noun,ice,frozen dessert
 roomijs,noun,ice cream,dessert
 ijs,noun,ice cream,dessert
+ijsje,noun,ice cream,in a cone
+ijsco,noun,ice cream,in a cone
+idee,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+ingeving,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+gedachte,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+denkbeeld,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+gedachte,noun,idea,"any result of mental activity; a thought, a notion; a way of thinking"
+bedenking,noun,idea,"any result of mental activity; a thought, a notion; a way of thinking"
+idee,noun,idea,"any result of mental activity; a thought, a notion; a way of thinking"
+bedoeling,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+intentie,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+plan,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+idee,noun,idea,"a conception in the mind of something to be done; a plan for doing something, an intention"
+indruk,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
+impressie,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
+idee,noun,idea,a vague or fanciful notion; a feeling or hunch; an impression
 zich inbeelden,verb,imagine,(transitive) to form a mental image of something
 zich verbeelden,verb,imagine,(transitive) to form a mental image of something
 zich voorstellen,verb,imagine,(transitive) to form a mental image of something
+zich inbeelden,verb,imagine,(transitive) to believe
+zich voorstellen,verb,imagine,(transitive) to believe
+veronderstellen,verb,imagine,(transitive) to assume
+zich inbeelden,verb,imagine,(transitive) to conjecture
+zich voorstellen,verb,imagine,(transitive) to conjecture
+fantaseren,verb,imagine,(intransitive) to use one's imagination
+raden,verb,imagine,(intransitive) to guess
+speculeren,verb,imagine,(intransitive) to guess
 belangrijk,adj,important,having relevant and crucial value
 beter maken,verb,improve,to make something better
 verbeteren,verb,improve,to make something better
 beteren,verb,improve,to make something better
+beteren,verb,improve,to become better
 binnen,adv,in,moving to the interior
+in,adv,in,still able to play
 informatie,noun,information,communicable knowledge
 interesseren,verb,interest,to attract attention or concern
 geïnteresseerd,adj,interested,having or showing interest
 geïnteresseerde,adj,interested,having or showing interest
+belanghebbend,adj,interested,owning a share
 interessant,adj,interesting,arousing or holding the attention
 belangwekkend,adj,interesting,arousing or holding the attention
 interviewen,verb,interview,to have an interview
 introduceren,verb,introduce,to cause someone to be acquainted
 voorstellen,verb,introduce,to cause someone to be acquainted
+voorstellen,verb,introduce,to make something or someone known by formal announcement or recommendation
+introduceren,verb,introduce,to bring into practice — see also bring in
 eiland,noun,island,area of land completely surrounded by water
+eiland,noun,island,entity surrounded by other entities that are very different from itself
+enclave,noun,island,entity surrounded by other entities that are very different from itself
 jas,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+jas,noun,jacket,piece of a person's suit
+jas,noun,jacket,protective or insulating cover
+vest,noun,jacket,protective or insulating cover
 jeansbroek,noun,jeans,denim trousers
 jeans,noun,jeans,denim trousers
 spijkerbroek,noun,jeans,denim trousers
 taak,noun,job,task
 job,noun,job,task
+werk,noun,job,economic role for which a person is paid
+job,noun,job,economic role for which a person is paid
+beroep,noun,job,economic role for which a person is paid
+baan,noun,job,economic role for which a person is paid
+baan,noun,job,computing: task(s) carried out in batch mode
 samenvoegen,verb,join,to combine more than one item into one; to put together
 verenigen,verb,join,to combine more than one item into one; to put together
+samenkomen,verb,join,to come together; to meet
+vervoegen,verb,join,to come into the company of
+lid worden van,verb,join,to become a member of
+toetreden,verb,join,to become a member of
 sap,noun,juice,liquid from a plant
+sap,noun,juice,beverage made of juice
+sap,noun,juice,liquid resembling juice
 slechts,adv,just,"only, simply, merely"
 enkel,adv,just,"only, simply, merely"
 net,adv,just,"only, simply, merely"
 gewoon,adv,just,"only, simply, merely"
 maar,adv,just,"only, simply, merely"
+maar,adv,just,used to reduce the force of an imperative
+gewoon,adv,just,used to reduce the force of an imperative
+net,adv,just,"recently, moments ago"
+onlangs,adv,just,"recently, moments ago"
+pas,adv,just,"recently, moments ago"
+zojuist,adv,just,"recently, moments ago"
+zonet,adv,just,"recently, moments ago"
+net,adv,just,"by a narrow margin, barely"
+juist,adv,just,"by a narrow margin, barely"
+nog net,adv,just,"by a narrow margin, barely"
+op een haar na,adv,just,"by a narrow margin, barely"
+precies,adv,just,"exactly, precisely, perfectly"
 houden,verb,keep,to maintain possession of
+houden,verb,keep,to maintain the condition of; to preserve
+behouden,verb,keep,"to remain in, to be confined to"
 sleutel-,adj,key,indispensable
 soort,noun,kind,"type, race, category"
 type,noun,kind,"type, race, category"
 categorie,noun,kind,"type, race, category"
 genre,noun,kind,"type, race, category"
 ras,noun,kind,"type, race, category"
+aard,noun,kind,character or nature
+natuur,noun,kind,character or nature
+slag,noun,kind,character or nature
+natura,noun,kind,goods and services as payment
+gelijke munt,noun,kind,equivalent means as response
 keuken,noun,kitchen,room
 weten,verb,know,be justifiably certain or sure about (something true)
+kennen,verb,know,be acquainted or familiar with
+weten,verb,know,have knowledge of
+kennen,verb,know,experience
 land,noun,land,part of Earth that is not covered by oceans or other bodies of water
+land,noun,land,real estate or landed property
+grond,noun,land,real estate or landed property
+land,noun,land,real estate or landed property
+land,noun,land,country or region
+land,noun,land,someone's homeplace
+vaderland,noun,land,someone's homeplace
+grond,noun,land,ground that is suitable for farming
+trek,noun,land,space between the rifling grooves in a gun
 taal,noun,language,body of words used as a form of communication
 spraak,noun,language,body of words used as a form of communication
 tong,noun,language,body of words used as a form of communication
+taal,noun,language,the ability to communicate using words
+spraak,noun,language,the ability to communicate using words
+taal,noun,language,nonverbal communication
+taal,noun,language,vocabulary of a particular field
+jargon,noun,language,vocabulary of a particular field
+taal,noun,language,particular words used
+taal,noun,language,computer language — see also computer language
+code,noun,language,computer language — see also computer language
 groot,adj,large,of greater size — see also big
 laat,adv,late,past a designated time
 later,adv,later,more late
+later,adv,later,afterward in time
+later,adv,later,at some unspecified time in the future
 lach,noun,laugh,expression of mirth peculiar to the human species
+lach,noun,laugh,something that provokes mirth or scorn
 leren,verb,learn,to acquire knowledge or ability
+leren,verb,learn,to be studying
+studeren,verb,learn,to be studying
+ervaren,verb,learn,to come to know; to become informed of; to find out
+vernemen,verb,learn,to come to know; to become informed of; to find out
+te weten komen,verb,learn,to come to know; to become informed of; to find out
+op de hoogte gesteld worden,verb,learn,to come to know; to become informed of; to find out
 achterlaten,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 "laten (staan, zijn)",verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+laten,verb,leave,to transfer possession after death
+nalaten,verb,leave,to transfer possession after death
+deponeren,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
+overdragen,verb,leave,to transfer responsibility or attention
+overlaten,verb,leave,to transfer responsibility or attention
+verlaten,verb,leave,"to depart from, end one's connection or affiliation with"
+achterlaten,verb,leave,"to depart from, end one's connection or affiliation with"
+beëindigen,verb,leave,to end one's membership in
+verlaten,verb,leave,to end one's membership in
+weggaan,verb,leave,to depart (intransitive)
+vertrekken,verb,leave,to depart (intransitive)
 linkerkant,noun,left,the left side
+linkerkant,noun,left,the ensemble of left-wing political parties
+links,noun,left,the ensemble of left-wing political parties
 been,noun,leg,lower limb from groin to ankle
 poot,noun,leg,lower limb from groin to ankle
+scheen,noun,leg,portion of the lower appendage from knee to ankle
+scheenbeen,noun,leg,portion of the lower appendage from knee to ankle
+onderbeen,noun,leg,portion of the lower appendage from knee to ankle
+broekspijp,noun,leg,part of garment covering the leg
+poot,noun,leg,supporting protrusion of an inanimate object
 les,noun,lesson,section of learning or teaching
 laten,verb,let,allow
 toestaan,verb,let,allow
+verhuren,verb,let,put up for rent
 letter,noun,letter,a symbol in an alphabet
 karakter,noun,letter,a symbol in an alphabet
 letterteken,noun,letter,a symbol in an alphabet
 boekstaaf,noun,letter,a symbol in an alphabet
+brief,noun,letter,written message
 bibliotheek,noun,library,"institution which holds books, etc."
 boekerij,noun,library,"institution which holds books, etc."
+bibliotheek,noun,library,collection of books
+boekenkast,noun,library,collection of books
+archief,noun,library,collection of records
 liegen,verb,lie,tell an intentional untruth
 liggen,verb,lie,be in horizontal position
+liggen,verb,lie,be situated
+gelegen zijn,verb,lie,be situated
 leven,noun,life,the state of being alive
+leven,noun,life,the essence of the manifestation and the foundation of the being
+leven,noun,life,the subjective and inner manifestation of the individual
+leven,noun,life,"the world in general, existence"
+leven,noun,life,a worthwhile existence
+leven,noun,life,something inherently part of a person's existence
+levenslang,noun,life,life sentence
+levensduur,noun,life,duration
 licht,adj,light,having light
 helder,adj,light,having light
 lichtend,adj,light,having light
 lichtgevend,adj,light,having light
 lichtend,adj,light,having light
+licht,adj,light,pale in colour
 licht,adj,light,of low weight
+licht,adj,light,"low in fat, calories, alcohol, salt, etc."
+onbelangrijk,adj,light,of little significance
+triviaal,adj,light,of little significance
 houden van,verb,like,to enjoy
 graag (hebben),verb,like,to enjoy
 lusten,verb,like,to enjoy
 graag lusten,verb,like,to enjoy
 leuk vinden,verb,like,to enjoy
+graag hebben,verb,like,to find attractive
+graag zien,verb,like,to find attractive
+zich aangetrokken voelen tot,verb,like,to find attractive
+leuk vinden,verb,like,to find attractive
+liken,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+liken,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
 lijn,noun,line,"rope, cord, or string"
 touw,noun,line,"rope, cord, or string"
+rechte,noun,line,"path through two or more points, threadlike mark"
+lijn,noun,line,"path through two or more points, threadlike mark"
+streep,noun,line,"path through two or more points, threadlike mark"
+rechte,noun,line,geometry: infinite one-dimensional figure
+lijn,noun,line,geometry: infinite one-dimensional figure
+lijnstuk,noun,line,geometry: continuous finite segment of such a figure
+rechte,noun,line,geometry: continuous finite segment of such a figure
+lijn,noun,line,geometry: continuous finite segment of such a figure
+kant,noun,line,graph theory: edge of a graph
+lijn,noun,line,graph theory: edge of a graph
+meridiaan,noun,line,"geography: circle of latitude or of longitude, as represented on a map"
+lijn,noun,line,"geography: circle of latitude or of longitude, as represented on a map"
+regel,noun,line,music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed
+regel,noun,line,"long tape, or a narrow ribbon of steel, etc., marked with subdivisions, as feet and inches, for measuring; a tapeline"
+meetlat,noun,line,"long tape, or a narrow ribbon of steel, etc., marked with subdivisions, as feet and inches, for measuring; a tapeline"
+richting,noun,line,"direction, path"
+gezichtspunt,noun,line,"direction, path"
+lijn,noun,line,telephone or network connection
+aansluiting,noun,line,telephone or network connection
+verbinding,noun,line,telephone or network connection
+brief,noun,line,"letter, written form of communication"
+regel,noun,line,"letter, written form of communication"
+verbinding,noun,line,"connected series of public conveyances, and hence, an established arrangement for forwarding merchandise, etc."
+loopgraaf,noun,line,fortifications: trench or rampart
+contour,noun,line,"exterior limit of a figure, plat, or territory; boundary; contour; outline"
+grens,noun,line,"exterior limit of a figure, plat, or territory; boundary; contour; outline"
+lijn,noun,line,"threadlike crease marking the face or the hand; hence, characteristic mark — see also wrinkle"
+rimpel,noun,line,"threadlike crease marking the face or the hand; hence, characteristic mark — see also wrinkle"
+lijn,noun,line,lineament; feature; figure
+kenmerk,noun,line,lineament; feature; figure
+rij,noun,line,"straight sequence of people, queue"
+file,noun,line,"straight sequence of people, queue"
+lijn,noun,line,"straight sequence of people, queue"
+lijn,noun,line,series or succession of ancestors or descendants of a given person
+regel,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+lijn,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+vers,noun,line,poetic: verse
+regel,noun,line,poetic: verse
+stanza,noun,line,poetic: verse
+lijn,noun,line,"sentence of dialogue, especially in a script or screenplay"
+visie,noun,line,"course of conduct, thought, occupation, or policy"
+methode,noun,line,"course of conduct, thought, occupation, or policy"
+lijn,noun,line,"course of conduct, thought, occupation, or policy"
+lijn,noun,line,"official, stated position of an individual or political faction"
+gamma,noun,line,"products or services sold by a business, or the business itself"
+aanbod,noun,line,"products or services sold by a business, or the business itself"
+productlijn,noun,line,"products or services sold by a business, or the business itself"
+maatschappij,noun,line,"products or services sold by a business, or the business itself"
+uitlijning,noun,line,engineering: proper relative position or adjustment of parts
 lijn,noun,line,"obsolete: flax, linen — see also flax, linen"
 leeuw,noun,lion,big cat Panthera leo
+leeuw,noun,lion,heraldic charge
+leeuw,noun,lion,person with strength and courage
+coryfee,noun,lion,famous person
 oplijsten,verb,list,to create or recite a list
 luisteren,verb,list,to listen
 luisteren,verb,listen,to pay attention to a sound
+luisteren,verb,listen,to expect or wait for a sound
+opletten,verb,listen,to expect or wait for a sound
+gehoorzamen,verb,listen,to accept advice or obey instruction
+luisteren,verb,listen,to accept advice or obey instruction
+horen,verb,listen,to hear (something)
 klein,adj,little,small in size
+klein,adj,little,very young
+jongere,adj,little,(of a sibling) younger
+klein,adj,little,(of a sibling) younger
 leven,verb,live,be alive
+wonen,verb,live,have permanent residence
+verderleven,verb,live,"survive, persevere, continue"
+overleven,verb,live,"survive, persevere, continue"
+voortbestaan,verb,live,"survive, persevere, continue"
 lokaal,adj,local,of a nearby location
 plaatselijk,adj,local,of a nearby location
 kijken,verb,look,to try to see
+lijken,verb,look,"to appear, to seem"
+er uitzien,verb,look,"to appear, to seem"
+uitzien,verb,look,to face
+uitzien (naar),verb,look,to expect
 verliezen,verb,lose,cause (something) to cease to be in one's possession or capability
+verliezen,verb,lose,(transitive) fail to win
+afvallen,verb,lose,shed (weight)
+verliezen,verb,lose,have (somebody of one's kin) die
+verliezen,verb,lose,fail to be the winner
 houden van,verb,love,have a strong affection for
 beminnen,verb,love,have a strong affection for
 liefhebben,verb,love,have a strong affection for
 graag zien,verb,love,have a strong affection for
+gedijen,verb,love,"to need, thrive on"
+gek zijn op,verb,love,be strongly inclined towards doing
+houden van,verb,love,be strongly inclined towards doing
+houden van,verb,love,care about; will good for
+liefhebben,verb,love,care about; will good for
+gek zijn op,verb,love,to lust for
+smachten naar,verb,love,to lust for
+vrijen,verb,love,(euphemistic): to have sex with
+de liefde bedrijven,verb,love,(euphemistic): to have sex with
 lunch,noun,lunch,meal around midday
 middageten,noun,lunch,meal around midday
 (licht) middagmaal,noun,lunch,meal around midday
 machine,noun,machine,mechanical or electrical device
 apparaat,noun,machine,mechanical or electrical device
+automobiel,noun,machine,"archaic: vehicle, automobile"
+machine,noun,machine,a person who is very proficient
 tijdschrift,noun,magazine,periodical
 magazine,noun,magazine,periodical
+magazijn,noun,magazine,ammunition storehouse
+magazijn,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 hoofd-,adj,main,"chief, most important, or principal in extent, etc."
 voornaamste,adj,main,"chief, most important, or principal in extent, etc."
 belangrijkste,adj,main,"chief, most important, or principal in extent, etc."
 maken,verb,make,to construct
+maken,verb,make,to create
+vormen,verb,make,to constitute
+maken,verb,make,to interpret
+denken,verb,make,to interpret
+interpreteren,verb,make,to interpret
+maken,verb,make,to bring into success
+maken,verb,make,to cause to be
+doen,verb,make,to cause to do
+ertoe brengen,verb,make,to cause to do
+doen,verb,make,to force to do
+ertoe brengen,verb,make,to force to do
+maken,verb,make,to indicate or suggest to be
+winkelcentrum,noun,mall,enclosed shopping centre
 man,noun,man,adult male human
 heer,noun,man,adult male human
+mens,noun,man,a human being
+pion,noun,man,piece in board games
+speelstuk,noun,man,piece in board games
 kaart,noun,map,visual representation of an area
 landkaart,noun,map,visual representation of an area
 plan,noun,map,visual representation of an area
 plattegrond,noun,map,visual representation of an area
 markt,noun,market,gathering for trading
+markt,noun,market,spacious site for trading
+marktplein,noun,market,spacious site for trading
+markt,noun,market,group of potential customers
+afzetmarkt,noun,market,group of potential customers
+markt,noun,market,geographical area where a commercial demand exists
+afzetmarkt,noun,market,geographical area where a commercial demand exists
+afzetgebied,noun,market,geographical area where a commercial demand exists
+markt,noun,market,formally organized system of trading in specified goods or effects
+beurs,noun,market,formally organized system of trading in specified goods or effects
+markt-,noun,market,used attributively
 getrouwd,adj,married,in a state of marriage; having a wife or a husband
 overeenstemmen,verb,match,intransitive: to agree; to be equal
+overeenkomen met,verb,match,make a successful pairing
+evenaren,verb,match,equal or exceed in achievement
 misschien,adv,maybe,indicating a lack of certainty
 wellicht,adv,maybe,indicating a lack of certainty
 mogelijk,adv,maybe,indicating a lack of certainty
 mogelijkerwijs,adv,maybe,indicating a lack of certainty
+misschien,adv,maybe,as a pro-sentence
+het zou kunnen,adv,maybe,as a pro-sentence
+mogelijk,adv,maybe,as a pro-sentence
 maaltijd,noun,meal,food that is prepared and eaten
 meel,noun,meal,coarse-ground edible part of various grains
 willen,verb,mean,to intend; plan on doing
 van plan zijn,verb,mean,to intend; plan on doing
+bedoelen,verb,mean,to have intentions of some kind
+menen,verb,mean,to have intentions of some kind
+bedoelen,verb,mean,to intend (something) for a given purpose or fate
+betekenen,verb,mean,"to convey, indicate"
+willen zeggen,verb,mean,"to convey, indicate"
+bedoelen,verb,mean,"to convey, indicate"
+bedoelen,verb,mean,to signify
+willen zeggen,verb,mean,to signify
+betekenen,verb,mean,to signify
+menen,verb,mean,to have conviction in what one says
+betekenen,verb,mean,to result in; bring about
+betekenen,verb,mean,to be important
 waarde,noun,meaning,symbolic value of something
 betekenis,noun,meaning,symbolic value of something
+zin,noun,meaning,"significance of a thing, as ""the meaning of life"""
+betekenis,noun,meaning,definition or connotation of a word
 vlees,noun,meat,animal flesh used as food
+vleessoort,noun,meat,type of meat
+vlees,noun,meat,any sort of flesh
+vruchtvlees,noun,meat,solid edible part of a plant
+substantie,noun,meat,"substance, solid part"
+vlees op de botten,noun,meat,"substance, solid part"
+hansworst,noun,meat,meathead
+lulvent,noun,meat,meathead
 ontmoeten,verb,meet,to come face to face with by accident; to encounter
 treffen,verb,meet,to come face to face with by accident; to encounter
+afspreken,verb,meet,to come face to face with someone by arrangement
+treffen,verb,meet,to come face to face with someone by arrangement
+ontmoeten,verb,meet,to get acquainted with
+leren kennen,verb,meet,to get acquainted with
+elkander ontmoeten,verb,meet,to come together in conflict
+raken,verb,meet,to converge and finally touch or intersect
+overeenstemmen met,verb,meet,to satisfy; to comply with
+beantwoorden aan,verb,meet,to satisfy; to comply with
+vervullen,verb,meet,to satisfy; to comply with
+bijeenkomst,noun,meeting,gathering for a purpose
+ontmoeting,noun,meeting,gathering for a purpose
+vergadering,noun,meeting,gathering for a purpose
+meeting,noun,meeting,gathering for a purpose
+vergadering,noun,meeting,people at such a gathering
+ontmoeting,noun,meeting,encounter between people
+samenkomst,noun,meeting,place or instance of junction or intersection
+trefpunt,noun,meeting,place or instance of junction or intersection
 lid,noun,member,one who officially belongs to a group
+lid,noun,member,"organ, limb"
+ledemaat,noun,member,"organ, limb"
+eikel,noun,member,penis
+penis,noun,member,penis
 menu,noun,menu,details of the food to be served at a banquet
+menukaart,noun,menu,list of dishes offered in a restaurant
+menu,noun,menu,computing: list from which the user may select an operation to be performed
 bericht,noun,message,"communication, concept or information conveyed"
 boodschap,noun,message,"communication, concept or information conveyed"
+boodschap,noun,message,underlying theme
 meter,noun,meter,measuring instrument
 teller,noun,meter,measuring instrument
+meter,noun,meter,short form of parking meter
+teller,noun,meter,short form of parking meter
+versmaat,noun,meter,rhythm of poetry
+metrum,noun,meter,rhythm of poetry
+middernacht,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 mijl,noun,mile,measure of length
 melk,noun,milk,liquid
 minuut,noun,minute,unit of time
+minuutje,noun,minute,short but unspecified period of time
+secondje,noun,minute,short but unspecified period of time
+moment,noun,minute,short but unspecified period of time
+minuut,noun,minute,unit of angular measure — see also minute of angle
+notulen,noun,minute,record of meeting
 missen,verb,miss,to fail to hit
+ontwijken,verb,miss,to avoid; to escape
+missen,verb,miss,to avoid; to escape
+missen,verb,miss,to feel the absence of someone or something; to feel the want or need of
+niet snappen,verb,miss,to fail to understand
+ergens overheen kijken,verb,miss,to fail to understand
+ergens overheen lezen,verb,miss,to fail to understand
+over het hoofd zien,verb,miss,"to fail to notice, to overlook"
+missen,verb,miss,to fail to attend
+missen,verb,miss,to be late for something
+missen,verb,miss,to lack something
 fout,noun,mistake,an error
 misverstand,noun,mistake,an error
 blunder,noun,mistake,an error
@@ -721,6 +1899,10 @@ vergissing,noun,mistake,an error
 onjuistheid,noun,mistake,an error
 model,noun,model,person
 mannequin,noun,model,person
+model,noun,model,miniature
+model,noun,model,simplified representation
+model,noun,model,style
+model,noun,model,structural design
 modern,adj,modern,pertaining to the current time and style
 eigentijds,adj,modern,pertaining to the current time and style
 hedendaags,adj,modern,pertaining to the current time and style
@@ -730,25 +1912,72 @@ moment,noun,moment,very brief period of time
 oogwenk,noun,moment,very brief period of time
 tijdstip,noun,moment,very brief period of time
 tel,noun,moment,very brief period of time
+moment,noun,moment,moment in time
+wijl,noun,moment,moment in time
+wijle,noun,moment,moment in time
+tijdstip,noun,moment,moment in time
+stond,noun,moment,moment in time
+moment,noun,moment,moment of force
+krachtmoment,noun,moment,moment of force
 geld,noun,money,means of exchange and measure of value
 maand,noun,month,period into which a year is divided
 ochtend,noun,morning,part of the day between dawn and midday
 morgen,noun,morning,part of the day between dawn and midday
 voormiddag,noun,morning,part of the day between dawn and midday
+ochtend,noun,morning,the part of the day after midnight and before midday
+morgen,noun,morning,the part of the day after midnight and before midday
 moeder,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+moeder,noun,mother,one’s female parent
 berg,noun,mountain,large mass of earth and rock
+berg,noun,mountain,large amount
 muis,noun,mouse,rodent of the genus Mus
+muisje,noun,mouse,shy person
+muis,noun,mouse,computing: input device
+computermuis,noun,mouse,computing: input device
 mond,noun,mouth,the opening of a creature through which food is ingested
 bek,noun,mouth,the opening of a creature through which food is ingested
 muil,noun,mouth,the opening of a creature through which food is ingested
+monding,noun,mouth,the end of a river out of which water flows
+riviermond,noun,mouth,the end of a river out of which water flows
+muide,noun,mouth,the end of a river out of which water flows
 bewegen,verb,move,(intransitive) to change place or posture; to go
 zich bewegen,verb,move,(intransitive) to change place or posture; to go
 zich verplaatsen,verb,move,(intransitive) to change place or posture; to go
+stappen ondernemen,verb,move,to act; to take action
+maatregelen treffen,verb,move,to act; to take action
+verhuizen,verb,move,to change residence
+(doen) bewegen,verb,move,to cause to change place or posture; to set in motion
+verroeren,verb,move,to cause to change place or posture; to set in motion
+roeren,verb,move,to cause to change place or posture; to set in motion
+verzetten,verb,move,to transfer from one space or position to another
+verplaatsen,verb,move,to transfer from one space or position to another
+drijven,verb,move,to excite to action
+aanzetten,verb,move,to excite to action
+aansporen,verb,move,to excite to action
+bewegen,verb,move,to excite to action
+ontroeren,verb,move,to arouse the feelings or passions of
+roeren,verb,move,to arouse the feelings or passions of
+bewegen,verb,move,to arouse the feelings or passions of
+aangrijpen,verb,move,to arouse the feelings or passions of
+ontzetten,verb,move,to arouse the feelings or passions of
+voorstellen,verb,move,to propose; to recommend
 film,noun,movie,motion picture
 museum,noun,museum,building or institution
 muziek,noun,music,"sound, organized in time in a melodious way"
+muziek,noun,music,any pleasing or interesting sounds
+bladmuziek,noun,music,sheet music
+partituur,noun,music,sheet music
 moeten,verb,must,be required to
 noemen,verb,name,to give a name to
+zeggen,verb,name,"to mention, specify"
+kiezen,verb,name,"to mention, specify"
+vermelden,verb,name,"to identify, define, specify"
+opnoemen,verb,name,"to identify, define, specify"
+benoemen,verb,name,to publicly implicate
+aanstellen,verb,name,to designate for a role
+natuurlijk,adj,natural,of or relating to nature
+natuurlijk,adj,natural,without additives
+normaal,adj,natural,as expected
 nabij,adv,near,at or towards a position close in space or time
 bij,adv,near,at or towards a position close in space or time
 naverwant,adv,near,at or towards a position close in space or time
@@ -757,110 +1986,275 @@ vereisen,verb,need,to have an absolute requirement for
 nodig hebben,verb,need,to have an absolute requirement for
 behoeven,verb,need,to have an absolute requirement for
 benodigen,verb,need,to have an absolute requirement for
+moeten hebben,verb,need,to want strongly
+moeten,verb,need,to be obliged to
+nodig zijn,verb,need,to be required or necessary
 negatief,adj,negative,not positive or neutral
+negatief,adj,negative,of electrical charge
+negatief,adj,negative,mathematics: less than zero
+min,adj,negative,mathematics: less than zero
+negatie,adj,negative,linguistics: denying a proposition
+ontkenning,adj,negative,linguistics: denying a proposition
+ontkennende vorm,adj,negative,linguistics: denying a proposition
 nabuurschap,noun,neighborhood,quality of being a neighbor
+buurt,noun,neighborhood,area near one's home
+kwartier,noun,neighborhood,area near one's home
+wijk,noun,neighborhood,area near one's home
+buurt (gemeenschap),noun,neighborhood,inhabitants of a residential area
+nabijheid,noun,neighborhood,quality of physical proximity
 nooit,adv,never,at no time
 nimmer,adv,never,at no time
 nieuw,adj,new,recently made or created
 jong,adj,new,recently made or created
+nieuw,adj,new,"additional, recently discovered"
+nieuw,adj,new,current or later
+nieuw,adj,new,distinguishing something established more recently
+nieuw,adj,new,"in original condition, pristine"
+ander,adj,new,"refreshed, reinvigorated"
+nieuw,adj,new,"refreshed, reinvigorated"
+jong,adj,new,newborn
+nieuw,adj,new,of recent origin
+vers,adj,new,of recent origin
+nieuw,adj,new,"strange, unfamiliar"
+nieuw,adj,new,recently arrived or appeared
+nieuw,adj,new,"inexperienced, unaccustomed"
 nieuws,noun,news,new information of interest
+journaal,noun,news,reports of current events
+nieuws,noun,news,reports of current events
 courant,noun,newspaper,publication
 dagblad,noun,newspaper,publication
 gazet,noun,newspaper,publication
 krant,noun,newspaper,publication
 nieuwsblad,noun,newspaper,publication
+krantenpapier,noun,newspaper,paper on which newspapers are printed
 nabij,adv,next,"In a time, place or sequence closest or following"
 bij,adv,next,"In a time, place or sequence closest or following"
 vlakbij,adv,next,"In a time, place or sequence closest or following"
+volgend,adv,next,On the first subsequent occasion
 leuk,adj,nice,"pleasant, satisfactory"
 aangenaam,adj,nice,"pleasant, satisfactory"
 fijn,adj,nice,"pleasant, satisfactory"
+aantrekkelijk,adj,nice,"attractive, friendly"
+mooi,adj,nice,"attractive, friendly"
+knap,adj,nice,"attractive, friendly"
+lekker,adj,nice,having a pleasant taste or aroma
+aangenaam,adj,nice,having a pleasant taste or aroma
+fijn,adj,nice,showing or requiring great precision or sensitive discernment
 nacht,noun,night,period between sunset and sunrise
+avondje,noun,night,evening or night spent at a particular activity
+nachtje,noun,night,evening or night spent at a particular activity
+overnachting,noun,night,night spent away from home
+nacht,noun,night,night spent away from home
+nachtrust,noun,night,quality of sleep obtained during a night
+nachtelijke duisternis,noun,night,darkness
 noordwaarts,adv,north,towards the north
 neus,noun,nose,protuberance on the face
+snuit,noun,nose,"snout, nose of an animal"
+neus,noun,nose,tip of an object
+neuslengte,noun,nose,length of a horse’s nose
 niet,adv,not,negates meaning of another word
+noot,noun,note,marginal comment or explanation
+aantekening,noun,note,memorandum
+nota,noun,note,memorandum
+briefje,noun,note,short informal letter
+notitie,noun,note,short informal letter
+noot,noun,note,character indicating the length and pitch of a tone
+toon,noun,note,musical sound
+noot,noun,note,musical sound
+bemerking,noun,note,observation
+opmerking,noun,note,observation
+faam,noun,note,reputation; distinction
 nu,adv,now,at the present time
 nou,adv,now,at the present time
 thans,adv,now,at the present time
 aantal,noun,number,abstract entity used to describe quantity
 hoeveelheid,noun,number,abstract entity used to describe quantity
+nummer,noun,number,numeral
+cijfer,noun,number,numeral
+getal,noun,number,mathematics: number
+nummer,noun,number,used to show the rank of something in a list or sequence
+aantal,noun,number,quantity
+getal,noun,number,"grammar: state of being singular, dual or plural"
 verpleegkundige,noun,nurse,person trained to provide care for the sick
+zoogmoeder,noun,nurse,person who takes care of other people's young
+min,noun,nurse,person who takes care of other people's young
+voedster,noun,nurse,person who takes care of other people's young
 object,noun,object,thing
 voorwerp,noun,object,thing
+lijdend voorwerp,noun,object,in grammar
+meewerkend voorwerp,noun,object,in grammar
+object,noun,object,object-oriented programming: instantiation of a class or structure
 oceaan,noun,ocean,one of the large bodies of water
 wereldzee,noun,ocean,one of the large bodies of water
 dienst,noun,office,ceremonial religious duty or rite
+bureau,noun,office,room(s) or building used for non-manual work
+kantoor,noun,office,room(s) or building used for non-manual work
+bureau,noun,office,major governmental division
+dienst,noun,office,major governmental division
+overheidsdienst,noun,office,major governmental division
 vaak,adv,often,"frequently, many times"
 dikwijls,adv,often,"frequently, many times"
 menigmaal,adv,often,"frequently, many times"
 oud,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+oud,adj,old,of a living being: having lived for relatively many years
+vorig,adj,old,former
+voormalig,adj,old,former
+oud,adj,old,"(of an item) used, not new"
 aan,adv,on,to an operating state
 eens,adv,once,one and only one time
 een keer,adv,once,one and only one time
 eenmaal,adv,once,one and only one time
+eens,adv,once,formerly
+ooit,adv,once,formerly
 ui,noun,onion,Allium cepa
 ajuin,noun,onion,Allium cepa
 alleen,adv,only,without others or anything further; exclusively
 alleen maar,adv,only,without others or anything further; exclusively
 enkel,adv,only,without others or anything further; exclusively
 louter,adv,only,without others or anything further; exclusively
+maar,adv,only,no more than
+slechts,adv,only,no more than
+pas,adv,only,as recently as
+net,adv,only,as recently as
 openen,verb,open,to make something accessible
 opendoen,verb,open,to make something accessible
 openmaken,verb,open,to make something accessible
+openen,verb,open,to make accessible to customers
+openmaken,verb,open,to make accessible to customers
+opengaan,verb,open,to begin conducting business
+aansnijden,verb,open,to bring up (a topic)
+opengaan,verb,open,to become open
 mening,noun,opinion,thought a person has formed about a topic
 opinie,noun,opinion,thought a person has formed about a topic
 visie,noun,opinion,thought a person has formed about a topic
 zienswijze,noun,opinion,thought a person has formed about a topic
 gedachte,noun,opinion,thought a person has formed about a topic
+conclusie,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
 tegenover,adv,opposite,in an opposite position
 oranje,adj,orange,having the colour of the fruit of an orange tree
 brandgeel,adj,orange,having the colour of the fruit of an orange tree
 geelrood,adj,orange,having the colour of the fruit of an orange tree
 ordenen,verb,order,to set in (any) order
+ordenen,verb,order,to set in (a good) order
+bevelen,verb,order,to issue a command
+verordonneren,verb,order,to issue a command
+bestellen,verb,order,to request some product or service
 buiten,adv,out,away from the inside or the centre
+uit,adv,out,away from one's usual place or not indoors
+weg,adv,out,away from one's usual place or not indoors
+uit: weg,adv,out,"away from, at a distance"
 buiten,adv,outside,in or to the outside
+buiten,adv,outside,outdoors
+om,adv,over,from upright to horizontal position
+omver,adv,over,from upright to horizontal position
+opnieuw,adv,over,again
+over,adv,over,again
 eigen,adj,own,belonging to (determiner)
 page,noun,page,serving boy
+loopjongen,noun,page,British: youth doing errands
+page,noun,page,moth
+mot,noun,page,moth
 pagina,noun,page,one side of a leaf of a book
 bladzijde,noun,page,one side of a leaf of a book
+pagina,noun,page,collective memory
+blad,noun,page,collective memory
+pagina,noun,page,computing: contiguous block of memory
+blad,noun,page,computing: contiguous block of memory
 verf,noun,paint,substance
 tjet,noun,paint,substance
 schilderij,noun,painting,an illustration or artwork using paint
 schilderwerk,noun,painting,an illustration or artwork using paint
+schilderen,noun,painting,the action of applying paint
+geschilder,noun,painting,the action of applying paint
+schilderen,noun,painting,artistic application of paint
+schilderkunst,noun,painting,artistic application of paint
 paar,noun,pair,two similar or identical things
 koppel,noun,pair,two similar or identical things
 duo,noun,pair,two similar or identical things
 tweetal,noun,pair,two similar or identical things
+paar,noun,pair,two people in a relationship
+koppel,noun,pair,two people in a relationship
+stel,noun,pair,two people in a relationship
+tweespan,noun,pair,couple of working animals attached to work together
+paar,noun,pair,poker hand
+brilstand,noun,pair,cricket score
 broek,noun,pants,garment covering the body from the waist downwards
+onderbroek,noun,pants,undergarment covering the genitals
 papier,noun,paper,sheet material
+document,noun,paper,written document shorter than a book
+werk,noun,paper,written document shorter than a book
+eindwerk,noun,paper,written document shorter than a book
+artikel,noun,paper,academic paper
 alinea,noun,paragraph,passage in text
 paragraaf,noun,paragraph,passage in text
 ouder,noun,parent,person from whom one is descended
+ouder,noun,parent,person who acts as a parent in rearing a child — see also guardian
+ouder,noun,parent,biology: organism from which a plant or animal is biologically descended
+bron,noun,parent,source or origin of something
+ouder,noun,parent,source or origin of something
+ouder,noun,parent,computing: object from which a child or derived object is descended
 parkeren,verb,park,bring (a vehicle) to a halt
 deel,noun,part,fraction of a whole
 partner,noun,partner,someone who is associated with another in a common activity or interest
+partner,noun,partner,a member of a business or law partnership
+partner,noun,partner,"spouse, domestic, or romantic partner"
+medespeler,noun,partner,either member of a pair in a card game or sports team (1.4)
+partij,noun,party,"group of people forming one side in a given dispute, contest etc."
+feest,noun,party,social gathering
+party,noun,party,social gathering
+viering,noun,party,social gathering
+fuif,noun,party,social gathering
 paspoort,noun,passport,official document for foreign travel
 verleden,noun,past,period of time that has already happened
 voorbije,noun,past,period of time that has already happened
 vervlogene,noun,past,period of time that has already happened
+verleden tijd,noun,past,(grammar) past tense
 betalen,verb,pay,to give money in exchange for goods or services
+lonen,verb,pay,to be profitable
+opbrengen,verb,pay,to be profitable
 pen,noun,pen,writing tool
 ren,noun,pen,enclosure (enclosed area) for animals
 kraal,noun,pen,enclosure (enclosed area) for animals
 potlood,noun,pencil,graphite writing-instrument
+griffel,noun,pencil,slate writing-instrument
 mensen,noun,people,a body of human beings; a group of two or more persons
 lui,noun,people,a body of human beings; a group of two or more persons
 volk,noun,people,a body of human beings; a group of two or more persons
 personen,noun,people,a body of human beings; a group of two or more persons
+volk,noun,people,a group of persons forming or belonging to a particular nation etc.
+bevoling,noun,people,a group of persons forming or belonging to a particular nation etc.
+mensen,noun,people,a group of persons regarded as being employees etc.
+volk,noun,people,a group of persons regarded as being employees etc.
+familie,noun,people,"a person's ancestors, relatives or family"
+verwanten,noun,people,"a person's ancestors, relatives or family"
+volk,noun,people,the mass of community as distinguished from a special class
+massa,noun,people,the mass of community as distinguished from a special class
+peper,noun,pepper,spice
+chilipeper,noun,pepper,fruit of the capsicum
 volmaakt,adj,perfect,fitting its definition precisely
 perfect,adj,perfect,fitting its definition precisely
 volkomen,adj,perfect,fitting its definition precisely
+perfect,adj,perfect,having all of its parts in harmony with a common purpose
+perfecte,adj,perfect,having all of its parts in harmony with a common purpose
+volmaakt,adj,perfect,without fault or mistake
+perfect,adj,perfect,without fault or mistake
+voltooid,adj,perfect,grammar: of a tense or verb form: representing a completed action
+voltooide,adj,perfect,grammar: of a tense or verb form: representing a completed action
 periode,noun,period,a length of time
+periode,noun,period,history: period of time seen as coherent entity
+punt,noun,period,punctation mark “.”
+periode,noun,period,length of time during which something repeats
 persoon,noun,person,individual
+persoon,noun,person,"specifically a human being — see also human, human being, man"
+persoon,noun,person,the physical body seen as distinct from the mind
+persoon,noun,person,any individual or formal organization with standing before the courts
+persoon,noun,person,grammar: linguistic category
+persoonlijk,adj,personal,of or pertaining to a particular person
 telefoneren,verb,phone,to call (someone) on the telephone
 opbellen,verb,phone,to call (someone) on the telephone
 foto,noun,photograph,picture
 uitspraak,noun,phrase,short written or spoken expression
+frase,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
 piano,noun,piano,a keyboard musical instrument
 afbeelding,noun,picture,"representation of visible reality produced by drawing, etc"
 prent,noun,picture,"representation of visible reality produced by drawing, etc"
@@ -868,34 +2262,128 @@ portret,noun,picture,"representation of visible reality produced by drawing, etc
 illustratie,noun,picture,"representation of visible reality produced by drawing, etc"
 plaatje,noun,picture,"representation of visible reality produced by drawing, etc"
 figuur,noun,picture,"representation of visible reality produced by drawing, etc"
+foto,noun,picture,photograph
+plaatje,noun,picture,photograph
+film,noun,picture,cinema
+cinema,noun,picture,cinema
+bios,noun,picture,cinema
 stuk,noun,piece,part of a larger whole
 deel,noun,piece,part of a larger whole
 onderdeel,noun,piece,part of a larger whole
+stuk,noun,piece,chess: figure other than pawn; similar counter in other games
 zwijn,noun,pig,mammal of genus Sus
 varken,noun,pig,mammal of genus Sus
+varken,noun,pig,someone who overeats or eats rapidly
+zwijn,noun,pig,someone who overeats or eats rapidly
+slokop,noun,pig,someone who overeats or eats rapidly
+zwijn,noun,pig,nasty or disgusting person
+smeerlap,noun,pig,nasty or disgusting person
+varken,noun,pig,dirty or slovenly person
+flik,noun,pig,derogatory slang for police officer
+smeris,noun,pig,derogatory slang for police officer
+wout,noun,pig,derogatory slang for police officer
+juut,noun,pig,derogatory slang for police officer
+kit,noun,pig,derogatory slang for police officer
+kankerlijer,noun,pig,derogatory slang for police officer
+tiefushoer,noun,pig,derogatory slang for police officer
+hoer,noun,pig,derogatory slang for police officer
 roze,noun,pink,pale red colour
+anjer,noun,pink,flower
 plaats,noun,place,"location, position"
+plein,noun,place,"open space, courtyard, market square"
+huis,noun,place,house or home
+thuis,noun,place,house or home
+tehuis,noun,place,house or home
+positie,noun,place,numeric: the column counting a certain quantity
 ontwerpen,verb,plan,to design
+ontwerpen,verb,plan,to create a plan for
+plannen,verb,plan,to create a plan for
+van plan zijn,verb,plan,to intend
+plannen,verb,plan,to intend
 plataan,noun,plane,deciduous tree
+vlak,noun,plane,geometry: flat surface extending infinitely in all directions
+vlak,noun,plane,level of existence
 schaaf,noun,plane,a tool
 vliegtuig,noun,plane,airplane
 plant,noun,plant,organism capable of photosynthesis
 gewas,noun,plant,organism capable of photosynthesis
 spel,noun,play,playful activity
+spelbeweging,noun,play,individual's performance in a sport
+schouwspel,noun,play,literary composition intended to be represented
+optreden,noun,play,theatrical performance
+schouwspel,noun,play,theatrical performance
+toneelstuk,noun,play,theatrical performance
+stuk,noun,play,theatrical performance
 speler,noun,player,one who plays any game or sport
 speelster,noun,player,one who plays any game or sport
+speler,noun,player,dramatic actor
+vertolker,noun,player,dramatic actor
+bespeler,noun,player,one who plays a musical instrument
+speler,noun,player,one who plays a musical instrument
+speelster,noun,player,one who plays a musical instrument
+speler,noun,player,gambler — see also gambler
+gokker,noun,player,gambler — see also gambler
+speler,noun,player,electronic device
+speler,noun,player,software application
+player,noun,player,software application
+speler,noun,player,one without serious aims
+speelvogel,noun,player,one without serious aims
 punt,noun,point,element in larger whole
 onderdeel,noun,point,element in larger whole
+punt,noun,point,particular moment in an event or occurrence
+tijdstip,noun,point,particular moment in an event or occurrence
+tijdpunt,noun,point,particular moment in an event or occurrence
+standpunt,noun,point,opinion which adds to the discussion
+doel,noun,point,purpose or objective
+doelstelling,noun,point,purpose or objective
+objectief,noun,point,purpose or objective
+target,noun,point,purpose or objective
+tel,noun,point,tiny amount of time
+punt,noun,point,location or place
+plek,noun,point,location or place
+plaats,noun,point,location or place
+oord,noun,point,location or place
+locatie,noun,point,location or place
+punt,noun,point,geometry: zero-dimensional object
+punt,noun,point,full stop
+punt,noun,point,unit of scoring in a game or competition
+doelpunt,noun,point,unit of scoring in a game or competition
+komma,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+eenheid,noun,point,typography: unit of size
+punt,noun,point,sharp tip
+punt,noun,point,any projecting extremity
+schiereiland,noun,point,peninsula or promontory
 politie,noun,police,local or general law enforcement agency
 bekken,noun,pool,body of water
 poel,noun,pool,body of water
 plas,noun,pool,body of water
+plas,noun,pool,small body of standing or stagnant water; a puddle
+poel,noun,pool,small body of standing or stagnant water; a puddle
 arm,adj,poor,with few or no possessions or money
 armoedig,adj,poor,with few or no possessions or money
 berooid,adj,poor,with few or no possessions or money
+arm,adj,poor,used to express pity
+arme,adj,poor,used to express pity
+beklagenswaardig,adj,poor,used to express pity
 volks-,adj,popular,of or pertaining to the common people
 volks,adj,popular,of or pertaining to the common people
+populair,adj,popular,liked by many people
+geliefd,adj,popular,liked by many people
+gewild,adj,popular,liked by many people
+in trek,adj,popular,liked by many people
+positief,adj,positive,legal: formally laid down
+positief,adj,positive,mathematics: greater than zero
+positief,adj,positive,physics: having more protons than electrons
+HIV positief,adj,positive,slang: HIV positive
 mogelijk,adj,possible,able but not certain to happen
+mogelijk,adj,possible,capable of being done or achieved; feasible
+doenbaar,adj,possible,capable of being done or achieved; feasible
+doenlijk,adj,possible,capable of being done or achieved; feasible
+haalbaar,adj,possible,capable of being done or achieved; feasible
+te doen,adj,possible,capable of being done or achieved; feasible
+overwogen,adj,possible,capable of being done or achieved; feasible
+mogelijk,adj,possible,"being considered, e.g. for a position"
+denkbaar,adj,possible,"being considered, e.g. for a position"
 posten,verb,post,send mail
 op de post doen,verb,post,send mail
 versturen,verb,post,send mail
@@ -905,22 +2393,34 @@ pieper,noun,potato,plant tuber eaten as starchy vegetable
 patat,noun,potato,plant tuber eaten as starchy vegetable
 dierenasiel,noun,pound,place for the detention of stray animals
 pond,noun,pound,unit of mass (16 ounces avoirdupois)
+pond,noun,pound,unit of currency
 (de) voorkeur geven,verb,prefer,to favor
 verkiezen (boven),verb,prefer,to favor
 prefereren,verb,prefer,to favor
 voorbereiden,verb,prepare,to make ready for a specific future purpose
 prepareren,verb,prepare,to make ready for a specific future purpose
 klaarmaken,verb,prepare,to make ready for a specific future purpose
+voorbereiden,verb,prepare,to produce by combining elements
 heden,noun,present,current time
 huidige tijd,noun,present,current time
 tamelijk,adv,pretty,somewhat
 nogal,adv,pretty,somewhat
 aardig,adv,pretty,somewhat
 prijs,noun,price,cost required to gain possession of something
+prijs,noun,price,cost of an action or deed
 waarschijnlijk,adv,probably,in all likelihood
 probleem,noun,problem,difficulty
+oefening,noun,problem,schoolwork exercise
+probleem,noun,problem,schoolwork exercise
+probleem,noun,problem,puzzling circumstance
 product,noun,product,commodity for sale
+resultaat,noun,product,consequence of efforts
+reactieproduct,noun,product,result of chemical reaction
+product,noun,product,multiplication result
 programma,noun,program,set of structured activities
+programma,noun,program,"leaflet listing information about a play, game or other activity"
+programma,noun,program,performance of a show or other broadcast on radio or television
+programma,noun,program,software application
 project,noun,project,planned endeavor
 paars,noun,purple,colour
 purper,noun,purple,colour
@@ -929,13 +2429,31 @@ plaatsen,verb,put,to place something somewhere
 leggen,verb,put,to place something somewhere
 doen,verb,put,to place something somewhere
 stellen,verb,put,to place something somewhere
+stellen,verb,put,to express something in a certain manner
+brengen,verb,put,to express something in a certain manner
 kwart,noun,quarter,one of four equal parts — see also one-fourth
 vierdeel,noun,quarter,one of four equal parts — see also one-fourth
 vierde,noun,quarter,one of four equal parts — see also one-fourth
+kwartje,noun,quarter,coin worth 25 cents
+kwartaal,noun,quarter,period of three months
+trimester,noun,quarter,period of three months
+vierdeel,noun,quarter,section of a town
+wijk,noun,quarter,section of a town
+kwartier,noun,quarter,section of a town
+stadsdeel,noun,quarter,section of a town
 vraag,noun,question,"sentence, phrase or word"
+thema,noun,question,subject or topic
+kwestie,noun,question,subject or topic
+twijfel,noun,question,doubt or challenge
+motie,noun,question,proposal to a meeting as a topic for discussion and vote
 snel,adj,quick,moving with speed
 vlug,adj,quick,moving with speed
 rap,adj,quick,moving with speed
+snel,adj,quick,occurring in a short time
+vlug,adj,quick,occurring in a short time
+rap,adj,quick,occurring in a short time
+haastig,adj,quick,occurring in a short time
+kwiek,adj,quick,"lively, witty"
 snel,adv,quickly,"rapidly, fast"
 vlug,adv,quickly,"rapidly, fast"
 gauw,adv,quickly,"rapidly, fast"
@@ -946,59 +2464,174 @@ rustig,adj,quiet,with little sound
 vredig,adj,quiet,with little sound
 geruisloos,adj,quiet,with little sound
 geluidloos,adj,quiet,with little sound
+rustig,adj,quiet,having little motion
+kalm,adj,quiet,having little motion
+rustig,adj,quiet,not busy
+zwijgzaam,adj,quiet,not talking
+stil,adj,quiet,not talking
+rustig,adj,quiet,not talking
+volkomen,adv,quite,in a fully justified sense; truly
+tamelijk,adv,quite,to a moderate extent
+aardig,adv,quite,to a moderate extent
+best,adv,quite,to a moderate extent
+radio,noun,radio,receiver
 regenen,verb,rain,of rain: to fall from the sky
 lezen,verb,read,to look at and interpret letters or other information
+voorlezen,verb,read,to speak aloud words or other information that is written
+lezen,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
+gelezen worden,verb,read,"of text, etc., to be interpreted or read in a particular way"
+ontvangen,verb,read,to be able to hear (in a radio connection)
+horen,verb,read,to be able to hear (in a radio connection)
 lezer,noun,reader,person who reads a publication
 lezeres,noun,reader,person who reads a publication
 lezen,noun,reading,process of interpreting written language
+uitlezing,noun,reading,process of interpreting a symbol
+lezing,noun,reading,value indicated by a measuring device
+voorlezen,noun,reading,event at which material is read aloud
 gereed,adj,ready,prepared for immediate action or use
 klaar,adj,ready,prepared for immediate action or use
 echt,adj,real,"true, genuine, not merely nominal"
 waar,adj,real,"true, genuine, not merely nominal"
+echt,adj,real,"genuine, not artificial, counterfeit or fake"
+echt,adj,real,"genuine, unfeigned, sincere"
+echte,adj,real,"genuine, unfeigned, sincere"
+oprecht,adj,real,"genuine, unfeigned, sincere"
+echt,adj,real,that has physical existence
+werkelijk,adj,real,that has physical existence
+reëel,adj,real,economics: having been adjusted to remove the effects of inflation
+reëel,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
+reële,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
+vast-,adj,real,law: relating to immovable tangible property
+echt,adj,real,"absolute, complete, utter"
+echte,adj,real,"absolute, complete, utter"
+typisch,adj,real,"absolute, complete, utter"
 werkelijk,adv,really,actually
 echt,adv,really,actually
+werkelijk,adv,really,"informally, as an intensifier; very, very much"
 oorzaak,noun,reason,that which causes: a cause
 reden,noun,reason,that which causes: a cause
 grond,noun,reason,that which causes: a cause
+reden,noun,reason,motive for an action or determination
+reden,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+rede,noun,reason,(the capacity of the human mind for) rational thinking
 rood,noun,red,colour
+losmaken,verb,relax,to make something loose
+ontspannen,verb,relax,to make something less severe or tense
+ontspannen,verb,relax,to make something (such as codes and regulations) more lenient
+ontspannen,verb,relax,to relieve (something) from stress
 zich herinneren,verb,remember,to recall from one's memory
 gedenken,verb,remember,to recall from one's memory
+onthouden,verb,remember,to memorize
+eraan denken,verb,remember,to not forget to do something required
 herhalen,verb,repeat,do or say again
 wederhalen,verb,repeat,do or say again
 herdoen,verb,repeat,do or say again
 herzeggen,verb,repeat,do or say again
 rapport,noun,report,information describing events
 verslag,noun,report,information describing events
+knal,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
+pif,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
+poef,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
+paf,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
+boem,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
 restaurant,noun,restaurant,an eating establishment in which diners are served food
 resultaat,noun,result,that which results
 uitkomst,noun,result,that which results
+resultaat,noun,result,"fruit, beneficial or tangible effect"
+opbrengst,noun,result,"fruit, beneficial or tangible effect"
+uitkomst,noun,result,"fruit, beneficial or tangible effect"
+vrucht,noun,result,"fruit, beneficial or tangible effect"
 rijst,noun,rice,plants
+rijst,noun,rice,seeds used as food
 rijk,adj,rich,having wealth
 rijden,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+rijden,verb,ride,to be transported in a vehicle as a passenger
+meerijden,verb,ride,to be transported in a vehicle as a passenger
+voeren,verb,ride,to transport someone in a vehicle
+brengen,verb,ride,to transport someone in a vehicle
+beklimmen,verb,ride,to mount someone to have sex with them
+berijden,verb,ride,to mount someone to have sex with them
+recht,noun,right,legal or moral entitlement
+rechts,noun,right,"right, not left, side"
+rechterhand,noun,right,"right, not left, side"
+rechterkant,noun,right,right-wing politicians and parties
 rivier,noun,river,large stream which drains a landmass
 stroom,noun,river,large stream which drains a landmass
+stroom,noun,river,any large flow of a liquid
 weg,noun,road,a way for travel
+ruimte,noun,room,space
+kamer,noun,room,space
+vertrek,noun,room,space
+ruimte,noun,room,division in a building
+kamer,noun,room,division in a building
+zaal,noun,room,division in a building
+vertrek,noun,room,division in a building
 regel,noun,rule,regulation
 rennen,verb,run,to move quickly on two feet
 lopen,verb,run,to move quickly on two feet
+kandideren,verb,run,to be a candidate in an election
+triest,adj,sad,feeling sorrow
+verdrietig,adj,sad,feeling sorrow
+rouwig,adj,sad,feeling sorrow
+triest,adj,sad,appearing sorrowful
+verdrietig,adj,sad,appearing sorrowful
+triest,adj,sad,"causing sorrow, lamentable"
 salade,noun,salad,food
 zout,noun,salt,sodium chloride
 keukenzout,noun,salt,sodium chloride
+zout,noun,salt,compound of an acid and a base
+zeerot,noun,salt,sailor
+rot,noun,salt,sailor
+salt,noun,salt,additional bytes inserted into an encryption
 boterham,noun,sandwich,dish — see also open sandwich
 sandwich,noun,sandwich,dish — see also open sandwich
 zeggen,verb,say,"to say, to tell"
+zeggen,verb,say,to pronounce
+luiden,verb,say,to pronounce
+opzeggen,verb,say,to pronounce
+opzeggen,verb,say,to recite
+zeggen,verb,say,to communicate verbally or in writing
+opgeven,verb,say,to communicate verbally or in writing
+staan,verb,say,to indicate in a written form
+opgeven,verb,say,to indicate in a written form
+laten wij zeggen,verb,say,imperative: let's say
 school,noun,school,a group of fish
 school,noun,school,an institution dedicated to teaching and learning
+school,noun,school,an institution dedicated to teaching and learning before college or university
+school,noun,school,college or university
+universiteit,noun,school,college or university
+school,noun,school,a department/institute at a college or university
+school,noun,school,an art movement
+school,noun,school,(collectively) the followers of a particular doctrine
 wetenschap,noun,science,collective discipline of learning acquired through the scientific method
+wetenschap,noun,science,particular discipline or branch of learning
+weten,noun,science,fact of knowing something
+wetenschap,noun,science,fact of knowing something
+kennis,noun,science,knowledge gained through study or practice
+ervaring,noun,science,knowledge gained through study or practice
+wetenschap,noun,science,knowledge gained through study or practice
 wetenschapper,noun,scientist,one whose activities make use of the scientific method
 wetenschapster,noun,scientist,one whose activities make use of the scientific method
 seconde,noun,second,one-sixtieth of a minute; SI unit of time
+seconde,noun,second,unit of angular measure
+seconde,noun,second,"short, indeterminate amount of time"
+moment,noun,second,"short, indeterminate amount of time"
+ogenblik,noun,second,"short, indeterminate amount of time"
 secondant,noun,second,attendant of a duel or boxing match standing in for a contestant
+ondersteuner,noun,second,one who agrees in addition
+tweede keus,noun,second,manufactured item that fails to meet quality control standards
+herkansing,noun,second,another chance to achieve what should have been done the first time
+secunde,noun,second,music: interval between two adjacent notes
 snijding,noun,section,"cutting, part cut out"
+afdeling,noun,section,"part, piece or subdivision of anything"
+sectie,noun,section,"part, piece or subdivision of anything"
+paragraaf,noun,section,part of a document
+passage,noun,section,part of a document
 zien,verb,see,perceive with the eyes
 aanschouwen,verb,see,perceive with the eyes
 bekijken,verb,see,perceive with the eyes
 bezien,verb,see,perceive with the eyes
+begrijpen,verb,see,understand
 verkopen,verb,sell,to agree to transfer goods or provide services for payment
 zenden,verb,send,make something go somewhere
 verzenden,verb,send,make something go somewhere
@@ -1007,12 +2640,18 @@ opsturen,verb,send,make something go somewhere
 vonnis,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 uitspraak,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
 oordeel,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+veroordeling,noun,sentence,judicial order for punishment
+straf,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+zin,noun,sentence,grammatically complete series of words consisting of a subject and predicate
+volzin,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 delen,verb,share,to give
+delen,verb,share,to divide and distribute
 schaap,noun,sheep,animal
 hemd,noun,shirt,article of clothing
 overhemd,noun,shirt,article of clothing
 shirt,noun,shirt,article of clothing
 schoen,noun,shoe,protective covering for the foot
+schoen,noun,shoe,something resembling a shoe (e.g. brake shoe)
 winkelen,verb,shop,to visit shops
 inkopen doen,verb,shop,to visit shops
 shoppen,verb,shop,to visit shops
@@ -1021,47 +2660,95 @@ winkelen,noun,shopping,activity of buying
 boodschappen doen,noun,shopping,activity of buying
 inkoop,noun,shopping,activity of buying
 kort,adj,short,having a small distance between ends or edges
+klein,adj,short,"of a person, of comparatively small height"
+kort,adj,short,having little duration
+kort (voor),adj,short,constituting an abbreviation or shortened form
+afkorting,adj,short,constituting an abbreviation or shortened form
+binnenkort,adj,short,not distant in time; near at hand
 moeten,verb,should,expressing obligation
 zou moeten,verb,should,expressing obligation
+mochten,verb,should,if; in case of
 show,noun,show,entertainment
 voorstelling,noun,show,entertainment
+tentoonstelling,noun,show,exhibition — see also exhibition
+expositie,noun,show,exhibition — see also exhibition
 regenbui,noun,shower,brief fall of rain
 bui,noun,shower,brief fall of rain
 schoer,noun,shower,brief fall of rain
+douche,noun,shower,device for bathing
+stortbad,noun,shower,device for bathing
+douche,noun,shower,instance of using of this device
+stortbad,noun,shower,instance of using of this device
+vleeslul,noun,shower,man whose penis appears relatively large when flaccid
 zieke,adj,sick,"ill, used as a substantive: sick people, collectively"
 zieken,adj,sick,"ill, used as a substantive: sick people, collectively"
+misselijk,adj,sick,having an urge to vomit
 dergelijk,adj,similar,"having traits or characteristics in common; alike, comparable"
 vergelijkbaar,adj,similar,"having traits or characteristics in common; alike, comparable"
 soortgelijk,adj,similar,"having traits or characteristics in common; alike, comparable"
 zingen,verb,sing,to produce harmonious sounds with one’s voice
 zanger,noun,singer,person who sings (male or generic term)
+zangeres,noun,singer,female person who sings
 zus,noun,sister,woman or girl having the same parents
 zuster,noun,sister,woman or girl having the same parents
+zus,noun,sister,a nun; a female member of a religious community
+zuster,noun,sister,a nun; a female member of a religious community
+kloosterzuster,noun,sister,a nun; a female member of a religious community
+non,noun,sister,a nun; a female member of a religious community
+zuster,noun,sister,senior nurse
+verpleegster,noun,sister,senior nurse
 zitten,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 situatie,noun,situation,combination of circumstances at a given moment; state of affairs
+situatie,noun,situation,position vis-à-vis surroundings
+plaats,noun,situation,location
+locatie,noun,situation,location
+situatie,noun,situation,one's status with regard to circumstances
+positie,noun,situation,position of employment
 bekwaamheid,noun,skill,capacity to do something well
 vaardigheid,noun,skill,capacity to do something well
 rok,noun,skirt,article of clothing
+rok,noun,skirt,part of dress that hangs below waist
 slapen,verb,sleep,to rest in state of reduced consciousness
+te slapen leggen,verb,sleep,to accommodate
+onderbrengen,verb,sleep,to accommodate
 traag,adj,slow,not quick in motion
 langzaam,adj,slow,not quick in motion
 sloom,adj,slow,not quick in motion
+langzaam,adj,slow,of reduced intellectual capacity
+langzame,adj,slow,of reduced intellectual capacity
+sloom,adj,slow,of reduced intellectual capacity
+slome,adj,slow,of reduced intellectual capacity
 klein,adj,small,not large
 nietig,adj,small,not large
 minuscuul,adj,small,not large
+klein,adj,small,young
+jong,adj,small,young
+klein,adj,small,"minuscule or lowercase, referring to written letters"
+handig,adj,smart,exhibiting social ability or cleverness
+slim,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+intelligent,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+wijs,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 slang,noun,snake,legless reptile
 serpent,noun,snake,legless reptile
 sneeuwen,verb,snow,have snow fall from the atmosphere
 zo,adv,so,very
 zodanig,adv,so,very
+zo,adv,so,to a particular extent
+zo,adv,so,in the same aformentioned manner
+zodanig,adv,so,in the same aformentioned manner
 soms,adv,sometimes,"on certain occasions, but not always"
 somtijds,adv,sometimes,"on certain occasions, but not always"
 somwijlen,adv,sometimes,"on certain occasions, but not always"
 weleens,adv,sometimes,"on certain occasions, but not always"
 zoon,noun,son,a male person in relation to his parents
+zoon,noun,son,male descendant
 lied,noun,song,music with words
 liedje,noun,song,music with words
 nummer,noun,song,music with words
+zang,noun,song,the act or art of singing
+lied,noun,song,sound of another animal
+prikkie,noun,song,inexpensive deal
+een appel en een ei,noun,song,inexpensive deal
 zo,adv,soon,within a short time
 spoedig,adv,soon,within a short time
 binnenkort,adv,soon,within a short time
@@ -1069,34 +2756,100 @@ dra,adv,soon,within a short time
 gauw,adv,soon,within a short time
 weldra,adv,soon,within a short time
 straks,adv,soon,within a short time
+bedroefd,adj,sorry,"grieved, saddened"
+armzalig,adj,sorry,"poor, regrettable"
+treurig,adj,sorry,"poor, regrettable"
+peilen,verb,sound,to probe
+sonderen,verb,sound,to probe
 klinken,verb,sound,to produce a sound
 luiden,verb,sound,to produce a sound
 geluid maken,verb,sound,to produce a sound
 toon voortbrengen,verb,sound,to produce a sound
+klinken,verb,sound,to convey an impression by one's sound
+luiden,verb,sound,to cause to produce a sound
+doen klinken,verb,sound,to cause to produce a sound
 soep,noun,soup,dish
+ruimte,noun,space,physical extent in two or three dimensions
+ruimte,noun,space,area beyond atmosphere of planets
+spatie,noun,space,"gap between written characters, lines etc."
 spreken,verb,speak,to communicate with one's voice using words
+spreken,verb,speak,to be able to communicate in a language
 speciaal,adj,special,distinguished by a unique or unusual quality
+speciaal,adj,special,of particular interest or value; certain; dear; beloved; favored
 invallen voor,verb,spell,to work in place of someone
 spellen,verb,spell,to write or say the letters that form a word
+spellen,verb,spell,to compose a word
+betekenen,verb,spell,to indicate that some future event will occur
+spelling,noun,spelling,"the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography"
+spelling,noun,spelling,a specific spelling of a word
+schrijfwijze,noun,spelling,a specific spelling of a word
 uitgeven,verb,spend,to pay out
 spenderen,verb,spend,to pay out
+opgebruikt raken,verb,spend,"to wear out, to exhaust"
+besteden,verb,spend,"to consume, to use up (time)"
+doorbrengen,verb,spend,"to consume, to use up (time)"
+spenderen,verb,spend,"to consume, to use up (time)"
 sport,noun,sport,any athletic activity that uses physical skills
 lente,noun,spring,season between winter and summer in temperate climates
 voorjaar,noun,spring,season between winter and summer in temperate climates
+bron,noun,spring,water springing from the ground
+wel,noun,spring,water springing from the ground
+veer,noun,spring,device made of flexible material
+spring,noun,spring,nautical: line from an end to another vessel or mooring to limit surging
 staan,verb,stand,to support oneself on the feet in an erect position
+opstaan,verb,stand,to rise to one’s feet
+staan,verb,stand,to remain motionless
+doorstaan,verb,stand,to undergo; withstand; hold up
+weerstaan,verb,stand,to undergo; withstand; hold up
+verdragen,verb,stand,to tolerate
+uitstaan,verb,stand,to tolerate
+stellen,verb,stand,to place in an upright or standing position
+neerzetten,verb,stand,to place in an upright or standing position
+overeind zetten,verb,stand,to place in an upright or standing position
 ster,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+ster,noun,star,(astronomy) a luminous celestial body made of plasma
+ster,noun,star,concave polygon
+ster,noun,star,celebrity
+vedette,noun,star,celebrity
+sterretje,noun,star,asterisk
 beginnen,verb,start,to begin
 starten,verb,start,to begin
 aanvangen,verb,start,to begin
+starten,verb,start,to set in motion
+starten,verb,start,to initiate operation of a vehicle or machine
+beginnen,verb,start,"to put or raise a question or objection, to put forward"
+starten,verb,start,"of an activity, to begin"
+beginnen,verb,start,"of an activity, to begin"
+aanvangen,verb,start,"of an activity, to begin"
+opschrikken,verb,start,to jerk suddenly in surprise
 verklaring,noun,statement,declaration or remark
 bemerking,noun,statement,declaration or remark
 opmerking,noun,statement,declaration or remark
+verklaring,noun,statement,presentation of opinion or position — see also assertion
+stellingname,noun,statement,presentation of opinion or position — see also assertion
+uittreksel,noun,statement,finance: document that summarizes financial activity
+verklaring,noun,statement,computing: instruction in a computer program
+instructie,noun,statement,computing: instruction in a computer program
 station,noun,station,place where a vehicle may stop
 halte,noun,station,place where a vehicle may stop
 blijven,verb,stay,to remain in a particular place
 verblijven,verb,stay,to remain in a particular place
+blijven,verb,stay,to continue to have a particular quality
+uitstellen,verb,stay,to postpone
+nog,adv,still,"up to a time, as in the preceding time"
+nog steeds,adv,still,"up to a time, as in the preceding time"
+nog,adv,still,to an even greater degree
+toch,adv,still,nevertheless
 halte,noun,stop,place to get on and off mass transport
+stop,noun,stop,interruption of travel
+pauze,noun,stop,interruption of travel
+stopper,noun,stop,device to block a moving object
+punt,noun,stop,punctuation symbol
+komma,noun,stop,punctuation symbol
+dubbele punt,noun,stop,punctuation symbol
+puntkomma,noun,stop,punctuation symbol
 magazijn,noun,store,place where items may be kept
+voorraad,noun,store,supply held in storage
 verhaal,noun,story,account of events
 vertelling,noun,story,account of events
 vertelsel,noun,story,account of events
@@ -1104,12 +2857,37 @@ geschiedenis,noun,story,account of events
 straat,noun,street,paved part of road in a village or a town
 sterk,adj,strong,capable of producing great physical force
 krachtig,adj,strong,capable of producing great physical force
+sterk,adj,strong,capable of withstanding great physical force
+stevig,adj,strong,capable of withstanding great physical force
+sterk,adj,strong,"determined, unyielding"
+standvastig,adj,strong,"determined, unyielding"
+sterk,adj,strong,highly stimulating to the senses
+krachtig,adj,strong,highly stimulating to the senses
+sterk,adj,strong,having an offensive or intense odor or flavor
+krachtig,adj,strong,having an offensive or intense odor or flavor
+sterk,adj,strong,having a high concentration of an essential or active ingredient
+geconcentreerd,adj,strong,having a high concentration of an essential or active ingredient
+sterk,adj,strong,having a high alcoholic content
+sterk,adj,strong,grammar: irregular
+sterk,adj,strong,military: not easily subdued or taken
+sterk,adj,strong,slang: impressive
+kras,adj,strong,slang: impressive
 student,noun,student,person who studies a subject
 studente,noun,student,person who studies a subject
+student,noun,student,person enrolled at a university — see also university student
+studente,noun,student,person enrolled at a university — see also university student
 studeren,verb,study,to revise/review materials
 leren,verb,study,to revise/review materials
+studeren,verb,study,to acquire knowledge
 stijl,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+stijl,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 onderwerp,noun,subject,in grammar
+onderwerp,noun,subject,main topic
+vak,noun,subject,particular area of study
+vakgebied,noun,subject,particular area of study
+onderdaan,noun,subject,citizen in a monarchy
+onderdane,noun,subject,citizen in a monarchy
+onderdaan,noun,subject,"person ruled over by another, especially a monarch or state authority"
 succes,noun,success,achievement of one's aim or goal
 welgang,noun,success,achievement of one's aim or goal
 goed gevolg,noun,success,achievement of one's aim or goal
@@ -1117,30 +2895,51 @@ suiker,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and
 zomer,noun,summer,hottest season
 zon,noun,sun,"a star, especially when seen as the centre of any single solar system"
 supermarkt,noun,supermarket,store
+supermarktketen,noun,supermarket,chain of stores
 zeker,adj,sure,"certain, reliable"
+zeker,adj,sure,certain in one's knowledge or belief
+trui,noun,sweater,similar garment worn for warmth
 zwemmen,verb,swim,move through water
 zwemmen,noun,swimming,human activity of moving oneself through water
 duizeling,noun,swimming,a giddy sensation
 tafel,noun,table,item of furniture
+tabel,noun,table,grid of data in rows and columns
+tafel,noun,table,collection of arithmetic calculations
+vermenigvuldigingstafel,noun,table,collection of arithmetic calculations
+rekentafel,noun,table,collection of arithmetic calculations
 nemen,verb,take,to get into one's hands or control
 pakken,verb,take,to get into one's hands or control
+nemen,verb,take,to get into one's possession
+aannemen,verb,take,to receive or accept
+nemen,verb,take,to grab and move to oneself
+duren,verb,take,to last or expend (an amount of time)
 praten,verb,talk,to communicate by speech
 spreken,verb,talk,to communicate by speech
 overleggen,verb,talk,to communicate by speech
 lang,adj,tall,of a person
 groot,adj,tall,of a person
+hoog,adj,tall,of a building
+ongeloofwaardig,adj,tall,of a story
 taxi,noun,taxi,vehicle available for public hire
 thee,noun,tea,dried leaves of tea plant
+thee,noun,tea,drink made from leaves of tea plant
 aanleren,verb,teach,to pass on knowledge
 leren,verb,teach,to pass on knowledge
 onderwijzen,verb,teach,to pass on knowledge
 lesgeven,verb,teach,to pass on knowledge
+lesgeven,verb,teach,to pass on one's knowledge as one's profession
 leraar,noun,teacher,person who teaches
 onderwijzer,noun,teacher,person who teaches
 docent,noun,teacher,person who teaches
 leerkracht,noun,teacher,person who teaches
 schoolmeester,noun,teacher,person who teaches
+lerares,noun,teacher,woman who teaches
+onderwijzeres,noun,teacher,woman who teaches
+docente,noun,teacher,woman who teaches
+leerkracht,noun,teacher,woman who teaches
 span,noun,team,set of draught animals
+ploeg,noun,team,group of people
+team,noun,team,group of people
 tiener,noun,teenager,person aged between thirteen and nineteen
 adolescent,noun,teenager,person aged between thirteen and nineteen
 puber,noun,teenager,person aged between thirteen and nineteen
@@ -1150,45 +2949,110 @@ bellen,verb,telephone,to call someone
 televisie,noun,television,medium
 kijkbuis,noun,television,medium
 beeldomroep,noun,television,medium
+televisie,noun,television,device for receiving television signals
+televisie,noun,television,program broadcasting
 vertellen,verb,tell,to pass information
 zeggen,verb,tell,to pass information
+instrueren,verb,tell,to instruct
+vertellen,verb,tell,"to discern, notice, identify or distinguish"
+zeggen,verb,tell,"to discern, notice, identify or distinguish"
 tennis,noun,tennis,sport played by two or four players with strung racquets
 afschuwelijk,adj,terrible,dreadful; causing alarm or fear
 verschrikkelijk,adj,terrible,dreadful; causing alarm or fear
 tekst,noun,text,a written passage
+tekst,noun,text,"a book, tome or other set of writings"
+sms,noun,text,a brief written message transmitted between mobile phones
 danken,verb,thank,to express appreciation or gratitude toward (someone or something)
 bedankt,noun,thanks,expression of gratitude
+dank,noun,thanks,grateful feelings
 theater,noun,theater,place or building
+theater,noun,theater,drama or performance as a profession or artform
 toen,adv,then,at that time
+toen,adv,then,soon afterward
+dan,adv,then,soon afterward
+dan,adv,then,next in order
+dan,adv,then,in that case
+trouwens,adv,then,at the same time; on the other hand
 daar,adv,there,in or at that place
 ginder,adv,there,in or at that place
 ginds,adv,there,in or at that place
+daarheen,adv,there,to or into that place; thither
+aldaar,adv,there,to or into that place; thither
+er,adv,there,in existence
 ding,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+punt,noun,thing,the central point; the crux
 denken,verb,think,"to ponder, to go over in one's head"
 nadenken,verb,think,"to ponder, to go over in one's head"
 peinzen,verb,think,"to ponder, to go over in one's head"
 overdenken,verb,think,"to ponder, to go over in one's head"
+denken,verb,think,communicate to oneself in one’s mind
+achten,verb,think,to conceive of something or someone
+zien,verb,think,to conceive of something or someone
+beschouwen,verb,think,to conceive of something or someone
+vinden,verb,think,be of the opinion that
+denken,verb,think,be of the opinion that
+van mening zijn,verb,think,be of the opinion that
+denken,verb,think,"guess, reckon"
+geloven,verb,think,"guess, reckon"
+vermoeden,verb,think,"guess, reckon"
+vinden,verb,think,"consider, judge, regard something as"
+beschouwen,verb,think,"consider, judge, regard something as"
 dunken,verb,think,"to seem, to appear"
 dorstig,adj,thirsty,needing to drink
 doorheen,adv,through,From one side to the other
 kaartje,noun,ticket,admission to entertainment
 biljet,noun,ticket,admission to entertainment
+kaartje,noun,ticket,pass for transportation
+biljet,noun,ticket,pass for transportation
+ticket,noun,ticket,pass for transportation
+bekeuring,noun,ticket,traffic citation
 tijd,noun,time,inevitable passing of events
+tijd,noun,time,quantity of availability in time
+tijd,noun,time,measurement of a quantity of time
+duur,noun,time,measurement of a quantity of time
+tijdperk,noun,time,"extended period of time, defined or undefined: age, era, etc."
+tijd,noun,time,division of the day: particular moment or hour
+tijd,noun,time,measurement under some system of the time of day or moment in time
+tijdstip,noun,time,numerical indication of a particular moment in time
+keer,noun,time,instance or occurrence
+maal,noun,time,instance or occurrence
+keer,noun,time,ratio of comparison
+tijd,noun,time,youth or young adulthood
 moe,adj,tired,in need of rest or sleep
 vermoeid,adj,tired,in need of rest or sleep
 titel,noun,title,prefix or suffix added to a name
+eigendomsrecht,noun,title,right to ownership
+eigendomsbewijs,noun,title,certificate of ownership
+eigendomscertificaat,noun,title,certificate of ownership
+titel,noun,title,certificate of ownership
+titel,noun,title,"name of a book, etc"
 vandaag,noun,today,today (noun)
 samen,adv,together,"at the same time, in the same place"
 tezamen,adv,together,"at the same time, in the same place"
+bijeen,adv,together,into one place
+bij elkaar,adv,together,into one place
 toilet,noun,toilet,personal grooming
+kleedkamer,noun,toilet,dressing room
+toilet,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+wc,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toiletpot,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+wc-pot,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+wc,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 tomaat,noun,tomato,tomato plant
 tomatenplant,noun,tomato,tomato plant
+tomaat,noun,tomato,fruit
 morgen,noun,tomorrow,the day after the present day
 vanavond,noun,tonight,nighttime today
 vannacht,noun,tonight,nighttime today
 ook,adv,too,likewise
 eveneens,adv,too,likewise
+te,adv,too,more than enough; as too much
+wel,adv,too,used to contradict a negative assertion
+wel degelijk,adv,too,used to contradict a negative assertion
 tand,noun,tooth,anatomy: tooth
+tand,noun,tooth,saw tooth
+zaagtand,noun,tooth,saw tooth
+tand,noun,tooth,gear tooth
 onderwerp,noun,topic,subject; theme
 thema,noun,topic,subject; theme
 toerist,noun,tourist,someone who travels for pleasure
@@ -1198,73 +3062,152 @@ stad,noun,town,settlement
 nederzetting,noun,town,settlement
 tuin,noun,town,settlement
 verkeer,noun,traffic,pedestrians or vehicles on roads or on the air
+handel,noun,traffic,commercial transportation or exchange of goods
+verkeer,noun,traffic,commercial transportation or exchange of goods
+zwarte handel,noun,traffic,"illegal trade or exchange of goods, often drugs"
+verkeer,noun,traffic,"exchange or flux of information, messages or data"
 sleep,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+trein,noun,train,line of connected cars or carriages
+karavaan,noun,train,"group of animals, vehicles, or people"
+rij,noun,train,"group of animals, vehicles, or people"
+stoet,noun,train,"group of animals, vehicles, or people"
+sleep,noun,train,that which is drawn along
 reis,noun,travel,act of traveling
 boom,noun,tree,large woody plant
+wiet,noun,tree,slang: marijuana
 tocht,noun,trip,journey
 reis,noun,trip,journey
+misstap,noun,trip,stumble or misstep
+struikeling,noun,trip,stumble or misstep
+vrachtauto,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+vrachtwagen,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+camion,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 echt,adj,true,concurring with a given set of facts
 waar,adj,true,concurring with a given set of facts
+waar,adj,true,state in Boolean logic that indicates an affirmative or positive result
+trouw,adj,true,"loyal, faithful"
+echt,adj,true,"genuine, legitimate"
+waar,adj,true,"genuine, legitimate"
 proberen,verb,try,to attempt
 trachten,verb,try,to attempt
 pogen,verb,try,to attempt
+proberen,verb,try,to make an experiment
+uitproberen,verb,try,to make an experiment
+proberen,verb,try,to work on something
+uitproberen,verb,try,to put to test
+toetsen,verb,try,to put to test
+proeven,verb,try,"to taste, sample, etc"
+berechten,verb,try,to put on trial
 draai,noun,turn,change of direction or orientation
 bocht,noun,turn,change of direction or orientation
+omwenteling,noun,turn,movement about an axis ending up with the same orientation
+beurt,noun,turn,chance to use (something) shared in sequence with others
+beurt,noun,turn,one's chance to make a move in a game
+winding,noun,turn,single loop of a coil
 twee keer,adv,twice,two times
 tweemaal,adv,twice,two times
 type,noun,type,grouping based on shared characteristics
+type,noun,type,preferred sort of person
 paraplu,noun,umbrella,cloth-covered frame used for protection against rain or sun
 regenscherm,noun,umbrella,cloth-covered frame used for protection against rain or sun
 parasol,noun,umbrella,cloth-covered frame used for protection against rain or sun
 oom,noun,uncle,brother (or brother-in-law) of someone’s parent
 nonkel,noun,uncle,brother (or brother-in-law) of someone’s parent
+oompje,noun,uncle,"source of advice, encouragement, or help"
+suikeroom,noun,uncle,"source of advice, encouragement, or help"
+pandjesbaas,noun,uncle,UK informal: pawnbroker — see also pawnbroker
 begrijpen,verb,understand,to grasp the meaning of
 snappen,verb,understand,to grasp the meaning of
+geloven,verb,understand,to believe one grasps the meaning of
 universiteit,noun,university,institution of higher education
 universitair,noun,university,institution of higher education
 unief,noun,university,institution of higher education
 omhoog,adv,up,away from earth’s surface
 opwaarts,adv,up,away from earth’s surface
+ver-,adv,up,"completely, thoroughly"
+omhoog,adv,up,"higher, louder"
+omhoog,adv,up,higher in pitch
 boven,adv,upstairs,up the stairs; on or to a higher floor or level
 gebruiken,verb,use,"employ, apply"
 aanwenden,verb,use,"employ, apply"
+verbruiken,verb,use,"to exhaust the supply of, to consume"
+plegen te,verb,use,rare: to habitually do
 nuttig,adj,useful,having a practical or beneficial use
 bruikbaar,adj,useful,having a practical or beneficial use
 dienstig,adj,useful,having a practical or beneficial use
 meestal,adv,usually,most of the time
 gewoonlijk,adv,usually,most of the time
+vakantie,noun,vacation,period of leisure time
 groente,noun,vegetable,a plant raised for some edible part of it
 gewas,noun,vegetable,a plant raised for some edible part of it
+gewas,noun,vegetable,any plant
+plant,noun,vegetable,any plant
+groente,noun,vegetable,edible part of such a plant
+plant,noun,vegetable,a person whose brain has been damaged
 zeer,adv,very,to a high degree
 heel,adv,very,to a high degree
 erg,adv,very,to a high degree
+echt,adv,very,"true, truly"
+uiterst,adv,very,"true, truly"
 televisie,noun,video,"television show, movie"
 televisieshow,noun,video,"television show, movie"
 film,noun,video,"television show, movie"
+video,noun,video,motion picture stored on VHS
+video,noun,video,VHS
+videocassette,noun,video,VHS
 bezoek,noun,visit,single act of visiting
 bezoeker,noun,visitor,guest
 gast,noun,visitor,guest
+bezoeker,noun,visitor,sightseer
 wachten,verb,wait,delay until some event
 afwachten,verb,wait,delay until some event
+bedienen,verb,wait,to serve customers
 ober,noun,waiter,a server in a restaurant or similar
 kelner,noun,waiter,a server in a restaurant or similar
 serveerder,noun,waiter,a server in a restaurant or similar
 serveerster,noun,waiter,a server in a restaurant or similar
+wachter,noun,waiter,someone who waits
+wachtende,noun,waiter,someone who waits
 ontwaken,verb,wake,to stop sleeping
 wakker worden,verb,wake,to stop sleeping
+wekken,verb,wake,to make somebody stop sleeping
+wakker maken,verb,wake,to make somebody stop sleeping
 wandeling,noun,walk,trip made by walking
+wandeling,noun,walk,distance walked
+loopje,noun,walk,manner of walking
+pad,noun,walk,maintained place on which to walk
 muur,noun,wall,defensive rampart
+muur,noun,wall,structure built for defense surrounding an area
+muur,noun,wall,substantial structure acting as side or division in a building
+wand,noun,wall,substantial structure acting as side or division in a building
+muur,noun,wall,mahjong: face-down tiles
 willen,verb,want,to desire
 warm,adj,warm,having a temperature slightly higher than usual
+warm,adj,warm,being something that causes warmth
+warm,adj,warm,"caring, of relation to another person"
 wassen,verb,wash,to clean with water
 spoelen,verb,wash,to clean with water
 afspoelen,verb,wash,to clean with water
+wegspoelen,verb,wash,to move or erode by the force of water in motion
 horloge,noun,watch,portable or wearable timepiece
+wacht,noun,watch,particular time period
+wacht,noun,watch,person or group of people who guard
 water,noun,water,inorganic compound H₂O
+bronwater,noun,water,spa water
+spawater,noun,water,spa water
+plat water,noun,water,spa water
+water,noun,water,one of the basic elements
+wateren,noun,water,"body of water, or specific part of it"
+water,noun,water,urine
+watertje,noun,water,serving of water
 weg,noun,way,"road, direction, path"
+manier,noun,way,method or manner
 dragen,verb,wear,to have on (clothes or accessories)
 aanhebben,verb,wear,to have on (clothes or accessories)
+vermoeien,verb,wear,to exhaust physically
+uitputten,verb,wear,to exhaust physically
 weer,noun,weather,state of the atmosphere
+weer,noun,weather,unpleasant or destructive atmospheric conditions
 website,noun,website,a collection of pages on the World Wide Web
 webstek,noun,website,a collection of pages on the World Wide Web
 site,noun,website,a collection of pages on the World Wide Web
@@ -1277,8 +3220,23 @@ graag gezien,adj,welcome,whose arrival is a cause of joy
 gezond,adj,well,in good health
 westwaarts,adv,west,towards the west
 wanneer,adv,when,"at what time, as a direct question"
+wanneer,adv,when,"at what time, as an indirect question"
 waar,adv,where,at what place; to what place; from what place
+waar,adv,where,at or in what place
+waar,adv,where,at or in which place
+waarvan,adv,where,at or in which place
+waarvandaan,adv,where,at or in which place
+waarheen,adv,where,to what place
+waarnaartoe,adv,where,to what place
+waartoe,adv,where,to which place or situation
+waarheen,adv,where,to which place or situation
+waar,adv,where,the place in which
+waarheen,adv,where,the place in which
+waarvan,adv,where,the place in which
+waarvandaan,adv,where,the place in which
 wit,noun,white,color
+blanke,noun,white,person of European descent
+witje,noun,white,common name for butterflies in the subfamily Pierinae
 waarom,adv,why,for what reason
 vrouw,noun,wife,female partner in a marriage
 echtgenote,noun,wife,female partner in a marriage
@@ -1286,42 +3244,105 @@ vermaken,verb,will,to bequeath
 nalaten,verb,will,to bequeath
 legateren,verb,will,to bequeath
 willen,verb,will,to wish or desire
+zullen,verb,will,indicating future action
 winnen,verb,win,transitive: achieve victory in
 overwinnen,verb,win,transitive: achieve victory in
+winnen,verb,win,intransitive: achieve by winning
+overwinnen,verb,win,intransitive: achieve by winning
 raam,noun,window,opening for light and air
 venster,noun,window,opening for light and air
 ruit,noun,window,opening for light and air
+interval,noun,window,period of time
+venster,noun,window,area on a computer screen
 wijn,noun,wine,alcoholic beverage made from grapes
+wijn,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+bordeauxrood,noun,wine,wine colour
 winter,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 vrouw,noun,woman,adult female person
 fantastisch,adj,wonderful,"excellent, extremely impressive"
 heerlijk,adj,wonderful,"excellent, extremely impressive"
 wonderbaar,adj,wonderful,"excellent, extremely impressive"
 woord,noun,word,unit of language
+erewoord,noun,word,promise
+woord,noun,word,promise
+woordenwisseling,noun,word,angry debate; argument
 werk,noun,work,"labour, employment, occupation, job"
 job,noun,work,"labour, employment, occupation, job"
 arbeid,noun,work,"labour, employment, occupation, job"
+werk,noun,work,place where one is employed
+arbeidsplaats,noun,work,place where one is employed
+werk,noun,work,effort expended on a particular task
+arbeid,noun,work,effort expended on a particular task
+werk,noun,work,result of a particular manner of production
+werk,noun,work,"literary, artistic, or intellectual production"
+werkstuk,noun,work,"literary, artistic, or intellectual production"
+arbeid,noun,work,physics: measure of energy expended in moving an object
 arbeider,noun,worker,person who performs labor
 arbeidster,noun,worker,person who performs labor
 arbeidskracht,noun,worker,person who performs labor
 wereld,noun,world,human collective existence
+wereld,noun,world,the universe
+aarde,noun,world,the Earth
+wereld,noun,world,the Earth
+wereld,noun,world,inhabited planet
 zou,verb,would,indicating an action or state that is conditional on another
 zouden,verb,would,indicating an action or state that is conditional on another
+zou,verb,would,indicating a possible (but not definite) future action or state
+zouden,verb,would,indicating a possible (but not definite) future action or state
+zou,verb,would,indicating an action in the past that was planned or intended
+zouden,verb,would,indicating an action in the past that was planned or intended
+In the winters,verb,would,indicating an action in the past that happened repeatedly or commonly
+zou,verb,would,used to express a polite request
+zouden,verb,would,used to express a polite request
+gelieve,verb,would,used to express a polite request
+Gelieve de TV uit te schakelen,verb,would,used to express a polite request
+a.u.b.,verb,would,used to express a polite request
 schrijven,verb,write,"to form letters, etc."
+schrijven (naar),verb,write,to send a letter to
+schrijven,verb,write,to be the author of
+schrijven,verb,write,to be an author
+schrijven,verb,write,record (data)
 schrijver,noun,writer,person who writes; an author
 schrijfster,noun,writer,person who writes; an author
 auteur,noun,writer,person who writes; an author
 schrift,noun,writing,written letters or symbols
 schrijfsel,noun,writing,written letters or symbols
 geschrift,noun,writing,written letters or symbols
+schrijfsel,noun,writing,something written
+geschrift,noun,writing,something written
+geschrijf,noun,writing,process of representing a language
+schrijven,noun,writing,process of representing a language
+schrijfsel,noun,writing,work of an author
+werk,noun,writing,work of an author
+oeuvre,noun,writing,work of an author
+schrijf-,noun,writing,made for or used in writing
 fout,adj,wrong,incorrect
 verkeerd,adj,wrong,incorrect
 onjuist,adj,wrong,incorrect
 mis,adj,wrong,incorrect
+slecht,adj,wrong,immoral
+fout,adj,wrong,immoral
+verkeerd,adj,wrong,immoral
+slecht,adj,wrong,improper
+fout,adj,wrong,improper
+verkeerd,adj,wrong,improper
+fout,adj,wrong,not working
+verkeerd,adj,wrong,not working
+mis,adj,wrong,not working
 erf,noun,yard,land around a house
 ra,noun,yard,nautical: tapered timber from which square sails hang
 jaar,noun,year,time it takes for the Earth to complete one revolution around the Sun
+jaar,noun,year,time it takes for any planetary body to make one revolution around another body
+jaar,noun,year,a period between set dates that mark a year
+jaar,noun,year,a scheduled part of a calendar year spent in a specific activity
+jaar,noun,year,a Julian year
+jaar,noun,year,a level or grade at school or college
 geel,noun,yellow,color
 gisteren,noun,yesterday,day before today
 jong,adj,young,in the early part of life or growth
 jeugdig,adj,young,in the early part of life or growth
+jong,adj,young,as if young
+jeugdig,adj,young,as if young
+jong,adj,young,belonging in the early part of life
+jong,adj,young,having little experience
+onervaren,adj,young,having little experience

@@ -7,66 +7,164 @@ word,part_of_speech,english_word,sense
 Τρίτη,noun,Tuesday,day of the week
 Τετάρτη,noun,Wednesday,day of the week
 γύρω,adv,about,on all sides
+σχεδόν,adv,about,"nearly, approximately"
+γύρω,adv,about,in circuit
+πάνω,adv,above,in a higher place
+ενέργεια,noun,action,something done so as to accomplish a purpose
+πράξη,noun,action,something done so as to accomplish a purpose
+κίνηση,noun,action,way of motion or functioning
+δράση,noun,action,fast-paced activity
+αγωγή,noun,action,law: charge
+δίωξη,noun,action,law: charge
 δραστηριότητα,noun,activity,state or quality of being active
+δράση,noun,activity,something done as an action or a movement
+δραστηριότητα,noun,activity,something done for pleasure or entertainment
 ηθοποιός,noun,actor,person who performs in a theatrical play or film — see also actress
 ηθοποιός,noun,actress,female actor — see also actor
 προσθέτω,verb,add,to append (e.g. a statement); to say further information; to add on
+προσθέτω,verb,add,to make an addition; to augment; to increase; to add on
+αθροίζω,verb,add,"to perform the arithmetical operation of addition, to add up"
+διεύθυνση,noun,address,description of the location of a property; direction for correspondence
 ενήλικας,noun,adult,fully grown human
 ενήλικος,noun,adult,fully grown human
 συμβουλή,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 απόγευμα,noun,afternoon,part of the day between noon and evening
+ξανά,adv,again,another time
+πάλι,adv,again,another time
+ξανά,adv,again,used in a question to ask something one has forgotten
+πάλι,adv,again,used in a question to ask something one has forgotten
 ηλικία,noun,age,amount of time since the birth of a being or the beginning of a thing
+γηρατειά,noun,age,state of being old; latter part of life
+ηλικία,noun,age,one of the stages of life
+εποχή,noun,age,particular period of time in history
+εποχή,noun,age,great period in the history of the Earth
+γενιά,noun,age,generation — see also generation
 συμφωνώ,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+συμφωνώ,verb,agree,"to yield assent, to accede"
+συμφωνώ,verb,agree,"to resemble, coincide, correspond"
 αέρας,noun,air,historical: one of the basic elements
+αέρας,noun,air,mixture of gases making up the atmosphere of the Earth
+μελωδία,noun,air,"music: a song, an aria"
+σκοπός,noun,air,"music: a song, an aria"
 αεροδρόμιο,noun,airport,place designated for airplanes
 αερολιμένας,noun,airport,place designated for airplanes
 επίσης,adv,also,in addition; besides; as well; further; too
 πάντα,adv,always,at all times
+πάντα,adv,always,"constantly during a certain period, or regularly at stated intervals"
+πάντοτε,adv,always,"constantly during a certain period, or regularly at stated intervals"
 εκπληκτικός,adj,amazing,causing wonder and amazement
 θυμωμένος,adj,angry,displaying anger
 ζώο,noun,animal,organism
+ζώο,noun,animal,organism other than human
+κτήνος,noun,animal,organism other than human
+θηρίο,noun,animal,organism other than human
+ζώο,noun,animal,person who behaves wildly
+κτήνος,noun,animal,person who behaves wildly
+αγροίκος,noun,animal,person who behaves wildly
 απαντώ,verb,answer,to make a reply or response to
 αποκρίνομαι,verb,answer,to make a reply or response to
+απαντώ,verb,answer,to respond to a call
+ανταποκρίνομαι,verb,answer,to suit a need or purpose satisfactorily
+ανταπαντώ,verb,answer,law: to file a response to a complaint
+αποκρούω,verb,answer,law: to file a response to a complaint
 διαμέρισμα,noun,apartment,domicile occupying part of a building
+ενδιαίτημα,noun,apartment,archaic: suite of rooms within a domicile
+διαμέρισμα,noun,apartment,obsolete: division of an enclosure
 μήλο,noun,apple,fruit of Malus domestica
 μᾶλον,noun,apple,fruit of Malus domestica
 εμβαδό,noun,area,maths: measure of extent of a surface
 εμβαδόν,noun,area,maths: measure of extent of a surface
+περιοχή,noun,area,particular geographic region
+τμήμα,noun,area,any particular extent
+μερίδα,noun,area,any particular extent
+έκταση,noun,area,"figuratively, any extent, scope or range"
+διάσταση,noun,area,"figuratively, any extent, scope or range"
+επιφάνεια υπογείων,noun,area,"open space, below ground level, between the front of a house and the pavement"
 όπλο,noun,arm,weapon
 χέρι,noun,arm,upper appendage from shoulder to wrist
+αρμός,noun,arm,part of object
 φτάνω,verb,arrive,to reach
+φτάνω,verb,arrive,to get to a certain place
 τέχνη,noun,art,human effort
+τέχνη,noun,art,conscious production or arrangement
+τέχνη,noun,art,skillful creative activity
+τέχνη,noun,art,artwork
+τέχνη,noun,art,field or category of art
+επιτηδειότητα,noun,art,skill
 άρθρο,noun,article,"story, report, or opinion piece"
+άρθρο,noun,article,part of speech that specifies a noun
 καλλιτέχνης,noun,artist,person who creates art
 δημιουργός,noun,artist,person who creates art
+καλλιτέχνης,noun,artist,person who creates art as an occupation
+καλλιτέχνης,noun,artist,skilled person
 ρωτώ,verb,ask,request an answer
+παρακαλώ,verb,ask,make a request
+ζητώ,verb,ask,make a request
 θεία,noun,aunt,a parent's sister or sister-in-law
 μακριά,adv,away,from a place; hence
 βρέφος,noun,baby,very young human being
 μωρό,noun,baby,very young human being
 νήπιο,noun,baby,very young human being
+μωρός,noun,baby,immature or infantile person
+μωρό,noun,baby,term of endearment — see also darling
+μωρό,noun,baby,form of address to a man or a woman considered to be attractive
+μπέμπα,noun,baby,form of address to a man or a woman considered to be attractive
 πίσω,adv,back,to or in a previous condition or place
 κακός,adj,bad,unfavorable; negative
 άσχημος,adj,bad,unfavorable; negative
+κακός,adj,bad,"not appropriate, of manners etc."
+κακός,adj,bad,tricky; stressful; unpleasant
+κακός,adj,bad,"evil, wicked"
+κακός,adj,bad,faulty; not functional
 σακούλα,noun,bag,flexible container
 σάκος,noun,bag,flexible container
+σακούλα,noun,bag,paper (or plastic) container given or sold to shoppers
 χορός,noun,ball,formal dance
 σφαίρα,noun,ball,solid or hollow sphere
+μπάλα,noun,ball,"object, generally spherical, used for playing games"
+τόπι,noun,ball,"object, generally spherical, used for playing games"
 μπανάνα,noun,banana,fruit
+μπανανιά,noun,banana,plant
 συστοιχία,noun,bank,row or panel of items
 όχθη,noun,bank,edge of river or lake
+αμμοσύρτις,noun,bank,"an underwater area of higher elevation, a sandbank"
+ανάχωμα,noun,bank,"embankment, an earth slope"
+πλαγιά,noun,bank,"embankment, an earth slope"
 τράπεζα,noun,bank,institution
+τράπεζα,noun,bank,branch office
+υποκατάστημα,noun,bank,branch office
+τράπεζα,noun,bank,storage for important goods
 μπαρ,noun,bar,unit of pressure
 ράβδος,noun,bar,solid object with uniform cross-section
 πλάκα,noun,bar,solid object with uniform cross-section
 πλακίδιο,noun,bar,solid object with uniform cross-section
 κομμάτι,noun,bar,solid object with uniform cross-section
+ράβδος,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+ράβδος,noun,bar,cuboid piece of any commodity
+πλάκα,noun,bar,cuboid piece of any commodity
+πλακίδιο,noun,bar,cuboid piece of any commodity
+μπαρ,noun,bar,business licensed to sell intoxicating beverages
+καπηλειό,noun,bar,business licensed to sell intoxicating beverages
+ποτοπωλείο,noun,bar,business licensed to sell intoxicating beverages
+παμπ,noun,bar,business licensed to sell intoxicating beverages
+μπαρ,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+μπαράκι,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+δικηγόροι,noun,bar,law: collective term for lawyers
+δικηγορία,noun,bar,law: profession of lawyers
+ποινικολογία,noun,bar,law: profession of lawyers
 μπέιζμπολ,noun,baseball,ball game
 καλαθοσφαίριση,noun,basketball,the sport
 μπάσκετ,noun,basketball,the sport
 μπάνιο,noun,bath,tub
 μπανιέρα,noun,bath,tub
 λουτήρας,noun,bath,tub
+λουτρό,noun,bath,building or area where bathing occurs
+μπάνιο,noun,bath,building or area where bathing occurs
+βαλανείον,noun,bath,building or area where bathing occurs
+λουτρό,noun,bath,act of bathing
+λούσιμο,noun,bath,act of bathing
+μπάνιο,noun,bath,act of bathing
+μπανιάρισμα,noun,bath,act of bathing
 λουτρό,noun,bathroom,a room with a bathtub
 μπάνιο,noun,bathroom,a room with a bathtub
 αμμουδιά,noun,beach,sandy shore
@@ -77,36 +175,91 @@ word,part_of_speech,english_word,sense
 γίνομαι,verb,become,to begin to be
 κρεβάτι,noun,bed,piece of furniture
 κλίνη,noun,bed,piece of furniture
+υπόστρωμα,noun,bed,flat surface or layer on which something else is to be placed
+υπόβαθρο,noun,bed,flat surface or layer on which something else is to be placed
+υπέρεισμα,noun,bed,flat surface or layer on which something else is to be placed
+κοίτη,noun,bed,the bottom of a lake or other body of water
+πυθμένας,noun,bed,the bottom of a lake or other body of water
+παρτέρι,noun,bed,garden plot
+κοίτασμα,noun,bed,"deposit of ore, coal etc."
 κρεβατοκάμαρα,noun,bedroom,room in a house where a bed is kept for sleeping
 υπνοδωμάτιο,noun,bedroom,room in a house where a bed is kept for sleeping
 μπίρα,noun,beer,alcoholic drink made of malt
 ζύθος,noun,beer,alcoholic drink made of malt
+αφέψημα,noun,beer,solution produced by steeping plant materials
+μπίρα,noun,beer,glass of beer
+μπύρα,noun,beer,glass of beer
 αρχίζω,verb,begin,"to start, to initiate (transitive)"
+αρχή,noun,beginning,initial portion of some extended thing
 πιστεύω,verb,believe,to accept that someone is telling the truth (object: person)
+πιστεύω,verb,believe,to accept as true
+πιστεύω,verb,believe,to have religious faith; to believe in a greater truth
 κάτω,adv,below,in a lower place
+αποκάτω,adv,below,on a lower storey
+μείον,adv,below,of a temperature: below zero
 καλύτερος,adj,best,superlative of the adjective good
 καλύτερος,adj,better,comparative of the adjectives good or well
 ποδήλατο,noun,bicycle,vehicle
 μεγάλος,adj,big,of a great size — see also large
 ποδήλατο,noun,bike,bicycle
+μοτοσυκλέτα,noun,bike,motorcycle
+μηχανή,noun,bike,motorcycle
+μηχανάκι,noun,bike,motorcycle
 λογαριασμός,noun,bill,written inventory
+νομοσχέδιο,noun,bill,draft of a law
+κατηγορητήριο,noun,bill,"law: declaration made in writing, stating some wrong the complainant has suffered from the defendant"
+εγκλητήριο,noun,bill,"law: declaration made in writing, stating some wrong the complainant has suffered from the defendant"
+τιμολόγιο,noun,bill,invoice
+λογαριασμός,noun,bill,invoice
+διαφήμιση,noun,bill,advertisement
+αφίσα,noun,bill,advertisement
+συναλλαγματική,noun,bill,bill of exchange
 ράμφος,noun,bill,bird's beak
 πουλί,noun,bird,animal
 πτηνό,noun,bird,animal
+τύπος,noun,bird,person
+κούκλα,noun,bird,woman
+γκόμενα,noun,bird,woman
+γκόμενα,noun,bird,girlfriend
 γενέθλια,noun,birthday,anniversary
+ημερομηνία γεννήσεως,noun,birthday,date of birth — see also date of birth
 μαύρο,noun,black,colour/color
 μέλας,noun,black,colour/color
+μαύρο,noun,black,"dye, pigment"
+μαύρο,noun,black,"pen, pencil, etc. with black pigment"
+μαύρος,noun,black,dark-skinned person — see also Negro
+μαύρη,noun,black,dark-skinned person — see also Negro
+μαύρη,noun,black,"billiards, snooker, pool: black ball"
 ιστολόγιο,noun,blog,a personal or corporate website
 ξανθός,adj,blond,of a pale golden colour
 Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
+ξανθομάλλης,adj,blond,having blond hair
 μπλε,noun,blue,colour
 βάρκα,noun,boat,water craft
 λέμβος,noun,boat,water craft
 καΐκι,noun,boat,water craft
 σώμα,noun,body,physical structure of a human or animal
 κορμί,noun,body,physical structure of a human or animal
+σώμα,noun,body,fleshly or corporeal nature of a human
+κορμί,noun,body,fleshly or corporeal nature of a human
+σκελετός,noun,body,largest or most important part of anything (e.g. car bodywork)
+κορμάκι,noun,body,bodysuit
+οργάνωση,noun,body,group having a common purpose or opinion
+οργανισμός,noun,body,"organisation, company or other authoritative group"
+σώμα,noun,body,"organisation, company or other authoritative group"
+σώμα,noun,body,collection of knowledge
+γραμματολογία,noun,body,collection of knowledge
+σώμα,noun,body,any physical object or material thing
+σώμα,noun,body,"substance, material presence"
+σώμα,noun,body,"comparative viscosity, solidity or substance"
 βιβλίο,noun,book,collection of sheets of paper bound together containing printed or written material
 τόμος,noun,book,collection of sheets of paper bound together containing printed or written material
+στοίχημα,noun,book,record of betting
+άλμπουμ,noun,book,"convenient collection of small paper items, such as stamps"
+βιβλίο,noun,book,"major division of a published work, larger than a chapter"
+τόμος,noun,book,"major division of a published work, larger than a chapter"
+σενάριο μιούζικαλ,noun,book,script of a musical
+βιβλία,noun,book,usually in plural: records of the accounts of a business
 μπότα,noun,boot,heavy shoe that covers part of the leg
 τρυπημένος,adj,bored,suffering from boredom
 βαριεστημένος,adj,bored,suffering from boredom
@@ -115,6 +268,7 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ανιαρός,adj,boring,causing boredom or tiredness
 μπουκάλι,noun,bottle,container
 φιάλη,noun,bottle,container
+μπουκάλι,noun,bottle,contents of such a container
 γροθιά,noun,box,blow with the fist
 πυξάρι,noun,box,shrub or tree of the genus Buxus — see also box tree
 τσιμσίρι,noun,box,shrub or tree of the genus Buxus — see also box tree
@@ -122,63 +276,149 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 κιβώτιο,noun,box,cuboid space; container
 κουτί,noun,box,cuboid space; container
 κασόνι,noun,box,cuboid space; container
+συρτάρι,noun,box,compartment of an item of furniture
+θεωρείο,noun,box,compartment to sit inside
+εδώλιο,noun,box,compartment to sit inside
+θάλαμος,noun,box,small rectangular shelter
+φυλάκιο,noun,box,small rectangular shelter
+σκοπιά,noun,box,small rectangular shelter
+οικίσκος,noun,box,small rectangular shelter
+χαζοκούτι,noun,box,(slang) television
+κουτί,noun,box,"computer, or the case in which it is housed"
+πλαίσιο,noun,box,"rectangular border around an image, text, etc."
+κουτάκι,noun,box,small area on a document for a tick mark
+τετραγωνίδιο,noun,box,small area on a document for a tick mark
 αγόρι,noun,boy,young male
+αγόρι,noun,boy,male servant
+αγόρι,noun,boy,"male of any age, used as a friendly diminutive"
+αγόρι,noun,boy,affectionate term of address for male dog
 γκόμενος,noun,boyfriend,male partner in a romantic relationship
 αγόρι,noun,boyfriend,male partner in a romantic relationship
 ψωμί,noun,bread,baked dough made from cereals
 άρτος,noun,bread,baked dough made from cereals
+ψωμί,noun,bread,countable: any variety of bread
+άρτος,noun,bread,countable: any variety of bread
+διάλειμμα,noun,break,"rest or pause, usually from work"
 πρωινό,noun,breakfast,first meal of the day
 πρόγευμα,noun,breakfast,first meal of the day
 φέρνω,verb,bring,to transport toward somebody/somewhere
 αδελφός,noun,brother,male sibling
 αδερφός,noun,brother,male sibling
+αδελφός,noun,brother,male having parents in common
+αδελφός,noun,brother,male fellow member of a religious community
+αδελφός,noun,brother,peer
 καστανό,noun,brown,colour
 καφέ,noun,brown,colour
 χτίζω,verb,build,(transitive) to form by combining materials or parts
 δόμηση,noun,building,act or process of building
+κτίριο,noun,building,closed structure with walls and a roof
+κτίσμα,noun,building,closed structure with walls and a roof
+οικοδομή,noun,building,closed structure with walls and a roof
+κτήριο,noun,building,closed structure with walls and a roof
 λεωφορείο,noun,bus,vehicle
+δίαυλος,noun,bus,electrical conductor
 επιχείρηση,noun,business,commercial enterprise or establishment
 εταιρεία,noun,business,commercial enterprise or establishment
 εταιρία,noun,business,commercial enterprise or establishment
 πολυσύχναστος,adj,busy,crowded with business or activities
+πολυάσχολος,adj,busy,doing a great deal
 βούτυρο,noun,butter,soft foodstuff made from milk
 αγοράζω,verb,buy,to obtain something with money
+χάβω,verb,buy,to accept as true
+χάφτω,verb,buy,to accept as true
 τούρτα,noun,cake,type of sweet dessert
 κέικ,noun,cake,type of sweet dessert
 κραυγή,noun,call,cry or shout
 αναφώνηση,noun,call,cry or shout
 ξεφωνητό,noun,call,cry or shout
+τιτίβισμα,noun,call,characteristic cry of a bird or other animal
+κραυγή,noun,call,characteristic cry of a bird or other animal
+κάλεσμα,noun,call,beckoning or summoning
+πρόσκληση,noun,call,beckoning or summoning
+τηλεφώνημα,noun,call,telephone conversation
+επίσκεψη,noun,call,social visit
+εφημερία,noun,call,type of work shift
+κλήση,noun,call,computing: act of jumping to a subprogram
 φωτογραφική μηχανή,noun,camera,still camera
+βιντεοκάμερα,noun,camera,movie camera
 μπορώ,verb,can,to be able to; to know how to
 δύναμαι,verb,can,to be able to; to know how to
+μπορώ,verb,can,may
 κονσερβοποιώ,verb,can,to preserve
 αυτοκίνητο,noun,car,"automobile, a vehicle steered by a driver"
 αμάξι,noun,car,"automobile, a vehicle steered by a driver"
+θαλαμίσκος,noun,car,"moving, load-carrying component of an elevator"
+κάρτα,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
+λανάρι,noun,card,hand-held tool for preparing materials for spinning
 καριέρα,noun,career,one's calling in life; a person's occupation
 καρότο,noun,carrot,Daucus carota ssp. sativus
+καροτί,noun,carrot,shade
 κουβαλώ,verb,carry,to transport by lifting
+κουβαλώ,verb,carry,to transmit or travel
 γάτα,noun,cat,domestic species
 γάτος,noun,cat,domestic species
+αιλουροειδές,noun,cat,member of the family Felidae
+αίλουρος,noun,cat,member of the family Felidae
 σεντ,noun,cent,subunit of currency in US and elsewhere
+λεπτό,noun,cent,one-hundredth of a euro
+ένα λεπτό,noun,cent,coin
 κέντρο,noun,center,point equidistant from all points on the perimeter of a circle
+κέντρο,noun,center,point equidistant from all points on the surface of a sphere
+κέντρο,noun,center,point on a line midway between the ends
+κέντρο,noun,center,point in the interior of figure with mean coordinates
+κέντρο,noun,center,place where a function or activity occurs
+κέντρο,noun,center,in basketball
 καρέκλα,noun,chair,furniture
 αλλαγή,noun,change,the process of becoming different
+ψιλά,noun,change,small denominations of money given in exchange for a larger denomination
+αλλαγή,noun,change,a replacement
+ρέστα,noun,change,balance returned after a purchase
 φτηνός,adj,cheap,low and/or reduced in price
+φτηνός,adj,cheap,of poor quality
+φτηνός,adj,cheap,of little worth
+ανακόπτω,verb,check,"to control, limit, or halt"
+επαληθεύω,verb,check,to verify or compare with a source of information
 τυρί,noun,cheese,dairy product
+τυρί,noun,cheese,countable: any particular variety of cheese
 κοτόπουλο,noun,chicken,bird
 κότα,noun,chicken,bird
+κοτόπουλο,noun,chicken,meat
+κότα,noun,chicken,coward
 παιδί,noun,child,son or daughter; someone's child
 τέκνο,noun,child,son or daughter; someone's child
+παιδί,noun,child,a minor
+ανήλικος,noun,child,a minor
+απότοκος,noun,child,(computing) object which has a subservient or derivative role relative to another object
 σοκολάτα,noun,chocolate,food made from ground roasted cocoa beans
+σοκολατάκι,noun,chocolate,small piece of confectionery made from chocolate
+σοκολατί,noun,chocolate,colour
 διαλέγω,verb,choose,to pick
 επιλέγω,verb,choose,to pick
+εκλέγω,verb,choose,to elect
 πόλη,noun,city,large settlement
 τάξη,noun,class,"group, collection, category or set sharing characteristics or attributes"
 είδος,noun,class,"group, collection, category or set sharing characteristics or attributes"
 κατηγορία,noun,class,"group, collection, category or set sharing characteristics or attributes"
+τάξη,noun,class,"social grouping, based on job, wealth, etc."
+τάξη,noun,class,division of society into classes
+κομψότητα,noun,class,admirable behavior; elegance
+τάξη,noun,class,group of students in a regularly scheduled meeting with a teacher
+μάθημα,noun,class,series of classes covering a single subject
+τάξη,noun,class,group of students who commenced or completed their education during a particular year
+θέση,noun,class,"category of seats in an airplane, train or other means of mass transportation"
+ομοταξία,noun,class,taxonomy: classification below Phylum and above Order
+κορυφή,noun,class,best of its kind
+κλάση,noun,class,set theory: collection of sets definable by a shared property
+σειρά,noun,class,military: persons subject to the same draft
+κλάση,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 αίθουσα διδασκαλίας,noun,classroom,room in a school
 καθαρίζω,verb,clean,(transitive) to remove dirt from a place or object
+συμμαζεύω,verb,clean,(transitive) to tidy up
 ανεβαίνω,verb,climb,"to ascend, to go up"
+ανεβαίνω,verb,climb,"to mount, to move upwards on"
+σκαρφαλώνω,verb,climb,"to mount, to move upwards on"
+ανεβαίνω,verb,climb,to scale
+σκαρφαλώνω,verb,climb,to move by using the hands and feet
 ρολόι,noun,clock,instrument to measure or keep track of time
 ωρολόγιο,noun,clock,instrument to measure or keep track of time
 κλείνω,verb,close,obstruct (an opening)
@@ -186,21 +426,63 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 λέσχη,noun,club,association of members
 κλαμπ,noun,club,association of members
 σωματείο,noun,club,association of members
+ρόπαλο,noun,club,heavy stick for use as weapon or plaything
+κλαμπ,noun,club,establishment that provides staged entertainment
+σπαθί,noun,club,"playing card symbol, ♣"
 πανωφόρι,noun,coat,outer garment covering the upper torso and arms
 παλτό,noun,coat,outer garment covering the upper torso and arms
+επικάλυμμα,noun,coat,"covering of material, such as paint"
+στρώση,noun,coat,"covering of material, such as paint"
+επίχρισμα,noun,coat,"covering of material, such as paint"
+τρίχωμα,noun,coat,fur or feathers
+γούνα,noun,coat,fur or feathers
+φτέρωμα,noun,coat,fur or feathers
 καφές,noun,coffee,beverage
+καφές,noun,coffee,beans
+καφεόδεντρο,noun,coffee,plant
+καφέ,noun,coffee,colour
 κρύο,noun,cold,low temperature
+κρύωμα,noun,cold,illness
+κρυολόγημα,noun,cold,illness
+κολέγιο,noun,college,academic institution
+πανεπιστήμιο,noun,college,academic institution
+κολέγιο,noun,college,institution of higher education
+πανεπιστήμιο,noun,college,institution of higher education
+πανεπιστήμιο,noun,college,institution of higher education teaching undergraduates
+σχολή,noun,college,"non-specialized, semi-autonomous division of a university"
+σχολή,noun,college,in the formal names of private schools: secondary school
+κολέγιο,noun,college,institution of further education at an intermediate level
 χρώμα,noun,color,spectral composition of visible light
+χρώμα,noun,color,particular set of the visible spectrum
+χρώμα,noun,color,hue as opposed to achromatic colors
+απόχρωση,noun,color,hue as opposed to achromatic colors
+χρώμα,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
+χρώμα,noun,color,"interest, especially in a selective area"
+χρώματα,noun,color,standard or banner (colors)
 έρχομαι,verb,come,to move nearer
+χύνω,verb,come,to orgasm
 κοινός,adj,common,mutual
+κοινός,adj,common,usual
+συνηθισμένος,adj,common,usual
+κοινός,adj,common,grammar: of the gender resulting from the coalescence of the masculine and feminine genders
 εταιρεία,noun,company,"in legal context, a corporation"
 εταιρία,noun,company,"in legal context, a corporation"
+συντροφιά,noun,company,group of individuals with a common purpose
+συντροφικότητα,noun,company,companionship
+παρέα,noun,company,companionship
+φιλία,noun,company,companionship
+λόχος,noun,company,military unit
 συγκρίνω,verb,compare,to assess the similarities between two things or between one thing and another
 παραβάλλω,verb,compare,to assess the similarities between two things or between one thing and another
 ολοκληρώνω,verb,complete,to finish
+συμπληρώνω,verb,complete,to make whole or entire
 υπολογιστής,noun,computer,programmable electronic device
 κομπιούτερ,noun,computer,programmable electronic device
+λογιστής,noun,computer,person
+λογίστρια,noun,computer,person
 συντονισμός,noun,concert,agreement in a design or plan
+ενορχήστρωση,noun,concert,musical accordance or harmony
+συναυλία,noun,concert,a musical entertainment in which several voices or instruments take part
 συνομιλία,noun,conversation,expression and exchange of individual ideas through talking with other people
 συζήτηση,noun,conversation,expression and exchange of individual ideas through talking with other people
 συνδιάλλαξη,noun,conversation,expression and exchange of individual ideas through talking with other people
@@ -208,35 +490,88 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 κουβέντα,noun,conversation,expression and exchange of individual ideas through talking with other people
 μαγειρεύω,verb,cook,to prepare food for eating
 παρασκευάζω,verb,cook,to prepare food for eating
+ψήνομαι,verb,cook,colloquial: to be uncomfortably hot
 μαγειρική,noun,cooking,the process of preparing food by using heat
+μαγειρική,noun,cooking,the style or genre of food preparation; cookery; cuisine
 διορθώνω,verb,correct,to make something become right that was previously wrong
 κοστίζω,verb,cost,"to incur a charge, a price"
 στοιχίζω,verb,cost,"to incur a charge, a price"
 τιμώμαι,verb,cost,"to incur a charge, a price"
 κάνω [colloquial],verb,cost,"to incur a charge, a price"
 χώρα,noun,country,region of land
+χώρα,noun,country,nation state
+επαρχία,noun,country,"the country, rural area, as opposed to the town or city"
 μακρινός ξάδερφος,noun,cousin,any relation (especially a distant one) who is not a direct ancestor or descendant but part of a person’s extended family
+ξάδερφος,noun,cousin,child of a person’s parent’s brother or sister
 αγελάδα,noun,cow,female domesticated ox or other bovine
+αγελάδα,noun,cow,derogatory: despicable woman
 κρέμα γάλακτος,noun,cream,oily part of milk
+κρεμ,noun,cream,colour
+κρέμα,noun,cream,product to apply to the skin
 δημιουργώ,verb,create,to put into existence
+πλάθω,verb,create,"to design, invest with a new form, shape etc."
 πολιτισμός,noun,culture,"arts, customs and habits"
+πολιτισμός,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
+νοοτροπία,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
+παράδοση,noun,culture,anthropology: any knowledge passed from one generation to the next
+καλλιέργεια,noun,culture,microbiology: the process of growing a bacterial or other biological entity
+καλλιέργεια,noun,culture,the collective noun for a group of bacteria
 φλιτζάνι,noun,cup,drinking vessel
 κούπα,noun,cup,drinking vessel
+κούπα,noun,cup,unit of measure
+κύπελλο,noun,cup,trophy
+κύπελλο,noun,cup,contest
+κούπα,noun,cup,part of bra
+πελάτης,noun,customer,one who purchases or receives a product or service
+πελάτισσα,noun,customer,one who purchases or receives a product or service
+θαμώνας,noun,customer,one who purchases or receives a product or service
 κόβω,verb,cut,to perform an incision
+κόβω,verb,cut,to divide with a sharp instrument
+βγάζω,verb,cut,to separate from prior association
+αποκοπή,verb,cut,computing: to remove and place in memory
+πηδάω,verb,cut,to enter a queue in a wrong place
+κόβω,verb,cut,to reduce
+μειώνω,verb,cut,to reduce
+κάνω κοπάνα,verb,cut,"colloquial, not to attend a class"
+κόβω,verb,cut,to divide a pack of playing cards
 μπαμπάς,noun,dad,informal: a father
 χορεύω,verb,dance,move rhythmically to music
 χορευτής,noun,dancer,person who dances
+χορεύτρια,noun,dancer,a female person who dances
+χορεύτρια,noun,dancer,euphemism for stripper
 επικίνδυνος,adj,dangerous,full of danger
 σκοτεινός,adj,dark,having an absolute or relative lack of light
+σκούρος,adj,dark,"not bright or light, deeper in hue"
 ημερομηνία,noun,date,"that which specifies the time of writing, inscription etc."
+ημερομηνία,noun,date,point of time at which a transaction or event takes place
+συνάντηση,noun,date,pre-arranged social meeting
 χουρμάς,noun,date,fruit of the date palm
 κόρη,noun,daughter,female offspring
 θυγατέρα,noun,daughter,female offspring
 ημέρα,noun,day,period between sunrise and sunset
 μέρα,noun,day,period between sunrise and sunset
+ημέρα,noun,day,period of 24 hours
+μέρα,noun,day,period of 24 hours
+εικοσιτετράωρο,noun,day,period of 24 hours
+ημερονύχτιο,noun,day,period of 24 hours
+ημέρα,noun,day,period from midnight to the following midnight
+μέρα,noun,day,period from midnight to the following midnight
+εικοσιτετράωρο,noun,day,period from midnight to the following midnight
+ημερονύχτιο,noun,day,period from midnight to the following midnight
+ημέρα,noun,day,rotational period of a planet
+μέρα,noun,day,rotational period of a planet
+εικοσιτετράωρο,noun,day,rotational period of a planet
+ημερονύχτιο,noun,day,rotational period of a planet
+ημέρα,noun,day,"part of a day period which one spends at one's job, school, etc."
+μέρα,noun,day,"part of a day period which one spends at one's job, school, etc."
 αγαπητός,adj,dear,loved; lovable
+αγαπητός,adj,dear,"loving, affectionate, heartfelt"
+αγαπημένος,adj,dear,precious to or greatly valued by someone
+αγαπητέ,adj,dear,formal way of addressing
+αγαπητή,adj,dear,formal way of addressing
 αποφασίζω,verb,decide,to resolve or settle
 κρίνω,verb,decide,to resolve or settle
+αποφασίζω,verb,decide,give judgement
 εύγευστος,adj,delicious,pleasing to taste
 νόστιμος,adj,delicious,pleasing to taste
 περιγράφω,verb,describe,to represent in words
@@ -244,6 +579,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 σχεδιάζω,verb,design,to plan an artwork etc.
 γραφείο,noun,desk,table for writing and reading
 λεπτομέρεια,noun,detail,part small enough to escape casual notice
+δεδομένα,noun,detail,plural: personal information
+στοιχεία,noun,detail,plural: personal information
 διάλογος,noun,dialogue,conversation or other discourse between individuals
 συνομιλία,noun,dialogue,conversation or other discourse between individuals
 λεξικό,noun,dictionary,publication that explains the meanings of an ordered list of words
@@ -255,20 +592,40 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 σύνοδος,noun,diet,council of leaders
 βουλή,noun,diet,council of leaders
 διατροφή,noun,diet,food a person or animal consumes
+δίαιτα,noun,diet,controlled regimen of food
+διαιτολόγιο,noun,diet,controlled regimen of food
+δίαιτα,noun,diet,habitual consumption
 διαφορά,noun,difference,quality of being different
+διαφορά,noun,difference,characteristic of something that makes it different from something else
+διαφορά,noun,difference,disagreement or argument about something important
+διαφορά,noun,difference,arithmetic: result of a subtraction
 διαφορετικός,adj,different,not the same
 δύσκολος,adj,difficult,"hard, not easy"
 δείπνο,noun,dinner,evening meal
 βραδινό,noun,dinner,evening meal
 κύριο γεύμα,noun,dinner,evening meal
+τροφή,noun,dinner,a meal given to an animal
+γεύμα,noun,dinner,midday meal
+μεσημεριανό,noun,dinner,midday meal
+γεύμα,noun,dinner,a formal meal
+δείπνο,noun,dinner,a formal meal
 βρόμικος,adj,dirty,covered with or containing dirt
 ακάθαρτος,adj,dirty,covered with or containing dirt
 λερωμένος,adj,dirty,covered with or containing dirt
+βρόμικος,adj,dirty,that makes one dirty
+βρόμικος,adj,dirty,"morally unclean, obscene or indecent"
+βρόμικος,adj,dirty,"dishonourable, violating standards or rules"
+ακάθαρτος,adj,dirty,of color: discolored by impurities
 συζητώ,verb,discuss,to converse or debate concerning a particular topic
 πιάτο,noun,dish,vessel for holding/serving food
+πιάτο,noun,dish,specific type of food
+πιάτα,noun,dish,tableware to be/being washed
+κάνω,verb,do,"perform, execute"
 διδάκτορας,noun,doctor,person who has attained a doctorate
 σκύλος,noun,dog,animal
 σκυλί,noun,dog,animal
+σκύλος,noun,dog,male canine
+κύνας,noun,dog,male canine
 δολλάριο,noun,dollar,designation for specific currency
 δολάριο,noun,dollar,designation for specific currency
 πόρτα,noun,door,"portal of entry into a building, room or vehicle"
@@ -277,35 +634,67 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 σχεδιάζω,verb,draw,to produce a picture
 ζωγραφίζω,verb,draw,to produce a picture
 ντύνω,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+ντύνομαι,verb,dress,to put on clothes — see also get dressed
 πίνω,verb,drink,consume liquid through the mouth
 απορροφώ,verb,drink,consume liquid through the mouth
 πώνω,verb,drink,consume liquid through the mouth
+πίνω,verb,drink,consume alcoholic beverages
 οδηγώ,verb,drive,to operate (a wheeled motorized vehicle)
 οδηγός,noun,driver,"one who drives something, e.g. cattle"
+οδηγός,noun,driver,something that drives something
+οδηγός,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+οδηγός,noun,driver,person who drives some other vehicle
+μηχανοδηγός,noun,driver,person who drives some other vehicle
+οδηγός,noun,driver,program acting as interface between an application and hardware
 στάχυ,noun,ear,fruiting body of a grain plant
 αυτί,noun,ear,organ of hearing
+αυτί,noun,ear,musical ability
 νωρίς,adv,early,at a time before expected
 εύκολος,adj,easy,requiring little skill or effort
+εύκολος,adj,easy,consenting readily to sex
 τρώω,verb,eat,"to ingest — see also consume, ingest"
 τρώγω,verb,eat,"to ingest — see also consume, ingest"
 εσθίω,verb,eat,"to ingest — see also consume, ingest"
+τρώω,verb,eat,colloquial: cause to worry
+σκοτίζω,verb,eat,colloquial: cause to worry
+τρώω,verb,eat,eat a meal
+τρώγω,verb,eat,eat a meal
+γευματίζω,verb,eat,eat a meal
+εσθίω,verb,eat,eat a meal
+έδω,verb,eat,eat a meal
 αβγό,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+αβγό,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+αβγό,noun,egg,thing which looks like or is shaped like an egg
 ελέφαντας,noun,elephant,mammal
 αλλιώς,adv,else,word that implies any result with the exception of the one being referred to
 τελειώνω,verb,end,"intransitive: be finished, be terminated"
 λήγω,verb,end,"intransitive: be finished, be terminated"
+τελειώνω,verb,end,"transitive: finish, terminate (something)"
 απολαμβάνω,verb,enjoy,to receive pleasure or satisfaction from something
 αρκετά,adv,enough,sufficiently
 επαρκώς,adv,enough,sufficiently
 ευρώ,noun,euro,currency unit of the European Monetary Union
+ευρώ,noun,euro,coin worth 1 euro
 ακριβώς,adv,even,"exactly, fully"
+ακόμη και,adv,even,implying extreme example
+καν,adv,even,implying extreme example
+ακόμη,adv,even,emphasising comparative
 βράδυ,noun,evening,time of day between dusk and night
+εσπέρα,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+βράδυ,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+δειλινό,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 γεγονός,noun,event,occurrence
 συμβάν,noun,event,occurrence
+γεγονός,noun,event,physics: point in spacetime
+συμβαν,noun,event,computing: action which triggers an event handler
 πάντα,adv,ever,always
 πάντοτε,adv,ever,always
+ποτέ,adv,ever,at any time
 παράδειγμα,noun,example,something representative of a group
+παράδειγμα,noun,example,something serving to explain or illustrate a rule
+παράδειγμα,noun,example,parallel or closely similar case
 ενθουσιασμένος,adj,excited,having great enthusiasm and energy
+διεγερμένος,adj,excited,being in a state of higher energy
 συναρπαστικός,adj,exciting,causing excitement
 ακριβός,adj,expensive,having a high price or cost
 εξηγώ,verb,explain,to make intelligible
@@ -314,87 +703,205 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 οφθαλμός,noun,eye,organ
 όμμα,noun,eye,organ
 ομμάτιον,noun,eye,organ
+οπή,noun,eye,hole in needle
+μάτι,noun,eye,hole in needle
+ματάκι,noun,eye,hole in needle
+τρύπα,noun,eye,hole in needle
+τρυπίτσα,noun,eye,hole in needle
+μάτι,noun,eye,of a hurricane
+μάτι,noun,eye,of a potato
+ματάκι,noun,eye,of a potato
+οφθαλμίδιο,noun,eye,of a potato
+μάτι,noun,eye,ability to notice what others might miss
 πρόσωπο,noun,face,anatomy: front part of head
+ύφος,noun,face,facial expression
+έκφραση,noun,face,facial expression
+μορφασμός,noun,face,facial expression
+πρόσωπο,noun,face,public image
+εικόνα,noun,face,public image
 γεγονός,noun,fact,an honest observation
+γεγονός,noun,fact,something actual
+γεγονός,noun,fact,an objective consensus on a fundamental reality
 πτώση,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 ψευδής,adj,false,"untrue, not factual, wrong"
+ψευδής,adj,false,"spurious, artificial"
+πλαστός,adj,false,"spurious, artificial"
+κίβδηλος,adj,false,"spurious, artificial"
+νόθος,adj,false,"spurious, artificial"
 διάσημος,adj,famous,well known
 περίφημος,adj,famous,well known
+φανταστικός,adj,fantastic,existing in or constructed from fantasy
 αγρόκτημα,noun,farm,place where agricultural activities take place
 αγρότης,noun,farmer,person who works the land and/or who keeps livestock
 γεωργός,noun,farmer,person who works the land and/or who keeps livestock
 κτηνοτρόφος,noun,farmer,person who works the land and/or who keeps livestock
 γεωργοκτηνοτρόφος,noun,farmer,person who works the land and/or who keeps livestock
 αγρότισσα,noun,farmer,person who works the land and/or who keeps livestock
+γρήγορα,adv,fast,with great speed
 χοντρός,adj,fat,carrying a larger than normal amount of fat on one's body
 παχύς,adj,fat,carrying a larger than normal amount of fat on one's body
+χοντρός,adj,fat,thick
+άφθονος,adj,fat,bountiful
 πατέρας,noun,father,male parent
 αισθάνομαι,verb,feel,transitive: to sense by touch
+αισθάνομαι,verb,feel,transitive: to experience an emotion or other mental state about
+νιώθω,verb,feel,transitive: to experience an emotion or other mental state about
+ψυλλιάζομαι,verb,feel,transitive: to think or believe
+ψηλαφώ,verb,feel,intransitive: to search by touching
+νιώθω,verb,feel,intransitive: to experience an emotion or other mental state
 αίσθηση,noun,feeling,sensation
+συναίσθημα,noun,feeling,emotion; impression
+συναίσθημα,noun,feeling,in plural: emotional state or well-being
 φεστιβάλ,noun,festival,event or community gathering
 γεμίζω,verb,fill,"add contents to, so it is full"
+σφραγίζω,verb,fill,treat (a tooth)
 τελικός,adj,final,last; ultimate
+οριστικός,adj,final,conclusive; decisive
+τελικός,adj,final,linguistics: occurring at the end of a word
 βρίσκω,verb,find,"encounter, locate, discover"
 εκλεκτός,adj,fine,of superior quality
 εξαιρετικός,adj,fine,of superior quality
+αίθριος,adj,fine,of weather: sunny and not raining
+εντάξει,adj,fine,"being acceptable, adequate, passable, or satisfactory"
+λεπτός,adj,fine,"particularly slender; especially thin, narrow, or of small girth"
 τελειώνω,verb,finish,to complete
 τερματίζω,verb,finish,to complete
+τελειώνω,verb,finish,to come to an end
 φωτιά,noun,fire,oxidation reaction
+φωτιά,noun,fire,instance of this chemical reaction
+φωτιά,noun,fire,damaging occurrence of fire
+πυρκαγιά,noun,fire,damaging occurrence of fire
+πυρκαϊά,noun,fire,damaging occurrence of fire
+φωτιά,noun,fire,alchemy: one of the basic elements
+θερμάστρα,noun,fire,heater or stove used in place of real fire
 πρώτα,adv,first,before anything else
 πρωτίστως,adv,first,before anything else
 ψάρι,noun,fish,vertebrate animal
+ψάρια,noun,fish,collective plural of fish
+ψάρι,noun,fish,flesh of fish as food
+ψάρεμα,noun,fish,period of time spent fishing
+ψάρεμα,noun,fish,instance of seeking something
+ψάρι,noun,fish,slang: easy victim for swindling
 φόβος,noun,flight,act of fleeing
 φυγή,noun,flight,act of fleeing
 πτήση,noun,flight,act of flying
+πτήση,noun,flight,instance of flying
+σμήνος,noun,flight,group of doves or swallows
+πτήση,noun,flight,journey made by an aircraft
 δάπεδο,noun,floor,bottom part of a room
 πάτωμα,noun,floor,bottom part of a room
+όροφος,noun,floor,horizontal structure dividing a building
+πάτωμα,noun,floor,horizontal structure dividing a building
+πυθμένας,noun,floor,supporting surface of a structure
+έδρανο,noun,floor,part of the house assigned to the members of a legislative assembly
+έδρανα,noun,floor,part of the house assigned to the members of a legislative assembly
 άνθος,noun,flower,reproductive structure in angiosperms
 λουλούδι,noun,flower,reproductive structure in angiosperms
 ανθός,noun,flower,reproductive structure in angiosperms
 πετώ,verb,fly,to travel through air
+πετώ,verb,fly,to flee
 ακολουθώ,verb,follow,to go or come after in physical space
+επακολουθώ,verb,follow,to go or come after in a sequence
+ακολουθώ,verb,follow,to carry out in accordance to
+επακολουθώ,verb,follow,to be a logical consequence of
 τροφή,noun,food,any substance consumed by living organisms to sustain life
 φαγητό,noun,food,any substance consumed by living organisms to sustain life
 φαΐ,noun,food,any substance consumed by living organisms to sustain life
+τροφή,noun,food,anything intended to supply energy or nourishment of other forms
+τρόφιμα,noun,food,foodstuff
 πόδι,noun,foot,part of human body
 πόρ,noun,foot,part of human body
+οπλή,noun,foot,part of animal’s body
+πόδι,noun,foot,part of animal’s body
+πόδι,noun,foot,bottom of anything
+πόδι,noun,foot,projection on equipment
+πόδι,noun,foot,unit of measure
 ποδόσφαιρο,noun,football,association football
+μπάλα ποδοφαίρου,noun,football,ball
 ξεχνώ,verb,forget,to lose remembrance of
 λησμονώ,verb,forget,to lose remembrance of
+ξεχνώ,verb,forget,to unintentionally not do
+ξεχνώ,verb,forget,to leave behind
+λησμονώ,verb,forget,to leave behind
+ξεχνώ,verb,forget,to cease remembering
 σχηματίζω,verb,form,to give shape
+σχηματίζομαι,verb,form,(intransitive) to take shape
+δημιουργώ,verb,form,(linguistics) to create a word
 ελεύθερος,adj,free,not imprisoned
+ελεύθερος,adj,free,unconstrained
+ανεμπόδιστος,adj,free,unconstrained
+ελεύθερος,adj,free,unobstructed
+ανεμπόδιστος,adj,free,unobstructed
+ελεύθερος,adj,free,not in use
+ελεύθερος,adj,free,without obligations
+ελεύθερος,adj,free,software: with very few limitations on distribution or improvement
 φίλος,noun,friend,person whose company one enjoys
 φίλη,noun,friend,person whose company one enjoys
+φίλος,noun,friend,boyfriend or girlfriend
+φίλη,noun,friend,boyfriend or girlfriend
+γκόμενος,noun,friend,boyfriend or girlfriend
+γκόμενα,noun,friend,boyfriend or girlfriend
+αμόρε,noun,friend,boyfriend or girlfriend
+γνωστός,noun,friend,person with whom you are acquainted
+γνωστή,noun,friend,person with whom you are acquainted
+βοηθός,noun,friend,person who provides assistance
 φιλικός,adj,friendly,"approachable, warm"
+φιλικός,adj,friendly,characteristic of friendliness
+φιλικός,adj,friendly,having an easy relationship
+φιλικός,adj,friendly,without hostility
+φιλικός,adj,friendly,pertaining to friendlies in the conflict sense
 εμπρόσθιος,adj,front,located at or near the front
 μπροστινός,adj,front,located at or near the front
 καρπός,noun,fruit,part of plant
 οπώρα,noun,fruit,part of plant
 οπωρικό,noun,fruit,part of plant
 φρούτο,noun,fruit,part of plant
+φρούτο,noun,fruit,food
+φρούτα,noun,fruit,food
+καρπός,noun,fruit,figuratively: positive end result or reward of labour or effort
+καρπός,noun,fruit,figuratively: child of a marriage
+φρούτο,noun,fruit,offensive slang: homosexual or effeminate man
+συκιά,noun,fruit,offensive slang: homosexual or effeminate man
 πλήρης,adj,full,containing the maximum possible amount
 γεμάτος,adj,full,containing the maximum possible amount
+χορτάτος,adj,full,"satisfied, in relation to eating"
+χορτασμένος,adj,full,"satisfied, in relation to eating"
 κέφι,noun,fun,enjoyment or amusement
+κέφι,noun,fun,"playful, often noisy, activity"
 αστείος,adj,funny,amusing; comical
 διασκεδαστικός,adj,funny,amusing; comical
 μέλλον,noun,future,the time ahead
+μέλλον,noun,future,something that will happen in moments yet to come
 παιχνίδι,noun,game,"playful activity that may be unstructured, amusement, pastime"
+παιχνίδι,noun,game,particular instance of playing a game; match
+κυνήγι,noun,game,wild animals hunted for food
 περιβόλι,noun,garden,piece of land outside with flowers and plants
+πάρκο,noun,garden,gardens with public access
+κήπος,noun,garden,grounds at the front or back of a house
 γεωγραφία,noun,geography,study of physical structure and inhabitants of the Earth
+παίρνω,verb,get,to receive
 κορίτσι,noun,girl,young female person
+κορίτσι,noun,girl,woman — see also woman
+κορίτσι,noun,girl,female servant
 κορίτσι,noun,girlfriend,a female partner in a romantic relationship
 κοπέλα,noun,girlfriend,a female partner in a romantic relationship
 φιλενάδα,noun,girlfriend,a female partner in a romantic relationship
 δίνω,verb,give,transfer the possession of something to someone else
+υποχωρώ,verb,give,bend slightly when a force is applied
 γυαλί,noun,glass,substance
+ποτήρι,noun,glass,drinking vessel
 πάω,verb,go,to move through space (especially from one place to another)
 πηγαίνω,verb,go,to move through space (especially from one place to another)
 καλός,adj,good,acting in the interest of good; ethical good intentions
 αγαθός,adj,good,acting in the interest of good; ethical good intentions
+καλός,adj,good,useful for a particular purpose
+καλός,adj,good,pleasant; enjoyable
 αποχαιρετισμός,noun,goodbye,an utterance of goodbye
 αντίο,noun,goodbye,an utterance of goodbye
 παππούς,noun,grandfather,grandfather (from either side)
 πάππος,noun,grandfather,grandfather (from either side)
+παππούς,noun,grandfather,male forefather
+πάππος,noun,grandfather,male forefather
 γιαγιά,noun,grandmother,mother of someone's parent
 μάμμη,noun,grandmother,mother of someone's parent
 γκρι,noun,gray,colour
@@ -402,15 +909,36 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 φαιό,noun,gray,colour
 γκρέυ,noun,gray,SI unit of absorbed radiation
 μεγάλος,adj,great,"very big, large scale"
+εξαιρετικός,adj,great,very good
+περίφημος,adj,great,important title
 πράσινο,noun,green,colour
 ομάδα,noun,group,number of things or persons being in some relation to each other
+ομάδα,noun,group,in group theory
+συγκρότημα,noun,group,people who perform music together
 μεγαλώνω,verb,grow,(intransitive) to become bigger
+αυξάνω,verb,grow,(transitive) to cause something to become bigger
 εικασία,noun,guess,prediction about the outcome of something
 κιθάρα,noun,guitar,musical instrument
 γυμναστήριο,noun,gym,sporting facility specialized for lifting weights and exercise
 τρίχα,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+μαλλί,noun,hair,mass of such filaments on the human head
+μαλλιά,noun,hair,mass of such filaments on the human head
+τρίχες,noun,hair,mass of such filaments growing from the skin of humans and animals
 μισό,noun,half,one of two equal parts into which anything may be divided
+μισό,noun,half,half a standard measure
+μισό,noun,half,math: fraction
 χέρι,noun,hand,part of the fore limb
+δείκτης,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+πλευρά,noun,hand,"side; part; direction, either right or left"
+δεξιοτέχνης,noun,hand,power of performance; means of execution; ability; skill; dexterity
+χειρώνακτας,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+εργάτης,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+εργάτρια,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+γραφή,noun,hand,handwriting; style of penmanship
+γράψιμο,noun,hand,handwriting; style of penmanship
+γραφικός χαρακτήρας,noun,hand,handwriting; style of penmanship
+χεριά,noun,hand,"that which is, or may be, held in a hand at once"
+χαρτωσιά,noun,hand,set of cards held by a player in a card game
 συμβαίνω,verb,happen,to occur
 γίνομαι,verb,happen,to occur
 τυχαίνω,verb,happen,to occur
@@ -420,87 +948,202 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 σημειώνομαι,verb,happen,to occur
 ευχαριστημένος,adj,happy,"contented, joyous"
 χαρούμενος,adj,happy,"contented, joyous"
+ευτυχής,adj,happy,"fortunate, lucky"
+ευτυχισμένος,adj,happy,"fortunate, lucky"
+ευτυχής,adj,happy,"appropriate, apt, felicitous"
+ευτυχισμένος,adj,happy,"appropriate, apt, felicitous"
 καπέλο,noun,hat,a head covering
 πίλος,noun,hat,a head covering
 μισώ,verb,hate,to dislike intensely
 απεχθάνομαι,verb,hate,to dislike intensely
 έχω,verb,have,to possess
+έχω,verb,have,auxiliary used in forming the perfect and the past perfect tenses
 κεφάλι,noun,head,part of the body
+κεφάλι,noun,head,mental aptitude or skill
+μυαλό,noun,head,mental aptitude or skill
+κεφαλή,noun,head,topmost or leading part
+κεφάλι,noun,head,topmost or leading part
+κεφαλή,noun,head,"leader, chief, mastermind"
+κεφάλι,noun,head,"leader, chief, mastermind"
+αρχηγός,noun,head,"leader, chief, mastermind"
+διευθυντής,noun,head,"headmaster, headmistress"
+διευθύντρια,noun,head,"headmaster, headmistress"
 υγεία,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 υγιής,adj,healthy,enjoying good health
 γερός,adj,healthy,enjoying good health
 ακμαίος,adj,healthy,enjoying good health
 εύρωστος,adj,healthy,enjoying good health
+υγιεινός,adj,healthy,conducive to health
+γερός,adj,healthy,evincing health
+ικανός,adj,healthy,"significant, hefty"
+δέων,adj,healthy,"significant, hefty"
 ακούω,verb,hear,to perceive with the ear
 βοήθεια,noun,help,action given to provide assistance
+βοηθός,noun,help,person or persons who provides assistance with some task
+οικιακή βοηθός,noun,help,person employed to help in the maintenance of a house
+βοήθεια,noun,help,textual support of a software application
 εδώ,adv,here,"in, on, or at this place"
+εδώ,adv,here,to this place
 ψηλός,adj,high,elevated; tall
+μαστουρωμένος,adj,high,slang: under the influence of drugs
 ιστορία,noun,history,aggregate of past events
+ιστορία,noun,history,branch of knowledge that studies the past
+ιστορικό,noun,history,record or narrative description of past events
+ιστορικό,noun,history,medicine: list of past and continuing medical conditions
+ιστορικό,noun,history,computing: record of previous user events
 χόμπυ,noun,hobby,activity done for enjoyment in spare time
 χόμπι,noun,hobby,activity done for enjoyment in spare time
 πάρεργο,noun,hobby,activity done for enjoyment in spare time
 στο σπίτι,adv,home,at home
+προς το σπίτι,adv,home,homewards
 εργασία για το σπίτι,noun,homework,work that is done at home
 ελπίζω,verb,hope,"to want something to happen, with expectation that it might"
 άλογο,noun,horse,members of the species Equus ferus
 ίππος,noun,horse,members of the species Equus ferus
+ίππος,noun,horse,gymnastic equipment
+ίππος,noun,horse,knight in chess — see also knight
+άλογο,noun,horse,knight in chess — see also knight
 νοσοκομείο,noun,hospital,large medical facility
 ζεστός,adj,hot,having a high temperature
 θερμός,adj,hot,having a high temperature
+κάνει ζέστη,adj,hot,of the weather
+ζεστός,adj,hot,feverish
+πικάντικος,adj,hot,spicy
+καυτερός,adj,hot,spicy
 ξενοδοχείο,noun,hotel,establishment providing accommodation
 ώρα,noun,hour,time period of sixty minutes
+ώρα,noun,hour,the time
+χρόνος,noun,hour,the time
 σπίτι,noun,house,human abode
+σπίτι,noun,house,archetypal structure of a human abode
+οίκος,noun,house,"an establishment, business"
+οίκος,noun,house,"dynasty, familiar descendance"
 πόσο,adv,how,to what degree
+πώς,adv,how,in what manner
+πώς,adv,how,in what state
+πολύ,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+πόσο,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+τι,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 όμως,adv,however,nevertheless
 πεινασμένος,adj,hungry,affected by hunger; desirous of food
 νηστικός,adj,hungry,affected by hunger; desirous of food
+πεινασμένος,adj,hungry,"eager, having a desire for something"
 σύζυγος,noun,husband,male partner in marriage
 άνδρας,noun,husband,male partner in marriage
 πάγος,noun,ice,water in frozen form
 παγωτό,noun,ice cream,dessert
+παγωτό χωνάκι,noun,ice cream,in a cone
+ιδέα,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 φαντάζομαι,verb,imagine,(transitive) to form a mental image of something
+φαντάζομαι,verb,imagine,(transitive) to assume
+φαντάζομαι,verb,imagine,(intransitive) to use one's imagination
 σημαντικός,adj,important,having relevant and crucial value
 βελτιώνω,verb,improve,to make something better
+βελτιώνομαι,verb,improve,to become better
 συμπεριλαμβάνω,verb,include,to bring into as a part or member
+συμπεριλαμβάνω,verb,include,"to contain, as part of a whole"
 πληροφορία,noun,information,communicable knowledge
 ενδιαφέρω,verb,interest,to attract attention or concern
 ενδιαφερόμενος,adj,interested,having or showing interest
 ενδιαφέρων,adj,interesting,arousing or holding the attention
 συνεντευξιάζω,verb,interview,to have an interview
 παίρνω συνέντευξη,verb,interview,to have an interview
+συστήνω,verb,introduce,to make something or someone known by formal announcement or recommendation
 νήσος,noun,island,area of land completely surrounded by water
 νησί,noun,island,area of land completely surrounded by water
+νησί,noun,island,entity surrounded by other entities that are very different from itself
+νησίδα,noun,island,entity surrounded by other entities that are very different from itself
 σακάκι,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
 ζακέτα,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+σακάκι,noun,jacket,piece of a person's suit
+κάλυμμα,noun,jacket,protective or insulating cover
 τζιν,noun,jeans,denim trousers
 εργασία,noun,job,task
+εργασία,noun,job,economic role for which a person is paid
+δουλειά,noun,job,economic role for which a person is paid
+πλαστική,noun,job,plastic surgery
+-πλαστική,noun,job,plastic surgery
+εργασία,noun,job,computing: task(s) carried out in batch mode
 χυμός,noun,juice,liquid from a plant
+χυμός,noun,juice,beverage made of juice
 μόνο,adv,just,"only, simply, merely"
 απλώς,adv,just,"only, simply, merely"
+μόλις,adv,just,"recently, moments ago"
 κρατώ,verb,keep,to maintain possession of
 κουζίνα,noun,kitchen,room
 μαγειρείο,noun,kitchen,room
 ξέρω,verb,know,be justifiably certain or sure about (something true)
+γνωρίζω,verb,know,be acquainted or familiar with
+γνωρίζω,verb,know,have knowledge of
 ξηρά,noun,land,part of Earth that is not covered by oceans or other bodies of water
 γη,noun,land,part of Earth that is not covered by oceans or other bodies of water
+γαίες,noun,land,real estate or landed property
+εκτάσεις,noun,land,real estate or landed property
+κτήματα,noun,land,real estate or landed property
+χώρα,noun,land,country or region
+πατρίδα,noun,land,someone's homeplace
 γλώσσα,noun,language,body of words used as a form of communication
+λόγος,noun,language,the ability to communicate using words
+ομιλία,noun,language,the ability to communicate using words
+γλώσσα,noun,language,nonverbal communication
+ιδιογλωσσία,noun,language,vocabulary of a particular field
+φρασεολογία,noun,language,vocabulary of a particular field
+διάλεκτος,noun,language,vocabulary of a particular field
+γλώσσα,noun,language,particular words used
+γλώσσα προγραμματισμού,noun,language,computer language — see also computer language
+κώδικας,noun,language,computer language — see also computer language
 μεγάλος,adj,large,of greater size — see also big
 αργά,adv,late,past a designated time
+αργότερα,adv,later,afterward in time
 γέλιο,noun,laugh,expression of mirth peculiar to the human species
 μαθαίνω,verb,learn,to acquire knowledge or ability
+μαθαίνω,verb,learn,to attend educational activity
+μαθαίνω,verb,learn,to make use of a bad experience
+μελετώ,verb,learn,to be studying
+σπουδάζω,verb,learn,to be studying
+μαθαίνω,verb,learn,to come to know; to become informed of; to find out
+πληροφορούμαι,verb,learn,to come to know; to become informed of; to find out
 αφήνω,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+αφήνω,verb,leave,to transfer possession after death
+αφήνω,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
+αφήνω,verb,leave,"to depart from, end one's connection or affiliation with"
+φεύγω,verb,leave,to depart (intransitive)
 αριστερά,noun,left,the left side
+αριστερά,noun,left,the ensemble of left-wing political parties
 πόδι,noun,leg,lower limb from groin to ankle
 μάθημα,noun,lesson,section of learning or teaching
+μαθήματα,noun,lesson,learning task assigned to a student
+εργασία,noun,lesson,learning task assigned to a student
+άσκηση,noun,lesson,learning task assigned to a student
+δίδαγμα,noun,lesson,something learned
+μάθημα,noun,lesson,something learned
+μάθημα,noun,lesson,something that serves as a warning or encouragement
 επιτρέπω,verb,let,allow
 αφήνω,verb,let,allow
 γράμμα,noun,letter,a symbol in an alphabet
+επιστολή,noun,letter,written message
+γράμμα,noun,letter,written message
 βιβλιοθήκη,noun,library,"institution which holds books, etc."
+βιβλιοθήκη,noun,library,collection of books
+δισκοθήκη,noun,library,collection of records
+βιβλιοθήκη,noun,library,collection of subprograms
 ψεύδομαι,verb,lie,tell an intentional untruth
 κείτομαι,verb,lie,be in horizontal position
 ζωή,noun,life,the state of being alive
 βίος,noun,life,the state of being alive
+ζωή,noun,life,the essence of the manifestation and the foundation of the being
+ζωή,noun,life,the subjective and inner manifestation of the individual
+ζωή,noun,life,"the world in general, existence"
+ζήση,noun,life,"the world in general, existence"
+πλάση,noun,life,"the world in general, existence"
+ζωή,noun,life,a worthwhile existence
+ζωή,noun,life,something inherently part of a person's existence
+ισόβια,noun,life,life sentence
+βίος,noun,life,duration
+διάρκεια ζωής,noun,life,duration
 φωτεινός,adj,light,having light
+αχνός,adj,light,pale in colour
+ανοιχτός,adj,light,pale in colour
 αβαρής,adj,light,of low weight
 ελαφρός,adj,light,of low weight
 ελαφρύς,adj,light,of low weight
@@ -508,164 +1151,422 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 αρέσκομαι,verb,like,to enjoy
 προτιμώ,verb,like,to enjoy
 αγαπώ,verb,like,to enjoy
+αρέσει,verb,like,to find attractive
+αγαπώ,verb,like,to find attractive
+λαϊκάρω,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
+βάζω λάικ,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
 σπάγκος,noun,line,"rope, cord, or string"
+γραμμή,noun,line,"path through two or more points, threadlike mark"
+γραμμή,noun,line,geometry: infinite one-dimensional figure
+γραμμή,noun,line,geometry: continuous finite segment of such a figure
+ευθύγραμμο τμήμα,noun,line,geometry: continuous finite segment of such a figure
+γραμμή,noun,line,music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed
+γραμμή,noun,line,telephone or network connection
+γραμμή,noun,line,fortifications: trench or rampart
+ουρά,noun,line,"straight sequence of people, queue"
+πεζικό,noun,line,military: regular infantry of an army
+καταγωγή,noun,line,series or succession of ancestors or descendants of a given person
+γραμμή,noun,line,"single horizontal row of text on a screen, printed paper, etc."
+στίχος,noun,line,poetic: verse
+γραμμή,noun,line,"official, stated position of an individual or political faction"
 λιοντάρι,noun,lion,big cat Panthera leo
+λιοντάρι,noun,lion,person with strength and courage
 ακούω,verb,listen,to pay attention to a sound
+ακούω,verb,listen,to accept advice or obey instruction
+ακούω,verb,listen,to hear (something)
 μικρός,adj,little,small in size
 λίγος,adj,little,small in size
+μικρός,adj,little,very young
+μικρός,adj,little,(of a sibling) younger
 ζω,verb,live,be alive
+μένω,verb,live,have permanent residence
+επιζώ,verb,live,"survive, persevere, continue"
+επιβιώνω,verb,live,"survive, persevere, continue"
 τοπικός,adj,local,of a nearby location
+τοπικός,adj,local,computing: having limited scope
 μακριά,adv,long,over a great distance
+ώρα,adv,long,for a particular duration
+πολύ,adv,long,for a long duration
 κοιτάζω,verb,look,to try to see
+φαίνομαι,verb,look,"to appear, to seem"
+βλέπω,verb,look,to face
 χάνω,verb,lose,cause (something) to cease to be in one's possession or capability
+ηττώμαι,verb,lose,(transitive) fail to win
+χάνω,verb,lose,(transitive) fail to win
+χάνω,verb,lose,shed (weight)
+αδυνατίζω,verb,lose,shed (weight)
+χάνω,verb,lose,have (somebody of one's kin) die
+χάνω,verb,lose,be unable to follow or trace (somebody or something) any longer
+ηττώμαι,verb,lose,fail to be the winner
+χάνω,verb,lose,fail to be the winner
 αγαπώ,verb,love,have a strong affection for
+λατρεύω,verb,love,be strongly inclined towards doing
+ποθώ,verb,love,be strongly inclined towards doing
+θέλω,verb,love,be strongly inclined towards doing
+εκτιμώ,verb,love,care about; will good for
+αγαπώ,verb,love,care about; will good for
+κάνω έρωτα,verb,love,(euphemistic): to have sex with
 γεύμα,noun,lunch,meal around midday
 μεσημεριανό,noun,lunch,meal around midday
 μηχανή,noun,machine,mechanical or electrical device
 μηχανισμός,noun,machine,mechanical or electrical device
 μηχάνημα,noun,machine,mechanical or electrical device
+μηχανισμός,noun,machine,group that controls an organization
+μηχανή,noun,machine,a person who is very proficient
 περιοδικό,noun,magazine,periodical
+πυριτιδαποθήκη,noun,magazine,ammunition storehouse
+γεμιστήρας,noun,magazine,ammunition clip or chamber enabling multiple rounds to be held before firing
 κύριος,adj,main,"chief, most important, or principal in extent, etc."
 κατασκευάζω,verb,make,to construct
 φτιάχνω,verb,make,to construct
+φτιάχνω,verb,make,to create
+κατασκευάζω,verb,make,to create
+κάνω,verb,make,to create
+καταλαβαίνω,verb,make,to interpret
+καταφέρνω,verb,make,to bring into success
+εμπορικό κέντρο,noun,mall,enclosed shopping centre
 άνδρας,noun,man,adult male human
+άνθρωπος,noun,man,a human being
+ανθρώπινο ον,noun,man,a human being
+πιόνι,noun,man,piece in board games
+πούλι,noun,man,piece in board games
 χάρτης,noun,map,visual representation of an area
 άτλαντας,noun,map,visual representation of an area
 άτλας,noun,map,visual representation of an area
 αγορά,noun,market,gathering for trading
+αγορά,noun,market,spacious site for trading
+παζάρι,noun,market,spacious site for trading
+αγορά,noun,market,group of potential customers
+αγορά,noun,market,geographical area where a commercial demand exists
+αγορά,noun,market,formally organized system of trading in specified goods or effects
+αγορά,noun,market,total sum of trading
 παντρεμένος,adj,married,in a state of marriage; having a wife or a husband
+παντρεμένη,adj,married,in a state of marriage; having a husband
+παντρεμένος,adj,married,in a state of marriage; having a wife
 ίσως,adv,maybe,indicating a lack of certainty
 γεύμα,noun,meal,food that is prepared and eaten
 φαγητό,noun,meal,food that is prepared and eaten
 άλφιτο,noun,meal,coarse-ground edible part of various grains
 χονδράλευρο,noun,meal,coarse-ground edible part of various grains
+εννοώ,verb,mean,"to convey, indicate"
+σημαίνω,verb,mean,"to convey, indicate"
+σημαίνω,verb,mean,to signify
+εννοώ,verb,mean,"to intend to express, to imply, to hint at, to allude"
 σημασία,noun,meaning,symbolic value of something
+νόημα,noun,meaning,"significance of a thing, as ""the meaning of life"""
+σημασία,noun,meaning,definition or connotation of a word
+έννοια,noun,meaning,definition or connotation of a word
 κρέας,noun,meat,animal flesh used as food
 κρῆς,noun,meat,animal flesh used as food
+κρέας,noun,meat,type of meat
+σάρκα,noun,meat,any sort of flesh
+σάρκα,noun,meat,solid edible part of a plant
 συναντώ,verb,meet,to come face to face with by accident; to encounter
+συναντώ,verb,meet,to come face to face with someone by arrangement
+συναντιέμαι,verb,meet,to come face to face with someone by arrangement
+γνωρίζω,verb,meet,to get acquainted with
+συναντιέμαι,verb,meet,to gather for a formal or social discussion; to hold a meeting
+συναντιέμαι,verb,meet,to converge and finally touch or intersect
+συναντώ,verb,meet,to adjoin; be physically touching
+συνάντηση,noun,meeting,gathering for a purpose
+σύσκεψη,noun,meeting,gathering for a purpose
+συνεδρίαση,noun,meeting,gathering for a purpose
+συνάντηση,noun,meeting,encounter between people
 μέλος,noun,member,one who officially belongs to a group
+μέλος,noun,member,"organ, limb"
 εδεσματολόγιο,noun,menu,details of the food to be served at a banquet
 κατάλογος,noun,menu,details of the food to be served at a banquet
+μενού,noun,menu,list of dishes offered in a restaurant
+κατάλογος,noun,menu,list of dishes offered in a restaurant
+εδεσματολόγιο,noun,menu,list of dishes offered in a restaurant
+μενού,noun,menu,computing: list from which the user may select an operation to be performed
+κατάλογος,noun,menu,computing: list from which the user may select an operation to be performed
 μήνυμα,noun,message,"communication, concept or information conveyed"
 μέτρο,noun,meter,measuring instrument
 ρολόι,noun,meter,measuring instrument
+μέτρο,noun,meter,increment of music
+μέτρο,noun,meter,rhythm of poetry
+μεσάνυχτα,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 μίλι,noun,mile,measure of length
 γάλα,noun,milk,liquid
+γάλα,noun,milk,serving
 λεπτό,noun,minute,unit of time
+στιγμή,noun,minute,short but unspecified period of time
+λεπτό,noun,minute,short but unspecified period of time
+λεπτό,noun,minute,unit of angular measure — see also minute of angle
+πρακτικά,noun,minute,record of meeting
+λεπτό,noun,minute,minute of use of telephone network
 αστοχώ,verb,miss,to fail to hit
+λείπω,verb,miss,to feel the absence of someone or something; to feel the want or need of
+νοσταλγώ,verb,miss,to feel the absence of someone or something; to feel the want or need of
+χάνω,verb,miss,to be late for something
 λάθος,noun,mistake,an error
 σφάλμα,noun,mistake,an error
 μοντέλο,noun,model,person
+μακέτα,noun,model,simplified representation
 μοντέρνος,adj,modern,pertaining to the current time and style
 σύγχρονος,adj,modern,pertaining to the current time and style
+νεώτερος,adj,modern,pertaining to history from c. 1800 onwards
 στιγμή,noun,moment,very brief period of time
+στιγμή,noun,moment,moment in time
+ροπή,noun,moment,moment of force
 χρήματα,noun,money,means of exchange and measure of value
 χρήμα,noun,money,means of exchange and measure of value
 λεφτά,noun,money,means of exchange and measure of value
+νόμισμα,noun,money,currency
+μετρητά,noun,money,hard cash
+πλούτος,noun,money,wealth
+λεφτά,noun,money,wealth
 μήνας,noun,month,period into which a year is divided
 πρωί,noun,morning,part of the day between dawn and midday
 πρωινό,noun,morning,part of the day between dawn and midday
+πρωί,noun,morning,the part of the day after midnight and before midday
+πρωινό,noun,morning,the part of the day after midnight and before midday
 μητέρα,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 μάνα,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+μητέρα,noun,mother,one’s female parent
+μάνα,noun,mother,one’s female parent
+μητέρα,noun,mother,something that is the greatest of its kind
 βουνό,noun,mountain,large mass of earth and rock
 όρος,noun,mountain,large mass of earth and rock
+βουνό,noun,mountain,large amount
 ποντίκι,noun,mouse,rodent of the genus Mus
 ποντικός,noun,mouse,rodent of the genus Mus
+ποντίκι,noun,mouse,computing: input device
 στόμα,noun,mouth,the opening of a creature through which food is ingested
+στόμιο,noun,mouth,"an outlet, aperture or orifice"
+εκβολές,noun,mouth,the end of a river out of which water flows
 κινώ,verb,move,(intransitive) to change place or posture; to go
+μετακομίζω,verb,move,to change residence
+συγκινώ,verb,move,to arouse the feelings or passions of
+προτρέπω,verb,move,to propose; to recommend
 ταινία,noun,movie,motion picture
 έργο,noun,movie,motion picture
 φιλμ,noun,movie,motion picture
 μουσείο,noun,museum,building or institution
 μουσική,noun,music,"sound, organized in time in a melodious way"
+μουσική,noun,music,any pleasing or interesting sounds
+παρτιτούρα,noun,music,sheet music
+νότες,noun,music,sheet music
 πρέπει,verb,must,be required to
 ονομάζω,verb,name,to give a name to
 ονοματίζω,verb,name,to give a name to
+κατονομάζω,verb,name,"to mention, specify"
+καθορίζω,verb,name,"to identify, define, specify"
+κατονομάζω,verb,name,to publicly implicate
+διορίζω,verb,name,to designate for a role
+εκλέγω,verb,name,to designate for a role
+φυσικός,adj,natural,of or relating to nature
 χρειάζομαι,verb,need,to have an absolute requirement for
+αρνητικός,adj,negative,mathematics: less than zero
+αρνητικός,adj,negative,linguistics: denying a proposition
+γειτονιά,noun,neighborhood,area near one's home
+περιοχή,noun,neighborhood,area near one's home
+συνοικία,noun,neighborhood,area near one's home
+γειτνίαση,noun,neighborhood,quality of physical proximity
+γειτονιά,noun,neighborhood,topology: set containing an open set which contains some specified point
 ποτέ,adv,never,at no time
 νέος,adj,new,recently made or created
 καινούργιος,adj,new,recently made or created
+νέος,adj,new,"additional, recently discovered"
+πρόσφατος,adj,new,"additional, recently discovered"
+νέος,adj,new,distinguishing something established more recently
+νέος,adj,new,newborn
 ειδήσεις,noun,news,new information of interest
 νέα,noun,news,new information of interest
 εφημερίδα,noun,newspaper,publication
 καλός,adj,nice,"pleasant, satisfactory"
+ωραίος,adj,nice,"attractive, friendly"
+νόστιμος,adj,nice,having a pleasant taste or aroma
 νύχτα,noun,night,period between sunset and sunrise
 βόρεια,adv,north,towards the north
 βορείως,adv,north,towards the north
 μύτη,noun,nose,protuberance on the face
+μουσούδι,noun,nose,"snout, nose of an animal"
+αιχμή,noun,nose,tip of an object
+ρύγχος,noun,nose,tip of an object
+μούρη,noun,nose,tip of an object
+μύτη,noun,nose,skill in recognising bouquet
+όσφρηση,noun,nose,skill in recognising bouquet
 δε,adv,not,negates meaning of another word
 δεν,adv,not,negates meaning of another word
 μη,adv,not,negates meaning of another word
 μην,adv,not,negates meaning of another word
 ένδειξη,noun,note,visible sign
 σήμα,noun,note,visible sign
+σημείωση,noun,note,marginal comment or explanation
+σημείωση,noun,note,memorandum
+σημείωμα,noun,note,short informal letter
+διακοίνωση,noun,note,diplomatic missive or written communication
+υποσχετική επιστολή,noun,note,"written or printed paper acknowledging a debt, and promising payment"
+νότα,noun,note,character indicating the length and pitch of a tone
+νότα,noun,note,musical sound
+πλήκτρο,noun,note,key of the piano or organ
+νότα,noun,note,key of the piano or organ
+σημείωση,noun,note,observation
+παρατήρηση,noun,note,observation
+φήμη,noun,note,reputation; distinction
+διάκριση,noun,note,reputation; distinction
 τώρα,adv,now,at the present time
 αριθμός,noun,number,abstract entity used to describe quantity
 πλήθος,noun,number,abstract entity used to describe quantity
+αριθμός,noun,number,numeral
+ψηφίο,noun,number,numeral
+νούμερο,noun,number,numeral
+αριθμός,noun,number,mathematics: number
+αριθμός,noun,number,used to show the rank of something in a list or sequence
+νούμερο,noun,number,used to show the rank of something in a list or sequence
+αριθμός,noun,number,quantity
+ποσότητα,noun,number,quantity
+αριθμός,noun,number,informal: telephone number
+αριθμός,noun,number,"grammar: state of being singular, dual or plural"
+νούμερο,noun,number,performance
 νοσοκόμα,noun,nurse,person trained to provide care for the sick
 νοσοκόμος,noun,nurse,person trained to provide care for the sick
 νοσηλεύτρια,noun,nurse,person trained to provide care for the sick
 νοσηλευτής,noun,nurse,person trained to provide care for the sick
+τροφός,noun,nurse,person who takes care of other people's young
+παραμάνα,noun,nurse,person who takes care of other people's young
 αντικείμενο,noun,object,thing
+σκοπός,noun,object,"the goal, end or purpose of something"
+αντικείμενο,noun,object,in grammar
+αντικείμενο,noun,object,person or thing to which an emotion is directed
+αντικείμενο,noun,object,object-oriented programming: instantiation of a class or structure
 ωκεανός,noun,ocean,one of the large bodies of water
+γραφείο,noun,office,room(s) or building used for non-manual work
+γραφείο,noun,office,major governmental division
 συχνά,adv,often,"frequently, many times"
 παλιός,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 αρχαίος,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+γηραιός,adj,old,of a living being: having lived for relatively many years
+ηλικιωμένος,adj,old,of a living being: having lived for relatively many years
+πρώην,adj,old,former
+τέως,adj,old,former
 periphrastically,adv,on,to an operating state
+periphrastically,adv,on,continuing an action
+periphrastically,adv,on,"along, forwards (continuing an action)"
 μια φορά,adv,once,one and only one time
 άπαξ,adv,once,one and only one time
+άλλοτε,adv,once,formerly
+παλιά,adv,once,formerly
 κρεμμύδι,noun,onion,Allium cepa
+κρεμμύδι,noun,onion,bulb
+σε απευθείας σύνδεση,adj,online,available over the Internet
+διαδικτυακός,adj,online,available over the Internet
+σε απευθείας σύνδεση,adj,online,connected to the Internet
 μόνο,adv,only,without others or anything further; exclusively
 μονάχα,adv,only,without others or anything further; exclusively
+μόνο,adv,only,no more than
+μόνο,adv,only,as recently as
 ανοίγω,verb,open,to make something accessible
+ανοίγω,verb,open,to make accessible to customers
+ανοίγω,verb,open,to begin conducting business
+ανοίγω,verb,open,to bring up (a topic)
+ανοίγω,verb,open,to become open
 γνώμη,noun,opinion,thought a person has formed about a topic
 άποψη,noun,opinion,thought a person has formed about a topic
+προτάσεις,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
 απέναντι,adv,opposite,in an opposite position
 πορτοκαλής,adj,orange,having the colour of the fruit of an orange tree
 κανονίζω,verb,order,to set in (any) order
 καθορίζω,verb,order,to set in (any) order
+κανονίζω,verb,order,to set in (a good) order
+διατάζω,verb,order,to issue a command
+διατάσσω,verb,order,to issue a command
+παραγγέλνω,verb,order,to request some product or service
+έξω,adv,out,away from one's usual place or not indoors
+εκτός,adv,out,away from one's usual place or not indoors
 δικός,adj,own,belonging to (determiner)
 σελίδα,noun,page,one side of a leaf of a book
+σελίδα,noun,page,collective memory
+σελίδα,noun,page,type set up for printing a page
+σελίδα,noun,page,computing: contiguous block of memory
 βαφή,noun,paint,substance
 χρώμα,noun,paint,substance
 ζωγραφιά,noun,painting,an illustration or artwork using paint
+ζωγραφική,noun,painting,the action of applying paint
 ζεύγος,noun,pair,two similar or identical things
 ζευγάρι,noun,pair,two similar or identical things
+ζευγάρι,noun,pair,two people in a relationship
+ζεύγος,noun,pair,two people in a relationship
+ζευγάρι,noun,pair,couple of working animals attached to work together
+ζευγάρι,noun,pair,poker hand
 παντελόνι,noun,pants,garment covering the body from the waist downwards
+κιλότα,noun,pants,undergarment covering the genitals
+σώβρακο,noun,pants,undergarment covering the genitals
 χαρτί,noun,paper,sheet material
+έγγραφο,noun,paper,written document shorter than a book
 παράγραφος,noun,paragraph,passage in text
 γονέας,noun,parent,person from whom one is descended
 γεννήτορας,noun,parent,person from whom one is descended
+γονέας,noun,parent,person who acts as a parent in rearing a child — see also guardian
 παρκάρω,verb,park,bring (a vehicle) to a halt
 μέρος,noun,part,fraction of a whole
 σύντροφος,noun,partner,someone who is associated with another in a common activity or interest
+συνέταιρος,noun,partner,a member of a business or law partnership
+σύντροφος,noun,partner,"spouse, domestic, or romantic partner"
+παρτενέρ,noun,partner,dancing partner
+συμπαίκτης,noun,partner,either member of a pair in a card game or sports team (1.4)
+συμπαίκτρια,noun,partner,either member of a pair in a card game or sports team (1.4)
+γιορτή,noun,party,social gathering
+πάρτι,noun,party,social gathering
 διαβατήριο,noun,passport,official document for foreign travel
+διαβατήριο,noun,passport,figurative use
 παρελθόν,noun,past,period of time that has already happened
+αόριστος,noun,past,(grammar) past tense
 πληρώνω,verb,pay,to give money in exchange for goods or services
+αποδίδω,verb,pay,to be profitable
 στυλό,noun,pen,writing tool
 στιλό,noun,pen,writing tool
 μαντρί,noun,pen,enclosure (enclosed area) for animals
 στάνη,noun,pen,enclosure (enclosed area) for animals
 στρούγκα,noun,pen,enclosure (enclosed area) for animals
 μολύβι,noun,pencil,graphite writing-instrument
+κοντύλι,noun,pencil,slate writing-instrument
 κόσμος,noun,people,a body of human beings; a group of two or more persons
 άνθρωποι,noun,people,a body of human beings; a group of two or more persons
+λαός,noun,people,a group of persons forming or belonging to a particular nation etc.
+κόσμος,noun,people,a group of persons forming or belonging to a particular nation etc.
+έθνος,noun,people,a group of persons forming or belonging to a particular nation etc.
+σόι,noun,people,"a person's ancestors, relatives or family"
+δικοί του,noun,people,"a person's ancestors, relatives or family"
+μάζες,noun,people,the mass of community as distinguished from a special class
+λαός,noun,people,the mass of community as distinguished from a special class
 πιπεριά,noun,pepper,plant
+πιπέρι,noun,pepper,spice
+πιπεριά,noun,pepper,fruit of the capsicum
 περίοδος,noun,period,a length of time
+περίοδος,noun,period,history: period of time seen as coherent entity
+τελεία,noun,period,punctation mark “.”
+περίοδος,noun,period,length of time during which something repeats
+ώρα,noun,period,division of school day
+περίοδος,noun,period,division of sports match
+περίοδος,noun,period,chemistry: row in the periodic table
 άτομο,noun,person,individual
+προσωπικός,adj,personal,of or pertaining to a particular person
+προσωπικός,adj,personal,grammar: denoting person
 τηλεφωνώ,verb,phone,to call (someone) on the telephone
 παίρνω τηλέφωνο,verb,phone,to call (someone) on the telephone
 παίρνω,verb,phone,to call (someone) on the telephone
 καλώ,verb,phone,to call (someone) on the telephone
 φωτογραφία,noun,photograph,picture
 φράση,noun,phrase,short written or spoken expression
+φράση,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+φράση,noun,phrase,music: small section of music in a larger piece
 πιάνο,noun,piano,a keyboard musical instrument
 κλειδοκύμβαλο,noun,piano,a keyboard musical instrument
 εικόνα,noun,picture,"representation of visible reality produced by drawing, etc"
 θέαμα,noun,picture,"representation of visible reality produced by drawing, etc"
 οπτική παράσταση,noun,picture,"representation of visible reality produced by drawing, etc"
+φωτογραφία,noun,picture,photograph
+κινηματογράφος,noun,picture,cinema
 κομμάτι,noun,piece,part of a larger whole
 γουρούνι,noun,pig,mammal of genus Sus
+γουρούνι,noun,pig,someone who overeats or eats rapidly
+γουρούνι,noun,pig,nasty or disgusting person
+γουρούνι,noun,pig,dirty or slovenly person
+βρωμιάρης,noun,pig,dirty or slovenly person
+γουρούνι,noun,pig,derogatory slang for police officer
 ροζ,noun,pink,pale red colour
 τόπος,noun,place,"location, position"
 θέση,noun,place,"location, position"
@@ -674,161 +1575,367 @@ periphrastically,adv,on,to an operating state
 μέρος,noun,place,"location, position"
 σημείο,noun,place,"location, position"
 χώρος,noun,place,"location, position"
+πλατεία,noun,place,"open space, courtyard, market square"
 σχεδιάζω,verb,plan,to design
+σχεδιάζω,verb,plan,to create a plan for
+σχεδιάζω,verb,plan,to intend
 πλάτανος,noun,plane,deciduous tree
 επίπεδο,noun,plane,level or flat surface
+επίπεδο,noun,plane,geometry: flat surface extending infinitely in all directions
 πλάνη,noun,plane,a tool
 αεροπλάνο,noun,plane,airplane
 φυτό,noun,plant,organism capable of photosynthesis
+φυτό,noun,plant,"a small or herbaceous organism, rather than a tree"
+δράμα,noun,play,theatrical performance
 παίκτης,noun,player,one who plays any game or sport
 παίκτρια,noun,player,one who plays any game or sport
+ηθοποιός,noun,player,dramatic actor
+μουσικός,noun,player,one who plays a musical instrument
+στιγμή,noun,point,particular moment in an event or occurrence
+αναφορά,noun,point,opinion which adds to the discussion
+μνεία,noun,point,opinion which adds to the discussion
+θέση,noun,point,location or place
+σημείο,noun,point,location or place
+σημείο,noun,point,geometry: zero-dimensional object
+βαθμός,noun,point,unit of scoring in a game or competition
+υποδιαστολή,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+κόμμα,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+αιχμή,noun,point,sharp tip
+ακίδα,noun,point,sharp tip
+μύτη,noun,point,sharp tip
+ακρωτήριο,noun,point,peninsula or promontory
+σημείο,noun,point,compass point
 αστυνομία,noun,police,local or general law enforcement agency
 πισίνα,noun,pool,body of water
 φτωχός,adj,poor,with few or no possessions or money
+φτωχός,adj,poor,of low quality
+καημένος,adj,poor,used to express pity
+κακομοίρης,adj,poor,used to express pity
+ταλαίπωρος,adj,poor,used to express pity
 λαϊκός,adj,popular,of or pertaining to the common people
+δημοφιλής,adj,popular,liked by many people
 θετικός,adj,positive,not negative or neutral
+θετικός,adj,positive,mathematics: greater than zero
 πιθανός,adj,possible,able but not certain to happen
+εφικτός,adj,possible,capable of being done or achieved; feasible
+δυνατός,adj,possible,"being considered, e.g. for a position"
+αναρτώ,verb,post,send to an electronic forum
+δημοσιεύω,verb,post,send to an electronic forum
 ταχυδρομώ,verb,post,send mail
 πατάτα,noun,potato,plant tuber eaten as starchy vegetable
 μαντρί,noun,pound,place for the detention of stray animals
+μάντρα,noun,pound,place for detention of automobiles
 λίβρα,noun,pound,unit of mass (16 ounces avoirdupois)
+λίρα,noun,pound,unit of currency
 προτιμάω,verb,prefer,to favor
 προετοιμάζω,verb,prepare,to make ready for a specific future purpose
 ετοιμάζω,verb,prepare,to make ready for a specific future purpose
 παρόν,noun,present,current time
 τιμή,noun,price,cost required to gain possession of something
+τίμημα,noun,price,cost of an action or deed
+αντίτιμο,noun,price,cost of an action or deed
 πιθανώς,adv,probably,in all likelihood
 μάλλον,adv,probably,in all likelihood
 πρόβλημα,noun,problem,difficulty
+πρόβλημα,noun,problem,schoolwork exercise
+πρόβλημα,noun,problem,puzzling circumstance
 προϊόν,noun,product,commodity for sale
+προϊόν,noun,product,amount created by a process
+προϊόν,noun,product,consequence of efforts
+προϊόν,noun,product,result of chemical reaction
+γινόμενο,noun,product,multiplication result
+προϊόν,noun,product,any tangible output
 πρόγραμμα,noun,program,set of structured activities
+πρόγραμμα,noun,program,"leaflet listing information about a play, game or other activity"
+πρόγραμμα,noun,program,performance of a show or other broadcast on radio or television
+εκπομπή,noun,program,performance of a show or other broadcast on radio or television
+πρόγραμμα,noun,program,software application
 έργο,noun,project,planned endeavor
 πορφυρό,noun,purple,colour
+πορφύρα,noun,purple,mollusk
 βάζω,verb,put,to place something somewhere
 θέτω,verb,put,to place something somewhere
+θέτω,verb,put,to express something in a certain manner
+ρίχνω,verb,put,athletics: to throw an iron ball
 τέταρτο,noun,quarter,one of four equal parts — see also one-fourth
 τεταρτημόριο,noun,quarter,one of four equal parts — see also one-fourth
+τριμηνία,noun,quarter,period of three months
+τρίμηνο,noun,quarter,period of three months
+δεκάλεπτο,noun,quarter,basketball period
+τετράγωνο,noun,quarter,section of a town
+συνοικία,noun,quarter,section of a town
 ερώτηση,noun,question,"sentence, phrase or word"
+ερώτημα,noun,question,subject or topic
+απορία,noun,question,doubt or challenge
+ερώτημα,noun,question,proposal to a meeting as a topic for discussion and vote
+ανάκριση,noun,question,interrogation by torture
 γρήγορος,adj,quick,moving with speed
 γρήγορα,adv,quickly,"rapidly, fast"
 ήρεμος,adj,quiet,with little sound
 σιγανός,adj,quiet,with little sound
 σιωπηλός,adj,quiet,with little sound
+ήσυχος,adj,quiet,having little motion
+ήσυχος,adj,quiet,not busy
+ήρεμος,adj,quiet,not talking
 ραδιόφωνο,noun,radio,technology
 ράδιο,noun,radio,technology
+ραδιόφωνο,noun,radio,receiver
+ράδιο,noun,radio,receiver
+ραδιόφωνο,noun,radio,transmitter
 βρέχω,verb,rain,of rain: to fall from the sky
 διαβάζω,verb,read,to look at and interpret letters or other information
+διαβάζω,verb,read,to speak aloud words or other information that is written
+γράφω,verb,read,to consist of certain text
 αναγνώστης,noun,reader,person who reads a publication
 αναγνώστρια,noun,reader,person who reads a publication
 έτοιμος,adj,ready,prepared for immediate action or use
 αληθινός,adj,real,"true, genuine, not merely nominal"
+αυθεντικός,adj,real,"genuine, not artificial, counterfeit or fake"
+αυθεντικός,adj,real,"genuine, unfeigned, sincere"
+πραγματικός,adj,real,that has physical existence
+πραγματικός αριθμός,adj,real,mathematics: relating to numbers with a one-to-one correspondence to the points on a line
 πράγματι,adv,really,actually
 όντως,adv,really,actually
 αληθινά,adv,really,actually
 πραγματικά,adv,really,actually
+πραγματικά,adv,really,"informally, as an intensifier; very, very much"
+αληθινά,adv,really,"informally, as an intensifier; very, very much"
 λόγος,noun,reason,that which causes: a cause
+λόγος,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+δικαιολογία,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
+λόγος,noun,reason,(the capacity of the human mind for) rational thinking
+λογική,noun,reason,(the capacity of the human mind for) rational thinking
 κόκκινο,noun,red,colour
 ερυθρό,noun,red,colour
 πορφυρό,noun,red,colour
 άλικο,noun,red,colour
+κόκκινος,noun,red,"socialist, communist"
 χαλαρώνω,verb,relax,to calm down
 θυμάμαι,verb,remember,to recall from one's memory
+θυμάμαι,verb,remember,to memorize
 επαναλαμβάνω,verb,repeat,do or say again
 αναφορά,noun,report,information describing events
 έκθεση,noun,report,information describing events
+εκπυρσοκρότηση,noun,report,"ballistics: the sharp, loud sound from a gun or explosion"
 εστιατόριο,noun,restaurant,an eating establishment in which diners are served food
 αποτέλεσμα,noun,result,that which results
 επιστροφή,noun,return,act of returning
+επαναφορά,noun,return,computing: carriage return character
 όρυζα,noun,rice,plants
+ρύζι,noun,rice,seeds used as food
 πλούσιος,adj,rich,having wealth
 εύπορος,adj,rich,having wealth
+καβαλάω,verb,ride,to mount someone to have sex with them
+δικαίωμα,noun,right,legal or moral entitlement
+δεξιά,noun,right,"right, not left, side"
+δεξιά,noun,right,right-wing politicians and parties
 ποτάμι,noun,river,large stream which drains a landmass
 ποταμός,noun,river,large stream which drains a landmass
 δρόμος,noun,road,a way for travel
+χώρος,noun,room,space
+δωμάτιο,noun,room,division in a building
+δωμάτιο,noun,room,one's bedroom
+κρεβατοκάμαρα,noun,room,one's bedroom
+αίθουσα,noun,room,people in a room
 ρουτίνα,noun,routine,course of action to be followed regularly; a standard procedure
+διαδικασία,noun,routine,computing: set of instructions designed to perform a specific task
 κανόνας,noun,rule,regulation
 τρέχω,verb,run,to move quickly on two feet
+τρέχω,verb,run,to flow
+ρέω,verb,run,to flow
+κυλώ,verb,run,to flow
+θλιμμένος,adj,sad,feeling sorrow
+λυπημένος,adj,sad,feeling sorrow
+στενοχωρημένος,adj,sad,feeling sorrow
+θλιμμένος,adj,sad,appearing sorrowful
+λυπημένος,adj,sad,appearing sorrowful
+στενοχωρημένος,adj,sad,appearing sorrowful
+θλιβερός,adj,sad,"causing sorrow, lamentable"
+λυπηρός,adj,sad,"causing sorrow, lamentable"
+λυπητερός,adj,sad,"causing sorrow, lamentable"
 σαλάτα,noun,salad,food
 αλάτι,noun,salt,sodium chloride
+άλας,noun,salt,compound of an acid and a base
+άλατα (álata),noun,salt,compound of an acid and a base
+θαλασσόλυκος,noun,salt,sailor
 σάντουιτς,noun,sandwich,dish — see also open sandwich
 λέγω,verb,say,"to say, to tell"
+λέγω,verb,say,to communicate verbally or in writing
 κοπάδι,noun,school,a group of fish
 σχολείο,noun,school,an institution dedicated to teaching and learning
+σχολείο,noun,school,an institution dedicated to teaching and learning before college or university
+πανεπιστήμιο,noun,school,college or university
+σχολή,noun,school,a department/institute at a college or university
+σχολή,noun,school,(collectively) the followers of a particular doctrine
 επιστήμη,noun,science,collective discipline of learning acquired through the scientific method
+επιστήμη,noun,science,particular discipline or branch of learning
 επιστήμονας,noun,scientist,one whose activities make use of the scientific method
 επιστημόνισσα,noun,scientist,one whose activities make use of the scientific method
 δευτερόλεπτο,noun,second,one-sixtieth of a minute; SI unit of time
+δευτερόλεπτο,noun,second,unit of angular measure
+λεπτό,noun,second,"short, indeterminate amount of time"
+στιγμή,noun,second,"short, indeterminate amount of time"
 μάρτυρας,noun,second,attendant of a duel or boxing match standing in for a contestant
 δεύτερος,noun,second,number two in a series
 δεύτερη,noun,second,number two in a series
 δεύτερο,noun,second,number two in a series
+δεύτερος,noun,second,manufactured item that fails to meet quality control standards
+δεύτερη,noun,second,second gear
 βλέπω,verb,see,perceive with the eyes
+καταλαβαίνω,verb,see,understand
 πουλάω,verb,sell,to agree to transfer goods or provide services for payment
 στέλνω,verb,send,make something go somewhere
+καταδίκη,noun,sentence,judicial order for punishment
+πρόταση,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 μοιράζομαι,verb,share,to give
+συμφωνώ,verb,share,to have in common
+μοιράζω,verb,share,to divide and distribute
+λέω,verb,share,to tell to another
+κοινοποιώ,verb,share,"(computing, Internet) to allow public or private sharing of computer data or space in a network"
 πρόβατο,noun,sheep,animal
+πρόβατο,noun,sheep,one who behaves shyly
 πουκάμισο,noun,shirt,article of clothing
 παπούτσι,noun,shoe,protective covering for the foot
 υπόδημα,noun,shoe,protective covering for the foot
+πέδιλο,noun,shoe,something resembling a shoe (e.g. brake shoe)
 ψωνίζω,verb,shop,to visit shops
 σύντομος,adj,short,having a small distance between ends or edges
 κοντός,adj,short,having a small distance between ends or edges
+κοντός,adj,short,"of a person, of comparatively small height"
 θέαμα,noun,show,entertainment
 σόου,noun,show,entertainment
+έκθεση,noun,show,exhibition — see also exhibition
+επίδειξη,noun,show,demonstration
+εκπομπή,noun,show,broadcast program(me)
 ψιχάλισμα,noun,shower,brief fall of rain
 ψιλόβροχο,noun,shower,brief fall of rain
 βροχούλα,noun,shower,brief fall of rain
+ντουζιέρα,noun,shower,device for bathing
+καταιονητήρας,noun,shower,device for bathing
+ντους,noun,shower,device for bathing
+ντουζ,noun,shower,instance of using of this device
+καταιονισμός,noun,shower,instance of using of this device
+άρρωστος,adj,sick,"colloquial: mentally unstable, disturbed"
+αρρωστημένος,adj,sick,colloquial: in bad taste
+νοσηρός,adj,sick,colloquial: in bad taste
 παρόμοιος,adj,similar,"having traits or characteristics in common; alike, comparable"
 όμοιος,adj,similar,"having traits or characteristics in common; alike, comparable"
+όμοιος,adj,similar,"of geometric figures, having the same shape"
 τραγουδάω,verb,sing,to produce harmonious sounds with one’s voice
 τραγουδώ,verb,sing,to produce harmonious sounds with one’s voice
 άδω,verb,sing,to produce harmonious sounds with one’s voice
 ψέλνω,verb,sing,to produce harmonious sounds with one’s voice
 κελαηδώ,verb,sing,to produce harmonious sounds with one’s voice
+κελαηδώ,verb,sing,slang: to confess under interrogation
 τραγουδιστής,noun,singer,person who sings (male or generic term)
+τραγουδίστρια,noun,singer,female person who sings
 αδελφή,noun,sister,woman or girl having the same parents
 αδερφή,noun,sister,woman or girl having the same parents
+αδελφή,noun,sister,a nun; a female member of a religious community
+αδελφή,noun,sister,senior nurse
+αδελφή,noun,sister,any woman or girl with whom a bond is felt
+αδελφή,noun,sister,attributively: of an entity that has a special relationship with another
 κάθομαι,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 κατάσταση,noun,situation,combination of circumstances at a given moment; state of affairs
+κατάσταση,noun,situation,position vis-à-vis surroundings
+τοποθεσία,noun,situation,location
+θέση,noun,situation,location
+κατάσταση,noun,situation,one's status with regard to circumstances
+θέση,noun,situation,position of employment
 επιδεξιότητα,noun,skill,capacity to do something well
 δεξιοτεχνία,noun,skill,capacity to do something well
 ικανότητα,noun,skill,capacity to do something well
 φούστα,noun,skirt,article of clothing
+φούστα,noun,skirt,part of dress that hangs below waist
+φουστάνι,noun,skirt,slang: woman
 κοιμάμαι,verb,sleep,to rest in state of reduced consciousness
+κοιμίζω,verb,sleep,to accommodate
 αργός,adj,slow,not quick in motion
 βραδύ,adj,slow,not quick in motion
+αργόσυρτος,adj,slow,spread over a comparatively long time
+καθυστερημένος,adj,slow,of reduced intellectual capacity
+αργόστροφος,adj,slow,of reduced intellectual capacity
+ανέτοιμος,adj,slow,lacking in promptness; acting with deliberation
+καθυστερημένος,adj,slow,behind in time
 μικρός,adj,small,not large
 μικκός,adj,small,not large
+νέος,adj,small,young
 φίδι,noun,snake,legless reptile
+φίδι,noun,snake,treacherous person
 χιονίζω,verb,snow,have snow fall from the atmosphere
 τόσο,adv,so,very
+τόσο,adv,so,to a particular extent
+έτσι,adv,so,in the same aformentioned manner
 ενίοτε,adv,sometimes,"on certain occasions, but not always"
 μερικές φορές,adv,sometimes,"on certain occasions, but not always"
 καμιά φορά,adv,sometimes,"on certain occasions, but not always"
 γιος,noun,son,a male person in relation to his parents
+γιος,noun,son,an adopted son
+γιος,noun,son,a son through close relationship
+γιος,noun,son,a son through major influence
+γιος,noun,son,male descendant
+γιος,noun,son,familiar address
 τραγούδι,noun,song,music with words
+τραγούδι,noun,song,sound of another animal
 σύντομα,adv,soon,within a short time
 νωρίς,adv,soon,within a short time
+συγνώμη,adj,sorry,"poor, regrettable"
+ακροώμαι,verb,sound,to probe
+βολιδοσκοπώ,verb,sound,to test
+ακούγομαι,verb,sound,to convey an impression by one's sound
+ηχώ,verb,sound,to convey an impression by one's sound
 σούπα,noun,soup,dish
 νότια,adv,south,towards the south
+χώρος,noun,space,physical extent in two or three dimensions
+διάστημα,noun,space,physical extent in two or three dimensions
+διάστημα,noun,space,area beyond atmosphere of planets
+χώρος,noun,space,personal freedom
+διάστημα,noun,space,"gap between written characters, lines etc."
+διάστημα,noun,space,piece of type used to separate words
+διάστημα,noun,space,music: position on the staff
+χώρος,noun,space,geometry: set of points
 μιλώ,verb,speak,to communicate with one's voice using words
 λέω,verb,speak,to communicate with one's voice using words
 έκτακτος,adj,special,distinguished by a unique or unusual quality
+ειδικός,adj,special,of particular interest or value; certain; dear; beloved; favored
+ιδιαίτερος,adj,special,of particular interest or value; certain; dear; beloved; favored
+ειδικός,adj,special,constituting or relating to a species
 γράφω ορθογραφημένα,verb,spell,to write or say the letters that form a word
 συλλαβίζω,verb,spell,to write or say the letters that form a word
+γράφω ορθογραφημένα,verb,spell,to compose a word
+συνεπάγομαι,verb,spell,to indicate that some future event will occur
 ξοδεύω,verb,spend,to pay out
 άθλημα,noun,sport,any athletic activity that uses physical skills
 άνοιξη,noun,spring,season between winter and summer in temperate climates
 έαρ,noun,spring,season between winter and summer in temperate climates
+βρύση,noun,spring,water springing from the ground
+κρήνη,noun,spring,water springing from the ground
+πηγή,noun,spring,water springing from the ground
+ελατήριο,noun,spring,device made of flexible material
+αρχή,noun,spring,source of an action or a supply
 στέκομαι,verb,stand,to support oneself on the feet in an erect position
+στέκομαι,verb,stand,to remain motionless
 αστέρι,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+αστέρας,noun,star,celebrity
+αστέρι,noun,star,talented or famous person
+αστερίσκος,noun,star,asterisk
+αστέρι,noun,star,quality rating symbol
 ξεκινώ,verb,start,to begin
 δήλωση,noun,statement,declaration or remark
+δήλωση,noun,statement,presentation of opinion or position — see also assertion
+εντολή,noun,statement,computing: instruction in a computer program
 σταθμός,noun,station,place where a vehicle may stop
 στάθμευση,noun,station,place where a vehicle may stop
 μένω,verb,stay,to remain in a particular place
+μένω,verb,stay,to continue to have a particular quality
+αναβάλλω,verb,stay,to postpone
+ακόμα,adv,still,"up to a time, as in the preceding time"
 στάση,noun,stop,place to get on and off mass transport
+στάση,noun,stop,interruption of travel
+στοπ,noun,stop,device to block a moving object
 αποθήκη,noun,store,place where items may be kept
+απόθεμα,noun,store,supply held in storage
+παρακαταθήκη,noun,store,supply held in storage
 ιστορία,noun,story,account of events
 οδός,noun,street,paved part of road in a village or a town
 δρόμος,noun,street,paved part of road in a village or a town
@@ -839,105 +1946,249 @@ periphrastically,adv,on,to an operating state
 σπουδαστής,noun,student,person who studies a subject
 σπουδάστρια,noun,student,person who studies a subject
 μελετητής,noun,student,person who studies a subject
+φοιτητής,noun,student,person enrolled at a university — see also university student
+φοιτήτρια,noun,student,person enrolled at a university — see also university student
 μελετώ,verb,study,to revise/review materials
 σπουδάζω,verb,study,to revise/review materials
+μελετώ,verb,study,to acquire knowledge
+μελετάω,verb,study,to acquire knowledge
 στύλος,noun,style,stalk that connects the stigma(s) to the ovary in a pistil of a flower
+τίτλος,noun,style,legal or traditional term or formula of words used to address or refer to a person
+τρόπος,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
+ύφος,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 υποκείμενο,noun,subject,in grammar
+θέμα,noun,subject,main topic
+προκείμενο,noun,subject,main topic
+αντικείμενο,noun,subject,particular area of study
+υπήκοος,noun,subject,citizen in a monarchy
+υπεξούσιος,noun,subject,citizen in a monarchy
+υποτελής,noun,subject,"person ruled over by another, especially a monarch or state authority"
 επιτυχία,noun,success,achievement of one's aim or goal
+επιτυχία,noun,success,(business) financial profitability
+επιτυχία,noun,success,person who achieves his or her goals
 ζάχαρη,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+σάκχαρο,noun,sugar,any of a series of carbohydrates used by organisms to store energy
+ζάχαρο,noun,sugar,any of a series of carbohydrates used by organisms to store energy
+σάκχαρο,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
+ζάχαρο,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
 καλοκαίρι,noun,summer,hottest season
 ήλιος,noun,sun,"a star, especially when seen as the centre of any single solar system"
+ήλιος,noun,sun,light and warmth received from the sun
+ήλιος,noun,sun,something like the sun in brightness or splendor
+ανατολή,noun,sun,sunrise or sunset
+δύση,noun,sun,sunrise or sunset
 σουπερμάρκετ,noun,supermarket,store
 ασφαλής,adj,sure,"certain, reliable"
+βέβαιος,adj,sure,certain in one's knowledge or belief
+σίγουρος,adj,sure,certain in one's knowledge or belief
+πουλόβερ,noun,sweater,similar garment worn for warmth
 κολυμπάω,verb,swim,move through water
 κολύμβηση,noun,swimming,human activity of moving oneself through water
 ζάλη,noun,swimming,a giddy sensation
 ίλιγγος,noun,swimming,a giddy sensation
 τραπέζι,noun,table,item of furniture
+δίσκος,noun,table,flat tray that can be used as a table
+τάβλα,noun,table,flat tray that can be used as a table
+πίνακας,noun,table,grid of data in rows and columns
+πίνακας,noun,table,collection of arithmetic calculations
+πίνακας,noun,table,computing: a lookup table
+ευρετήριο,noun,table,computing: a lookup table
 παίρνω,verb,take,to get into one's hands or control
+παίρνω,verb,take,to get into one's possession
+παίρνω,verb,take,to grab and move to oneself
+παίρνω,verb,take,to choose
+διαλέγω,verb,take,to choose
 μιλώ,verb,talk,to communicate by speech
 συνομιλώ,verb,talk,to communicate by speech
+επικοινωνώ,verb,talk,to communicate by other means than speech
 ψηλός,adj,tall,of a person
 ταξί,noun,taxi,vehicle available for public hire
 τσάι,noun,tea,dried leaves of tea plant
+τσάι,noun,tea,drink made from leaves of tea plant
 διδάσκω,verb,teach,to pass on knowledge
 δάσκαλος,noun,teacher,person who teaches
+δασκάλα,noun,teacher,woman who teaches
 ζευγάρι,noun,team,set of draught animals
+ομάδα,noun,team,group of people
 έφηβος,noun,teenager,person aged between thirteen and nineteen
 έφηβη,noun,teenager,person aged between thirteen and nineteen
 τηλεφωνώ,verb,telephone,to call someone
 καλώ,verb,telephone,to call someone
 τηλεόραση,noun,television,medium
+τηλεόραση,noun,television,device for receiving television signals
+τηλεόραση,noun,television,program broadcasting
 λέω,verb,tell,to pass information
+λέω,verb,tell,to instruct
+καταλαβαίνω,verb,tell,"to discern, notice, identify or distinguish"
 αντισφαίριση,noun,tennis,sport played by two or four players with strung racquets
 τένις,noun,tennis,sport played by two or four players with strung racquets
 τρομερός,adj,terrible,dreadful; causing alarm or fear
 φοβερός,adj,terrible,dreadful; causing alarm or fear
 φρικτός,adj,terrible,dreadful; causing alarm or fear
+τρομερός,adj,terrible,most formidable
+φοβερός,adj,terrible,most formidable
+δεινός,adj,terrible,most formidable
+φρικτός,adj,terrible,intense; extreme in degree or extent
+δεινός,adj,terrible,intense; extreme in degree or extent
+απαίσιος,adj,terrible,unpleasant
+φρικτός,adj,terrible,unpleasant
+απαίσιος,adj,terrible,very bad
+φρικτός,adj,terrible,very bad
+κάκιστος,adj,terrible,very bad
 δοκιμάζω,verb,test,to challenge
+εξετάζω,verb,test,to administer an examination during the academic term
+δοκιμάζω,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
+θέτω υπό δοκιμασία,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 κείμενο,noun,text,a written passage
+μήνυμα,noun,text,a brief written message transmitted between mobile phones
 ευχαριστώ,verb,thank,to express appreciation or gratitude toward (someone or something)
 ευγνωμονώ,verb,thank,to express appreciation or gratitude toward (someone or something)
+ευχαριστώ,verb,thank,to credit or hold (someone or something) responsible
 ευχαριστώ,noun,thanks,expression of gratitude
+ευχαριστία,noun,thanks,grateful feelings
+ευγνωμοσύνη,noun,thanks,grateful feelings
 θέατρο,noun,theater,place or building
+αμφιθέατρο,noun,theater,lecture theatre
 τότε,adv,then,at that time
+στην συνέχεια,adv,then,soon afterward
 εκεί,adv,there,in or at that place
+εκείσε,adv,there,to or into that place; thither
+προς τα εκεί,adv,there,to or into that place; thither
+εκεί,adv,there,"in that matter, relation, etc.; at that point, stage, etc."
 πράγμα,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
+πλάσμα,noun,thing,living being or creature
 σκέφτομαι,verb,think,"to ponder, to go over in one's head"
+σκέφτομαι,verb,think,communicate to oneself in one’s mind
+θεωρώ,verb,think,to conceive of something or someone
+νομίζω,verb,think,be of the opinion that
+νομίζω,verb,think,"guess, reckon"
 διψασμένος,adj,thirsty,needing to drink
 εισιτήριο,noun,ticket,admission to entertainment
+εισιτήριο,noun,ticket,pass for transportation
+κλήση τροχαίας,noun,ticket,traffic citation
+πρόστιμο,noun,ticket,traffic citation
 χρόνος,noun,time,inevitable passing of events
 καιρός,noun,time,inevitable passing of events
+χρόνος,noun,time,quantity of availability in time
+ώρα,noun,time,quantity of availability in time
+χρόνος,noun,time,measurement of a quantity of time
+ώρα,noun,time,"time of day, as indicated by a clock, etc"
+φορά,noun,time,instance or occurrence
+ποινή,noun,time,slang: serving of a prison sentence
 κουρασμένος,adj,tired,in need of rest or sleep
 τίτλος,noun,title,prefix or suffix added to a name
+κυριότητα,noun,title,right to ownership
+τίτλος κυριότητας,noun,title,certificate of ownership
+τίτλος,noun,title,"name of a book, etc"
 σήμερα,noun,today,today (noun)
 μαζί,adv,together,"at the same time, in the same place"
+μαζί,adv,together,into one place
 τουαλέτα,noun,toilet,personal grooming
+τουαλέτα,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+αποχωρητήριο,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+αφοδευτήριο,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+λεκάνη,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 ντοματιά,noun,tomato,tomato plant
+ντομάτα,noun,tomato,fruit
 αύριο,noun,tomorrow,the day after the present day
 απόψε,noun,tonight,nighttime today
 επίσης,adv,too,likewise
+υπερβολικά,adv,too,more than enough; as too much
 δόντι,noun,tooth,anatomy: tooth
+δόντι,noun,tooth,saw tooth
+δόντι,noun,tooth,gear tooth
 θέμα,noun,topic,subject; theme
 τουρίστας,noun,tourist,someone who travels for pleasure
 τουρίστρια,noun,tourist,someone who travels for pleasure
 πόλη,noun,town,settlement
+τρένο,noun,train,line of connected cars or carriages
+αμαξαστίχος,noun,train,line of connected cars or carriages
+καραβάνι,noun,train,"group of animals, vehicles, or people"
+ειρμός,noun,train,series of events or ideas which are interconnected
+ακολουθία,noun,train,series of events or ideas which are interconnected
+αλληλουχία,noun,train,series of events or ideas which are interconnected
+ουρά,noun,train,that which is drawn along
 ταξίδι,noun,travel,act of traveling
 δέντρο,noun,tree,large woody plant
 ταξίδι,noun,trip,journey
+φορτηγό,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+φορτάμαξα,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+νταλίκα,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 αληθινός,adj,true,concurring with a given set of facts
+αληθής,adj,true,state in Boolean logic that indicates an affirmative or positive result
+αληθινός,adj,true,"loyal, faithful"
+πιστός,adj,true,"loyal, faithful"
+αληθινός,adj,true,"genuine, legitimate"
+αυθεντικός,adj,true,"genuine, legitimate"
+νόμιμος,adj,true,"genuine, legitimate"
 δοκιμάζω,verb,try,to attempt
 προσπαθώ,verb,try,to attempt
+πειραματίζομαι,verb,try,to make an experiment
+προσπαθώ,verb,try,to work on something
+δικάζω,verb,try,to put on trial
 στροφή,noun,turn,change of direction or orientation
+περιστροφή,noun,turn,movement about an axis ending up with the same orientation
+σειρά,noun,turn,chance to use (something) shared in sequence with others
+σειρά,noun,turn,one's chance to make a move in a game
 δις,adv,twice,two times
 τύπος,noun,type,grouping based on shared characteristics
+τύπος,noun,type,individual that represents the ideal for its class
+χαρακτήρες,noun,type,printing block letter/character
+είδος,noun,type,biology: individual representative of its taxonomic group
+τύπος,noun,type,computing theory: tag indicating data type
 ομπρέλα,noun,umbrella,cloth-covered frame used for protection against rain or sun
 θείος,noun,uncle,brother (or brother-in-law) of someone’s parent
+θείος,noun,uncle,form of address to a man by young people or children in some countries
 καταλαβαίνω,verb,understand,to grasp the meaning of
 κατανοώ,verb,understand,to grasp the meaning of
+αντιλαμβάνομαι,verb,understand,to believe one grasps the meaning of
 πανεπιστήμιο,noun,university,institution of higher education
 πάνω,adv,up,away from earth’s surface
 πάνω,adv,upstairs,up the stairs; on or to a higher floor or level
 χρησιμοποιώ,verb,use,"employ, apply"
+καταναλώνω,verb,use,"to exhaust the supply of, to consume"
+συνηθίζω,verb,use,rare: to habitually do
 χρήσιμος,adj,useful,having a practical or beneficial use
 συνήθως,adv,usually,most of the time
+διακοπές,noun,vacation,period of leisure time
 λαχανικό,noun,vegetable,a plant raised for some edible part of it
+φυτό,noun,vegetable,any plant
+λαχανικό,noun,vegetable,edible part of such a plant
+φυτό,noun,vegetable,a person whose brain has been damaged
 πολύ,adv,very,to a high degree
 βίντεο,noun,video,"television show, movie"
+βίντεο,noun,video,motion picture stored on VHS
 επίσκεψη,noun,visit,single act of visiting
+επίσκεψη,noun,visit,meeting with a doctor
 επισκέπτης,noun,visitor,guest
+επισκέπτης,noun,visitor,sightseer
 περιμένω,verb,wait,delay until some event
+σερβίρω,verb,wait,to serve customers
 σερβιτόρος,noun,waiter,a server in a restaurant or similar
 τείχος,noun,wall,defensive rampart
+τείχος,noun,wall,structure built for defense surrounding an area
+τοίχος,noun,wall,substantial structure acting as side or division in a building
+τοίχωμα,noun,wall,"anatomy, zoology, botany: divisive or containing structure"
 θέλω,verb,want,to desire
 ζεστός,adj,warm,having a temperature slightly higher than usual
 πλένω,verb,wash,to clean with water
+πλένομαι,verb,wash,to clean oneself
+βρέχω,verb,wash,"to cover with liquid; to wet, moisten"
 ρολόι,noun,watch,portable or wearable timepiece
+σκοπός,noun,watch,person or group of people who guard
+φρουρός,noun,watch,person or group of people who guard
+βάρδια,noun,watch,group of sailors and officers
+βάρδια,noun,watch,period of time on duty
 νερό,noun,water,inorganic compound H₂O
 ύδωρ,noun,water,inorganic compound H₂O
+θαλάσσια ύδατα,noun,water,"body of water, or specific part of it"
+θάλασσα,noun,water,"body of water, or specific part of it"
 δρόμος,noun,way,"road, direction, path"
+τρόπος,noun,way,method or manner
 φορώ,verb,wear,to have on (clothes or accessories)
 καιρός,noun,weather,state of the atmosphere
+καιρός,noun,weather,unpleasant or destructive atmospheric conditions
+στοιχεία,noun,weather,unpleasant or destructive atmospheric conditions
 ιστότοπος,noun,website,a collection of pages on the World Wide Web
 ιστοχώρος,noun,website,a collection of pages on the World Wide Web
 εβδομάδα,noun,week,period of seven days
@@ -947,19 +2198,32 @@ periphrastically,adv,on,to an operating state
 ευπρόσδεκτος,adj,welcome,whose arrival is a cause of joy
 γερός,adj,well,in good health
 υγιής,adj,well,in good health
+καλός,adj,well,prudent
 δυτικά,adv,west,towards the west
 πότε,adv,when,"at what time, as a direct question"
+πότε,adv,when,"at what time, as an indirect question"
 πού,adv,where,at what place; to what place; from what place
+όπου,adv,where,at or in which place
+οποίο,adv,where,to which place or situation
+πού,adv,where,in what situation
 άσπρο,noun,white,color
 λευκό,noun,white,color
+λευκός,noun,white,person of European descent
 γιατί,adv,why,for what reason
 σύζυγος,noun,wife,female partner in a marriage
 γυναίκα,noun,wife,female partner in a marriage
 συμβία,noun,wife,female partner in a marriage
 νικώ,verb,win,transitive: achieve victory in
+κερδίζω,verb,win,to gain a prize
 παράθυρο,noun,window,opening for light and air
+παράθυρο,noun,window,area on a computer screen
 κρασί,noun,wine,alcoholic beverage made from grapes
 ϝοῖνος,noun,wine,alcoholic beverage made from grapes
+κρασί,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+οίνος,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+κρασί,noun,wine,serving of wine
+οινόχρουν,noun,wine,wine colour
+-χρουν,noun,wine,wine colour
 χειμώνας,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 γυναίκα,noun,woman,adult female person
 θαυμάσιος,adj,wonderful,"excellent, extremely impressive"
@@ -968,23 +2232,53 @@ periphrastically,adv,on,to an operating state
 έξοχος,adj,wonderful,"excellent, extremely impressive"
 καταπληκτικός,adj,wonderful,"excellent, extremely impressive"
 λέξη,noun,word,unit of language
+λέξη,noun,word,telegraphy: unit of text
+λέξη,noun,word,computing: fixed-size group of bits handled as a unit
+λόγος,noun,word,promise
+λόγος,noun,word,the word of God
 έργο,noun,work,"labour, employment, occupation, job"
 εργασία,noun,work,"labour, employment, occupation, job"
 δουλειά,noun,work,"labour, employment, occupation, job"
+έργο,noun,work,physics: measure of energy expended in moving an object
 εργάτης,noun,worker,person who performs labor
 εργάτρια,noun,worker,person who performs labor
 κόσμος,noun,world,human collective existence
+κόσμος,noun,world,the Earth
+κόσμος,noun,world,inhabited planet
+κόσμος,noun,world,individual or group perspective or social setting
 γράφω,verb,write,"to form letters, etc."
+γράφω,verb,write,to send a letter to
 συγγραφέας,noun,writer,person who writes; an author
 γραφή,noun,writing,written letters or symbols
+γραπτό,noun,writing,something written
+έγγραφο,noun,writing,something written
+γραφή,noun,writing,process of representing a language
+έργο,noun,writing,work of an author
+γραφή,noun,writing,style of writing
+γραφο-,noun,writing,made for or used in writing
 λανθασμένος,adj,wrong,incorrect
 λάθος,adj,wrong,incorrect
 εσφαλμένος,adj,wrong,incorrect
+κάνω λάθος,adj,wrong,asserting something incorrect — see also be wrong
+πλανώμαι,adj,wrong,asserting something incorrect — see also be wrong
+απατώμαι,adj,wrong,asserting something incorrect — see also be wrong
+λάθος,adj,wrong,immoral
+λάθος,adj,wrong,improper
+ακατάλληλος,adj,wrong,improper
+στραβός,adj,wrong,designed to be worn or placed inward
+ανάποδος,adj,wrong,designed to be worn or placed inward
 αυλή,noun,yard,land around a house
 προαύλιο,noun,yard,land around a house
+γιάρδα,noun,yard,three feet
 χρόνος,noun,year,time it takes for the Earth to complete one revolution around the Sun
 χρονιά,noun,year,time it takes for the Earth to complete one revolution around the Sun
 έτος,noun,year,time it takes for the Earth to complete one revolution around the Sun
+χρόνος,noun,year,time it takes for any planetary body to make one revolution around another body
+έτος,noun,year,time it takes for any planetary body to make one revolution around another body
+χρόνος,noun,year,a period between set dates that mark a year
+έτος,noun,year,a period between set dates that mark a year
+χρόνος,noun,year,a scheduled part of a calendar year spent in a specific activity
+έτος,noun,year,a scheduled part of a calendar year spent in a specific activity
 κίτρινο,noun,yellow,color
 ώχρα,noun,yellow,color
 χθες,noun,yesterday,day before today

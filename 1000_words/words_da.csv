@@ -7,92 +7,239 @@ torsdag,noun,Thursday,day of the week
 tirsdag,noun,Tuesday,day of the week
 onsdag,noun,Wednesday,day of the week
 omkring,adv,about,on all sides
+omkring,adv,about,here and there
+cirka,adv,about,"nearly, approximately"
+næsten,adv,about,"nearly, approximately"
+omkring,adv,about,"nearly, approximately"
+omkring,adv,about,"to a reversed order, or opposite direction"
+i omkreds,adv,about,in circuit
+handling,noun,action,something done so as to accomplish a purpose
 aktivitet,noun,activity,state or quality of being active
+aktivitet,noun,activity,something done as an action or a movement
+aktivitet,noun,activity,something done for pleasure or entertainment
 skuespiller,noun,actor,person who performs in a theatrical play or film — see also actress
 skuespillerinde,noun,actor,person who performs in a theatrical play or film — see also actress
 skuespillerinde,noun,actress,female actor — see also actor
 tilføje,verb,add,to append (e.g. a statement); to say further information; to add on
+tilføje,verb,add,to make an addition; to augment; to increase; to add on
+lægge sammen,verb,add,"to perform the arithmetical operation of addition, to add up"
+addere,verb,add,"to perform the arithmetical operation of addition, to add up"
+adresse,noun,address,description of the location of a property; direction for correspondence
 voksen,noun,adult,fully grown human
 råd,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 bange,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 eftermiddag,noun,afternoon,part of the day between noon and evening
+igen,adv,again,another time
+nu,adv,again,used in a question to ask something one has forgotten
 alder,noun,age,amount of time since the birth of a being or the beginning of a thing
+alderdom,noun,age,state of being old; latter part of life
+alder,noun,age,one of the stages of life
+myndig,noun,age,time of life at which one attains full personal rights and capacities
+epoke,noun,age,particular period of time in history
+tidsalder,noun,age,great period in the history of the Earth
+generation,noun,age,generation — see also generation
+levetid,noun,age,lifespan
 være enig,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+acceptere,verb,agree,"to yield assent, to accede"
+komme overens,verb,agree,to come to terms or to a common resolve
+blive enig,verb,agree,to come to terms or to a common resolve
+stemme overens,verb,agree,"to resemble, coincide, correspond"
+overensstemme,verb,agree,"to resemble, coincide, correspond"
+rette sig efter,verb,agree,"grammar: to correspond in gender, number, case, person, etc."
 luft,noun,air,historical: one of the basic elements
+luft,noun,air,mixture of gases making up the atmosphere of the Earth
+atmosfære,noun,air,mixture of gases making up the atmosphere of the Earth
+luft,noun,air,the apparently open space above the ground
+luft,noun,air,feeling or sense
+nul og niks,noun,air,feeling or sense
+nul og nix,noun,air,feeling or sense
+arie,noun,air,"music: a song, an aria"
+luftrener,noun,air,air conditioner or the processed air it produces
+hop,noun,air,"snowboarding, skateboarding: jump in which one becomes airborne"
 lufthavn,noun,airport,place designated for airplanes
 også,adv,also,in addition; besides; as well; further; too
 altid,adv,always,at all times
+altid,adv,always,"constantly during a certain period, or regularly at stated intervals"
 vred,adj,angry,displaying anger
 sur,adj,angry,displaying anger
 dyr,noun,animal,organism
+væsen,noun,animal,organism other than human
+bæst,noun,animal,person who behaves wildly
+monster,noun,animal,person who behaves wildly
 svare,verb,answer,to make a reply or response to
 lejlighed,noun,apartment,domicile occupying part of a building
 æble,noun,apple,fruit of Malus domestica
 areal,noun,area,maths: measure of extent of a surface
 flademål,noun,area,maths: measure of extent of a surface
+område,noun,area,particular geographic region
+område,noun,area,any particular extent
 våben,noun,arm,weapon
+våben,noun,arm,heraldic bearings
+våbenmærke,noun,arm,heraldic bearings
+våbenskjold,noun,arm,heraldic bearings
 arm,noun,arm,upper appendage from shoulder to wrist
+arm,noun,arm,part of object
+armlæn,noun,arm,part of object
+gren,noun,arm,branch of an organization
+afdeling,noun,arm,branch of an organization
+arm,noun,arm,part of a chromosome
+patientgruppe,noun,arm,group of patients in a medical trial
 ankomme,verb,arrive,to reach
+ankomme,verb,arrive,to get to a certain place
 kunst,noun,art,human effort
+kunst,noun,art,conscious production or arrangement
+kunst,noun,art,skillful creative activity
+kunstværk,noun,art,artwork
 artikel,noun,article,"story, report, or opinion piece"
+artikel,noun,article,member of a group or class
+kendeord,noun,article,part of speech that specifies a noun
+artikel,noun,article,part of speech that specifies a noun
+artikel,noun,article,section of a legal document
+punkt,noun,article,section of a legal document
+paragraf,noun,article,section of a legal document
 kunstner,noun,artist,person who creates art
 spørge,verb,ask,request an answer
+bede,verb,ask,make a request
 tante,noun,aunt,a parent's sister or sister-in-law
 faster,noun,aunt,a parent's sister or sister-in-law
 moster,noun,aunt,a parent's sister or sister-in-law
 væk,adv,away,from a place; hence
 frygtelig,adj,awesome,causing awe or terror
 imponerende,adj,awesome,causing awe or terror
+fantastisk,adj,awesome,"excellent, exciting"
+grum,adj,awesome,"excellent, exciting"
+enestående,adj,awesome,"excellent, exciting"
 spædbarn,noun,baby,very young human being
 baby,noun,baby,very young human being
+unge,noun,baby,young animal
+pattebarn,noun,baby,immature or infantile person
+benjamin,noun,baby,lastborn of a family
+yngstemand,noun,baby,lastborn of a family
 tilbage,adv,back,to or in a previous condition or place
 dårlig,adj,bad,unfavorable; negative
 skod,adj,bad,unfavorable; negative
+dårlig,adj,bad,not suitable or fitting
+dårlig,adj,bad,"not appropriate, of manners etc."
+dårlig,adj,bad,tricky; stressful; unpleasant
+ubehagelig,adj,bad,tricky; stressful; unpleasant
+ond,adj,bad,"evil, wicked"
+slet,adj,bad,"evil, wicked"
+slem,adj,bad,"evil, wicked"
+dårlig,adj,bad,faulty; not functional
+dårlig,adj,bad,of breath: malodorous
 bærepose,noun,bag,flexible container
 sæk,noun,bag,flexible container
 taske,noun,bag,flexible container
+pose,noun,bag,paper (or plastic) container given or sold to shoppers
+sæk,noun,bag,ugly woman
 bal,noun,ball,formal dance
+bold,noun,ball,"object, generally spherical, used for playing games"
+kugle,noun,ball,"object, generally spherical, used for playing games"
 banan,noun,banana,fruit
 række,noun,bank,row or panel of items
 batteri,noun,bank,row or panel of items
 bred,noun,bank,edge of river or lake
+banke,noun,bank,"an underwater area of higher elevation, a sandbank"
+vold,noun,bank,"embankment, an earth slope"
 bank,noun,bank,institution
+bank,noun,bank,branch office
+bankfilial,noun,bank,branch office
+-bank,noun,bank,storage for important goods
 bar,noun,bar,unit of pressure
 stang,noun,bar,solid object with uniform cross-section
 bom,noun,bar,solid object with uniform cross-section
 bjælke,noun,bar,solid object with uniform cross-section
+stang,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+bjælke,noun,bar,"metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section"
+blok,noun,bar,cuboid piece of any commodity
+-bar,noun,bar,cuboid piece of any commodity
+-plade,noun,bar,cuboid piece of any commodity
+felt,noun,bar,"long, narrow drawn or printed rectangle, cuboid or cylinder"
+linje,noun,bar,"long, narrow drawn or printed rectangle, cuboid or cylinder"
+stang,noun,bar,"long, narrow drawn or printed rectangle, cuboid or cylinder"
+bar,noun,bar,business licensed to sell intoxicating beverages
+kro,noun,bar,business licensed to sell intoxicating beverages
+bar,noun,bar,counter of such premises
+bardisk,noun,bar,counter of such premises
+hjemmebar,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+barskab,noun,bar,closet containing alcoholic beverages in a private house or a hotel room
+forbud,noun,bar,official order prohibiting some activity
+advokatsamfund,noun,bar,law: collective term for lawyers
+barre,noun,bar,sports: in high jump and pole vault
+banke,noun,bar,nautical: sand formation
+sandbanke,noun,bar,nautical: sand formation
 baseball,noun,baseball,ball game
 basketball,noun,basketball,the sport
+basketball,noun,basketball,the ball used in the sport
 badekar,noun,bath,tub
+badeværelse,noun,bath,building or area where bathing occurs
+bad,noun,bath,act of bathing
 badeværelse,noun,bathroom,a room with a bathtub
 strand,noun,beach,sandy shore
 smuk,adj,beautiful,attractive
 blive,verb,become,to begin to be
+passe godt,verb,become,"to look attractive on, be suitable for"
 seng,noun,bed,piece of furniture
+bed,noun,bed,garden plot
 soveværelse,noun,bedroom,room in a house where a bed is kept for sleeping
 øl,noun,beer,alcoholic drink made of malt
+øl,noun,beer,glass of beer
 begynde,verb,begin,"to start, to initiate (transitive)"
 bagud,adv,behind,at the back part; in the rear
+tilbage,adv,behind,toward the back part or rear; backward
+tilbage,adv,behind,so as to be still in place afterwards
 tro,verb,believe,to accept that someone is telling the truth (object: person)
+tro,verb,believe,to accept as true
+tro,verb,believe,to consider likely
+mene,verb,believe,to consider likely
+tro,verb,believe,to have religious faith; to believe in a greater truth
 bedre,adj,better,comparative of the adjectives good or well
 cykel,noun,bicycle,vehicle
 stor,adj,big,of a great size — see also large
 cykel,noun,bike,bicycle
+motorcykel,noun,bike,motorcycle
+fortegning,noun,bill,official statement
+liste,noun,bill,official statement
+lovforslag,noun,bill,draft of a law
+regning,noun,bill,invoice
+plakat,noun,bill,advertisement
+seddel,noun,bill,bill of exchange
 hellebard,noun,bill,weapon of infantry
 næb,noun,bill,bird's beak
+landtunge,noun,bill,beaklike projection
 fugl,noun,bird,animal
 fødselsdag,noun,birthday,anniversary
+fødselsdag,noun,birthday,date of birth — see also date of birth
+fødselsdato,noun,birthday,date of birth — see also date of birth
 sort,noun,black,colour/color
+sværte,noun,black,"dye, pigment"
+sort,noun,black,"pen, pencil, etc. with black pigment"
+neger,noun,black,dark-skinned person — see also Negro
+mørkhudet,noun,black,dark-skinned person — see also Negro
+sorte,noun,black,"billiards, snooker, pool: black ball"
+sort stryger,noun,black,type of firecracker
+sort,noun,black,chess and similar games: person playing with the black set of pieces
+sort,noun,black,part of a thing which is distinguished from the rest by being black
 blog,noun,blog,a personal or corporate website
+blond,adj,blond,having blond hair
 blå,noun,blue,colour
+blåfugl,noun,blue,butterfly of the subfamily Polyommatinae
 båd,noun,boat,water craft
 skib,noun,boat,water craft
 krop,noun,body,physical structure of a human or animal
+karrosseri,noun,body,largest or most important part of anything (e.g. car bodywork)
+karosse,noun,body,largest or most important part of anything (e.g. car bodywork)
+karrosse,noun,body,largest or most important part of anything (e.g. car bodywork)
 bog,noun,book,collection of sheets of paper bound together containing printed or written material
+album,noun,book,"convenient collection of small paper items, such as stamps"
+bind,noun,book,"major division of a published work, larger than a chapter"
+bogføring,noun,book,usually in plural: records of the accounts of a business
+bøgerne,noun,book,usually in plural: records of the accounts of a business
 støvle,noun,boot,heavy shoe that covers part of the leg
 kede,adj,bored,suffering from boredom
 kedelig,adj,boring,causing boredom or tiredness
 flaske,noun,bottle,container
+flaske,noun,bottle,contents of such a container
 bokseslag,noun,box,blow with the fist
 slag,noun,box,blow with the fist
 buksbom,noun,box,shrub or tree of the genus Buxus — see also box tree
@@ -101,74 +248,177 @@ kasse,noun,box,cuboid space; container
 boks,noun,box,cuboid space; container
 skrin,noun,box,cuboid space; container
 dåse,noun,box,cuboid space; container
+loge,noun,box,compartment to sit inside
+bås,noun,box,compartment to sit inside
+kuskesæde,noun,box,driver’s seat on a coach
+buk,noun,box,driver’s seat on a coach
+skilderhus,noun,box,small rectangular shelter
+jagthytte,noun,box,small rectangular shelter
+kassen,noun,box,(slang) television
+dåse,noun,box,"(slang, vulgar) the vagina"
+skridtbeskytter,noun,box,(cricket) hard protector for the genitals
+bøsning,noun,box,(engineering) cylindrical casing
+kasse,noun,box,(engineering) cylindrical casing
+ramme,noun,box,"rectangular border around an image, text, etc."
 dreng,noun,boy,young male
+knægt,noun,boy,"male of any age, used as a friendly diminutive"
+dreng,noun,boy,male friend
 kæreste,noun,boyfriend,male partner in a romantic relationship
 brød,noun,bread,baked dough made from cereals
 brud,noun,break,instance of breaking something into pieces
+åbning,noun,break,physical space that opens up in something or between two things
+hul,noun,break,physical space that opens up in something or between two things
+pause,noun,break,"rest or pause, usually from work"
+afbrud,noun,break,temporary split in romantic relationship
+pause,noun,break,interval between two parts of performance
+break,noun,break,tennis: game won by receiving party
+kontra,noun,break,soccer: counter-attack
 morgenmad,noun,breakfast,first meal of the day
 bringe,verb,bring,to transport toward somebody/somewhere
 broder,noun,brother,male sibling
 bror,noun,brother,male sibling
+broder,noun,brother,male having parents in common
+bror,noun,brother,male having parents in common
+broder,noun,brother,male fellow member of a religious community
 brun,noun,brown,colour
 bygge,verb,build,(transitive) to form by combining materials or parts
 byggeri,noun,building,act or process of building
 opførelse (af en bygning),noun,building,act or process of building
+bygning,noun,building,closed structure with walls and a roof
 bus,noun,bus,vehicle
+bus,noun,bus,electrical conductor
 forretning,noun,business,commercial enterprise or establishment
+branche,noun,business,"occupation, work or trade of a person"
+forretning,noun,business,"commercial, industrial or professional activity"
 befærdet,adj,busy,crowded with business or activities
+travl,adj,busy,doing a great deal
 smør,noun,butter,soft foodstuff made from milk
 købe,verb,buy,to obtain something with money
 kage,noun,cake,type of sweet dessert
 lagkage,noun,cake,type of sweet dessert
+stykke,noun,cake,block of dense material
+opkald,noun,call,telephone conversation
 kamera,noun,camera,still camera
 fotografiapparat,noun,camera,still camera
+kamera,noun,camera,movie camera
+videokamera,noun,camera,movie camera
 kunne,verb,can,to be able to; to know how to
+måtte,verb,can,may
+kunne,verb,can,may
 konservere,verb,can,to preserve
 henkoge,verb,can,to preserve
+smide ud,verb,can,to discard
+holde mund,verb,can,to shut up
+afskedige,verb,can,to fire or dismiss an employee
+fyre,verb,can,to fire or dismiss an employee
 kan ikke,verb,cannot,"cannot — see also can, not"
 bil,noun,car,"automobile, a vehicle steered by a driver"
 automobil,noun,car,"automobile, a vehicle steered by a driver"
+elevatorstol,noun,car,"moving, load-carrying component of an elevator"
+kort,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
 karriere,noun,career,one's calling in life; a person's occupation
 gulerod,noun,carrot,Daucus carota ssp. sativus
+gulerod,noun,carrot,motivational tool
 bære,verb,carry,to transport by lifting
 huskat,noun,cat,domestic species
 kat,noun,cat,domestic species
+kat,noun,cat,member of the family Felidae
+kattedyr,noun,cat,member of the family Felidae
+fyr,noun,cat,"guy, fellow"
+kat,noun,cat,strong tackle used to hoist an anchor to the cathead of a ship
+ankerkat,noun,cat,strong tackle used to hoist an anchor to the cathead of a ship
 cent,noun,cent,subunit of currency in US and elsewhere
 centrum,noun,center,point equidistant from all points on the perimeter of a circle
+midte,noun,center,point on a line midway between the ends
 stol,noun,chair,furniture
 ændring,noun,change,the process of becoming different
 forandring,noun,change,the process of becoming different
+småpenge,noun,change,small denominations of money given in exchange for a larger denomination
+vekselpenge,noun,change,small denominations of money given in exchange for a larger denomination
+ombytning,noun,change,a replacement
+udskiftning,noun,change,a replacement
+skift,noun,change,a replacement
+omklædning,noun,change,a replacement
 billig,adj,cheap,low and/or reduced in price
+tarvelig,adj,cheap,of poor quality
+billig,adj,cheap,of little worth
+billig,adj,cheap,slang: underhand or unfair in game
 kontrollere,verb,check,"to inspect, examine"
 tjekke,verb,check,"to inspect, examine"
 ost,noun,cheese,dairy product
+ost,noun,cheese,countable: any particular variety of cheese
 kylling,noun,chicken,bird
 høne,noun,chicken,bird
+kylling,noun,chicken,meat
+bangebuks,noun,chicken,coward
+kylling,noun,chicken,coward
 barn,noun,child,son or daughter; someone's child
 børn,noun,child,son or daughter; someone's child
+barn,noun,child,a minor
+børn,noun,child,a minor
 chokolade,noun,chocolate,food made from ground roasted cocoa beans
+chokolade,noun,chocolate,small piece of confectionery made from chocolate
+chokladebrun,noun,chocolate,colour
 vælge,verb,choose,to pick
 udvælge,verb,choose,to pick
 foretrække,verb,choose,to pick
+vælge,verb,choose,to elect
+kåre,verb,choose,to elect
+foretrække,verb,choose,to decide to act in a certain way
+have lyst,verb,choose,to decide to act in a certain way
+finde for godt,verb,choose,to decide to act in a certain way
 by,noun,city,large settlement
+klasse,noun,class,group of students in a regularly scheduled meeting with a teacher
+årgang,noun,class,group of students who commenced or completed their education during a particular year
 klasselokale,noun,classroom,room in a school
 klasseværelse,noun,classroom,room in a school
 rense,verb,clean,(transitive) to remove dirt from a place or object
 ur,noun,clock,instrument to measure or keep track of time
 lukke,verb,close,obstruct (an opening)
+lukke,verb,close,move (a door)
+lukke,verb,close,bring one's eyelids together
+afslutte,verb,close,put an end to
 tøj,noun,clothes,apparel
 klæder,noun,clothes,apparel
 beklædning,noun,clothes,apparel
 klub,noun,club,association of members
+kølle,noun,club,heavy stick for use as weapon or plaything
+kølle,noun,club,hitting implement in certain ball games
+klub,noun,club,establishment that provides staged entertainment
+kløver,noun,club,"playing card symbol, ♣"
 frakke,noun,coat,outer garment covering the upper torso and arms
+lag,noun,coat,"covering of material, such as paint"
+pels,noun,coat,fur or feathers
+fjerdragt,noun,coat,fur or feathers
+dragt,noun,coat,fur or feathers
 kaffe,noun,coffee,beverage
+kaffebønne,noun,coffee,beans
+kaffebusk,noun,coffee,plant
+kaffetræ,noun,coffee,plant
 kulde,noun,cold,low temperature
+forkølelse,noun,cold,illness
 farve,noun,color,spectral composition of visible light
+farve,noun,color,particular set of the visible spectrum
+farve,noun,color,hue as opposed to achromatic colors
+farvetone,noun,color,hue as opposed to achromatic colors
+kulør,noun,color,hue as opposed to achromatic colors
+hudfarve,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
+farve,noun,color,any of the standard dark tinctures used in a coat of arms
 komme,verb,come,to move nearer
+ankomme,verb,come,"to arrive, to appear"
+komme,verb,come,"to arrive, to appear"
+komme,verb,come,to orgasm
+ejakulere,verb,come,to orgasm
 fælles,adj,common,mutual
+almindelig,adj,common,usual
+vanlig,adj,common,usual
+sædvanlig,adj,common,usual
+fælleskøn,adj,common,grammar: of the gender resulting from the coalescence of the masculine and feminine genders
 virksomhed,noun,company,"in legal context, a corporation"
 sammenligne,verb,compare,to assess the similarities between two things or between one thing and another
 jævnføre,verb,compare,to assess the similarities between two things or between one thing and another
+gradbøje,verb,compare,to form the three degrees of comparison of
+stemme overens,verb,compare,to be similar
 afslutte,verb,complete,to finish
 fuldføre,verb,complete,to finish
 færdiggøre,verb,complete,to finish
@@ -176,32 +426,109 @@ gøre færdig,verb,complete,to finish
 regnemaskine,noun,computer,programmable electronic device
 computer,noun,computer,programmable electronic device
 datamat,noun,computer,programmable electronic device
+koncert,noun,concert,a musical entertainment in which several voices or instruments take part
 konversation,noun,conversation,expression and exchange of individual ideas through talking with other people
 samtale,noun,conversation,expression and exchange of individual ideas through talking with other people
 lave mad,verb,cook,to prepare food for eating
 kokkerere,verb,cook,to prepare food for eating
 kølig,adj,cool,having a slightly low temperature
+kold,adj,cool,"not showing emotion, calm"
+kølig,adj,cool,"unenthusiastic, lukewarm, skeptical"
+cool,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+koldblodig,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+cool,adj,cool,"colloquial: being considered as ""popular"" by others"
+ok,adj,cool,"colloquial: all right, acceptable"
+fint,adj,cool,"colloquial: all right, acceptable"
+rolig,adj,cool,colloquial: not upset
 koste,verb,cost,"to incur a charge, a price"
 land,noun,country,region of land
+land,noun,country,nation state
+kursus,noun,course,education: learning program
+ret,noun,course,cooking: stage of a meal
+rute,noun,course,itinerary of a race
+bane,noun,course,itinerary of a race
+bane,noun,course,sports: trajectory of a ball etc.
+kurs,noun,course,nautical: direction of movement of a vessel
+kurs,noun,course,intended passage of voyage
+undersejl,noun,course,lowest square sail in a fully rigged mast — see also mainsail
+skifte,noun,course,masonry: row of bricks
+fætter,noun,cousin,child of a person’s parent’s brother or sister
+kusine,noun,cousin,child of a person’s parent’s brother or sister
 ko,noun,cow,female domesticated ox or other bovine
+ko,noun,cow,any domestic bovine regardless of sex or age
+ko,noun,cow,female of various species of mammal
+hun,noun,cow,female of various species of mammal
+ko,noun,cow,derogatory: despicable woman
+lort,noun,cow,informal: anything annoyingly difficult
+bæ,noun,cow,informal: anything annoyingly difficult
+bræk,noun,cow,informal: anything annoyingly difficult
 fløde,noun,cream,oily part of milk
+cremefarve,noun,cream,colour
+creme,noun,cream,the best part
+creme,noun,cream,product to apply to the skin
 skabe,verb,create,to put into existence
+skabe,verb,create,"to design, invest with a new form, shape etc."
+kreere,verb,create,"to design, invest with a new form, shape etc."
 kultur,noun,culture,"arts, customs and habits"
+kultur,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
 kop,noun,cup,drinking vessel
+pokal,noun,cup,trophy
+cup,noun,cup,contest
+skål,noun,cup,part of bra
+kunde,noun,customer,one who purchases or receives a product or service
 skære,verb,cut,to perform an incision
 snitte,verb,cut,to perform an incision
+udskære,verb,cut,to divide with a sharp instrument
+udelukke,verb,cut,to separate from prior association
+snyde,verb,cut,to enter a queue in a wrong place
+skære,verb,cut,to reduce
+beskære,verb,cut,to reduce
+nedsætte,verb,cut,to reduce
+slibe,verb,cut,to form or shape by cutting
+tilskære,verb,cut,to form or shape by cutting
+tilhugge,verb,cut,to form or shape by cutting
+skære,verb,cut,to intersect dividing into half
+krydse,verb,cut,to intersect dividing into half
+snitte,verb,cut,"in cricket, to make the ball spin sideways"
+pjække fra,verb,cut,"colloquial, not to attend a class"
 danse,verb,dance,move rhythmically to music
 danser,noun,dancer,person who dances
+danserinde,noun,dancer,a female person who dances
+danserske,noun,dancer,a female person who dances
 dans,noun,dancing,activity of dancing
 farlig,adj,dangerous,full of danger
 mørk,adj,dark,having an absolute or relative lack of light
+dunkel,adj,dark,"hidden, secret"
+hemmelighedsfuld,adj,dark,"hidden, secret"
+mørk,adj,dark,without moral or spiritual light
+skummel,adj,dark,without moral or spiritual light
+mørk,adj,dark,"not bright or light, deeper in hue"
 dato,noun,date,"that which specifies the time of writing, inscription etc."
+dato,noun,date,point of time at which a transaction or event takes place
+tidspunkt,noun,date,point of time at which a transaction or event takes place
+tidspunkt,noun,date,point in time
+stævnemøde,noun,date,pre-arranged social meeting
+date,noun,date,pre-arranged social meeting
+ledsager,noun,date,companion when one is partaking in a social occasion
+date,noun,date,meeting with a lover or potential lover; a person so met
+stævnemøde,noun,date,meeting with a lover or potential lover; a person so met
+rendezvous,noun,date,meeting with a lover or potential lover; a person so met
 daddel,noun,date,fruit of the date palm
 datter,noun,daughter,female offspring
 dag,noun,day,period between sunrise and sunset
+døgn,noun,day,period of 24 hours
+dag,noun,day,period of 24 hours
+døgn,noun,day,period from midnight to the following midnight
+dag,noun,day,period from midnight to the following midnight
+døgn,noun,day,rotational period of a planet
+dag,noun,day,"part of a day period which one spends at one's job, school, etc."
 kære,adj,dear,loved; lovable
+dyrebar,adj,dear,precious to or greatly valued by someone
+kære,adj,dear,formal way of addressing
 afgøre,verb,decide,to resolve or settle
 beslutte,verb,decide,to resolve or settle
+afgøre,verb,decide,give judgement
+få en person til at beslutte sig,verb,decide,to cause someone to come to a decision
 delikat,adj,delicious,pleasing to taste
 liflig,adj,delicious,pleasing to taste
 lækker,adj,delicious,pleasing to taste
@@ -210,9 +537,14 @@ herlig,adj,delicious,pleasing to taste
 velsmagende,adj,delicious,pleasing to taste
 smagfuld,adj,delicious,pleasing to taste
 beskrive,verb,describe,to represent in words
+beskrive,verb,describe,to give rise to a geometrical structure
 beskrivelse,noun,description,account in words
 skrivebord,noun,desk,table for writing and reading
+rubrik,noun,desk,team in a news outlet specialized on a topic
+stationær redaktion,noun,desk,team in a news outlet specialized on a topic
 detalje,noun,detail,part small enough to escape casual notice
+detaljer,noun,detail,uncountable: a profusion of details
+detalje,noun,detail,part considered trivial enough to ignore
 samtale,noun,dialogue,conversation or other discourse between individuals
 dialog,noun,dialogue,conversation or other discourse between individuals
 konversation,noun,dialogue,conversation or other discourse between individuals
@@ -227,6 +559,8 @@ kradse af,verb,die,to stop living
 omkomme,verb,die,to stop living
 afgå ved døden,verb,die,to stop living
 krepere,verb,die,to stop living
+opgive,verb,die,to become spiritually dead
+ophøre,verb,die,to break down
 parlament,noun,diet,council of leaders
 kost,noun,diet,food a person or animal consumes
 ernæring,noun,diet,food a person or animal consumes
@@ -234,38 +568,103 @@ næring,noun,diet,food a person or animal consumes
 føde,noun,diet,food a person or animal consumes
 kost,noun,diet,food a person or animal consumes
 føde,noun,diet,food a person or animal consumes
+kur,noun,diet,controlled regimen of food
+diæt,noun,diet,controlled regimen of food
 forskel,noun,difference,quality of being different
+forskel,noun,difference,characteristic of something that makes it different from something else
+differens,noun,difference,arithmetic: result of a subtraction
 forskellig,adj,different,not the same
 anderledes,adj,different,not the same
 ulig,adj,different,not the same
+anderledes,adj,different,unlike most others
 vanskelig,adj,difficult,"hard, not easy"
 middag,noun,dinner,evening meal
 aftensmad,noun,dinner,evening meal
+middag,noun,dinner,midday meal
 beskidt,adj,dirty,covered with or containing dirt
 uren,adj,dirty,covered with or containing dirt
+beskidt,adj,dirty,"morally unclean, obscene or indecent"
+beskidt,adj,dirty,"dishonourable, violating standards or rules"
+beskidt,adj,dirty,of color: discolored by impurities
+grumset,adj,dirty,of color: discolored by impurities
 diskutere,verb,discuss,to converse or debate concerning a particular topic
 drøfte,verb,discuss,to converse or debate concerning a particular topic
 tallerken,noun,dish,vessel for holding/serving food
+ret,noun,dish,specific type of food
+madret,noun,dish,specific type of food
+gøre,verb,do,referring to an earlier verb (pro-verb)
+gøre,verb,do,"perform, execute"
+udføre,verb,do,"perform, execute"
+gå an,verb,do,"work, suffice"
+klare sig,verb,do,"work, suffice"
+være nok,verb,do,"work, suffice"
+gå an,verb,do,be reasonable or acceptable
+gøre,verb,do,have as an effect
+gøre,verb,do,have as one's job
+arbejde med,verb,do,have as one's job
+gøre,verb,do,perform tasks
+lave,verb,do,cook
+gøre visit,verb,do,visit
+besøge,verb,do,visit
+gøre,verb,do,treat in a certain way
+gøre,verb,do,work on/for
+sidde inde,verb,do,be in jail
+sone,verb,do,be in jail
+gøre nar,verb,do,impersonate
+gøre slut på,verb,do,kill
+gøre det,verb,do,slang: have sex with
+tage,verb,do,slang: have sex with
+fuske,verb,do,"cheat, swindle"
+gøre færdig,verb,do,finish
+gå på,verb,do,take drugs
+gøre,verb,do,have a purpose
 doktor,noun,doctor,person who has attained a doctorate
 hund,noun,dog,animal
+hanhund,noun,dog,male canine
+skurk,noun,dog,morally reprehensible person — see also scoundrel
 dollar,noun,dollar,designation for specific currency
 dør,noun,door,"portal of entry into a building, room or vehicle"
+låge,noun,door,any flap that opens like a door
 ned,adv,down,"from a high to a low position, downwards"
 nedad,adv,down,"from a high to a low position, downwards"
+ned,adv,down,to the south
+nede,adv,down,into a state of non-operation
 tegne,verb,draw,to produce a picture
+trække,verb,draw,"to drag, pull"
+trække,verb,draw,"to pull out, unsheath"
+trække for,verb,draw,to close curtains etc.
+trække,verb,draw,to determine the result of a lottery
 beklæde,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+klæde sig på,verb,dress,to put on clothes — see also get dressed
+afrette,verb,dress,to prepare the surface of (a material)
+afpudse,verb,dress,to prepare the surface of (a material)
+behandle,verb,dress,to prepare the surface of (a material)
+ordne,verb,dress,to prepare the surface of (a material)
+pudse,verb,dress,to prepare the surface of (a material)
+tilhøvle,verb,dress,to prepare the surface of (a material)
+tilhugge,verb,dress,to prepare the surface of (a material)
 drikke,verb,drink,consume liquid through the mouth
+drikke,verb,drink,consume alcoholic beverages
 køre,verb,drive,to operate (a wheeled motorized vehicle)
 drive,verb,drive,to operate (a wheeled motorized vehicle)
 chauffør,noun,driver,"one who drives something, e.g. cattle"
+chauffør,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
 hver,adv,each,apiece
 aks,noun,ear,fruiting body of a grain plant
 øre,noun,ear,organ of hearing
 let,adj,easy,requiring little skill or effort
 nem,adj,easy,requiring little skill or effort
+let på tråden,adj,easy,consenting readily to sex
+nem,adj,easy,consenting readily to sex
 spise,verb,eat,"to ingest — see also consume, ingest"
 æde,verb,eat,"to ingest — see also consume, ingest"
+plage,verb,eat,colloquial: cause to worry
+fortære,verb,eat,colloquial: cause to worry
+spise,verb,eat,eat a meal
 æg,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+æg,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+æggeformet,noun,egg,thing which looks like or is shaped like an egg
+æg,noun,egg,swelling on one’s head resulting from an injury
 elefant,noun,elephant,mammal
 ellers,adv,else,word that implies any result with the exception of the one being referred to
 nyde,verb,enjoy,to receive pleasure or satisfaction from something
@@ -273,23 +672,58 @@ tilstrækkeligt,adv,enough,sufficiently
 nok,adv,enough,sufficiently
 euro,noun,euro,currency unit of the European Monetary Union
 aften,noun,evening,time of day between dusk and night
+aften,noun,evening,time of day between the approximate time of midwinter dusk and midnight
 begivenhed,noun,event,occurrence
 hændelse,noun,event,occurrence
+begivenhed,noun,event,prearranged social activity
+event,noun,event,prearranged social activity
+begivenhed,noun,event,physics: point in spacetime
+hændelse,noun,event,probability theory: a set of some of the possible outcomes
 altid,adv,ever,always
 immer,adv,ever,always
 idelig,adv,ever,always
 eksempel,noun,example,something representative of a group
 spændt,adj,excited,having great enthusiasm and energy
+ophidset,adj,excited,being in a state of higher energy
+eksalteret,adj,excited,being in a state of higher energy
 spændende,adj,exciting,causing excitement
+motionere,verb,exercise,perform physical activity
 dyr,adj,expensive,having a high price or cost
 forklare,verb,explain,to make intelligible
 ekstra,adj,extra,"beyond what is due, usual"
 øje,noun,eye,organ
+nåleøje,noun,eye,hole in needle
+hægte,noun,eye,loop of metal
+malle,noun,eye,loop of metal
+øje,noun,eye,of a hurricane
+øje,noun,eye,mark on an animal resembling an eye
+øje,noun,eye,of a potato
+blik,noun,eye,ability to notice what others might miss
+øje,noun,eye,ability to notice what others might miss
 ansigt,noun,face,anatomy: front part of head
+ansigt,noun,face,facial expression
+ansigtsudtryk,noun,face,facial expression
+kæft,noun,face,slang: the mouth
+facade,noun,face,public image
+flade,noun,face,"surface, especially a front or outer one"
+yderside,noun,face,"surface, especially a front or outer one"
+flade,noun,face,geometry: bounding surface of a polyhedron
 kendsgerning,noun,fact,an honest observation
 faktum,noun,fact,an honest observation
+virkelighed,noun,fact,something actual
+faktum,noun,fact,something actual
+kendsgerning,noun,fact,something which has become real
+faktum,noun,fact,something which has become real
+faktum,noun,fact,something concrete used as a basis for further interpretation
+kendsgerning,noun,fact,an objective consensus on a fundamental reality
+faktum,noun,fact,an objective consensus on a fundamental reality
+kendsgerning,noun,fact,information about a particular subject
+faktum,noun,fact,information about a particular subject
 fald,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+nedgang,noun,fall,a period of decline before the end
+fald,noun,fall,loss of greatness or status
 falsk,adj,false,"untrue, not factual, wrong"
+kunstig,adj,false,"spurious, artificial"
 berømt,adj,famous,well known
 fantastisk,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
 gård,noun,farm,place where agricultural activities take place
@@ -297,126 +731,302 @@ landmand,noun,farmer,person who works the land and/or who keeps livestock
 bonde,noun,farmer,person who works the land and/or who keeps livestock
 gårdmand,noun,farmer,person who works the land and/or who keeps livestock
 fast,adv,fast,in a firm or secure manner
+dybt,adv,fast,of sleeping: deeply or soundly
+hurtigt,adv,fast,with great speed
+kvikt,adv,fast,with great speed
+foran,adv,fast,ahead of the correct time or schedule
 fed,adj,fat,carrying a larger than normal amount of fat on one's body
 tyk,adj,fat,carrying a larger than normal amount of fat on one's body
+fed,adj,fat,thick
+tyk,adj,fat,thick
 far,noun,father,male parent
 fader,noun,father,male parent
+fader,noun,father,term of address for an elderly man
 føle,verb,feel,transitive: to sense by touch
 mærke,verb,feel,transitive: to sense by touch
+føle,verb,feel,transitive: to experience an emotion or other mental state about
 følelse,noun,feeling,sensation
 festival,noun,festival,event or community gathering
 endelig,adj,final,last; ultimate
 endegyldig,adj,final,last; ultimate
 finde,verb,find,"encounter, locate, discover"
 træffe,verb,find,"encounter, locate, discover"
+finde,verb,find,point out
+udpege,verb,find,point out
+finde,verb,find,decide that
+dømme,verb,find,"determine, judge"
+fin,adj,fine,of weather: sunny and not raining
+fin,adj,fine,made up of particularly small pieces
 afslutte,verb,finish,to complete
 fuldføre,verb,finish,to complete
 færdiggøre,verb,finish,to complete
 gøre færdig,verb,finish,to complete
+slutte,verb,finish,to come to an end
 ild,noun,fire,oxidation reaction
+ild,noun,fire,instance of this chemical reaction
+bål,noun,fire,instance of this chemical reaction
+brand,noun,fire,damaging occurrence of fire
+ild,noun,fire,alchemy: one of the basic elements
+ovn,noun,fire,heater or stove used in place of real fire
+ildsted,noun,fire,heater or stove used in place of real fire
+bål,noun,fire,elements to start a fire
+ild,noun,fire,in-flight bullets
+beskydning,noun,fire,in-flight bullets
+glød,noun,fire,strength of passion
+livlighed,noun,fire,"liveliness, enthusiasm"
+entusiasme,noun,fire,"liveliness, enthusiasm"
+glimt,noun,fire,brilliancy; lustre
+skydeknap,noun,fire,button on a joypad or similar
+aftrækker,noun,fire,button on a joypad or similar
 først,adv,first,before anything else
 fisk,noun,fish,vertebrate animal
+fisk,noun,fish,collective plural of fish
+fisk,noun,fish,flesh of fish as food
+fisk,noun,fish,card game
 flugt,noun,flight,act of fleeing
 flyvning,noun,flight,act of flying
 gulv,noun,floor,bottom part of a room
 blomst,noun,flower,reproductive structure in angiosperms
 flyve,verb,fly,to travel through air
+fly,verb,fly,to flee
+vejre,verb,fly,to display a flag from a flagpole
+blafre,verb,fly,to display a flag from a flagpole
 følge,verb,follow,to go or come after in physical space
+følge,verb,follow,to go or come after in a sequence
+efterfølge,verb,follow,to go or come after in a sequence
+følge,verb,follow,to carry out in accordance to
 føde,noun,food,any substance consumed by living organisms to sustain life
 mad,noun,food,any substance consumed by living organisms to sustain life
 næring,noun,food,any substance consumed by living organisms to sustain life
 fod,noun,foot,part of human body
 fødder,noun,foot,part of human body
+fod,noun,foot,part of animal’s body
+fødder,noun,foot,part of animal’s body
+fod,noun,foot,bottom of anything
+fødder,noun,foot,bottom of anything
+fod,noun,foot,projection on equipment
+fødder,noun,foot,projection on equipment
+fod,noun,foot,unit of measure
+fod,noun,foot,unit of measure
 fodbold,noun,football,association football
+australsk fodbold,noun,football,"game in Northern Territory, South Australia, Tasmania, Victoria, Western Australia"
+rugby,noun,football,"game in New South Wales, Queensland"
+fodbold,noun,football,ball
+fodbold,noun,football,practise of any of these games
+fodboldspil,noun,football,practise of any of these games
 glemme,verb,forget,to lose remembrance of
 forme,verb,form,to give shape
 fri,adj,free,not imprisoned
+fri,adj,free,unconstrained
+fri,adj,free,without obligations
+fri,adj,free,software: with very few limitations on distribution or improvement
 ven,noun,friend,person whose company one enjoys
 veninde,noun,friend,person whose company one enjoys
 kammerat,noun,friend,person whose company one enjoys
 kammeratinde,noun,friend,person whose company one enjoys
+ven,noun,friend,person with whom you are acquainted
+veninde,noun,friend,person with whom you are acquainted
+bekendt,noun,friend,person with whom you are acquainted
 venlig,adj,friendly,"approachable, warm"
+venlig,adj,friendly,characteristic of friendliness
+venligsindet,adj,friendly,without hostility
+venskabelig,adj,friendly,without hostility
 frugt,noun,fruit,part of plant
+frugt,noun,fruit,food
+frugt,noun,fruit,figuratively: positive end result or reward of labour or effort
 fuld,adj,full,containing the maximum possible amount
 fyldt,adj,full,containing the maximum possible amount
+fuldstændig,adj,full,complete
+komplet,adj,full,complete
+fuld,adj,full,"total, entire"
+mæt,adj,full,"satisfied, in relation to eating"
+fyldt op,adj,full,"satisfied, in relation to eating"
+vid,adj,full,"of a garment: ample, wide"
+fuldtonet,adj,full,having depth and body
 morsom,adj,funny,amusing; comical
 sjov,adj,funny,amusing; comical
+sjov,adj,funny,strange; unusual
+besynderlig,adj,funny,strange; unusual
+underlig,adj,funny,strange; unusual
 fremtid,noun,future,the time ahead
+fremtid,noun,future,something that will happen in moments yet to come
 spil,noun,game,"playful activity that may be unstructured, amusement, pastime"
 parti,noun,game,"playful activity that may be unstructured, amusement, pastime"
 leg,noun,game,"playful activity that may be unstructured, amusement, pastime"
+vildt,noun,game,wild animals hunted for food
 have,noun,garden,piece of land outside with flowers and plants
+have,noun,garden,gardens with public access
+park,noun,garden,gardens with public access
+anlæg,noun,garden,gardens with public access
+have,noun,garden,grounds at the front or back of a house
 geografi,noun,geography,study of physical structure and inhabitants of the Earth
 få fat i,verb,get,to obtain
+få,verb,get,to receive
+modtage,verb,get,to receive
+blive,verb,get,to become
+forstå,verb,get,colloquial: to understand
 pige,noun,girl,young female person
+pige,noun,girl,woman — see also woman
+pige,noun,girl,female servant
+tjenestepige,noun,girl,female servant
+pige i huset,noun,girl,female servant
 kæreste,noun,girlfriend,a female partner in a romantic relationship
+veninde,noun,girlfriend,a female friend
 give,verb,give,transfer the possession of something to someone else
+give efter,verb,give,bend slightly when a force is applied
 glas,noun,glass,substance
+glas,noun,glass,drinking vessel
 gå,verb,go,to move through space (especially from one place to another)
+blive,verb,go,to become
+passe,verb,go,to fit
 god,adj,good,acting in the interest of good; ethical good intentions
+god,adj,good,useful for a particular purpose
+god,adj,good,"of food, edible; not stale or rotten"
+god,adj,good,"of food, having a particularly pleasant taste"
+sund,adj,good,healthful
+god,adj,good,pleasant; enjoyable
+fin,adj,good,pleasant; enjoyable
+god,adj,good,"of people, competent or talented"
+dygtig,adj,good,"of people, competent or talented"
+god,adj,good,effective
+god,adj,good,favorable
+god,adj,good,beneficial; worthwhile
 farvel,noun,goodbye,an utterance of goodbye
 bedstefar,noun,grandfather,grandfather (from either side)
 bedstefader,noun,grandfather,grandfather (from either side)
+forfader,noun,grandfather,male forefather
 bedstemor,noun,grandmother,mother of someone's parent
 bedste,noun,grandmother,mother of someone's parent
 grå,noun,gray,colour
 grøn,noun,green,colour
 gruppe,noun,group,number of things or persons being in some relation to each other
+gruppe,noun,group,in group theory
 vokse,verb,grow,(intransitive) to become bigger
 udvikle sig,verb,grow,(intransitive) to become bigger
+vokse,verb,grow,(intransitive) to appear or sprout
+gro,verb,grow,(intransitive) to appear or sprout
+udvikle sig,verb,grow,(intransitive) to appear or sprout
+dyrke,verb,grow,(transitive) to cause something to become bigger
+avle,verb,grow,(transitive) to cause something to become bigger
 gæt,noun,guess,prediction about the outcome of something
 guitar,noun,guitar,musical instrument
 fitnesscenter,noun,gym,sporting facility specialized for lifting weights and exercise
 træningscenter,noun,gym,sporting facility specialized for lifting weights and exercise
 hår,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+hår,noun,hair,mass of such filaments on the human head
+hår,noun,hair,mass of such filaments growing from the skin of humans and animals
 halvdel,noun,half,one of two equal parts into which anything may be divided
 hånd,noun,hand,part of the fore limb
+viser,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+side,noun,hand,"side; part; direction, either right or left"
+evne,noun,hand,power of performance; means of execution; ability; skill; dexterity
+håndlag,noun,hand,power of performance; means of execution; ability; skill; dexterity
+matros,noun,hand,"servant, laborer, workman, trained for special duty; a performer"
+hånd,noun,hand,instance of helping
+håndskrift,noun,hand,handwriting; style of penmanship
+underskrift,noun,hand,person's autograph or signature
+håndfuld,noun,hand,"that which is, or may be, held in a hand at once"
+hånd,noun,hand,set of cards held by a player in a card game
+bundt,noun,hand,bundle of tobacco leaves
+klase,noun,hand,bunch of bananas
+klapsalve,noun,hand,applause
+håndgreb,noun,hand,"small part of a gunstock near the lock, grasped when aiming"
 ske,verb,happen,to occur
 hænde,verb,happen,to occur
 indtræffe,verb,happen,to occur
 forefalde,verb,happen,to occur
 glad,adj,happy,"contented, joyous"
 lykkelig,adj,happy,"contented, joyous"
+heldig,adj,happy,"fortunate, lucky"
 hat,noun,hat,a head covering
+kasket,noun,hat,a role or capacity
 hade,verb,hate,to dislike intensely
 have,verb,have,to possess
+have,verb,have,used to state the existence or presence of someone in a specified relationship with the subject
+have,verb,have,to partake of something
+få,verb,have,to partake of something
+have,verb,have,auxiliary used in forming the perfect and the past perfect tenses
+få,verb,have,give birth to — see also give birth
+have,verb,have,engage in sexual intercourse with
+få,verb,have,"cause to, by command or request"
+have,verb,have,cause to be
+få,verb,have,cause to be
+få,verb,have,be affected by an occurrence
 hoved,noun,head,part of the body
 sundhed,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 helse,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+helse,noun,health,physical condition
+helse,noun,health,overall level of function of an organism
 sund,adj,healthy,enjoying good health
 høre,verb,hear,to perceive with the ear
 hjælp,noun,help,action given to provide assistance
+hjælper,noun,help,person or persons who provides assistance with some task
 her,adv,here,"in, on, or at this place"
+herhen,adv,here,to this place
 høj,adj,high,elevated; tall
+høj,adj,high,slang: under the influence of drugs
+skæv,adj,high,slang: under the influence of drugs
 historie,noun,history,aggregate of past events
+historie,noun,history,branch of knowledge that studies the past
+historie,noun,history,record or narrative description of past events
+beretning,noun,history,record or narrative description of past events
+historik,noun,history,medicine: list of past and continuing medical conditions
+historik,noun,history,computing: record of previous user events
 hobby,noun,hobby,activity done for enjoyment in spare time
 lærkefalk,noun,hobby,Falco subbuteo
 hjemme,adv,home,at home
+hjem,adv,home,homewards
+hjemad,adv,home,homewards
 lektier,noun,homework,work that is done at home
 hjemmearbejde,noun,homework,work that is done at home
 håbe,verb,hope,"to want something to happen, with expectation that it might"
 hest,noun,horse,members of the species Equus ferus
 hingst,noun,horse,members of the species Equus ferus
 hoppe,noun,horse,members of the species Equus ferus
+kavaleri,noun,horse,cavalry soldiers
 hospital,noun,hospital,large medical facility
 sygehus,noun,hospital,large medical facility
 hed,adj,hot,having a high temperature
 varm,adj,hot,having a high temperature
+hed,adj,hot,of the weather
+varm,adj,hot,of the weather
+stærk,adj,hot,spicy
+varm,adj,hot,slang: stolen
+strømførende,adj,hot,electrically charged
+hot,adj,hot,slang: physically very attractive
+lækker,adj,hot,slang: physically very attractive
 hotel,noun,hotel,establishment providing accommodation
 time,noun,hour,time period of sixty minutes
 hus,noun,house,human abode
+hus,noun,house,archetypal structure of a human abode
+hus,noun,house,debating chamber for government politicians
+hus,noun,house,"an establishment, business"
+hus,noun,house,"the inner workings, as of a clock"
+hus,noun,house,"dynasty, familiar descendance"
 hvor,adv,how,to what degree
+hvordan,adv,how,in what manner
+hvorledes,adv,how,in what manner
+hvordan,adv,how,in what state
+hvorledes,adv,how,in what state
+hvor,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 dog,adv,however,nevertheless
 sulten,adj,hungry,affected by hunger; desirous of food
 mand,noun,husband,male partner in marriage
 ægtemand,noun,husband,male partner in marriage
 husbond,noun,husband,male partner in marriage
 is,noun,ice,water in frozen form
+is,noun,ice,frozen dessert
 is,noun,ice cream,dessert
+isvaffel,noun,ice cream,in a cone
+vaffelis,noun,ice cream,in a cone
+begreb,noun,idea,an image of an object that is formed in the mind or recalled by the memory
+idé,noun,idea,an image of an object that is formed in the mind or recalled by the memory
 forestille sig,verb,imagine,(transitive) to form a mental image of something
 vigtig,adj,important,having relevant and crucial value
 forbedre,verb,improve,to make something better
+forbedre sig,verb,improve,to become better
 ind,adv,in,moving to the interior
+inde,adv,in,still able to play
 information,noun,information,communicable knowledge
 informationer,noun,information,communicable knowledge
 interessere,verb,interest,to attract attention or concern
@@ -428,185 +1038,453 @@ introducere,verb,introduce,to cause someone to be acquainted
 ø,noun,island,area of land completely surrounded by water
 holm,noun,island,area of land completely surrounded by water
 skær,noun,island,area of land completely surrounded by water
+ø,noun,island,entity surrounded by other entities that are very different from itself
 jakke,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
 cowboybukser,noun,jeans,denim trousers
 jeans,noun,jeans,denim trousers
 opgave,noun,job,task
 opdrag,noun,job,task
+arbejde,noun,job,economic role for which a person is paid
+job,noun,job,economic role for which a person is paid
 saft,noun,juice,liquid from a plant
 juice,noun,juice,liquid from a plant
+juice,noun,juice,beverage made of juice
+saft,noun,juice,beverage made of juice
 bare,adv,just,"only, simply, merely"
 blot,adv,just,"only, simply, merely"
 kun,adv,just,"only, simply, merely"
 lige,adv,just,"only, simply, merely"
+bare,adv,just,used to reduce the force of an imperative
+bare,adv,just,used to convey a less serious or formal tone
+lige,adv,just,used to convey a less serious or formal tone
+netop,adv,just,"recently, moments ago"
+lige,adv,just,"recently, moments ago"
+just,adv,just,"recently, moments ago"
+lige,adv,just,"by a narrow margin, barely"
+akkurat,adv,just,"by a narrow margin, barely"
+helt,adv,just,"exactly, precisely, perfectly"
+lige,adv,just,"exactly, precisely, perfectly"
 beholde,verb,keep,to maintain possession of
+holde,verb,keep,to maintain the condition of; to preserve
+holde,verb,keep,"to remain in, to be confined to"
+holde,verb,keep,to restrain
+holde,verb,keep,of livestock: to raise; to care for
 slags,noun,kind,"type, race, category"
 art,noun,kind,"type, race, category"
+natur,noun,kind,character or nature
+naturalier,noun,kind,goods and services as payment
 køkken,noun,kitchen,room
 vide,verb,know,be justifiably certain or sure about (something true)
+kende,verb,know,be acquainted or familiar with
+kende,verb,know,have knowledge of
+forstå sig på,verb,know,understand (a subject)
+kende til,verb,know,understand (a subject)
+vide,verb,know,be informed about
 land,noun,land,part of Earth that is not covered by oceans or other bodies of water
+land,noun,land,country or region
 sprog,noun,language,body of words used as a form of communication
 mål,noun,language,body of words used as a form of communication
 tunge,noun,language,body of words used as a form of communication
 tungemål,noun,language,body of words used as a form of communication
+sprogbeherskelse,noun,language,the ability to communicate using words
+tale,noun,language,the ability to communicate using words
+sprog,noun,language,nonverbal communication
+sprog,noun,language,vocabulary of a particular field
+terminologi,noun,language,vocabulary of a particular field
+sprog,noun,language,particular words used
+ordvalg,noun,language,particular words used
+sprog,noun,language,computer language — see also computer language
 sen,adv,late,past a designated time
 senere,adv,later,more late
+senere,adv,later,afterward in time
 latter,noun,laugh,expression of mirth peculiar to the human species
 lære,verb,learn,to acquire knowledge or ability
+lære,verb,learn,to attend educational activity
+lære,verb,learn,to make use of a bad experience
+lære,verb,learn,to be studying
+studere,verb,learn,to be studying
+lære,verb,learn,to come to know; to become informed of; to find out
+erfare,verb,learn,to come to know; to become informed of; to find out
 efterlade,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+efterlade,verb,leave,to transfer possession after death
+aflevere,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
+overlade,verb,leave,to transfer responsibility or attention
+forlade,verb,leave,"to depart from, end one's connection or affiliation with"
+forlade,verb,leave,to end one's membership in
+gå,verb,leave,to depart (intransitive)
 venstre,noun,left,the left side
+venstrefløjen,noun,left,the ensemble of left-wing political parties
 ben,noun,leg,lower limb from groin to ankle
+ben,noun,leg,part of garment covering the leg
+etape,noun,leg,stage of journey
+runde,noun,leg,game played in a tournament
 time,noun,lesson,section of learning or teaching
+lektie,noun,lesson,learning task assigned to a student
 tillade,verb,let,allow
 lade,verb,let,allow
+lade,verb,let,introducing an imperative
 bogstav,noun,letter,a symbol in an alphabet
+brev,noun,letter,written message
 bibliotek,noun,library,"institution which holds books, etc."
+bibliotek,noun,library,collection of books
+bibliotek,noun,library,collection of subprograms
 lyve,verb,lie,tell an intentional untruth
 ligge,verb,lie,be in horizontal position
+ligge,verb,lie,be situated
 liv,noun,life,the state of being alive
+liv,noun,life,the essence of the manifestation and the foundation of the being
+liv,noun,life,the subjective and inner manifestation of the individual
+liv,noun,life,"the world in general, existence"
+liv,noun,life,a worthwhile existence
+liv,noun,life,something inherently part of a person's existence
+livstid,noun,life,life sentence
+levetid,noun,life,duration
 lys,adj,light,having light
 belyst,adj,light,having light
 oplyst,adj,light,having light
+lys,adj,light,pale in colour
+bleg,adj,light,pale in colour
+med mælk,adj,light,coffee: served with extra milk or cream
+med fløde,adj,light,coffee: served with extra milk or cream
 let,adj,light,of low weight
+kalorielet,adj,light,"low in fat, calories, alcohol, salt, etc."
+banal,adj,light,of little significance
+triviel,adj,light,of little significance
 kunne lide,verb,like,to enjoy
 synes om,verb,like,to enjoy
 linje,noun,line,"rope, cord, or string"
+linje,noun,line,"path through two or more points, threadlike mark"
 løve,noun,lion,big cat Panthera leo
 løvinde,noun,lion,big cat Panthera leo
 liste,verb,list,to create or recite a list
 lytte,verb,listen,to pay attention to a sound
+lytte,verb,listen,to expect or wait for a sound
+høre efter,verb,listen,to expect or wait for a sound
+høre efter,verb,listen,to accept advice or obey instruction
 lille,adj,little,small in size
 små,adj,little,small in size
+lille,adj,little,(of a sibling) younger
 leve,verb,live,be alive
+bo,verb,live,have permanent residence
+overleve,verb,live,"survive, persevere, continue"
 lokal,adj,local,of a nearby location
+længe,adv,long,for a long duration
 kigge,verb,look,to try to see
 kikke,verb,look,to try to see
 se,verb,look,to try to see
+se ud,verb,look,"to appear, to seem"
+synes,verb,look,"to appear, to seem"
+tegne virke,verb,look,"to appear, to seem"
+opsøge,verb,look,to face
+sikre,verb,look,to make sure of
 tabe,verb,lose,cause (something) to cease to be in one's possession or capability
 miste,verb,lose,cause (something) to cease to be in one's possession or capability
+tabe,verb,lose,(transitive) fail to win
+tabe,verb,lose,shed (weight)
 elske,verb,love,have a strong affection for
+behøve,verb,love,"to need, thrive on"
+kunne lide,verb,love,be strongly inclined towards doing
+holde af,verb,love,be strongly inclined towards doing
+elske,verb,love,be strongly inclined towards doing
+elske,verb,love,care about; will good for
+lyste,verb,love,to lust for
+elske,verb,love,(euphemistic): to have sex with
+elske med,verb,love,(euphemistic): to have sex with
 middagsmad,noun,lunch,meal around midday
 frokost,noun,lunch,meal around midday
 maskine,noun,machine,mechanical or electrical device
 tidsskrift,noun,magazine,periodical
 magasin,noun,magazine,periodical
+magasin,noun,magazine,ammunition storehouse
 hoved-,adj,main,"chief, most important, or principal in extent, etc."
 generel,adj,main,"chief, most important, or principal in extent, etc."
 hovedsagelig,adj,main,"chief, most important, or principal in extent, etc."
 lave,verb,make,to construct
 udføre,verb,make,to construct
+lave,verb,make,to create
+fremstille,verb,make,to create
+skabe,verb,make,to create
+gøre,verb,make,to cause to be
+få til,verb,make,to force to do
 mand,noun,man,adult male human
+menneske,noun,man,a human being
+figur,noun,man,piece in board games
+brik,noun,man,piece in board games
 kort,noun,map,visual representation of an area
+afbildning,noun,map,function
 marked,noun,market,gathering for trading
+marked,noun,market,spacious site for trading
+markedsplads,noun,market,spacious site for trading
+torv,noun,market,spacious site for trading
+marked,noun,market,group of potential customers
+målgruppe,noun,market,group of potential customers
+marked,noun,market,geographical area where a commercial demand exists
+handel,noun,market,total sum of trading
+markeds-,noun,market,used attributively
 gift,adj,married,in a state of marriage; having a wife or a husband
 måske,adv,maybe,indicating a lack of certainty
+måske,adv,maybe,as a pro-sentence
 måltid,noun,meal,food that is prepared and eaten
+betyde,verb,mean,"to convey, indicate"
+mene,verb,mean,to signify
 betydning,noun,meaning,symbolic value of something
 mening,noun,meaning,symbolic value of something
+mening,noun,meaning,"significance of a thing, as ""the meaning of life"""
+betydning,noun,meaning,definition or connotation of a word
 kød,noun,meat,animal flesh used as food
+kød,noun,meat,type of meat
+kød,noun,meat,any sort of flesh
 møde,verb,meet,to come face to face with by accident; to encounter
 træffe,verb,meet,to come face to face with by accident; to encounter
+mødes,verb,meet,to come face to face with someone by arrangement
+møde,verb,meet,to get acquainted with
+mødes,verb,meet,to converge and finally touch or intersect
+træffe,verb,meet,to touch or hit something while moving
+ramme,verb,meet,to touch or hit something while moving
+opfylde,verb,meet,to satisfy; to comply with
+møde,noun,meeting,gathering for a purpose
 medlem,noun,member,one who officially belongs to a group
 spisekort,noun,menu,details of the food to be served at a banquet
 menu,noun,menu,details of the food to be served at a banquet
+menu,noun,menu,list of dishes offered in a restaurant
 budskab,noun,message,"communication, concept or information conveyed"
 besked,noun,message,"communication, concept or information conveyed"
 bud,noun,message,"communication, concept or information conveyed"
 måler,noun,meter,measuring instrument
+midnat,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 mil,noun,mile,measure of length
 mælk,noun,milk,liquid
 minut,noun,minute,unit of time
 misse,verb,miss,to fail to hit
 ramme ved siden af,verb,miss,to fail to hit
+savne,verb,miss,to feel the absence of someone or something; to feel the want or need of
+mangle,verb,miss,to lack something
 fejl,noun,mistake,an error
 model,noun,model,person
 fotomodel,noun,model,person
 moderne,adj,modern,pertaining to the current time and style
+moderne,adj,modern,pertaining to history from c. 1800 onwards
 øjeblik,noun,moment,very brief period of time
 betalingsmiddel,noun,money,means of exchange and measure of value
 penge,noun,money,means of exchange and measure of value
 skejs,noun,money,means of exchange and measure of value
+valuta,noun,money,currency
+møntenhed,noun,money,currency
+penge,noun,money,hard cash
+rede penge,noun,money,hard cash
+pengesum,noun,money,available liquid assets
+velstand,noun,money,wealth
+penge,noun,money,wealth
+værdigenstand,noun,money,item of value used as payment
+pengemand,noun,money,person who funds an operation
 måned,noun,month,period into which a year is divided
 morgen,noun,morning,part of the day between dawn and midday
 formiddag,noun,morning,part of the day between dawn and midday
+morgen,noun,morning,the part of the day after midnight and before midday
 moder,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 mor,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+moder,noun,mother,one’s female parent
+mor,noun,mother,one’s female parent
+moder,noun,mother,female parent of an animal
+oldemoder,noun,mother,female ancestor
+moder,noun,mother,source or origin
 bjerg,noun,mountain,large mass of earth and rock
 mus,noun,mouse,rodent of the genus Mus
+mus,noun,mouse,shy person
+mus,noun,mouse,computing: input device
+computermus,noun,mouse,computing: input device
 mund,noun,mouth,the opening of a creature through which food is ingested
 kæft,noun,mouth,the opening of a creature through which food is ingested
+udmunding,noun,mouth,the end of a river out of which water flows
 bevæge sig,verb,move,(intransitive) to change place or posture; to go
 flytte sig,verb,move,(intransitive) to change place or posture; to go
 sætte i bevægelse,verb,move,(intransitive) to change place or posture; to go
+bevæge sig,verb,move,to act; to take action
+flytte,verb,move,to change residence
+trække,verb,move,(transitive) to change the place of something
+flytte,verb,move,to cause to change place or posture; to set in motion
+bevæge,verb,move,to cause to change place or posture; to set in motion
+flytte,verb,move,to transfer from one space or position to another
+bevæge,verb,move,to excite to action
+bevæge,verb,move,to arouse the feelings or passions of
+tilskynde,verb,move,to arouse the feelings or passions of
+foreslå,verb,move,to propose; to recommend
+fremsætte forslag om,verb,move,to propose; to recommend
 film,noun,movie,motion picture
 museum,noun,museum,building or institution
 musik,noun,music,"sound, organized in time in a melodious way"
+musik,noun,music,any pleasing or interesting sounds
+noder,noun,music,sheet music
 skulle,verb,must,be required to
 døbe,verb,name,to give a name to
 navngive,verb,name,to give a name to
+nævne,verb,name,"to mention, specify"
+vælge,verb,name,"to mention, specify"
+naturlig,adj,natural,of or relating to nature
 behøve,verb,need,to have an absolute requirement for
 kræve,verb,need,to have an absolute requirement for
 have brug for,verb,need,to have an absolute requirement for
+behøve,verb,need,to want strongly
+behøve,verb,need,to be obliged to
+negativ,adj,negative,of electrical charge
+negativ,adj,negative,mathematics: less than zero
+negativ,adj,negative,pessimistic
 naboskab,noun,neighborhood,quality of being a neighbor
+kvarter,noun,neighborhood,area near one's home
+nabolag,noun,neighborhood,area near one's home
+omegn,noun,neighborhood,area near one's home
+bydel,noun,neighborhood,area near one's home
+nabolag,noun,neighborhood,inhabitants of a residential area
+cirka,noun,neighborhood,approximate amount
+i omegnen af,noun,neighborhood,approximate amount
+omegn,noun,neighborhood,topology: set containing an open set which contains some specified point
 aldrig,adv,never,at no time
 ny,adj,new,recently made or created
 frisk,adj,new,recently made or created
+ny,adj,new,"additional, recently discovered"
+nuværende,adj,new,current or later
+ny,adj,new,distinguishing something established more recently
+ny,adj,new,"in original condition, pristine"
+ny,adj,new,"refreshed, reinvigorated"
+ny,adj,new,newborn
+nyfødt,adj,new,newborn
+ny,adj,new,of recent origin
+ny,adj,new,"strange, unfamiliar"
+ny,adj,new,recently arrived or appeared
+ny,adj,new,"inexperienced, unaccustomed"
 nyt,noun,news,new information of interest
+nyheder,noun,news,reports of current events
 avis,noun,newspaper,publication
 dagblad,noun,newspaper,publication
 tidsskrift,noun,newspaper,publication
+avispapir,noun,newspaper,paper on which newspapers are printed
+pæn,adj,nice,"attractive, friendly"
 nat,noun,night,period between sunset and sunrise
+aften,noun,night,evening or night spent at a particular activity
+overnatning,noun,night,night spent away from home
+nattesøvn,noun,night,quality of sleep obtained during a night
+aften,noun,night,nightfall
+skumring,noun,night,nightfall
+nat,noun,night,darkness
+mørke,noun,night,darkness
 næse,noun,nose,protuberance on the face
 snude,noun,nose,protuberance on the face
+snude,noun,nose,"snout, nose of an animal"
+spids,noun,nose,tip of an object
+tud,noun,nose,tip of an object
+mulelængde,noun,nose,length of a horse’s nose
 ikke,adv,not,negates meaning of another word
 ej,adv,not,negates meaning of another word
+notat,noun,note,memorandum
+note,noun,note,memorandum
+node,noun,note,character indicating the length and pitch of a tone
+node,noun,note,musical sound
 nu,adv,now,at the present time
 tal,noun,number,abstract entity used to describe quantity
+tal,noun,number,numeral
+tal,noun,number,mathematics: number
+tal,noun,number,"grammar: state of being singular, dual or plural"
 sygeplejerske,noun,nurse,person trained to provide care for the sick
+barneplejerske,noun,nurse,person who takes care of other people's young
+nurse,noun,nurse,person who takes care of other people's young
 objekt,noun,object,thing
 ting,noun,object,thing
+genstand,noun,object,"the goal, end or purpose of something"
+objekt,noun,object,in grammar
+genstandsled,noun,object,in grammar
+genstand,noun,object,person or thing to which an emotion is directed
 ocean,noun,ocean,one of the large bodies of water
+kontor,noun,office,room(s) or building used for non-manual work
+bureau,noun,office,room(s) or building used for non-manual work
+bureau,noun,office,major governmental division
 ofte,adv,often,"frequently, many times"
 hyppigt,adv,often,"frequently, many times"
 gammel,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+gammel,adj,old,of a living being: having lived for relatively many years
+tidligere,adj,old,former
+gammel,adj,old,having existed or lived for the specified time
 en gang,adv,once,one and only one time
+engang,adv,once,formerly
 løg,noun,onion,Allium cepa
+løg,noun,onion,bulb
 kun,adv,only,without others or anything further; exclusively
 bare,adv,only,without others or anything further; exclusively
 åbne,verb,open,to make something accessible
 lukke op,verb,open,to make something accessible
+åbne,verb,open,to make accessible to customers
+åbne,verb,open,to begin conducting business
+indlede,verb,open,to start (a campaign)
+begynde,verb,open,to bring up (a topic)
+åbnes,verb,open,to become open
 mening,noun,opinion,thought a person has formed about a topic
 orange,adj,orange,having the colour of the fruit of an orange tree
 ordne,verb,order,to set in (any) order
+bestille,verb,order,to request some product or service
 ud,adv,outside,in or to the outside
 ude,adv,outside,in or to the outside
 udenfor,adv,outside,in or to the outside
+ude,adv,outside,outdoors
+udenfor,adv,outside,outdoors
+udendørs,adv,outside,outdoors
 egen,adj,own,belonging to (determiner)
 page,noun,page,serving boy
 side,noun,page,one side of a leaf of a book
 maling,noun,paint,substance
 farve,noun,paint,substance
 maleri,noun,painting,an illustration or artwork using paint
+malerkunst,noun,painting,the action of applying paint
+malerkunst,noun,painting,artistic application of paint
 par,noun,pair,two similar or identical things
 bukser,noun,pants,garment covering the body from the waist downwards
 buks,noun,pants,garment covering the body from the waist downwards
+underbukser,noun,pants,undergarment covering the genitals
 papir,noun,paper,sheet material
 paragraf,noun,paragraph,passage in text
 afsnit,noun,paragraph,passage in text
 forælder,noun,parent,person from whom one is descended
+ophav,noun,parent,source or origin of something
 del,noun,part,fraction of a whole
 partner,noun,partner,someone who is associated with another in a common activity or interest
+partner,noun,partner,a member of a business or law partnership
+kompagnon,noun,partner,a member of a business or law partnership
+partner,noun,partner,"spouse, domestic, or romantic partner"
+partner,noun,partner,dancing partner
+kavaler,noun,partner,dancing partner
+partner,noun,partner,either member of a pair in a card game or sports team (1.4)
+medspiller,noun,partner,either member of a pair in a card game or sports team (1.4)
+fest,noun,party,social gathering
 pas,noun,passport,official document for foreign travel
 rejsepas,noun,passport,official document for foreign travel
+passerseddel,noun,passport,any document allowing entry or passage
+passérseddel,noun,passport,any document allowing entry or passage
 fortid,noun,past,period of time that has already happened
+datid,noun,past,(grammar) past tense
+præteritum,noun,past,(grammar) past tense
 betale,verb,pay,to give money in exchange for goods or services
+betale sig,verb,pay,to be profitable
+lønne sig,verb,pay,to be profitable
 hunsvane,noun,pen,female swan
 pen,noun,pen,writing tool
 blyant,noun,pencil,graphite writing-instrument
 folk,noun,people,a body of human beings; a group of two or more persons
+folk,noun,people,a group of persons forming or belonging to a particular nation etc.
+folk,noun,people,a group of persons regarded as being employees etc.
+slægt,noun,people,"a person's ancestors, relatives or family"
+peber,noun,pepper,spice
+chili,noun,pepper,fruit of the capsicum
+paprika,noun,pepper,fruit of the capsicum
 perfekt,adj,perfect,fitting its definition precisely
 period,noun,period,a length of time
+punktum,noun,period,punctation mark “.”
+lektion,noun,period,division of school day
+modul,noun,period,division of school day
+time,noun,period,division of school day
 person,noun,person,individual
+person,noun,person,"specifically a human being — see also human, human being, man"
+legeme,noun,person,the physical body seen as distinct from the mind
+person,noun,person,any individual or formal organization with standing before the courts
+person,noun,person,grammar: linguistic category
+personlig,adj,personal,of or pertaining to a particular person
 ringe,verb,phone,to call (someone) on the telephone
 fotografi,noun,photograph,picture
 foto,noun,photograph,picture
@@ -615,40 +1493,95 @@ frase,noun,phrase,short written or spoken expression
 udtryk,noun,phrase,short written or spoken expression
 klaver,noun,piano,a keyboard musical instrument
 billede,noun,picture,"representation of visible reality produced by drawing, etc"
+billede,noun,picture,photograph
+foto,noun,picture,photograph
+fotografi,noun,picture,photograph
 stykke,noun,piece,part of a larger whole
 del,noun,piece,part of a larger whole
+stykke,noun,piece,single item belonging to a class of similar items
+brik,noun,piece,chess: figure other than pawn; similar counter in other games
+mønt,noun,piece,small coin
+møntstykke,noun,piece,small coin
+stykke,noun,piece,artistic creation
 svin,noun,pig,mammal of genus Sus
 gris,noun,pig,mammal of genus Sus
+svin,noun,pig,nasty or disgusting person
 lyserød,noun,pink,pale red colour
 sted,noun,place,"location, position"
 plads,noun,place,"location, position"
 placering,noun,place,"location, position"
 post,noun,place,"location, position"
+plads,noun,place,"open space, courtyard, market square"
+gård,noun,place,"open space, courtyard, market square"
+torg,noun,place,"open space, courtyard, market square"
+sted,noun,place,any area of the earth
+plads,noun,place,"area one occupies, particularly for sitting"
+siddeplads,noun,place,"area one occupies, particularly for sitting"
+hus,noun,place,house or home
+ståsted,noun,place,frame of mind
+rolle,noun,place,"role or purpose, station"
+plads,noun,place,the position of a contestant in a competition
+plads,noun,place,the position as a member of a team
 platan,noun,plane,deciduous tree
+plan,noun,plane,geometry: flat surface extending infinitely in all directions
+plan,noun,plane,level of existence
 høvl,noun,plane,a tool
 flyver,noun,plane,airplane
 plante,noun,plant,organism capable of photosynthesis
+plante,noun,plant,"a small or herbaceous organism, rather than a tree"
+plante,noun,plant,organism of the kingdom Plantae
+vækst,noun,plant,organism of the kingdom Plantae
+plante,noun,plant,ecology: multicellular eukaryote that includes chloroplasts in its cells
+vækst,noun,plant,ecology: multicellular eukaryote that includes chloroplasts in its cells
 leg,noun,play,playful activity
 spil,noun,play,playful activity
+stykke,noun,play,theatrical performance
+spil,noun,play,theatrical performance
+skuespil,noun,play,theatrical performance
 spiller,noun,player,one who plays any game or sport
+skuespiller,noun,player,dramatic actor
+musiker,noun,player,one who plays a musical instrument
+spiller,noun,player,gambler — see also gambler
+tidspunkt,noun,point,particular moment in an event or occurrence
+pointe,noun,point,opinion which adds to the discussion
+punkt,noun,point,geometry: zero-dimensional object
+punktum,noun,point,full stop
+point,noun,point,unit of scoring in a game or competition
+komma,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
 politi,noun,police,local or general law enforcement agency
 pool,noun,pool,body of water
+pøl,noun,pool,small body of standing or stagnant water; a puddle
 fattig,adj,poor,with few or no possessions or money
+stakkels,adj,poor,used to express pity
 folkelig,adj,popular,of or pertaining to the common people
 populær-,adj,popular,of or pertaining to the common people
+folkelig,adj,popular,aimed at the general public
+folkelig,adj,popular,adapted to the means of the common people; cheap
+populær,adj,popular,liked by many people
+positiv,adj,positive,legal: formally laid down
+positiv,adj,positive,grammar: describing the primary sense
 mulig,adj,possible,able but not certain to happen
+mulig,adj,possible,capable of being done or achieved; feasible
 kartoffel,noun,potato,plant tuber eaten as starchy vegetable
 internat,noun,pound,place for the detention of stray animals
 dyrehjem,noun,pound,place for the detention of stray animals
 pund,noun,pound,unit of mass (16 ounces avoirdupois)
+pund,noun,pound,unit of currency
 foretrække,verb,prefer,to favor
 berede,verb,prepare,to make ready for a specific future purpose
+tilberede,verb,prepare,to make ready for eating or drinking
+forberede,verb,prepare,to produce by combining elements
 nutid,noun,present,current time
 pris,noun,price,cost required to gain possession of something
+pris,noun,price,cost of an action or deed
 sandsynligvis,adv,probably,in all likelihood
 problem,noun,problem,difficulty
 produkt,noun,product,commodity for sale
+produkt,noun,product,amount created by a process
 program,noun,program,set of structured activities
+udsendelse,noun,program,performance of a show or other broadcast on radio or television
+programme,noun,program,performance of a show or other broadcast on radio or television
+program,noun,program,software application
 projekt,noun,project,planned endeavor
 lilla,noun,purple,colour
 violet,noun,purple,colour
@@ -657,30 +1590,60 @@ sætte,verb,put,to place something somewhere
 stille,verb,put,to place something somewhere
 lægge,verb,put,to place something somewhere
 placere,verb,put,to place something somewhere
+bringe,verb,put,"to bring or set into a certain relation, state or condition"
+formulere,verb,put,to express something in a certain manner
 fjerdedel,noun,quarter,one of four equal parts — see also one-fourth
 kvart,noun,quarter,one of four equal parts — see also one-fourth
+kvartal,noun,quarter,period of three months
+kvarter,noun,quarter,section of a town
 spørgsmål,noun,question,"sentence, phrase or word"
+spørgsmål,noun,question,subject or topic
+spørgsmål,noun,question,doubt or challenge
+spørgsmål,noun,question,proposal to a meeting as a topic for discussion and vote
 hurtig,adj,quick,moving with speed
 kvik,adj,quick,moving with speed
+rask,adj,quick,occurring in a short time
+kvik,adj,quick,occurring in a short time
+kvik,adj,quick,"lively, witty"
+rap,adj,quick,"lively, witty"
+kvik,adj,quick,"mentally agile, perceptive"
+rap,adj,quick,"mentally agile, perceptive"
+frisk og rask,adj,quick,alive
+gravid,adj,quick,pregnant
 hurtig,adv,quickly,"rapidly, fast"
 hurtigt,adv,quickly,"rapidly, fast"
 stille,adj,quiet,with little sound
 tyst,adj,quiet,with little sound
+rolig,adj,quiet,not busy
+stille,adj,quiet,not busy
+stille,adj,quiet,not talking
 ganske,adv,quite,to the greatest extent; completely
 helt,adv,quite,to the greatest extent; completely
 fuldt ud,adv,quite,to the greatest extent; completely
 fuldstændig,adv,quite,to the greatest extent; completely
+temmelig,adv,quite,to a moderate extent
+ret,adv,quite,to a moderate extent
+ganske,adv,quite,to a moderate extent
 radio,noun,radio,technology
 radiofoni,noun,radio,technology
+radio,noun,radio,receiver
+bilradio,noun,radio,on-board entertainment system in a car
+radiosender,noun,radio,transmitter
 regne,verb,rain,of rain: to fall from the sky
 læse,verb,read,to look at and interpret letters or other information
+læse,verb,read,to speak aloud words or other information that is written
 læser,noun,reader,person who reads a publication
 læserinde,noun,reader,person who reads a publication
 læsning,noun,reading,process of interpreting written language
+aflæsning,noun,reading,value indicated by a measuring device
+forelæsning,noun,reading,event at which material is read aloud
+fortolkning,noun,reading,interpretation
 ægte,adj,real,"true, genuine, not merely nominal"
 virkelig,adj,real,"true, genuine, not merely nominal"
 årsag,noun,reason,that which causes: a cause
 grund,noun,reason,that which causes: a cause
+grund,noun,reason,motive for an action or determination
+fornuft,noun,reason,(the capacity of the human mind for) rational thinking
 rød,noun,red,colour
 falde til ro,verb,relax,to calm down
 slappe af,verb,relax,to calm down
@@ -697,96 +1660,232 @@ resultat,noun,result,that which results
 udfald,noun,result,that which results
 tilbagevænding,noun,return,act of returning
 retur,noun,return,act of returning
+retur,noun,return,item that is returned
+resultat,noun,return,"formal report, set of tabulated statistics prepared for general information"
+afkast,noun,return,finance: gain or loss from an investment
+selvangivelse,noun,return,finance: tax return
+retur,noun,return,computing: carriage return character
 ris,noun,rice,plants
+ris,noun,rice,seeds used as food
 rig,adj,rich,having wealth
 ride,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 køre,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+køre,verb,ride,to be transported in a vehicle as a passenger
+ret,noun,right,legal or moral entitlement
+rettighed,noun,right,legal or moral entitlement
+højre side,noun,right,"right, not left, side"
+højre,noun,right,right-wing politicians and parties
 flod,noun,river,large stream which drains a landmass
 å,noun,river,large stream which drains a landmass
 elv,noun,river,large stream which drains a landmass
 elv,noun,river,large stream which drains a landmass
+flod,noun,river,any large flow of a liquid
 vej,noun,road,a way for travel
+rum,noun,room,space
+plads,noun,room,space
+plads,noun,room,sufficient space to do something
+rum,noun,room,division in a building
+lokale,noun,room,division in a building
+værelse,noun,room,division in a building
+soveværelse,noun,room,one's bedroom
+værelse,noun,room,one's bedroom
 rutine,noun,routine,course of action to be followed regularly; a standard procedure
 regel,noun,rule,regulation
 løbe,verb,run,to move quickly on two feet
+løbe,verb,run,to flow
+trille,verb,run,to flow
+rulle,verb,run,to flow
+stille op,verb,run,to be a candidate in an election
+trist,adj,sad,feeling sorrow
+sørgelig,adj,sad,"causing sorrow, lamentable"
+trist,adj,sad,"causing sorrow, lamentable"
 salat,noun,salad,food
 salt,noun,salt,sodium chloride
+salt,noun,salt,compound of an acid and a base
+søulk,noun,salt,sailor
 sandwich,noun,sandwich,dish — see also open sandwich
 amagermad,noun,sandwich,dish — see also open sandwich
+sige,verb,say,to pronounce
+sige,verb,say,to communicate verbally or in writing
+fortælle,verb,say,to communicate verbally or in writing
+fortælle,verb,say,to indicate in a written form
 stime,noun,school,a group of fish
 skole,noun,school,an institution dedicated to teaching and learning
+skole,noun,school,college or university
+skole,noun,school,a department/institute at a college or university
+skole,noun,school,(collectively) the followers of a particular doctrine
 videnskab,noun,science,collective discipline of learning acquired through the scientific method
+videnskab,noun,science,particular discipline or branch of learning
+viden,noun,science,fact of knowing something
+viden,noun,science,knowledge gained through study or practice
 videnskabsmand,noun,scientist,one whose activities make use of the scientific method
 videnskabskvinde,noun,scientist,one whose activities make use of the scientific method
 sekund,noun,second,one-sixtieth of a minute; SI unit of time
+sekund,noun,second,unit of angular measure
+sekund,noun,second,"short, indeterminate amount of time"
+øjeblik,noun,second,"short, indeterminate amount of time"
 sekundant,noun,second,attendant of a duel or boxing match standing in for a contestant
+støtte,noun,second,one who agrees in addition
 andenplads,noun,second,number two in a series
+næst-,noun,second,one that is next in rank
+andenplads,noun,second,place next below first in a race or contest
+sekundavare,noun,second,manufactured item that fails to meet quality control standards
+anden chance,noun,second,another chance to achieve what should have been done the first time
+en til chance,noun,second,another chance to achieve what should have been done the first time
+sekund,noun,second,music: interval between two adjacent notes
+andet gear,noun,second,second gear
+anden base,noun,second,baseball: second base
 afsnit,noun,section,"cutting, part cut out"
+afsnit,noun,section,part of a document
 se,verb,see,perceive with the eyes
+forstå,verb,see,understand
 sælge,verb,sell,to agree to transfer goods or provide services for payment
 sende,verb,send,make something go somewhere
 dom,noun,sentence,"(dated) decision or judgement of a court — see also judgment, verdict"
+dom,noun,sentence,judicial order for punishment
+straf,noun,sentence,punishment imposed on a person convicted of a crime — see also punishment
+sentens,noun,sentence,"saying, especially from a great person"
+sætning,noun,sentence,grammatically complete series of words consisting of a subject and predicate
 dele,verb,share,to give
+dele,verb,share,to have in common
+dele,verb,share,to divide and distribute
+uddele,verb,share,to divide and distribute
 får,noun,sheep,animal
 bluse,noun,shirt,article of clothing
 skjorte,noun,shirt,article of clothing
 trøje,noun,shirt,article of clothing
 sko,noun,shoe,protective covering for the foot
+sko,noun,shoe,something resembling a shoe (e.g. brake shoe)
 handle,verb,shop,to visit shops
 shoppe,verb,shop,to visit shops
 indkøb,noun,shopping,activity of buying
 shopping,noun,shopping,activity of buying
 kort,adj,short,having a small distance between ends or edges
+lav,adj,short,"of a person, of comparatively small height"
+kort,adj,short,constituting an abbreviation or shortened form
 skulle,verb,should,expressing obligation
 burde,verb,should,expressing obligation
+skulle,verb,should,expressing likelihood
+skulle,verb,should,if; in case of
 show,noun,show,entertainment
+bruser,noun,shower,device for bathing
+brusebad,noun,shower,device for bathing
 syg,adj,sick,"ill, used as a substantive: sick people, collectively"
 syge,adj,sick,"ill, used as a substantive: sick people, collectively"
+syg,adj,sick,"colloquial: mentally unstable, disturbed"
+syg,adj,sick,"slang: very good, excellent"
 lignende,adj,similar,"having traits or characteristics in common; alike, comparable"
 magen til,adj,similar,"having traits or characteristics in common; alike, comparable"
 synge,verb,sing,to produce harmonious sounds with one’s voice
 sanger,noun,singer,person who sings (male or generic term)
+sangerinde,noun,singer,female person who sings
 søster,noun,sister,woman or girl having the same parents
+nonne,noun,sister,a nun; a female member of a religious community
+søster,noun,sister,a nun; a female member of a religious community
+afdelingssygeplejerske,noun,sister,senior nurse
+søster,noun,sister,any woman or girl with whom a bond is felt
 sidde,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
+situation,noun,situation,position vis-à-vis surroundings
 færdighed,noun,skill,capacity to do something well
 evne,noun,skill,capacity to do something well
 kundskab,noun,skill,capacity to do something well
 nederdel,noun,skirt,article of clothing
 skørt,noun,skirt,article of clothing
+nederdel,noun,skirt,part of dress that hangs below waist
 sove,verb,sleep,to rest in state of reduced consciousness
 langsom,adj,slow,not quick in motion
 lille,adj,small,not large
 liden,adj,small,not large
+smart,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+klog,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
+intelligent,adj,smart,equipped with intelligent behaviour (digital/computer technology)
+elegant,adj,smart,good-looking
+flot,adj,smart,good-looking
 slange,noun,snake,legless reptile
 sne,verb,snow,have snow fall from the atmosphere
 så,adv,so,very
+så,adv,so,to a particular extent
+sådan,adv,so,in the same aformentioned manner
+så,adv,so,slang: very much
 somme tider,adv,sometimes,"on certain occasions, but not always"
 af og til,adv,sometimes,"on certain occasions, but not always"
 undertiden,adv,sometimes,"on certain occasions, but not always"
 stundom,adv,sometimes,"on certain occasions, but not always"
 indimellem,adv,sometimes,"on certain occasions, but not always"
 søn,noun,son,a male person in relation to his parents
+adoptivsøn,noun,son,an adopted son
 sang,noun,song,music with words
 vise,noun,song,music with words
+sang,noun,song,sound of another animal
+slik,noun,song,inexpensive deal
 snart,adv,soon,within a short time
+sørgelig,adj,sorry,"poor, regrettable"
 dykke (ned),verb,sound,"to dive downwards, of a whale"
+lodde,verb,sound,to probe
+sondere,verb,sound,to probe
+pejle,verb,sound,to probe
+pejle,verb,sound,to test
+prøve,verb,sound,to test
 lyde,verb,sound,to produce a sound
+lyde,verb,sound,to convey an impression by one's sound
+lade lyde,verb,sound,to cause to produce a sound
 suppe,noun,soup,dish
 sydover,adv,south,towards the south
+syd,adv,south,of wind: from the south
+rum,noun,space,physical extent in two or three dimensions
+rum,noun,space,area beyond atmosphere of planets
+verdensrum,noun,space,area beyond atmosphere of planets
+plads,noun,space,bounded or specific physical extent
+mellemrum,noun,space,"gap between written characters, lines etc."
+rum,noun,space,mathematics: generalized construct or set
 tale,verb,speak,to communicate with one's voice using words
+snakke,verb,speak,to be able to communicate in a language
+taler,verb,speak,to be able to communicate in a language
 speciel,adj,special,distinguished by a unique or unusual quality
 stave,verb,spell,to write or say the letters that form a word
+stave,verb,spell,to compose a word
+stavemåde,noun,spelling,a specific spelling of a word
 give ud,verb,spend,to pay out
 spendere,verb,spend,to pay out
+bruge,verb,spend,"to consume, to use up (time)"
 sport,noun,sport,any athletic activity that uses physical skills
 idræt,noun,sport,any athletic activity that uses physical skills
 forår,noun,spring,season between winter and summer in temperate climates
 vår,noun,spring,season between winter and summer in temperate climates
+kilde,noun,spring,water springing from the ground
+fjeder,noun,spring,device made of flexible material
 stå,verb,stand,to support oneself on the feet in an erect position
+rejse sig,verb,stand,to rise to one’s feet
+stå,verb,stand,to remain motionless
+stå stille,verb,stand,to remain motionless
+klare,verb,stand,to undergo; withstand; hold up
+holde til,verb,stand,to undergo; withstand; hold up
+udholde,verb,stand,to tolerate
+udstå,verb,stand,to tolerate
+klare,verb,stand,to tolerate
+stille,verb,stand,to place in an upright or standing position
+sætte,verb,stand,to place in an upright or standing position
 stjerne,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+stjerne,noun,star,(astronomy) a luminous celestial body made of plasma
+stjerne,noun,star,concave polygon
+stjerne,noun,star,celebrity
+kendt,noun,star,celebrity
+stjerne,noun,star,actor
+stjerne,noun,star,talented or famous person
+stjerne,noun,star,asterisk
+asterisk,noun,star,asterisk
+stjerne,noun,star,quality rating symbol
+starte,verb,start,to set in motion
+rykke til,verb,start,to jerk suddenly in surprise
+vågne med et sæt,verb,start,to awaken suddenly
+komme løs,verb,start,"to break away, to come loose"
+løsrive sig,verb,start,"to break away, to come loose"
 udsagn,noun,statement,declaration or remark
+meningstilkendegivelse,noun,statement,presentation of opinion or position — see also assertion
 station,noun,station,place where a vehicle may stop
+tv-station,noun,station,broadcasting entity
 blive,verb,stay,to remain in a particular place
+stadig,adv,still,"up to a time, as in the preceding time"
 stoppested,noun,stop,place to get on and off mass transport
 holdeplads,noun,stop,place to get on and off mass transport
 historie,noun,story,account of events
@@ -794,33 +1893,66 @@ fortælling,noun,story,account of events
 beretning,noun,story,account of events
 gade,noun,street,paved part of road in a village or a town
 stærk,adj,strong,capable of producing great physical force
+stærk,adj,strong,capable of withstanding great physical force
+stærk,adj,strong,"determined, unyielding"
+stærk,adj,strong,having a high concentration of an essential or active ingredient
+uregelmæssig,adj,strong,grammar: irregular
 studerende,noun,student,person who studies a subject
+studerende,noun,student,person enrolled at a university — see also university student
 studere,verb,study,to revise/review materials
 lære,verb,study,to revise/review materials
+studere,verb,study,to take a course
+læse,verb,study,to take a course
+studere,verb,study,to acquire knowledge
+studere,verb,study,to look at minutely
+nærstudere,verb,study,to look at minutely
+granske,verb,study,to look at minutely
 grundled,noun,subject,in grammar
 subjekt,noun,subject,in grammar
+emne,noun,subject,main topic
+tema,noun,subject,main topic
+fag,noun,subject,particular area of study
+emne,noun,subject,particular area of study
+felt,noun,subject,particular area of study
+undersåt,noun,subject,citizen in a monarchy
+undersåt,noun,subject,"person ruled over by another, especially a monarch or state authority"
 succes,noun,success,achievement of one's aim or goal
 sukker,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+sukker,noun,sugar,any of a series of carbohydrates used by organisms to store energy
+sukker,noun,sugar,"generic term for sucrose, glucose, fructose, etc"
+skat,noun,sugar,term of endearment
 sommer,noun,summer,hottest season
 sol,noun,sun,"a star, especially when seen as the centre of any single solar system"
 supermarked,noun,supermarket,store
+supermarkedskæde,noun,supermarket,chain of stores
+sikker,adj,sure,certain in one's knowledge or belief
+sweater,noun,sweater,similar garment worn for warmth
 svømme,verb,swim,move through water
 svømning,noun,swimming,human activity of moving oneself through water
 bord,noun,table,item of furniture
+tabel,noun,table,grid of data in rows and columns
+tabel,noun,table,collection of arithmetic calculations
 tage,verb,take,to get into one's hands or control
 tale,verb,talk,to communicate by speech
 snakke,verb,talk,to communicate by speech
 fortælle,verb,talk,to communicate by speech
 høj,adj,tall,of a person
+høj,adj,tall,of a building
 taxa,noun,taxi,vehicle available for public hire
 taxi,noun,taxi,vehicle available for public hire
 vogn,noun,taxi,vehicle available for public hire
 hyrevogn,noun,taxi,vehicle available for public hire
 te,noun,tea,dried leaves of tea plant
+te,noun,tea,drink made from leaves of tea plant
+the,noun,tea,drink made from leaves of tea plant
+kop te,noun,tea,cup of this drink
+te,noun,tea,drink made from other plants
 undervise,verb,teach,to pass on knowledge
 lære,verb,teach,to pass on knowledge
 lærer,noun,teacher,person who teaches
+lærerinde,noun,teacher,woman who teaches
 span,noun,team,set of draught animals
+hold,noun,team,group of people
 teenager,noun,teenager,person aged between thirteen and nineteen
 teenagere,noun,teenager,person aged between thirteen and nineteen
 ringe,verb,telephone,to call someone
@@ -829,35 +1961,78 @@ tv,noun,television,medium
 fjernsyn,noun,television,medium
 television,noun,television,medium
 tv-skærm,noun,television,medium
+fjernsyn,noun,television,device for receiving television signals
+tv,noun,television,device for receiving television signals
+tv-apparat,noun,television,device for receiving television signals
+tv,noun,television,program broadcasting
 fortælle,verb,tell,to pass information
 sige,verb,tell,to pass information
+tilsige,verb,tell,to instruct
+instruere,verb,tell,to instruct
+afsige,verb,tell,"to discern, notice, identify or distinguish"
+afgøre,verb,tell,"to discern, notice, identify or distinguish"
 tennis,noun,tennis,sport played by two or four players with strung racquets
 frygtelig,adj,terrible,dreadful; causing alarm or fear
 udfordre,verb,test,to challenge
+teste,verb,test,to administer an examination during the academic term
+teste,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 tekst,noun,text,a written passage
 skrift,noun,text,a written passage
+sms,noun,text,a brief written message transmitted between mobile phones
 takke,verb,thank,to express appreciation or gratitude toward (someone or something)
 tak,noun,thanks,expression of gratitude
 teater,noun,theater,place or building
 der,adv,there,in or at that place
+did,adv,there,to or into that place; thither
+derhen,adv,there,to or into that place; thither
 ting,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 tænke,verb,think,"to ponder, to go over in one's head"
 reflektere,verb,think,"to ponder, to go over in one's head"
+tænke,verb,think,communicate to oneself in one’s mind
+tænke,verb,think,to conceive of something or someone
+mene,verb,think,be of the opinion that
+tænke,verb,think,be of the opinion that
+tro,verb,think,be of the opinion that
+synes,verb,think,be of the opinion that
+mene,verb,think,"guess, reckon"
+tro,verb,think,"guess, reckon"
+antage,verb,think,"guess, reckon"
+synes,verb,think,"consider, judge, regard something as"
+mene,verb,think,"consider, judge, regard something as"
 tørstig,adj,thirsty,needing to drink
 billet,noun,ticket,admission to entertainment
+billet,noun,ticket,pass for transportation
+bøde,noun,ticket,traffic citation
 tid,noun,time,inevitable passing of events
+tid,noun,time,quantity of availability in time
+klokken,noun,time,"time of day, as indicated by a clock, etc"
+gang,noun,time,instance or occurrence
+afsoningstid,noun,time,slang: serving of a prison sentence
 træt,adj,tired,in need of rest or sleep
 titel,noun,title,prefix or suffix added to a name
+titel,noun,title,"name of a book, etc"
 i dag,noun,today,today (noun)
 sammen,adv,together,"at the same time, in the same place"
 toilette,noun,toilet,personal grooming
+påklædningsrum,noun,toilet,dressing room
+garderobe,noun,toilet,dressing room
+toilet,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+badeværelse,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+lokum,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+wc,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toilet,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+wc,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+toiletkumme,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 tomat,noun,tomato,tomato plant
+tomat,noun,tomato,fruit
 morgendag,noun,tomorrow,the day after the present day
 i aften,noun,tonight,nighttime today
 i nat,noun,tonight,nighttime today
 ligeså,adv,too,likewise
 også,adv,too,likewise
+for,adv,too,more than enough; as too much
 tand,noun,tooth,anatomy: tooth
+tand,noun,tooth,saw tooth
 emne,noun,topic,subject; theme
 tema,noun,topic,subject; theme
 turist,noun,tourist,someone who travels for pleasure
@@ -865,56 +2040,124 @@ by,noun,town,settlement
 trafik,noun,traffic,pedestrians or vehicles on roads or on the air
 færdsel,noun,traffic,pedestrians or vehicles on roads or on the air
 slæb,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+tog,noun,train,line of connected cars or carriages
+optog,noun,train,"group of animals, vehicles, or people"
+række,noun,train,series of events or ideas which are interconnected
+kæde,noun,train,series of events or ideas which are interconnected
+slæb,noun,train,that which is drawn along
 rejse,noun,travel,act of traveling
 træ,noun,tree,large woody plant
+træ,noun,tree,(graph theory) connected graph with no cycles
 rejse,noun,trip,journey
+lastbil,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+lastvogn,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
+truck,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 sand,adj,true,concurring with a given set of facts
 forsøge,verb,try,to attempt
 prøve,verb,try,to attempt
+forsøge,verb,try,to make an experiment
+prøve,verb,try,to make an experiment
+prøve,verb,try,to work on something
+afprøve,verb,try,to put to test
+prøve,verb,try,"to taste, sample, etc"
+afprøve,verb,try,to put on trial
+teste,verb,try,to put on trial
 drejning,noun,turn,change of direction or orientation
 bøjning,noun,turn,change of direction or orientation
+omdrejning,noun,turn,movement about an axis ending up with the same orientation
+omgang,noun,turn,chance to use (something) shared in sequence with others
+tur,noun,turn,chance to use (something) shared in sequence with others
+tur,noun,turn,one's chance to make a move in a game
+dobbeltslag,noun,turn,figure in music
+anfald,noun,turn,fit or period of giddiness
+ildebefindende,noun,turn,fit or period of giddiness
+tilbøjelighed,noun,turn,change in temperament or circumstance
+snoning,noun,turn,single loop of a coil
 to gange,adv,twice,two times
 type,noun,type,grouping based on shared characteristics
 paraply,noun,umbrella,cloth-covered frame used for protection against rain or sun
 onkel,noun,uncle,brother (or brother-in-law) of someone’s parent
 farbror,noun,uncle,brother (or brother-in-law) of someone’s parent
 morbror,noun,uncle,brother (or brother-in-law) of someone’s parent
+onkel,noun,uncle,UK informal: pawnbroker — see also pawnbroker
 forstå,verb,understand,to grasp the meaning of
 fatte,verb,understand,to grasp the meaning of
 begribe,verb,understand,to grasp the meaning of
+forstå,verb,understand,to believe one grasps the meaning of
+mene,verb,understand,to believe one grasps the meaning of
+forstå,verb,understand,to believe
+opfatte,verb,understand,to believe
+indse,verb,understand,to believe
+underforstå,verb,understand,to believe
 universitet,noun,university,institution of higher education
 opad,adv,up,away from earth’s surface
+itu,adv,up,"completely, thoroughly"
+i stykker,adv,up,"completely, thoroughly"
+op,adv,up,north
+op,adv,up,"higher, louder"
+op,adv,up,higher in pitch
 bruge,verb,use,"employ, apply"
 nyttig,adj,useful,having a practical or beneficial use
 tjenlig,adj,useful,having a practical or beneficial use
 som regel,adv,usually,most of the time
 sædvanligvis,adv,usually,most of the time
+ferie,noun,vacation,official holiday period
+ferie,noun,vacation,period of leisure time
+fratrædelse,noun,vacation,the act of vacating something; moving out of something
+fraflytning,noun,vacation,the act of vacating something; moving out of something
 grøntsag,noun,vegetable,a plant raised for some edible part of it
 grønsag,noun,vegetable,a plant raised for some edible part of it
+grøntsag,noun,vegetable,a person whose brain has been damaged
+grønsag,noun,vegetable,a person whose brain has been damaged
 meget,adv,very,to a high degree
 særlig,adv,very,to a high degree
 vældig,adv,very,to a high degree
+aller,adv,very,"true, truly"
+aller-,adv,very,emphasizes superlativeness
 video,noun,video,"television show, movie"
+video,noun,video,film clip
+video,noun,video,motion picture stored on VHS
 besøg,noun,visit,single act of visiting
 visit,noun,visit,single act of visiting
 besøgende,noun,visitor,guest
 gæst,noun,visitor,guest
+gæst,noun,visitor,players away from home
 vente,verb,wait,delay until some event
 tjener,noun,waiter,a server in a restaurant or similar
 vågne,verb,wake,to stop sleeping
+vække,verb,wake,to make somebody stop sleeping
 gåtur,noun,walk,trip made by walking
 vandretur,noun,walk,trip made by walking
+gåtur,noun,walk,distance walked
+vandretur,noun,walk,distance walked
+gang,noun,walk,manner of walking
+gangart,noun,walk,manner of walking
+fodsti,noun,walk,maintained place on which to walk
 væg,noun,wall,defensive rampart
+mur,noun,wall,structure built for defense surrounding an area
+væg,noun,wall,substantial structure acting as side or division in a building
+vejrandøje,noun,wall,butterfly Lasiommata megera
+væg,noun,wall,"anatomy, zoology, botany: divisive or containing structure"
 ville,verb,want,to desire
 kræve,verb,want,to desire
 varm,adj,warm,having a temperature slightly higher than usual
 lun,adj,warm,having a temperature slightly higher than usual
+varm,adj,warm,being something that causes warmth
+varm,adj,warm,"caring, of relation to another person"
 vaske,verb,wash,to clean with water
 armbåndsur,noun,watch,portable or wearable timepiece
+vagt,noun,watch,particular time period
+vagt,noun,watch,person or group of people who guard
 vand,noun,water,inorganic compound H₂O
+spabad,noun,water,spa water
+tis,noun,water,urine
+vand,noun,water,urine
 vej,noun,way,"road, direction, path"
+måde,noun,way,method or manner
+facon,noun,way,method or manner
 have på,verb,wear,to have on (clothes or accessories)
 vejr,noun,weather,state of the atmosphere
+luv,noun,weather,nautical: windward side of a ship
 websted,noun,website,a collection of pages on the World Wide Web
 hjemmeside,noun,website,a collection of pages on the World Wide Web
 website,noun,website,a collection of pages on the World Wide Web
@@ -922,36 +2165,82 @@ uge,noun,week,period of seven days
 weekend,noun,weekend,break in the working week
 velkommen,adj,welcome,whose arrival is a cause of joy
 kærkommen,adj,welcome,whose arrival is a cause of joy
+velkommen,adj,welcome,free to have or enjoy gratuitously
 rask,adj,well,in good health
 frisk,adj,well,in good health
 vel,adj,well,in good health
 hvornår,adv,when,"at what time, as a direct question"
 hvor,adv,where,at what place; to what place; from what place
+hvor,adv,where,at or in what place
+hvor,adv,where,at or in which place
+hvor,adv,where,to what place
+hvorhen,adv,where,to what place
+hvort,adv,where,to what place
+hvor,adv,where,to which place or situation
+hvor,adv,where,in what situation
+hvor,adv,where,the place in which
+hvor,adv,where,legal: in the situation in which
 hvid,noun,white,color
+hvid,noun,white,person of European descent
 hvorfor,adv,why,for what reason
 hustru,noun,wife,female partner in a marriage
 kone,noun,wife,female partner in a marriage
 frue,noun,wife,female partner in a marriage
 testamentere,verb,will,to bequeath
+vil,verb,will,indicating future action
+skal,verb,will,indicating future action
 vinde,verb,win,transitive: achieve victory in
+erobre,verb,win,obtain (someone) by wooing
+vinde,verb,win,intransitive: achieve by winning
+overvinde,verb,win,intransitive: achieve by winning
+sejre,verb,win,intransitive: achieve by winning
 vindue,noun,window,opening for light and air
 rude,noun,window,opening for light and air
+tidsrum,noun,window,period of time
+interval,noun,window,period of time
+vindue,noun,window,area on a computer screen
 vin,noun,wine,alcoholic beverage made from grapes
+vin,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
 vinter,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 kvinde,noun,woman,adult female person
 vidunderlig,adj,wonderful,"excellent, extremely impressive"
 ord,noun,word,unit of language
 arbejde,noun,work,"labour, employment, occupation, job"
 job,noun,work,"labour, employment, occupation, job"
+arbejde,noun,work,place where one is employed
+arbejdsplads,noun,work,place where one is employed
+job,noun,work,place where one is employed
+arbejde,noun,work,effort expended on a particular task
+job,noun,work,effort expended on a particular task
+arbejde,noun,work,result of a particular manner of production
+værk,noun,work,"literary, artistic, or intellectual production"
+arbejde,noun,work,physics: measure of energy expended in moving an object
+værk,noun,work,fortification
+forsvarsværk,noun,work,fortification
 arbejder,noun,worker,person who performs labor
 menneskehed,noun,world,human collective existence
 verden,noun,world,human collective existence
+verden,noun,world,the universe
+verden,noun,world,the Earth
+verden,noun,world,inhabited planet
+verden,noun,world,individual or group perspective or social setting
 skrive,verb,write,"to form letters, etc."
+skrive,verb,write,to send a letter to
+skrive,verb,write,to be the author of
+digte,verb,write,to be the author of
+forfatte,verb,write,to be the author of
+skrive,verb,write,to be an author
+skrive,verb,write,record (data)
 forfatter,noun,writer,person who writes; an author
 skrift,noun,writing,written letters or symbols
 forkert,adj,wrong,incorrect
 gård,noun,yard,land around a house
+gård,noun,yard,enclosed area for a specific purpose
 år,noun,year,time it takes for the Earth to complete one revolution around the Sun
+år,noun,year,a period between set dates that mark a year
+år,noun,year,a scheduled part of a calendar year spent in a specific activity
+år,noun,year,a Julian year
+år,noun,year,a level or grade at school or college
 gul,noun,yellow,color
 i går,noun,yesterday,day before today
 ung,adj,young,in the early part of life or growth

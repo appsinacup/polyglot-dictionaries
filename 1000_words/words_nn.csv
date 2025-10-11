@@ -9,13 +9,23 @@ tysdag,noun,Tuesday,day of the week
 onsdag,noun,Wednesday,day of the week
 "mekedag (i.e., ‘midtvekedag’)",noun,Wednesday,day of the week
 mørkedag (Tinn in Telemark),noun,Wednesday,day of the week
+verknad,noun,action,mathematics: type of mapping
 aktivitet,noun,activity,state or quality of being active
+aktivitet,noun,activity,something done as an action or a movement
+aktivitet,noun,activity,something done for pleasure or entertainment
 skodespelar,noun,actor,person who performs in a theatrical play or film — see also actress
 skodespelarinne,noun,actor,person who performs in a theatrical play or film — see also actress
 skodespelarinne,noun,actress,female actor — see also actor
+adresse,noun,address,description of the location of a property; direction for correspondence
 vaksen,noun,adult,fully grown human
 råd,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
+igjen,adv,again,another time
+på ny,adv,again,another time
+på nytt,adv,again,another time
+tidsalder,noun,age,particular period of time in history
+epoke,noun,age,particular period of time in history
 luft,noun,air,historical: one of the basic elements
+luft,noun,air,mixture of gases making up the atmosphere of the Earth
 flyplass,noun,airport,place designated for airplanes
 lufthamn,noun,airport,place designated for airplanes
 dessutan,adv,also,in addition; besides; as well; further; too
@@ -28,9 +38,17 @@ leilegheit,noun,apartment,domicile occupying part of a building
 eple,noun,apple,fruit of Malus domestica
 flatevidd,noun,area,maths: measure of extent of a surface
 areal,noun,area,maths: measure of extent of a surface
+armlene,noun,arm,part of object
+(of fjord) fjordarm,noun,arm,bay or inlet
 kunstnar,noun,artist,person who creates art
+artist,noun,artist,skilled person
 spørje,verb,ask,request an answer
 bort,adv,away,from a place; hence
+unna,adv,away,at a distance in time or space
+bort,adv,away,aside; off; in another direction
+borte,adv,away,from a state or condition of being; out of existence
+bort,adv,away,equivalent to an imperative: Go or come away; begone; take away
+kjempebra,adj,awesome,"excellent, exciting"
 spedbarn,noun,baby,very young human being
 baby,noun,baby,very young human being
 attende,adv,back,to or in a previous condition or place
@@ -38,24 +56,33 @@ tilbake,adv,back,to or in a previous condition or place
 veske,noun,bag,flexible container
 ball,noun,ball,formal dance
 ball,noun,ball,solid or hollow sphere
+ball,noun,ball,"object, generally spherical, used for playing games"
 bredd,noun,bank,edge of river or lake
 breidd,noun,bank,edge of river or lake
+bar,noun,bar,business licensed to sell intoxicating beverages
+bar,noun,bar,nautical: sand formation
 baseball,noun,baseball,ball game
 korgball,noun,basketball,the sport
 basketball,noun,basketball,the sport
 strand,noun,beach,sandy shore
+nydeleg,adj,beautiful,impressing with charm in an intellectual or moral way
+eneståande,adj,beautiful,impressing with charm in an intellectual or moral way
 verta,verb,become,to begin to be
 bli,verb,become,to begin to be
 seng,noun,bed,piece of furniture
 soverom,noun,bedroom,room in a house where a bed is kept for sleeping
 øl,noun,beer,alcoholic drink made of malt
+øl,noun,beer,glass of beer
 begynna,verb,begin,"to start, to initiate (transitive)"
 byrja,verb,begin,"to start, to initiate (transitive)"
 innleia,verb,begin,"to start, to initiate (transitive)"
 tru,verb,believe,to accept that someone is telling the truth (object: person)
+tru,verb,believe,to have religious faith; to believe in a greater truth
 betre,adj,better,comparative of the adjectives good or well
 sykkel,noun,bicycle,vehicle
 stor,adj,big,of a great size — see also large
+lovforslag,noun,bill,draft of a law
+rekning,noun,bill,invoice
 nebb,noun,bill,bird's beak
 fugl,noun,bird,animal
 bursdag,noun,birthday,anniversary
@@ -65,6 +92,8 @@ blogg,noun,blog,a personal or corporate website
 båt,noun,boat,water craft
 farkost,noun,boat,water craft
 kropp,noun,body,physical structure of a human or animal
+karosseri,noun,body,largest or most important part of anything (e.g. car bodywork)
+organ,noun,body,"organisation, company or other authoritative group"
 bok,noun,book,collection of sheets of paper bound together containing printed or written material
 støvel,noun,boot,heavy shoe that covers part of the leg
 keisam,adj,boring,causing boredom or tiredness
@@ -73,6 +102,10 @@ flaske,noun,bottle,container
 buksbom,noun,box,shrub or tree of the genus Buxus — see also box tree
 gut,noun,boy,young male
 tenåringsgut,noun,boy,young male
+negergut,noun,boy,non-white male
+neger,noun,boy,non-white male
+nigger,noun,boy,non-white male
+gut,noun,boy,"male of any age, used as a friendly diminutive"
 kjærast,noun,boyfriend,male partner in a romantic relationship
 kjæraste,noun,boyfriend,male partner in a romantic relationship
 brød,noun,bread,baked dough made from cereals
@@ -82,29 +115,53 @@ ta med,verb,bring,to transport toward somebody/somewhere
 bror,noun,brother,male sibling
 broder,noun,brother,male sibling
 byggja,verb,build,(transitive) to form by combining materials or parts
+bygning,noun,building,closed structure with walls and a roof
 buss,noun,bus,vehicle
 smør,noun,butter,soft foodstuff made from milk
+anløp,noun,call,social visit
 kamera,noun,camera,still camera
 fotoapparat,noun,camera,still camera
 bil,noun,car,"automobile, a vehicle steered by a driver"
 karriere,noun,career,one's calling in life; a person's occupation
+karriere,noun,career,an individual’s work and life roles over their lifespan
 stol,noun,chair,furniture
+professorat,noun,chair,distinguished professorship
 endring,noun,change,the process of becoming different
+veksel,noun,change,small denominations of money given in exchange for a larger denomination
+skift,noun,change,a replacement
+veksel,noun,change,balance returned after a purchase
 billeg,adj,cheap,low and/or reduced in price
 billig,adj,cheap,low and/or reduced in price
 ost,noun,cheese,dairy product
+ost,noun,cheese,countable: any particular variety of cheese
 høne,noun,chicken,bird
 kylling,noun,chicken,bird
 kjukling,noun,chicken,bird
 barn,noun,child,son or daughter; someone's child
 by,noun,city,large settlement
 klatre,verb,climb,"to ascend, to go up"
+klatre,verb,climb,"to mount, to move upwards on"
+klatre,verb,climb,to move by using the hands and feet
+klatre,verb,climb,to practice the sport of climbing
+klatre,verb,climb,of plants: to grow upwards by clinging to something
 klokke,noun,clock,instrument to measure or keep track of time
 klubb,noun,club,association of members
+kølle,noun,club,hitting implement in certain ball games
 frakk,noun,coat,outer garment covering the upper torso and arms
 kaffi,noun,coffee,beverage
+forkjøling,noun,cold,illness
 farge,noun,color,spectral composition of visible light
+farge,noun,color,particular set of the visible spectrum
+farge,noun,color,hue as opposed to achromatic colors
+fargetone,noun,color,hue as opposed to achromatic colors
+kulør,noun,color,hue as opposed to achromatic colors
+hudfarge,noun,color,"human skin tone, especially as an indicator of race or ethnicity"
+farge,noun,color,"interest, especially in a selective area"
+koloritt,noun,color,"interest, especially in a selective area"
+farge,noun,color,any of the standard dark tinctures used in a coat of arms
+fane,noun,color,standard or banner (colors)
 koma,verb,come,to move nearer
+felleskjønn,adj,common,grammar: of the gender resulting from the coalescence of the masculine and feminine genders
 selskap,noun,company,"in legal context, a corporation"
 samanlikna,verb,compare,to assess the similarities between two things or between one thing and another
 fullføre,verb,complete,to finish
@@ -117,26 +174,53 @@ kjølig,adj,cool,having a slightly low temperature
 sval,adj,cool,having a slightly low temperature
 koste,verb,cost,"to incur a charge, a price"
 land,noun,country,region of land
+land,noun,country,nation state
+land,noun,country,"the country, rural area, as opposed to the town or city"
+landsbygd,noun,country,"the country, rural area, as opposed to the town or city"
+country,noun,country,country music
+kurs,noun,course,education: learning program
+kurs,noun,course,nautical: direction of movement of a vessel
+kurs,noun,course,intended passage of voyage
 ku,noun,cow,female domesticated ox or other bovine
+ku,noun,cow,any domestic bovine regardless of sex or age
 kultur,noun,culture,"arts, customs and habits"
+kultur,noun,culture,"the beliefs, values, behavior and material objects that constitute a people's way of life"
+pokal,noun,cup,trophy
+cup,noun,cup,contest
+skål,noun,cup,part of bra
 dansa,verb,dance,move rhythmically to music
 dansar,noun,dancer,person who dances
+dansarinne,noun,dancer,a female person who dances
 dans,noun,dancing,activity of dancing
 farefull,adj,dangerous,full of danger
 mørk,adj,dark,having an absolute or relative lack of light
 døkk,adj,dark,having an absolute or relative lack of light
+mørk,adj,dark,"hidden, secret"
+mørk,adj,dark,without moral or spiritual light
+mørk,adj,dark,"not bright or light, deeper in hue"
+dato,noun,date,point of time at which a transaction or event takes place
+dato,noun,date,point in time
 daddel,noun,date,fruit of the date palm
 dotter,noun,daughter,female offspring
+dag,noun,day,period of 24 hours
+døger,noun,day,period from midnight to the following midnight
+døgn,noun,day,period from midnight to the following midnight
 skrivebord,noun,desk,table for writing and reading
 dialog,noun,dialogue,conversation or other discourse between individuals
 samtale,noun,dialogue,conversation or other discourse between individuals
 konversasjon,noun,dialogue,conversation or other discourse between individuals
+dialog,noun,dialogue,verbal part of a literary or dramatic work
+dialog,noun,dialogue,literary form resembling a conversation
 ordbok,noun,dictionary,publication that explains the meanings of an ordered list of words
 leksikon,noun,dictionary,publication that explains the meanings of an ordered list of words
 døy,verb,die,to stop living
+skilnad,noun,difference,characteristic of something that makes it different from something else
+forskjell,noun,difference,characteristic of something that makes it different from something else
+differanse,noun,difference,characteristic of something that makes it different from something else
 forskjellig,adj,different,not the same
 ulik,adj,different,not the same
 annleis,adj,different,not the same
+annleis,adj,different,unlike most others
 middag,noun,dinner,evening meal
 skitten,adj,dirty,covered with or containing dirt
 ureinsleg,adj,dirty,covered with or containing dirt
@@ -144,21 +228,42 @@ diskutere,verb,discuss,to converse or debate concerning a particular topic
 diskutera,verb,discuss,to converse or debate concerning a particular topic
 drøfte,verb,discuss,to converse or debate concerning a particular topic
 drøfta,verb,discuss,to converse or debate concerning a particular topic
+rett,noun,dish,specific type of food
+matrett,noun,dish,specific type of food
+gjere,verb,do,referring to an earlier verb (pro-verb)
+gjera,verb,do,referring to an earlier verb (pro-verb)
+gjere,verb,do,"perform, execute"
+utføre,verb,do,"perform, execute"
 hund,noun,dog,animal
 bikkje,noun,dog,animal
 dør,noun,door,"portal of entry into a building, room or vehicle"
+loddrett,adv,down,in crosswords
 teikne,verb,draw,to produce a picture
 køyra,verb,drive,to operate (a wheeled motorized vehicle)
 køyre,verb,drive,to operate (a wheeled motorized vehicle)
+førar,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
+sjåfør,noun,driver,"person who drives a motorized vehicle, such as a car or a bus"
 per stykk,adv,each,apiece
 øyra,noun,ear,organ of hearing
 øyre,noun,ear,organ of hearing
 eta,verb,eat,"to ingest — see also consume, ingest"
 ete,verb,eat,"to ingest — see also consume, ingest"
 egg,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+egg,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 euro,noun,euro,currency unit of the European Monetary Union
+sjølv,adv,even,implying extreme example
+endåtil,adv,even,implying extreme example
+jamvel,adv,even,implying extreme example
+til og med,adv,even,implying extreme example
+endå,adv,even,emphasising comparative
+enda,adv,even,emphasising comparative
+aftan,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+eftan,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+kveld,noun,evening,time of day between the approximate time of midwinter dusk and midnight
+arrangement,noun,event,prearranged social activity
 støtt,adv,ever,always
 stadig,adv,ever,always
+nokosinne,adv,ever,at any time
 eksempel,noun,example,something representative of a group
 døme,noun,example,something representative of a group
 spennande,adj,exciting,causing excitement
@@ -166,19 +271,42 @@ spanande,adj,exciting,causing excitement
 dyr,adj,expensive,having a high price or cost
 auge,noun,eye,organ
 auga,noun,eye,organ
+auge,noun,eye,hole in needle
+auga,noun,eye,hole in needle
+auge,noun,eye,of a hurricane
+auga,noun,eye,of a hurricane
+auge,noun,eye,ability to notice what others might miss
+auga,noun,eye,ability to notice what others might miss
 andlet,noun,face,anatomy: front part of head
 gard,noun,farm,place where agricultural activities take place
 bonde,noun,farmer,person who works the land and/or who keeps livestock
 gardbrukar,noun,farmer,person who works the land and/or who keeps livestock
+fader,noun,father,term of address for a priest
 følelse,noun,feeling,sensation
+følelse,noun,feeling,emotion; impression
+følelsar,noun,feeling,in plural: emotional state or well-being
+følelsar,noun,feeling,in plural: emotional attraction or desire
+følelse,noun,feeling,intuition
 festival,noun,festival,event or community gathering
 finna,verb,find,"encounter, locate, discover"
 finne,verb,find,"encounter, locate, discover"
+finna,verb,find,point out
+finne,verb,find,point out
+finna,verb,find,decide that
+finne,verb,find,decide that
+finna,verb,find,"determine, judge"
+finne,verb,find,"determine, judge"
 eld,noun,fire,oxidation reaction
+eld,noun,fire,alchemy: one of the basic elements
+omn,noun,fire,heater or stove used in place of real fire
+eld,noun,fire,in-flight bullets
 først,adv,first,before anything else
 fyrst,adv,first,before anything else
 fisk,noun,fish,vertebrate animal
 flyging,noun,flight,act of flying
+flyging,noun,flight,instance of flying
+flyreise,noun,flight,journey made by an aircraft
+flytur,noun,flight,journey made by an aircraft
 golv,noun,floor,bottom part of a room
 blom,noun,flower,reproductive structure in angiosperms
 blome,noun,flower,reproductive structure in angiosperms
@@ -186,56 +314,110 @@ blomster,noun,flower,reproductive structure in angiosperms
 fly,verb,fly,to travel through air
 flyge,verb,fly,to travel through air
 fot,noun,foot,part of human body
+fot,noun,foot,unit of measure
 fotball,noun,football,association football
+fotball,noun,football,ball
+fotball,noun,football,practise of any of these games
 gløyma,verb,forget,to lose remembrance of
+gløyma,verb,forget,to cease remembering
 venleg,adj,friendly,"approachable, warm"
 vennleg,adj,friendly,"approachable, warm"
+venleg,adj,friendly,characteristic of friendliness
+vennleg,adj,friendly,characteristic of friendliness
 frukt,noun,fruit,part of plant
+frukt,noun,fruit,food
+alde,noun,fruit,food
+frukt,noun,fruit,figuratively: positive end result or reward of labour or effort
 full,adj,full,containing the maximum possible amount
 framtid,noun,future,the time ahead
+vilt,noun,game,wild animals hunted for food
 hage,noun,garden,piece of land outside with flowers and plants
+hageanlegg,noun,garden,gardens with public access
 geografi,noun,geography,study of physical structure and inhabitants of the Earth
 landkunne,noun,geography,study of physical structure and inhabitants of the Earth
 jente,noun,girl,young female person
 jenta,noun,girl,young female person
+dame,noun,girl,woman — see also woman
+jente,noun,girl,woman — see also woman
 kjærast,noun,girlfriend,a female partner in a romantic relationship
 kjæraste,noun,girlfriend,a female partner in a romantic relationship
+veninne,noun,girlfriend,a female friend
+venninne,noun,girlfriend,a female friend
 gjeva,verb,give,transfer the possession of something to someone else
 glas,noun,glass,substance
+glas,noun,glass,drinking vessel
 fara,verb,go,to move through space (especially from one place to another)
 god,adj,good,acting in the interest of good; ethical good intentions
+god,adj,good,useful for a particular purpose
+god,adj,good,"of food, edible; not stale or rotten"
+god,adj,good,"of food, having a particularly pleasant taste"
+sunn,adj,good,healthful
+god,adj,good,pleasant; enjoyable
+god,adj,good,"of people, competent or talented"
+flink,adj,good,"of people, competent or talented"
+dyktig,adj,good,"of people, competent or talented"
 bestefar,noun,grandfather,grandfather (from either side)
 bestemor,noun,grandmother,mother of someone's parent
 mormor,noun,grandmother,mother of someone's parent
 farmor,noun,grandmother,mother of someone's parent
 besteforelder,noun,grandparent,parent of one's parent
+kjempebra,adj,great,very good
 gruppe,noun,group,number of things or persons being in some relation to each other
 gitar,noun,guitar,musical instrument
 treningssenter,noun,gym,sporting facility specialized for lifting weights and exercise
+gym,noun,gym,physical education class
+kroppsøving,noun,gym,physical education class
 hårstrå,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+hår,noun,hair,mass of such filaments on the human head
+hår,noun,hair,mass of such filaments growing from the skin of humans and animals
 halvdel,noun,half,one of two equal parts into which anything may be divided
 hand,noun,hand,part of the fore limb
+visar,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+fornøgd,adj,happy,content (to do something); having no objection (to something)
 hatt,noun,hat,a head covering
+ha,verb,have,auxiliary used in forming the perfect and the past perfect tenses
 hovud,noun,head,part of the body
 helse,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
+helse,noun,health,physical condition
 høyra,verb,hear,to perceive with the ear
 hjelp,noun,help,action given to provide assistance
+hjelp,noun,help,person or persons who provides assistance with some task
 historie,noun,history,aggregate of past events
+historie,noun,history,branch of knowledge that studies the past
+historikk,noun,history,set of events involving an entity
+historie,noun,history,record or narrative description of past events
+historikk,noun,history,record or narrative description of past events
+historikk,noun,history,computing: record of previous user events
 hobby,noun,hobby,activity done for enjoyment in spare time
 heime,adv,home,at home
+heim,adv,home,homewards
+heimover,adv,home,homewards
 håpa,verb,hope,"to want something to happen, with expectation that it might"
 hest,noun,horse,members of the species Equus ferus
 sjukehus,noun,hospital,large medical facility
 hotell,noun,hotel,establishment providing accommodation
 time,noun,hour,time period of sixty minutes
 hus,noun,house,human abode
+hus,noun,house,archetypal structure of a human abode
+hus,noun,house,debating chamber for government politicians
+hus,noun,house,"the inner workings, as of a clock"
+hus,noun,house,"dynasty, familiar descendance"
 kor,adv,how,to what degree
+korleis,adv,how,in what manner
+korso,adv,how,in what manner
+så,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+[ so ],adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 svolten,adj,hungry,affected by hunger; desirous of food
 hungrig,adj,hungry,affected by hunger; desirous of food
+hungrig,adj,hungry,"eager, having a desire for something"
 ektemann,noun,husband,male partner in marriage
 mann,noun,husband,male partner in marriage
 husbond,noun,husband,male partner in marriage
 is,noun,ice,water in frozen form
+is,noun,ice,frozen volatile chemical
+is,noun,ice,frozen dessert
+iskrem,noun,ice,frozen dessert
+is,noun,ice,ice hockey: area where game is played
 iskrem,noun,ice cream,dessert
 is,noun,ice cream,dessert
 betra,verb,improve,to make something better
@@ -243,16 +425,30 @@ interessere,verb,interest,to attract attention or concern
 interessera,verb,interest,to attract attention or concern
 interessant,adj,interesting,arousing or holding the attention
 øy,noun,island,area of land completely surrounded by water
+øy,noun,island,entity surrounded by other entities that are very different from itself
 jakke,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
+jakke,noun,jacket,piece of a person's suit
+saft,noun,juice,liquid resembling juice
 berre,adv,just,"only, simply, merely"
+nettopp,adv,just,"recently, moments ago"
+nettopp,adv,just,"exactly, precisely, perfectly"
 kjøken,noun,kitchen,room
 kjøkken,noun,kitchen,room
 språk,noun,language,body of words used as a form of communication
 talemål,noun,language,body of words used as a form of communication
 tunge,noun,language,body of words used as a form of communication
 tungemål,noun,language,body of words used as a form of communication
+taleeve,noun,language,the ability to communicate using words
+språk,noun,language,nonverbal communication
+språk,noun,language,vocabulary of a particular field
+terminologi,noun,language,vocabulary of a particular field
+språk,noun,language,particular words used
 bein,noun,leg,lower limb from groin to ankle
+legg,noun,leg,portion of the lower appendage from knee to ankle
+lekse,noun,lesson,learning task assigned to a student
+lærepenge,noun,lesson,something that serves as a warning or encouragement
 bokstav,noun,letter,a symbol in an alphabet
+brev,noun,letter,written message
 bibliotek,noun,library,"institution which holds books, etc."
 lyga,verb,lie,tell an intentional untruth
 ljuga,verb,lie,tell an intentional untruth
@@ -260,26 +456,45 @@ ljuge,verb,lie,tell an intentional untruth
 liggja,verb,lie,be in horizontal position
 liggje,verb,lie,be in horizontal position
 liv,noun,life,the state of being alive
+liv,noun,life,the essence of the manifestation and the foundation of the being
+liv,noun,life,the subjective and inner manifestation of the individual
+liv,noun,life,a worthwhile existence
 løve,noun,lion,big cat Panthera leo
 løvinne,noun,lion,big cat Panthera leo
+løve,noun,lion,heraldic charge
 liste,verb,list,to create or recite a list
+høyra,verb,listen,to hear (something)
 leva,verb,live,be alive
+bu,verb,live,have permanent residence
 lita,verb,look,to try to see
 maskin,noun,machine,mechanical or electrical device
 tidsskrift,noun,magazine,periodical
 magasin,noun,magazine,periodical
 mann,noun,man,adult male human
+menneske,noun,man,a human being
+brikke,noun,man,piece in board games
+sjakkbrikke,noun,man,piece in board games
 kart,noun,map,visual representation of an area
+marknad,noun,market,spacious site for trading
 kanskje,adv,maybe,indicating a lack of certainty
 kan henda,adv,maybe,indicating a lack of certainty
 må henda,adv,maybe,indicating a lack of certainty
 måltid,noun,meal,food that is prepared and eaten
+innebere,verb,mean,"to convey, indicate"
+tyda,verb,mean,"to convey, indicate"
 kjøt,noun,meat,animal flesh used as food
 kjøtt,noun,meat,animal flesh used as food
+kjøt,noun,meat,type of meat
+kjøt,noun,meat,any sort of flesh
 møte,verb,meet,to come face to face with by accident; to encounter
+møte,verb,meet,to come face to face with someone by arrangement
+møte,verb,meet,to gather for a formal or social discussion; to hold a meeting
+møte,verb,meet,sport: to play a match
+møte,noun,meeting,gathering for a purpose
 medlem,noun,member,one who officially belongs to a group
 bodskap,noun,message,"communication, concept or information conveyed"
 melding,noun,message,"communication, concept or information conveyed"
+midnatt,noun,midnight,12 o'clock at night exactly — see also twelve o'clock
 mjølk,noun,milk,liquid
 minutt,noun,minute,unit of time
 modell,noun,model,person
@@ -290,50 +505,105 @@ augneblikk,noun,moment,very brief period of time
 augeblink,noun,moment,very brief period of time
 augneblink,noun,moment,very brief period of time
 augneblunk,noun,moment,very brief period of time
+tidspunkt,noun,moment,moment in time
+augeblikk,noun,moment,moment in time
+augeblink,noun,moment,moment in time
 pengar,noun,money,means of exchange and measure of value
 månad,noun,month,period into which a year is divided
 morgon,noun,morning,part of the day between dawn and midday
 formiddag,noun,morning,part of the day between dawn and midday
+morgon,noun,morning,the part of the day after midnight and before midday
 mor,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+mor,noun,mother,one’s female parent
 fjell,noun,mountain,large mass of earth and rock
 berg,noun,mountain,large mass of earth and rock
 mus,noun,mouse,rodent of the genus Mus
+mus,noun,mouse,computing: input device
+datamus,noun,mouse,computing: input device
 munn,noun,mouth,the opening of a creature through which food is ingested
+munning,noun,mouth,the end of a river out of which water flows
+flytta,verb,move,to change residence
+flytta,verb,move,(transitive) to change the place of something
+flytta,verb,move,to transfer from one space or position to another
 film,noun,movie,motion picture
 museum,noun,museum,building or institution
+naturlig,adj,natural,of or relating to nature
+naturlig,adj,natural,without additives
+normal,adj,natural,as expected
 aldri,adv,never,at no time
 nyheit,noun,news,new information of interest
 nyhende,noun,news,new information of interest
 nytt,noun,news,new information of interest
 tidend,noun,news,new information of interest
 nyhending,noun,news,new information of interest
+nyheiter,noun,news,reports of current events
+nyhende,noun,news,reports of current events
 avis,noun,newspaper,publication
 natt,noun,night,period between sunset and sunrise
+kveld,noun,night,evening or night spent at a particular activity
+aftan,noun,night,evening or night spent at a particular activity
+overnatting,noun,night,night spent away from home
+nattesøvn,noun,night,quality of sleep obtained during a night
+nattesvevn,noun,night,quality of sleep obtained during a night
+skumring,noun,night,nightfall
+mørker,noun,night,darkness
 nase,noun,nose,protuberance on the face
+snute,noun,nose,"snout, nose of an animal"
+mule,noun,nose,"snout, nose of an animal"
+tryne,noun,nose,"snout, nose of an animal"
+naseparti,noun,nose,tip of an object
+mulelengd,noun,nose,length of a horse’s nose
+nase,noun,nose,skill in recognising bouquet
 ikkje,adv,not,negates meaning of another word
 ei,adv,not,negates meaning of another word
 no,adv,now,at the present time
 nå,adv,now,at the present time
 tal,noun,number,abstract entity used to describe quantity
+tal,noun,number,numeral
+tal,noun,number,mathematics: number
+nummer,noun,number,used to show the rank of something in a list or sequence
 sjukepleiar,noun,nurse,person trained to provide care for the sick
 verdshav,noun,ocean,one of the large bodies of water
 osean,noun,ocean,one of the large bodies of water
+kontor,noun,office,room(s) or building used for non-manual work
+byrå,noun,office,room(s) or building used for non-manual work
 gamal,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 gammal,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+gamal,adj,old,of a living being: having lived for relatively many years
+gammal,adj,old,of a living being: having lived for relatively many years
+gamal,adj,old,having existed or lived for the specified time
+gammal,adj,old,having existed or lived for the specified time
 på,adv,on,to an operating state
 éin gong,adv,once,one and only one time
+eingong,adv,once,formerly
 lauk,noun,onion,Allium cepa
+lauk,noun,onion,bulb
+befale,verb,order,to issue a command
+beordre,verb,order,to issue a command
 utanfor,adv,outside,in or to the outside
 utafor,adv,outside,in or to the outside
+utandørs,adv,outside,outdoors
+utafor,adv,outside,outdoors
 side,noun,page,one side of a leaf of a book
 sida,noun,page,one side of a leaf of a book
 måleri,noun,painting,an illustration or artwork using paint
+målarkunst,noun,painting,artistic application of paint
 bukse,noun,pants,garment covering the body from the waist downwards
 papir,noun,paper,sheet material
 avsnitt,noun,paragraph,passage in text
 forelder,noun,parent,person from whom one is descended
 partnar,noun,partner,someone who is associated with another in a common activity or interest
+partnar,noun,partner,a member of a business or law partnership
+partnar,noun,partner,"spouse, domestic, or romantic partner"
+partnar,noun,partner,dancing partner
+partnar,noun,partner,either member of a pair in a card game or sports team (1.4)
+fest,noun,party,social gathering
+party,noun,party,social gathering
 fortid,noun,past,period of time that has already happened
+preteritum,noun,past,(grammar) past tense
+datid,noun,past,(grammar) past tense
+løne seg,verb,pay,to be profitable
+lønne seg,verb,pay,to be profitable
 hosvane,noun,pen,female swan
 penn,noun,pen,writing tool
 innhegning,noun,pen,enclosure (enclosed area) for animals
@@ -342,19 +612,32 @@ kve,noun,pen,enclosure (enclosed area) for animals
 blyant,noun,pencil,graphite writing-instrument
 person,noun,person,individual
 menneske,noun,person,individual
+person,noun,person,"specifically a human being — see also human, human being, man"
+person,noun,person,the physical body seen as distinct from the mind
+person,noun,person,any individual or formal organization with standing before the courts
+person,noun,person,grammar: linguistic category
+personleg,adj,personal,of or pertaining to a particular person
 frase,noun,phrase,short written or spoken expression
+frase,noun,phrase,grammar: group of two or more words that express an idea but do not form a complete sentence
+frase,noun,phrase,music: small section of music in a larger piece
 bilete,noun,picture,"representation of visible reality produced by drawing, etc"
 stykke,noun,piece,part of a larger whole
 svin,noun,pig,mammal of genus Sus
 gris,noun,pig,mammal of genus Sus
 rosa,noun,pink,pale red colour
+nellik,noun,pink,flower
 platan,noun,plane,deciduous tree
 spel,noun,play,playful activity
+skodespel,noun,play,literary composition intended to be represented
+skodespel,noun,play,theatrical performance
+odde,noun,point,peninsula or promontory
 politi,noun,police,local or general law enforcement agency
 folkeleg,adj,popular,of or pertaining to the common people
+populær,adj,popular,liked by many people
 potet,noun,potato,plant tuber eaten as starchy vegetable
 jordeple,noun,potato,plant tuber eaten as starchy vegetable
 pund,noun,pound,unit of mass (16 ounces avoirdupois)
+pund,noun,pound,unit of currency
 førebu,verb,prepare,to make ready for a specific future purpose
 problem,noun,problem,difficulty
 produkt,noun,product,commodity for sale
@@ -366,74 +649,129 @@ stilla,verb,put,to place something somewhere
 plassere,verb,put,to place something somewhere
 firedel,noun,quarter,one of four equal parts — see also one-fourth
 fjerdedel,noun,quarter,one of four equal parts — see also one-fourth
+kvartal,noun,quarter,period of three months
 spørsmål,noun,question,"sentence, phrase or word"
 stille,adj,quiet,with little sound
+stille,adj,quiet,not talking
 radio,noun,radio,technology
+radio,noun,radio,receiver
+radio,noun,radio,transmitter
 lesa,verb,read,to look at and interpret letters or other information
+lesa,verb,read,to speak aloud words or other information that is written
+lesa,verb,read,"to interpret or infer a meaning, significance, thought, intention, etc. from"
 lesar,noun,reader,person who reads a publication
 lesing,noun,reading,process of interpreting written language
 restaurant,noun,restaurant,an eating establishment in which diners are served food
 resultat,noun,result,that which results
 utfall,noun,result,that which results
 retur,noun,return,act of returning
+avkastning,noun,return,finance: gain or loss from an investment
 ris,noun,rice,plants
+ris,noun,rice,seeds used as food
 rik,adj,rich,having wealth
 ri,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
+kjøyre,verb,ride,to be transported in a vehicle as a passenger
+rett,noun,right,legal or moral entitlement
+riktigheit,noun,right,legal or moral entitlement
+høgre sida,noun,right,"right, not left, side"
 veg,noun,road,a way for travel
 rutine,noun,routine,course of action to be followed regularly; a standard procedure
+rutine,noun,routine,"set of normal procedures, often performed mechanically"
 regel,noun,rule,regulation
+køyra,verb,run,"to execute or carry out a plan, procedure or program"
 salatrett,noun,salad,food
 salt,noun,salt,sodium chloride
+salt,noun,salt,compound of an acid and a base
 sandwich,noun,sandwich,dish — see also open sandwich
 smørbrød,noun,sandwich,dish — see also open sandwich
+seia,verb,say,to pronounce
+seie,verb,say,to pronounce
+seia,verb,say,to communicate verbally or in writing
+seie,verb,say,to communicate verbally or in writing
+seia,verb,say,to indicate in a written form
+seie,verb,say,to indicate in a written form
 stim,noun,school,a group of fish
 flokk,noun,school,a group of fish
 skule,noun,school,an institution dedicated to teaching and learning
 skole,noun,school,an institution dedicated to teaching and learning
 vitskap,noun,science,collective discipline of learning acquired through the scientific method
+vitskap,noun,science,particular discipline or branch of learning
 forskar,noun,scientist,one whose activities make use of the scientific method
 vitskapsmann,noun,scientist,one whose activities make use of the scientific method
 vitskapskvinne,noun,scientist,one whose activities make use of the scientific method
 sekund,noun,second,one-sixtieth of a minute; SI unit of time
+sekund,noun,second,unit of angular measure
+bogesekund,noun,second,unit of angular measure
+sekund,noun,second,"short, indeterminate amount of time"
+augeblink,noun,second,"short, indeterminate amount of time"
+augneblink,noun,second,"short, indeterminate amount of time"
+sekund,noun,second,music: interval between two adjacent notes
+seksjon,noun,section,"part, piece or subdivision of anything"
 sjå,verb,see,perceive with the eyes
 skjorte,noun,shirt,article of clothing
 sko,noun,shoe,protective covering for the foot
 kort,adj,short,having a small distance between ends or edges
 regnskur,noun,shower,brief fall of rain
 skur,noun,shower,brief fall of rain
+dusj,noun,shower,device for bathing
+styrt,noun,shower,device for bathing
+dusj,noun,shower,instance of using of this device
+styrt,noun,shower,instance of using of this device
+regn,noun,shower,quantity of something that has characteristics of a rain shower
 liknande,adj,similar,"having traits or characteristics in common; alike, comparable"
 syngja,verb,sing,to produce harmonious sounds with one’s voice
 songar,noun,singer,person who sings (male or generic term)
+songarinne,noun,singer,female person who sings
 søster,noun,sister,woman or girl having the same parents
 syster,noun,sister,woman or girl having the same parents
 stakk,noun,skirt,article of clothing
 skjørt,noun,skirt,article of clothing
 dos,noun,skirt,article of clothing
 sova,verb,sleep,to rest in state of reduced consciousness
+liten,adj,small,"minuscule or lowercase, referring to written letters"
+flott,adj,smart,good-looking
 slange,noun,snake,legless reptile
 snø,verb,snow,have snow fall from the atmosphere
 snøe,verb,snow,have snow fall from the atmosphere
 son,noun,son,a male person in relation to his parents
 song,noun,song,music with words
 suppe,noun,soup,dish
+verdsrom,noun,space,area beyond atmosphere of planets
+plass,noun,space,bounded or specific physical extent
 snakka,verb,speak,to communicate with one's voice using words
 tala,verb,speak,to communicate with one's voice using words
 spesiell,adj,special,distinguished by a unique or unusual quality
 spesial,adj,special,distinguished by a unique or unusual quality
 stava,verb,spell,to write or say the letters that form a word
+stavemåte,noun,spelling,manner of spelling of words; correct spelling
 idrett,noun,sport,any athletic activity that uses physical skills
 sport,noun,sport,any athletic activity that uses physical skills
 vår,noun,spring,season between winter and summer in temperate climates
+fjør,noun,spring,device made of flexible material
 stjerne,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+stjerne,noun,star,celebrity
+stjerne,noun,star,quality rating symbol
 stasjon,noun,station,place where a vehicle may stop
+enno,adv,still,"up to a time, as in the preceding time"
+ennå,adv,still,"up to a time, as in the preceding time"
+framleis,adv,still,"up to a time, as in the preceding time"
+endå,adv,still,to an even greater degree
+enda,adv,still,to an even greater degree
 stoppestad,noun,stop,place to get on and off mass transport
 gate,noun,street,paved part of road in a village or a town
 student,noun,student,person who studies a subject
+student,noun,student,person enrolled at a university — see also university student
+fag,noun,subject,particular area of study
+undersått,noun,subject,citizen in a monarchy
+undersått,noun,subject,"person ruled over by another, especially a monarch or state authority"
 suksess,noun,success,achievement of one's aim or goal
+suksess,noun,success,person who achieves his or her goals
 sukker,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
+sukker,noun,sugar,any of a series of carbohydrates used by organisms to store energy
 sumar,noun,summer,hottest season
 sommar,noun,summer,hottest season
 supermarknad,noun,supermarket,store
+genser,noun,sweater,similar garment worn for warmth
 symja,verb,swim,move through water
 symje,verb,swim,move through water
 svømma,verb,swim,move through water
@@ -442,46 +780,82 @@ bord,noun,table,item of furniture
 ta,verb,take,to get into one's hands or control
 taka,verb,take,to get into one's hands or control
 gripa,verb,take,to get into one's hands or control
+taka,verb,take,to receive or accept
+taka imot,verb,take,to receive or accept
 drosje,noun,taxi,vehicle available for public hire
 taxi,noun,taxi,vehicle available for public hire
 taksi,noun,taxi,vehicle available for public hire
 te,noun,tea,dried leaves of tea plant
+te,noun,tea,drink made from leaves of tea plant
 lærar,noun,teacher,person who teaches
+lærarinne,noun,teacher,woman who teaches
 spann,noun,team,set of draught animals
+lag,noun,team,group of people
+team,noun,team,group of people
 tenåring,noun,teenager,person aged between thirteen and nineteen
+fjernsyn,noun,television,device for receiving television signals
+TV,noun,television,device for receiving television signals
+fjernsynsapparat,noun,television,device for receiving television signals
 tennis,noun,tennis,sport played by two or four players with strung racquets
 tekst,noun,text,a written passage
 teater,noun,theater,place or building
 ting,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 tenkja,verb,think,"to ponder, to go over in one's head"
+tenkja,verb,think,communicate to oneself in one’s mind
+synast,verb,think,be of the opinion that
+tykkje,verb,think,be of the opinion that
+meine,verb,think,be of the opinion that
+tru,verb,think,"guess, reckon"
+anta,verb,think,"guess, reckon"
 tørst,adj,thirsty,needing to drink
 billett,noun,ticket,admission to entertainment
+billett,noun,ticket,pass for transportation
+tid,noun,time,measurement under some system of the time of day or moment in time
+gong,noun,time,instance or occurrence
 trøytt,adj,tired,in need of rest or sleep
 tittel,noun,title,prefix or suffix added to a name
+tittel,noun,title,"name of a book, etc"
+tittel,noun,title,subject of a writing
 i dag,noun,today,today (noun)
 saman,adv,together,"at the same time, in the same place"
+saman,adv,together,into one place
 pynting,noun,toilet,personal grooming
+omkledingsrom,noun,toilet,dressing room
+toalett,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+do,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+WC,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+klosett,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+toalett,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+vassklosett,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 tomatplante,noun,tomato,tomato plant
 tomat,noun,tomato,tomato plant
+tomat,noun,tomato,fruit
 òg,adv,too,likewise
 også,adv,too,likewise
 med,adv,too,likewise
 tann,noun,tooth,anatomy: tooth
+tann,noun,tooth,saw tooth
 emne,noun,topic,subject; theme
 tema,noun,topic,subject; theme
 by,noun,town,settlement
 trafikk,noun,traffic,pedestrians or vehicles on roads or on the air
 ferdsel,noun,traffic,pedestrians or vehicles on roads or on the air
+tog,noun,train,line of connected cars or carriages
 tre,noun,tree,large woody plant
+lastebil,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
 type,noun,type,grouping based on shared characteristics
 paraply,noun,umbrella,cloth-covered frame used for protection against rain or sun
 universitet,noun,university,institution of higher education
 bruka,verb,use,"employ, apply"
 tenleg,adj,useful,having a practical or beneficial use
+ferie,noun,vacation,period of leisure time
 grønsak,noun,vegetable,a plant raised for some edible part of it
+grønsak,noun,vegetable,edible part of such a plant
+grønnsak,noun,vegetable,a person whose brain has been damaged
 veldig,adv,very,to a high degree
 ovleg,adv,very,to a high degree
 video,noun,video,"television show, movie"
+video,noun,video,film clip
 besøk,noun,visit,single act of visiting
 visitt,noun,visit,single act of visiting
 anløp,noun,visit,single act of visiting
@@ -492,6 +866,8 @@ kelner,noun,waiter,a server in a restaurant or similar
 vakna,verb,wake,to stop sleeping
 gåtur,noun,walk,trip made by walking
 spasertur,noun,walk,trip made by walking
+mur,noun,wall,structure built for defense surrounding an area
+vegg,noun,wall,substantial structure acting as side or division in a building
 vatn,noun,water,inorganic compound H₂O
 veg,noun,way,"road, direction, path"
 ha på seg,verb,wear,to have on (clothes or accessories)
@@ -507,6 +883,11 @@ velkomen,adj,welcome,whose arrival is a cause of joy
 velkommen,adj,welcome,whose arrival is a cause of joy
 kor,adv,where,at what place; to what place; from what place
 kvar,adv,where,at what place; to what place; from what place
+kor,adv,where,at or in which place
+kvar,adv,where,at or in which place
+kor,adv,where,the place in which
+kvar,adv,where,the place in which
+der,adv,where,the place in which
 kvit,noun,white,color
 korfor,adv,why,for what reason
 kvifor,adv,why,for what reason
@@ -515,6 +896,10 @@ kone,noun,wife,female partner in a marriage
 frue,noun,wife,female partner in a marriage
 vindauge,noun,window,opening for light and air
 vindauga,noun,window,opening for light and air
+vindauge,noun,window,period of time
+vindauge,noun,window,period of time
+vindauge,noun,window,area on a computer screen
+vindauga,noun,window,area on a computer screen
 vin,noun,wine,alcoholic beverage made from grapes
 vinter,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 kvinne,noun,woman,adult female person
@@ -528,7 +913,12 @@ arbeidar,noun,worker,person who performs labor
 arbeidsmann,noun,worker,person who performs labor
 verd,noun,world,human collective existence
 heim,noun,world,human collective existence
+verd,noun,world,the Earth
+klode,noun,world,the Earth
 skriva,verb,write,"to form letters, etc."
+skriva,verb,write,to send a letter to
+skriva,verb,write,to be the author of
+skriva,verb,write,to be an author
 skrift,noun,writing,written letters or symbols
 feil,adj,wrong,incorrect
 år,noun,year,time it takes for the Earth to complete one revolution around the Sun

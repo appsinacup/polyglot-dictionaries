@@ -11,8 +11,19 @@ word,part_of_speech,english_word,sense
 йишу,noun,art,human effort
 藝術 /艺术,noun,art,human effort
 藝術 /艺术,noun,art,human effort
+藝術 /艺术,noun,art,conscious production or arrangement
+藝術 /艺术,noun,art,skillful creative activity
+藝術 /艺术,noun,art,study
+藝術 /艺术,noun,art,aesthetic value
+藝術 /艺术,noun,art,artwork
+藝術 /艺术,noun,art,field or category of art
+藝術 /艺术,noun,art,nonscientific branch of learning
+藝術 /艺术,noun,art,skill
+技術 /技术,noun,art,skill
 問 /问,verb,ask,request an answer
 詢問 /询问,verb,ask,request an answer
+請 /请,verb,ask,make a request
+請求 /请求,verb,ask,make a request
 вава,noun,baby,very young human being
 ва,noun,baby,very young human being
 щёхэр,noun,baby,very young human being
@@ -24,26 +35,67 @@ word,part_of_speech,english_word,sense
 嬰幼兒 /婴幼儿,noun,baby,very young human being
 嬰孩 /婴孩,noun,baby,very young human being
 嬰 /婴,noun,baby,very young human being
+崽,noun,baby,young animal
+毛毛,noun,baby,young animal
+小崽子,noun,baby,young animal
+寶貝 /宝贝,noun,baby,term of endearment — see also darling
+小寶寶 /小宝宝,noun,baby,term of endearment — see also darling
+寵兒 /宠儿,noun,baby,term of endearment — see also darling
+心肝,noun,baby,term of endearment — see also darling
+親愛的 /亲爱的,noun,baby,form of address to a man or a woman considered to be attractive
 向後 /向后,adv,back,to or in a previous condition or place
 後 /后,adv,back,to or in a previous condition or place
+後面的 /后面的,adv,back,away from the front or from an edge
 壞 /坏,adj,bad,unfavorable; negative
 不好,adj,bad,unfavorable; negative
+不恰當 /不恰当,adj,bad,not suitable or fitting
+不合適 /不合适,adj,bad,not suitable or fitting
+不恰當 /不恰当,adj,bad,"not appropriate, of manners etc."
+不合適 /不合适,adj,bad,"not appropriate, of manners etc."
+困難 /困难,adj,bad,tricky; stressful; unpleasant
+麻煩 /麻烦,adj,bad,tricky; stressful; unpleasant
+邪惡 /邪恶,adj,bad,"evil, wicked"
+有毛病的,adj,bad,faulty; not functional
+壞 /坏,adj,bad,faulty; not functional
+故障,adj,bad,faulty; not functional
+臭,adj,bad,of breath: malodorous
+果敢,adj,bad,bold and daring
+嚴重 /严重,adj,bad,severe; urgent
+緊急 /紧急,adj,bad,severe; urgent
 бозы,noun,bag,flexible container
 袋仔,noun,bag,flexible container
 橐仔,noun,bag,flexible container
 包,noun,bag,flexible container
 袋,noun,bag,flexible container
+包,noun,bag,"general term for a container made of leather, plastic, or other material"
+醜八怪 /丑八怪,noun,bag,ugly woman
+醜姑娘 /丑姑娘,noun,bag,ugly woman
 舞會 /舞会,noun,ball,formal dance
 球,noun,ball,solid or hollow sphere
+пидан,noun,ball,"object, generally spherical, used for playing games"
+модан,noun,ball,"object, generally spherical, used for playing games"
+данзы,noun,ball,"object, generally spherical, used for playing games"
+йүанданзы,noun,ball,"object, generally spherical, used for playing games"
+球,noun,ball,"object, generally spherical, used for playing games"
+毛球,noun,ball,"quantity of string, thread, etc., wound into a spherical shape"
+壞球 /坏球,noun,ball,baseball: a pitch that falls outside the strike zone
+球體 /球体,noun,ball,mathematics: set of points in a metric space lying within a given distance of a given point
+睾丸,noun,ball,testicle — see also testicle
+蛋,noun,ball,testicle — see also testicle
 щёнҗё,noun,banana,fruit
 баҗё,noun,banana,fruit
 弓蕉 /芎蕉,noun,banana,fruit
 金蕉,noun,banana,fruit
 香蕉,noun,banana,fruit
+香蕉樹 /香蕉树,noun,banana,plant
+香蕉顏色 /香蕉颜色,noun,banana,color
+香蕉色,noun,banana,color
+香蕉人,noun,banana,pejorative: person of Asian descent
 岸,noun,bank,edge of river or lake
 йинхон,noun,bank,institution
 銀行 /银行,noun,bank,institution
 銀行 /银行,noun,bank,institution
+銀行 /银行,noun,bank,branch office
 ячуон,noun,bed,piece of furniture
 床,noun,bed,piece of furniture
 眠床,noun,bed,piece of furniture
@@ -52,6 +104,9 @@ word,part_of_speech,english_word,sense
 床鋪 /床铺,noun,bed,piece of furniture
 睡鋪 /睡铺,noun,bed,piece of furniture
 臥榻 /卧榻,noun,bed,piece of furniture
+河床,noun,bed,the bottom of a lake or other body of water
+河槽,noun,bed,the bottom of a lake or other body of water
+礦床 /矿床,noun,bed,"deposit of ore, coal etc."
 пиҗю,noun,beer,alcoholic drink made of malt
 пиво,noun,beer,alcoholic drink made of malt
 麥仔酒 /麦仔酒,noun,beer,alcoholic drink made of malt
@@ -76,6 +131,8 @@ bì-luh,noun,beer,alcoholic drink made of malt
 雀,noun,bird,animal
 烏色 /乌色,noun,black,colour/color
 黑色,noun,black,colour/color
+烏人 /乌人,noun,black,dark-skinned person — see also Negro
+黑人,noun,black,dark-skinned person — see also Negro
 藍色 /蓝色,noun,blue,colour
 чуан,noun,boat,water craft
 船,noun,boat,water craft
@@ -84,10 +141,19 @@ bì-luh,noun,beer,alcoholic drink made of malt
 舟,noun,boat,water craft
 艇,noun,boat,water craft
 身體 /身体,noun,body,physical structure of a human or animal
+身體 /身体,noun,body,fleshly or corporeal nature of a human
+本體 /本体,noun,body,largest or most important part of anything (e.g. car bodywork)
+團體 /团体,noun,body,group having a common purpose or opinion
+機構 /机构,noun,body,"organisation, company or other authoritative group"
+法人,noun,body,"organisation, company or other authoritative group"
+正文,noun,body,collection of knowledge
+物體 /物体,noun,body,any physical object or material thing
+有黏性,noun,body,"comparative viscosity, solidity or substance"
 фу,noun,book,collection of sheets of paper bound together containing printed or written material
 冊 /册,noun,book,collection of sheets of paper bound together containing printed or written material
 書 /书,noun,book,collection of sheets of paper bound together containing printed or written material
 書 /书,noun,book,collection of sheets of paper bound together containing printed or written material
+記錄 /记录,noun,book,record of betting
 пинзы,noun,bottle,container
 矸仔,noun,bottle,container
 瓶子,noun,bottle,container
@@ -100,6 +166,16 @@ bì-luh,noun,beer,alcoholic drink made of malt
 箱,noun,box,cuboid space; container
 盒子,noun,box,cuboid space; container
 匣子,noun,box,cuboid space; container
+一箱,noun,box,as much as fills a box
+箱,noun,box,as much as fills a box
+證人席 /证人席,noun,box,compartment to sit inside
+分隔式雅座,noun,box,compartment to sit inside
+包廂 /包厢,noun,box,compartment to sit inside
+小室,noun,box,small rectangular shelter
+亭,noun,box,small rectangular shelter
+棚,noun,box,small rectangular shelter
+電腦 /电脑,noun,box,"computer, or the case in which it is housed"
+護身 /护身,noun,box,(cricket) hard protector for the genitals
 щёхуәзы,noun,boy,young male
 щёхуәр,noun,boy,young male
 эрвазы,noun,boy,young male
@@ -109,10 +185,14 @@ bì-luh,noun,beer,alcoholic drink made of malt
 少年,noun,boy,young male
 男孩子,noun,boy,young male
 小伙子,noun,boy,young male
+男僕 /男仆,noun,boy,male servant
+男生,noun,boy,"male of any age, used as a friendly diminutive"
+老弟,noun,boy,male friend
 мәмә,noun,bread,baked dough made from cereals
 麵包 /面包,noun,bread,baked dough made from cereals
 麭 /𮮆,noun,bread,baked dough made from cereals
 麵包 /面包,noun,bread,baked dough made from cereals
+麵包 /面包,noun,bread,countable: any variety of bread
 гәгә,noun,brother,male sibling
 щүнди,noun,brother,male sibling
 阿兄,noun,brother,male sibling
@@ -125,6 +205,8 @@ bì-luh,noun,beer,alcoholic drink made of malt
 哥哥,noun,brother,male sibling
 弟弟,noun,brother,male sibling
 兄弟,noun,brother,male sibling
+兄弟,noun,brother,male fellow member of a religious community
+弟兄,noun,brother,male fellow member of a religious community
 牛油,noun,butter,soft foodstuff made from milk
 bá-tah,noun,butter,soft foodstuff made from milk
 黃油 /黄油,noun,butter,soft foodstuff made from milk
@@ -136,7 +218,13 @@ bá-tah,noun,butter,soft foodstuff made from milk
 會 /会,verb,can,to be able to; to know how to
 能,verb,can,to be able to; to know how to
 能夠 /能够,verb,can,to be able to; to know how to
+會使 /会使,verb,can,may
+能,verb,can,may
+可以,verb,can,may
 保存,verb,can,to preserve
+丟棄 /丢弃,verb,can,to discard
+關閉 /关闭,verb,can,to shut up
+解雇,verb,can,to fire or dismiss an employee
 машинэ,noun,car,"automobile, a vehicle steered by a driver"
 чичә,noun,car,"automobile, a vehicle steered by a driver"
 машынэ,noun,car,"automobile, a vehicle steered by a driver"
@@ -146,6 +234,7 @@ bá-tah,noun,butter,soft foodstuff made from milk
 汽車 /汽车,noun,car,"automobile, a vehicle steered by a driver"
 汽車 /汽车,noun,car,"automobile, a vehicle steered by a driver"
 車 /车,noun,car,"automobile, a vehicle steered by a driver"
+吊艙 /吊舱,noun,car,"moving, load-carrying component of an elevator"
 хуонлуәбу,noun,carrot,Daucus carota ssp. sativus
 紅菜頭 /红菜头,noun,carrot,Daucus carota ssp. sativus
 紅蘿蔔 /红萝卜,noun,carrot,Daucus carota ssp. sativus
@@ -171,6 +260,7 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 貓咪 /猫咪,noun,cat,domestic species
 貓 /猫,noun,cat,domestic species
 貓兒 /猫儿,noun,cat,domestic species
+貓 /猫,noun,cat,member of the family Felidae
 йизы,noun,chair,furniture
 椅仔,noun,chair,furniture
 椅子,noun,chair,furniture
@@ -185,10 +275,20 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 起司,noun,cheese,dairy product
 起士,noun,cheese,dairy product
 吉士,noun,cheese,dairy product
+chhì-juh,noun,cheese,countable: any particular variety of cheese
+乾酪 /干酪,noun,cheese,countable: any particular variety of cheese
+乳酪,noun,cheese,countable: any particular variety of cheese
+奶酪,noun,cheese,countable: any particular variety of cheese
+芝士,noun,cheese,countable: any particular variety of cheese
+起司,noun,cheese,countable: any particular variety of cheese
+起士,noun,cheese,countable: any particular variety of cheese
+吉士,noun,cheese,countable: any particular variety of cheese
 җи,noun,chicken,bird
 雞 /鷄 /鸡,noun,chicken,bird
 雞仔 /鷄仔 /鸡仔,noun,chicken,bird
 雞 /鷄 /鸡,noun,chicken,bird
+雞肉 /鷄肉 /鸡肉,noun,chicken,meat
+雞肉 /鷄肉 /鸡肉,noun,chicken,meat
 хэзы,noun,child,son or daughter; someone's child
 щёхэр,noun,child,son or daughter; someone's child
 вава,noun,child,son or daughter; someone's child
@@ -200,7 +300,13 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 孩子,noun,child,son or daughter; someone's child
 小孩兒 /小孩儿,noun,child,son or daughter; someone's child
 孺子,noun,child,son or daughter; someone's child
+囡仔,noun,child,a minor
+小孩,noun,child,a minor
+小孩子,noun,child,a minor
+孩子,noun,child,a minor
+小孩兒 /小孩儿,noun,child,a minor
 打掃 /打扫,verb,clean,(transitive) to remove dirt from a place or object
+整理,verb,clean,(transitive) to tidy up
 җун,noun,clock,instrument to measure or keep track of time
 時鐘 /时钟,noun,clock,instrument to measure or keep track of time
 鐘 /钟,noun,clock,instrument to measure or keep track of time
@@ -210,27 +316,49 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 кофе,noun,coffee,beverage
 咖啡,noun,coffee,beverage
 咖啡,noun,coffee,beverage
+咖啡豆,noun,coffee,beans
+咖啡樹 /咖啡树,noun,coffee,plant
+咖啡色,noun,coffee,colour
 寒冷,noun,cold,low temperature
+感冒,noun,cold,illness
 янсый,noun,color,spectral composition of visible light
 色,noun,color,spectral composition of visible light
 顏色 /颜色,noun,color,spectral composition of visible light
 色,noun,color,spectral composition of visible light
 顏色 /颜色,noun,color,spectral composition of visible light
+色,noun,color,particular set of the visible spectrum
+顏色 /颜色,noun,color,particular set of the visible spectrum
 лэ,verb,come,to move nearer
 來 /来,verb,come,to move nearer
+到,verb,come,"to arrive, to appear"
+起來 /起来,verb,come,to begin to have an opinion or feeling
+射,verb,come,to orgasm
+射精,verb,come,to orgasm
+出水,verb,come,to orgasm
 дянно,noun,computer,programmable electronic device
 電腦 /电脑,noun,computer,programmable electronic device
 計算機 /计算机,noun,computer,programmable electronic device
 電腦 /电脑,noun,computer,programmable electronic device
 計算機 /计算机,noun,computer,programmable electronic device
+計算者 /计算者,noun,computer,person
+計算員 /计算员,noun,computer,person
 做飯 /做饭,verb,cook,to prepare food for eating
 做菜,verb,cook,to prepare food for eating
 烹調 /烹调,verb,cook,to prepare food for eating
 烹飪 /烹饪,verb,cook,to prepare food for eating
 дичү,noun,country,region of land
 地區 /地区,noun,country,region of land
+гоцзя,noun,country,nation state
+國家 /国家,noun,country,nation state
+國家 /国家,noun,country,nation state
+鄉下 /乡下,noun,country,"the country, rural area, as opposed to the town or city"
+農村 /农村,noun,country,"the country, rural area, as opposed to the town or city"
+鄉村音樂 /乡村音乐,noun,country,country music
 牛母,noun,cow,female domesticated ox or other bovine
 母牛,noun,cow,female domesticated ox or other bovine
+牛,noun,cow,any domestic bovine regardless of sex or age
+牛,noun,cow,any domestic bovine regardless of sex or age
+母獸 /母兽,noun,cow,female of various species of mammal
 ванванзы,noun,cup,drinking vessel
 ванвар,noun,cup,drinking vessel
 цаван,noun,cup,drinking vessel
@@ -238,14 +366,22 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 杯仔,noun,cup,drinking vessel
 甌仔 /瓯仔,noun,cup,drinking vessel
 杯子,noun,cup,drinking vessel
+罩杯,noun,cup,part of bra
 тёву,verb,dance,move rhythmically to music
 винон,verb,dance,move rhythmically to music
 跳舞,verb,dance,move rhythmically to music
 黑暗,adj,dark,having an absolute or relative lack of light
 黲 /黪,adj,dark,having an absolute or relative lack of light
+隱秘 /隐秘,adj,dark,"hidden, secret"
+邪惡 /邪恶,adj,dark,without moral or spiritual light
+黑暗,adj,dark,"not bright or light, deeper in hue"
 日期,noun,date,"that which specifies the time of writing, inscription etc."
 日子,noun,date,"that which specifies the time of writing, inscription etc."
 年月日,noun,date,"that which specifies the time of writing, inscription etc."
+日期,noun,date,point of time at which a transaction or event takes place
+約會 /约会,noun,date,pre-arranged social meeting
+約會 /约会,noun,date,meeting with a lover or potential lover; a person so met
+幽會 /幽会,noun,date,meeting with a lover or potential lover; a person so met
 зор,noun,date,fruit of the date palm
 椰枣,noun,date,fruit of the date palm
 椰棗 /椰枣,noun,date,fruit of the date palm
@@ -255,6 +391,16 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 閨女 /闺女,noun,daughter,female offspring
 姑娘,noun,daughter,female offspring
 白天,noun,day,period between sunrise and sunset
+тян,noun,day,period of 24 hours
+йитян,noun,day,period of 24 hours
+日,noun,day,period of 24 hours
+工,noun,day,period of 24 hours
+天,noun,day,period of 24 hours
+日,noun,day,period of 24 hours
+天,noun,day,period from midnight to the following midnight
+一天,noun,day,"part of a day period which one spends at one's job, school, etc."
+白天,noun,day,"part of a day period which one spends at one's job, school, etc."
+白晝 /白昼,noun,day,"part of a day period which one spends at one's job, school, etc."
 хуадян,noun,dictionary,publication that explains the meanings of an ordered list of words
 цыдян,noun,dictionary,publication that explains the meanings of an ordered list of words
 зыдян,noun,dictionary,publication that explains the meanings of an ordered list of words
@@ -279,14 +425,26 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 啉,verb,drink,consume liquid through the mouth
 喝,verb,drink,consume liquid through the mouth
 飲 /饮,verb,drink,consume liquid through the mouth
+喝酒,verb,drink,consume alcoholic beverages
+酗酒,verb,drink,consume alcoholic beverages
+酒醉,verb,drink,consume alcoholic beverages
 穗,noun,ear,fruiting body of a grain plant
 чы,verb,eat,"to ingest — see also consume, ingest"
 食,verb,eat,"to ingest — see also consume, ingest"
 吃,verb,eat,"to ingest — see also consume, ingest"
 食,verb,eat,"to ingest — see also consume, ingest"
 餔 /𫗦,verb,eat,"to ingest — see also consume, ingest"
+食飯 /食饭,verb,eat,eat a meal
+吃飯 /吃饭,verb,eat,eat a meal
 卵,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
 卵子,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
+дан,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+җидан,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+卵,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+雞卵 /鸡卵,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+蛋,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+雞蛋 /鸡蛋,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
+友跨順男 /友跨顺男,noun,egg,"person regarded as having not yet realized they are transgender, or who has not yet come out as transgender or is in the early stages of transitioning; one’s lack of awareness that one is transgender"
 щён,noun,elephant,mammal
 象,noun,elephant,mammal
 象,noun,elephant,mammal
@@ -298,6 +456,11 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 眼睛,noun,eye,organ
 眼,noun,eye,organ
 目,noun,eye,organ
+針空 /针空,noun,eye,hole in needle
+針鼻 /针鼻,noun,eye,hole in needle
+針眼 /针眼,noun,eye,hole in needle
+颱風眼 /台风眼,noun,eye,of a hurricane
+風眼 /风眼,noun,eye,of a hurricane
 лян,noun,face,anatomy: front part of head
 臉 /脸,noun,face,anatomy: front part of head
 面,noun,face,anatomy: front part of head
@@ -305,8 +468,21 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 面,noun,face,anatomy: front part of head
 面孔,noun,face,anatomy: front part of head
 臉兒 /脸儿,noun,face,anatomy: front part of head
+表情,noun,face,facial expression
+顏 /颜,noun,face,facial expression
+面子,noun,face,public image
+颜面,noun,face,public image
+印象,noun,face,public image
+表面,noun,face,geometry: bounding surface of a polyhedron
 落下,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+墮落 /堕落,noun,fall,loss of greatness or status
+遠的 /远的,adv,far,"to, from or over a great distance"
+遠離的 /远离的,adv,far,"to, from or over a great distance"
+更遠的 /更远的,adv,far,"to, from or over a great distance"
 牢固地,adv,fast,in a firm or secure manner
+快,adv,fast,with great speed
+快速,adv,fast,with great speed
+快於標準時間 /快于标准时间,adv,fast,ahead of the correct time or schedule
 胖,adj,fat,carrying a larger than normal amount of fat on one's body
 肥,adj,fat,carrying a larger than normal amount of fat on one's body
 肥胖,adj,fat,carrying a larger than normal amount of fat on one's body
@@ -328,9 +504,19 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 爸爸,noun,father,male parent
 爹,noun,father,male parent
 老子,noun,father,male parent
+神父,noun,father,term of address for a priest
+神父,noun,father,term of address for a priest
 хуә,noun,fire,oxidation reaction
 火,noun,fire,oxidation reaction
 火,noun,fire,oxidation reaction
+хуә,noun,fire,instance of this chemical reaction
+火,noun,fire,instance of this chemical reaction
+火,noun,fire,instance of this chemical reaction
+火災 /火灾,noun,fire,damaging occurrence of fire
+хуә,noun,fire,alchemy: one of the basic elements
+火,noun,fire,alchemy: one of the basic elements
+取暖器,noun,fire,heater or stove used in place of real fire
+火,noun,fire,elements to start a fire
 第一,adv,first,before anything else
 首先,adv,first,before anything else
 先,adv,first,before anything else
@@ -340,6 +526,10 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 魚 /鱼,noun,fish,vertebrate animal
 魚 /鱼,noun,fish,vertebrate animal
 魚兒 /鱼儿,noun,fish,vertebrate animal
+魚 /鱼,noun,fish,collective plural of fish
+魚 /鱼,noun,fish,collective plural of fish
+魚 /鱼,noun,fish,flesh of fish as food
+魚肉 /鱼肉,noun,fish,flesh of fish as food
 хуа,noun,flower,reproductive structure in angiosperms
 хуар,noun,flower,reproductive structure in angiosperms
 花,noun,flower,reproductive structure in angiosperms
@@ -351,10 +541,16 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 飛 /飞,verb,fly,to travel through air
 飛行 /飞行,verb,fly,to travel through air
 坐飛機 /坐飞机,verb,fly,to travel through air
+逃跑,verb,fly,to flee
 跤,noun,foot,part of human body
 腳 /脚,noun,foot,part of human body
 足,noun,foot,part of human body
 腳丫 /脚丫,noun,foot,part of human body
+跤,noun,foot,part of animal’s body
+足,noun,foot,part of animal’s body
+腳 /脚,noun,foot,part of animal’s body
+足,noun,foot,part of animal’s body
+英尺,noun,foot,unit of measure
 пын-ю,noun,friend,person whose company one enjoys
 ляншу,noun,friend,person whose company one enjoys
 дос,noun,friend,person whose company one enjoys
@@ -363,6 +559,8 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 朋友,noun,friend,person whose company one enjoys
 友人,noun,friend,person whose company one enjoys
 友,noun,friend,person whose company one enjoys
+男朋友,noun,friend,boyfriend or girlfriend
+女朋友,noun,friend,boyfriend or girlfriend
 готян,noun,fruit,part of plant
 果,noun,fruit,part of plant
 果子,noun,fruit,part of plant
@@ -370,13 +568,24 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 果實 /果实,noun,fruit,part of plant
 果,noun,fruit,part of plant
 果實 /果实,noun,fruit,part of plant
+果子,noun,fruit,food
+水果,noun,fruit,food
+水果,noun,fruit,food
+成果,noun,fruit,figuratively: positive end result or reward of labour or effort
+成果,noun,fruit,figuratively: positive end result or reward of labour or effort
 充滿 /充满,adj,full,containing the maximum possible amount
 滿 /满,adj,full,containing the maximum possible amount
+完全,adj,full,complete
+飽 /饱,adj,full,"satisfied, in relation to eating"
 遊戲 /游戏,noun,game,"playful activity that may be unstructured, amusement, pastime"
 遊戲 /游戏,noun,game,"playful activity that may be unstructured, amusement, pastime"
+比賽 /比赛,noun,game,particular instance of playing a game; match
+獵物 /猎物,noun,game,wild animals hunted for food
+野味,noun,game,wild animals hunted for food
 хуайүан,noun,garden,piece of land outside with flowers and plants
 花園 /花园,noun,garden,piece of land outside with flowers and plants
 花園 /花园,noun,garden,piece of land outside with flowers and plants
+菜園 /菜园,noun,garden,grounds at the front or back of a house
 нүзы,noun,girl,young female person
 гўнён,noun,girl,young female person
 ятур,noun,girl,young female person
@@ -387,6 +596,8 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 姑娘,noun,girl,young female person
 女兒 /女儿,noun,girl,young female person
 丫頭 /丫头,noun,girl,young female person
+女,noun,girl,woman — see also woman
+女生,noun,girl,woman — see also woman
 ги,verb,give,transfer the possession of something to someone else
 予,verb,give,transfer the possession of something to someone else
 給 /给,verb,give,transfer the possession of something to someone else
@@ -394,19 +605,41 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 бәли,noun,glass,substance
 玻璃,noun,glass,substance
 玻璃,noun,glass,substance
+җунзы,noun,glass,drinking vessel
+杯仔,noun,glass,drinking vessel
+杯子,noun,glass,drinking vessel
 чў,verb,go,to move through space (especially from one place to another)
 去,verb,go,to move through space (especially from one place to another)
 來去 /来去,verb,go,to move through space (especially from one place to another)
 去,verb,go,to move through space (especially from one place to another)
+運作 /运作,verb,go,"of a machine, to work"
+工作,verb,go,"of a machine, to work"
+運轉 /运转,verb,go,"of a machine, to work"
+運行 /运行,verb,go,"of a machine, to work"
+走,verb,go,to disappear
+消失,verb,go,to disappear
 хо,adj,good,acting in the interest of good; ethical good intentions
 好,adj,good,acting in the interest of good; ethical good intentions
 好,adj,good,acting in the interest of good; ethical good intentions
 良,adj,good,acting in the interest of good; ethical good intentions
+好,adj,good,useful for a particular purpose
+好吃,adj,good,"of food, having a particularly pleasant taste"
+嫻熟 /娴熟,adj,good,"of people, competent or talented"
 毛,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
 頭髮 /头发,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
+туфа,noun,hair,mass of such filaments on the human head
+頭毛 /头毛,noun,hair,mass of such filaments on the human head
+頭鬃 /头鬃,noun,hair,mass of such filaments on the human head
+頭髮 /头发,noun,hair,mass of such filaments on the human head
+頭髮 /头发,noun,hair,mass of such filaments growing from the skin of humans and animals
+毛髮 /毛发,noun,hair,mass of such filaments growing from the skin of humans and animals
 шу,noun,hand,part of the fore limb
 手,noun,hand,part of the fore limb
 手,noun,hand,part of the fore limb
+針 /针,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+指針 /指针,noun,hand,"index or pointer on a dial, such as on an analogue/analog clock"
+邊 /边,noun,hand,"side; part; direction, either right or left"
+側 /侧,noun,hand,"side; part; direction, either right or left"
 мозы,noun,hat,a head covering
 帽仔,noun,hat,a head covering
 帽子,noun,hat,a head covering
@@ -415,15 +648,38 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 頭 /头,noun,head,part of the body
 頭腦 /头脑,noun,head,part of the body
 腦袋 /脑袋,noun,head,part of the body
+頭 /头,noun,head,measure word for livestock and game
+開頭 /开头,noun,head,topmost or leading part
+磁頭 /磁头,noun,head,element which reads or writes electromagnetic signals to or from a storage medium
+磁頭 /磁头,noun,head,computing: part of a disk drive responsible for reading and writing data
+泡泡,noun,head,foam on carbonated beverages
+泡沫,noun,head,foam on carbonated beverages
+領袖 /领袖,noun,head,"leader, chief, mastermind"
+校長 /校长,noun,head,"headmaster, headmistress"
+導演 /导演,noun,head,"headmaster, headmistress"
 懸 /悬,adj,high,elevated; tall
 高,adj,high,elevated; tall
+懸 /悬,adj,high,of great or large quantity
+高,adj,high,of great or large quantity
+懸 /悬,adj,high,acoustics: of greater frequency
+高,adj,high,acoustics: of greater frequency
+神智恍惚,adj,high,slang: under the influence of drugs
 лисы,noun,history,aggregate of past events
 歷史 /历史,noun,history,aggregate of past events
 歷史 /历史,noun,history,aggregate of past events
+истори,noun,history,branch of knowledge that studies the past
+歷史學 /历史学,noun,history,branch of knowledge that studies the past
+歷史學 /历史学,noun,history,branch of knowledge that studies the past
+歷史 /历史,noun,history,record or narrative description of past events
+病史,noun,history,medicine: list of past and continuing medical conditions
+病歷 /病历,noun,history,medicine: list of past and continuing medical conditions
+歷史 /历史,noun,history,computing: record of previous user events
 在家里,adv,home,at home
+在家,adv,home,homewards
 ма,noun,horse,members of the species Equus ferus
 馬 /马,noun,horse,members of the species Equus ferus
 馬 /马,noun,horse,members of the species Equus ferus
+馬 /马,noun,horse,knight in chess — see also knight
 бинйүан,noun,hospital,large medical facility
 病院,noun,hospital,large medical facility
 醫院 /医院,noun,hospital,large medical facility
@@ -432,6 +688,20 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 燒 /烧,adj,hot,having a high temperature
 熱 /热,adj,hot,having a high temperature
 燙 /烫,adj,hot,having a high temperature
+жә,adj,hot,of the weather
+熱 /热,adj,hot,of the weather
+炎熱 /炎热,adj,hot,of the weather
+燒熱 /烧热,adj,hot,of the weather
+熱 /热,adj,hot,of the weather
+炎熱 /炎热,adj,hot,of the weather
+發燒 /发烧,adj,hot,feverish
+辣,adj,hot,spicy
+薟 /莶,adj,hot,spicy
+辣,adj,hot,spicy
+帥呆了 /帅呆了,adj,hot,slang: physically very attractive
+性感,adj,hot,slang: physically very attractive
+火,adj,hot,"popular, in demand"
+紅 /红,adj,hot,"popular, in demand"
 кифон,noun,hotel,establishment providing accommodation
 旅館 /旅馆,noun,hotel,establishment providing accommodation
 旅社,noun,hotel,establishment providing accommodation
@@ -449,8 +719,30 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 房子,noun,house,human abode
 屋子,noun,house,human abode
 住宅,noun,house,human abode
+議院 /议院,noun,house,debating chamber for government politicians
 偌,adv,how,to what degree
 多,adv,how,to what degree
+за,adv,how,in what manner
+заму,adv,how,in what manner
+怎樣 /怎样,adv,how,in what manner
+怎仔樣 /怎仔样,adv,how,in what manner
+按怎,adv,how,in what manner
+按怎樣 /按怎样,adv,how,in what manner
+如何,adv,how,in what manner
+怎麼樣 /怎么样,adv,how,in what manner
+怎麼 /怎么,adv,how,in what manner
+怎樣 /怎样,adv,how,in what manner
+如何,adv,how,in what manner
+咋,adv,how,in what manner
+按怎,adv,how,in what state
+怎樣 /怎样,adv,how,in what state
+如何,adv,how,in what state
+怎麼樣 /怎么样,adv,how,in what state
+怎麼 /怎么,adv,how,in what state
+怎樣 /怎样,adv,how,in what state
+如何,adv,how,in what state
+多,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
+多麼 /多么,adv,how,"used as a modifier to indicate surprise, delight, or other strong feelings"
 нанжын,noun,husband,male partner in marriage
 җонфу,noun,husband,male partner in marriage
 лохан,noun,husband,male partner in marriage
@@ -478,8 +770,15 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 明白,verb,know,be justifiably certain or sure about (something true)
 知道,verb,know,be justifiably certain or sure about (something true)
 曉得 /晓得,verb,know,be justifiably certain or sure about (something true)
+捌,verb,know,be acquainted or familiar with
+認識 /认识,verb,know,be acquainted or familiar with
 土地,noun,land,part of Earth that is not covered by oceans or other bodies of water
 陸地 /陆地,noun,land,part of Earth that is not covered by oceans or other bodies of water
+гоцзя,noun,land,country or region
+國家 /国家,noun,land,country or region
+祖國 /祖国,noun,land,someone's homeplace
+土地,noun,land,ground that is suitable for farming
+農地 /农地,noun,land,ground that is suitable for farming
 йүян,noun,language,body of words used as a form of communication
 янйү,noun,language,body of words used as a form of communication
 йү,noun,language,body of words used as a form of communication
@@ -487,6 +786,15 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 語言 /语言,noun,language,body of words used as a form of communication
 語言 /语言,noun,language,body of words used as a form of communication
 話 /话,noun,language,body of words used as a form of communication
+語言 /语言,noun,language,the ability to communicate using words
+語言 /语言,noun,language,nonverbal communication
+語言 /语言,noun,language,vocabulary of a particular field
+用語 /用语,noun,language,vocabulary of a particular field
+詞語 /词语,noun,language,vocabulary of a particular field
+語言 /语言,noun,language,particular words used
+用語 /用语,noun,language,particular words used
+詞語 /词语,noun,language,particular words used
+語言 /语言,noun,language,computer language — see also computer language
 笑聲 /笑声,noun,laugh,expression of mirth peculiar to the human species
 笑,noun,laugh,expression of mirth peculiar to the human species
 туй,noun,leg,lower limb from groin to ankle
@@ -495,6 +803,12 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 跤,noun,leg,lower limb from groin to ankle
 腿,noun,leg,lower limb from groin to ankle
 腳 /脚,noun,leg,lower limb from groin to ankle
+小腿,noun,leg,portion of the lower appendage from knee to ankle
+下腿,noun,leg,portion of the lower appendage from knee to ankle
+跤下腿,noun,leg,portion of the lower appendage from knee to ankle
+跤下節 /跤下节,noun,leg,portion of the lower appendage from knee to ankle
+跤胴,noun,leg,portion of the lower appendage from knee to ankle
+小腿,noun,leg,portion of the lower appendage from knee to ankle
 зыму,noun,letter,a symbol in an alphabet
 зы,noun,letter,a symbol in an alphabet
 字母,noun,letter,a symbol in an alphabet
@@ -502,10 +816,23 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 字母,noun,letter,a symbol in an alphabet
 字,noun,letter,a symbol in an alphabet
 文字,noun,letter,a symbol in an alphabet
+фущин,noun,letter,written message
+фузы,noun,letter,written message
+批,noun,letter,written message
+批信,noun,letter,written message
+信,noun,letter,written message
+信件,noun,letter,written message
+書信 /书信,noun,letter,written message
+尺牘 /尺牍,noun,letter,written message
 фуфон,noun,library,"institution which holds books, etc."
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 圕,noun,library,"institution which holds books, etc."
+藏書 /藏书,noun,library,collection of books
+收藏,noun,library,collection of books
+文庫 /文库,noun,library,collection of subprograms
+庫 /库,noun,library,collection of subprograms
+牌庫 /牌库,noun,library,deck or draw pile
 чә хуон,verb,lie,tell an intentional untruth
 чуй,verb,lie,tell an intentional untruth
 白賊 /白贼,verb,lie,tell an intentional untruth
@@ -520,8 +847,10 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 生活,noun,life,the state of being alive
 生命,noun,life,the state of being alive
 生活,noun,life,the state of being alive
+存在,noun,life,the essence of the manifestation and the foundation of the being
 明亮的,adj,light,having light
 光明的,adj,light,having light
+浅色,adj,light,pale in colour
 輕 /轻,adj,light,of low weight
 сызы,noun,lion,big cat Panthera leo
 獅 /狮,noun,lion,big cat Panthera leo
@@ -532,15 +861,25 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 тин,verb,listen,to pay attention to a sound
 聽 /听,verb,listen,to pay attention to a sound
 聽 /听,verb,listen,to pay attention to a sound
+聽 /听,verb,listen,to hear (something)
 小,adj,little,small in size
+淡薄仔 一些?,adj,little,"small in number, few"
+一些,adj,little,"small in number, few"
 生,verb,live,be alive
 生活,verb,live,be alive
 活,verb,live,be alive
+җў,verb,live,have permanent residence
+住,verb,live,have permanent residence
+居住,verb,live,have permanent residence
+生存,verb,live,"survive, persevere, continue"
+存活,verb,live,"survive, persevere, continue"
 кан,verb,look,to try to see
 看,verb,look,to try to see
 看,verb,look,to try to see
 視 /视,verb,look,to try to see
 見 /见,verb,look,to try to see
+好像,verb,look,"to appear, to seem"
+顯得 /显得,verb,look,"to appear, to seem"
 нэ,verb,love,have a strong affection for
 愛情 /爱情,verb,love,have a strong affection for
 情愛 /情爱,verb,love,have a strong affection for
@@ -549,6 +888,12 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 熱愛 /热爱,verb,love,have a strong affection for
 愛好 /爱好,verb,love,have a strong affection for
 愛戴 /爱戴,verb,love,have a strong affection for
+喜歡 /喜欢,verb,love,be strongly inclined towards doing
+愛好 /爱好,verb,love,be strongly inclined towards doing
+愛 /爱,verb,love,care about; will good for
+愛慕 /爱慕,verb,love,care about; will good for
+疼愛 /疼爱,verb,love,care about; will good for
+做愛 /做爱,verb,love,(euphemistic): to have sex with
 нанжын,noun,man,adult male human
 нанзыхан,noun,man,adult male human
 查埔人,noun,man,adult male human
@@ -557,15 +902,34 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 男的,noun,man,adult male human
 男子,noun,man,adult male human
 男子漢 /男子汉,noun,man,adult male human
+жын,noun,man,a human being
+儂 /侬,noun,man,a human being
+人,noun,man,a human being
+人類 /人类,noun,man,a human being
 市場 /市场,noun,market,gathering for trading
+сычон,noun,market,spacious site for trading
+сы,noun,market,spacious site for trading
+базар,noun,market,spacious site for trading
+巴剎 /巴刹,noun,market,spacious site for trading
+市場 /市场,noun,market,spacious site for trading
+市場 /市场,noun,market,spacious site for trading
+巴扎,noun,market,spacious site for trading
+市場 /市场,noun,market,group of potential customers
+市場 /市场,noun,market,geographical area where a commercial demand exists
+市場 /市场,noun,market,total sum of trading
 жу,noun,meat,animal flesh used as food
 肉,noun,meat,animal flesh used as food
 肉,noun,meat,animal flesh used as food
+肉,noun,meat,type of meat
+肉,noun,meat,any sort of flesh
 фынҗун,noun,minute,unit of time
 минута,noun,minute,unit of time
 分鐘 /分钟,noun,minute,unit of time
 分鐘 /分钟,noun,minute,unit of time
 分,noun,minute,unit of time
+記錄 /记录,noun,minute,record of meeting
+會議記錄 /会议记录,noun,minute,record of meeting
+紀要 /纪要,noun,minute,record of meeting
 чян,noun,money,means of exchange and measure of value
 錢 /钱,noun,money,means of exchange and measure of value
 錢 /钱,noun,money,means of exchange and measure of value
@@ -575,6 +939,9 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 上午,noun,morning,part of the day between dawn and midday
 早上,noun,morning,part of the day between dawn and midday
 午前,noun,morning,part of the day between dawn and midday
+早晨,noun,morning,the part of the day after midnight and before midday
+上午,noun,morning,the part of the day after midnight and before midday
+早上,noun,morning,the part of the day after midnight and before midday
 ма,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 мучин,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 мама,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
@@ -589,6 +956,9 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 媽媽 /妈妈,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 娘,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
 媽 /妈,noun,mother,"female (human) who parents a child, gives birth to a baby, or is pregnant"
+ма,noun,mother,one’s female parent
+媽媽 /妈妈,noun,mother,one’s female parent
+母親 /母亲,noun,mother,one’s female parent
 лочў,noun,mouse,rodent of the genus Mus
 鳥鼠 /鸟鼠,noun,mouse,rodent of the genus Mus
 鼠,noun,mouse,rodent of the genus Mus
@@ -599,6 +969,10 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 耗子,noun,mouse,rodent of the genus Mus
 小鼠,noun,mouse,rodent of the genus Mus
 鼷,noun,mouse,rodent of the genus Mus
+滑鼠,noun,mouse,computing: input device
+鼠標 /鼠标,noun,mouse,computing: input device
+鼠標器 /鼠标器,noun,mouse,computing: input device
+滑鼠,noun,mouse,computing: input device
 зуй,noun,mouth,the opening of a creature through which food is ingested
 ку,noun,mouth,the opening of a creature through which food is ingested
 喙,noun,mouth,the opening of a creature through which food is ingested
@@ -606,10 +980,13 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 嘴,noun,mouth,the opening of a creature through which food is ingested
 口,noun,mouth,the opening of a creature through which food is ingested
 嘴巴,noun,mouth,the opening of a creature through which food is ingested
+河口,noun,mouth,the end of a river out of which water flows
 йинйүә,noun,music,"sound, organized in time in a melodious way"
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
+樂譜 /乐谱,noun,music,sheet music
 命名,verb,name,to give a name to
+任命,verb,name,to designate for a role
 щин,adj,new,recently made or created
 新,adj,new,recently made or created
 新,adj,new,recently made or created
@@ -623,10 +1000,12 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 夜晚,noun,night,period between sunset and sunrise
 夜,noun,night,period between sunset and sunrise
 宵,noun,night,period between sunset and sunrise
+黄昏,noun,night,nightfall
 бизы,noun,nose,protuberance on the face
 鼻仔,noun,nose,protuberance on the face
 鼻子,noun,nose,protuberance on the face
 鼻,noun,nose,protuberance on the face
+鼻子,noun,nose,"snout, nose of an animal"
 бу,adv,not,negates meaning of another word
 無 /无,adv,not,negates meaning of another word
 不,adv,not,negates meaning of another word
@@ -641,28 +1020,57 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 數 /数,noun,number,abstract entity used to describe quantity
 數目 /数目,noun,number,abstract entity used to describe quantity
 數字 /数字,noun,number,abstract entity used to describe quantity
+數詞 /数词,noun,number,numeral
+數 /数,noun,number,numeral
+數字 /数字,noun,number,numeral
+數 /数,noun,number,mathematics: number
+хо,noun,number,used to show the rank of something in a list or sequence
+號碼 /号码,noun,number,used to show the rank of something in a list or sequence
+號 /号,noun,number,used to show the rank of something in a list or sequence
+號碼 /号码,noun,number,used to show the rank of something in a list or sequence
+號 /号,noun,number,used to show the rank of something in a list or sequence
+多少,noun,number,quantity
+數碼 /数码,noun,number,quantity
+號碼 /号码,noun,number,"sequence of digits and letters used to register people, automobiles, etc."
+數 /数,noun,number,"grammar: state of being singular, dual or plural"
+節目 /节目,noun,number,performance
 җю,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 舊 /旧,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 舊 /旧,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
 古老,adj,old,"of an object, concept, etc: having existed for a relatively long period of time"
+ло,adj,old,of a living being: having lived for relatively many years
+老,adj,old,of a living being: having lived for relatively many years
+年老的,adj,old,of a living being: having lived for relatively many years
+老年的,adj,old,of a living being: having lived for relatively many years
+前,adj,old,former
+歲 /岁,adj,old,having existed or lived for the specified time
+過時的 /过时的,adj,old,"obsolete, out-of-date"
 цун,noun,onion,Allium cepa
 пиязы,noun,onion,Allium cepa
 北蔥 /北葱,noun,onion,Allium cepa
 蔥頭 /葱头,noun,onion,Allium cepa
 洋蔥 /洋葱,noun,onion,Allium cepa
+洋蔥 /洋葱,noun,onion,bulb
+蔥頭 /葱头,noun,onion,bulb
+洋蔥頭 /洋葱头,noun,onion,bulb
 開 /开,verb,open,to make something accessible
 打開 /打开,verb,open,to make something accessible
+開門 /开门,verb,open,to make accessible to customers
 男仔侍從 /男仔侍从,noun,page,serving boy
 мянзы,noun,page,one side of a leaf of a book
 е,noun,page,one side of a leaf of a book
 頁 /页,noun,page,one side of a leaf of a book
 頁 /页,noun,page,one side of a leaf of a book
+頁 /页,noun,page,one of the pieces of paper bound together within a book or document
 зы,noun,paper,sheet material
 紙 /纸,noun,paper,sheet material
 紙 /纸,noun,paper,sheet material
 буфын,noun,part,fraction of a whole
 部分,noun,part,fraction of a whole
 部分,noun,part,fraction of a whole
+角色,noun,part,"position or role, especially in a play"
+角,noun,part,"position or role, especially in a play"
+任務 /任务,noun,part,"position or role, especially in a play"
 付,verb,pay,to give money in exchange for goods or services
 支付,verb,pay,to give money in exchange for goods or services
 給錢 /给钱,verb,pay,to give money in exchange for goods or services
@@ -678,10 +1086,22 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 жын,noun,people,a body of human beings; a group of two or more persons
 人們 /人们,noun,people,a body of human beings; a group of two or more persons
 人,noun,people,a body of human beings; a group of two or more persons
+жынмин,noun,people,a group of persons forming or belonging to a particular nation etc.
+минзў,noun,people,a group of persons forming or belonging to a particular nation etc.
+минжын,noun,people,a group of persons forming or belonging to a particular nation etc.
+國民 /国民,noun,people,a group of persons forming or belonging to a particular nation etc.
+民族,noun,people,a group of persons forming or belonging to a particular nation etc.
+人民,noun,people,a group of persons forming or belonging to a particular nation etc.
 жын,noun,person,individual
 人,noun,person,individual
 儂 /侬,noun,person,individual
 人,noun,person,individual
+人,noun,person,"specifically a human being — see also human, human being, man"
+人物,noun,person,"character or part, as in a play"
+角色,noun,person,"character or part, as in a play"
+個人 /个人,noun,person,the physical body seen as distinct from the mind
+法人,noun,person,any individual or formal organization with standing before the courts
+人稱 /人称,noun,person,grammar: linguistic category
 җў,noun,pig,mammal of genus Sus
 豬 /猪,noun,pig,mammal of genus Sus
 豬仔 /猪仔,noun,pig,mammal of genus Sus
@@ -691,19 +1111,42 @@ jîn-jîn,noun,carrot,Daucus carota ssp. sativus
 дифон,noun,place,"location, position"
 所在,noun,place,"location, position"
 地方,noun,place,"location, position"
+廣場 /广场,noun,place,"open space, courtyard, market square"
+地方,noun,place,any area of the earth
+座位,noun,place,"area one occupies, particularly for sitting"
+位,noun,place,numeric: the column counting a certain quantity
 設計 /设计,verb,plan,to design
+計劃 /计划,verb,plan,to create a plan for
+打算,verb,plan,to intend
 玩,noun,play,playful activity
 玩兒 /玩儿,noun,play,playful activity
+戲劇 /戏剧,noun,play,theatrical performance
+話劇 /话剧,noun,play,theatrical performance
+play,noun,play,sexual roleplaying
 發 /发,verb,post,send mail
 寄,verb,post,send mail
+PO (pho͘),verb,post,(Internet) publish a message
+貼 /贴,verb,post,(Internet) publish a message
+張貼 /张贴,verb,post,(Internet) publish a message
+PO (pō),verb,post,(Internet) publish a message
 вынти,noun,question,"sentence, phrase or word"
 問題 /问题,noun,question,"sentence, phrase or word"
 問題 /问题,noun,question,"sentence, phrase or word"
+疑問 /疑问,noun,question,doubt or challenge
+質詢 /质询,noun,question,doubt or challenge
 вущяндян,noun,radio,technology
 радио,noun,radio,technology
 無線電 /無綫電 /无线电,noun,radio,technology
 la-jí-o͘h,noun,radio,technology
 無線電 /無綫電 /无线电,noun,radio,technology
+收音機 /收音机,noun,radio,receiver
+la-jí-o͘h,noun,radio,receiver
+黎撩,noun,radio,receiver
+收音機 /收音机,noun,radio,receiver
+無線電 /無綫電 /无线电,noun,radio,receiver
+車載播放器 /车载播放器,noun,radio,on-board entertainment system in a car
+無線電發射機 /無綫電發射機/无线电发射机,noun,radio,transmitter
+網絡電臺 /网络电台,noun,radio,broadcasting of sound via the Internet
 落雨,verb,rain,of rain: to fall from the sky
 下雨,verb,rain,of rain: to fall from the sky
 降雨,verb,rain,of rain: to fall from the sky
@@ -713,11 +1156,23 @@ la-jí-o͘h,noun,radio,technology
 讀 /读,verb,read,to look at and interpret letters or other information
 讀 /读,verb,read,to look at and interpret letters or other information
 看,verb,read,to look at and interpret letters or other information
+讀 /读,verb,read,to speak aloud words or other information that is written
+念,verb,read,to speak aloud words or other information that is written
 紅色 /红色,noun,red,colour
 紅色 /红色,noun,red,colour
 дозы,noun,rice,plants
 稻,noun,rice,plants
 稻子,noun,rice,plants
+быйми,noun,rice,seeds used as food
+ми,noun,rice,seeds used as food
+фан,noun,rice,seeds used as food
+米,noun,rice,seeds used as food
+飯 /饭,noun,rice,seeds used as food
+米飯 /米饭,noun,rice,seeds used as food
+白飯 /白饭,noun,rice,seeds used as food
+чүанли,noun,right,legal or moral entitlement
+權利 /权利,noun,right,legal or moral entitlement
+權利 /权利,noun,right,legal or moral entitlement
 хә,noun,river,large stream which drains a landmass
 җён,noun,river,large stream which drains a landmass
 河,noun,river,large stream which drains a landmass
@@ -729,16 +1184,30 @@ la-jí-o͘h,noun,radio,technology
 水流,noun,river,large stream which drains a landmass
 川,noun,river,large stream which drains a landmass
 河川,noun,river,large stream which drains a landmass
+川流,noun,river,typography: visually undesirable effect of white space running down a page
 по,verb,run,to move quickly on two feet
 走,verb,run,to move quickly on two feet
 跑,verb,run,to move quickly on two feet
 奔跑,verb,run,to move quickly on two feet
 走,verb,run,to move quickly on two feet
+經營 /经营,verb,run,to be in charge of
+管理,verb,run,to be in charge of
+流,verb,run,to flow
+工作,verb,run,"of a machine, to be operating normally"
+運行 /运行,verb,run,"of a machine, to be operating normally"
+運轉 /运转,verb,run,"of a machine, to be operating normally"
+哀傷 /哀伤,adj,sad,feeling sorrow
+悲傷 /悲伤,adj,sad,feeling sorrow
+憂傷 /忧伤,adj,sad,feeling sorrow
 ян,noun,salt,sodium chloride
 鹽 /盐,noun,salt,sodium chloride
 鹽 /盐,noun,salt,sodium chloride
 食鹽 /食盐,noun,salt,sodium chloride
 鹽巴 /盐巴,noun,salt,sodium chloride
+講 /讲,verb,say,to pronounce
+說 /说,verb,say,to pronounce
+說 /说,verb,say,to pronounce
+告訴 /告诉,verb,say,to pronounce
 一群魚 /一群鱼,noun,school,a group of fish
 魚群 /鱼群,noun,school,a group of fish
 щүәщё,noun,school,an institution dedicated to teaching and learning
@@ -746,15 +1215,32 @@ la-jí-o͘h,noun,radio,technology
 學校 /学校,noun,school,an institution dedicated to teaching and learning
 學校 /学校,noun,school,an institution dedicated to teaching and learning
 學堂 /学堂,noun,school,an institution dedicated to teaching and learning
+щүәщё,noun,school,an institution dedicated to teaching and learning before college or university
+學校 /学校,noun,school,an institution dedicated to teaching and learning before college or university
+дащүә,noun,school,college or university
+大學 /大学,noun,school,college or university
+學校 /学校,noun,school,college or university
+大學 /大学,noun,school,college or university
+學校 /学校,noun,school,a department/institute at a college or university
+學派 /学派,noun,school,(collectively) the followers of a particular doctrine
 куәщүә,noun,science,collective discipline of learning acquired through the scientific method
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
+科學 /科学,noun,science,particular discipline or branch of learning
+知識 /知识,noun,science,fact of knowing something
 秒鐘 /秒钟,noun,second,one-sixtieth of a minute; SI unit of time
 秒,noun,second,one-sixtieth of a minute; SI unit of time
 第二个,noun,second,number two in a series
 җян,verb,see,perceive with the eyes
 見 /见,verb,see,perceive with the eyes
 看見 /看见,verb,see,perceive with the eyes
+明白,verb,see,understand
+懂,verb,see,understand
+了解 /暸解,verb,see,understand
+理解,verb,see,understand
+被賣出 /被卖出,verb,sell,to be sold
+傳遞 /传递,verb,sell,to promote a particular viewpoint
+耍弄,verb,sell,"to trick, cheat, or manipulate someone"
 мянён,noun,sheep,animal
 ён,noun,sheep,animal
 綿羊 /绵羊,noun,sheep,animal
@@ -766,6 +1252,10 @@ la-jí-o͘h,noun,radio,technology
 購物 /购物,verb,shop,to visit shops
 дуан,adj,short,having a small distance between ends or edges
 短,adj,short,having a small distance between ends or edges
+矮,adj,short,"of a person, of comparatively small height"
+дуан,adj,short,having little duration
+җеё,adj,short,having little duration
+短,adj,short,having little duration
 җеҗе,noun,sister,woman or girl having the same parents
 мыймый,noun,sister,woman or girl having the same parents
 大姊,noun,sister,woman or girl having the same parents
@@ -780,6 +1270,7 @@ la-jí-o͘h,noun,radio,technology
 зуә,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 坐,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
 坐,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
+出任,verb,sit,to be a member of a deliberative body
 фи,verb,sleep,to rest in state of reduced consciousness
 睏 /困,verb,sleep,to rest in state of reduced consciousness
 睡覺 /睡觉,verb,sleep,to rest in state of reduced consciousness
@@ -788,6 +1279,8 @@ la-jí-o͘h,noun,radio,technology
 щё,adj,small,not large
 細 /细,adj,small,not large
 小,adj,small,not large
+小,adj,small,young
+年輕 /年轻,adj,small,young
 шә,noun,snake,legless reptile
 чончун,noun,snake,legless reptile
 мон,noun,snake,legless reptile
@@ -800,6 +1293,8 @@ la-jí-o͘h,noun,radio,technology
 後生 /后生,noun,son,a male person in relation to his parents
 後的 /后的,noun,son,a male person in relation to his parents
 兒子 /儿子,noun,son,a male person in relation to his parents
+養子 /养子,noun,son,an adopted son
+養子 /养子,noun,son,an adopted son
 гәр,noun,song,music with words
 歌,noun,song,music with words
 歌曲,noun,song,music with words
@@ -807,6 +1302,7 @@ la-jí-o͘h,noun,radio,technology
 唱兒 /唱儿,noun,song,music with words
 歌兒 /歌儿,noun,song,music with words
 響 /响,verb,sound,to produce a sound
+聽起來 /听起来,verb,sound,to convey an impression by one's sound
 фә,verb,speak,to communicate with one's voice using words
 шә,verb,speak,to communicate with one's voice using words
 講 /讲,verb,speak,to communicate with one's voice using words
@@ -814,6 +1310,11 @@ la-jí-o͘h,noun,radio,technology
 說話 /说话,verb,speak,to communicate with one's voice using words
 講話 /讲话,verb,speak,to communicate with one's voice using words
 說 /说,verb,speak,to communicate with one's voice using words
+тан хуа,verb,speak,to have a conversation
+談話 /谈话,verb,speak,to have a conversation
+會話 /会话,verb,speak,to have a conversation
+通話 /通话,verb,speak,to have a conversation
+會說 /会说,verb,speak,to be able to communicate in a language
 йүндун,noun,sport,any athletic activity that uses physical skills
 運動 /运动,noun,sport,any athletic activity that uses physical skills
 運動 /运动,noun,sport,any athletic activity that uses physical skills
@@ -822,20 +1323,33 @@ la-jí-o͘h,noun,radio,technology
 春天,noun,spring,season between winter and summer in temperate climates
 春天,noun,spring,season between winter and summer in temperate climates
 春季,noun,spring,season between winter and summer in temperate climates
+泉,noun,spring,water springing from the ground
+源泉,noun,spring,water springing from the ground
+彈簧 /弹簧,noun,spring,device made of flexible material
+發條 /发条,noun,spring,device made of flexible material
 зан,verb,stand,to support oneself on the feet in an erect position
 ли,verb,stand,to support oneself on the feet in an erect position
 徛,verb,stand,to support oneself on the feet in an erect position
 站,verb,stand,to support oneself on the feet in an erect position
 站立,verb,stand,to support oneself on the feet in an erect position
 立,verb,stand,to support oneself on the feet in an erect position
+站起來 /站起来,verb,stand,to rise to one’s feet
 щинщю,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 星,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 星,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
 星星,noun,star,"a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other"
+恆星 /恒星,noun,star,(astronomy) a luminous celestial body made of plasma
+星形,noun,star,concave polygon
+明星,noun,star,celebrity
+明星,noun,star,talented or famous person
+星號 /星号,noun,star,asterisk
 車站 /车站,noun,stop,place to get on and off mass transport
+障礙 /障碍,noun,stop,device to block a moving object
 щүәсын,noun,student,person who studies a subject
 學生 /学生,noun,student,person who studies a subject
 學生 /学生,noun,student,person who studies a subject
+學生 /学生,noun,student,person enrolled at a university — see also university student
+學生 /学生,noun,student,person enrolled at a university — see also university student
 щятян,noun,summer,hottest season
 熱天 /热天,noun,summer,hottest season
 熱儂 /热侬,noun,summer,hottest season
@@ -849,14 +1363,26 @@ la-jí-o͘h,noun,radio,technology
 日,noun,sun,"a star, especially when seen as the centre of any single solar system"
 日頭 /日头,noun,sun,"a star, especially when seen as the centre of any single solar system"
 恆星 /恒星,noun,sun,"a star, especially when seen as the centre of any single solar system"
+陽光 /阳光,noun,sun,light and warmth received from the sun
 җуәзы,noun,table,item of furniture
 桌仔,noun,table,item of furniture
 桌,noun,table,item of furniture
 桌子,noun,table,item of furniture
+表格,noun,table,grid of data in rows and columns
+表,noun,table,grid of data in rows and columns
 на,verb,take,to get into one's hands or control
 чү,verb,take,to get into one's hands or control
 拿,verb,take,to get into one's hands or control
 取,verb,take,to get into one's hands or control
+收,verb,take,to receive or accept as payment or compensation
+拿,verb,take,to grab and move to oneself
+佔據 /占据,verb,take,to gain a position by force
+攜帶 /携带,verb,take,to carry
+攜 /携,verb,take,to carry
+帶 /带,verb,take,to carry
+運 /运,verb,take,to carry
+忍受,verb,take,to endure
+需要,verb,take,to last or expend (an amount of time)
 лошы,noun,teacher,person who teaches
 җёйүан,noun,teacher,person who teaches
 сыфу,noun,teacher,person who teaches
@@ -881,14 +1407,51 @@ la-jí-o͘h,noun,radio,technology
 нян,verb,think,"to ponder, to go over in one's head"
 念,verb,think,"to ponder, to go over in one's head"
 想,verb,think,"to ponder, to go over in one's head"
+нян,verb,think,communicate to oneself in one’s mind
+想,verb,think,communicate to oneself in one’s mind
+思考,verb,think,communicate to oneself in one’s mind
+考虑,verb,think,to conceive of something or someone
+認為 /认为,verb,think,be of the opinion that
+覺得 /觉得,verb,think,be of the opinion that
+想,verb,think,"guess, reckon"
 сыҗе,noun,time,inevitable passing of events
 時間 /时间,noun,time,inevitable passing of events
 時間 /时间,noun,time,inevitable passing of events
 時光 /时光,noun,time,inevitable passing of events
+時間 /时间,noun,time,quantity of availability in time
+時間 /时间,noun,time,quantity of availability in time
+時間 /时间,noun,time,measurement of a quantity of time
+時間 /时间,noun,time,measurement of a quantity of time
+時候 /时候,noun,time,division of the day: particular moment or hour
+時刻 /时刻,noun,time,division of the day: particular moment or hour
+сыху,noun,time,"time of day, as indicated by a clock, etc"
+сыхур,noun,time,"time of day, as indicated by a clock, etc"
+сахат,noun,time,"time of day, as indicated by a clock, etc"
+時陣 /时阵,noun,time,"time of day, as indicated by a clock, etc"
+時候 /时候,noun,time,"time of day, as indicated by a clock, etc"
+時刻 /时刻,noun,time,"time of day, as indicated by a clock, etc"
+一天時間 /一天时间,noun,time,"time of day, as indicated by a clock, etc"
+時陣 /时阵,noun,time,numerical indication of a particular moment in time
+時候 /时候,noun,time,numerical indication of a particular moment in time
+擺 /摆,noun,time,instance or occurrence
+次,noun,time,instance or occurrence
+度,noun,time,instance or occurrence
+遍,noun,time,instance or occurrence
 今仔日,noun,today,today (noun)
 今天,noun,today,today (noun)
 今日,noun,today,today (noun)
 梳妝 /梳妆,noun,toilet,personal grooming
+更衣室,noun,toilet,dressing room
+моҗүан,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+мофон,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+便所,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+廁所 /厕所,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+衛生間 /卫生间,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+便所,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+洗手間 /洗手间,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+盥洗室,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+WC,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
+馬桶 /马桶,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 明仔日,noun,tomorrow,the day after the present day
 明仔载,noun,tomorrow,the day after the present day
 隔轉工 /隔转工,noun,tomorrow,the day after the present day
@@ -902,6 +1465,11 @@ la-jí-o͘h,noun,radio,technology
 牙,noun,tooth,anatomy: tooth
 齒 /齿,noun,tooth,anatomy: tooth
 拖裾,noun,train,the elongated back portion of a dress or skirt which drags along the ground
+хуәчә,noun,train,line of connected cars or carriages
+火車 /火车,noun,train,line of connected cars or carriages
+列車 /列车,noun,train,line of connected cars or carriages
+火車 /火车,noun,train,line of connected cars or carriages
+列車 /列车,noun,train,line of connected cars or carriages
 фу,noun,tree,large woody plant
 樹 /树,noun,tree,large woody plant
 𣗬,noun,tree,large woody plant
@@ -912,10 +1480,20 @@ la-jí-o͘h,noun,radio,technology
 樹木 /树木,noun,tree,large woody plant
 視頻 /视频,noun,video,"television show, movie"
 影片,noun,video,"television show, movie"
+短視頻 /短视频,noun,video,film clip
+視頻 /视频,noun,video,film clip
+錄影 /录影,noun,video,motion picture stored on VHS
+錄像帶 /录像带,noun,video,VHS
 чён,noun,wall,defensive rampart
 牆壁 /墙壁,noun,wall,defensive rampart
 牆 /墙,noun,wall,defensive rampart
 隔牆 /隔墙,noun,wall,defensive rampart
+чён,noun,wall,structure built for defense surrounding an area
+牆壁 /墙壁,noun,wall,structure built for defense surrounding an area
+牆 /墙,noun,wall,structure built for defense surrounding an area
+чён,noun,wall,substantial structure acting as side or division in a building
+牆壁 /墙壁,noun,wall,substantial structure acting as side or division in a building
+牌墙,noun,wall,mahjong: face-down tiles
 ё,verb,want,to desire
 щён,verb,want,to desire
 欲,verb,want,to desire
@@ -932,10 +1510,16 @@ la-jí-o͘h,noun,radio,technology
 洗,verb,wash,to clean with water
 洗滌 /洗涤,verb,wash,to clean with water
 沖洗 /冲洗,verb,wash,to clean with water
+沖走 /冲走,verb,wash,to move or erode by the force of water in motion
 фи,noun,water,inorganic compound H₂O
 水,noun,water,inorganic compound H₂O
 水,noun,water,inorganic compound H₂O
+礦泉水 /矿泉水,noun,water,spa water
+水,noun,water,one of the basic elements
 道,noun,way,"road, direction, path"
+方法,noun,way,method or manner
+辦法 /办法,noun,way,method or manner
+方式,noun,way,method or manner
 щинчи,noun,week,period of seven days
 чи,noun,week,period of seven days
 禮拜 /礼拜,noun,week,period of seven days
@@ -952,6 +1536,11 @@ la-jí-o͘h,noun,radio,technology
 啥時 /啥时,adv,when,"at what time, as a direct question"
 甚麼時候 /什麼時候 /什么时候,adv,when,"at what time, as a direct question"
 何時 /何时,adv,when,"at what time, as a direct question"
+啥物時陣 /啥物时阵,adv,when,"at what time, as an indirect question"
+當時 /当时,adv,when,"at what time, as an indirect question"
+底時 /底时,adv,when,"at what time, as an indirect question"
+啥時 /啥时,adv,when,"at what time, as an indirect question"
+甚麼時候 /什麼時候 /什么时候,adv,when,"at what time, as an indirect question"
 нани,adv,where,at what place; to what place; from what place
 натар,adv,where,at what place; to what place; from what place
 佗位,adv,where,at what place; to what place; from what place
@@ -962,8 +1551,28 @@ la-jí-o͘h,noun,radio,technology
 哪兒 /哪儿,adv,where,at what place; to what place; from what place
 哪,adv,where,at what place; to what place; from what place
 何處 /何处,adv,where,at what place; to what place; from what place
+нани,adv,where,at or in which place
+натар,adv,where,at or in which place
+佗位,adv,where,at or in which place
+哪裡 /哪里,adv,where,at or in which place
+哪兒 /哪儿,adv,where,at or in which place
+那裡 /那里,adv,where,at or in which place
+那兒 /那儿,adv,where,at or in which place
+哪裡 /哪里,adv,where,to which place or situation
+哪兒 /哪儿,adv,where,to which place or situation
+нани,adv,where,wherever
+натар,adv,where,wherever
+佗位,adv,where,wherever
+哪裡 /哪里,adv,where,wherever
+哪兒 /哪儿,adv,where,wherever
 白色,noun,white,color
 白色,noun,white,color
+白人,noun,white,person of European descent
+白人,noun,white,person of European descent
+白種人 /白种人,noun,white,person of European descent
+洋人,noun,white,person of European descent
+西洋人,noun,white,person of European descent
+白眼珠,noun,white,white of the eye
 чуонхў,noun,window,opening for light and air
 чуонзы,noun,window,opening for light and air
 窗仔門 /窗仔门,noun,window,opening for light and air
@@ -975,9 +1584,13 @@ la-jí-o͘h,noun,radio,technology
 窗,noun,window,opening for light and air
 軒 /轩,noun,window,opening for light and air
 櫳 /栊,noun,window,opening for light and air
+窗口,noun,window,area on a computer screen
+視窗 /视窗,noun,window,area on a computer screen
 путоҗю,noun,wine,alcoholic beverage made from grapes
 葡萄酒,noun,wine,alcoholic beverage made from grapes
 葡萄酒,noun,wine,alcoholic beverage made from grapes
+果酒,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
+酒,noun,wine,"alcoholic beverage made from other fruits, vegetables or plants"
 дунтян,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 хантян,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 冬天,noun,winter,"fourth season, marked by short days and the lowest temperatures"
@@ -989,16 +1602,34 @@ la-jí-o͘h,noun,radio,technology
 詞 /词,noun,word,unit of language
 單詞 /单词,noun,word,unit of language
 詞語 /词语,noun,word,unit of language
+單字 /单字,noun,word,computing: fixed-size group of bits handled as a unit
+諾言 /诺言,noun,word,promise
+道,noun,word,Christ
 гунзуә,noun,work,"labour, employment, occupation, job"
 工作,noun,work,"labour, employment, occupation, job"
 工作,noun,work,"labour, employment, occupation, job"
 勞動 /劳动,noun,work,"labour, employment, occupation, job"
 職業 /职业,noun,work,"labour, employment, occupation, job"
+工作,noun,work,place where one is employed
+工作,noun,work,effort expended on a particular task
+作品,noun,work,"literary, artistic, or intellectual production"
+著作,noun,work,"literary, artistic, or intellectual production"
+功,noun,work,physics: measure of energy expended in moving an object
 шыҗе,noun,world,human collective existence
 дун-я,noun,world,human collective existence
 世界,noun,world,human collective existence
 世界,noun,world,human collective existence
 世界,noun,world,human collective existence
+宇宙,noun,world,the universe
+宇宙,noun,world,the universe
+шицзе,noun,world,the Earth
+世界,noun,world,the Earth
+世界,noun,world,the Earth
+世界,noun,world,inhabited planet
+世界,noun,world,inhabited planet
+шицзе,noun,world,individual or group perspective or social setting
+世界,noun,world,individual or group perspective or social setting
+世界,noun,world,individual or group perspective or social setting
 ще,verb,write,"to form letters, etc."
 寫 /写,verb,write,"to form letters, etc."
 寫 /写,verb,write,"to form letters, etc."
@@ -1007,3 +1638,6 @@ la-jí-o͘h,noun,radio,technology
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
 年頭 /年头,noun,year,time it takes for the Earth to complete one revolution around the Sun
+年度,noun,year,a period between set dates that mark a year
+年級 /年级,noun,year,a level or grade at school or college
+學年 /学年,noun,year,a level or grade at school or college

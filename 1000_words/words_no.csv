@@ -1,176 +1,442 @@
 word,part_of_speech,english_word,sense
 rundt,adv,about,on all sides
+nesten,adv,about,"nearly, approximately"
+rundt,adv,about,in circuit
+ovenfor,adv,above,in a higher place
+over,adv,above,in a higher place
+høyere,adv,above,higher in rank
+legge til,verb,add,to make an addition; to augment; to increase; to add on
+addere,verb,add,"to perform the arithmetical operation of addition, to add up"
 redd,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
 engstelig,adj,afraid,impressed with fear or apprehension; in fear; apprehensive
+redd,adj,afraid,"regretful, sorry"
 ettermiddag,noun,afternoon,part of the day between noon and evening
 være enig,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
+jatte,verb,agree,"to yield assent, to accede"
 alltid,adv,always,at all times
 bestandig,adv,always,at all times
+hele tiden,adv,always,"constantly during a certain period, or regularly at stated intervals"
+konstant,adv,always,"constantly during a certain period, or regularly at stated intervals"
+alltid,adv,always,"constantly during a certain period, or regularly at stated intervals"
 forbløffende,adj,amazing,causing wonder and amazement
 sint,adj,angry,displaying anger
+dyr,noun,animal,person who behaves wildly
+oppfylle,verb,answer,to suit a need or purpose satisfactorily
+tilfredsstille,verb,answer,to suit a need or purpose satisfactorily
 arm,noun,arm,upper appendage from shoulder to wrist
+arm,noun,arm,part of object
 ankomme,verb,arrive,to reach
+ankomme,verb,arrive,to get to a certain place
+be om,verb,ask,make a request
+tilbake,adv,back,in a manner that impedes
 dårlig,adj,bad,unfavorable; negative
+dårlig,adj,bad,not suitable or fitting
+gal,adj,bad,not suitable or fitting
+dårlig,adj,bad,"not appropriate, of manners etc."
+dårlig,adj,bad,tricky; stressful; unpleasant
+ubehagelig,adj,bad,tricky; stressful; unpleasant
+dårlig,adj,bad,"evil, wicked"
+ond,adj,bad,"evil, wicked"
+dårlig,adj,bad,faulty; not functional
+i stykker,adj,bad,faulty; not functional
+dårlig,adj,bad,of breath: malodorous
+burugle,noun,bag,ugly woman
+banke,noun,bank,"an underwater area of higher elevation, a sandbank"
 bar,noun,bar,unit of pressure
+kle,verb,become,"to look attractive on, be suitable for"
 sykkel,noun,bike,bicycle
+motorsykkel,noun,bike,motorcycle
+blond,adj,blond,having blond hair
 blå,noun,blue,colour
 kjed,adj,bored,suffering from boredom
+kamerat,noun,boy,male friend
+kompis,noun,boy,male friend
+travel,adj,busy,doing a great deal
+opptatt,adj,busy,doing a great deal
+opptatt,adj,busy,engaged
+travel,adj,busy,engaged
 kjøpe,verb,buy,to obtain something with money
+kjøpe,verb,buy,to accept as true
 kake,noun,cake,type of sweet dessert
+stykke,noun,cake,block of dense material
 kunne,verb,can,to be able to; to know how to
+kunne,verb,can,may
 gulrot,noun,carrot,Daucus carota ssp. sativus
 kontrollere,verb,check,"to inspect, examine"
 sjekke,verb,check,"to inspect, examine"
+krysse av,verb,check,to mark with a checkmark
+avkrysse,verb,check,to mark with a checkmark
+kryssjekke,verb,check,to verify or compare with a source of information
+kylling,noun,chicken,meat
+feiging,noun,chicken,coward
 gjøre rent,verb,clean,(transitive) to remove dirt from a place or object
 stenge,verb,close,obstruct (an opening)
+lukke,verb,close,move (a door)
+stenge,verb,close,move (a door)
+lukke,verb,close,bring one's eyelids together
+avslutte,verb,close,put an end to
 kulde,noun,cold,low temperature
+ankomme,verb,come,"to arrive, to appear"
+komme,verb,come,"to arrive, to appear"
+komme,verb,come,to orgasm
+vanlig,adj,common,usual
+vanlig,adj,common,found in large numbers or in a large quantity
+vanlig,adj,common,ordinary
 sammenligne,verb,compare,to assess the similarities between two things or between one thing and another
 jamføre,verb,compare,to assess the similarities between two things or between one thing and another
+konsert,noun,concert,a musical entertainment in which several voices or instruments take part
+kald,adj,cool,"not showing emotion, calm"
+rolig,adj,cool,"not showing emotion, calm"
+behersket,adj,cool,"not showing emotion, calm"
+kald,adj,cool,"unenthusiastic, lukewarm, skeptical"
+behersket,adj,cool,"unenthusiastic, lukewarm, skeptical"
+reservert,adj,cool,"unenthusiastic, lukewarm, skeptical"
+rolig,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+behersket,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
+cool,adj,cool,"colloquial: being considered as ""popular"" by others"
+populær,adj,cool,"colloquial: being considered as ""popular"" by others"
+stilig,adj,cool,colloquial: in fashion
+cool,adj,cool,colloquial: in fashion
+kul,adj,cool,colloquial: in fashion
+grei,adj,cool,"colloquial: all right, acceptable"
+ok,adj,cool,"colloquial: all right, acceptable"
+rolig,adj,cool,colloquial: not upset
+behersket,adj,cool,colloquial: not upset
+rett,noun,course,cooking: stage of a meal
+rute,noun,course,itinerary of a race
+bane,noun,course,sports: trajectory of a ball etc.
+kurs,noun,course,sports: trajectory of a ball etc.
+skift,noun,course,masonry: row of bricks
 skape,verb,create,to put into existence
+mørk,adj,dark,"not bright or light, deeper in hue"
 kjær,adj,dear,loved; lovable
+kjær,adj,dear,"loving, affectionate, heartfelt"
+ærede,adj,dear,formal way of addressing
+kjære,adj,dear,an informal way of addressing the recipient in a letter's opening line
+dø,verb,die,to break down
 forskjell,noun,difference,quality of being different
 skilnad,noun,difference,quality of being different
 differanse,noun,difference,quality of being different
 vanskelig,adj,difficult,"hard, not easy"
 diskutere,verb,discuss,to converse or debate concerning a particular topic
+gå an,verb,do,be reasonable or acceptable
+holde,verb,do,be reasonable or acceptable
 ned,adv,down,"from a high to a low position, downwards"
 kle,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
+kle på seg,verb,dress,to put on clothes — see also get dressed
 drive,verb,drive,to operate (a wheeled motorized vehicle)
 lett,adj,easy,requiring little skill or effort
 enkel,adj,easy,requiring little skill or effort
+lett på tråden,adj,easy,consenting readily to sex
 nyte,verb,enjoy,to receive pleasure or satisfaction from something
 programpost,noun,event,occurrence
 spent,adj,excited,having great enthusiasm and energy
 trene,verb,exercise,exert for the sake of training
 fall,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+nedgang,noun,fall,a period of decline before the end
+skeiv,adj,family,(slang) homosexual
 berømt,adj,famous,well known
 kjent,adj,famous,well known
 fantastisk,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
+langt,adv,far,"to, from or over a great distance"
 fast,adv,fast,in a firm or secure manner
+dypt,adv,fast,of sleeping: deeply or soundly
+raskt,adv,fast,with great speed
+kjapt,adv,fast,with great speed
+hurtig,adv,fast,with great speed
 føle,verb,feel,transitive: to sense by touch
 kjenne,verb,feel,transitive: to sense by touch
+føle,verb,feel,transitive: to experience an emotion or other mental state about
+føle,verb,feel,transitive: to think or believe
+kjenne etter,verb,feel,intransitive: to search by touching
+føle,verb,feel,intransitive: to search by touching
+føle,verb,feel,copulative: to seem
 flott,adj,fine,of superior quality
+fint,adj,fine,of weather: sunny and not raining
+fin,adj,fine,"being acceptable, adequate, passable, or satisfactory"
+bra,adj,fine,"being acceptable, adequate, passable, or satisfactory"
+fin,adj,fine,"good-looking, attractive"
+pen,adj,fine,"good-looking, attractive"
+fin,adj,fine,made up of particularly small pieces
 fullføre,verb,finish,to complete
 avslutte,verb,finish,to complete
+avslutte,verb,finish,to come to an end
 følge,verb,follow,to go or come after in physical space
 fri,adj,free,not imprisoned
+fri,adj,free,unconstrained
+løs,adj,free,unconstrained
+fri,adj,free,mathematics: unconstrained
+åpen,adj,free,unobstructed
+fri,adj,free,unobstructed
+ledig,adj,free,not in use
+fri,adj,free,without obligations
+ledig,adj,free,without obligations
+fri,adj,free,software: with very few limitations on distribution or improvement
+fri,adj,free,without
+uten,adj,free,without
+fullstendig,adj,full,complete
+komplett,adj,full,complete
+hel,adj,full,"total, entire"
+mett,adj,full,"satisfied, in relation to eating"
+vid,adj,full,"of a garment: ample, wide"
 moro,noun,fun,enjoyment or amusement
+moro,noun,fun,"playful, often noisy, activity"
 artig,adj,funny,amusing; comical
 morsom,adj,funny,amusing; comical
 gøy,adj,funny,amusing; comical
 morosam,adj,funny,amusing; comical
+rar,adj,funny,strange; unusual
+merkelig,adj,funny,strange; unusual
 få tak i,verb,get,to obtain
 oppnå,verb,get,to obtain
+få,verb,get,to receive
+motta,verb,get,to receive
+bli,verb,get,to become
+forstå,verb,get,colloquial: to understand
+fatte,verb,get,colloquial: to understand
+bli,verb,get,colloquial: to be
 bestemor,noun,grandmother,mother of someone's parent
 mormor,noun,grandmother,mother of someone's parent
 farmor,noun,grandmother,mother of someone's parent
 grå,noun,gray,colour
 vokse,verb,grow,(intransitive) to become bigger
+dyrke,verb,grow,(transitive) to cause something to become bigger
 gjetning,noun,guess,prediction about the outcome of something
 inntreffe,verb,happen,to occur
 skje,verb,happen,to occur
 hende,verb,happen,to occur
 glad,adj,happy,"contented, joyous"
 lykkelig,adj,happy,"contented, joyous"
+heldig,adj,happy,"fortunate, lucky"
 hate,verb,hate,to dislike intensely
 ha,verb,have,to possess
 her,adv,here,"in, on, or at this place"
+hit,adv,here,to this place
 høy,adj,high,elevated; tall
+varmt,adj,hot,very close to finding or guessing something to be found or guessed
+tampen brenner,adj,hot,very close to finding or guessing something to be found or guessed
+hus,noun,house,archetypal structure of a human abode
+hvordan,adv,how,in what state
 alvorlig,adj,important,having relevant and crucial value
 betydelig,adj,important,having relevant and crucial value
 viktig,adj,important,having relevant and crucial value
 inn,adv,in,moving to the interior
 inkludere,verb,include,to bring into as a part or member
 innbefatte,verb,include,to bring into as a part or member
+inkludere,verb,include,"to contain, as part of a whole"
+innbefatte,verb,include,"to contain, as part of a whole"
 interessert,adj,interested,having or showing interest
 presentere,verb,introduce,to cause someone to be acquainted
 forestille,verb,introduce,to cause someone to be acquainted
 jeans,noun,jeans,denim trousers
 olabukse,noun,jeans,denim trousers
 beholde,verb,keep,to maintain possession of
+bevare,verb,keep,to maintain the condition of; to preserve
+fortsette,verb,keep,to continue
 slag,noun,kind,"type, race, category"
 vite,verb,know,be justifiably certain or sure about (something true)
+kjenne,verb,know,be acquainted or familiar with
+kunne,verb,know,have knowledge of
+forstå,verb,know,understand (a subject)
+kjenne,verb,know,have sexual relations with
+vite,verb,know,be informed about
 stor,adj,large,of greater size — see also big
 senere,adv,later,more late
 latter,noun,laugh,expression of mirth peculiar to the human species
 lått,noun,laugh,expression of mirth peculiar to the human species
+vits,noun,laugh,something that provokes mirth or scorn
 lære,verb,learn,to acquire knowledge or ability
 etterlate,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
+etterlate,verb,leave,to transfer possession after death
+forlate,verb,leave,"to depart from, end one's connection or affiliation with"
+forlate,verb,leave,to depart (intransitive)
 venstresiden,noun,left,the left side
+venstresiden,noun,left,the ensemble of left-wing political parties
+bein,noun,leg,part of garment covering the leg
+etappe,noun,leg,stage of journey
+spill,noun,leg,game played in a tournament
+kamp,noun,leg,game played in a tournament
+parti,noun,leg,game played in a tournament
+side,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
+sidekant,noun,leg,(mathematics) leg (non-hypotenuse) of a right triangle
 undervisningstime,noun,lesson,section of learning or teaching
 undervisingstime,noun,lesson,section of learning or teaching
 la,verb,let,allow
+leie ut,verb,let,put up for rent
+ligge,verb,lie,be situated
 lyst,adj,light,having light
 opplyst,adj,light,having light
 belyst,adj,light,having light
+lys,adj,light,pale in colour
+blek,adj,light,pale in colour
 lett,adj,light,of low weight
+lett-,adj,light,"low in fat, calories, alcohol, salt, etc."
+banal,adj,light,of little significance
+enkel,adj,light,of little significance
+linje,noun,line,"path through two or more points, threadlike mark"
 liten,adj,little,small in size
 liten,adj,little,small in size
+liten,adj,little,very young
+lille-,adj,little,(of a sibling) younger
+lenge,adv,long,for a long duration
 se,verb,look,to try to see
 skue,verb,look,to try to see
+se ut,verb,look,"to appear, to seem"
+synes,verb,look,"to appear, to seem"
+oppsøke,verb,look,to face
+se ut,verb,look,to expect
 lunsj,noun,lunch,meal around midday
 hoved-,adj,main,"chief, most important, or principal in extent, etc."
+lage,verb,make,to create
+tjene,verb,make,"to earn, to gain (money)"
 passe sammen,verb,match,intransitive: to agree; to be equal
 stemme overens,verb,match,intransitive: to agree; to be equal
 samsvare,verb,match,intransitive: to agree; to be equal
+bety,verb,mean,"to convey, indicate"
 feil,noun,mistake,an error
 moderne,adj,modern,pertaining to the current time and style
+moment,noun,moment,moment of force
+kontanter,noun,money,hard cash
 måtte,verb,must,be required to
 kalle,verb,name,to give a name to
 navngi,verb,name,to give a name to
+velge,verb,name,"to mention, specify"
+nevne,verb,name,"to identify, define, specify"
+utnevne,verb,name,to designate for a role
 trenge,verb,need,to have an absolute requirement for
+trenge,verb,need,to want strongly
 negativ,adj,negative,not positive or neutral
+negativ,adj,negative,of electrical charge
 naboskap,noun,neighborhood,quality of being a neighbor
+naboskap,noun,neighborhood,area near one's home
+strøk,noun,neighborhood,area near one's home
+naboer,noun,neighborhood,inhabitants of a residential area
+boområder,noun,neighborhood,division of a municipality or region
 ny,adj,new,recently made or created
+ny,adj,new,"additional, recently discovered"
+ny,adj,new,current or later
+nåværende,adj,new,current or later
+ny,adj,new,distinguishing something established more recently
+ny,adj,new,"in original condition, pristine"
+ny,adj,new,"refreshed, reinvigorated"
+nyfødt,adj,new,newborn
+ny,adj,new,of recent origin
+ny,adj,new,"strange, unfamiliar"
+ny,adj,new,recently arrived or appeared
+ny,adj,new,"inexperienced, unaccustomed"
+nyheter,noun,news,reports of current events
+avispapir,noun,newspaper,paper on which newspapers are printed
 nærmest,adv,next,"In a time, place or sequence closest or following"
+som neste,adv,next,On the first subsequent occasion
 hyggelig,adj,nice,"pleasant, satisfactory"
 sympatisk,adj,nice,"pleasant, satisfactory"
+pen,adj,nice,"attractive, friendly"
+fin,adj,nice,showing or requiring great precision or sensitive discernment
+numerus,noun,number,"grammar: state of being singular, dual or plural"
 ofte,adv,often,"frequently, many times"
 hyppig,adv,often,"frequently, many times"
+gammel,adj,old,former
 bare,adv,only,without others or anything further; exclusively
 åpne,verb,open,to make something accessible
 lukke opp,verb,open,to make something accessible
+åpne,verb,open,to make accessible to customers
+åpne,verb,open,to begin conducting business
+innlede,verb,open,to start (a campaign)
+ta opp,verb,open,to bring up (a topic)
+åpnes,verb,open,to become open
 oransje,adj,orange,having the colour of the fruit of an orange tree
 ordne,verb,order,to set in (any) order
+ordne,verb,order,to set in (a good) order
+bestille,verb,order,to request some product or service
 ut,adv,out,away from the inside or the centre
+ute,adv,out,away from one's usual place or not indoors
+borte,adv,out,away from one's usual place or not indoors
+vekk,adv,out,"away from, at a distance"
+borte,adv,out,"away from, at a distance"
+av,adv,out,into a state of non-operation or non-existence
+ut,adv,out,into a state of non-operation or non-existence
 ut,adv,outside,in or to the outside
 ute,adv,outside,in or to the outside
 utenfor,adv,outside,in or to the outside
+ute,adv,outside,outdoors
+utendørs,adv,outside,outdoors
+utomhus,adv,outside,outdoors
 pasje,noun,page,serving boy
 måling,noun,paint,substance
+maleri,noun,painting,the action of applying paint
 bukse,noun,pants,garment covering the body from the waist downwards
 brok,noun,pants,garment covering the body from the waist downwards
 parkere,verb,park,bring (a vehicle) to a halt
 del,noun,part,fraction of a whole
+del,noun,part,group inside a larger group
+del,noun,part,section of a document
+rolle,noun,part,"position or role, especially in a play"
 perfekt,adj,perfect,fitting its definition precisely
+plan,noun,plane,geometry: flat surface extending infinitely in all directions
+plan,noun,plane,level of existence
 høvel,noun,plane,a tool
 fly,noun,plane,airplane
 plante,noun,plant,organism capable of photosynthesis
 plante,noun,plant,organism capable of photosynthesis
+punkt,noun,point,location or place
+komma,noun,point,"arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect this.)"
+dårlig,adj,poor,of low quality
+elendig,adj,poor,of low quality
+stakkars,adj,poor,used to express pity
+legge ut,verb,post,(Internet) publish a message
+tilberede,verb,prepare,to make ready for eating or drinking
+pris,noun,price,cost of an action or deed
 lilla,noun,purple,colour
 fiolett,noun,purple,colour
+bydel,noun,quarter,section of a town
+kvarter,noun,quarter,section of a town
 rask,adj,quick,moving with speed
 kvikk,adj,quick,moving with speed
+rask,adj,quick,occurring in a short time
+kvikk,adj,quick,occurring in a short time
+kvikk,adj,quick,"lively, witty"
+kvikk,adj,quick,"mentally agile, perceptive"
+frisk og rask,adj,quick,alive
 fort,adv,quickly,"rapidly, fast"
+rolig,adj,quiet,having little motion
+rolig,adj,quiet,not busy
 temmelig,adv,quite,to the greatest extent; completely
+helt,adv,quite,in a fully justified sense; truly
+ganske,adv,quite,to a moderate extent
 regne,verb,rain,of rain: to fall from the sky
+regne,verb,rain,to fall in large quantities
+regne,verb,rain,to issue in large quantities
 klar,adj,ready,prepared for immediate action or use
 parat,adj,ready,prepared for immediate action or use
+beredt,adj,ready,"inclined, apt to happen"
+rede,adj,ready,"inclined, apt to happen"
 virkelig,adj,real,"true, genuine, not merely nominal"
+veldig,adv,really,"informally, as an intensifier; very, very much"
 rød,noun,red,colour
 raud,noun,red,colour
+slappe av,verb,relax,to make something loose
+ri,verb,ride,to be transported in a vehicle as a passenger
 regel,noun,rule,regulation
+si,verb,say,to communicate verbally or in writing
 sekundant,noun,second,attendant of a duel or boxing match standing in for a contestant
+støtte,noun,second,one who agrees in addition
+feilvare,noun,second,manufactured item that fails to meet quality control standards
 selge,verb,sell,to agree to transfer goods or provide services for payment
+få solgt,verb,sell,to be sold
+bli solgt,verb,sell,to be sold
 sende,verb,send,make something go somewhere
 dele,verb,share,to give
+dele,verb,share,to divide and distribute
 sau,noun,sheep,animal
 får,noun,sheep,animal
 handle,verb,shop,to visit shops
 shoppe,verb,shop,to visit shops
 burde,verb,should,expressing obligation
+burde,verb,should,expressing likelihood
+skulle,verb,should,if; in case of
 syke,adj,sick,"ill, used as a substantive: sick people, collectively"
 sitte,verb,sit,"of a person, be in a position in which the upper body is upright and the legs are supported"
+sitte,verb,sit,of an object: occupy a given position permanently
 dyktighet,noun,skill,capacity to do something well
 evne,noun,skill,capacity to do something well
 ferdighet,noun,skill,capacity to do something well
@@ -182,46 +448,117 @@ evne,noun,skill,capacity to do something well
 ferdigheit,noun,skill,capacity to do something well
 talent,noun,skill,capacity to do something well
 liten,adj,small,not large
+liten,adj,small,young
+ung,adj,small,young
+stakefjær,noun,snake,plumbing tool
 så,adv,so,very
+så,adv,so,to a particular extent
+slik,adv,so,in the same aformentioned manner
 stundom,adv,sometimes,"on certain occasions, but not always"
 av og til,adv,sometimes,"on certain occasions, but not always"
 tidvis,adv,sometimes,"on certain occasions, but not always"
 snart,adv,soon,within a short time
+sørgelig,adj,sorry,"poor, regrettable"
+rom,noun,space,physical extent in two or three dimensions
+spesiell,adj,special,of particular interest or value; certain; dear; beloved; favored
+stave,verb,spell,to compose a word
+bruke,verb,spend,"to consume, to use up (time)"
 stå,verb,stand,to support oneself on the feet in an erect position
+reise seg,verb,stand,to rise to one’s feet
+stå opp,verb,stand,to rise to one’s feet
+stå,verb,stand,to remain motionless
+bli stående,verb,stand,to remain motionless
+motstå,verb,stand,to tolerate
+tåle,verb,stand,to tolerate
+reise opp,verb,stand,to place in an upright or standing position
 begynne,verb,start,to begin
+starte,verb,start,to set in motion
 bli,verb,stay,to remain in a particular place
 forbli,verb,stay,to remain in a particular place
+bli,verb,stay,to continue to have a particular quality
+forbli,verb,stay,to continue to have a particular quality
+enda,adv,still,to an even greater degree
+likevel,adv,still,nevertheless
+enda,adv,still,nevertheless
 studere,verb,study,to revise/review materials
 lære,verb,study,to revise/review materials
+tiltaleform,noun,style,legal or traditional term or formula of words used to address or refer to a person
+stil,noun,style,"manner of creating, doing, or presenting something, especially a work of architecture or art"
 taxi,noun,taxi,vehicle available for public hire
 drosje,noun,taxi,vehicle available for public hire
 undervise,verb,teach,to pass on knowledge
 lære,verb,teach,to pass on knowledge
 fryktelig,adj,terrible,dreadful; causing alarm or fear
 forferdelig,adj,terrible,dreadful; causing alarm or fear
+fryktelig,adj,terrible,most formidable
+forferdelig,adj,terrible,most formidable
+fryktelig,adj,terrible,intense; extreme in degree or extent
+forferdelig,adj,terrible,intense; extreme in degree or extent
+ubehagelig,adj,terrible,unpleasant
+fryktelig,adj,terrible,very bad
+forferdelig,adj,terrible,very bad
 takke,verb,thank,to express appreciation or gratitude toward (someone or something)
+takke,verb,thank,to credit or hold (someone or something) responsible
 da,adv,then,at that time
 den gang,adv,then,at that time
+så,adv,then,soon afterward
+deretter,adv,then,soon afterward
+siden,adv,then,soon afterward
+så,adv,then,next in order
+deretter,adv,then,next in order
+da,adv,then,in that case
+i så fall,adv,then,in that case
+da,adv,then,at the same time; on the other hand
 der,adv,there,in or at that place
+dit,adv,there,to or into that place; thither
+overskrift,noun,title,subject of a writing
 i lag,adv,together,"at the same time, in the same place"
+samlet,adv,together,into one place
 i morgen,noun,tomorrow,the day after the present day
 i kveld,noun,tonight,nighttime today
 i natt,noun,tonight,nighttime today
+slaglengde,noun,travel,length of a mechanical stroke
 reise,noun,trip,journey
+sann,adj,true,state in Boolean logic that indicates an affirmative or positive result
+tro,adj,true,"loyal, faithful"
+trofast,adj,true,"loyal, faithful"
+ekte,adj,true,"genuine, legitimate"
+sann,adj,true,"genuine, legitimate"
 prøve,verb,try,to attempt
 forsøke,verb,try,to attempt
+stille for retten,verb,try,to put on trial
+paraply,noun,umbrella,anything that provides protection
+paraply,noun,umbrella,"something that covers a wide range of concepts, ideas, etc."
 opp,adv,up,away from earth’s surface
+opp,adv,up,"completely, thoroughly"
+opp,adv,up,north
+opp,adv,up,"higher, louder"
+opp,adv,up,higher in pitch
 nyttig,adj,useful,having a practical or beneficial use
 vanligvis,adv,usually,most of the time
+veldig,adv,very,"true, truly"
+aller,adv,very,"true, truly"
+vekke,verb,wake,to make somebody stop sleeping
 ville,verb,want,to desire
 ønske,verb,want,to desire
 tvette,verb,wash,to clean with water
 vaske,verb,wash,to clean with water
+vann,noun,water,"body of water, or specific part of it"
+tiss,noun,water,urine
+drikkevann,noun,water,serving of water
+måte,noun,way,method or manner
 når,adv,when,"at what time, as a direct question"
 ville,verb,will,to wish or desire
+vinne,verb,win,obtain (someone) by wooing
+vinne,verb,win,intransitive: achieve by winning
+overvinne,verb,win,intransitive: achieve by winning
 underfull,adj,wonderful,"excellent, extremely impressive"
 vidunderlig,adj,wonderful,"excellent, extremely impressive"
 galt,adj,wrong,incorrect
 uriktig,adj,wrong,incorrect
+galt,adj,wrong,immoral
+gal,adj,wrong,improper
+feil,adj,wrong,not working
+vrang,adj,wrong,designed to be worn or placed inward
 gul,noun,yellow,color
 ung,adj,young,in the early part of life or growth
