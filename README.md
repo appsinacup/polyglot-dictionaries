@@ -46,6 +46,11 @@ The first dictionary is located in the [1000_words](./1000_words/) folder. Each 
 
 Open the dictionary for your language and remove wrong translations.
 
+Rules to use when removing words:
+- Only keep one gender (masculine when present).
+- Only keep the main sense. (In case there are 2 senses or more, you can keep them only if the translation from english -> translated_language and translated_language -> english hold true)
+- Only keep newer words, remove archaic or old fashioned words.
+
 ## FAQ
 
 - How is this obtained?
