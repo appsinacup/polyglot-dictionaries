@@ -8,69 +8,24 @@ marți,noun,Tuesday,day of the week
 miercuri,noun,Wednesday,day of the week
 cam,adv,about,"nearly, approximately"
 deasupra,adv,above,in a higher place
-faptă,noun,action,something done so as to accomplish a purpose
 acțiune,noun,action,something done so as to accomplish a purpose
 activitate,noun,activity,state or quality of being active
-activitate,noun,activity,something done as an action or a movement
-activitate,noun,activity,something done for pleasure or entertainment
 actor,noun,actor,person who performs in a theatrical play or film — see also actress
-actriță,noun,actor,person who performs in a theatrical play or film — see also actress
-făcător,noun,actor,one who acts; a doer
-făcătoare,noun,actor,one who acts; a doer
-participant,noun,actor,one who takes part in a situation
-participantă,noun,actor,one who takes part in a situation
 actriță,noun,actress,female actor — see also actor
 adăuga,verb,add,to append (e.g. a statement); to say further information; to add on
-adăuga,verb,add,to make an addition; to augment; to increase; to add on
-aduna,verb,add,"to perform the arithmetical operation of addition, to add up"
-comportare,noun,address,manner of speaking to another
-ținută,noun,address,manner of speaking to another
 adresare,noun,address,act of addressing oneself to a person or group
-discurs,noun,address,act of addressing oneself to a person or group
 adresă,noun,address,description of the location of a property; direction for correspondence
-adresă de memorie,noun,address,computing: location in computer memory
-îndemânare,noun,address,"preparedness for a task, skill — see also skill"
-dexteritate,noun,address,"preparedness for a task, skill — see also skill"
-abilitate,noun,address,"preparedness for a task, skill — see also skill"
 adult,noun,adult,fully grown human
-adultă,noun,adult,fully grown human
 sfat,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
-îndrumare,noun,advice,"opinion recommended or offered, as worthy to be followed; counsel"
 după-amiază,noun,afternoon,part of the day between noon and evening
-după masă,noun,afternoon,part of the day between noon and evening
-iarăși,adv,again,another time
 din nou,adv,again,another time
-iar,adv,again,another time
 vârstă,noun,age,amount of time since the birth of a being or the beginning of a thing
-etate,noun,age,amount of time since the birth of a being or the beginning of a thing
-perioadă,noun,age,one of the stages of life
-vârstă,noun,age,one of the stages of life
-majorat,noun,age,time of life at which one attains full personal rights and capacities
-epocă,noun,age,particular period of time in history
-ev,noun,age,particular period of time in history
-eră,noun,age,particular period of time in history
-epocă,noun,age,great period in the history of the Earth
-eră,noun,age,great period in the history of the Earth
-ev,noun,age,great period in the history of the Earth
-generație,noun,age,generation — see also generation
-veșnicie,noun,age,a long time
-viață,noun,age,lifespan
 fi de acord,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
-cădea de acord,verb,agree,harmonize in opinion; be in unison or concord; be united; concur
-aer,noun,air,historical: one of the basic elements
-văzduh,noun,air,historical: one of the basic elements
 aer,noun,air,mixture of gases making up the atmosphere of the Earth
-văzduh,noun,air,mixture of gases making up the atmosphere of the Earth
-eter,noun,air,mixture of gases making up the atmosphere of the Earth
-atmosferă,noun,air,mixture of gases making up the atmosphere of the Earth
-arie,noun,air,"music: a song, an aria"
 aeroport,noun,airport,place designated for airplanes
-și,adv,also,in addition; besides; as well; further; too
 de asemenea,adv,also,in addition; besides; as well; further; too
-încă,adv,also,in addition; besides; as well; further; too
-totdeauna,adv,always,at all times
-mereu,adv,always,at all times
 întotdeauna,adv,always,at all times
+TODO,-,-,-
 uimitor,adj,amazing,causing wonder and amazement
 extraordinar,adj,amazing,causing wonder and amazement
 extraordinar,adj,amazing,possessing uniquely wonderful qualities
