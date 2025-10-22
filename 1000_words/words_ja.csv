@@ -93,6 +93,12 @@ word,part_of_speech,english_word,sense
 生物,noun,animal,organism other than human
 獣,noun,animal,organism other than human
 けだもの,noun,animal,person who behaves wildly
+答え,noun,answer,response
+回答,noun,answer,response
+応答,noun,answer,response
+解答,noun,answer,solution
+返事,noun,answer,reply to email
+返答,noun,answer,reply to email
 答える,verb,answer,to make a reply or response to
 返事する,verb,answer,to make a reply or response to
 答える,verb,answer,to suit a need or purpose satisfactorily
@@ -163,6 +169,18 @@ word,part_of_speech,english_word,sense
 元の,adv,back,to or in a previous condition or place
 元通り,adv,back,to or in a previous condition or place
 以前の,adv,back,to or in a previous condition or place
+背,noun,back,the rear of body
+背中,noun,back,the rear of body
+背面,noun,back,the rear of body
+裏,noun,back,the reverse side
+裏面,noun,back,the reverse side
+裏側,noun,back,the reverse side
+背後,noun,back,the reverse side
+最後,noun,back,that which is farthest away from the front
+後ろ,noun,back,that which is farthest away from the front
+後ろ,noun,back,the part of something that goes last
+後方,noun,back,the part of something that goes last
+後ろ側,noun,back,the part of something that goes last
 悪い,adj,bad,unfavorable; negative
 悪い,adj,bad,not suitable or fitting
 悪い,adj,bad,"not appropriate, of manners etc."
@@ -282,12 +300,23 @@ word,part_of_speech,english_word,sense
 お誕生日,noun,birthday,anniversary
 誕辰,noun,birthday,anniversary
 生年月日,noun,birthday,date of birth — see also date of birth
+黒い,adj,black,absorbing all light
+黒色の,adj,black,absorbing all light
+黒人の,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
 黒,noun,black,colour/color
 黒色,noun,black,colour/color
 黒人,noun,black,dark-skinned person — see also Negro
 ブログ,noun,blog,a personal or corporate website
 金髪の,adj,blond,of a pale golden colour
 金髪,adj,blond,having blond hair
+青い,adj,blue,"blue-coloured — see also dark blue, light blue"
+青の,adj,blue,"blue-coloured — see also dark blue, light blue"
+憂鬱な,adj,blue,depressed
+ブルーな,adj,blue,depressed
+ピンク,adj,blue,pornographic
 青,noun,blue,colour
 紺,noun,blue,colour
 舟,noun,boat,water craft
@@ -336,6 +365,23 @@ word,part_of_speech,english_word,sense
 休憩,noun,break,"rest or pause, usually from work"
 ブレーク,noun,break,tennis: game won by receiving party
 ブレーク,noun,break,"billiards, snooker: first shot"
+割れる,verb,break,intransitive: to separate into (to end up in) two or more pieces
+散らばる,verb,break,intransitive: to separate into (to end up in) two or more pieces
+割る,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+壊す,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+砕く,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+ひびが入る,verb,break,"intransitive, of a bone: to crack"
+折れる,verb,break,"intransitive, of a bone: to crack"
+ひびが入る,verb,break,transitive: to cause (a bone) to crack
+折れる,verb,break,transitive: to cause (a bone) to crack
+破る,verb,break,transitive: to do that which is forbidden by (something)
+犯す,verb,break,transitive: to do that which is forbidden by (something)
+壊れる,verb,break,intransitive: to stop functioning properly or altogether
+壊す,verb,break,transitive: to cause to stop functioning
+破壊する,verb,break,transitive: to cause to stop functioning
+休憩する,verb,break,to interrupt or cease one's work or occupation temporarily
+ブレークを取る,verb,break,to win a game as receiver in tennis
+ブレークする,verb,break,billiards: to make the first shot
 朝食,noun,breakfast,first meal of the day
 朝御飯,noun,breakfast,first meal of the day
 朝飯,noun,breakfast,first meal of the day
@@ -350,6 +396,8 @@ word,part_of_speech,english_word,sense
 兄弟,noun,brother,male having parents in common
 修道士,noun,brother,male fellow member of a religious community
 ブラザー,noun,brother,male fellow member of a religious community
+茶色い,adj,brown,having a brown colour
+褐色,adj,brown,having a brown colour
 茶色,noun,brown,colour
 褐色,noun,brown,colour
 建てる,verb,build,(transitive) to form by combining materials or parts
@@ -373,6 +421,9 @@ word,part_of_speech,english_word,sense
 商い,noun,business,"occupation, work or trade of a person"
 業務,noun,business,"occupation, work or trade of a person"
 景気,noun,business,volume or amount of commercial trade
+繁華,adj,busy,crowded with business or activities
+忙しい,adj,busy,doing a great deal
+使用中,adj,busy,doing a great deal
 バター,noun,butter,soft foodstuff made from milk
 牛酪,noun,butter,soft foodstuff made from milk
 乳酪,noun,butter,soft foodstuff made from milk
@@ -388,6 +439,13 @@ word,part_of_speech,english_word,sense
 来訪,noun,call,social visit
 呼び出し,noun,call,computing: act of jumping to a subprogram
 呼び,noun,call,computing: act of jumping to a subprogram
+呼ぶ,verb,call,"to request, summon, or beckon"
+叫ぶ,verb,call,to cry or shout
+電話する,verb,call,to contact by telephone
+電話をかける,verb,call,to contact by telephone
+訪ねる,verb,call,to pay a social visit
+訪問する,verb,call,to pay a social visit
+呼ぶ,verb,call,to name or refer to
 カメラ,noun,camera,still camera
 写真機,noun,camera,still camera
 ビデオカメラ,noun,camera,movie camera
@@ -401,6 +459,8 @@ word,part_of_speech,english_word,sense
 e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 食べられない,verb,cannot,"cannot — see also can, not"
 食べれない,verb,cannot,"cannot — see also can, not"
+資本,noun,capital,money and wealth
+柱頭,noun,capital,uppermost part of a column
 車,noun,car,"automobile, a vehicle steered by a driver"
 自動車,noun,car,"automobile, a vehicle steered by a driver"
 カード,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
@@ -448,6 +508,17 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 釣り銭,noun,change,balance returned after a purchase
 釣り,noun,change,balance returned after a purchase
 乗り換え,noun,change,a transfer between vehicles
+変わる,verb,change,to become something different
+変化する,verb,change,to become something different
+化ける,verb,change,to become something different
+変える,verb,change,to make something into something else
+変更する,verb,change,to make something into something else
+代える,verb,change,to replace
+替える,verb,change,to replace
+換える,verb,change,to replace
+着換える,verb,change,to replace one's own clothing
+着替える,verb,change,to replace one's own clothing
+乗り換える,verb,change,to transfer to another vehicle
 チャート,noun,chart,non-narrative presentation of data
 図表,noun,chart,non-narrative presentation of data
 安い,adj,cheap,low and/or reduced in price
@@ -505,6 +576,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 クラス,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 教室,noun,classroom,room in a school
 教場,noun,classroom,room in a school
+清い,adj,clean,not dirty
+清潔な,adj,clean,not dirty
+綺麗な,adj,clean,not dirty
 掃除する,verb,clean,(transitive) to remove dirt from a place or object
 清潔にする,verb,clean,(transitive) to remove dirt from a place or object
 整理する,verb,clean,(transitive) to tidy up
@@ -551,6 +625,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 コーヒー豆,noun,coffee,beans
 コーヒーの木,noun,coffee,plant
 コーヒー色,noun,coffee,colour
+冷たい,adj,cold,having a low temperature
+寒い,adj,cold,having a low temperature
+寒い,adj,cold,of the weather
+寒い,adj,cold,of a person's sensation
+つれない,adj,cold,unfriendly
+冷たい,adj,cold,unfriendly
 風邪,noun,cold,illness
 感冒,noun,cold,illness
 大学,noun,college,academic institution
@@ -604,6 +684,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 消防隊,noun,company,unit of firefighters and their equipment
 比べる,verb,compare,to assess the similarities between two things or between one thing and another
 比較する,verb,compare,to assess the similarities between two things or between one thing and another
+完全な,adj,complete,with everything included
+全い,adj,complete,with everything included
+終わった,adj,complete,finished; ended; concluded; completed
 完了する,verb,complete,to finish
 完うする,verb,complete,to finish
 終える,verb,complete,to finish
@@ -636,11 +719,15 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 素敵,adj,cool,colloquial: in fashion
 すごい,adj,cool,colloquial: in fashion
 格好いい,adj,cool,colloquial: in fashion
+正しい,adj,correct,free from error
+正解,adj,correct,free from error
 正す,verb,correct,to make something become right that was previously wrong
 直す,verb,correct,to make something become right that was previously wrong
 修正する,verb,correct,to make something become right that was previously wrong
 是正する,verb,correct,to make something become right that was previously wrong
 訂正する,verb,correct,to make something become right that was previously wrong
+費用,noun,cost,amount of money spent for a purpose
+代償,noun,cost,negative consequence or loss
 費やす,verb,cost,"to incur a charge, a price"
 掛かる,verb,cost,"to incur a charge, a price"
 国,noun,country,region of land
@@ -713,6 +800,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 パパ,noun,dad,informal: a father
 父,noun,dad,informal: a father
 お父さん,noun,dad,familiar address of one's own father
+ダンス,noun,dance,movements to music
+踊り,noun,dance,movements to music
+舞踊,noun,dance,movements to music
+知恵比べ,noun,dance,battle of wits
+知力ゲーム,noun,dance,battle of wits
 踊る,verb,dance,move rhythmically to music
 ダンスする,verb,dance,move rhythmically to music
 ダンサー,noun,dancer,person who dances
@@ -767,6 +859,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 説明,noun,description,account in words
 描写,noun,description,account in words
 記載,noun,description,taxonomy: scientific documentation of a taxon
+設計,noun,design,plan
+デザイン,noun,design,plan
+模様,noun,design,pattern
+デザイン,noun,design,pattern
+意図,noun,design,intention
+デザイン,noun,design,art of designing
 机,noun,desk,table for writing and reading
 詳細,noun,detail,part small enough to escape casual notice
 対談,noun,dialogue,conversation or other discourse between individuals
@@ -842,8 +940,20 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 描く,verb,draw,to produce a picture
 引く,verb,draw,"to pull out, unsheath"
 引き分ける,verb,draw,to end a game with neither side winning
+ワンピース,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+ドレス,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+服,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+衣服,noun,dress,apparel or clothing
 服を着せる,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 服を着る,verb,dress,to put on clothes — see also get dressed
+飲み物,noun,drink,served beverage
+ドリンク,noun,drink,served beverage
+飲料,noun,drink,served beverage
+飲料,noun,drink,type of beverage
+お酒,noun,drink,served alcoholic beverage
+飲用,noun,drink,action of drinking
+酒,noun,drink,alcoholic beverages in general
+お酒,noun,drink,alcoholic beverages in general
 飲む,verb,drink,consume liquid through the mouth
 召し上がる,verb,drink,consume liquid through the mouth
 頂く,verb,drink,consume liquid through the mouth
@@ -866,7 +976,16 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ドライバ,noun,driver,program acting as interface between an application and hardware
 穂,noun,ear,fruiting body of a grain plant
 耳,noun,ear,organ of hearing
+早い,adj,early,at a time in advance of the usual
+早い,adj,early,arriving at a time before expected
+早い,adj,early,near but after the start or beginning
+初期の,adj,early,illness: having begun to occur
+早期の,adj,early,illness: having begun to occur
 早く,adv,early,at a time before expected
+東,adj,east,in or towards the east
+東部,adj,east,of or pertaining to the east
+東,noun,east,compass point
+東方,noun,east,compass point
 簡単な,adj,easy,requiring little skill or effort
 易しい,adj,easy,requiring little skill or effort
 容易な,adj,easy,requiring little skill or effort
@@ -887,7 +1006,29 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 象,noun,elephant,mammal
 ゾウ,noun,elephant,mammal
 然も無くば,adv,else,word that implies any result with the exception of the one being referred to
+電子メール,noun,email,system for sending messages and datas by means of computers connected together in a network
+Eメール,noun,email,system for sending messages and datas by means of computers connected together in a network
+イーメール,noun,email,system for sending messages and datas by means of computers connected together in a network
+メール,noun,email,system for sending messages and datas by means of computers connected together in a network
+電子メール,noun,email,message sent through email
+Eメール,noun,email,message sent through email
+イーメール,noun,email,message sent through email
+メール,noun,email,message sent through email
+メールアドレス,noun,email,email address — see also e-mail address
+メアド,noun,email,email address — see also e-mail address
 メールするtr=mēru suru,verb,email,(transitive) to send an email or emails to
+終了,noun,end,extreme part
+終わり,noun,end,extreme part
+終い,noun,end,extreme part
+端,noun,end,extreme part
+最後,noun,end,extreme part
+エンド,noun,end,extreme part
+ご臨終,noun,end,death
+終わり,noun,end,death
+最期,noun,end,death
+結末,noun,end,result
+結果,noun,end,result
+到達点,noun,end,purpose
 終わる,verb,end,"intransitive: be finished, be terminated"
 終了する,verb,end,"intransitive: be finished, be terminated"
 終了する,verb,end,"transitive: finish, terminate (something)"
@@ -924,6 +1065,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 例,noun,example,something serving to explain or illustrate a rule
 興奮する,adj,excited,having great enthusiasm and energy
 励起する,adj,excited,being in a state of higher energy
+練習,noun,exercise,any activity designed to develop or hone a skill or ability
+運動,noun,exercise,physical activity intended to improve strength and fitness
+体操,noun,exercise,physical activity intended to improve strength and fitness
+体育,noun,exercise,physical activity intended to improve strength and fitness
+エクササイズ,noun,exercise,physical activity intended to improve strength and fitness
 練習する,verb,exercise,exert for the sake of training
 高い,adj,expensive,having a high price or cost
 説明する,verb,explain,to make intelligible
@@ -952,9 +1098,32 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 実情,noun,fact,information about a particular subject
 落下,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 没落,noun,fall,loss of greatness or status
+落ちる,verb,fall,move to a lower position under the effect of gravity
+崩れる,verb,fall,move to a lower position under the effect of gravity
+落下する,verb,fall,move to a lower position under the effect of gravity
+転ぶ,verb,fall,move to a lower position under the effect of gravity
+降下する,verb,fall,move to a lower position under the effect of gravity
+降る,verb,fall,move to a lower position under the effect of gravity
+降る,verb,fall,come down or descend
+降下,verb,fall,come down or descend
+ひれふす,verb,fall,prostrate oneself
+倒れる,verb,fall,collapse; be overthrown or defeated
+潰れる,verb,fall,collapse; be overthrown or defeated
+潰える,verb,fall,collapse; be overthrown or defeated
+倒れる,verb,fall,die
+斃れる,verb,fall,die
 偽,adj,false,"untrue, not factual, wrong"
 虚偽,adj,false,"untrue, not factual, wrong"
 偽,adj,false,state in Boolean logic that indicates a negative result
+家族,noun,family,"immediate family [as a group], e.g. parents and their children"
+ご家族,noun,family,"immediate family [as a group], e.g. parents and their children"
+家庭,noun,family,"immediate family [as a group], e.g. parents and their children"
+親戚,noun,family,"group of people related by blood, marriage, law, or custom"
+親類,noun,family,"group of people related by blood, marriage, law, or custom"
+親族,noun,family,"group of people related by blood, marriage, law, or custom"
+家庭,noun,family,"group of people related by blood, marriage, law, or custom"
+科,noun,family,"rank in a taxonomic classification, above both genus and species"
+語族,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
 有名,adj,famous,well known
 高名,adj,famous,well known
 名高い,adj,famous,well known
@@ -964,6 +1133,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 農場,noun,farm,place where agricultural activities take place
 農夫,noun,farmer,person who works the land and/or who keeps livestock
 農家,noun,farmer,person who works the land and/or who keeps livestock
+しっかりした,adj,fast,firmly or securely fixed in place
+速い,adj,fast,moving or capable of moving with great speed
+早い,adj,fast,ahead of the correct time or schedule
 しっかりと,adv,fast,in a firm or secure manner
 速く,adv,fast,with great speed
 急いで,adv,fast,with great speed
@@ -1064,6 +1236,10 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 忘れる,verb,forget,to unintentionally not do
 忘れる,verb,forget,to leave behind
 忘れる,verb,forget,to cease remembering
+形状,noun,form,shape or visible structure
+形式,noun,form,shape or visible structure
+用紙,noun,form,document to be filled in
+語形,noun,form,grouping of words
 形作る,verb,form,to give shape
 自由,adj,free,not imprisoned
 自由,adj,free,unconstrained
@@ -1085,6 +1261,15 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 友の,adj,friendly,pertaining to friendlies in the conflict sense
 友好的な,adj,friendly,pertaining to friendlies in the conflict sense
 前面の,adj,front,located at or near the front
+前,noun,front,facing side
+前側,noun,front,facing side
+手前,noun,front,facing side
+正面,noun,front,main entrance side
+表,noun,front,main entrance side
+フロント,noun,front,public face of covert organisation
+前線,noun,front,meteorology: interface between airmasses
+前線,noun,front,military: area or line of conflict
+戦線,noun,front,military: area or line of conflict
 果実,noun,fruit,part of plant
 果物,noun,fruit,part of plant
 フルーツ,noun,fruit,part of plant
@@ -1207,6 +1392,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 祖母,noun,grandmother,mother of someone's parent
 外祖母,noun,grandmother,mother of someone's parent
 祖父母,noun,grandparent,parent of one's parent
+灰色,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+鼠色,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+曖昧な,adj,gray,of an indistinct quality
+あやふや,adj,gray,of an indistinct quality
+ぼんやり,adj,gray,of an indistinct quality
 灰色,noun,gray,colour
 鼠色,noun,gray,colour
 大きい,adj,great,"very big, large scale"
@@ -1219,6 +1409,21 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 偉大な,adj,great,uncommonly gifted
 非凡な,adj,great,uncommonly gifted
 大王,adj,great,important title
+緑の,adj,green,having green as its colour
+緑色の,adj,green,having green as its colour
+青い,adj,green,having green as its colour
+青の,adj,green,having green as its colour
+病弱,adj,green,sickly
+青い,adj,green,inexperienced
+未熟,adj,green,inexperienced
+未経験,adj,green,inexperienced
+生,adj,green,inexperienced
+グリーン,adj,green,environmentally friendly
+環境に優しい,adj,green,environmentally friendly
+羨ましい,adj,green,envious
+生,adj,green,"of bacon, etc.: unprocessed, raw"
+未熟,adj,green,of fruit: unripe
+生,adj,green,lumber
 緑,noun,green,colour
 緑色,noun,green,colour
 集団,noun,group,number of things or persons being in some relation to each other
@@ -1234,6 +1439,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 増大する,verb,grow,(intransitive) to become bigger
 育てる,verb,grow,(transitive) to cause something to become bigger
 推測,noun,guess,prediction about the outcome of something
+推測する,verb,guess,to reach an unconfirmed conclusion
+察する,verb,guess,to reach an unconfirmed conclusion
+憶測する,verb,guess,to reach an unconfirmed conclusion
+当てる,verb,guess,to solve by a correct conjecture
+言い当てる,verb,guess,to solve by a correct conjecture
 ギター,noun,guitar,musical instrument
 体育館,noun,gym,sporting facility specialized for lifting weights and exercise
 ジム,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -1260,6 +1470,10 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 嬉しい,adj,happy,"contented, joyous"
 幸運な,adj,happy,"fortunate, lucky"
 運のよい,adj,happy,"fortunate, lucky"
+硬い,adj,hard,resistant to pressure
+難しい,adj,hard,requiring a lot of effort to do or understand
+困難な,adj,hard,requiring a lot of effort to do or understand
+濃い,adj,hard,of drink: strong
 熱心に,adv,hard,with much force or effort (related to act of think)
 帽子,noun,hat,a head covering
 憎む,verb,hate,to dislike intensely
@@ -1304,6 +1518,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 手伝い,noun,help,person or persons who provides assistance with some task
 助手,noun,help,person or persons who provides assistance with some task
 ヘルプ,noun,help,textual support of a software application
+助ける,verb,help,transitive: provide assistance to (someone or something)
+手伝う,verb,help,transitive: provide assistance to (someone or something)
 ここ,adv,here,"in, on, or at this place"
 ここに,adv,here,"in, on, or at this place"
 ここで,adv,here,"in, on, or at this place"
@@ -1326,6 +1542,14 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 家で,adv,home,at home
 家へ,adv,home,homewards
 家に,adv,home,homewards
+家,noun,home,house or structure in which someone lives
+お住まい,noun,home,house or structure in which someone lives
+お宅,noun,home,house or structure in which someone lives
+故郷,noun,home,someone’s native land
+母国,noun,home,someone’s native land
+故郷,noun,home,childhood or parental home
+実家,noun,home,childhood or parental home
+生息地,noun,home,habitat
 宿題,noun,homework,work that is done at home
 課題,noun,homework,work that is done at home
 希望する,verb,hope,"to want something to happen, with expectation that it might"
@@ -1405,9 +1629,21 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 含む,verb,include,"to contain, as part of a whole"
 情報,noun,information,communicable knowledge
 案内,noun,information,communicable knowledge
+利子,noun,interest,finance: price of credit
+利息,noun,interest,finance: price of credit
+興味,noun,interest,great attention and concern from someone
+関心,noun,interest,great attention and concern from someone
+興味,noun,interest,attention that is given to or received from someone or something
+関心,noun,interest,attention that is given to or received from someone or something
+利益,noun,interest,"involvement in or link with financial, business, or other undertaking"
+関心,noun,interest,something one is interested in
+趣味,noun,interest,something one is interested in
 興味を引く,verb,interest,to attract attention or concern
 面白い,adj,interesting,arousing or holding the attention
 興味深い,adj,interesting,arousing or holding the attention
+インタビュー,noun,interview,conversation with journalist etc.
+面談,noun,interview,conversation with journalist etc.
+面接,noun,interview,a formal meeting for the assessment of a candidate or applicant
 面接する,verb,interview,to have an interview
 紹介する,verb,introduce,to cause someone to be acquainted
 引き合わせる,verb,introduce,to cause someone to be acquainted
@@ -1460,6 +1696,14 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 飼う,verb,keep,of livestock: to raise; to care for
 キー,adj,key,indispensable
 キー,adj,key,important
+鍵,noun,key,device designed to open and close a lock
+キー,noun,key,object used to maintain the orientation between two others
+鍵,noun,key,crucial step
+キー,noun,key,button on a typewriter or computer keyboard
+ボタン,noun,key,button on a typewriter or computer keyboard
+鍵,noun,key,part of a piano or musical keyboard
+キー,noun,key,part of a piano or musical keyboard
+調,noun,key,scale of musical notes
 種類,noun,kind,"type, race, category"
 台所,noun,kitchen,room
 厨房,noun,kitchen,room
@@ -1494,12 +1738,24 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 言い回し,noun,language,particular words used
 言語,noun,language,computer language — see also computer language
 大きい,adj,large,of greater size — see also big
+晩い,adj,late,near the end of a period of time
+晩い,adj,late,near the end of the day
+晩い,adj,late,associated with the end of a period
+晩い,adj,late,not arriving until after an expected time
+遅れた,adj,late,not arriving until after an expected time
+故,adj,late,"euphemism for ""dead"""
+亡き,adj,late,"euphemism for ""dead"""
+最近,adj,late,recent
 遅刻に,adv,late,past a designated time
 遅く,adv,late,past a designated time
 後に,adv,later,more late
 後で,adv,later,afterward in time
 笑い,noun,laugh,expression of mirth peculiar to the human species
 笑い物,noun,laugh,something that provokes mirth or scorn
+笑う,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+笑い飛ばす,verb,laugh,make an object of laughter or ridicule
+嘲笑う,verb,laugh,make an object of laughter or ridicule
+一笑に付す,verb,laugh,affect or influence by means of laughter
 習う,verb,learn,to acquire knowledge or ability
 学ぶ,verb,learn,to acquire knowledge or ability
 勉強する,verb,learn,to attend educational activity
@@ -1511,6 +1767,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 引き離れる,verb,leave,"to depart from, end one's connection or affiliation with"
 出発する,verb,leave,to depart (intransitive)
 去る,verb,leave,to depart (intransitive)
+左,adj,left,west side of the body when one is facing north
+左翼,adj,left,pertaining to the political left
+左派,adj,left,pertaining to the political left
+左に,adv,left,on the left side
+左へ,adv,left,towards the left side
 左,noun,left,the left side
 左翼,noun,left,the ensemble of left-wing political parties
 脚,noun,leg,lower limb from groin to ankle
@@ -1549,6 +1810,18 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 残機,noun,life,one of the player's chances to play
 明るい,adj,light,having light
 軽い,adj,light,of low weight
+光,noun,light,electromagnetic waves
+明かり,noun,light,electromagnetic waves
+明かり,noun,light,source of illumination
+灯り,noun,light,source of illumination
+光源,noun,light,source of illumination
+光明,noun,light,spiritual illumination
+妙案,noun,light,spiritual illumination
+視点,noun,light,point of view
+観点,noun,light,point of view
+明かり,noun,light,flame or something used to create fire
+火,noun,light,flame or something used to create fire
+明かり取り,noun,light,"window, or space for one"
 …が好き,verb,like,to enjoy
 好む,verb,like,to enjoy
 …が好き,verb,like,to find attractive
@@ -1562,6 +1835,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 台詞,noun,line,"sentence of dialogue, especially in a script or screenplay"
 ライオン,noun,lion,big cat Panthera leo
 獅子,noun,lion,big cat Panthera leo
+一覧,noun,list,enumeration or compilation of items
+目録,noun,list,enumeration or compilation of items
+名簿,noun,list,enumeration or compilation of items
+リスト,noun,list,enumeration or compilation of items
+表,noun,list,enumeration or compilation of items
+演算,noun,list,computing: codified representation of a list
 挙げる,verb,list,to create or recite a list
 並べる,verb,list,to create or recite a list
 列記する,verb,list,to create or recite a list
@@ -1578,6 +1857,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 居住する,verb,live,have permanent residence
 現地,adj,local,of a nearby location
 局所,adj,local,math: applying to a limited space
+長い,adj,long,having much distance from one point to another
+長い,adj,long,having great duration
 見る,verb,look,to try to see
 観る,verb,look,to try to see
 見てみる,verb,look,to try to see
@@ -1594,6 +1875,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 無くなす,verb,lose,have (somebody of one's kin) die
 亡くす,verb,lose,have (somebody of one's kin) die
 負ける,verb,lose,fail to be the winner
+愛,noun,love,strong affection
+愛情,noun,love,strong affection
+愛好,noun,love,strong affection
+恋人,noun,love,object of one's romantic feelings; darling or sweetheart
+ラブ,noun,love,zero
+零点,noun,love,zero
 愛する,verb,love,have a strong affection for
 恋する,verb,love,have a strong affection for
 愛でる,verb,love,have a strong affection for
@@ -1658,6 +1945,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 マーケット,noun,market,geographical area where a commercial demand exists
 市場,noun,market,total sum of trading
 結婚している,adj,married,in a state of marriage; having a wife or a husband
+試合,noun,match,sporting event
+競技,noun,match,sporting event
+回戦,noun,match,sporting event
+マッチ,noun,match,device to make fire
+燐寸,noun,match,device to make fire
+火柴,noun,match,device to make fire
 合う,verb,match,intransitive: to agree; to be equal
 合わせる,verb,match,make a successful pairing
 敵う,verb,match,equal or exceed in achievement
@@ -1816,6 +2109,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 楽譜,noun,music,sheet music
 ...なきゃ,verb,must,be required to
 ...なくちゃ,verb,must,be required to
+名前,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名,noun,name,"word or phrase indicating a particular person, place, class or thing"
+お名前,noun,name,"word or phrase indicating a particular person, place, class or thing"
+ご芳名,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名称,noun,name,"word or phrase indicating a particular person, place, class or thing"
+評判,noun,name,reputation — see also reputation
 名付ける,verb,name,to give a name to
 命名する,verb,name,to give a name to
 名前をつける,verb,name,to give a name to
@@ -1827,6 +2126,7 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 天然の,adj,natural,of or relating to nature
 当然の,adj,natural,as expected
 当たり前の,adj,natural,as expected
+近い,adj,near,physically close
 近く,adv,near,at or towards a position close in space or time
 必要する,verb,need,to have an absolute requirement for
 ...が必要,verb,need,to have an absolute requirement for
@@ -1862,6 +2162,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ニュース,noun,news,reports of current events
 新聞,noun,newspaper,publication
 新聞紙,noun,newspaper,paper on which newspapers are printed
+次の,adj,next,following in a sequence
+隣の,adj,next,being closer to the present location than all other items
+明くる,adj,next,"nearest date, time, space or order"
 良い,adj,nice,"pleasant, satisfactory"
 素敵,adj,nice,"pleasant, satisfactory"
 快い,adj,nice,"pleasant, satisfactory"
@@ -1873,6 +2176,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 日暮れ,noun,night,nightfall
 黄昏,noun,night,nightfall
 闇,noun,night,darkness
+ノース,adj,north,of or pertaining to the north
+北,noun,north,compass point
+北方,noun,north,compass point
 鼻,noun,nose,protuberance on the face
 ...ではない,adv,not,negates meaning of another word
 ...ない,adv,not,negates meaning of another word
@@ -1944,17 +2250,47 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ネギ属,noun,onion,genus
 オンライン,adj,online,connected to a network
 起動,adj,online,of a system that is active
+唯一の,adj,only,alone in a category
 ...だけ,adv,only,without others or anything further; exclusively
 ...だけ,adv,only,no more than
 ...しか,adv,only,no more than
+開いた,adj,open,not closed
+開けた,adj,open,not closed
+営業中,adj,open,prepared to conduct business
 開ける,verb,open,to make something accessible
 開く,verb,open,to make something accessible
 意見,noun,opinion,thought a person has formed about a topic
 見解,noun,opinion,thought a person has formed about a topic
 オピニオン,noun,opinion,thought a person has formed about a topic
+向こう,adj,opposite,located directly across from
+向かい,adj,opposite,located directly across from
+あべこべ,adj,opposite,of complementary or mutually exclusive things
 あべこべ,adv,opposite,in an opposite position
+あべこべ,noun,opposite,contrary thing
 オレンジ色の,adj,orange,having the colour of the fruit of an orange tree
 橙色の,adj,orange,having the colour of the fruit of an orange tree
+蜜柑,noun,orange,tree
+橙,noun,orange,tree
+オレンジ,noun,orange,tree
+橘,noun,orange,tree
+蜜柑,noun,orange,fruit
+橙,noun,orange,fruit
+オレンジ,noun,orange,fruit
+橙色,noun,orange,colour
+オレンジ色,noun,orange,colour
+蜜柑色,noun,orange,colour
+順序,noun,order,"arrangement, disposition"
+秩序,noun,order,good arrangement
+命令,noun,order,command
+注文,noun,order,request for some product or service
+修道会,noun,order,religious group
+騎士団,noun,order,society of knights
+勲章,noun,order,awarded decoration
+目,noun,order,biology: taxonomical classification
+打順,noun,order,cricket: sequence in which a side’s batsmen bat
+次,noun,order,electronics: power of polynomial function in a circuit’s block
+次,noun,order,chemistry: a number of a chemical reaction
+位数,noun,order,graph theory: number of vertices in a graph
 片付ける,verb,order,to set in (a good) order
 整理する,verb,order,to set in (a good) order
 命令する,verb,order,to issue a command
@@ -1975,6 +2311,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ペンキ,noun,paint,substance
 塗料,noun,paint,substance
 ペイント,noun,paint,substance
+塗る,verb,paint,to apply paint to
+画く,verb,paint,to practise the art of painting pictures
+描く,verb,paint,to practise the art of painting pictures
 絵画,noun,painting,an illustration or artwork using paint
 絵,noun,painting,an illustration or artwork using paint
 絵画,noun,painting,the action of applying paint
@@ -2001,6 +2340,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 親,noun,parent,biology: organism from which a plant or animal is biologically descended
 親,noun,parent,source or origin of something
 親,noun,parent,computing: object from which a child or derived object is descended
+競技場,noun,park,"ground for preservation of game, etc."
+公園,noun,park,ground for recreation
 停まる,verb,park,bring (a vehicle) to a halt
 駐車する,verb,park,bring (a vehicle) to a halt
 一部,noun,part,fraction of a whole
@@ -2079,6 +2420,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 法人,noun,person,any individual or formal organization with standing before the courts
 人称,noun,person,grammar: linguistic category
 個人の,adj,personal,of or pertaining to a particular person
+音価,noun,phone,speech segment
+単音,noun,phone,speech segment
 電話をかける,verb,phone,to call (someone) on the telephone
 電話する,verb,phone,to call (someone) on the telephone
 写真,noun,photograph,picture
@@ -2104,6 +2447,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 作品,noun,piece,artistic creation
 豚,noun,pig,mammal of genus Sus
 ブタ,noun,pig,mammal of genus Sus
+ピンク,adj,pink,colored/coloured between red and white
+桃色,adj,pink,colored/coloured between red and white
 桃色,noun,pink,pale red colour
 ピンク,noun,pink,pale red colour
 淡紅色,noun,pink,pale red colour
@@ -2137,6 +2482,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 職,noun,place,"role or purpose, station"
 仕事,noun,place,"role or purpose, station"
 桁,noun,place,numeric: the column counting a certain quantity
+設計図,noun,plan,technical drawing
+図解,noun,plan,technical drawing
+計画,noun,plan,set of intended actions
+プラン,noun,plan,set of intended actions
+平面図,noun,plan,2-dimensional drawing from above
 設計する,verb,plan,to design
 計画する,verb,plan,to design
 つもりである,verb,plan,to intend
@@ -2152,6 +2502,14 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 演劇,noun,play,theatrical performance
 戯曲,noun,play,theatrical performance
 プレイ,noun,play,sexual roleplaying
+遊ぶ,verb,play,act in a manner such that one has fun
+えんそうする,verb,play,produce music using a musical instrument (transitive sense)
+奏でる 弾く,verb,play,produce music using a musical instrument (transitive sense)
+吹く,verb,play,produce music using a musical instrument (transitive sense)
+叩く,verb,play,produce music using a musical instrument (transitive sense)
+演奏する,verb,play,produce music using a musical instrument (intransitive sense)
+演ずる,verb,play,act in a performance
+流す,verb,play,use a device to watch or listen to the indicated recording
 選手,noun,player,one who plays any game or sport
 プレイヤー,noun,player,one who plays any game or sport
 俳優,noun,player,dramatic actor
@@ -2195,17 +2553,33 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ありうる,adj,possible,able but not certain to happen
 起こり得る,adj,possible,able but not certain to happen
 可能な,adj,possible,capable of being done or achieved; feasible
+柱,noun,post,long dowel or plank protruding from the ground
+郵便,noun,post,method of delivering mail
+書き込み,noun,post,individual message in a forum
+カキコ,noun,post,individual message in a forum
 書き込む,verb,post,send to an electronic forum
 じゃがいも,noun,potato,plant tuber eaten as starchy vegetable
 馬鈴薯,noun,potato,plant tuber eaten as starchy vegetable
 ポテト,noun,potato,plant tuber eaten as starchy vegetable
 ポンド,noun,pound,unit of mass (16 ounces avoirdupois)
 ポンド,noun,pound,unit of currency
+練習,noun,practice,repetition of an activity to improve skill
+業務,noun,practice,ongoing pursuit of a craft or profession
+儀式,noun,practice,observance of religious duties
+慣習,noun,practice,"customary action, habit, or behaviour"
+ならわし,noun,practice,"customary action, habit, or behaviour"
+慣行,noun,practice,"customary action, habit, or behaviour"
+習慣,noun,practice,"customary action, habit, or behaviour"
 …の方を好む,verb,prefer,to favor
 …の方が好きである,verb,prefer,to favor
 準備する,verb,prepare,to make ready for a specific future purpose
 準備する,verb,prepare,to make oneself ready
+現在の,adj,present,pertaining to the current time
+出席する,adj,present,in the immediate vicinity
 現在,noun,present,current time
+綺麗な,adj,pretty,"especially of women and children: pleasant, attractive"
+プリティ,adj,pretty,"especially of women and children: pleasant, attractive"
+可愛い,adj,pretty,"especially of women and children: pleasant, attractive"
 価格,noun,price,cost required to gain possession of something
 値段,noun,price,cost required to gain possession of something
 費用,noun,price,cost of an action or deed
@@ -2234,6 +2608,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 事業,noun,project,planned endeavor
 プロジェクト,noun,project,planned endeavor
 団地,noun,project,urban low-income housing building
+紫色,adj,purple,colour
+紫の,adj,purple,colour
+パープル,adj,purple,colour
 紫,noun,purple,colour
 置く,verb,put,to place something somewhere
 据える,verb,put,to place something somewhere
@@ -2260,6 +2637,10 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ラジオ,noun,radio,technology
 無線,noun,radio,receiver
 ラジオ,noun,radio,receiver
+雨,noun,rain,condensed water from a cloud
+雨,noun,rain,any matter falling
+雨,noun,rain,an instance of particles falling
+雨下,noun,rain,an instance of particles falling
 雨が降る,verb,rain,of rain: to fall from the sky
 雨下する,verb,rain,of rain: to fall from the sky
 雨下する,verb,rain,to fall in large quantities
@@ -2295,6 +2676,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 思慮,noun,reason,(the capacity of the human mind for) rational thinking
 理致,noun,reason,(the capacity of the human mind for) rational thinking
 理性,noun,reason,(the capacity of the human mind for) rational thinking
+赤い,adj,red,having red as its colour
+赤い,adj,red,of hair: orange-brown
+アカ,adj,red,"left-wing, socialist or communist"
 赤,noun,red,colour
 落ち着く,verb,relax,to calm down
 くつろがせる,verb,relax,to make something loose
@@ -2341,6 +2725,14 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 復帰,noun,return,computing: carriage return character
 復帰,noun,return,computing: act of relinquishing control to the calling procedure
 戻り値,noun,return,computing: return value
+戻る,verb,return,to come or go back
+帰る,verb,return,to come or go back
+戻る,verb,return,"to go back in thought, narration, or argument"
+戻す,verb,return,to give something back to its original holder or owner
+返す,verb,return,to give something back to its original holder or owner
+返す,verb,return,tennis: to bat the ball back over the net in response to a serve
+返球する,verb,return,tennis: to bat the ball back over the net in response to a serve
+返す,verb,return,computing: to pass back (data) to the calling procedure
 稲,noun,rice,plants
 米,noun,rice,seeds used as food
 ご飯,noun,rice,seeds used as food
@@ -2352,6 +2744,13 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 金持ちの,adj,rich,having wealth
 乗る,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 乗る,verb,ride,to be transported in a vehicle as a passenger
+まっすぐ,adj,right,"straight, not bent"
+垂直,adj,right,"of an angle, 90 degrees"
+直,adj,right,"of an angle, 90 degrees"
+正しい,adj,right,"complying with justice, correct — see also be right"
+右,adj,right,"of direction, opposite of left"
+右翼,adj,right,politics: conservative
+右に,adv,right,on the right side
 権利,noun,right,legal or moral entitlement
 右,noun,right,"right, not left, side"
 右翼,noun,right,right-wing politicians and parties
@@ -2383,6 +2782,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 塩,noun,salt,sodium chloride
 塩,noun,salt,compound of an acid and a base
 ソルト,noun,salt,additional bytes inserted into an encryption
+同じ,adj,same,not different as regards self; identical
+同じ,adj,same,"similar, alike"
 サンドイッチ,noun,sandwich,dish — see also open sandwich
 サンド,noun,sandwich,dish — see also open sandwich
 言う,verb,say,"to say, to tell"
@@ -2418,6 +2819,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 技能,noun,science,knowledge gained through study or practice
 熟練,noun,science,knowledge gained through study or practice
 科学者,noun,scientist,one whose activities make use of the scientific method
+第二,adj,second,second (numeral) — see also 2nd
+二番目,adj,second,second (numeral) — see also 2nd
+二番目,adj,second,that comes after the first
 秒,noun,second,one-sixtieth of a minute; SI unit of time
 秒,noun,second,unit of angular measure
 セコンド,noun,second,attendant of a duel or boxing match standing in for a contestant
@@ -2454,6 +2858,13 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 靴,noun,shoe,protective covering for the foot
 シューズ,noun,shoe,protective covering for the foot
 石突き,noun,shoe,something resembling a shoe (e.g. brake shoe)
+店,noun,shop,establishment that sells goods
+店鋪,noun,shop,establishment that sells goods
+商店,noun,shop,establishment that sells goods
+販売店,noun,shop,establishment that sells goods
+売店,noun,shop,establishment that sells goods
+ショップ,noun,shop,establishment that sells goods
+ストア,noun,shop,establishment that sells goods
 買い物をする,verb,shop,to visit shops
 買い物,noun,shopping,activity of buying
 ショッピング,noun,shopping,activity of buying
@@ -2471,6 +2882,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ショー,noun,show,broadcast program(me)
 番組,noun,show,broadcast program(me)
 お印,noun,show,bloody mucus discharge leading up to labor
+見せる,verb,show,to display
+示す,verb,show,to display
+表す,verb,show,to display
+示す,verb,show,to indicate (a fact) to be true
+現れる,verb,show,to be visible
 俄雨,noun,shower,brief fall of rain
 シャワー,noun,shower,device for bathing
 シャワー,noun,shower,instance of using of this device
@@ -2535,6 +2951,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 優雅な,adj,smart,good-looking
 蛇,noun,snake,legless reptile
 ヘビ,noun,snake,legless reptile
+雪,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+降雪,noun,snow,instance of the falling of snow — see also snowfall
+雪,noun,snow,white color of snow
 降雪する,verb,snow,have snow fall from the atmosphere
 雪が降る,verb,snow,have snow fall from the atmosphere
 とても,adv,so,very
@@ -2563,6 +2982,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 かわいそう,adj,sorry,"poor, regrettable"
 残念,adj,sorry,"poor, regrettable"
 遺憾,adj,sorry,"poor, regrettable"
+入り江,noun,sound,long narrow inlet
+探子,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+音,noun,sound,sensation perceived by the ear
+音声,noun,sound,sensation perceived by the ear
+響き,noun,sound,sensation perceived by the ear
+音,noun,sound,vibration capable of causing this
 潜る,verb,sound,"to dive downwards, of a whale"
 調べる,verb,sound,to probe
 探る,verb,sound,to probe
@@ -2573,6 +2998,8 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 汁,noun,soup,dish
 スープ,noun,soup,dish
 露,noun,soup,dish
+南,noun,south,compass point
+南方,noun,south,compass point
 空間,noun,space,physical extent in two or three dimensions
 宇宙,noun,space,area beyond atmosphere of planets
 空間,noun,space,bounded or specific physical extent
@@ -2676,6 +3103,11 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 それでも,adv,still,nevertheless
 バス停,noun,stop,place to get on and off mass transport
 停留所,noun,stop,place to get on and off mass transport
+止まる,verb,stop,to cease moving
+止まる,verb,stop,"not to continue — see also cease, desist"
+止める,verb,stop,to cause to cease moving
+止める,verb,stop,to cause to come to an end
+留まる,verb,stop,to stay a while
 倉庫,noun,store,place where items may be kept
 物語,noun,story,account of events
 小説,noun,story,account of events
@@ -2701,6 +3133,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 強烈,adj,strong,slang: impressive
 学生,noun,student,person who studies a subject
 学生,noun,student,person enrolled at a university — see also university student
+学習,noun,study,mental effort to acquire knowledge
+勉強,noun,study,mental effort to acquire knowledge
+書斎,noun,study,room in a house intended for reading and writing
 勉強する,verb,study,to take a course
 学ぶ,verb,study,to acquire knowledge
 勉強する,verb,study,to acquire knowledge
@@ -2799,6 +3234,7 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 ティーンエイジャー,noun,teenager,person aged between thirteen and nineteen
 少年,noun,teenager,person aged between thirteen and nineteen
 十代,noun,teenager,person aged between thirteen and nineteen
+電話,noun,telephone,a device used for two-way talking with other people
 電話をかける,verb,telephone,to call someone
 電話する,verb,telephone,to call someone
 テレビジョン,noun,television,medium
@@ -2823,6 +3259,12 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 極端な,adj,terrible,intense; extreme in degree or extent
 酷い,adj,terrible,very bad
 惨憺たる,adj,terrible,very bad
+実験,noun,test,"challenge, trial"
+試練,noun,test,"challenge, trial"
+試験,noun,test,academics: examination
+テスト,noun,test,academics: examination
+検査,noun,test,product examination
+テスト,noun,test,product examination
 試す,verb,test,to challenge
 テストする,verb,test,to administer an examination during the academic term
 試験する,verb,test,to administer an examination during the academic term
@@ -2907,6 +3349,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 見出し,noun,title,subject of a writing
 標題,noun,title,subject of a writing
 書名,noun,title,subject of a writing
+今日,adv,today,on the current day
+本日,adv,today,on the current day
+今日,adv,today,"nowadays — see also nowadays, these days"
 今日,noun,today,today (noun)
 一緒に,adv,together,"at the same time, in the same place"
 一緒に,adv,together,into one place
@@ -2931,7 +3376,14 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 便器,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 トマト,noun,tomato,tomato plant
 トマト,noun,tomato,fruit
+明日,adv,tomorrow,on the day after the present day
+あす,adv,tomorrow,on the day after the present day
 明日,noun,tomorrow,the day after the present day
+今晩,adv,tonight,during today's evening
+今夜,adv,tonight,during today's evening
+今宵,adv,tonight,during today's evening
+今夜,adv,tonight,during today's nighttime
+今晩,adv,tonight,during today's nighttime
 今夜,noun,tonight,nighttime today
 今晩,noun,tonight,nighttime today
 も,adv,too,likewise
@@ -2966,6 +3418,7 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 連続,noun,train,series of events or ideas which are interconnected
 尾,noun,train,that which is drawn along
 旅行,noun,travel,act of traveling
+旅行する,verb,travel,be on a journey
 木,noun,tree,large woody plant
 樹木,noun,tree,large woody plant
 靴型,noun,tree,shoe tree
@@ -3009,6 +3462,18 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 転機,noun,turn,change in temperament or circumstance
 転落,noun,turn,change in temperament or circumstance
 巻き,noun,turn,single loop of a coil
+回る,verb,turn,move around an axis through itself
+変える,verb,turn,"change the direction or orientation of, especially by rotation"
+曲がる,verb,turn,change one's direction of travel
+裏返す,verb,turn,"position something by folding it back on itself, or using its folds"
+翻す,verb,turn,"position something by folding it back on itself, or using its folds"
+変わる,verb,turn,become
+紅葉ず,verb,turn,"of leaves, change color in autumn"
+紅葉つ,verb,turn,"of leaves, change color in autumn"
+変質する,verb,turn,go bad
+腐る,verb,turn,go bad
+反逆する,verb,turn,rebel
+謀反を起こす,verb,turn,rebel
 二度,adv,twice,two times
 二回,adv,twice,two times
 二倍,adv,twice,two times
@@ -3091,6 +3556,9 @@ e.g.: 読めない,verb,cannot,"cannot — see also can, not"
 VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 訪問,noun,visit,single act of visiting
 往訪,noun,visit,single act of visiting
+訪れる,verb,visit,to go and meet (someone)
+訪ねる,verb,visit,to go and meet (someone)
+訪問する,verb,visit,to go and meet (someone)
 訪問者,noun,visitor,guest
 客人,noun,visitor,guest
 お客さん,noun,visitor,guest
@@ -3108,6 +3576,11 @@ VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 徒歩,noun,walk,distance walked
 歩道,noun,walk,maintained place on which to walk
 四球,noun,walk,baseball: instance of walking a batter
+歩く,verb,walk,to move on the feet
+歩く,verb,walk,to travel a distance by walking
+散歩する,verb,walk,to take for a walk
+四球,verb,walk,baseball: to allow to advance after four balls
+歩き回る,verb,walk,to traverse by walking (or analogous gradual movement)
 壁,noun,wall,defensive rampart
 城壁,noun,wall,defensive rampart
 壁,noun,wall,structure built for defense surrounding an area
@@ -3132,6 +3605,11 @@ VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 時計,noun,watch,portable or wearable timepiece
 ウオッチ,noun,watch,portable or wearable timepiece
 警戒,noun,watch,particular time period
+見る,verb,watch,to look at for a period of time
+観察する,verb,watch,to observe
+見守る,verb,watch,to attend or guard
+見張る,verb,watch,to attend or guard
+見張る,verb,watch,to be wary
 水,noun,water,inorganic compound H₂O
 道,noun,way,"road, direction, path"
 手段,noun,way,method or manner
@@ -3153,8 +3631,19 @@ VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 週末,noun,weekend,break in the working week
 土日,noun,weekend,break in the working week
 歓迎すべき,adj,welcome,whose arrival is a cause of joy
+歓迎する,verb,welcome,affirm or greet the arrival of someone
+うれしく思う,verb,welcome,to accept willingly
 元気,adj,well,in good health
+良く,adv,well,accurately; competently
+良く,adv,well,completely; fully
+良く,adv,well,to a significant degree
+西,adj,west,towards the west
+西部,adj,west,western
+西洋,adj,west,occidental
+欧米,adj,west,occidental
 西へ,adv,west,towards the west
+西,noun,west,compass point
+西方,noun,west,compass point
 何時,adv,when,"at what time, as a direct question"
 いつ,adv,when,"at what time, as a direct question"
 何処,adv,where,at what place; to what place; from what place
@@ -3165,6 +3654,9 @@ VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 どこへ,adv,where,to which place or situation
 とこ,adv,where,wherever
 場所,adv,where,the place in which
+白い,adj,white,bright and colourless
+白色の,adj,white,bright and colourless
+白人の,adj,white,of or relating to Caucasians
 白,noun,white,color
 白色,noun,white,color
 白人,noun,white,person of European descent
@@ -3223,6 +3715,12 @@ VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 作品,noun,work,"literary, artistic, or intellectual production"
 著作,noun,work,"literary, artistic, or intellectual production"
 仕事,noun,work,physics: measure of energy expended in moving an object
+働く,verb,work,to do a specific task
+働かせる,verb,work,to set into action
+働かせる,verb,work,to use or manipulate
+起こす,verb,work,to cause to happen
+働かせる,verb,work,to force to work
+働きかける,verb,work,to influence
 労働者,noun,worker,person who performs labor
 勤労者,noun,worker,person who performs labor
 働く人,noun,worker,person who performs labor
@@ -3268,7 +3766,10 @@ VTR (bui-tī-āru),noun,video,motion picture stored on VHS
 碼,noun,yard,three feet
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
 学年,noun,year,a level or grade at school or college
+黄色い,adj,yellow,having yellow as its color
+臆病な,adj,yellow,lacking courage
 黄色,noun,yellow,color
+昨日,adv,yesterday,on the day before today
 昨日,noun,yesterday,day before today
 昨日,noun,yesterday,day before today
 若い,adj,young,in the early part of life or growth

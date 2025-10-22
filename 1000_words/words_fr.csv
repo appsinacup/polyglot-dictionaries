@@ -84,6 +84,10 @@ bête,noun,animal,organism
 bête,noun,animal,organism other than human
 animal,noun,animal,organism other than human
 bête,noun,animal,person who behaves wildly
+réponse,noun,answer,response
+solution,noun,answer,solution
+réponse,noun,answer,solution
+réponse,noun,answer,reply to email
 répondre,verb,answer,to make a reply or response to
 appartement,noun,apartment,domicile occupying part of a building
 appartements,noun,apartment,archaic: suite of rooms within a domicile
@@ -140,6 +144,12 @@ benjamin,noun,baby,pet project
 benjamin,noun,baby,lastborn of a family
 benjamine,noun,baby,lastborn of a family
 de retour,adv,back,to or in a previous condition or place
+dos,noun,back,the rear of body
+derrière,noun,back,the reverse side
+revers,noun,back,the reverse side
+fond,noun,back,that which is farthest away from the front
+fin,noun,back,the part of something that goes last
+arrière,noun,back,a position behind most players on the team
 mauvais,adj,bad,unfavorable; negative
 mauvais,adj,bad,not suitable or fitting
 mauvais,adj,bad,"not appropriate, of manners etc."
@@ -299,6 +309,15 @@ oiseau,noun,bird,penis
 anniversaire,noun,birthday,anniversary
 fête,noun,birthday,anniversary
 date de naissance,noun,birthday,date of birth — see also date of birth
+noir,adj,black,absorbing all light
+noir,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+noir,adj,black,"illegitimate, illegal or disgraced"
+noir de monde,adj,black,overcrowded
+noir,adj,black,"of coffee or tea, without milk or other whitener"
+noir,adj,black,"chess, checkers etc.: color opposing ""white"""
 noir,noun,black,colour/color
 Noir,noun,black,dark-skinned person — see also Negro
 Noire,noun,black,dark-skinned person — see also Negro
@@ -306,6 +325,10 @@ blog,noun,blog,a personal or corporate website
 blogue,noun,blog,a personal or corporate website
 blond,adj,blond,of a pale golden colour
 blond,adj,blond,having blond hair
+bleu,adj,blue,"blue-coloured — see also dark blue, light blue"
+déprimé,adj,blue,depressed
+bleu,adj,blue,of or pertaining to US Democratic Party
+démocrate,adj,blue,of or pertaining to US Democratic Party
 bleu,noun,blue,colour
 bateau,noun,boat,water craft
 barque,noun,boat,water craft
@@ -392,6 +415,39 @@ entracte,noun,break,interval between two parts of performance
 changement,noun,break,change in weather
 aube,noun,break,beginning of morning
 évasion,noun,break,act of escaping
+se rompre,verb,break,intransitive: to separate into (to end up in) two or more pieces
+se casser,verb,break,intransitive: to separate into (to end up in) two or more pieces
+se briser,verb,break,intransitive: to separate into (to end up in) two or more pieces
+rompre,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+casser,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+briser,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+se casser,verb,break,"intransitive, of a bone: to crack"
+se fracturer,verb,break,"intransitive, of a bone: to crack"
+casser,verb,break,transitive: to cause (a bone) to crack
+fracturer,verb,break,transitive: to cause (a bone) to crack
+diviser,verb,break,to divide (money) into smaller units
+briser,verb,break,to cause a person to lose spirit or will
+débourrer,verb,break,to turn an animal into a beast of burden
+passer,verb,break,to cause a habit to no longer exist
+ruiner,verb,break,to ruin financially
+outrepasser,verb,break,transitive: to do that which is forbidden by (something)
+bourriner,verb,break,"gaming: to design or make a powerful, unbalancing but legal move"
+se casser,verb,break,intransitive: to stop functioning properly or altogether
+tomber en panne,verb,break,intransitive: to stop functioning properly or altogether
+casser,verb,break,transitive: to cause to stop functioning
+mettre en panne,verb,break,transitive: to cause to stop functioning
+briser,verb,break,to cause to no longer bar
+faire une pause,verb,break,to interrupt or cease one's work or occupation temporarily
+rattraper,verb,break,to interrupt a fall
+publier,verb,break,to disclose or make known an item of news
+révéler,verb,break,to disclose or make known an item of news
+battre,verb,break,to do better than a record
+dégrader,verb,break,to reduce the military rank of
+déconnecter,verb,break,to end a connection
+rompre,verb,break,to end a connection
+casser,verb,break,to demulsify
+riposter,verb,break,to counter-attack
+contre-attaquer,verb,break,to counter-attack
 petit déjeuner,noun,breakfast,first meal of the day
 déjeuner,noun,breakfast,first meal of the day
 apporter,verb,bring,to transport toward somebody/somewhere
@@ -401,6 +457,8 @@ frère,noun,brother,male having parents in common
 frère,noun,brother,male fellow member of a religious community
 pair,noun,brother,peer
 semblable,noun,brother,peer
+brun,adj,brown,having a brown colour
+marron,adj,brown,having a brown colour
 marron,noun,brown,colour
 brun,noun,brown,colour
 construire,verb,build,(transitive) to form by combining materials or parts
@@ -424,6 +482,9 @@ entreprise,noun,business,commercial enterprise or establishment
 firme,noun,business,commercial enterprise or establishment
 compagnie,noun,business,commercial enterprise or establishment
 affaire,noun,business,"occupation, work or trade of a person"
+occupé,adj,busy,crowded with business or activities
+occupé,adj,busy,doing a great deal
+occupé,adj,busy,engaged
 beurre,noun,butter,soft foodstuff made from milk
 beurre,noun,butter,other foodstuffs like butter
 acheter,verb,buy,to obtain something with money
@@ -444,6 +505,15 @@ astreinte,noun,call,type of work shift
 appel,noun,call,computing: act of jumping to a subprogram
 exécution,noun,call,computing: act of jumping to a subprogram
 appeau,noun,call,instrument to call birds or animals
+appeler,verb,call,"to request, summon, or beckon"
+appeler,verb,call,to cry or shout
+crier,verb,call,to cry or shout
+appeler,verb,call,to contact by telephone
+téléphoner,verb,call,to contact by telephone
+visiter,verb,call,to pay a social visit
+appeler,verb,call,to name or refer to
+suivre,verb,call,to match or equal the amount of poker chips in the pot as the player that bet
+faire appel,verb,call,"to require, demand"
 appareil photo,noun,camera,still camera
 caméra,noun,camera,movie camera
 pouvoir,verb,can,to be able to; to know how to
@@ -454,6 +524,8 @@ se taire,verb,can,to shut up
 virer,verb,can,to fire or dismiss an employee
 limoger,verb,can,to fire or dismiss an employee
 ne pas pouvoir,verb,cannot,"cannot — see also can, not"
+capital,noun,capital,money and wealth
+chapiteau,noun,capital,uppermost part of a column
 voiture,noun,car,"automobile, a vehicle steered by a driver"
 auto,noun,car,"automobile, a vehicle steered by a driver"
 automobile,noun,car,"automobile, a vehicle steered by a driver"
@@ -513,6 +585,14 @@ mutation,noun,change,the process of becoming different
 évolution,noun,change,the process of becoming different
 monnaie,noun,change,small denominations of money given in exchange for a larger denomination
 monnaie,noun,change,balance returned after a purchase
+changer,verb,change,to become something different
+se transformer,verb,change,to become something different
+muter,verb,change,to become something different
+changer,verb,change,to make something into something else
+transformer,verb,change,to make something into something else
+remplacer,verb,change,to replace
+se changer,verb,change,to replace one's own clothing
+changer,verb,change,to transfer to another vehicle
 carte,noun,chart,navigator's map
 graphe,noun,chart,non-narrative presentation of data
 diagnostiques,noun,chart,non-narrative presentation of data
@@ -575,6 +655,11 @@ must,noun,class,best of its kind
 classe,noun,class,set theory: collection of sets definable by a shared property
 classe,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 salle de classe,noun,classroom,room in a school
+propre,adj,clean,not dirty
+net,adj,clean,not dirty
+pur,adj,clean,"pure, especially morally or religiously"
+clean,adj,clean,not having used mind-altering or mood-changing substances
+clean,adj,clean,not having sexually transmitted diseases
 nettoyer,verb,clean,(transitive) to remove dirt from a place or object
 poutzer,verb,clean,(transitive) to remove dirt from a place or object
 ranger,verb,clean,(transitive) to tidy up
@@ -616,6 +701,9 @@ couche,noun,coat,"covering of material, such as paint"
 café,noun,coffee,beverage
 café,noun,coffee,beans
 caféier,noun,coffee,plant
+froid,adj,cold,having a low temperature
+froid,adj,cold,unfriendly
+froid,adj,cold,unprepared
 froid,noun,cold,low temperature
 rhume,noun,cold,illness
 collège,noun,college,group of colleagues
@@ -646,6 +734,9 @@ compagnie,noun,company,group of individuals with a common purpose
 compagnie,noun,company,social visitors
 compagnie,noun,company,companionship
 comparer,verb,compare,to assess the similarities between two things or between one thing and another
+complet,adj,complete,with everything included
+complète,adj,complete,with everything included
+complète,adj,complete,of metric space: such that every Cauchy sequence converges in it
 accomplir,verb,complete,to finish
 terminer,verb,complete,to finish
 achever,verb,complete,to finish
@@ -665,7 +756,11 @@ frais,adj,cool,having a slightly low temperature
 chouette,adj,cool,"colloquial: being considered as ""popular"" by others"
 cool,adj,cool,colloquial: in fashion
 cool,adj,cool,"colloquial: all right, acceptable"
+correct,adj,correct,free from error
 corriger,verb,correct,to make something become right that was previously wrong
+coût,noun,cost,amount of money spent for a purpose
+frais,noun,cost,amount of money spent for a purpose
+coût,noun,cost,negative consequence or loss
 coûter,verb,cost,"to incur a charge, a price"
 couter,verb,cost,"to incur a charge, a price"
 coûter,verb,cost,to cause something to be lost
@@ -725,6 +820,7 @@ sécher,verb,cut,"colloquial, not to attend a class"
 couper,verb,cut,to divide a pack of playing cards
 papa,noun,dad,informal: a father
 papa,noun,dad,familiar address of one's own father
+danse,noun,dance,movements to music
 danser,verb,dance,move rhythmically to music
 danseur,noun,dancer,person who dances
 danseuse,noun,dancer,a female person who dances
@@ -769,6 +865,12 @@ goutu,adj,delicious,pleasing to taste
 décrire,verb,describe,to represent in words
 description,noun,description,account in words
 signalement,noun,description,set of characteristics
+conception,noun,design,plan
+plan,noun,design,plan
+modèle,noun,design,pattern
+dessein,noun,design,intention
+intention,noun,design,intention
+design,noun,design,art of designing
 concevoir,verb,design,to plan an artwork etc.
 bureau,noun,desk,table for writing and reading
 pupitre,noun,desk,table for writing and reading
@@ -867,9 +969,16 @@ tirer,verb,draw,to rely on
 égaliser,verb,draw,to end a game with neither side winning
 tirer,verb,draw,to determine the result of a lottery
 piocher,verb,draw,cardgames: to take the top card of a deck into hand
+robe,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+tenue,noun,dress,apparel or clothing
 habiller,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 s'habiller,verb,dress,to put on clothes — see also get dressed
 panser,verb,dress,to apply a dressing to or otherwise treat (a wound)
+verre,noun,drink,served beverage
+boisson,noun,drink,served beverage
+boisson,noun,drink,type of beverage
+verre,noun,drink,served alcoholic beverage
+boire,noun,drink,action of drinking
 boire,verb,drink,consume liquid through the mouth
 boire,verb,drink,consume alcoholic beverages
 conduire,verb,drive,to operate (a wheeled motorized vehicle)
@@ -905,10 +1014,27 @@ indic,noun,ear,slang: police informant
 balance,noun,ear,slang: police informant
 mouchard,noun,ear,slang: police informant
 oreille,noun,ear,curled ridge on bread crust
+de bonne heure,adj,early,at a time in advance of the usual
+tôt,adj,early,at a time in advance of the usual
+en avance,adj,early,at a time in advance of the usual
+en avance,adj,early,arriving at a time before expected
+ancien,adj,early,near but after the start or beginning
+tôtif,adj,early,near but after the start or beginning
+précoce,adj,early,near but after the start or beginning
+premier,adj,early,near but after the start or beginning
+précoce,adj,early,illness: having begun to occur
 tôt,adv,early,at a time before expected
 de bonne heure,adv,early,at a time before expected
 en avance,adv,early,at a time before expected
+à l'est,adj,east,in or towards the east
+de l'est,adj,east,meteorology: easterly
+de l'est,adj,east,of or pertaining to the east
+oriental,adj,east,from the East
+orientale,adj,east,from the East
 vers l 'est,adv,east,towards the east
+est,noun,east,compass point
+orient,noun,east,compass point
+levant,noun,east,compass point
 facile,adj,easy,requiring little skill or effort
 simple,adj,easy,requiring little skill or effort
 fastoche,adj,easy,requiring little skill or effort
@@ -930,6 +1056,15 @@ egg,noun,egg,"person regarded as having not yet realized they are transgender, o
 éléphantesque,noun,elephant,anything huge and ponderous
 sinon,adv,else,word that implies any result with the exception of the one being referred to
 autrement,adv,else,word that implies any result with the exception of the one being referred to
+courrier électronique,noun,email,system for sending messages and datas by means of computers connected together in a network
+courriel,noun,email,system for sending messages and datas by means of computers connected together in a network
+messagerie électronique,noun,email,system for sending messages and datas by means of computers connected together in a network
+email,noun,email,system for sending messages and datas by means of computers connected together in a network
+courriel,noun,email,message sent through email
+courrier électronique,noun,email,message sent through email
+message électronique m e-mail,noun,email,message sent through email
+email,noun,email,message sent through email
+adresse courriel,noun,email,email address — see also e-mail address
 envoyer un courriel,verb,email,(transitive) to send an email or emails to
 courrieller,verb,email,(transitive) to send an email or emails to
 e-mailer,verb,email,(transitive) to send an email or emails to
@@ -937,6 +1072,10 @@ envoyer par courriel,verb,email,(transitive) to send (something) through email
 courrieller,verb,email,(transitive) to send (something) through email
 envoyer un courriel,verb,email,"(intransitive) to send, or compose and send, an email or emails"
 courrieller,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+fin,noun,end,extreme part
+bout,noun,end,extreme part
+extrémité,noun,end,extreme part
+bout,noun,end,period in curling
 finir,verb,end,"intransitive: be finished, be terminated"
 terminer,verb,end,"intransitive: be finished, be terminated"
 finir,verb,end,"transitive: finish, terminate (something)"
@@ -981,6 +1120,8 @@ excité,adj,excited,having great enthusiasm and energy
 enthousiasmé,adj,excited,having great enthusiasm and energy
 excité,adj,excited,being in a state of higher energy
 excitant,adj,exciting,causing excitement
+exercice,noun,exercise,any activity designed to develop or hone a skill or ability
+exercice,noun,exercise,physical activity intended to improve strength and fitness
 exercer,verb,exercise,exert for the sake of training
 exercer,verb,exercise,"take action, enforce"
 cher,adj,expensive,having a high price or cost
@@ -1016,11 +1157,27 @@ chute,noun,fall,act of moving in gas or vacuum under the effect of gravity from 
 déclin,noun,fall,a period of decline before the end
 déclin,noun,fall,loss of greatness or status
 chute,noun,fall,loss of greatness or status
+tomber,verb,fall,move to a lower position under the effect of gravity
+chuter,verb,fall,move to a lower position under the effect of gravity
+choir,verb,fall,move to a lower position under the effect of gravity
+tomber,verb,fall,come down or descend
+descendre,verb,fall,come down or descend
+être renversé,verb,fall,be brought to earth or be overthrown
+tomber,verb,fall,be brought to earth or be overthrown
+mourir,verb,fall,die
+revenir,verb,fall,be allotted to
+retomber,verb,fall,be allotted to
+incomber,verb,fall,be allotted to
+devenir,verb,fall,become or change into
+tomber,verb,fall,become or change into
 faux,adj,false,"untrue, not factual, wrong"
 incorrect,adj,false,"untrue, not factual, wrong"
 faux,adj,false,"spurious, artificial"
 artificiel,adj,false,"spurious, artificial"
 faux,adj,false,state in Boolean logic that indicates a negative result
+famille,noun,family,"immediate family [as a group], e.g. parents and their children"
+famille,noun,family,"group of people related by blood, marriage, law, or custom"
+famille,noun,family,"rank in a taxonomic classification, above both genus and species"
 fameux,adj,famous,well known
 célèbre,adj,famous,well known
 connu,adj,famous,well known
@@ -1039,6 +1196,10 @@ agricultrice,noun,farmer,person who works the land and/or who keeps livestock
 fermière,noun,farmer,person who works the land and/or who keeps livestock
 cultivateur,noun,farmer,person who works the land and/or who keeps livestock
 cultivatrice,noun,farmer,person who works the land and/or who keeps livestock
+ferme,adj,fast,firmly or securely fixed in place
+rapide,adj,fast,moving or capable of moving with great speed
+profond,adj,fast,of sleep: deep or sound
+en avance,adj,fast,ahead of the correct time or schedule
 fermement,adv,fast,in a firm or secure manner
 rapidement,adv,fast,with great speed
 vite,adv,fast,with great speed
@@ -1151,6 +1312,8 @@ essoubler (Saint-Étienne dialect),verb,forget,to lose remembrance of
 oublier,verb,forget,to unintentionally not do
 oublier,verb,forget,to leave behind
 oublier,verb,forget,to cease remembering
+forme,noun,form,shape or visible structure
+formulaire,noun,form,document to be filled in
 former,verb,form,to give shape
 se former,verb,form,(intransitive) to take shape
 former,verb,form,(linguistics) to create a word
@@ -1184,6 +1347,12 @@ gentille,adj,friendly,characteristic of friendliness
 allié,adj,friendly,pertaining to friendlies in the conflict sense
 alliée,adj,friendly,pertaining to friendlies in the conflict sense
 antérieur,adj,front,located at or near the front
+avant,noun,front,facing side
+devant,noun,front,facing side
+façade,noun,front,main entrance side
+façade,noun,front,public face of covert organisation
+front,noun,front,meteorology: interface between airmasses
+front,noun,front,military: area or line of conflict
 fruit,noun,fruit,part of plant
 fruit,noun,fruit,food
 fruit,noun,fruit,figuratively: positive end result or reward of labour or effort
@@ -1279,6 +1448,9 @@ aïeule,noun,grandmother,mother of someone's parent
 grand-parent,noun,grandparent,parent of one's parent
 aïeul,noun,grandparent,parent of one's parent
 aïeule,noun,grandparent,parent of one's parent
+gris,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+gris,adj,gray,"dreary, gloomy"
+gris,adj,gray,of an indistinct quality
 gris,noun,gray,colour
 Gris,noun,gray,extraterrestrial being
 gray,noun,gray,SI unit of absorbed radiation
@@ -1289,6 +1461,14 @@ formidable,adj,great,very good
 grand,adj,great,uncommonly gifted
 grand,adj,great,important title
 grande,adj,great,important title
+vert,adj,green,having green as its colour
+vert,adj,green,sickly
+peu expérimenté,adj,green,inexperienced
+nouveau,adj,green,inexperienced
+bleu,adj,green,inexperienced
+vert,adj,green,environmentally friendly
+vert de jalousie,adj,green,envious
+vert,adj,green,of fruit: unripe
 vert,noun,green,colour
 vert,noun,green,member of a green party
 verte,noun,green,member of a green party
@@ -1300,6 +1480,10 @@ pousser,verb,grow,(intransitive) to appear or sprout
 accroître,verb,grow,(transitive) to cause something to become bigger
 faire croître,verb,grow,(transitive) to cause something to become bigger
 conjecture,noun,guess,prediction about the outcome of something
+deviner,verb,guess,to reach an unconfirmed conclusion
+déduire,verb,guess,to solve by a correct conjecture
+supposer,verb,guess,"to suppose, to imagine"
+imaginer,verb,guess,"to suppose, to imagine"
 guitare,noun,guitar,musical instrument
 salle de gymnastique,noun,gym,sporting facility specialized for lifting weights and exercise
 gym,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -1344,6 +1528,14 @@ prête,adj,happy,content (to do something); having no objection (to something)
 heureux,adj,happy,"appropriate, apt, felicitous"
 bon,adj,happy,may you have a happy
 joyeux,adj,happy,may you have a happy
+dur,adj,hard,resistant to pressure
+dur,adj,hard,requiring a lot of effort to do or understand
+difficile,adj,hard,requiring a lot of effort to do or understand
+dur,adj,hard,demanding a lot of effort to endure
+dur,adj,hard,severe
+irréfutable,adj,hard,unquestionable
+fort,adj,hard,of drink: strong
+dure,adj,hard,"of water, high in dissolved calcium compounds"
 dur,adv,hard,with much force or effort (related to act of think)
 durement,adv,hard,with much force or effort (related to act of think)
 chapeau,noun,hat,a head covering
@@ -1402,6 +1594,13 @@ assistant,noun,help,person or persons who provides assistance with some task
 assistante,noun,help,person or persons who provides assistance with some task
 aide,noun,help,person employed to help in the maintenance of a house
 aide,noun,help,textual support of a software application
+aider,verb,help,transitive: provide assistance to (someone or something)
+secourir,verb,help,transitive: provide assistance to (someone or something)
+aider,verb,help,contribute in some way to
+aider,verb,help,intransitive: provide assistance
+éviter,verb,help,transitive: avoid or prevent
+prévenir,verb,help,transitive: avoid or prevent
+empêcher,verb,help,transitive: avoid or prevent
 ici,adv,here,"in, on, or at this place"
 par ici,adv,here,to this place
 haut,adj,high,elevated; tall
@@ -1422,6 +1621,10 @@ hobby,noun,hobby,activity done for enjoyment in spare time
 hobereau,noun,hobby,Falco subbuteo
 à la maison,adv,home,at home
 à la maison,adv,home,homewards
+foyer,noun,home,house or structure in which someone lives
+domicile,noun,home,house or structure in which someone lives
+chez soi,noun,home,house or structure in which someone lives
+patrie,noun,home,someone’s native land
 devoirs,noun,homework,work that is done at home
 espérer,verb,hope,"to want something to happen, with expectation that it might"
 cheval,noun,horse,members of the species Equus ferus
@@ -1504,9 +1707,19 @@ comprendre,verb,include,"to contain, as part of a whole"
 renseignement,noun,information,communicable knowledge
 informations,noun,information,communicable knowledge
 information,noun,information,communicable knowledge
+intérêt,noun,interest,finance: price of credit
+intérêt,noun,interest,great attention and concern from someone
+intérêt,noun,interest,attention that is given to or received from someone or something
+intérêt,noun,interest,something one is interested in
 intéresser,verb,interest,to attract attention or concern
 intéressé,adj,interested,having or showing interest
 intéressant,adj,interesting,arousing or holding the attention
+interview,noun,interview,conversation with journalist etc.
+entretien,noun,interview,conversation with journalist etc.
+entrevue,noun,interview,conversation with journalist etc.
+entretien,noun,interview,a formal meeting for the assessment of a candidate or applicant
+entrevue,noun,interview,a formal meeting for the assessment of a candidate or applicant
+entretien d'embauche,noun,interview,a formal meeting for the assessment of a candidate or applicant
 avoir une entrevue,verb,interview,to have an interview
 interroger,verb,interview,to have an interview
 présenter,verb,introduce,to cause someone to be acquainted
@@ -1557,6 +1770,23 @@ observer,verb,keep,observe
 garder,verb,keep,observe
 clé,adj,key,indispensable
 clé,adj,key,important
+clé,noun,key,device designed to open and close a lock
+clef,noun,key,device designed to open and close a lock
+clé,noun,key,crucial step
+clef,noun,key,crucial step
+légende,noun,key,small guide explaining symbols or terminology
+touche,noun,key,button on a typewriter or computer keyboard
+touche,noun,key,part of a piano or musical keyboard
+tonalité,noun,key,scale of musical notes
+clé,noun,key,cryptography: piece of information used to encode or decode
+clef,noun,key,cryptography: piece of information used to encode or decode
+clé,noun,key,computing: field of a database constrained to be unique
+clef,noun,key,computing: field of a database constrained to be unique
+clé,noun,key,computing: field in a record used as a search argument
+clef,noun,key,computing: field in a record used as a search argument
+clé,noun,key,computing: value uniquely identifying entry in associative array
+clef,noun,key,computing: value uniquely identifying entry in associative array
+caye,noun,key,small island
 genre,noun,kind,"type, race, category"
 sorte,noun,kind,"type, race, category"
 acabit,noun,kind,"type, race, category"
@@ -1594,11 +1824,21 @@ langage,noun,language,particular words used
 parler,noun,language,particular words used
 langage,noun,language,computer language — see also computer language
 grand,adj,large,of greater size — see also big
+tard,adj,late,near the end of a period of time
+tard,adj,late,near the end of the day
+en retard,adj,late,not arriving until after an expected time
+défunt,adj,late,"euphemism for ""dead"""
+feu,adj,late,"euphemism for ""dead"""
+regretté,adj,late,"euphemism for ""dead"""
+regrettée,adj,late,"euphemism for ""dead"""
 tard,adv,late,past a designated time
 plus en retard,adv,later,more late
 plus tard,adv,later,afterward in time
 plus tard,adv,later,at some unspecified time in the future
 rire,noun,laugh,expression of mirth peculiar to the human species
+rire,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+se rire de,verb,laugh,make an object of laughter or ridicule
+se moquer de,verb,laugh,make an object of laughter or ridicule
 apprendre,verb,learn,to acquire knowledge or ability
 étudier,verb,learn,to acquire knowledge or ability
 faire des études,verb,learn,to attend educational activity
@@ -1611,6 +1851,9 @@ laisser,verb,leave,to transfer possession after death
 laisser,verb,leave,to transfer responsibility or attention
 quitter,verb,leave,"to depart from, end one's connection or affiliation with"
 partir,verb,leave,to depart (intransitive)
+gauche,adj,left,west side of the body when one is facing north
+à gauche,adv,left,on the left side
+à gauche,adv,left,towards the left side
 gauche,noun,left,the left side
 gauche,noun,left,the ensemble of left-wing political parties
 jambe,noun,leg,lower limb from groin to ankle
@@ -1652,6 +1895,11 @@ léger,adj,light,lightly-built
 léger,adj,light,"low in fat, calories, alcohol, salt, etc."
 léger,adj,light,of little significance
 sans importance,adj,light,of little significance
+lumière,noun,light,electromagnetic waves
+clarté,noun,light,electromagnetic waves
+lumière,noun,light,source of illumination
+lumière,noun,light,spiritual illumination
+feu,noun,light,"traffic light, or an intersection controlled by one"
 aimer,verb,like,to enjoy
 plaire (à),verb,like,to enjoy
 bien aimer,verb,like,to enjoy
@@ -1678,6 +1926,11 @@ lion,noun,lion,big cat Panthera leo
 lionne,noun,lion,big cat Panthera leo
 lion,noun,lion,heraldic charge
 leon,noun,lion,person with strength and courage
+lisière,noun,list,strip of fabric
+liste,noun,list,enumeration or compilation of items
+lice,noun,list,barriers for tournaments
+gîte,noun,list,nautical: tilting or careening to one side
+bande,noun,list,nautical: tilting or careening to one side
 gîter,verb,list,to tilt to one side
 lister,verb,list,to create or recite a list
 énumérer,verb,list,to create or recite a list
@@ -1696,6 +1949,8 @@ demeurer,verb,live,have permanent residence
 local,adj,local,of a nearby location
 local,adj,local,computing: having limited scope
 local,adj,local,medicine: of or pertaining to a restricted part of an organism
+long,adj,long,having much distance from one point to another
+long,adj,long,having great duration
 temps,adv,long,for a particular duration
 combien de temps,adv,long,for a particular duration
 longtemps,adv,long,for a long duration
@@ -1713,6 +1968,10 @@ perdre,verb,lose,be unable to follow or trace (somebody or something) any longer
 enlever,verb,lose,"informal: shed, remove, discard, eliminate"
 retirer,verb,lose,"informal: shed, remove, discard, eliminate"
 perdre,verb,lose,fail to be the winner
+amour,noun,love,strong affection
+amour,noun,love,object of one's romantic feelings; darling or sweetheart
+clématite vigne-blanche,noun,love,Clematis vitalba
+zéro,noun,love,zero
 aimer,verb,love,have a strong affection for
 aimer beaucoup,verb,love,be strongly inclined towards doing
 aimer bien,verb,love,be strongly inclined towards doing
@@ -1759,6 +2018,9 @@ marché,noun,market,total sum of trading
 du marché,noun,market,used attributively
 mariée,adj,married,in a state of marriage; having a husband
 marié,adj,married,in a state of marriage; having a wife
+match,noun,match,sporting event
+allumette,noun,match,device to make fire
+metche,noun,match,device to make fire
 concorder,verb,match,intransitive: to agree; to be equal
 accorder,verb,match,intransitive: to agree; to be equal
 correspondre,verb,match,intransitive: to agree; to be equal
@@ -1900,6 +2162,9 @@ musique,noun,music,"sound, organized in time in a melodious way"
 partition,noun,music,sheet music
 devoir,verb,must,be required to
 devoir,verb,must,"said about something that is very likely, probable, or certain to be true"
+nom,noun,name,"word or phrase indicating a particular person, place, class or thing"
+nom,noun,name,reputation — see also reputation
+nom,noun,name,person or legal person
 nommer,verb,name,to give a name to
 dénommer,verb,name,to give a name to
 choisir,verb,name,"to mention, specify"
@@ -1913,6 +2178,8 @@ naturel,adj,natural,without additives
 normal,adj,natural,as expected
 naturel,adj,natural,as expected
 bécarre,adj,natural,musically not sharp or flat
+près,adj,near,physically close
+proche,adj,near,physically close
 près,adv,near,at or towards a position close in space or time
 avoir besoin de,verb,need,to have an absolute requirement for
 nécessiter,verb,need,to have an absolute requirement for
@@ -1959,6 +2226,10 @@ infos,noun,news,reports of current events
 téléjournal,noun,news,reports of current events
 journal,noun,newspaper,publication
 papier journal,noun,newspaper,paper on which newspapers are printed
+prochain,adj,next,following in a sequence
+suivant,adj,next,following in a sequence
+proche,adj,next,being closer to the present location than all other items
+prochain,adj,next,"nearest date, time, space or order"
 puis,adv,next,On the first subsequent occasion
 après,adv,next,On the first subsequent occasion
 gentil,adj,nice,"pleasant, satisfactory"
@@ -1978,6 +2249,8 @@ soir,noun,night,nightfall
 nuit,noun,night,darkness
 noirceur,noun,night,darkness
 obscurité,noun,night,darkness
+nord,noun,north,compass point
+septentrion,noun,north,compass point
 nez,noun,nose,protuberance on the face
 museau,noun,nose,"snout, nose of an animal"
 gueule,noun,nose,"snout, nose of an animal"
@@ -2042,18 +2315,47 @@ ognon,noun,onion,Allium cepa
 en ligne,adj,online,connected to a network
 en ligne,adj,online,available over the Internet
 en ligne,adj,online,connected to the Internet
+unique,adj,only,alone in a category
+seul,adj,only,alone in a category
+unique,adj,only,without sibling
 seulement,adv,only,without others or anything further; exclusively
 ne...que,adv,only,without others or anything further; exclusively
 uniquement,adv,only,without others or anything further; exclusively
 que,adv,only,no more than
 seulement,adv,only,no more than
+ouvert,adj,open,not closed
+ouvert,adj,open,prepared to conduct business
+ouvert,adj,open,receptive
+ouvert,adj,open,public
 ouvrir,verb,open,to make something accessible
 s'ouvrir,verb,open,to become open
 avis,noun,opinion,thought a person has formed about a topic
 opinion,noun,opinion,thought a person has formed about a topic
 conclusions,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+opposé,adj,opposite,located directly across from
+opposé,adj,opposite,facing the other way
 en face,adv,opposite,in an opposite position
+contraire,noun,opposite,contrary thing
+inverse,noun,opposite,contrary thing
+adversaire,noun,opposite,opponent
+contraire,noun,opposite,antonym
 orange,adj,orange,having the colour of the fruit of an orange tree
+oranger,noun,orange,tree
+orange,noun,orange,fruit
+orange,noun,orange,colour
+ordre,noun,order,"arrangement, disposition"
+ordre,noun,order,good arrangement
+ordre,noun,order,command
+commande,noun,order,request for some product or service
+ordre,noun,order,religious group
+ordre,noun,order,society of knights
+ordre,noun,order,awarded decoration
+ordre,noun,order,biology: taxonomical classification
+ordre,noun,order,electronics: power of polynomial function in a circuit’s block
+ordre,noun,order,partially ordered set
+relation d'ordre,noun,order,relation on a partially ordered set
+ordre,noun,order,highest exponent in a polynomial
+degré,noun,order,highest exponent in a polynomial
 ranger,verb,order,to set in (any) order
 ordonner,verb,order,to set in (any) order
 ranger,verb,order,to set in (a good) order
@@ -2087,6 +2389,9 @@ page,noun,page,collective memory
 moment,noun,page,collective memory
 haut fait,noun,page,collective memory
 peinture,noun,paint,substance
+peindre,verb,paint,to apply paint to
+peinturer,verb,paint,to apply paint to
+peindre,verb,paint,to practise the art of painting pictures
 peinture,noun,painting,an illustration or artwork using paint
 toile,noun,painting,an illustration or artwork using paint
 peinture,noun,painting,the action of applying paint
@@ -2110,6 +2415,8 @@ alinéa,noun,paragraph,passage in text
 parent,noun,parent,person from whom one is descended
 géniteur,noun,parent,person from whom one is descended
 génitrice,noun,parent,person from whom one is descended
+parc,noun,park,ground for recreation
+jardin public,noun,park,ground for recreation
 garer,verb,park,bring (a vehicle) to a halt
 parquer,verb,park,bring (a vehicle) to a halt
 stationner,verb,park,bring (a vehicle) to a halt
@@ -2132,6 +2439,10 @@ fête,noun,party,social gathering
 teuf,noun,party,social gathering
 party,noun,party,social gathering
 passeport,noun,passport,official document for foreign travel
+passé,adj,past,having already happened; in the past
+dernier,adj,past,of a period of time: having just gone by
+passé,adj,past,of a period of time: having just gone by
+passé,adj,past,grammar: expressing action that has already happened
 passé,noun,past,period of time that has already happened
 passé,noun,past,(grammar) past tense
 payer,verb,pay,to give money in exchange for goods or services
@@ -2176,6 +2487,7 @@ personne,noun,person,grammar: linguistic category
 personnel,adj,personal,of or pertaining to a particular person
 en personne,adj,personal,done in person
 personnel,adj,personal,grammar: denoting person
+phone,noun,phone,speech segment
 téléphoner,verb,phone,to call (someone) on the telephone
 appeler,verb,phone,to call (someone) on the telephone
 photographie,noun,photograph,picture
@@ -2208,12 +2520,18 @@ porc,noun,pig,dirty or slovenly person
 poulet,noun,pig,derogatory slang for police officer
 flic,noun,pig,derogatory slang for police officer
 keuf,noun,pig,derogatory slang for police officer
+rose,adj,pink,colored/coloured between red and white
 rose,noun,pink,pale red colour
 œillet,noun,pink,flower
 lieu,noun,place,"location, position"
 endroit,noun,place,"location, position"
 place,noun,place,"location, position"
 place,noun,place,"open space, courtyard, market square"
+schéma,noun,plan,technical drawing
+plan,noun,plan,set of intended actions
+projet,noun,plan,set of intended actions
+plan,noun,plan,2-dimensional drawing from above
+forfait mobile,noun,plan,subscription plan
 projeter,verb,plan,to create a plan for
 prévoir,verb,plan,to intend
 penser,verb,plan,to intend
@@ -2233,6 +2551,18 @@ pièce de théâtre,noun,play,literary composition intended to be represented
 pièce,noun,play,literary composition intended to be represented
 pièce de théâtre,noun,play,theatrical performance
 pièce,noun,play,theatrical performance
+jouer,verb,play,act in a manner such that one has fun
+s'amuser,verb,play,act in a manner such that one has fun
+jouer de,verb,play,produce music using a musical instrument (transitive sense)
+jouer,verb,play,produce music using a musical instrument (intransitive sense)
+jouer,verb,play,act in a performance
+interpréter,verb,play,act in a performance
+jouer (à),verb,play,participate in (a sport or game)
+mettre,verb,play,use a device to watch or listen to the indicated recording
+lancer,verb,play,use a device to watch or listen to the indicated recording
+tourner,verb,play,use a device to watch or listen to the indicated recording
+jouer,verb,play,use a device to watch or listen to the indicated recording
+reproduire,verb,play,use a device to watch or listen to the indicated recording
 joueur,noun,player,one who plays any game or sport
 joueuse,noun,player,one who plays any game or sport
 acteur,noun,player,dramatic actor
@@ -2306,6 +2636,12 @@ positif,adj,positive,characterised by features which support a hypothesis
 possible,adj,possible,able but not certain to happen
 possible,adj,possible,capable of being done or achieved; feasible
 faisable,adj,possible,capable of being done or achieved; feasible
+poteau,noun,post,long dowel or plank protruding from the ground
+poste,noun,post,assigned station
+courrier,noun,post,method of delivering mail
+poste,noun,post,method of delivering mail
+message,noun,post,individual message in a forum
+billet,noun,post,individual message in a forum
 afficher,verb,post,hang a notice in a conspicuous manner
 poster,verb,post,send to an electronic forum
 poster,verb,post,send mail
@@ -2319,6 +2655,10 @@ fourrière,noun,pound,place for detention of automobiles
 bief,noun,pound,section of canal between two locks
 livre,noun,pound,unit of mass (16 ounces avoirdupois)
 livre,noun,pound,unit of currency
+pratique,noun,practice,repetition of an activity to improve skill
+pratique,noun,practice,ongoing pursuit of a craft or profession
+pratique,noun,practice,observance of religious duties
+pratique,noun,practice,"customary action, habit, or behaviour"
 préférer,verb,prefer,to favor
 préparer,verb,prepare,to make ready for a specific future purpose
 préparer,verb,prepare,to make ready for eating or drinking
@@ -2326,7 +2666,12 @@ apprêter,verb,prepare,to make ready for eating or drinking
 se préparer,verb,prepare,to make oneself ready
 préparer,verb,prepare,to produce by combining elements
 combiner,verb,prepare,to produce by combining elements
+présent,adj,present,pertaining to the current time
+actuel,adj,present,pertaining to the current time
+présent,adj,present,in the immediate vicinity
 présent,noun,present,current time
+joli,adj,pretty,"especially of women and children: pleasant, attractive"
+joli,adj,pretty,of objects: nice-looking
 assez,adv,pretty,somewhat
 pas mal,adv,pretty,somewhat
 plutôt,adv,pretty,somewhat
@@ -2349,6 +2694,8 @@ programmation,noun,program,"leaflet listing information about a play, game or ot
 émission,noun,program,performance of a show or other broadcast on radio or television
 programme,noun,program,software application
 projet,noun,project,planned endeavor
+violet,adj,purple,colour
+pourpre,adj,purple,colour
 violet,noun,purple,colour
 pourpre,noun,purple,colour
 placer,verb,put,to place something somewhere
@@ -2385,6 +2732,9 @@ assez,adv,quite,to a moderate extent
 radio,noun,radio,technology
 radiodiffusion,noun,radio,technology
 radio,noun,radio,receiver
+pluie,noun,rain,condensed water from a cloud
+pluie,noun,rain,any matter falling
+pluie,noun,rain,an instance of particles falling
 pleuvoir,verb,rain,of rain: to fall from the sky
 royer,verb,rain,of rain: to fall from the sky
 pleuvoir des cordes,verb,rain,to fall in large quantities
@@ -2413,6 +2763,9 @@ cause,noun,reason,that which causes: a cause
 raison,noun,reason,motive for an action or determination
 raison,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 raison,noun,reason,(the capacity of the human mind for) rational thinking
+rouge,adj,red,having red as its colour
+roux,adj,red,of hair: orange-brown
+rouge,adj,red,"left-wing, socialist or communist"
 rouge,noun,red,colour
 détendre,verb,relax,to calm down
 se relaxer,verb,relax,to calm down
@@ -2434,6 +2787,13 @@ résultat,noun,result,that which results
 retour,noun,return,act of returning
 rendement,noun,return,finance: gain or loss from an investment
 rendement,noun,return,finance: gain or loss from an investment
+revenir,verb,return,to come or go back
+retourner,verb,return,to come or go back
+s'en retourner,verb,return,to come or go back
+rebrousser chemin,verb,return,"to turn back, retreat"
+rendre,verb,return,to give something back to its original holder or owner
+retourner,verb,return,to give something back to its original holder or owner
+relancer,verb,return,tennis: to bat the ball back over the net in response to a serve
 riz,noun,rice,plants
 riz,noun,rice,seeds used as food
 riche,adj,rich,having wealth
@@ -2444,6 +2804,20 @@ monter en,verb,ride,to be transported in a vehicle as a passenger
 à,verb,ride,to be transported in a vehicle as a passenger
 conduire,verb,ride,to transport someone in a vehicle
 monter,verb,ride,to mount someone to have sex with them
+droit,adj,right,"straight, not bent"
+droit,adj,right,"of an angle, 90 degrees"
+correct,adj,right,"complying with justice, correct — see also be right"
+juste,adj,right,"complying with justice, correct — see also be right"
+bon,adj,right,"complying with justice, correct — see also be right"
+droit,adj,right,"complying with justice, correct — see also be right"
+correct,adj,right,"appropriate, fit for purpose"
+droit,adj,right,"of direction, opposite of left"
+droite,adj,right,"of direction, opposite of left"
+de droite,adj,right,politics: conservative
+à droite,adv,right,on the right side
+à droite,adv,right,towards the right side
+juste,adv,right,exactly
+juste,adv,right,"immediately, directly"
 droit,noun,right,legal or moral entitlement
 droite,noun,right,"right, not left, side"
 droite,noun,right,right hand
@@ -2479,6 +2853,8 @@ salade,noun,salad,food
 sel,noun,salt,sodium chloride
 sel,noun,salt,compound of an acid and a base
 loup de mer,noun,salt,sailor
+même,adj,same,not different as regards self; identical
+même,adj,same,"similar, alike"
 sandwich,noun,sandwich,dish — see also open sandwich
 dire,verb,say,"to say, to tell"
 dire,verb,say,to pronounce
@@ -2507,6 +2883,11 @@ science,noun,science,knowledge gained through study or practice
 scientifique,noun,scientist,one whose activities make use of the scientific method
 savant,noun,scientist,one whose activities make use of the scientific method
 savante,noun,scientist,one whose activities make use of the scientific method
+deuxième,adj,second,second (numeral) — see also 2nd
+second,adj,second,second (numeral) — see also 2nd
+deux,adj,second,second (numeral) — see also 2nd
+deuxième,adj,second,that comes after the first
+second,adj,second,that comes after the first
 seconde,noun,second,one-sixtieth of a minute; SI unit of time
 seconde,noun,second,unit of angular measure
 seconde d'angle,noun,second,unit of angular measure
@@ -2538,6 +2919,10 @@ mouton,noun,sheep,animal
 chemise,noun,shirt,article of clothing
 chaussure,noun,shoe,protective covering for the foot
 soulier,noun,shoe,protective covering for the foot
+boutique,noun,shop,establishment that sells goods
+magasin,noun,shop,establishment that sells goods
+atelier,noun,shop,place for crafting or manufacturing
+atelier,noun,shop,"a class taught typically in junior high school, teaching vocational skill"
 faire les magasins,verb,shop,to visit shops
 faire du shopping,verb,shop,to visit shops
 faire les courses,verb,shop,to visit shops
@@ -2560,6 +2945,9 @@ festival,noun,show,entertainment
 exposition,noun,show,exhibition — see also exhibition
 démonstration,noun,show,demonstration
 émission,noun,show,broadcast program(me)
+montrer,verb,show,to display
+démontrer,verb,show,to indicate (a fact) to be true
+se voir,verb,show,to be visible
 averse,noun,shower,brief fall of rain
 ondée,noun,shower,brief fall of rain
 douche,noun,shower,device for bathing
@@ -2622,6 +3010,12 @@ malin,adj,smart,cleverly shrewd and humorous
 astucieux,adj,smart,cleverly shrewd and humorous
 serpent,noun,snake,legless reptile
 furet,noun,snake,plumbing tool
+senau,noun,snow,square-rigged sailing vessel similar to a brig
+neige,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+chute de neige,noun,snow,instance of the falling of snow — see also snowfall
+blanc comme neige,noun,snow,white color of snow
+neige,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
+neige,noun,snow,cocaine — see also cocaine
 neiger,verb,snow,have snow fall from the atmosphere
 tellement,adv,so,very
 vraiment,adv,so,very
@@ -2642,6 +3036,10 @@ regrettant,adj,sorry,"repentant, apologetic"
 navré,adj,sorry,"grieved, saddened"
 désolé,adj,sorry,"grieved, saddened"
 piteux,adj,sorry,"poor, regrettable"
+bras de mer,noun,sound,long narrow inlet
+sonde,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+son,noun,sound,sensation perceived by the ear
+son,noun,sound,vibration capable of causing this
 sonder,verb,sound,to probe
 tester,verb,sound,to test
 sonner,verb,sound,to produce a sound
@@ -2653,6 +3051,11 @@ soupe,noun,soup,dish
 velouté,noun,soup,dish
 pétrin,noun,soup,unfortunate situation
 panade,noun,soup,unfortunate situation
+sud,adj,south,of or pertaining to the south
+méridional,adj,south,of or pertaining to the south
+austral,adj,south,of or pertaining to the south
+sud,noun,south,compass point
+midi,noun,south,compass point
 espace,noun,space,physical extent in two or three dimensions
 espace,noun,space,area beyond atmosphere of planets
 espace,noun,space,bounded or specific physical extent
@@ -2733,6 +3136,14 @@ arrêt,noun,stop,interruption of travel
 halte,noun,stop,interruption of travel
 point,noun,stop,punctuation symbol
 ammorti,noun,stop,tennis: very short shot
+s'arrêter,verb,stop,to cease moving
+cesser,verb,stop,"not to continue — see also cease, desist"
+s'arrêter,verb,stop,"not to continue — see also cease, desist"
+arrêter,verb,stop,"not to continue — see also cease, desist"
+arrêter,verb,stop,to cause to cease moving
+arrêter,verb,stop,to cause to come to an end
+s'arrêter,verb,stop,to stay a while
+s'arrêter,verb,stop,to tarry
 entrepôt,noun,store,place where items may be kept
 stock,noun,store,supply held in storage
 histoire,noun,story,account of events
@@ -2754,6 +3165,11 @@ fort,adj,strong,convincing
 élève,noun,student,person who studies a subject
 étudiant,noun,student,person enrolled at a university — see also university student
 étudiante,noun,student,person enrolled at a university — see also university student
+étude,noun,study,mental effort to acquire knowledge
+étude,noun,study,branch of learning or object that is being studied
+étude,noun,study,room in a house intended for reading and writing
+bureau,noun,study,room in a house intended for reading and writing
+étude,noun,study,artwork made in order to practise or demonstrate a subject or technique
 étudier,verb,study,to revise/review materials
 réviser,verb,study,to revise/review materials
 étudier,verb,study,to take a course
@@ -2846,6 +3262,7 @@ maîtresse,noun,teacher,woman who teaches
 adolescent,noun,teenager,person aged between thirteen and nineteen
 adolescente,noun,teenager,person aged between thirteen and nineteen
 ado,noun,teenager,person aged between thirteen and nineteen
+téléphone,noun,telephone,a device used for two-way talking with other people
 téléphoner,verb,telephone,to call someone
 appeler,verb,telephone,to call someone
 télévision,noun,television,medium
@@ -2870,6 +3287,10 @@ terrible,adj,terrible,intense; extreme in degree or extent
 horrible,adj,terrible,unpleasant
 terrible,adj,terrible,very bad
 épouvantable,adj,terrible,very bad
+épreuve,noun,test,"challenge, trial"
+test,noun,test,academics: examination
+examen,noun,test,academics: examination
+test,noun,test,product examination
 tester,verb,test,to challenge
 mettre à l'épreuve,verb,test,to challenge
 tester,verb,test,to administer an examination during the academic term
@@ -2950,6 +3371,9 @@ titre,noun,title,prefix or suffix added to a name
 titre,noun,title,certificate of ownership
 titre,noun,title,"name of a book, etc"
 intitulé,noun,title,subject of a writing
+aujourd'hui,adv,today,on the current day
+de nos jours,adv,today,"nowadays — see also nowadays, these days"
+actuellement,adv,today,"nowadays — see also nowadays, these days"
 aujourd'hui,noun,today,today (noun)
 ensemble,adv,together,"at the same time, in the same place"
 toilette,noun,toilet,personal grooming
@@ -2965,7 +3389,12 @@ w.-c.,noun,toilet,"fixture used for urination and defecation — see also flush 
 tomate,noun,tomato,tomato plant
 tomatier,noun,tomato,tomato plant
 tomate,noun,tomato,fruit
+demain,adv,tomorrow,on the day after the present day
 demain,noun,tomorrow,the day after the present day
+ce soir,adv,tonight,during today's evening
+au soir,adv,tonight,during today's evening
+à soir,adv,tonight,during today's evening
+cette nuit,adv,tonight,during today's nighttime
 ce soir,noun,tonight,nighttime today
 au soir,noun,tonight,nighttime today
 à soir,noun,tonight,nighttime today
@@ -2995,6 +3424,9 @@ caravane,noun,train,"group of animals, vehicles, or people"
 enchainement,noun,train,series of events or ideas which are interconnected
 traîne,noun,train,that which is drawn along
 voyage,noun,travel,act of traveling
+voyager,verb,travel,be on a journey
+transmettre,verb,travel,pass from here to there; transmit
+propager,verb,travel,pass from here to there; transmit
 arbre,noun,tree,large woody plant
 arçon,noun,tree,frame of a saddle
 arçon,noun,tree,the structure or wooden frame used in the construction of a saddle used in horse riding
@@ -3029,6 +3461,11 @@ virage,noun,turn,change of direction or orientation
 tour,noun,turn,chance to use (something) shared in sequence with others
 tour,noun,turn,one's chance to make a move in a game
 tournant,noun,turn,poker: fourth communal card in Texas hold 'em
+tourner,verb,turn,move around an axis through itself
+se tourner,verb,turn,move around an axis through itself
+tourner,verb,turn,"change the direction or orientation of, especially by rotation"
+tourner,verb,turn,change one's direction of travel
+devenir,verb,turn,become
 deux fois,adv,twice,two times
 type,noun,type,grouping based on shared characteristics
 genre,noun,type,grouping based on shared characteristics
@@ -3077,6 +3514,8 @@ vidéocassette,noun,video,VHS
 visite,noun,visit,single act of visiting
 séjour,noun,visit,single act of visiting
 consultation,noun,visit,meeting with a doctor
+visiter,verb,visit,to go and meet (someone)
+rendre visite,verb,visit,to go and meet (someone)
 visiteur,noun,visitor,guest
 visiteuse,noun,visitor,guest
 invité,noun,visitor,sightseer
@@ -3095,6 +3534,21 @@ marche,noun,walk,trip made by walking
 démarche,noun,walk,manner of walking
 allée,noun,walk,maintained place on which to walk
 but-sur-balles,noun,walk,baseball: instance of walking a batter
+marcher,verb,walk,to move on the feet
+se promener,verb,walk,to move on the feet
+ficher le camp,verb,walk,colloquial: to avoid a criminal court case
+s'envoler,verb,walk,colloquial: to be stolen
+se barrer,verb,walk,colloquial: to be stolen
+marcher,verb,walk,to travel a distance by walking
+faire [distance] à pied,verb,walk,to travel a distance by walking
+accompagner,verb,walk,to take for a walk
+raccompagner,verb,walk,to take for a walk
+promener,verb,walk,to take for a walk
+battre,verb,walk,to full cloth
+parcourir,verb,walk,to traverse by walking (or analogous gradual movement)
+se barrer,verb,walk,"colloquial: to leave, resign"
+se tirer,verb,walk,"colloquial: to leave, resign"
+se casser,verb,walk,"colloquial: to leave, resign"
 mur,noun,wall,defensive rampart
 murs,noun,wall,structure built for defense surrounding an area
 remparts,noun,wall,structure built for defense surrounding an area
@@ -3119,6 +3573,15 @@ montre,noun,watch,portable or wearable timepiece
 veille,noun,watch,particular time period
 garde,noun,watch,person or group of people who guard
 poste,noun,watch,place where a watchman is posted
+regarder,verb,watch,to look at for a period of time
+regarder,verb,watch,to observe
+observer,verb,watch,to observe
+surveiller,verb,watch,to attend or guard
+faire attention,verb,watch,to be wary
+prendre garde,verb,watch,to be wary
+faire gaffe,verb,watch,to be wary
+veiller,verb,watch,to be vigilant
+être vigilant,verb,watch,to be vigilant
 eau,noun,water,inorganic compound H₂O
 eau,noun,water,one of the basic elements
 eaux,noun,water,"body of water, or specific part of it"
@@ -3148,7 +3611,19 @@ week-end,noun,weekend,break in the working week
 weekend,noun,weekend,break in the working week
 fin de semaine,noun,weekend,break in the working week
 bienvenu,adj,welcome,whose arrival is a cause of joy
+accueillir,verb,welcome,affirm or greet the arrival of someone
+souhaiter la bienvenue,verb,welcome,affirm or greet the arrival of someone
 bien,adj,well,in good health
+bien,adv,well,accurately; competently
+bien,adv,well,to a significant degree
+vachement,adv,well,(slang) very
+drôlement,adv,well,(slang) very
+vers l'ouest,adj,west,towards the west
+occidental,adj,west,western
+occidental,adj,west,occidental
+ouest,noun,west,compass point
+occident,noun,west,compass point
+ponant,noun,west,compass point
 quand,adv,when,"at what time, as a direct question"
 quand,adv,when,"at what time, as an indirect question"
 où,adv,where,at what place; to what place; from what place
@@ -3159,6 +3634,8 @@ vers où,adv,where,to which place or situation
 où,adv,where,in what situation
 où que,adv,where,wherever
 où,adv,where,the place in which
+blanc,adj,white,bright and colourless
+blanc,adj,white,of or relating to Caucasians
 blanc,noun,white,color
 Blanc,noun,white,person of European descent
 Blanche,noun,white,person of European descent
@@ -3204,6 +3681,15 @@ travail,noun,work,"literary, artistic, or intellectual production"
 œuvre,noun,work,"literary, artistic, or intellectual production"
 travail,noun,work,physics: measure of energy expended in moving an object
 travail,noun,work,thermodynamics: energy in transit between one form or repository and another
+travailler,verb,work,to do a specific task
+bosser,verb,work,to do a specific task
+opérer,verb,work,"to operate in a certain place, area, or specialty."
+marcher,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+fonctionner,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+actionner,verb,work,to set into action
+faire,verb,work,to cause to happen
+broder,verb,work,to embroider with thread
+se travailler,verb,work,to behave in a certain way when handled.
 travailleur,noun,worker,person who performs labor
 travailleuse,noun,worker,person who performs labor
 ouvrier,noun,worker,person who performs labor
@@ -3261,6 +3747,10 @@ an,noun,year,time it takes for the Earth to complete one revolution around the S
 an,noun,year,a period between set dates that mark a year
 année,noun,year,a period between set dates that mark a year
 année,noun,year,a level or grade at school or college
+jaune,adj,yellow,having yellow as its color
+froussard,adj,yellow,lacking courage
+lâche,adj,yellow,lacking courage
 jaune,noun,yellow,color
+hier,adv,yesterday,on the day before today
 hier,noun,yesterday,day before today
 jeune,adj,young,in the early part of life or growth

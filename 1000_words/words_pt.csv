@@ -94,6 +94,10 @@ bicho,noun,animal,organism
 animal,noun,animal,organism other than human
 bicho,noun,animal,organism other than human
 animal,noun,animal,person who behaves wildly
+resposta,noun,answer,response
+resposta,noun,answer,solution
+resposta,noun,answer,reply to email
+réplica,noun,answer,document filed in response to a complaint
 responder,verb,answer,to make a reply or response to
 atender,verb,answer,to respond to a call
 atender,verb,answer,to suit a need or purpose satisfactorily
@@ -167,6 +171,17 @@ benjamim,noun,baby,lastborn of a family
 de volta,adv,back,to or in a previous condition or place
 para trás,adv,back,away from the front or from an edge
 para trás,adv,back,in a manner that impedes
+costas,noun,back,the rear of body
+lombo,noun,back,the rear of body
+dorso,noun,back,the reverse side
+reverso,noun,back,the reverse side
+traseira,noun,back,the reverse side
+parte de trás,noun,back,the reverse side
+fundo,noun,back,that which is farthest away from the front
+fundo,noun,back,the part of something that goes last
+encosto (para as costas),noun,back,"the backrest, the part of a piece of furniture which receives the human back — see also backrest"
+zagueiro,noun,back,a position behind most players on the team
+beque,noun,back,a position behind most players on the team
 ruim,adj,bad,unfavorable; negative
 mau,adj,bad,unfavorable; negative
 mau,adj,bad,not suitable or fitting
@@ -339,6 +354,28 @@ passarinho,noun,bird,penis
 aniversário,noun,birthday,anniversary
 dia de anos,noun,birthday,anniversary
 data de nascimento,noun,birthday,date of birth — see also date of birth
+preto,adj,black,absorbing all light
+atro,adj,black,absorbing all light
+negro,adj,black,absorbing all light
+escuro,adj,black,without light
+negro,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+afrodescendente,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+preto,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+negro,adj,black,bad; evil
+atro,adj,black,bad; evil
+sombrio,adj,black,bad; evil
+negro,adj,black,"illegitimate, illegal or disgraced"
+sombrio,adj,black,"illegitimate, illegal or disgraced"
+preto,adj,black,"of coffee or tea, without milk or other whitener"
 preto,noun,black,colour/color
 negro,noun,black,colour/color
 preto,noun,black,"dye, pigment"
@@ -354,6 +391,15 @@ loiro,adj,blond,of a pale golden colour
 louro,adj,blond,of a pale golden colour
 loiro,adj,blond,having blond hair
 louro,adj,blond,having blond hair
+azul,adj,blue,"blue-coloured — see also dark blue, light blue"
+azulado,adj,blue,"blue-coloured — see also dark blue, light blue"
+deprimido,adj,blue,depressed
+triste,adj,blue,depressed
+melancólico,adj,blue,depressed
+borocoxô,adj,blue,depressed
+pornográfico,adj,blue,pornographic
+pornô,adj,blue,pornographic
+profano,adj,blue,pornographic
 azul,noun,blue,colour
 azul,noun,blue,blue pigment
 barco,noun,boat,water craft
@@ -438,6 +484,33 @@ fresta,noun,break,physical space that opens up in something or between two thing
 pausa,noun,break,"rest or pause, usually from work"
 tempo,noun,break,temporary split in romantic relationship
 fuga,noun,break,act of escaping
+quebrar,verb,break,intransitive: to separate into (to end up in) two or more pieces
+partir,verb,break,intransitive: to separate into (to end up in) two or more pieces
+romper,verb,break,intransitive: to separate into (to end up in) two or more pieces
+quebrar,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+partir,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+romper,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+quebrar,verb,break,"intransitive, of a bone: to crack"
+partir,verb,break,"intransitive, of a bone: to crack"
+quebrar,verb,break,transitive: to cause (a bone) to crack
+partir,verb,break,transitive: to cause (a bone) to crack
+trocar,verb,break,to divide (money) into smaller units
+domar,verb,break,to turn an animal into a beast of burden
+perder,verb,break,to cause a habit to no longer exist
+romper,verb,break,to cause a habit to no longer exist
+quebrar,verb,break,to ruin financially
+desrespeitar,verb,break,transitive: to do that which is forbidden by (something)
+violar,verb,break,transitive: to do that which is forbidden by (something)
+quebrar,verb,break,intransitive: to stop functioning properly or altogether
+partir,verb,break,intransitive: to stop functioning properly or altogether
+estragar,verb,break,transitive: to cause to stop functioning
+partir,verb,break,transitive: to cause to stop functioning
+quebrar,verb,break,"of a wave, to collapse into a surf"
+pausar,verb,break,to interrupt or cease one's work or occupation temporarily
+falhar,verb,break,"of a voice, to alter in type due to emotion or strain [existing translations are to be checked, whether they belong to the previous sense]"
+quebrar,verb,break,to do better than a record
+separar,verb,break,to end a connection
+desligar,verb,break,to end a connection
 café da manhã,noun,breakfast,first meal of the day
 pequeno-almoço,noun,breakfast,first meal of the day
 desjejum,noun,breakfast,first meal of the day
@@ -448,6 +521,8 @@ irmão,noun,brother,male having parents in common
 frade,noun,brother,male fellow member of a religious community
 irmão,noun,brother,male fellow member of a religious community
 irmão,noun,brother,peer
+castanho,adj,brown,having a brown colour
+marrom,adj,brown,having a brown colour
 castanho,noun,brown,colour
 marrom,noun,brown,colour
 construir,verb,build,(transitive) to form by combining materials or parts
@@ -467,6 +542,8 @@ ramo,noun,business,"occupation, work or trade of a person"
 trabalho,noun,business,"occupation, work or trade of a person"
 negócio,noun,business,"occupation, work or trade of a person"
 negócio,noun,business,"commercial, industrial or professional activity"
+ocupado,adj,busy,doing a great deal
+ocupado,adj,busy,engaged
 manteiga,noun,butter,soft foodstuff made from milk
 comprar,verb,buy,to obtain something with money
 adquirir,verb,buy,to obtain something with money
@@ -486,6 +563,14 @@ plantão,noun,call,type of work shift
 chamada,noun,call,computing: act of jumping to a subprogram
 chamado,noun,call,"vocation, employment, calling"
 programa,noun,call,prostitution: meeting with a client
+chamar,verb,call,"to request, summon, or beckon"
+gritar,verb,call,to cry or shout
+chamar,verb,call,to cry or shout
+telefonar,verb,call,to contact by telephone
+ligar,verb,call,to contact by telephone
+visitar,verb,call,to pay a social visit
+chamar,verb,call,to name or refer to
+requerer,verb,call,"to require, demand"
 câmara fotográfica,noun,camera,still camera
 câmera fotográfica,noun,camera,still camera
 máquina fotográfica,noun,camera,still camera
@@ -502,6 +587,8 @@ calar,verb,can,to shut up
 demitir,verb,can,to fire or dismiss an employee
 mandar embora,verb,can,to fire or dismiss an employee
 não pode,verb,cannot,"cannot — see also can, not"
+capital,noun,capital,money and wealth
+capitel,noun,capital,uppermost part of a column
 carro,noun,car,"automobile, a vehicle steered by a driver"
 viatura,noun,car,"automobile, a vehicle steered by a driver"
 automóvel,noun,car,"automobile, a vehicle steered by a driver"
@@ -543,6 +630,14 @@ troca,noun,change,a replacement
 mudança,noun,change,a replacement
 troco,noun,change,balance returned after a purchase
 trocado,noun,change,amount of cash
+mudar,verb,change,to become something different
+alterar,verb,change,to make something into something else
+mudar,verb,change,to make something into something else
+mudar,verb,change,to replace
+trocar,verb,change,to replace
+trocar-se,verb,change,to replace one's own clothing
+trocar,verb,change,to replace the clothing of (the one wearing it)
+baldear,verb,change,to transfer to another vehicle
 carta náutica,noun,chart,navigator's map
 diagrama,noun,chart,non-narrative presentation of data
 gráfico,noun,chart,non-narrative presentation of data
@@ -605,6 +700,13 @@ classe,noun,class,taxonomy: classification below Phylum and above Order
 classe,noun,class,set theory: collection of sets definable by a shared property
 classe,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 sala de aula,noun,classroom,room in a school
+limpo,adj,clean,not dirty
+asseado,adj,clean,not dirty
+limpo,adj,clean,in an unmarked condition
+puro,adj,clean,"pure, especially morally or religiously"
+imaculado,adj,clean,"pure, especially morally or religiously"
+limpo,adj,clean,not having used mind-altering or mood-changing substances
+limpo,adj,clean,"smooth, exact, and performed well"
 limpar,verb,clean,(transitive) to remove dirt from a place or object
 arrumar,verb,clean,(transitive) to tidy up
 limpar,verb,clean,(intransitive) to make things clean
@@ -649,6 +751,15 @@ café,noun,coffee,beans
 cafezeiro,noun,coffee,plant
 pé decafé,noun,coffee,plant
 café,noun,coffee,colour
+frio,adj,cold,having a low temperature
+gelado,adj,cold,having a low temperature
+frio,adj,cold,of the weather
+gelado,adj,cold,of the weather
+fazer frio,adj,cold,of the weather
+estar com frio,adj,cold,of a person's sensation
+frio,adj,cold,unfriendly
+gélido,adj,cold,unfriendly
+despreparado,adj,cold,unprepared
 frio,noun,cold,low temperature
 resfriado,noun,cold,illness
 gripe,noun,cold,illness
@@ -685,6 +796,14 @@ companhia,noun,company,companionship
 companhia,noun,company,military unit
 companhia,noun,company,unit of firefighters and their equipment
 comparar,verb,compare,to assess the similarities between two things or between one thing and another
+completo,adj,complete,with everything included
+integral,adj,complete,with everything included
+totalizado,adj,complete,with everything included
+íntegro,adj,complete,with everything included
+completo,adj,complete,finished; ended; concluded; completed
+concluído,adj,complete,finished; ended; concluded; completed
+terminado,adj,complete,finished; ended; concluded; completed
+completo,adj,complete,of metric space: such that every Cauchy sequence converges in it
 terminar,verb,complete,to finish
 acabar,verb,complete,to finish
 concluir,verb,complete,to finish
@@ -720,7 +839,13 @@ descolado,adj,cool,colloquial: in fashion
 bacana,adj,cool,colloquial: in fashion
 aceitável,adj,cool,"colloquial: all right, acceptable"
 de boa,adj,cool,colloquial: not upset
+correto,adj,correct,free from error
+certo,adj,correct,free from error
+comportado,adj,correct,with good manners
+educado,adj,correct,with good manners
 corrigir,verb,correct,to make something become right that was previously wrong
+custo,noun,cost,amount of money spent for a purpose
+custo,noun,cost,negative consequence or loss
 custar,verb,cost,"to incur a charge, a price"
 país,noun,country,region of land
 nação,noun,country,region of land
@@ -796,6 +921,8 @@ papá,noun,dad,informal: a father
 papai,noun,dad,informal: a father
 pai,noun,dad,informal: a father
 papá,noun,dad,familiar address of one's own father
+dança,noun,dance,movements to music
+baile,noun,dance,movements to music
 dançar,verb,dance,move rhythmically to music
 bailar,verb,dance,move rhythmically to music
 bailarino,noun,dancer,person who dances
@@ -845,6 +972,11 @@ gostoso,adj,delicious,pleasing to taste
 apetitoso,adj,delicious,pleasing to taste
 descrever,verb,describe,to represent in words
 descrição,noun,description,account in words
+projeto,noun,design,plan
+design,noun,design,plan
+projeto,noun,design,pattern
+intenção,noun,design,intention
+desenho,noun,design,art of designing
 projetar,verb,design,to plan an artwork etc.
 escrivaninha,noun,desk,table for writing and reading
 carteira,noun,desk,table for writing and reading
@@ -948,8 +1080,19 @@ consumir,verb,draw,to consume
 sortear,verb,draw,to determine the result of a lottery
 sacar,verb,draw,cardgames: to take the top card of a deck into hand
 comprar,verb,draw,cardgames: to take the top card of a deck into hand
+vestido,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+vestimenta,noun,dress,apparel or clothing
+traje,noun,dress,apparel or clothing
 vestir,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 vestir-se,verb,dress,to put on clothes — see also get dressed
+bebida,noun,drink,served beverage
+bebida,noun,drink,type of beverage
+coquetel,noun,drink,type of beverage
+bebida,noun,drink,served alcoholic beverage
+drinque,noun,drink,served alcoholic beverage
+bebida,noun,drink,action of drinking
+bebida,noun,drink,alcoholic beverages in general
+álcool,noun,drink,alcoholic beverages in general
 beber,verb,drink,consume liquid through the mouth
 tomar,verb,drink,consume liquid through the mouth
 beber,verb,drink,consume alcoholic beverages
@@ -977,10 +1120,25 @@ cada,adv,each,apiece
 espiga,noun,ear,fruiting body of a grain plant
 ouvido,noun,ear,organ of hearing
 orelha,noun,ear,organ of hearing
+precoce,adj,early,at a time in advance of the usual
+cedo,adj,early,at a time in advance of the usual
+adiantado,adj,early,arriving at a time before expected
+inicial,adj,early,near but after the start or beginning
+inicial,adj,early,illness: having begun to occur
+precoce,adj,early,illness: having begun to occur
 cedo,adv,early,at a time before expected
+ao leste,adj,east,in or towards the east
+oriental,adj,east,in or towards the east
+do leste,adj,east,meteorology: easterly
+leste,adj,east,meteorology: easterly
+oriental,adj,east,of or pertaining to the east
+oriental,adj,east,from the East
 a leste,adv,east,towards the east
 para o leste,adv,east,towards the east
 em direção ao leste,adv,east,towards the east
+este,noun,east,compass point
+leste,noun,east,compass point
+oriente,noun,east,compass point
 fácil,adj,easy,requiring little skill or effort
 fácil,adj,easy,consenting readily to sex
 comer,verb,eat,"to ingest — see also consume, ingest"
@@ -999,9 +1157,23 @@ alifante,noun,elephant,mammal
 senão,adv,else,word that implies any result with the exception of the one being referred to
 em vez de,adv,else,word that implies any result with the exception of the one being referred to
 além disso,adv,else,word that implies any result with the exception of the one being referred to
+e-mail,noun,email,system for sending messages and datas by means of computers connected together in a network
+correio eletrónico,noun,email,system for sending messages and datas by means of computers connected together in a network
+correio eletrônico,noun,email,system for sending messages and datas by means of computers connected together in a network
+e-mail,noun,email,message sent through email
+correio eletrónico,noun,email,message sent through email
+correio eletrônico,noun,email,message sent through email
+e-mail,noun,email,email address — see also e-mail address
+endereço eletrónico,noun,email,email address — see also e-mail address
+endereço eletrônico,noun,email,email address — see also e-mail address
 mandar/enviar e-mail,verb,email,(transitive) to send an email or emails to
 mandar por email,verb,email,(transitive) to send (something) through email
 mandar/enviar e-mail,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+fim,noun,end,extreme part
+cabo,noun,end,extreme part
+término,noun,end,extreme part
+fim,noun,end,death
+fim,noun,end,purpose
 acabar,verb,end,"intransitive: be finished, be terminated"
 terminar,verb,end,"intransitive: be finished, be terminated"
 findar,verb,end,"intransitive: be finished, be terminated"
@@ -1053,6 +1225,8 @@ animado,adj,excited,having great enthusiasm and energy
 excitado,adj,excited,being in a state of higher energy
 excitante,adj,exciting,causing excitement
 empolgante,adj,exciting,causing excitement
+exercício,noun,exercise,any activity designed to develop or hone a skill or ability
+exercício,noun,exercise,physical activity intended to improve strength and fitness
 exercitar-se,verb,exercise,exert for the sake of training
 exercer,verb,exercise,use; put into practice
 agir,verb,exercise,"take action, enforce"
@@ -1096,12 +1270,27 @@ facto,noun,fact,information about a particular subject
 queda,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 decadência,noun,fall,a period of decline before the end
 queda,noun,fall,loss of greatness or status
+cair,verb,fall,move to a lower position under the effect of gravity
+cair,verb,fall,come down or descend
+cair,verb,fall,prostrate oneself
+cair,verb,fall,be brought to earth or be overthrown
+tombar,verb,fall,be brought to earth or be overthrown
+cair,verb,fall,collapse; be overthrown or defeated
+tombar,verb,fall,die
+falhar,verb,fall,be allotted to
+ficar,verb,fall,become or change into
 falso,adj,false,"untrue, not factual, wrong"
 errado,adj,false,"untrue, not factual, wrong"
 falso,adj,false,"spurious, artificial"
 artificial,adj,false,"spurious, artificial"
 falso,adj,false,state in Boolean logic that indicates a negative result
 de família,adj,family,suitable for children and adults
+família,noun,family,"immediate family [as a group], e.g. parents and their children"
+família,noun,family,"group of people related by blood, marriage, law, or custom"
+família,noun,family,"rank in a taxonomic classification, above both genus and species"
+família,noun,family,music: a group of instruments having the same basic method of tone production
+família,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+familiar,noun,family,(used attributively)
 famoso,adj,famous,well known
 afamado,adj,famous,well known
 célebre,adj,famous,well known
@@ -1115,6 +1304,14 @@ quinta,noun,farm,place where agricultural activities take place
 agricultor,noun,farmer,person who works the land and/or who keeps livestock
 fazendeiro,noun,farmer,person who works the land and/or who keeps livestock
 farmeiro,noun,farmer,person who works the land and/or who keeps livestock
+firme,adj,fast,firmly or securely fixed in place
+seguro,adj,fast,firmly or securely fixed in place
+rápido,adj,fast,moving or capable of moving with great speed
+veloz,adj,fast,moving or capable of moving with great speed
+pesado,adj,fast,of sleep: deep or sound
+profundo,adj,fast,of sleep: deep or sound
+indesbotável,adj,fast,of a dye: not running or fading
+adiantado,adj,fast,ahead of the correct time or schedule
 seguramente,adv,fast,in a firm or secure manner
 firmemente,adv,fast,in a firm or secure manner
 profundamente,adv,fast,of sleeping: deeply or soundly
@@ -1235,6 +1432,8 @@ esférico,noun,football,ball
 esquecer,verb,forget,to lose remembrance of
 esquecer,verb,forget,to unintentionally not do
 esquecer,verb,forget,to cease remembering
+forma,noun,form,shape or visible structure
+formulário,noun,form,document to be filled in
 formar,verb,form,to give shape
 livre,adj,free,not imprisoned
 livre,adj,free,unconstrained
@@ -1267,6 +1466,13 @@ amigo,adj,friendly,characteristic of friendliness
 amistoso,adj,friendly,without hostility
 amigo,adj,friendly,pertaining to friendlies in the conflict sense
 frontal,adj,front,located at or near the front
+dianteira,noun,front,facing side
+frente,noun,front,facing side
+frente,noun,front,main entrance side
+fachada,noun,front,public face of covert organisation
+frente,noun,front,meteorology: interface between airmasses
+frente,noun,front,military: area or line of conflict
+front,noun,front,military: area or line of conflict
 fruta,noun,fruit,part of plant
 fruto,noun,fruit,part of plant
 fruta,noun,fruit,food
@@ -1383,6 +1589,10 @@ avó,noun,grandmother,mother of someone's parent
 avós,noun,grandparent,parent of one's parent
 avô,noun,grandparent,parent of one's parent
 avó,noun,grandparent,parent of one's parent
+cinza,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+cinzento,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+gris,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+sombrio,adj,gray,"dreary, gloomy"
 cinza,noun,gray,colour
 gris,noun,gray,colour
 grey,noun,gray,extraterrestrial being
@@ -1396,6 +1606,11 @@ fantástico,adj,great,very good
 grande,adj,great,important title
 grandioso,adj,great,important title
 distinto,adj,great,important title
+verde,adj,green,having green as its colour
+verde,adj,green,inexperienced
+verde,adj,green,environmentally friendly
+verde de inveja,adj,green,envious
+verde,adj,green,of fruit: unripe
 verde,noun,green,colour
 verde,noun,green,member of a green party
 grupo,noun,group,number of things or persons being in some relation to each other
@@ -1408,6 +1623,11 @@ crescer,verb,grow,(intransitive) to appear or sprout
 cultivar,verb,grow,(transitive) to cause something to become bigger
 suposição,noun,guess,prediction about the outcome of something
 conjectura,noun,guess,prediction about the outcome of something
+adivinhar,verb,guess,to reach an unconfirmed conclusion
+adivinhar,verb,guess,to solve by a correct conjecture
+deduzir,verb,guess,to solve by a correct conjecture
+achar,verb,guess,"to suppose, to imagine"
+supor,verb,guess,"to suppose, to imagine"
 guitarra,noun,guitar,musical instrument
 violão,noun,guitar,musical instrument
 ginásio,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -1439,6 +1659,17 @@ feliz,adj,happy,"contented, joyous"
 feliz,adj,happy,"fortunate, lucky"
 feliz,adj,happy,content (to do something); having no objection (to something)
 contente,adj,happy,content (to do something); having no objection (to something)
+duro,adj,hard,resistant to pressure
+difícil,adj,hard,requiring a lot of effort to do or understand
+duro,adj,hard,demanding a lot of effort to endure
+difícil,adj,hard,demanding a lot of effort to endure
+árduo,adj,hard,demanding a lot of effort to endure
+rigoroso,adj,hard,demanding a lot of effort to endure
+difícil,adj,hard,severe
+severo,adj,hard,severe
+inquestionável,adj,hard,unquestionable
+forte,adj,hard,of drink: strong
+duro,adj,hard,"of water, high in dissolved calcium compounds"
 bem,adv,hard,with much force or effort (related to act of think)
 chapéu,noun,hat,a head covering
 odiar,verb,hate,to dislike intensely
@@ -1490,6 +1721,11 @@ servente,noun,help,person or persons who provides assistance with some task
 criado,noun,help,person employed to help in the maintenance of a house
 criada,noun,help,person employed to help in the maintenance of a house
 arquivo de ajuda,noun,help,textual support of a software application
+ajudar,verb,help,transitive: provide assistance to (someone or something)
+socorrer,verb,help,transitive: provide assistance to (someone or something)
+ajudar,verb,help,contribute in some way to
+ajudar,verb,help,intransitive: provide assistance
+auxiliar,verb,help,intransitive: provide assistance
 aqui,adv,here,"in, on, or at this place"
 cá,adv,here,"in, on, or at this place"
 (para) aqui,adv,here,to this place
@@ -1513,6 +1749,15 @@ hobby,noun,hobby,activity done for enjoyment in spare time
 ógea,noun,hobby,Falco subbuteo
 em casa,adv,home,at home
 para casa,adv,home,homewards
+lar,noun,home,house or structure in which someone lives
+casa,noun,home,house or structure in which someone lives
+lar,noun,home,someone’s native land
+terra,noun,home,someone’s native land
+lar,noun,home,childhood or parental home
+casa,noun,home,childhood or parental home
+lar,noun,home,place of the affections
+lar,noun,home,habitat
+lar,noun,home,place of refuge or rest
 tarefa,noun,homework,work that is done at home
 dever de casa,noun,homework,work that is done at home
 tarefa de casa,noun,homework,work that is done at home
@@ -1593,9 +1838,16 @@ para dentro,adv,in,moving to the interior
 incluir,verb,include,to bring into as a part or member
 incluir,verb,include,"to contain, as part of a whole"
 informação,noun,information,communicable knowledge
+juros,noun,interest,finance: price of credit
+interesse,noun,interest,great attention and concern from someone
+interesse,noun,interest,attention that is given to or received from someone or something
+interesse,noun,interest,"involvement in or link with financial, business, or other undertaking"
+interesse,noun,interest,something one is interested in
 interessar,verb,interest,to attract attention or concern
 interessado,adj,interested,having or showing interest
 interessante,adj,interesting,arousing or holding the attention
+entrevista,noun,interview,conversation with journalist etc.
+entrevista,noun,interview,a formal meeting for the assessment of a candidate or applicant
 entrevistar,verb,interview,to have an interview
 apresentar,verb,introduce,to cause someone to be acquainted
 apresentar,verb,introduce,to make something or someone known by formal announcement or recommendation
@@ -1650,6 +1902,18 @@ criar,verb,keep,of livestock: to raise; to care for
 manter,verb,keep,supply with necessities and financially support a person
 chave,adj,key,indispensable
 chave,adj,key,important
+chave,noun,key,device designed to open and close a lock
+chave,noun,key,crucial step
+legenda,noun,key,small guide explaining symbols or terminology
+tecla,noun,key,button on a typewriter or computer keyboard
+tecla,noun,key,part of a piano or musical keyboard
+clave,noun,key,scale of musical notes
+chave,noun,key,cryptography: piece of information used to encode or decode
+chave,noun,key,computing: field of a database constrained to be unique
+chave,noun,key,computing: field in a record used as a search argument
+chave,noun,key,computing: value uniquely identifying entry in associative array
+índice,noun,key,computing: value uniquely identifying entry in associative array
+garrafão,noun,key,in basketball
 tipo,noun,kind,"type, race, category"
 categoria,noun,kind,"type, race, category"
 género,noun,kind,"type, race, category"
@@ -1687,6 +1951,11 @@ linguagem,noun,language,particular words used
 linguagem,noun,language,computer language — see also computer language
 linguagem de programação,noun,language,computer language — see also computer language
 grande,adj,large,of greater size — see also big
+tarde,adj,late,near the end of a period of time
+tarde,adj,late,near the end of the day
+tardio,adj,late,associated with the end of a period
+atrasado,adj,late,not arriving until after an expected time
+falecido,adj,late,"euphemism for ""dead"""
 tarde,adv,late,past a designated time
 mais atrasado,adv,later,more late
 mais tarde,adv,later,afterward in time
@@ -1695,6 +1964,12 @@ mais tarde,adv,later,at some unspecified time in the future
 riso,noun,laugh,expression of mirth peculiar to the human species
 risada,noun,laugh,expression of mirth peculiar to the human species
 sarro,noun,laugh,something that provokes mirth or scorn
+rir,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+jubilar,verb,laugh,be or appear cheerful
+zoar,verb,laugh,make an object of laughter or ridicule
+tirar sarro,verb,laugh,make an object of laughter or ridicule
+caçoar,verb,laugh,make an object of laughter or ridicule
+escarnecer,verb,laugh,make an object of laughter or ridicule
 aprender,verb,learn,to acquire knowledge or ability
 estudar,verb,learn,to attend educational activity
 aprender,verb,learn,to make use of a bad experience
@@ -1713,6 +1988,13 @@ deixar,verb,leave,to end one's membership in
 sair,verb,leave,to end one's membership in
 partir,verb,leave,to depart (intransitive)
 ir embora,verb,leave,to depart (intransitive)
+esquerdo,adj,left,west side of the body when one is facing north
+de esquerda,adj,left,pertaining to the political left
+liberal,adj,left,pertaining to the political left
+esquerdista,adj,left,pertaining to the political left
+à esquerda,adv,left,on the left side
+esquerdo,adv,left,towards the left side
+sestro,adv,left,towards the left side
 esquerda,noun,left,the left side
 esquerda,noun,left,the ensemble of left-wing political parties
 perna,noun,leg,lower limb from groin to ankle
@@ -1762,6 +2044,12 @@ leve,adj,light,of low weight
 light,adj,light,"low in fat, calories, alcohol, salt, etc."
 leve,adj,light,"low in fat, calories, alcohol, salt, etc."
 banal,adj,light,of little significance
+luz,noun,light,electromagnetic waves
+luz,noun,light,source of illumination
+luz,noun,light,spiritual illumination
+visão,noun,light,point of view
+fogo,noun,light,flame or something used to create fire
+semáforo,noun,light,"traffic light, or an intersection controlled by one"
 gostar,verb,like,to enjoy
 gostar,verb,like,to find attractive
 curtir,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
@@ -1795,6 +2083,11 @@ linhagem,noun,line,population of cells derived from a single cell and containing
 linha,noun,line,perfusion line
 leão,noun,lion,big cat Panthera leo
 leão,noun,lion,heraldic charge
+tira,noun,list,strip of fabric
+lista,noun,list,enumeration or compilation of items
+rol,noun,list,enumeration or compilation of items
+lista,noun,list,computing: codified representation of a list
+banda,noun,list,nautical: tilting or careening to one side
 listar,verb,list,to create or recite a list
 agradar,verb,list,to be pleasing to
 escutar,verb,listen,to pay attention to a sound
@@ -1819,6 +2112,10 @@ local,adj,local,of a nearby location
 local,adj,local,computing: having limited scope
 local,adj,local,math: applying to a limited space
 local,adj,local,medicine: of or pertaining to a restricted part of an organism
+longo,adj,long,having much distance from one point to another
+comprido,adj,long,having much distance from one point to another
+comprido,adj,long,having great duration
+longo,adj,long,having great duration
 longe,adv,long,over a great distance
 quanto tempo,adv,long,for a particular duration
 por muito/bastante tempo,adv,long,for a long duration
@@ -1835,6 +2132,10 @@ emagrecer,verb,lose,shed (weight)
 perder,verb,lose,have (somebody of one's kin) die
 perder de vista,verb,lose,be unable to follow or trace (somebody or something) any longer
 perder,verb,lose,fail to be the winner
+amor,noun,love,strong affection
+amor,noun,love,object of one's romantic feelings; darling or sweetheart
+com amor,noun,love,closing of a letter
+zero,noun,love,zero
 adorar,verb,love,have a strong affection for
 adorar,verb,love,be strongly inclined towards doing
 amar,verb,love,be strongly inclined towards doing
@@ -1884,6 +2185,13 @@ mercado,noun,market,geographical area where a commercial demand exists
 compra,noun,market,total sum of trading
 de mercado,noun,market,used attributively
 casado,adj,married,in a state of marriage; having a wife or a husband
+partida,noun,match,sporting event
+combate,noun,match,sporting event
+luta,noun,match,sporting event
+jogo,noun,match,sporting event
+páreo,noun,match,attribute equaling or exceeding
+palito de fósforo,noun,match,device to make fire
+fósforo,noun,match,device to make fire
 combinar,verb,match,intransitive: to agree; to be equal
 combinar,verb,match,make a successful pairing
 talvez,adv,maybe,indicating a lack of certainty
@@ -2041,6 +2349,10 @@ música,noun,music,any pleasing or interesting sounds
 partitura,noun,music,sheet music
 dever,verb,must,be required to
 dever,verb,must,"said about something that is very likely, probable, or certain to be true"
+nome,noun,name,"word or phrase indicating a particular person, place, class or thing"
+nome,noun,name,reputation — see also reputation
+fama,noun,name,reputation — see also reputation
+reputação,noun,name,reputation — see also reputation
 nomear,verb,name,to give a name to
 denominar,verb,name,to give a name to
 chamar,verb,name,to give a name to
@@ -2053,6 +2365,8 @@ nomear,verb,name,to designate for a role
 natural,adj,natural,of or relating to nature
 natural,adj,natural,without additives
 normal,adj,natural,as expected
+perto,adj,near,physically close
+próximo,adj,near,physically close
 perto,adv,near,at or towards a position close in space or time
 precisar,verb,need,to have an absolute requirement for
 necessitar,verb,need,to have an absolute requirement for
@@ -2090,6 +2404,12 @@ telejornal,noun,news,reports of current events
 jornal,noun,newspaper,publication
 papel de periódico,noun,newspaper,paper on which newspapers are printed
 papel-jornal,noun,newspaper,paper on which newspapers are printed
+próximo,adj,next,following in a sequence
+seguinte,adj,next,following in a sequence
+perto,adj,next,being closer to the present location than all other items
+próximo,adj,next,being closer to the present location than all other items
+próximo,adj,next,"nearest date, time, space or order"
+seguinte,adj,next,"nearest date, time, space or order"
 perto,adv,next,"In a time, place or sequence closest or following"
 próximo,adv,next,"In a time, place or sequence closest or following"
 a seguir,adv,next,On the first subsequent occasion
@@ -2112,6 +2432,14 @@ anoitecer,noun,night,nightfall
 escuridão,noun,night,darkness
 noite,noun,night,darkness
 trevas,noun,night,darkness
+do norte,adj,north,of or pertaining to the north
+nortenho,adj,north,of or pertaining to the north
+nortista,adj,north,of or pertaining to the north
+setentrional,adj,north,of or pertaining to the north
+ao norte,adj,north,toward the north
+norte,adj,north,"meteorology: of wind, from the north"
+norte,noun,north,compass point
+setentrião,noun,north,compass point
 nariz,noun,nose,protuberance on the face
 focinho,noun,nose,"snout, nose of an animal"
 nariz,noun,nose,tip of an object
@@ -2172,12 +2500,20 @@ em linha,adj,online,connected to a network
 online,adj,online,available over the Internet
 online,adj,online,connected to the Internet
 em linha,adj,online,connected to the Internet
+único,adj,only,alone in a category
+filho único,adj,only,without sibling
+único,adj,only,singularly superior; the best
+melhor,adj,only,singularly superior; the best
 apenas,adv,only,without others or anything further; exclusively
 somente,adv,only,without others or anything further; exclusively
 apenas,adv,only,no more than
 somente,adv,only,no more than
 apenas,adv,only,as recently as
 somente,adv,only,as recently as
+aberto,adj,open,not closed
+aberto,adj,open,prepared to conduct business
+aberto,adj,open,receptive
+aberto,adj,open,public
 abrir,verb,open,to make something accessible
 abrir,verb,open,to make accessible to customers
 abrir,verb,open,to begin conducting business
@@ -2187,11 +2523,33 @@ abrir,verb,open,to bring up (a topic)
 abrir,verb,open,to become open
 opinião,noun,opinion,thought a person has formed about a topic
 conclusão,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+oposto,adj,opposite,located directly across from
+oposto,adj,opposite,facing the other way
+oposto,adj,opposite,of complementary or mutually exclusive things
 oposto,adv,opposite,in an opposite position
+oposto,noun,opposite,contrary thing
+contrário,noun,opposite,contrary thing
+oponente,noun,opposite,opponent
+antónimo,noun,opposite,antonym
+antônimo,noun,opposite,antonym
 laranja,adj,orange,having the colour of the fruit of an orange tree
 laranjado,adj,orange,having the colour of the fruit of an orange tree
 alaranjado,adj,orange,having the colour of the fruit of an orange tree
 cor-de-laranja,adj,orange,having the colour of the fruit of an orange tree
+laranjeira,noun,orange,tree
+laranja,noun,orange,fruit
+alaranjado,noun,orange,colour
+cor-de-laranja,noun,orange,colour
+laranja,noun,orange,colour
+ordem,noun,order,"arrangement, disposition"
+ordem,noun,order,good arrangement
+ordem,noun,order,command
+encomenda,noun,order,request for some product or service
+pedido,noun,order,request for some product or service
+ordem,noun,order,religious group
+ordem,noun,order,society of knights
+ordem,noun,order,awarded decoration
+ordem,noun,order,biology: taxonomical classification
 ordenar,verb,order,to set in (any) order
 ordenar,verb,order,to set in (a good) order
 ordenar,verb,order,to issue a command
@@ -2211,6 +2569,10 @@ página,noun,page,one side of a leaf of a book
 folha,noun,page,one of the pieces of paper bound together within a book or document
 pintura,noun,paint,substance
 tinta,noun,paint,substance
+pintar,verb,paint,to apply paint to
+pintar,verb,paint,to apply in the manner of paint
+pintar,verb,paint,to create an image
+pintar,verb,paint,to practise the art of painting pictures
 pintura,noun,painting,an illustration or artwork using paint
 pintura,noun,painting,the action of applying paint
 pintura,noun,painting,artistic application of paint
@@ -2230,6 +2592,8 @@ genitor,noun,parent,person from whom one is descended
 pai,noun,parent,person who acts as a parent in rearing a child — see also guardian
 pai,noun,parent,source or origin of something
 mãe,noun,parent,source or origin of something
+parque,noun,park,"ground for preservation of game, etc."
+parque,noun,park,ground for recreation
 estacionar,verb,park,bring (a vehicle) to a halt
 parte,noun,part,fraction of a whole
 pedaço,noun,part,fraction of a whole
@@ -2259,6 +2623,10 @@ grupo,noun,party,online gaming: player characters organized into a single group
 party,noun,party,video games: group of characters controlled by the player
 grupo,noun,party,video games: group of characters controlled by the player
 passaporte,noun,passport,official document for foreign travel
+passado,adj,past,having already happened; in the past
+passado,adj,past,of a period of time: having just gone by
+passado,adj,past,grammar: expressing action that has already happened
+pretérito,adj,past,grammar: expressing action that has already happened
 passado,noun,past,period of time that has already happened
 pretérito,noun,past,(grammar) past tense
 passado,noun,past,(grammar) past tense
@@ -2305,6 +2673,7 @@ pessoa,noun,person,the physical body seen as distinct from the mind
 pessoa,noun,person,any individual or formal organization with standing before the courts
 pessoa,noun,person,grammar: linguistic category
 pessoal,adj,personal,of or pertaining to a particular person
+fone,noun,phone,speech segment
 telefonar para,verb,phone,to call (someone) on the telephone
 chamar,verb,phone,to call (someone) on the telephone
 ligar para,verb,phone,to call (someone) on the telephone
@@ -2337,6 +2706,8 @@ porco,noun,pig,nasty or disgusting person
 nojento,noun,pig,nasty or disgusting person
 porco,noun,pig,dirty or slovenly person
 porco,noun,pig,derogatory slang for police officer
+cor-de-rosa,adj,pink,colored/coloured between red and white
+rosa,adj,pink,colored/coloured between red and white
 cor-de-rosa,noun,pink,pale red colour
 rosa,noun,pink,pale red colour
 cravina,noun,pink,pale red colour
@@ -2357,6 +2728,10 @@ lugar,noun,place,the position as a member of a team
 posição,noun,place,the position as a member of a team
 casa,noun,place,numeric: the column counting a certain quantity
 algarismo,noun,place,numeric: the column counting a certain quantity
+planta,noun,plan,technical drawing
+plano,noun,plan,set of intended actions
+projeto,noun,plan,set of intended actions
+planta,noun,plan,2-dimensional drawing from above
 planear,verb,plan,to design
 planejar,verb,plan,to design
 planear,verb,plan,to create a plan for
@@ -2380,6 +2755,16 @@ brincadeira,noun,play,playful activity
 jogo,noun,play,individual's performance in a sport
 drama,noun,play,literary composition intended to be represented
 peça,noun,play,theatrical performance
+jogar,verb,play,act in a manner such that one has fun
+brincar,verb,play,act in a manner such that one has fun
+tocar,verb,play,produce music using a musical instrument (transitive sense)
+tocar,verb,play,produce music using a musical instrument (intransitive sense)
+atuar,verb,play,act in a performance
+representar,verb,play,act in a performance
+desempenhar,verb,play,act in a performance
+jogar,verb,play,participate in (a sport or game)
+tocar,verb,play,use a device to watch or listen to the indicated recording
+reproduzir,verb,play,use a device to watch or listen to the indicated recording
 jogador,noun,player,one who plays any game or sport
 jogadora,noun,player,one who plays any game or sport
 ator,noun,player,dramatic actor
@@ -2445,6 +2830,21 @@ positivo,adj,positive,physics: having more protons than electrons
 positivo,adj,positive,grammar: describing the primary sense
 possível,adj,possible,able but not certain to happen
 possível,adj,possible,capable of being done or achieved; feasible
+mourão,noun,post,long dowel or plank protruding from the ground
+estaca,noun,post,long dowel or plank protruding from the ground
+poste,noun,post,long dowel or plank protruding from the ground
+sarrafo,noun,post,(construction) stud; two-by-four
+ripa,noun,post,(construction) stud; two-by-four
+trave,noun,post,goalpost (sports)
+pivô,noun,post,location on a basketball court
+posto,noun,post,assigned station
+posto,noun,post,appointed position in an organization
+cargo,noun,post,appointed position in an organization
+função,noun,post,appointed position in an organization
+correio,noun,post,method of delivering mail
+postagem,noun,post,method of delivering mail
+post,noun,post,individual message in a forum
+publicação,noun,post,individual message in a forum
 postar,verb,post,send to an electronic forum
 publicar,verb,post,send to an electronic forum
 postar,verb,post,send mail
@@ -2458,12 +2858,25 @@ pátio,noun,pound,place for detention of automobiles
 libra,noun,pound,unit of mass (16 ounces avoirdupois)
 libra,noun,pound,unit of currency
 libra esterlina,noun,pound,unit of currency
+prática,noun,practice,repetition of an activity to improve skill
+prática,noun,practice,ongoing pursuit of a craft or profession
+prática,noun,practice,observance of religious duties
+praxe,noun,practice,"customary action, habit, or behaviour"
+costume,noun,practice,"customary action, habit, or behaviour"
+prática,noun,practice,"actual operation or experiment, in contrast to theory"
 preferir,verb,prefer,to favor
 preparar,verb,prepare,to make ready for a specific future purpose
 preparar,verb,prepare,to make ready for eating or drinking
 fazer,verb,prepare,to make ready for eating or drinking
 preparar-se,verb,prepare,to make oneself ready
+presente,adj,present,pertaining to the current time
+atual,adj,present,pertaining to the current time
+presente,adj,present,in the immediate vicinity
 presente,noun,present,current time
+bonito,adj,pretty,"especially of women and children: pleasant, attractive"
+bonito,adj,pretty,of objects: nice-looking
+belo,adj,pretty,of objects: nice-looking
+bonitinho,adj,pretty,only superficially attractive
 meio,adv,pretty,somewhat
 bem,adv,pretty,somewhat
 bastante,adv,pretty,somewhat
@@ -2494,6 +2907,8 @@ programa,noun,program,"leaflet listing information about a play, game or other a
 programa,noun,program,performance of a show or other broadcast on radio or television
 programa,noun,program,software application
 projeto,noun,project,planned endeavor
+púrpura,adj,purple,colour
+roxo,adj,purple,colour
 roxo,noun,purple,colour
 púrpura,noun,purple,colour
 violeta,noun,purple,colour
@@ -2545,6 +2960,9 @@ rádio,noun,radio,receiver
 telefonia,noun,radio,receiver
 rádio,noun,radio,on-board entertainment system in a car
 rádio,noun,radio,transmitter
+chuva,noun,rain,condensed water from a cloud
+chuva,noun,rain,any matter falling
+chuva,noun,rain,an instance of particles falling
 chover,verb,rain,of rain: to fall from the sky
 chover,verb,rain,to fall in large quantities
 fazer chover,verb,rain,to issue in large quantities
@@ -2585,6 +3003,11 @@ motivo,noun,reason,that which causes: a cause
 razão,noun,reason,that which causes: a cause
 motivo,noun,reason,motive for an action or determination
 razão,noun,reason,(the capacity of the human mind for) rational thinking
+vermelho,adj,red,having red as its colour
+ruivo,adj,red,of hair: orange-brown
+vermelho,adj,red,"left-wing, socialist or communist"
+rubro,adj,red,"left-wing, socialist or communist"
+comuna,adj,red,"left-wing, socialist or communist"
 vermelho,noun,red,colour
 rubro,noun,red,colour
 vermelha,noun,red,colour
@@ -2616,6 +3039,18 @@ retorno,noun,return,act of returning
 volta,noun,return,act of returning
 regresso,noun,return,act of returning
 declaração,noun,return,finance: tax return
+voltar,verb,return,to come or go back
+retornar,verb,return,to come or go back
+regressar,verb,return,to come or go back
+voltar,verb,return,"to go back in thought, narration, or argument"
+retornar,verb,return,"to go back in thought, narration, or argument"
+regressar,verb,return,"to go back in thought, narration, or argument"
+retornar,verb,return,"to turn back, retreat"
+devolver,verb,return,to give something back to its original holder or owner
+retornar,verb,return,to give something back to its original holder or owner
+restituir,verb,return,to give something back to its original holder or owner
+retornar,verb,return,computing: to relinquish control to the calling procedure
+retornar,verb,return,computing: to pass back (data) to the calling procedure
 arroz,noun,rice,plants
 arroz,noun,rice,seeds used as food
 rico,adj,rich,having wealth
@@ -2627,6 +3062,24 @@ pegar,verb,ride,to be transported in a vehicle as a passenger
 levar,verb,ride,to transport someone in a vehicle
 sentar,verb,ride,to mount someone to have sex with them
 cavalgar,verb,ride,to mount someone to have sex with them
+reto,adj,right,"straight, not bent"
+perpendicular,adj,right,"of an angle, 90 degrees"
+reto,adj,right,"of an angle, 90 degrees"
+correto,adj,right,"complying with justice, correct — see also be right"
+justo,adj,right,"complying with justice, correct — see also be right"
+certo,adj,right,"complying with justice, correct — see also be right"
+correto,adj,right,"appropriate, fit for purpose"
+certo,adj,right,"appropriate, fit for purpose"
+direito,adj,right,"of direction, opposite of left"
+de direita,adj,right,politics: conservative
+direitista,adj,right,politics: conservative
+à direita,adv,right,on the right side
+à direita,adv,right,towards the right side
+bem,adv,right,exactly
+bem,adv,right,"very, extremely"
+certo,adv,right,in a correct manner
+corretamente,adv,right,in a correct manner
+bem,adv,right,to a great extent
 direito,noun,right,legal or moral entitlement
 direita,noun,right,"right, not left, side"
 direita,noun,right,right-wing politicians and parties
@@ -2675,6 +3128,9 @@ salada,noun,salad,food
 sal,noun,salt,sodium chloride
 sal,noun,salt,compound of an acid and a base
 marujo,noun,salt,sailor
+mesmo,adj,same,not different as regards self; identical
+o mesmo,adj,same,not different as regards self; identical
+mesmo,adj,same,"similar, alike"
 sanduíche,noun,sandwich,dish — see also open sandwich
 sandes,noun,sandwich,dish — see also open sandwich
 sanduba,noun,sandwich,dish — see also open sandwich
@@ -2704,6 +3160,8 @@ ciência,noun,science,particular discipline or branch of learning
 ciência,noun,science,fact of knowing something
 ciência,noun,science,knowledge gained through study or practice
 cientista,noun,scientist,one whose activities make use of the scientific method
+segundo,adj,second,second (numeral) — see also 2nd
+segundo,adj,second,that comes after the first
 segundo,noun,second,one-sixtieth of a minute; SI unit of time
 segundo,noun,second,unit of angular measure
 instante,noun,second,"short, indeterminate amount of time"
@@ -2752,6 +3210,9 @@ camisa,noun,shirt,article of clothing
 calçado,noun,shoe,protective covering for the foot
 sapato,noun,shoe,protective covering for the foot
 sapata,noun,shoe,something resembling a shoe (e.g. brake shoe)
+loja,noun,shop,establishment that sells goods
+bazar,noun,shop,establishment that sells goods
+oficina,noun,shop,place for crafting or manufacturing
 ir às compras,verb,shop,to visit shops
 compras,noun,shopping,activity of buying
 compras,noun,shopping,things bought
@@ -2770,6 +3231,9 @@ mostra,noun,show,exhibition — see also exhibition
 exposição,noun,show,exhibition — see also exhibition
 demonstração,noun,show,demonstration
 programa,noun,show,broadcast program(me)
+mostrar,verb,show,to display
+apresentar,verb,show,to display
+demonstrar,verb,show,to indicate (a fact) to be true
 aguaceiro,noun,shower,brief fall of rain
 chuveiro,noun,shower,device for bathing
 duche,noun,shower,device for bathing
@@ -2829,6 +3293,10 @@ ofídio,noun,snake,legless reptile
 víbora,noun,snake,legless reptile
 cobra,noun,snake,treacherous person
 víbora,noun,snake,treacherous person
+neve,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+nevada,noun,snow,instance of the falling of snow — see also snowfall
+branco-neve,noun,snow,white color of snow
+chuvisco,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
 nevar,verb,snow,have snow fall from the atmosphere
 tão,adv,so,very
 tão,adv,so,to a particular extent
@@ -2854,11 +3322,20 @@ lamentar,adj,sorry,"repentant, apologetic"
 lamentar,adj,sorry,"grieved, saddened"
 a lamentar,adj,sorry,"grieved, saddened"
 lastimável,adj,sorry,"poor, regrettable"
+enseada,noun,sound,long narrow inlet
+sonda,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+som,noun,sound,sensation perceived by the ear
+som,noun,sound,vibration capable of causing this
 sondar,verb,sound,to probe
 soar,verb,sound,to produce a sound
 parecer,verb,sound,to convey an impression by one's sound
 sopa,noun,soup,dish
+sulista,adj,south,of or pertaining to the south
+do sul,adj,south,of or pertaining to the south
+meridional,adj,south,of or pertaining to the south
+austral,adj,south,of or pertaining to the south
 ao sul,adv,south,towards the south
+sul,noun,south,compass point
 espaço,noun,space,interval of time
 espaço,noun,space,physical extent in two or three dimensions
 espaço,noun,space,area beyond atmosphere of planets
@@ -2954,6 +3431,16 @@ parada,noun,stop,interruption of travel
 calço,noun,stop,device to block a moving object
 ponto,noun,stop,punctuation symbol
 ponto final,noun,stop,punctuation symbol
+parar,verb,stop,to cease moving
+parar,verb,stop,"not to continue — see also cease, desist"
+deixar de,verb,stop,"not to continue — see also cease, desist"
+parar,verb,stop,to cause to cease moving
+parar,verb,stop,to cause to come to an end
+descontinuar,verb,stop,to cause to come to an end
+tampar,verb,stop,to close an opening
+tapar,verb,stop,to close an opening
+passar,verb,stop,to stay a while
+parar,verb,stop,to tarry
 depósito,noun,store,place where items may be kept
 estoque,noun,store,supply held in storage
 estória,noun,story,account of events
@@ -2983,6 +3470,11 @@ acadêmico,noun,student,person enrolled at a university — see also university 
 acadêmica,noun,student,person enrolled at a university — see also university student
 aluno,noun,student,person enrolled at a university — see also university student
 aluna,noun,student,person enrolled at a university — see also university student
+estudo,noun,study,mental effort to acquire knowledge
+aprendizado,noun,study,mental effort to acquire knowledge
+estudo,noun,study,branch of learning or object that is being studied
+escritório,noun,study,room in a house intended for reading and writing
+estudo,noun,study,artwork made in order to practise or demonstrate a subject or technique
 estudar,verb,study,to revise/review materials
 estudar,verb,study,to take a course
 estudar,verb,study,to acquire knowledge
@@ -3082,6 +3574,7 @@ equipa,noun,team,group of people
 equipe,noun,team,group of people
 time,noun,team,group of people
 adolescente,noun,teenager,person aged between thirteen and nineteen
+telefone,noun,telephone,a device used for two-way talking with other people
 telefonar,verb,telephone,to call someone
 ligar,verb,telephone,to call someone
 televisão,noun,television,medium
@@ -3104,6 +3597,12 @@ terrível,adj,terrible,unpleasant
 horrível,adj,terrible,unpleasant
 terrível,adj,terrible,very bad
 horrível,adj,terrible,very bad
+prova,noun,test,"challenge, trial"
+teste,noun,test,"challenge, trial"
+exame,noun,test,academics: examination
+teste,noun,test,academics: examination
+prova,noun,test,academics: examination
+teste,noun,test,product examination
 testar,verb,test,to challenge
 testar,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 texto,noun,text,a written passage
@@ -3181,6 +3680,10 @@ cansado,adj,tired,in need of rest or sleep
 título,noun,title,prefix or suffix added to a name
 título,noun,title,certificate of ownership
 título,noun,title,"name of a book, etc"
+hoje,adv,today,on the current day
+hoje,adv,today,"nowadays — see also nowadays, these days"
+hoje em dia,adv,today,"nowadays — see also nowadays, these days"
+atualmente,adv,today,"nowadays — see also nowadays, these days"
 hoje,noun,today,today (noun)
 junto,adv,together,"at the same time, in the same place"
 junto,adv,together,into one place
@@ -3210,7 +3713,12 @@ chiqueiro,noun,toilet,place resembling a filthy toilet
 tomateiro,noun,tomato,tomato plant
 tomate,noun,tomato,tomato plant
 tomate,noun,tomato,fruit
+amanhã,adv,tomorrow,on the day after the present day
 amanhã,noun,tomorrow,the day after the present day
+hoje à tardinha,adv,tonight,during today's evening
+hoje à noitinha,adv,tonight,during today's evening
+hoje à noite,adv,tonight,during today's nighttime
+esta/essa noite,adv,tonight,during today's nighttime
 esta noite,noun,tonight,nighttime today
 também,adv,too,likewise
 demais,adv,too,more than enough; as too much
@@ -3237,6 +3745,9 @@ sequência,noun,train,series of events or ideas which are interconnected
 arrasto,noun,train,that which is drawn along
 trenzinho,noun,train,sex: an act wherein series of men line up and then penetrate a person
 viagem,noun,travel,act of traveling
+viajar,verb,travel,be on a journey
+viajar,verb,travel,pass from here to there; transmit
+viajar,verb,travel,travel throughout
 árvore,noun,tree,large woody plant
 árvore,noun,tree,(graph theory) connected graph with no cycles
 árvore,noun,tree,(computing theory) recursive data structure
@@ -3279,6 +3790,22 @@ vez,noun,turn,one's chance to make a move in a game
 jogada,noun,turn,one's chance to make a move in a game
 prazo,noun,turn,time required to complete a project
 espira,noun,turn,single loop of a coil
+girar,verb,turn,move around an axis through itself
+virar,verb,turn,move around an axis through itself
+girar,verb,turn,"change the direction or orientation of, especially by rotation"
+virar,verb,turn,"change the direction or orientation of, especially by rotation"
+virar,verb,turn,change one's direction of travel
+tornear,verb,turn,shape on a lathe or similar tool
+girar,verb,turn,"position something by folding it back on itself, or using its folds"
+virar,verb,turn,become
+tornar-se,verb,turn,become
+virar,verb,turn,transitive: change fundamentally
+tornar-se,verb,turn,transitive: change fundamentally
+estragar,verb,turn,go bad
+fazer,verb,turn,reach a certain age
+completar,verb,turn,reach a certain age
+rebelar-se,verb,turn,rebel
+completar,verb,turn,complete — see also complete
 duas vezes,adv,twice,two times
 duplamente,adv,twice,two times
 tipo,noun,type,grouping based on shared characteristics
@@ -3340,6 +3867,7 @@ videocassete,noun,video,VHS
 fita,noun,video,VHS
 visita,noun,visit,single act of visiting
 consulta,noun,visit,meeting with a doctor
+visitar,verb,visit,to go and meet (someone)
 visita,noun,visitor,guest
 turista,noun,visitor,sightseer
 visitante,noun,visitor,sightseer
@@ -3355,6 +3883,12 @@ caminhada,noun,walk,distance walked
 andar,noun,walk,manner of walking
 andadura,noun,walk,manner of walking
 caminho,noun,walk,maintained place on which to walk
+andar,verb,walk,to move on the feet
+caminhar,verb,walk,to move on the feet
+estar robado,verb,walk,colloquial: to be stolen
+andar,verb,walk,to travel a distance by walking
+caminhar,verb,walk,to travel a distance by walking
+passear,verb,walk,to take for a walk
 muro,noun,wall,defensive rampart
 muralha,noun,wall,defensive rampart
 muralha,noun,wall,structure built for defense surrounding an area
@@ -3385,6 +3919,13 @@ posto,noun,watch,place where a watchman is posted
 quarto,noun,watch,group of sailors and officers
 quarto de serviço,noun,watch,group of sailors and officers
 turno,noun,watch,period of time on duty
+ver,verb,watch,to look at for a period of time
+assistir,verb,watch,to look at for a period of time
+assistir,verb,watch,to observe
+observar,verb,watch,to observe
+vigiar,verb,watch,to attend or guard
+tomar cuidado,verb,watch,to be wary
+ter cuidado,verb,watch,to be wary
 água,noun,water,inorganic compound H₂O
 água,noun,water,one of the basic elements
 águas,noun,water,"body of water, or specific part of it"
@@ -3422,7 +3963,23 @@ semana,noun,week,period of seven days
 final de semana,noun,weekend,break in the working week
 fim de semana,noun,weekend,break in the working week
 bem-vindo,adj,welcome,whose arrival is a cause of joy
+dar as boas-vindas a,verb,welcome,affirm or greet the arrival of someone
+receber,verb,welcome,affirm or greet the arrival of someone
+acolher,verb,welcome,affirm or greet the arrival of someone
+aceitar,verb,welcome,to accept willingly
 bem,adj,well,in good health
+bem,adv,well,accurately; competently
+apuradamente,adv,well,accurately; competently
+bem,adv,well,completely; fully
+completamente,adv,well,completely; fully
+bem,adv,well,to a significant degree
+bem,adv,well,(slang) very
+ocidental,adj,west,towards the west
+ocidental,adj,west,western
+ocidental,adj,west,occidental
+oeste,noun,west,compass point
+ocidente,noun,west,compass point
+poente,noun,west,compass point
 quando,adv,when,"at what time, as a direct question"
 quando,adv,when,"at what time, as an indirect question"
 onde,adv,where,at what place; to what place; from what place
@@ -3435,6 +3992,10 @@ aonde,adv,where,to which place or situation
 aonde,adv,where,in what situation
 onde,adv,where,the place in which
 onde,adv,where,legal: in the situation in which
+branco,adj,white,bright and colourless
+branco,adj,white,of or relating to Caucasians
+caucasoide,adj,white,of or relating to Caucasians
+caucasiano,adj,white,of or relating to Caucasians
 branco,noun,white,color
 branco,noun,white,person of European descent
 caucasoide,noun,white,person of European descent
@@ -3488,6 +4049,12 @@ trabalho,noun,work,"literary, artistic, or intellectual production"
 trabalho,noun,work,physics: measure of energy expended in moving an object
 trabalho,noun,work,thermodynamics: energy in transit between one form or repository and another
 fortificação,noun,work,fortification
+trabalhar,verb,work,to do a specific task
+funcionar,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+operar,verb,work,to set into action
+ativar,verb,work,to set into action
+trabalhar,verb,work,"to shape, form, or improve a material"
+fazer,verb,work,to cause to happen
 trabalhador,noun,worker,person who performs labor
 operário,noun,worker,insect
 mundo,noun,world,human collective existence
@@ -3539,7 +4106,12 @@ ano,noun,year,a scheduled part of a calendar year spent in a specific activity
 ano,noun,year,a Julian year
 ano,noun,year,a level or grade at school or college
 série,noun,year,a level or grade at school or college
+amarelo,adj,yellow,having yellow as its color
+covarde,adj,yellow,lacking courage
+amarelão,adj,yellow,lacking courage
+amarelona,adj,yellow,lacking courage
 amarelo,noun,yellow,color
+ontem,adv,yesterday,on the day before today
 ontem,noun,yesterday,day before today
 ontem,noun,yesterday,the recent past
 jovem,adj,young,in the early part of life or growth

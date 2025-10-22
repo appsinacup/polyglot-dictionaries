@@ -84,6 +84,8 @@ töm,noun,animal,organism
 hayvan,noun,animal,organism other than human
 hayvan,noun,animal,person who behaves wildly
 dingil,noun,animal,person who behaves wildly
+yanıt,noun,answer,response
+cevap,noun,answer,response
 cevap vermek,verb,answer,to make a reply or response to
 cevaplamak,verb,answer,to respond to a call
 yanıtlamak,verb,answer,to respond to a call
@@ -143,6 +145,8 @@ bebek,noun,baby,very young human being
 yavru,noun,baby,young animal
 bebek,noun,baby,form of address to a man or a woman considered to be attractive
 geri,adv,back,to or in a previous condition or place
+sırt,noun,back,the rear of body
+arka,noun,back,that which is farthest away from the front
 kötü,adj,bad,unfavorable; negative
 yaman,adj,bad,unfavorable; negative
 fena,adj,bad,unfavorable; negative
@@ -231,6 +235,15 @@ gaga,noun,bill,bird's beak
 kuş,noun,bird,animal
 doğum günü,noun,birthday,anniversary
 doğum tarihi,noun,birthday,date of birth — see also date of birth
+kara,adj,black,absorbing all light
+siyah,adj,black,absorbing all light
+karanlık,adj,black,without light
+siyahi,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+kara,adj,black,bad; evil
+katran,adj,black,"of coffee or tea, without milk or other whitener"
 siyah,noun,black,colour/color
 kara,noun,black,colour/color
 siyah,noun,black,dark-skinned person — see also Negro
@@ -239,6 +252,14 @@ ağ günlüğü,noun,blog,a personal or corporate website
 blog,noun,blog,a personal or corporate website
 altın sarısı,adj,blond,of a pale golden colour
 sarışın,adj,blond,having blond hair
+mavi,adj,blue,"blue-coloured — see also dark blue, light blue"
+gökçe,adj,blue,"blue-coloured — see also dark blue, light blue"
+efkarlı,adj,blue,depressed
+hüzünlü,adj,blue,depressed
+sıkıntılı,adj,blue,depressed
+durgun,adj,blue,depressed
+kırmızı noktalı,adj,blue,pornographic
+demokrat,adj,blue,of or pertaining to US Democratic Party
 mavi,noun,blue,colour
 gök,noun,blue,colour
 kök,noun,blue,colour
@@ -285,6 +306,14 @@ ekmek,noun,bread,countable: any variety of bread
 ekmek parası,noun,bread,slang: money
 ara,noun,break,"rest or pause, usually from work"
 seri,noun,break,snooker: number of points in one visit
+kırılmak,verb,break,intransitive: to separate into (to end up in) two or more pieces
+kırmak,verb,break,intransitive: to separate into (to end up in) two or more pieces
+kırmak,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+bozmak,verb,break,to divide (money) into smaller units
+bozulmak,verb,break,intransitive: to stop functioning properly or altogether
+bozmak,verb,break,transitive: to cause to stop functioning
+kırmak,verb,break,to do better than a record
+servis kırmak,verb,break,to win a game as receiver in tennis
 kahvaltı,noun,breakfast,first meal of the day
 getirmek,verb,bring,to transport toward somebody/somewhere
 erkek kardeş,noun,brother,male sibling
@@ -298,6 +327,7 @@ birader,noun,brother,male having parents in common
 kardeş,noun,brother,male fellow member of a religious community
 kardeş,noun,brother,peer
 birader,noun,brother,peer
+kahverengi,adj,brown,having a brown colour
 kahverengi,noun,brown,colour
 kongur,noun,brown,colour
 konur,noun,brown,colour
@@ -311,6 +341,7 @@ yapı,noun,building,closed structure with walls and a roof
 otobüs,noun,bus,vehicle
 şirket,noun,business,commercial enterprise or establishment
 işletme,noun,business,commercial enterprise or establishment
+meşgul,adj,busy,doing a great deal
 tereyağı,noun,butter,soft foodstuff made from milk
 yağ,noun,butter,soft foodstuff made from milk
 satın almak,verb,buy,to obtain something with money
@@ -319,6 +350,9 @@ almak,verb,buy,to obtain something with money
 yemek,verb,buy,to accept as true
 kek,noun,cake,type of sweet dessert
 çağrı,noun,call,telephone conversation
+aramak,verb,call,"to request, summon, or beckon"
+çağırmak,verb,call,"to request, summon, or beckon"
+aramak,verb,call,to contact by telephone
 fotoğraf makinesi,noun,camera,still camera
 kamera,noun,camera,movie camera
 -ebilmek,verb,can,to be able to; to know how to
@@ -327,6 +361,11 @@ kamera,noun,camera,movie camera
 -abilmek,verb,can,may
 -ama,verb,cannot,"cannot — see also can, not"
 -eme,verb,cannot,"cannot — see also can, not"
+anapara,noun,capital,money and wealth
+anamal,noun,capital,money and wealth
+sermaye,noun,capital,money and wealth
+kapital,noun,capital,money and wealth
+sütun başı,noun,capital,uppermost part of a column
 araba,noun,car,"automobile, a vehicle steered by a driver"
 otomobil,noun,car,"automobile, a vehicle steered by a driver"
 kabin,noun,car,"moving, load-carrying component of an elevator"
@@ -356,6 +395,9 @@ değişim,noun,change,the process of becoming different
 bozuk,noun,change,small denominations of money given in exchange for a larger denomination
 bozukluk,noun,change,small denominations of money given in exchange for a larger denomination
 para üstü,noun,change,balance returned after a purchase
+değişmek,verb,change,to become something different
+değiştirmek,verb,change,to make something into something else
+üstünü değiştirmek,verb,change,to replace one's own clothing
 ucuz,adj,cheap,low and/or reduced in price
 ucuz,adj,cheap,of poor quality
 adi,adj,cheap,of poor quality
@@ -385,6 +427,9 @@ sınıf,noun,class,taxonomy: classification below Phylum and above Order
 sınıf,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 sınıf,noun,classroom,room in a school
 derslik,noun,classroom,room in a school
+temiz,adj,clean,not dirty
+arı,adj,clean,not dirty
+arın,adj,clean,not dirty
 temizlemek,verb,clean,(transitive) to remove dirt from a place or object
 tırmanmak,verb,climb,"to ascend, to go up"
 tırmanmak,verb,climb,"to mount, to move upwards on"
@@ -407,6 +452,10 @@ palto,noun,coat,outer garment covering the upper torso and arms
 kahve,noun,coffee,beverage
 konur,noun,coffee,beverage
 gelinböceği,noun,coffee,beans
+soğuk,adj,cold,having a low temperature
+soğuk,adj,cold,of the weather
+üşümüş,adj,cold,of a person's sensation
+soğuk,adj,cold,unfriendly
 nezle,noun,cold,illness
 zükâm,noun,cold,illness
 ingin,noun,cold,illness
@@ -430,6 +479,8 @@ işletme,noun,company,"in legal context, a corporation"
 firma,noun,company,"in non-legal context, any business, without respect to incorporation"
 bölük,noun,company,military unit
 karşılaştırmak,verb,compare,to assess the similarities between two things or between one thing and another
+tamam,adj,complete,with everything included
+eksiksiz,adj,complete,with everything included
 tamamlamak,verb,complete,to finish
 tamamlamak,verb,complete,to make whole or entire
 bilgisayar,noun,computer,programmable electronic device
@@ -447,7 +498,9 @@ aşçılık,noun,cooking,the process of preparing food by using heat
 serin,adj,cool,having a slightly low temperature
 soğukkanlı,adj,cool,"not showing emotion, calm"
 sakin,adj,cool,"not showing emotion, calm"
+doğru,adj,correct,free from error
 düzeltmek,verb,correct,to make something become right that was previously wrong
+masraf,noun,cost,amount of money spent for a purpose
 fiyatı olmak,verb,cost,"to incur a charge, a price"
 mal olmak,verb,cost,"to incur a charge, a price"
 mal olmak,verb,cost,to cause something to be lost
@@ -506,6 +559,9 @@ müşteri,noun,customer,one who purchases or receives a product or service
 kesmek,verb,cut,to perform an incision
 biçmek,verb,cut,to perform an incision
 baba,noun,dad,informal: a father
+dans,noun,dance,movements to music
+raks,noun,dance,movements to music
+bar,noun,dance,movements to music
 dans etmek,verb,dance,move rhythmically to music
 dansçı,noun,dancer,person who dances
 dansçı,noun,dancer,a female person who dances
@@ -541,6 +597,15 @@ tanımlamak,verb,describe,to represent in words
 tanım,noun,description,account in words
 tavsif,noun,description,account in words
 vasif,noun,description,set of characteristics
+dizayn,noun,design,plan
+tasarım,noun,design,plan
+desen,noun,design,pattern
+bileşim,noun,design,composition
+kompozisyon,noun,design,composition
+niyet,noun,design,intention
+tasarım,noun,design,appearance
+dizayn,noun,design,art of designing
+tasarım,noun,design,art of designing
 tasarlamak,verb,design,to plan an artwork etc.
 masa,noun,desk,table for writing and reading
 sıra,noun,desk,table for writing and reading
@@ -606,7 +671,16 @@ gümrük kapısı,noun,door,any flap that opens like a door
 çekmek,verb,draw,"to drag, pull"
 çekmek,verb,draw,"to pull out, unsheath"
 çekmek,verb,draw,to close curtains etc.
+elbise,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+giysi,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
 giymek,verb,dress,to put on clothes — see also get dressed
+içecek,noun,drink,served beverage
+meşrubat,noun,drink,served beverage
+içecek,noun,drink,type of beverage
+meşrubat,noun,drink,type of beverage
+alkollü içecek,noun,drink,served alcoholic beverage
+içki,noun,drink,served alcoholic beverage
+içmek,noun,drink,action of drinking
 içmek,verb,drink,consume liquid through the mouth
 içmek,verb,drink,consume alcoholic beverages
 kullanmak,verb,drive,to operate (a wheeled motorized vehicle)
@@ -633,13 +707,30 @@ sürücü,noun,driver,program acting as interface between an application and har
 başak,noun,ear,fruiting body of a grain plant
 kulak,noun,ear,organ of hearing
 kulak,noun,ear,musical ability
+erken,adj,early,at a time in advance of the usual
+erken,adj,early,arriving at a time before expected
+erken,adj,early,near but after the start or beginning
 erken,adv,early,at a time before expected
+doğu,adj,east,in or towards the east
+gün doğusu,adj,east,meteorology: easterly
+doğulu,adj,east,of or pertaining to the east
+doğudan,adj,east,from the East
+doğu,noun,east,compass point
+şark,noun,east,compass point
 kolay,adj,easy,requiring little skill or effort
 rahat,adj,easy,requiring little skill or effort
 yemek,verb,eat,"to ingest — see also consume, ingest"
 yumurta,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
 yumurta,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 fil,noun,elephant,mammal
+e-posta,noun,email,system for sending messages and datas by means of computers connected together in a network
+elektronik posta,noun,email,system for sending messages and datas by means of computers connected together in a network
+e-posta,noun,email,message sent through email
+e-mail,noun,email,message sent through email
+elektronik posta,noun,email,message sent through email
+son,noun,end,extreme part
+son,noun,end,death
+ölüm,noun,end,death
 bitmek,verb,end,"intransitive: be finished, be terminated"
 sonlanmak,verb,end,"intransitive: be finished, be terminated"
 tükenmek,verb,end,"intransitive: be finished, be terminated"
@@ -678,6 +769,9 @@ ibret,noun,example,person punished as a warning to others
 heyecanlı,adj,excited,having great enthusiasm and energy
 hevesli,adj,excited,having great enthusiasm and energy
 heyecanlı,adj,exciting,causing excitement
+egzersiz,noun,exercise,any activity designed to develop or hone a skill or ability
+temrin,noun,exercise,any activity designed to develop or hone a skill or ability
+egzersiz,noun,exercise,physical activity intended to improve strength and fitness
 pahalı,adj,expensive,having a high price or cost
 açıklamak,verb,explain,to make intelligible
 izah etmek,verb,explain,to make intelligible
@@ -687,11 +781,20 @@ vecih,noun,face,anatomy: front part of head
 çehre,noun,face,anatomy: front part of head
 olgu,noun,fact,an honest observation
 hakikat,noun,fact,something actual
+düşmek,verb,fall,move to a lower position under the effect of gravity
 yanlış,adj,false,"untrue, not factual, wrong"
 yalan,adj,false,"untrue, not factual, wrong"
 yapay,adj,false,"spurious, artificial"
 sahte,adj,false,"spurious, artificial"
 yanlış,adj,false,state in Boolean logic that indicates a negative result
+aile,noun,family,"immediate family [as a group], e.g. parents and their children"
+ocak,noun,family,"immediate family [as a group], e.g. parents and their children"
+kodak,noun,family,"immediate family [as a group], e.g. parents and their children"
+aile,noun,family,"group of people related by blood, marriage, law, or custom"
+kodak,noun,family,"group of people related by blood, marriage, law, or custom"
+familya,noun,family,"rank in a taxonomic classification, above both genus and species"
+aile,noun,family,"rank in a taxonomic classification, above both genus and species"
+aile,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
 meşhur,adj,famous,well known
 ünlü,adj,famous,well known
 meşhur,adj,famous,in the public eye
@@ -701,6 +804,8 @@ harika,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
 ziraatçı,noun,farmer,person who works the land and/or who keeps livestock
 çiftçi,noun,farmer,person who works the land and/or who keeps livestock
 ekinci,noun,farmer,person who works the land and/or who keeps livestock
+sıkı fıkı,adj,fast,"of friend: steadfast, with unwavering feeling"
+hızlı,adj,fast,moving or capable of moving with great speed
 hızlı,adv,fast,with great speed
 şişman,adj,fat,carrying a larger than normal amount of fat on one's body
 baba,noun,father,male parent
@@ -766,6 +871,8 @@ futbol topu,noun,football,ball
 unutmak,verb,forget,to lose remembrance of
 unutmak,verb,forget,to unintentionally not do
 unutmak,verb,forget,to leave behind
+şekil,noun,form,shape or visible structure
+form,noun,form,document to be filled in
 özgür,adj,free,not imprisoned
 serbest,adj,free,unconstrained
 engellenmemiş,adj,free,unobstructed
@@ -785,6 +892,8 @@ tanış,noun,friend,person with whom you are acquainted
 tanıdık,noun,friend,person with whom you are acquainted
 cana yakın,adj,friendly,"approachable, warm"
 cana yakın,adj,friendly,characteristic of friendliness
+ön,noun,front,facing side
+cephe,noun,front,military: area or line of conflict
 meyve,noun,fruit,part of plant
 yemiş,noun,fruit,part of plant
 meyve,noun,fruit,food
@@ -833,16 +942,34 @@ hoşça kal,noun,goodbye,an utterance of goodbye
 dede,noun,grandfather,grandfather (from either side)
 büyükanne,noun,grandmother,mother of someone's parent
 nine,noun,grandmother,mother of someone's parent
+gri,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+boz,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+kır,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 gri,noun,gray,colour
 boz,noun,gray,colour
 çok büyük,adj,great,"very big, large scale"
 büyük,adj,great,"very big, large scale"
+yeşil,adj,green,having green as its colour
+acemi,adj,green,inexperienced
+toy,adj,green,inexperienced
+tor,adj,green,inexperienced
+yeşil,adj,green,environmentally friendly
+ham,adj,green,"of bacon, etc.: unprocessed, raw"
+çiğ,adj,green,"of bacon, etc.: unprocessed, raw"
+pişmemiş,adj,green,"of bacon, etc.: unprocessed, raw"
+ham,adj,green,of fruit: unripe
+olmamış,adj,green,of fruit: unripe
+kekre,adj,green,of wine: acidic or too acidic
+buruk,adj,green,of wine: acidic or too acidic
+taze,adj,green,of vegetables: freshly harvested
+yaş,adj,green,lumber
 yeşil,noun,green,colour
 yeşilci,noun,green,member of a green party
 grup,noun,group,number of things or persons being in some relation to each other
 küme,noun,group,number of things or persons being in some relation to each other
 büyümek,verb,grow,(intransitive) to become bigger
 tahmin,noun,guess,prediction about the outcome of something
+tahmin etmek,verb,guess,"to suppose, to imagine"
 gitar,noun,guitar,musical instrument
 spor salonu,noun,gym,sporting facility specialized for lifting weights and exercise
 saç,noun,hair,mass of such filaments on the human head
@@ -865,6 +992,11 @@ tahakkuk etmek,verb,happen,to occur
 mutlu,adj,happy,"contented, joyous"
 şanslı,adj,happy,"fortunate, lucky"
 kutlu,adj,happy,"fortunate, lucky"
+sert,adj,hard,resistant to pressure
+zor,adj,hard,requiring a lot of effort to do or understand
+çetin,adj,hard,requiring a lot of effort to do or understand
+kıyın,adj,hard,requiring a lot of effort to do or understand
+sert,adj,hard,"of water, high in dissolved calcium compounds"
 sıkı,adv,hard,with much force or effort (related to act of think)
 sert,adv,hard,with much force or effort (related to act of think)
 şapka,noun,hat,a head covering
@@ -894,6 +1026,7 @@ yardım,noun,help,action given to provide assistance
 imdat,noun,help,action given to provide assistance
 yardımcı,noun,help,person or persons who provides assistance with some task
 yardım,noun,help,textual support of a software application
+yardım etmek,verb,help,transitive: provide assistance to (someone or something)
 burada,adv,here,"in, on, or at this place"
 işte,adv,here,"in, on, or at this place"
 burası,adv,here,"in, on, or at this place"
@@ -929,6 +1062,15 @@ merak,noun,hobby,activity done for enjoyment in spare time
 evde,adv,home,at home
 eve,adv,home,homewards
 eve doğru,adv,home,homewards
+ev,noun,home,house or structure in which someone lives
+memleket,noun,home,someone’s native land
+vatan,noun,home,someone’s native land
+yurt,noun,home,someone’s native land
+baba evi,noun,home,childhood or parental home
+yuva,noun,home,childhood or parental home
+memleket,noun,home,habitat
+vatan,noun,home,habitat
+yuva,noun,home,place of refuge or rest
 ödev,noun,homework,work that is done at home
 ev ödevi,noun,homework,work that is done at home
 ummak,verb,hope,"to want something to happen, with expectation that it might"
@@ -992,9 +1134,15 @@ içermek,verb,include,"to contain, as part of a whole"
 ihtiva etmek,verb,include,"to contain, as part of a whole"
 bilgi,noun,information,communicable knowledge
 malumat,noun,information,communicable knowledge
+faiz,noun,interest,finance: price of credit
+getiri,noun,interest,finance: price of credit
+ürem,noun,interest,finance: price of credit
+ilgi,noun,interest,great attention and concern from someone
+çıkar,noun,interest,"involvement in or link with financial, business, or other undertaking"
 ilginç,adj,interesting,arousing or holding the attention
 enteresan,adj,interesting,arousing or holding the attention
 merak uyandıran,adj,interesting,arousing or holding the attention
+mülâkat,noun,interview,conversation with journalist etc.
 tanıştırmak,verb,introduce,to cause someone to be acquainted
 uygulamaya koymak,verb,introduce,to bring into practice — see also bring in
 ada,noun,island,area of land completely surrounded by water
@@ -1035,6 +1183,12 @@ tutmak,verb,keep,to restrain
 devam etmek,verb,keep,to continue
 -ip durmak,verb,keep,to continue
 bakmak,verb,keep,of livestock: to raise; to care for
+anahtar,noun,key,device designed to open and close a lock
+açar,noun,key,device designed to open and close a lock
+açkı,noun,key,device designed to open and close a lock
+anahtar,noun,key,crucial step
+tuş,noun,key,button on a typewriter or computer keyboard
+tuş,noun,key,part of a piano or musical keyboard
 tür,noun,kind,"type, race, category"
 mutfak,noun,kitchen,room
 kan,noun,kitchen,room
@@ -1056,11 +1210,16 @@ dil,noun,language,vocabulary of a particular field
 dil,noun,language,particular words used
 dil,noun,language,computer language — see also computer language
 geniş,adj,large,of greater size — see also big
+geç,adj,late,near the end of a period of time
+rahmetli,adj,late,"euphemism for ""dead"""
+merhum,adj,late,"euphemism for ""dead"""
 geç,adv,late,past a designated time
 sonra,adv,later,afterward in time
+gülmek,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
 öğrenmek,verb,learn,to acquire knowledge or ability
 bırakmak,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 çıkmak,verb,leave,to depart (intransitive)
+sol,adj,left,west side of the body when one is facing north
 sol,noun,left,the left side
 sol,noun,left,the ensemble of left-wing political parties
 bacak,noun,leg,lower limb from groin to ankle
@@ -1086,6 +1245,8 @@ açık,adj,light,pale in colour
 yeğni,adj,light,of low weight
 hafif,adj,light,of low weight
 hafif,adj,light,"low in fat, calories, alcohol, salt, etc."
+ışık,noun,light,electromagnetic waves
+ışık,noun,light,source of illumination
 hoşlanmak,verb,like,to enjoy
 sevmek,verb,like,to enjoy
 sevmek,verb,like,to find attractive
@@ -1104,6 +1265,8 @@ dize,noun,line,poetic: verse
 mısra,noun,line,poetic: verse
 replik,noun,line,"sentence of dialogue, especially in a script or screenplay"
 aslan,noun,lion,big cat Panthera leo
+liste,noun,list,enumeration or compilation of items
+liste,noun,list,computing: codified representation of a list
 listelemek,verb,list,to create or recite a list
 sıralamak,verb,list,to create or recite a list
 istemek,verb,list,"to desire, like, wish"
@@ -1124,6 +1287,8 @@ lokal,adj,local,of a nearby location
 mahallî,adj,local,of a nearby location
 yöresel,adj,local,of a nearby location
 mevzii,adj,local,of a nearby location
+uzun,adj,long,having much distance from one point to another
+uzun,adj,long,having great duration
 uzun,adv,long,for a long duration
 bakmak,verb,look,to try to see
 görünmek,verb,look,"to appear, to seem"
@@ -1138,6 +1303,22 @@ kilo kaybetmek,verb,lose,shed (weight)
 kaybetmek,verb,lose,be unable to follow or trace (somebody or something) any longer
 gözden kaçırmak,verb,lose,be unable to follow or trace (somebody or something) any longer
 kaybetmek,verb,lose,fail to be the winner
+sevgi,noun,love,strong affection
+sevi,noun,love,strong affection
+aşk,noun,love,strong affection
+emre,noun,love,strong affection
+muhabbet,noun,love,strong affection
+sevgili,noun,love,object of one's romantic feelings; darling or sweetheart
+sevdicek,noun,love,object of one's romantic feelings; darling or sweetheart
+sevgilim,noun,love,object of one's romantic feelings; darling or sweetheart
+aşkım,noun,love,object of one's romantic feelings; darling or sweetheart
+tatlım,noun,love,object of one's romantic feelings; darling or sweetheart
+canım,noun,love,object of one's romantic feelings; darling or sweetheart
+aşk,noun,love,colloquial: term of friendly address
+aşko,noun,love,colloquial: term of friendly address
+aşkito,noun,love,colloquial: term of friendly address
+aşkitoşko,noun,love,colloquial: term of friendly address
+sevgilerimle,noun,love,closing of a letter
 sevmek,verb,love,have a strong affection for
 sevmek,verb,love,be strongly inclined towards doing
 arzulamak,verb,love,to lust for
@@ -1167,6 +1348,13 @@ pazar,noun,market,spacious site for trading
 çarşı,noun,market,spacious site for trading
 piyasa,noun,market,group of potential customers
 evli,adj,married,in a state of marriage; having a wife or a husband
+maç,noun,match,sporting event
+müsabaka,noun,match,sporting event
+kibrit,noun,match,device to make fire
+alışkan,noun,match,device to make fire
+çalma,noun,match,device to make fire
+odluçöp,noun,match,device to make fire
+kükürt,noun,match,device to make fire
 olabilir,adv,maybe,indicating a lack of certainty
 belki,adv,maybe,indicating a lack of certainty
 yemek,noun,meal,food that is prepared and eaten
@@ -1276,6 +1464,9 @@ musiki,noun,music,"sound, organized in time in a melodious way"
 -malı,verb,must,be required to
 lazım olmak,verb,must,be required to
 gerek olmak,verb,must,be required to
+ad,noun,name,"word or phrase indicating a particular person, place, class or thing"
+isim,noun,name,"word or phrase indicating a particular person, place, class or thing"
+nam,noun,name,reputation — see also reputation
 adlandırmak,verb,name,to give a name to
 ad koymak,verb,name,to give a name to
 doğal,adj,natural,of or relating to nature
@@ -1284,6 +1475,7 @@ natürel,adj,natural,of or relating to nature
 doğal,adj,natural,without additives
 tabii,adj,natural,without additives
 natürel,adj,natural,without additives
+yakın,adj,near,physically close
 gereksinmek,verb,need,to have an absolute requirement for
 gereksinim duymak,verb,need,to have an absolute requirement for
 gereksinimi olmak,verb,need,to have an absolute requirement for
@@ -1331,11 +1523,17 @@ yenün,noun,newspaper,publication
 ceride,noun,newspaper,publication
 ruzname,noun,newspaper,publication
 gazete kağıdı,noun,newspaper,paper on which newspapers are printed
+gelecek,adj,next,following in a sequence
+önümüzdeki,adj,next,following in a sequence
+yakın,adj,next,being closer to the present location than all other items
+ertesi,adj,next,"nearest date, time, space or order"
 hoş,adj,nice,"pleasant, satisfactory"
 güzel,adj,nice,"pleasant, satisfactory"
 iyi,adj,nice,"pleasant, satisfactory"
 gece,noun,night,period between sunset and sunrise
 kuzeye,adv,north,towards the north
+kuzey,noun,north,compass point
+şimal,noun,north,compass point
 burun,noun,nose,protuberance on the face
 değil,adv,not,negates meaning of another word
 -ma,adv,not,negates meaning of another word
@@ -1384,6 +1582,9 @@ soğan,noun,onion,Allium cepa
 açık,adj,online,connected to the Internet
 çevrim içi,adj,online,connected to the Internet
 online,adj,online,connected to the Internet
+sadece,adj,only,alone in a category
+tek,adj,only,alone in a category
+tek,adj,only,without sibling
 sadece,adv,only,without others or anything further; exclusively
 yalnızca,adv,only,without others or anything further; exclusively
 bir tek,adv,only,without others or anything further; exclusively
@@ -1391,11 +1592,30 @@ sadece,adv,only,no more than
 yalnızca,adv,only,no more than
 sadece,adv,only,as recently as
 yalnızca,adv,only,as recently as
+açık,adj,open,not closed
+açık,adj,open,prepared to conduct business
 açmak,verb,open,to make something accessible
 görüş,noun,opinion,thought a person has formed about a topic
 fikir,noun,opinion,thought a person has formed about a topic
+karşı,adj,opposite,located directly across from
+zıt,adj,opposite,facing the other way
+karşı,adj,opposite,of complementary or mutually exclusive things
+karşıt,noun,opposite,contrary thing
+zıt,noun,opposite,contrary thing
 turuncu,adj,orange,having the colour of the fruit of an orange tree
 portakal rengi,adj,orange,having the colour of the fruit of an orange tree
+portakal,noun,orange,tree
+portakal,noun,orange,fruit
+turuncu,noun,orange,colour
+portakal rengi,noun,orange,colour
+düzen,noun,order,"arrangement, disposition"
+tertip,noun,order,"arrangement, disposition"
+emir,noun,order,command
+buyruk,noun,order,command
+sipariş,noun,order,request for some product or service
+nişan,noun,order,awarded decoration
+takım,noun,order,biology: taxonomical classification
+derece,noun,order,electronics: power of polynomial function in a circuit’s block
 emretmek,verb,order,to issue a command
 söylemek,verb,order,to request some product or service
 sipariş etmek,verb,order,to request some product or service
@@ -1405,6 +1625,9 @@ tekrar,adv,over,again
 sayfa,noun,page,one side of a leaf of a book
 bet,noun,page,one side of a leaf of a book
 boya,noun,paint,substance
+resim yapmak,verb,paint,to apply paint to
+boyamak,verb,paint,to apply paint to
+resim yapmak,verb,paint,to practise the art of painting pictures
 boyama,noun,painting,an illustration or artwork using paint
 resim,noun,painting,an illustration or artwork using paint
 çift,noun,pair,two similar or identical things
@@ -1430,6 +1653,7 @@ anne-baba,noun,parent,person from whom one is descended
 ebeveyn,noun,parent,person who acts as a parent in rearing a child — see also guardian
 veli,noun,parent,person who acts as a parent in rearing a child — see also guardian
 ebeveyn,noun,parent,biology: organism from which a plant or animal is biologically descended
+park,noun,park,ground for recreation
 park etmek,verb,park,bring (a vehicle) to a halt
 parça,noun,part,fraction of a whole
 kısım,noun,part,fraction of a whole
@@ -1442,6 +1666,10 @@ parti,noun,party,social gathering
 eğlenti,noun,party,social gathering
 pasaport,noun,passport,official document for foreign travel
 buyruldu,noun,passport,official document for foreign travel
+geçmiş,adj,past,having already happened; in the past
+geçen,adj,past,of a period of time: having just gone by
+geçtiğimiz,adj,past,of a period of time: having just gone by
+önceki,adj,past,of a period of time: having just gone by
 geçmiş,noun,past,period of time that has already happened
 geçmiş zaman,noun,past,(grammar) past tense
 ödemek,verb,pay,to give money in exchange for goods or services
@@ -1499,11 +1727,14 @@ hınzır,noun,pig,mammal of genus Sus
 obur,noun,pig,someone who overeats or eats rapidly
 tiksindirici,noun,pig,nasty or disgusting person
 pasaklı,noun,pig,dirty or slovenly person
+pembe,adj,pink,colored/coloured between red and white
 pembe,noun,pink,pale red colour
 karanfil,noun,pink,flower
 yer,noun,place,"location, position"
 mekân,noun,place,"location, position"
 meydan,noun,place,"open space, courtyard, market square"
+plan,noun,plan,technical drawing
+plan,noun,plan,set of intended actions
 planlamak,verb,plan,to design
 çınar,noun,plane,deciduous tree
 yüzey,noun,plane,level or flat surface
@@ -1520,6 +1751,12 @@ oyun,noun,play,literary composition intended to be represented
 oyun,noun,play,theatrical performance
 tiyatro oyunu,noun,play,theatrical performance
 piyes,noun,play,theatrical performance
+oynamak,verb,play,act in a manner such that one has fun
+çalmak,verb,play,produce music using a musical instrument (transitive sense)
+çalmak,verb,play,produce music using a musical instrument (intransitive sense)
+oynamak,verb,play,act in a performance
+temsil etmek,verb,play,act in a performance
+oynamak,verb,play,participate in (a sport or game)
 oyuncu,noun,player,one who plays any game or sport
 sporcu,noun,player,one who plays any game or sport
 oyuncu,noun,player,dramatic actor
@@ -1560,17 +1797,28 @@ olumlu,adj,positive,legal: formally laid down
 emin,adj,positive,"fully assured in opinion, confident"
 olası,adj,possible,able but not certain to happen
 mümkün,adj,possible,able but not certain to happen
+direk,noun,post,long dowel or plank protruding from the ground
+kazık,noun,post,long dowel or plank protruding from the ground
+sütun,noun,post,long dowel or plank protruding from the ground
+posta,noun,post,method of delivering mail
+paylaşım,noun,post,individual message in a forum
 patates,noun,potato,plant tuber eaten as starchy vegetable
 yerelması,noun,potato,plant tuber eaten as starchy vegetable
 badadez,noun,potato,plant tuber eaten as starchy vegetable
 çisil,noun,potato,plant tuber eaten as starchy vegetable
 kartof,noun,potato,plant tuber eaten as starchy vegetable
 libre,noun,pound,unit of mass (16 ounces avoirdupois)
+alıştırma,noun,practice,repetition of an activity to improve skill
+egzersiz,noun,practice,repetition of an activity to improve skill
+pratik,noun,practice,"actual operation or experiment, in contrast to theory"
 tercih etmek,verb,prefer,to favor
 hazırlamak,verb,prepare,to make ready for a specific future purpose
 sofra kurmak,verb,prepare,to make ready for eating or drinking
 hazırlamak,verb,prepare,to make ready for eating or drinking
 hazırlanmak,verb,prepare,to make oneself ready
+şimdiki,adj,present,pertaining to the current time
+hâlihazırda,adj,present,pertaining to the current time
+güzel,adj,pretty,"especially of women and children: pleasant, attractive"
 fiyat,noun,price,cost required to gain possession of something
 paha,noun,price,cost required to gain possession of something
 muhtemelen,adv,probably,in all likelihood
@@ -1598,6 +1846,8 @@ program,noun,program,performance of a show or other broadcast on radio or televi
 program,noun,program,software application
 izlence,noun,program,software application
 proje,noun,project,planned endeavor
+mor,adj,purple,colour
+erguvani,adj,purple,colour
 mor,noun,purple,colour
 erguvani,noun,purple,colour
 koymak,verb,put,to place something somewhere
@@ -1620,6 +1870,10 @@ tam,adv,quite,to the greatest extent; completely
 oldukça,adv,quite,to a moderate extent
 radyo,noun,radio,technology
 radyo,noun,radio,receiver
+yağmur,noun,rain,condensed water from a cloud
+baran,noun,rain,condensed water from a cloud
+yağış,noun,rain,condensed water from a cloud
+yağış,noun,rain,an instance of particles falling
 yağmak,verb,rain,of rain: to fall from the sky
 yağmak,verb,rain,to fall in large quantities
 yağdırmak,verb,rain,to issue in large quantities
@@ -1653,6 +1907,11 @@ neden,noun,reason,motive for an action or determination
 sebep,noun,reason,motive for an action or determination
 açıklama,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 akıl,noun,reason,(the capacity of the human mind for) rational thinking
+kırmızı,adj,red,having red as its colour
+al,adj,red,having red as its colour
+kızıl-,adj,red,having red as its colour
+kızıl,adj,red,of hair: orange-brown
+kızıl,adj,red,"left-wing, socialist or communist"
 kırmızı,noun,red,colour
 kızıl,noun,red,colour
 al,noun,red,colour
@@ -1668,6 +1927,12 @@ lokanta,noun,restaurant,an eating establishment in which diners are served food
 restoran,noun,restaurant,an eating establishment in which diners are served food
 sonuç,noun,result,that which results
 netice,noun,result,that which results
+geri dönmek,verb,return,to come or go back
+kayıtmak,verb,return,to come or go back
+geri dönmek,verb,return,"to go back in thought, narration, or argument"
+geri çekilmek,verb,return,"to turn back, retreat"
+döndürmek,verb,return,to turn (something) round
+iade etmek,verb,return,to give something back to its original holder or owner
 pirinç,noun,rice,plants
 düğü,noun,rice,plants
 pilav,noun,rice,seeds used as food
@@ -1679,6 +1944,16 @@ zengin,adj,rich,having wealth
 sürmek,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 binmek,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 binmek,verb,ride,to be transported in a vehicle as a passenger
+düz,adj,right,"straight, not bent"
+doğru,adj,right,"straight, not bent"
+dik,adj,right,"of an angle, 90 degrees"
+dikey,adj,right,"of an angle, 90 degrees"
+doğru,adj,right,"complying with justice, correct — see also be right"
+doğru,adj,right,"appropriate, fit for purpose"
+sağ,adj,right,"of direction, opposite of left"
+tutucu,adj,right,politics: conservative
+muhafazakâr,adj,right,politics: conservative
+sağcı,adj,right,politics: conservative
 hak,noun,right,legal or moral entitlement
 sağ,noun,right,"right, not left, side"
 sağ,noun,right,right-wing politicians and parties
@@ -1711,6 +1986,8 @@ zavallı,adj,sad,"poor in quality, deplorable"
 salata,noun,salad,food
 tuz,noun,salt,sodium chloride
 tuz,noun,salt,compound of an acid and a base
+aynı,adj,same,not different as regards self; identical
+aynı,adj,same,"similar, alike"
 sandviç,noun,sandwich,dish — see also open sandwich
 söylemek,verb,say,to pronounce
 demek,verb,say,to pronounce
@@ -1742,6 +2019,8 @@ bilim insanı,noun,scientist,one whose activities make use of the scientific met
 bilim kadını,noun,scientist,one whose activities make use of the scientific method
 ilim adamı (obsolecent),noun,scientist,one whose activities make use of the scientific method
 ilim kadını (obsolecent),noun,scientist,one whose activities make use of the scientific method
+ikinci,adj,second,second (numeral) — see also 2nd
+ikinci,adj,second,that comes after the first
 saniye,noun,second,one-sixtieth of a minute; SI unit of time
 saniye,noun,second,unit of angular measure
 görmek,verb,see,perceive with the eyes
@@ -1768,6 +2047,9 @@ gömlek,noun,shirt,article of clothing
 pirahen,noun,shirt,article of clothing
 kundura,noun,shoe,protective covering for the foot
 ayakkabı,noun,shoe,protective covering for the foot
+dükkan,noun,shop,establishment that sells goods
+dükkân,noun,shop,establishment that sells goods
+mağaza,noun,shop,establishment that sells goods
 alışveriş,noun,shopping,activity of buying
 kısa,adj,short,having a small distance between ends or edges
 kısa,adj,short,"of a person, of comparatively small height"
@@ -1778,6 +2060,7 @@ gösteri,noun,show,entertainment
 gösteri,noun,show,broadcast program(me)
 şov,noun,show,broadcast program(me)
 program,noun,show,broadcast program(me)
+göstermek,verb,show,to display
 duş,noun,shower,device for bathing
 duş,noun,shower,instance of using of this device
 benzer,adj,similar,"having traits or characteristics in common; alike, comparable"
@@ -1822,6 +2105,9 @@ zeki,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 akıllı,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 becerikli,adj,smart,efficient; vigorous; brilliant
 yılan,noun,snake,legless reptile
+kar,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+pük,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+karınca,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
 karlamak,verb,snow,have snow fall from the atmosphere
 kar yağmak,verb,snow,have snow fall from the atmosphere
 o kadar,adv,so,very
@@ -1845,7 +2131,11 @@ erken,adv,soon,within a short time
 seve seve,adv,soon,within a short time
 memnuniyetle,adv,soon,within a short time
 üzgün,adj,sorry,"grieved, saddened"
+boğaz,noun,sound,long narrow inlet
+ses,noun,sound,sensation perceived by the ear
 çorba,noun,soup,dish
+güney,noun,south,compass point
+cenup,noun,south,compass point
 ara,noun,space,interval of time
 boşluk,noun,space,physical extent in two or three dimensions
 uzay,noun,space,physical extent in two or three dimensions
@@ -1921,6 +2211,11 @@ hala,adv,still,"up to a time, as in the preceding time"
 yine de,adv,still,nevertheless
 durak,noun,stop,place to get on and off mass transport
 mola,noun,stop,interruption of travel
+durmak,verb,stop,to cease moving
+durmak,verb,stop,"not to continue — see also cease, desist"
+kesmek,verb,stop,"not to continue — see also cease, desist"
+durdurmak,verb,stop,to cause to cease moving
+durdurmak,verb,stop,to cause to come to an end
 hikâye,noun,story,account of events
 öykü,noun,story,account of events
 hikâye,noun,story,social media temporary publication
@@ -1939,6 +2234,11 @@ etkileyici,adj,strong,slang: impressive
 öğrenci,noun,student,person who studies a subject
 üniversiteli,noun,student,person enrolled at a university — see also university student
 üniversite öğrencisi,noun,student,person enrolled at a university — see also university student
+çalışma,noun,study,mental effort to acquire knowledge
+öğrenim,noun,study,mental effort to acquire knowledge
+okuma,noun,study,mental effort to acquire knowledge
+çalışma odası,noun,study,room in a house intended for reading and writing
+araştırma,noun,study,academic publication
 çalışmak,verb,study,to revise/review materials
 okumak,verb,study,to take a course
 öğrenmek,verb,study,to acquire knowledge
@@ -2008,6 +2308,8 @@ koşum,noun,team,set of draught animals
 takım,noun,team,group of people
 ekip,noun,team,group of people
 genç,noun,teenager,person aged between thirteen and nineteen
+telefon,noun,telephone,a device used for two-way talking with other people
+alısün,noun,telephone,a device used for two-way talking with other people
 telefon etmek,verb,telephone,to call someone
 aramak,verb,telephone,to call someone
 telefonlamak,verb,telephone,to call someone
@@ -2029,6 +2331,10 @@ felaket,adj,terrible,unpleasant
 korkunç,adj,terrible,very bad
 berbat,adj,terrible,very bad
 feci,adj,terrible,very bad
+test,noun,test,"challenge, trial"
+deneme,noun,test,"challenge, trial"
+sınav,noun,test,academics: examination
+test,noun,test,academics: examination
 metin,noun,text,a written passage
 teşekkür etmek,verb,thank,to express appreciation or gratitude toward (someone or something)
 tiyatro,noun,theater,place or building
@@ -2071,6 +2377,10 @@ defa,noun,time,instance or occurrence
 yorgun,adj,tired,in need of rest or sleep
 ad,noun,title,"name of a book, etc"
 başlık,noun,title,subject of a writing
+bugün,adv,today,on the current day
+bugün,adv,today,"nowadays — see also nowadays, these days"
+günümüz,adv,today,"nowadays — see also nowadays, these days"
+günümüzde,adv,today,"nowadays — see also nowadays, these days"
 bugün,noun,today,today (noun)
 birlikte,adv,together,"at the same time, in the same place"
 beraber,adv,together,"at the same time, in the same place"
@@ -2093,6 +2403,7 @@ pamidor,noun,tomato,fruit
 domat,noun,tomato,fruit
 banadura,noun,tomato,fruit
 kızanak,noun,tomato,fruit
+yarın,adv,tomorrow,on the day after the present day
 yarın,noun,tomorrow,the day after the present day
 de,adv,too,likewise
 da,adv,too,likewise
@@ -2118,6 +2429,10 @@ katar,noun,train,line of connected cars or carriages
 yolculuk,noun,travel,act of traveling
 seyahat,noun,travel,act of traveling
 gezi,noun,travel,act of traveling
+yolculuk etmek,verb,travel,be on a journey
+yolculuk yapmak,verb,travel,be on a journey
+seyahat etmek,verb,travel,be on a journey
+seyahat yapmak,verb,travel,be on a journey
 ağaç,noun,tree,large woody plant
 gezi,noun,trip,journey
 seyahat,noun,trip,journey
@@ -2136,6 +2451,11 @@ sıra,noun,turn,chance to use (something) shared in sequence with others
 nöbet,noun,turn,chance to use (something) shared in sequence with others
 keşik,noun,turn,chance to use (something) shared in sequence with others
 sıra,noun,turn,one's chance to make a move in a game
+dönmek,verb,turn,move around an axis through itself
+döndürmek,verb,turn,"change the direction or orientation of, especially by rotation"
+dönmek,verb,turn,change one's direction of travel
+dönmek,verb,turn,become
+doldurmak,verb,turn,reach a certain age
 tip,noun,type,grouping based on shared characteristics
 tür,noun,type,grouping based on shared characteristics
 güncek,noun,umbrella,cloth-covered frame used for protection against rain or sun
@@ -2168,6 +2488,7 @@ görüntü,noun,video,motion picture stored on VHS
 videokaset,noun,video,VHS
 ziyaret,noun,visit,single act of visiting
 ziyaret,noun,visit,meeting with a doctor
+ziyaret etmek,verb,visit,to go and meet (someone)
 ziyaretçi,noun,visitor,guest
 konuk,noun,visitor,guest
 beklemek,verb,wait,delay until some event
@@ -2177,6 +2498,9 @@ kaldırmak,verb,wake,to make somebody stop sleeping
 uyandırmak,verb,wake,to make somebody stop sleeping
 yürüyüş,noun,walk,trip made by walking
 gezinti,noun,walk,trip made by walking
+yürümek,verb,walk,to move on the feet
+gezdirmek,verb,walk,to take for a walk
+yürüyüşe çıkarmak,verb,walk,to take for a walk
 sur,noun,wall,defensive rampart
 duvar,noun,wall,structure built for defense surrounding an area
 sur,noun,wall,structure built for defense surrounding an area
@@ -2190,6 +2514,15 @@ saat,noun,watch,portable or wearable timepiece
 nöbet,noun,watch,particular time period
 bekçi,noun,watch,person or group of people who guard
 nöbetçi,noun,watch,person or group of people who guard
+izlemek,verb,watch,to look at for a period of time
+seyretmek,verb,watch,to look at for a period of time
+izlemek,verb,watch,to observe
+bakmak,verb,watch,to observe
+gözlemlemek,verb,watch,to observe
+göz kulak olmak,verb,watch,to attend or guard
+bakmak,verb,watch,to attend or guard
+gözetmek,verb,watch,to attend or guard
+dikkat etmek,verb,watch,to be wary
 su,noun,water,inorganic compound H₂O
 su,noun,water,one of the basic elements
 karasuyu,noun,water,"body of water, or specific part of it"
@@ -2210,7 +2543,22 @@ yedil,noun,week,period of seven days
 hafta sonu,noun,weekend,break in the working week
 hoş geldiniz,adj,welcome,whose arrival is a cause of joy
 hoş geldin,adj,welcome,whose arrival is a cause of joy
+karşılamak,verb,welcome,affirm or greet the arrival of someone
+memnuniyetle karşılamak,verb,welcome,to accept willingly
 iyi,adj,well,in good health
+iyi,adv,well,accurately; competently
+güzel,adv,well,accurately; competently
+iyice,adv,well,completely; fully
+güzelce,adv,well,completely; fully
+adamakıllı,adv,well,completely; fully
+epey,adv,well,to a significant degree
+epeyi,adv,well,to a significant degree
+epeyce,adv,well,to a significant degree
+epeyice,adv,well,to a significant degree
+oldukça,adv,well,to a significant degree
+hayli,adv,well,to a significant degree
+batı,noun,west,compass point
+garp,noun,west,compass point
 ne zaman,adv,when,"at what time, as a direct question"
 ne zaman,adv,when,"at what time, as an indirect question"
 nerede,adv,where,at what place; to what place; from what place
@@ -2220,6 +2568,9 @@ nerede,adv,where,at or in which place
 nereye,adv,where,to what place
 nereye,adv,where,to which place or situation
 nerede,adv,where,the place in which
+ak,adj,white,bright and colourless
+beyaz,adj,white,bright and colourless
+beyaz,adj,white,of or relating to Caucasians
 beyaz,noun,white,color
 ak,noun,white,color
 beyaz,noun,white,person of European descent
@@ -2262,6 +2613,16 @@ emek,noun,work,effort expended on a particular task
 eser,noun,work,"literary, artistic, or intellectual production"
 yapıt,noun,work,"literary, artistic, or intellectual production"
 iş,noun,work,physics: measure of energy expended in moving an object
+çalışmak,verb,work,to do a specific task
+işletmek,verb,work,"to operate in a certain place, area, or specialty."
+çalışmak,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+iş görmek,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+işe yaramak,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+çalıştırmak,verb,work,to set into action
+işlemek,verb,work,"to shape, form, or improve a material"
+çalıştırmak,verb,work,to force to work
+işlemek,verb,work,to cause to move or progress
+işlemek,verb,work,to embroider with thread
 işçi,noun,worker,person who performs labor
 emekçi,noun,worker,person who performs labor
 amele,noun,worker,person who performs labor
@@ -2310,7 +2671,10 @@ yarda,noun,yard,three feet
 yıl,noun,year,time it takes for the Earth to complete one revolution around the Sun
 sene,noun,year,time it takes for the Earth to complete one revolution around the Sun
 yıl,noun,year,a period between set dates that mark a year
+sarı,adj,yellow,having yellow as its color
+korkak,adj,yellow,lacking courage
 sarı,noun,yellow,color
+dün,adv,yesterday,on the day before today
 dün,noun,yesterday,day before today
 dün,noun,yesterday,the recent past
 genç,adj,young,in the early part of life or growth

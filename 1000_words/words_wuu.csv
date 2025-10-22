@@ -6,6 +6,7 @@ word,part_of_speech,english_word,sense
 空氣 /空气,noun,air,mixture of gases making up the atmosphere of the Earth
 機場 /机场,noun,airport,place designated for airplanes
 動物 /动物,noun,animal,organism
+回答,noun,answer,response
 公寓,noun,apartment,domicile occupying part of a building
 蘋果 /苹果,noun,apple,fruit of Malus domestica
 藝術 /艺术,noun,art,human effort
@@ -23,6 +24,7 @@ word,part_of_speech,english_word,sense
 自行車 /自行车,noun,bicycle,vehicle
 鳥 /鸟,noun,bird,animal
 生日,noun,birthday,anniversary
+黑,adj,black,absorbing all light
 船,noun,boat,water craft
 書 /书,noun,book,collection of sheets of paper bound together containing printed or written material
 瓶,noun,bottle,container
@@ -48,6 +50,7 @@ word,part_of_speech,english_word,sense
 衣裳,noun,clothes,apparel
 俱樂部 /俱乐部,noun,club,association of members
 咖啡,noun,coffee,beverage
+冷,adj,cold,having a low temperature
 色,noun,color,spectral composition of visible light
 顏色 /颜色,noun,color,spectral composition of visible light
 來 /来,verb,come,to move nearer
@@ -60,6 +63,8 @@ word,part_of_speech,english_word,sense
 牛,noun,cow,any domestic bovine regardless of sex or age
 文化,noun,culture,"arts, customs and habits"
 杯子,noun,cup,drinking vessel
+舞蹈,noun,dance,movements to music
+跳舞,noun,dance,movements to music
 囡兒 /囡儿,noun,daughter,female offspring
 天,noun,day,period of 24 hours
 日,noun,day,period of 24 hours
@@ -74,6 +79,7 @@ word,part_of_speech,english_word,sense
 戶 /户,noun,door,"portal of entry into a building, room or vehicle"
 吃,verb,drink,consume liquid through the mouth
 耳朵,noun,ear,organ of hearing
+東 /东,noun,east,compass point
 吃,verb,eat,"to ingest — see also consume, ingest"
 吃飯 /吃饭,verb,eat,eat a meal
 象,noun,elephant,mammal
@@ -81,6 +87,9 @@ word,part_of_speech,english_word,sense
 眼,noun,eye,organ
 面孔,noun,face,anatomy: front part of head
 面顴 /面颧,noun,face,anatomy: front part of head
+家庭,noun,family,"immediate family [as a group], e.g. parents and their children"
+家,noun,family,"immediate family [as a group], e.g. parents and their children"
+家族,noun,family,"group of people related by blood, marriage, law, or custom"
 農夫 /农夫,noun,farmer,person who works the land and/or who keeps livestock
 農民 /农民,noun,farmer,person who works the land and/or who keeps livestock
 父親 /父亲,noun,father,male parent
@@ -108,6 +117,7 @@ word,part_of_speech,english_word,sense
 健康,noun,health,"state of being free of physical or psychological disease, illness, or malfunction"
 搿搭,adv,here,"in, on, or at this place"
 歷史 /历史,noun,history,aggregate of past events
+屋裡 /屋里,noun,home,house or structure in which someone lives
 希望,verb,hope,"to want something to happen, with expectation that it might"
 馬 /马,noun,horse,members of the species Equus ferus
 醫院 /医院,noun,hospital,large medical facility
@@ -129,8 +139,10 @@ word,part_of_speech,english_word,sense
 島 /岛,noun,island,area of land completely surrounded by water
 島嶼 /岛屿,noun,island,area of land completely surrounded by water
 牛仔褲 /牛仔裤,noun,jeans,denim trousers
+鑰匙 /钥匙,noun,key,device designed to open and close a lock
 曉得 /晓得,verb,know,be justifiably certain or sure about (something true)
 語言 /语言,noun,language,body of words used as a form of communication
+笑,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
 腿,noun,leg,lower limb from groin to ankle
 字母,noun,letter,a symbol in an alphabet
 字,noun,letter,a symbol in an alphabet
@@ -139,15 +151,21 @@ word,part_of_speech,english_word,sense
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 生命,noun,life,the state of being alive
 生活,noun,life,the state of being alive
+光,noun,light,electromagnetic waves
 獅子 /狮子,noun,lion,big cat Panthera leo
 聽 /听,verb,listen,to pay attention to a sound
 看,verb,look,to try to see
+愛 /爱,noun,love,strong affection
+愛情 /爱情,noun,love,strong affection
 愛 /爱,verb,love,have a strong affection for
 雜誌 /杂志,noun,magazine,periodical
 男人,noun,man,adult male human
 人類 /人类,noun,man,a human being
 地圖 /地图,noun,map,visual representation of an area
 市場 /市场,noun,market,spacious site for trading
+比賽 /比赛,noun,match,sporting event
+洋火,noun,match,device to make fire
+自來火 /自来火,noun,match,device to make fire
 肉,noun,meat,animal flesh used as food
 乳,noun,milk,liquid
 奶,noun,milk,liquid
@@ -166,9 +184,12 @@ word,part_of_speech,english_word,sense
 電影 /电影,noun,movie,motion picture
 博物館 /博物馆,noun,museum,building or institution
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
+名,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名字,noun,name,"word or phrase indicating a particular person, place, class or thing"
 新,adj,new,recently made or created
 報紙 /报纸,noun,newspaper,publication
 夜到,noun,night,period between sunset and sunrise
+北,noun,north,compass point
 鼻頭 /鼻头,noun,nose,protuberance on the face
 勿,adv,not,negates meaning of another word
 現在 /现在,adv,now,at the present time
@@ -179,6 +200,7 @@ word,part_of_speech,english_word,sense
 頁 /页,noun,page,one side of a leaf of a book
 紙頭 /纸头,noun,paper,sheet material
 論文 /论文,noun,paper,academic paper
+公園 /公园,noun,park,ground for recreation
 部分,noun,part,fraction of a whole
 護照 /护照,noun,passport,official document for foreign travel
 筆 /笔,noun,pen,writing tool
@@ -190,10 +212,14 @@ word,part_of_speech,english_word,sense
 植物,noun,plant,organism capable of photosynthesis
 警察,noun,police,local or general law enforcement agency
 洋山芋,noun,potato,plant tuber eaten as starchy vegetable
+練習 /练习,noun,practice,repetition of an activity to improve skill
 價鈿 /价钿,noun,price,cost required to gain possession of something
 問題 /问题,noun,question,"sentence, phrase or word"
 無線電 /无线电,noun,radio,technology
+雨,noun,rain,condensed water from a cloud
 讀 /读,verb,read,to look at and interpret letters or other information
+紅 /红,adj,red,"left-wing, socialist or communist"
+紅色 /红色,adj,red,"left-wing, socialist or communist"
 記得 /记得,verb,remember,to recall from one's memory
 餐廳 /餐厅,noun,restaurant,an eating establishment in which diners are served food
 餐館 /餐馆,noun,restaurant,an eating establishment in which diners are served food
@@ -219,6 +245,9 @@ word,part_of_speech,english_word,sense
 湖羊,noun,sheep,animal
 鞋子,noun,shoe,protective covering for the foot
 鞋,noun,shoe,protective covering for the foot
+店家,noun,shop,establishment that sells goods
+商店,noun,shop,establishment that sells goods
+店,noun,shop,establishment that sells goods
 歌手,noun,singer,person who sings (male or generic term)
 姐姐,noun,sister,woman or girl having the same parents
 妹妹,noun,sister,woman or girl having the same parents
@@ -229,9 +258,12 @@ word,part_of_speech,english_word,sense
 小,adj,small,not large
 蛇,noun,snake,legless reptile
 水蛇,noun,snake,legless reptile
+雪,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
 兒子 /儿子,noun,son,a male person in relation to his parents
 歌,noun,song,music with words
+聲音 /声音,noun,sound,sensation perceived by the ear
 湯 /汤,noun,soup,dish
+南,noun,south,compass point
 太空,noun,space,area beyond atmosphere of planets
 宇宙,noun,space,area beyond atmosphere of planets
 空間 /空间,noun,space,area beyond atmosphere of planets
@@ -263,6 +295,7 @@ word,part_of_speech,english_word,sense
 茶葉茶 /茶叶茶,noun,tea,drink made from leaves of tea plant
 教,verb,teach,to pass on knowledge
 老師 /老师,noun,teacher,person who teaches
+電話 /电话,noun,telephone,a device used for two-way talking with other people
 電視 /电视,noun,television,medium
 電視機 /电视机,noun,television,device for receiving television signals
 課文 /课文,noun,text,a written passage
@@ -270,7 +303,9 @@ word,part_of_speech,english_word,sense
 物件,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 辰光,noun,time,inevitable passing of events
 時間 /时间,noun,time,inevitable passing of events
+今朝,adv,today,on the current day
 番茄,noun,tomato,fruit
+明朝,adv,tomorrow,on the day after the present day
 忒,adv,too,more than enough; as too much
 牙齒 /牙齿,noun,tooth,anatomy: tooth
 牙子,noun,tooth,anatomy: tooth
@@ -282,6 +317,8 @@ word,part_of_speech,english_word,sense
 蠻 /蛮,adv,very,to a high degree
 老,adv,very,to a high degree
 交關 /交关,adv,very,to a high degree
+走,verb,walk,to move on the feet
+跑,verb,walk,to move on the feet
 手錶 /手表,noun,watch,portable or wearable timepiece
 水,noun,water,inorganic compound H₂O
 天氣 /天气,noun,weather,state of the atmosphere
@@ -293,6 +330,7 @@ word,part_of_speech,english_word,sense
 阿裡 /阿里,adv,where,at or in which place
 啥地方,adv,where,wherever
 阿裡 /阿里,adv,where,wherever
+白,adj,white,bright and colourless
 白色,noun,white,color
 啥體 /啥体,adv,why,for what reason
 為啥 /为啥,adv,why,for what reason
@@ -306,8 +344,10 @@ word,part_of_speech,english_word,sense
 女人,noun,woman,adult female person
 女性,noun,woman,adult female person
 工作,noun,work,"labour, employment, occupation, job"
+工作,verb,work,to do a specific task
 世界,noun,world,human collective existence
 寫 /写,verb,write,"to form letters, etc."
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
+昨日,adv,yesterday,on the day before today
 昨日,noun,yesterday,day before today
 年輕 /年轻,adj,young,in the early part of life or growth

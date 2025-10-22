@@ -49,6 +49,9 @@ binatang,noun,animal,organism
 binatang,noun,animal,organism other than human
 hewan,noun,animal,organism other than human
 satwa,noun,animal,organism other than human
+jawaban,noun,answer,response
+solusi,noun,answer,solution
+balas,noun,answer,reply to email
 menjawab,verb,answer,to make a reply or response to
 apartemen,noun,apartment,domicile occupying part of a building
 flat,noun,apartment,domicile occupying part of a building
@@ -73,6 +76,11 @@ bibi,noun,aunt,a parent's sister or sister-in-law
 tante,noun,aunt,a parent's sister or sister-in-law
 keren,adj,awesome,"excellent, exciting"
 bayi,noun,baby,very young human being
+punggung,noun,back,the rear of body
+belakang,noun,back,the reverse side
+belakang,noun,back,that which is farthest away from the front
+belakang,noun,back,the part of something that goes last
+belakang,noun,back,a position behind most players on the team
 buruk,adj,bad,unfavorable; negative
 jelek,adj,bad,unfavorable; negative
 jahat,adj,bad,"not appropriate, of manners etc."
@@ -120,11 +128,17 @@ burung,noun,bird,animal
 cewek,noun,bird,woman
 ulang tahun,noun,birthday,anniversary
 hari lahir,noun,birthday,date of birth — see also date of birth
+hitam,adj,black,absorbing all light
+kelam,adj,black,without light
+legam,adj,black,without light
+gelap,adj,black,without light
 hitam,noun,black,colour/color
 negro,noun,black,dark-skinned person — see also Negro
 blog,noun,blog,a personal or corporate website
 pirang,adj,blond,of a pale golden colour
 pirang,adj,blond,having blond hair
+biru,adj,blue,"blue-coloured — see also dark blue, light blue"
+mesum,adj,blue,pornographic
 biru,noun,blue,colour
 perahu,noun,boat,water craft
 sampan,noun,boat,water craft
@@ -144,6 +158,9 @@ anak lelaki,noun,boy,young male
 pria,noun,boy,"male of any age, used as a friendly diminutive"
 laki-laki,noun,boy,"male of any age, used as a friendly diminutive"
 roti,noun,bread,baked dough made from cereals
+patah,verb,break,intransitive: to separate into (to end up in) two or more pieces
+mematahkan,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+memutuskan,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
 sarapan,noun,breakfast,first meal of the day
 bawa,verb,bring,to transport toward somebody/somewhere
 membawa,verb,bring,to transport toward somebody/somewhere
@@ -155,6 +172,7 @@ adik laki-laki,noun,brother,male sibling
 saudara,noun,brother,male having parents in common
 bruder (christian),noun,brother,male fellow member of a religious community
 saudara,noun,brother,peer
+cokelat,adj,brown,having a brown colour
 cokelat,noun,brown,colour
 membangun,verb,build,(transitive) to form by combining materials or parts
 mendirikan,verb,build,(transitive) to form by combining materials or parts
@@ -165,15 +183,22 @@ gedung,noun,building,closed structure with walls and a roof
 bus,noun,bus,vehicle
 bis,noun,bus,vehicle
 otobis,noun,bus,vehicle
+sibuk,adj,busy,crowded with business or activities
+ramai,adj,busy,crowded with business or activities
+sibuk,adj,busy,doing a great deal
 mentega,noun,butter,soft foodstuff made from milk
 membeli,verb,buy,to obtain something with money
 kue,noun,cake,type of sweet dessert
 telepon,noun,call,telephone conversation
+menelepon,verb,call,to contact by telephone
 kamera,noun,camera,still camera
 tustel,noun,camera,still camera
 kamera video,noun,camera,movie camera
 boleh,verb,can,to be able to; to know how to
 bisa,verb,can,to be able to; to know how to
+modal,noun,capital,money and wealth
+kapital,noun,capital,money and wealth
+kapital,noun,capital,uppermost part of a column
 mobil,noun,car,"automobile, a vehicle steered by a driver"
 otomobil,noun,car,"automobile, a vehicle steered by a driver"
 oto,noun,car,"automobile, a vehicle steered by a driver"
@@ -193,6 +218,8 @@ perubahan,noun,change,the process of becoming different
 pergantian,noun,change,the process of becoming different
 pertukaran,noun,change,the process of becoming different
 uang kembalian,noun,change,balance returned after a purchase
+ubah,verb,change,to become something different
+berubah,verb,change,to become something different
 tangga lagu,noun,chart,"ranked listing of competitors, as of recorded music"
 murah,adj,cheap,low and/or reduced in price
 murahan,adj,cheap,of poor quality
@@ -220,6 +247,7 @@ kelas,noun,class,"social grouping, based on job, wealth, etc."
 kelas,noun,class,group of students in a regularly scheduled meeting with a teacher
 kelas,noun,class,"category of seats in an airplane, train or other means of mass transportation"
 ruang kelas,noun,classroom,room in a school
+bersih,adj,clean,not dirty
 mendaki,verb,climb,"to ascend, to go up"
 memanjat,verb,climb,"to ascend, to go up"
 memanjat,verb,climb,"to mount, to move upwards on"
@@ -234,6 +262,7 @@ klab,noun,club,association of members
 mantel,noun,coat,outer garment covering the upper torso and arms
 kopi,noun,coffee,beverage
 biji kopi,noun,coffee,beans
+dingin,adj,cold,having a low temperature
 pilek,noun,cold,illness
 kampus,noun,college,academic institution
 warna,noun,color,spectral composition of visible light
@@ -249,6 +278,9 @@ syarikat,noun,company,"in legal context, a corporation"
 besuk,noun,company,social visitors
 kompi,noun,company,military unit
 bandingkan,verb,compare,to assess the similarities between two things or between one thing and another
+lengkap,adj,complete,with everything included
+sempurna,adj,complete,with everything included
+komplit,adj,complete,with everything included
 menyelesaikan,verb,complete,to finish
 merampungkan,verb,complete,to finish
 menyelesaikan,verb,complete,to make whole or entire
@@ -260,6 +292,7 @@ masak,verb,cook,to prepare food for eating
 sejuk,adj,cool,having a slightly low temperature
 keren,adj,cool,"colloquial: being considered as ""popular"" by others"
 keren,adj,cool,"colloquial: all right, acceptable"
+tepat,adj,correct,free from error
 menghabiskan biaya,verb,cost,"to incur a charge, a price"
 bangsa,noun,country,region of land
 negara,noun,country,nation state
@@ -279,6 +312,7 @@ cangkir,noun,cup,drinking vessel
 pelanggan,noun,customer,one who purchases or receives a product or service
 potong,verb,cut,to perform an incision
 memotong,verb,cut,to perform an incision
+tari,noun,dance,movements to music
 menari,verb,dance,move rhythmically to music
 penari,noun,dancer,person who dances
 berbahaya,adj,dangerous,full of danger
@@ -302,6 +336,8 @@ lezat,adj,delicious,pleasing to taste
 sedap,adj,delicious,pleasing to taste
 enak,adj,delicious,pleasing to taste
 deskripsi,noun,description,account in words
+desain,noun,design,plan
+rancangan,noun,design,plan
 rinci,noun,detail,part small enough to escape casual notice
 dialog,noun,dialogue,conversation or other discourse between individuals
 percakapan,noun,dialogue,conversation or other discourse between individuals
@@ -341,6 +377,8 @@ tarik,verb,draw,"to pull out, unsheath"
 hunus,verb,draw,"to pull out, unsheath"
 tarik,verb,draw,to rely on
 undi,verb,draw,to rely on
+minuman,noun,drink,served beverage
+minuman keras,noun,drink,served alcoholic beverage
 minum,verb,drink,consume liquid through the mouth
 mengemudi,verb,drive,to operate (a wheeled motorized vehicle)
 mengemudikan,verb,drive,to operate (a wheeled motorized vehicle)
@@ -349,6 +387,10 @@ masing-masing,adv,each,individually
 bulir,noun,ear,fruiting body of a grain plant
 telinga,noun,ear,organ of hearing
 kuping,noun,ear,organ of hearing
+dini,adj,early,at a time in advance of the usual
+pagi-pagi,adj,early,at a time in advance of the usual
+timur,adj,east,in or towards the east
+timur,noun,east,compass point
 mudah,adj,easy,requiring little skill or effort
 gampang,adj,easy,requiring little skill or effort
 gampangan,adj,easy,consenting readily to sex
@@ -357,6 +399,13 @@ santap,verb,eat,eat a meal
 telur,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
 telur,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 gajah,noun,elephant,mammal
+surel,noun,email,system for sending messages and datas by means of computers connected together in a network
+posel,noun,email,system for sending messages and datas by means of computers connected together in a network
+pos-el,noun,email,system for sending messages and datas by means of computers connected together in a network
+email,noun,email,system for sending messages and datas by means of computers connected together in a network
+surel,noun,email,message sent through email
+akhir,noun,end,extreme part
+ujung,noun,end,extreme part
 berakhirkan,verb,end,"intransitive: be finished, be terminated"
 berakhir,verb,end,"intransitive: be finished, be terminated"
 tamat,verb,end,"intransitive: be finished, be terminated"
@@ -375,6 +424,9 @@ misal,noun,example,something representative of a group
 contoh,noun,example,something representative of a group
 misal,noun,example,something serving to explain or illustrate a rule
 teladan,noun,example,something serving as a pattern of behaviour
+latihan,noun,exercise,any activity designed to develop or hone a skill or ability
+latihan,noun,exercise,physical activity intended to improve strength and fitness
+olahraga,noun,exercise,physical activity intended to improve strength and fitness
 mahal,adj,expensive,having a high price or cost
 menjelaskan,verb,explain,to make intelligible
 ekstra,adj,extra,"beyond what is due, usual"
@@ -385,8 +437,15 @@ wajah,noun,face,anatomy: front part of head
 paras,noun,face,anatomy: front part of head
 rupa,noun,face,anatomy: front part of head
 bacot,noun,face,slang: the mouth
+jatuh,verb,fall,move to a lower position under the effect of gravity
+gugur,verb,fall,move to a lower position under the effect of gravity
+runtuh,verb,fall,move to a lower position under the effect of gravity
+tumbang,verb,fall,move to a lower position under the effect of gravity
 salah,adj,false,"untrue, not factual, wrong"
 buatan,adj,false,"spurious, artificial"
+keluarga,noun,family,"immediate family [as a group], e.g. parents and their children"
+famili,noun,family,"immediate family [as a group], e.g. parents and their children"
+kerabat,noun,family,"group of people related by blood, marriage, law, or custom"
 terkenal,adj,famous,well known
 termahsyur,adj,famous,well known
 fantastis,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
@@ -396,6 +455,7 @@ ladang,noun,farm,place where agricultural activities take place
 perkebunan,noun,farm,place where agricultural activities take place
 petani,noun,farmer,person who works the land and/or who keeps livestock
 peternak,noun,farmer,person who works the land and/or who keeps livestock
+cepat,adj,fast,moving or capable of moving with great speed
 gemuk,adj,fat,carrying a larger than normal amount of fat on one's body
 bapa,noun,father,male parent
 bapak,noun,father,male parent
@@ -432,6 +492,8 @@ kaki,noun,foot,unit of measure
 sepak bola,noun,football,association football
 bola sepak,noun,football,ball
 lupa,verb,forget,to lose remembrance of
+formulir,noun,form,document to be filled in
+borang,noun,form,document to be filled in
 bebas,adj,free,not imprisoned
 bebas,adj,free,without
 tanpa,adj,free,without
@@ -443,6 +505,8 @@ rekan,noun,friend,person whose company one enjoys
 pacar,noun,friend,boyfriend or girlfriend
 kekasih,noun,friend,boyfriend or girlfriend
 ramah,adj,friendly,"approachable, warm"
+hadapan,noun,front,facing side
+kedok,noun,front,public face of covert organisation
 buah,noun,fruit,part of plant
 buah,noun,fruit,food
 penuh,adj,full,containing the maximum possible amount
@@ -477,9 +541,13 @@ engkong,noun,grandfather,grandfather (from either side)
 nenek,noun,grandmother,mother of someone's parent
 kakek,noun,grandparent,parent of one's parent
 nenek,noun,grandparent,parent of one's parent
+abu-abu,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 abu-abu,noun,gray,colour
 gray,noun,gray,SI unit of absorbed radiation
 besar,adj,great,"very big, large scale"
+hijau,adj,green,having green as its colour
+hijau,adj,green,inexperienced
+hijau,adj,green,environmentally friendly
 hijau,noun,green,colour
 kelompok,noun,group,number of things or persons being in some relation to each other
 grup,noun,group,number of things or persons being in some relation to each other
@@ -488,6 +556,13 @@ grup,noun,group,people who perform music together
 gugus,noun,group,small number of galaxies
 kelompok,noun,group,subset of a culture or of a society
 tebakan,noun,guess,prediction about the outcome of something
+kira,verb,guess,to reach an unconfirmed conclusion
+mengira,verb,guess,to reach an unconfirmed conclusion
+pikir,verb,guess,to reach an unconfirmed conclusion
+berpikir,verb,guess,to reach an unconfirmed conclusion
+menebak,verb,guess,to solve by a correct conjecture
+mengira,verb,guess,"to suppose, to imagine"
+menyangka,verb,guess,"to suppose, to imagine"
 gitar,noun,guitar,musical instrument
 bulu,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
 rambut,noun,hair,mass of such filaments on the human head
@@ -501,6 +576,15 @@ terjadi,verb,happen,to occur
 senang,adj,happy,"contented, joyous"
 untung,adj,happy,"fortunate, lucky"
 mujur,adj,happy,"fortunate, lucky"
+keras,adj,hard,resistant to pressure
+sulit,adj,hard,requiring a lot of effort to do or understand
+sukar,adj,hard,requiring a lot of effort to do or understand
+susah,adj,hard,requiring a lot of effort to do or understand
+sulit,adj,hard,demanding a lot of effort to endure
+susah,adj,hard,demanding a lot of effort to endure
+sukar,adj,hard,demanding a lot of effort to endure
+keras,adj,hard,severe
+sulit,adj,hard,severe
 topi,noun,hat,a head covering
 benci,verb,hate,to dislike intensely
 membenci,verb,hate,to dislike intensely
@@ -518,6 +602,11 @@ pembantu,noun,help,person or persons who provides assistance with some task
 penolong,noun,help,person or persons who provides assistance with some task
 pembantu,noun,help,person employed to help in the maintenance of a house
 pertolongan,noun,help,textual support of a software application
+bantu,verb,help,transitive: provide assistance to (someone or something)
+membantu,verb,help,contribute in some way to
+membantu,verb,help,intransitive: provide assistance
+menolong,verb,help,intransitive: provide assistance
+menahan,verb,help,transitive: avoid or prevent
 sini,adv,here,"in, on, or at this place"
 tinggi,adj,high,elevated; tall
 sejarah,noun,history,aggregate of past events
@@ -525,6 +614,7 @@ histori,noun,history,aggregate of past events
 sejarah,noun,history,branch of knowledge that studies the past
 riwayat,noun,history,medicine: list of past and continuing medical conditions
 hobi,noun,hobby,activity done for enjoyment in spare time
+rumah,noun,home,house or structure in which someone lives
 pekerjaan rumah,noun,homework,work that is done at home
 harap,verb,hope,"to want something to happen, with expectation that it might"
 berharap,verb,hope,"to want something to happen, with expectation that it might"
@@ -565,8 +655,14 @@ bayangkan,verb,imagine,(transitive) to form a mental image of something
 penting,adj,important,having relevant and crucial value
 informasi,noun,information,communicable knowledge
 maklumat,noun,information,communicable knowledge
+bunga,noun,interest,finance: price of credit
+renten,noun,interest,finance: price of credit
+minat,noun,interest,great attention and concern from someone
+ketertarikan,noun,interest,great attention and concern from someone
 tertarik,adj,interested,having or showing interest
 menarik,adj,interesting,arousing or holding the attention
+wawancara,noun,interview,conversation with journalist etc.
+temu duga,noun,interview,a formal meeting for the assessment of a candidate or applicant
 pulau,noun,island,area of land completely surrounded by water
 nusa,noun,island,area of land completely surrounded by water
 jaket,noun,jacket,piece of clothing worn on the upper body outside a shirt or blouse
@@ -581,6 +677,10 @@ getah,noun,juice,liquid resembling juice
 simpan,verb,keep,to maintain possession of
 memenuhi,verb,keep,to remain faithful to given word
 membayar,verb,keep,to remain faithful to given word
+kunci,noun,key,device designed to open and close a lock
+tombol,noun,key,button on a typewriter or computer keyboard
+tuts,noun,key,part of a piano or musical keyboard
+kunci,noun,key,scale of musical notes
 dapur,noun,kitchen,room
 tahu,verb,know,be justifiably certain or sure about (something true)
 kenal,verb,know,be acquainted or familiar with
@@ -593,13 +693,21 @@ negara,noun,land,country or region
 negeri,noun,land,country or region
 bahasa,noun,language,body of words used as a form of communication
 besar,adj,large,of greater size — see also big
+terlambat,adj,late,not arriving until after an expected time
+telat,adj,late,not arriving until after an expected time
+kasip,adj,late,not arriving until after an expected time
+almarhum,adj,late,"euphemism for ""dead"""
+almarhumah,adj,late,"euphemism for ""dead"""
+mendiang,adj,late,"euphemism for ""dead"""
 tawa,noun,laugh,expression of mirth peculiar to the human species
+tertawa,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
 belajar,verb,learn,to acquire knowledge or ability
 belajar,verb,learn,to attend educational activity
 belajar,verb,learn,to be studying
 tinggal,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 meninggalkan,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 berangkat,verb,leave,to depart (intransitive)
+kiri,adj,left,west side of the body when one is facing north
 sayap kiri,noun,left,the ensemble of left-wing political parties
 tungkai,noun,leg,lower limb from groin to ankle
 kaki,noun,leg,lower limb from groin to ankle
@@ -632,20 +740,26 @@ kehidupan,noun,life,something inherently part of a person's existence
 hidup,noun,life,duration
 nyawa,noun,life,one of the player's chances to play
 ringan,adj,light,of low weight
+cahaya,noun,light,electromagnetic waves
 suka,verb,like,to enjoy
 suka,verb,like,to find attractive
 suka,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
 baris,noun,line,"path through two or more points, threadlike mark"
 garis,noun,line,"path through two or more points, threadlike mark"
 singa,noun,lion,big cat Panthera leo
+daftar,noun,list,enumeration or compilation of items
+senarai,noun,list,computing: codified representation of a list
 dengarkan,verb,listen,to pay attention to a sound
 mendengarkan,verb,listen,to accept advice or obey instruction
 kecil,adj,little,small in size
 hidup,verb,live,be alive
 tinggal,verb,live,have permanent residence
+panjang,adj,long,having much distance from one point to another
 pandangi,verb,look,to try to see
 hilang,verb,lose,cause (something) to cease to be in one's possession or capability
 kalah,verb,lose,(transitive) fail to win
+cinta,noun,love,strong affection
+suka,noun,love,strong affection
 cinta,verb,love,have a strong affection for
 bercinta,verb,love,(euphemistic): to have sex with
 makan siang,noun,lunch,meal around midday
@@ -666,6 +780,8 @@ map,noun,map,visual representation of an area
 atlas,noun,map,visual representation of an area
 pasar,noun,market,gathering for trading
 pasar,noun,market,spacious site for trading
+pertandingan,noun,match,sporting event
+korek api,noun,match,device to make fire
 barangkali,adv,maybe,indicating a lack of certainty
 makanan,noun,meal,food that is prepared and eaten
 bermaksud,verb,mean,to intend; plan on doing
@@ -725,10 +841,12 @@ film,noun,movie,motion picture
 museum,noun,museum,building or institution
 musik,noun,music,"sound, organized in time in a melodious way"
 harus,verb,must,be required to
+nama,noun,name,"word or phrase indicating a particular person, place, class or thing"
 menamai,verb,name,to give a name to
 sebut,verb,name,"to mention, specify"
 sebut,verb,name,"to identify, define, specify"
 alami,adj,natural,of or relating to nature
+dekat,adj,near,physically close
 memerlukan,verb,need,to have an absolute requirement for
 perlu,verb,need,to want strongly
 pertetanggaan,noun,neighborhood,quality of being a neighbor
@@ -750,6 +868,7 @@ berita,noun,news,reports of current events
 koran,noun,newspaper,publication
 surat kabar,noun,newspaper,publication
 malam,noun,night,period between sunset and sunrise
+utara,noun,north,compass point
 hidung,noun,nose,protuberance on the face
 tidak,adv,not,negates meaning of another word
 tak,adv,not,negates meaning of another word
@@ -778,13 +897,32 @@ dalam jaringan,adj,online,connected to a network
 daring,adj,online,available over the Internet
 daring,adj,online,connected to the Internet
 tersambung,adj,online,connected to the Internet
+satu-satunya,adj,only,alone in a category
+tunggal,adj,only,without sibling
 hanya,adv,only,without others or anything further; exclusively
 hanya,adv,only,no more than
+buka,adj,open,not closed
 buka,verb,open,to make something accessible
 membuka,verb,open,to make something accessible
 opini pendapat,noun,opinion,thought a person has formed about a topic
 jingga,adj,orange,having the colour of the fruit of an orange tree
 oranye,adj,orange,having the colour of the fruit of an orange tree
+jeruk manis,noun,orange,tree
+jeruk manis,noun,orange,fruit
+limau,noun,orange,fruit
+jeruk,noun,orange,fruit
+jingga,noun,orange,colour
+oranye,noun,orange,colour
+aturan,noun,order,"arrangement, disposition"
+susunan,noun,order,"arrangement, disposition"
+aturan,noun,order,good arrangement
+susunan,noun,order,good arrangement
+perintah,noun,order,command
+aba-aba,noun,order,command
+pesanan,noun,order,request for some product or service
+ordo,noun,order,religious group
+orde,noun,order,awarded decoration
+ordo,noun,order,biology: taxonomical classification
 mengatur,verb,order,to set in (any) order
 mengatur,verb,order,to set in (a good) order
 memerintah,verb,order,to issue a command
@@ -793,6 +931,7 @@ sendiri,adj,own,belonging to (determiner)
 halaman,noun,page,one side of a leaf of a book
 laman,noun,page,one side of a leaf of a book
 cat,noun,paint,substance
+mencat,verb,paint,to apply paint to
 lukisan,noun,painting,an illustration or artwork using paint
 celana,noun,pants,garment covering the body from the waist downwards
 celana dalam,noun,pants,undergarment covering the genitals
@@ -805,6 +944,8 @@ tesis,noun,paper,academic paper
 naskah,noun,paper,academic paper
 paragraf,noun,paragraph,passage in text
 alinea,noun,paragraph,passage in text
+taman,noun,park,"ground for preservation of game, etc."
+taman,noun,park,ground for recreation
 parkir,verb,park,bring (a vehicle) to a halt
 bagian,noun,part,fraction of a whole
 partner,noun,partner,someone who is associated with another in a common activity or interest
@@ -835,6 +976,7 @@ masa,noun,period,a length of time
 masa,noun,period,history: period of time seen as coherent entity
 masa,noun,period,length of time during which something repeats
 orang,noun,person,individual
+fon,noun,phone,speech segment
 telepon,verb,phone,to call (someone) on the telephone
 foto,noun,photograph,picture
 fotograf,noun,photograph,picture
@@ -845,9 +987,16 @@ piano,noun,piano,a keyboard musical instrument
 gambar,noun,picture,"representation of visible reality produced by drawing, etc"
 babi,noun,pig,mammal of genus Sus
 babi,noun,pig,dirty or slovenly person
+pink muda,adj,pink,colored/coloured between red and white
+merah muda,adj,pink,colored/coloured between red and white
 merah muda,noun,pink,pale red colour
 merah jambu,noun,pink,pale red colour
 tempat,noun,place,"location, position"
+denah,noun,plan,technical drawing
+rancangan,noun,plan,technical drawing
+rencana,noun,plan,set of intended actions
+rancangan,noun,plan,set of intended actions
+langganan,noun,plan,subscription plan
 merancang,verb,plan,to design
 berencana,verb,plan,to create a plan for
 merencanakan,verb,plan,to create a plan for
@@ -860,6 +1009,15 @@ drama,noun,play,literary composition intended to be represented
 naskah drama,noun,play,literary composition intended to be represented
 pentas,noun,play,theatrical performance
 drama,noun,play,theatrical performance
+bermain,verb,play,act in a manner such that one has fun
+main,verb,play,act in a manner such that one has fun
+memainkan,verb,play,act in a manner such that one has fun
+bermain,verb,play,produce music using a musical instrument (transitive sense)
+memainkan,verb,play,produce music using a musical instrument (transitive sense)
+membunyikan,verb,play,produce music using a musical instrument (transitive sense)
+bermusik,verb,play,produce music using a musical instrument (intransitive sense)
+bermain,verb,play,participate in (a sport or game)
+memutar,verb,play,use a device to watch or listen to the indicated recording
 pemain,noun,player,one who plays any game or sport
 pemutar,noun,player,software application
 titik,noun,point,geometry: zero-dimensional object
@@ -877,10 +1035,16 @@ populer,adj,popular,of or pertaining to the common people
 populer,adj,popular,aimed at the general public
 populer,adj,popular,adapted to the means of the common people; cheap
 populer,adj,popular,liked by many people
+pos,noun,post,assigned station
+kiriman,noun,post,individual message in a forum
 kentang,noun,potato,plant tuber eaten as starchy vegetable
 kentang,noun,potato,underpowered computer
 pon,noun,pound,unit of mass (16 ounces avoirdupois)
 paun,noun,pound,unit of currency
+latihan,noun,practice,repetition of an activity to improve skill
+praktik,noun,practice,ongoing pursuit of a craft or profession
+praktik,noun,practice,"actual operation or experiment, in contrast to theory"
+cantik,adj,pretty,"especially of women and children: pleasant, attractive"
 harga,noun,price,cost required to gain possession of something
 harga,noun,price,cost of an action or deed
 mungkin,adv,probably,in all likelihood
@@ -914,6 +1078,7 @@ pemancar radio,noun,radio,transmitter
 tetuang udara,noun,radio,transmitter
 tuang-tuang udara,noun,radio,transmitter
 jejaring radio,noun,radio,broadcasting of sound via the Internet
+hujan,noun,rain,condensed water from a cloud
 hujan,verb,rain,of rain: to fall from the sky
 baca,verb,read,to look at and interpret letters or other information
 baca,verb,read,to speak aloud words or other information that is written
@@ -933,6 +1098,7 @@ sebab,noun,reason,that which causes: a cause
 alasan,noun,reason,motive for an action or determination
 motif,noun,reason,motive for an action or determination
 beralasan,noun,reason,something reasonable
+merah,adj,red,having red as its colour
 merah,noun,red,colour
 ingat,verb,remember,to recall from one's memory
 mengulang,verb,repeat,do or say again
@@ -945,10 +1111,19 @@ akibat,noun,result,that which results
 buah,noun,result,"fruit, beneficial or tangible effect"
 hasil,noun,result,"fruit, beneficial or tangible effect"
 retur,noun,return,act of returning an item
+balik,verb,return,to come or go back
+membalik,verb,return,to come or go back
+pulang,verb,return,to come or go back
 padi,noun,rice,plants
 beras,noun,rice,seeds used as food
 nasi,noun,rice,seeds used as food
 kaya,adj,rich,having wealth
+lurus,adj,right,"straight, not bent"
+siku-siku,adj,right,"of an angle, 90 degrees"
+benar,adj,right,"complying with justice, correct — see also be right"
+betul,adj,right,"complying with justice, correct — see also be right"
+kanan,adj,right,"of direction, opposite of left"
+kanan,adj,right,politics: conservative
 hak,noun,right,legal or moral entitlement
 sayap kanan,noun,right,"right, not left, side"
 sayap kanan,noun,right,right-wing politicians and parties
@@ -971,6 +1146,8 @@ sedih,adj,sad,feeling sorrow
 salad,noun,salad,food
 garam,noun,salt,sodium chloride
 garam,noun,salt,compound of an acid and a base
+sama,adj,same,not different as regards self; identical
+serupa,adj,same,"similar, alike"
 roti apit,noun,sandwich,dish — see also open sandwich
 roti lapis,noun,sandwich,dish — see also open sandwich
 berkata,verb,say,"to say, to tell"
@@ -987,6 +1164,8 @@ departemen,noun,school,a department/institute at a college or university
 ilmu,noun,science,collective discipline of learning acquired through the scientific method
 ilmu pengetahuan,noun,science,collective discipline of learning acquired through the scientific method
 ilmuwan,noun,scientist,one whose activities make use of the scientific method
+kedua,adj,second,second (numeral) — see also 2nd
+kedua,adj,second,that comes after the first
 detik,noun,second,one-sixtieth of a minute; SI unit of time
 sekon,noun,second,one-sixtieth of a minute; SI unit of time
 detik,noun,second,unit of angular measure
@@ -1011,12 +1190,15 @@ pemalu,noun,sheep,one who behaves shyly
 baju,noun,shirt,article of clothing
 kemeja,noun,shirt,article of clothing
 sepatu,noun,shoe,protective covering for the foot
+toko,noun,shop,establishment that sells goods
+kedai,noun,shop,establishment that sells goods
 belanja,noun,shopping,activity of buying
 barang belanjaan,noun,shopping,things bought
 kependekan (dari),adj,short,constituting an abbreviation or shortened form
 pertunjukan,noun,show,entertainment
 acara,noun,show,broadcast program(me)
 programa,noun,show,broadcast program(me)
+tunjuk,verb,show,to display
 gerimis,noun,shower,brief fall of rain
 dus,noun,shower,device for bathing
 serupa,adj,similar,"having traits or characteristics in common; alike, comparable"
@@ -1051,6 +1233,7 @@ elegan,adj,smart,good-looking
 elok,adj,smart,good-looking
 necis,adj,smart,good-looking
 ular,noun,snake,legless reptile
+salju,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
 sangat,adv,so,very
 kadang,adv,sometimes,"on certain occasions, but not always"
 putra,noun,son,a male person in relation to his parents
@@ -1058,8 +1241,10 @@ putera,noun,son,a male person in relation to his parents
 lagu,noun,song,music with words
 tembang,noun,song,music with words
 segera,adv,soon,within a short time
+bunyi,noun,sound,sensation perceived by the ear
 sup,noun,soup,dish
 sop,noun,soup,dish
+selatan,noun,south,compass point
 antariksa,noun,space,area beyond atmosphere of planets
 spasi,noun,space,"gap between written characters, lines etc."
 berbicara,verb,speak,to communicate with one's voice using words
@@ -1086,6 +1271,7 @@ stasiun,noun,station,place where a vehicle may stop
 stasiun,noun,station,place used for broadcasting
 stasiun,noun,station,broadcasting entity
 masih,adv,still,"up to a time, as in the preceding time"
+berhenti,verb,stop,to cease moving
 cerita,noun,story,account of events
 kisah,noun,story,account of events
 jalan,noun,street,paved part of road in a village or a town
@@ -1097,6 +1283,7 @@ siswa,noun,student,person who studies a subject
 siswi,noun,student,person who studies a subject
 mahasiswa,noun,student,person enrolled at a university — see also university student
 mahasiswi,noun,student,person enrolled at a university — see also university student
+kajian,noun,study,branch of learning or object that is being studied
 belajar,verb,study,to revise/review materials
 mempelajari,verb,study,to revise/review materials
 mengkaji,verb,study,to revise/review materials
@@ -1146,12 +1333,15 @@ guru,noun,teacher,person who teaches
 pengajar,noun,teacher,person who teaches
 tim,noun,team,group of people
 remaja,noun,teenager,person aged between thirteen and nineteen
+telepon,noun,telephone,a device used for two-way talking with other people
+telefon,noun,telephone,a device used for two-way talking with other people
 menelepon,verb,telephone,to call someone
 memanggil,verb,telephone,to call someone
 televisi,noun,television,medium
 televisi,noun,television,device for receiving television signals
 kata,verb,tell,to pass information
 tenis,noun,tennis,sport played by two or four players with strung racquets
+tes,noun,test,"challenge, trial"
 teks,noun,text,a written passage
 teks,noun,text,"a book, tome or other set of writings"
 teater,noun,theater,place or building
@@ -1187,6 +1377,9 @@ lelah,adj,tired,in need of rest or sleep
 hak kebendaan,noun,title,right to ownership
 hak milik,noun,title,right to ownership
 judul,noun,title,"name of a book, etc"
+hari ini,adv,today,on the current day
+masa sekarang,adv,today,"nowadays — see also nowadays, these days"
+dewasa ini,adv,today,"nowadays — see also nowadays, these days"
 hari ini,noun,today,today (noun)
 bersama,adv,together,"at the same time, in the same place"
 sama-sama,adv,together,"at the same time, in the same place"
@@ -1198,8 +1391,11 @@ kloset,noun,toilet,"fixture used for urination and defecation — see also flush
 WC,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 tomat,noun,tomato,tomato plant
 tomat,noun,tomato,fruit
+esok,adv,tomorrow,on the day after the present day
+besok,adv,tomorrow,on the day after the present day
 besok,noun,tomorrow,the day after the present day
 esok,noun,tomorrow,the day after the present day
+nanti malam,adv,tonight,during today's evening
 juga,adv,too,likewise
 terlalu,adv,too,more than enough; as too much
 gigi,noun,tooth,anatomy: tooth
@@ -1222,6 +1418,10 @@ mencoba,verb,try,to attempt
 mencobai,verb,try,to put to test
 mencicipi,verb,try,"to taste, sample, etc"
 pas,noun,turn,chance to use (something) shared in sequence with others
+berbelok,verb,turn,move around an axis through itself
+berpaling,verb,turn,"change the direction or orientation of, especially by rotation"
+belok,verb,turn,change one's direction of travel
+ubah,verb,turn,become
 payung,noun,umbrella,cloth-covered frame used for protection against rain or sun
 paman,noun,uncle,brother (or brother-in-law) of someone’s parent
 om,noun,uncle,brother (or brother-in-law) of someone’s parent
@@ -1245,10 +1445,12 @@ video,noun,video,"television show, movie"
 video,noun,video,motion picture stored on VHS
 kaset video,noun,video,VHS
 kunjungan,noun,visit,single act of visiting
+kunjung,verb,visit,to go and meet (someone)
 pengunjung,noun,visitor,guest
 menunggu,verb,wait,delay until some event
 pelayan,noun,waiter,a server in a restaurant or similar
 bangun,verb,wake,to stop sleeping
+jalan,verb,walk,to move on the feet
 tembok,noun,wall,defensive rampart
 tembok,noun,wall,structure built for defense surrounding an area
 dinding,noun,wall,substantial structure acting as side or division in a building
@@ -1261,6 +1463,7 @@ panas,adj,warm,having a temperature slightly higher than usual
 hangat,adj,warm,being something that causes warmth
 mencuci,verb,wash,to clean with water
 jam tangan,noun,watch,portable or wearable timepiece
+menonton,verb,watch,to look at for a period of time
 air,noun,water,inorganic compound H₂O
 perairan,noun,water,"body of water, or specific part of it"
 jalan,noun,way,"road, direction, path"
@@ -1275,6 +1478,8 @@ minggu,noun,week,period of seven days
 pekan,noun,week,period of seven days
 akhir pekan,noun,weekend,break in the working week
 selamat datang,adj,welcome,whose arrival is a cause of joy
+menyambut,verb,welcome,affirm or greet the arrival of someone
+barat,noun,west,compass point
 kapan,adv,when,"at what time, as a direct question"
 kapan,adv,when,"at what time, as an indirect question"
 ketika,adv,when,"at which, on which, during which"
@@ -1286,6 +1491,9 @@ mana,adv,where,at or in which place
 di mana,adv,where,at or in which place
 ke mana,adv,where,at or in which place
 tempat,adv,where,the place in which
+putih,adj,white,bright and colourless
+bule,adj,white,of or relating to Caucasians
+orang kulit putih,adj,white,of or relating to Caucasians
 putih,noun,white,color
 orang kulit putih,noun,white,person of European descent
 bule,noun,white,person of European descent
@@ -1307,6 +1515,8 @@ firman,noun,word,the word of God
 kerjaan,noun,work,"labour, employment, occupation, job"
 pekerjaan,noun,work,"labour, employment, occupation, job"
 karya,noun,work,"literary, artistic, or intellectual production"
+bekerja,verb,work,to do a specific task
+memfungsikan,verb,work,to set into action
 buruh,noun,worker,person who performs labor
 pekerja,noun,worker,insect
 dunia,noun,world,human collective existence
@@ -1340,6 +1550,8 @@ tahun,noun,year,a period between set dates that mark a year
 tahun,noun,year,a scheduled part of a calendar year spent in a specific activity
 tahun,noun,year,a level or grade at school or college
 kelas,noun,year,a level or grade at school or college
+kuning,adj,yellow,having yellow as its color
 kuning,noun,yellow,color
+kemarin,adv,yesterday,on the day before today
 kemarin,noun,yesterday,day before today
 muda,adj,young,in the early part of life or growth

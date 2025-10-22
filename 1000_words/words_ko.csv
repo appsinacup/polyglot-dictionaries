@@ -101,6 +101,19 @@ word,part_of_speech,english_word,sense
 생물,noun,animal,organism
 동물,noun,animal,organism other than human
 생물,noun,animal,organism other than human
+대답,noun,answer,response
+회답,noun,answer,response
+응답,noun,answer,response
+답변,noun,answer,response
+답,noun,answer,response
+해답,noun,answer,solution
+정답,noun,answer,solution
+답안,noun,answer,solution
+답,noun,answer,solution
+대답,noun,answer,reply to email
+답변,noun,answer,reply to email
+회답,noun,answer,reply to email
+회신,noun,answer,reply to email
 대답(對答)하다,verb,answer,to make a reply or response to
 회답(回答)하다,verb,answer,to make a reply or response to
 회신(回信)하다,verb,answer,to make a reply or response to
@@ -178,6 +191,13 @@ word,part_of_speech,english_word,sense
 베이비,noun,baby,term of endearment — see also darling
 뒤로,adv,back,to or in a previous condition or place
 뒤로,adv,back,away from the front or from an edge
+등,noun,back,the rear of body
+뒤,noun,back,the reverse side
+뒤쪽,noun,back,the reverse side
+이면,noun,back,the reverse side
+리면,noun,back,the reverse side
+배후,noun,back,the reverse side
+뒤,noun,back,that which is farthest away from the front
 나쁘다,adj,bad,unfavorable; negative
 나쁜,adj,bad,unfavorable; negative
 가방,noun,bag,flexible container
@@ -252,6 +272,10 @@ word,part_of_speech,english_word,sense
 생신,noun,birthday,anniversary
 탄신,noun,birthday,anniversary
 생년월일,noun,birthday,date of birth — see also date of birth
+검다,adj,black,absorbing all light
+검은,adj,black,absorbing all light
+까맣다,adj,black,absorbing all light
+까만,adj,black,absorbing all light
 검정,noun,black,colour/color
 검은색,noun,black,colour/color
 흑색,noun,black,colour/color
@@ -259,6 +283,14 @@ word,part_of_speech,english_word,sense
 블로그,noun,blog,a personal or corporate website
 금발(金髮)의,adj,blond,of a pale golden colour
 금발(金髮)의,adj,blond,having blond hair
+푸르다,adj,blue,"blue-coloured — see also dark blue, light blue"
+파랗다,adj,blue,"blue-coloured — see also dark blue, light blue"
+우울하다,adj,blue,depressed
+슬프다,adj,blue,depressed
+아쉽다,adj,blue,depressed
+외설스럽다,adj,blue,pornographic
+도색적,adj,blue,pornographic
+원색적,adj,blue,pornographic
 파랑,noun,blue,colour
 파란색,noun,blue,colour
 배,noun,boat,water craft
@@ -291,6 +323,20 @@ word,part_of_speech,english_word,sense
 남사친,noun,boyfriend,male friend
 빵,noun,bread,baked dough made from cereals
 휴게,noun,break,"rest or pause, usually from work"
+부러지다,verb,break,intransitive: to separate into (to end up in) two or more pieces
+깨트리다,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+부러뜨리다,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+부수다,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+부러지다,verb,break,"intransitive, of a bone: to crack"
+부러뜨리다,verb,break,transitive: to cause (a bone) to crack
+깨다,verb,break,transitive: to do that which is forbidden by (something)
+잔꾀부리다,verb,break,"gaming: to design or make a powerful, unbalancing but legal move"
+부서지다,verb,break,intransitive: to stop functioning properly or altogether
+부수다,verb,break,transitive: to cause to stop functioning
+쉬다,verb,break,to interrupt or cease one's work or occupation temporarily
+까발리다,verb,break,to disclose or make known an item of news
+쉬다,verb,break,to win a game as receiver in tennis
+쉬다,verb,break,billiards: to make the first shot
 아침,noun,breakfast,first meal of the day
 아침밥,noun,breakfast,first meal of the day
 아침 식사,noun,breakfast,first meal of the day
@@ -307,6 +353,7 @@ word,part_of_speech,english_word,sense
 아우,noun,brother,male sibling
 브라더,noun,brother,male sibling
 오라버님,noun,brother,male sibling
+갈색의,adj,brown,having a brown colour
 갈색,noun,brown,colour
 만들다,verb,build,(transitive) to form by combining materials or parts
 짓다,verb,build,(transitive) to form by combining materials or parts
@@ -320,6 +367,8 @@ word,part_of_speech,english_word,sense
 사업,noun,business,commercial enterprise or establishment
 기업,noun,business,commercial enterprise or establishment
 업무,noun,business,commercial enterprise or establishment
+바쁜,adj,busy,doing a great deal
+바쁘다,adj,busy,doing a great deal
 버터,noun,butter,soft foodstuff made from milk
 빠다,noun,butter,soft foodstuff made from milk
 사다,verb,buy,to obtain something with money
@@ -331,6 +380,13 @@ word,part_of_speech,english_word,sense
 부름,noun,call,beckoning or summoning
 통화,noun,call,telephone conversation
 방문,noun,call,social visit
+부르다,verb,call,"to request, summon, or beckon"
+소리치다,verb,call,to cry or shout
+외치다,verb,call,to cry or shout
+전화하다,verb,call,to contact by telephone
+찾아가다,verb,call,to pay a social visit
+방문(訪問)하다,verb,call,to pay a social visit
+부르다,verb,call,to name or refer to
 카메라,noun,camera,still camera
 사진기,noun,camera,still camera
 비디오 카메라,noun,camera,movie camera
@@ -339,6 +395,8 @@ word,part_of_speech,english_word,sense
 못,verb,cannot,"cannot — see also can, not"
 ...수 없다,verb,cannot,"cannot — see also can, not"
 못하다,verb,cannot,"cannot — see also can, not"
+자본,noun,capital,money and wealth
+주두,noun,capital,uppermost part of a column
 자동차,noun,car,"automobile, a vehicle steered by a driver"
 차,noun,car,"automobile, a vehicle steered by a driver"
 카드,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
@@ -366,6 +424,14 @@ word,part_of_speech,english_word,sense
 거스름돈,noun,change,balance returned after a purchase
 잔돈,noun,change,balance returned after a purchase
 갈아탐,noun,change,a transfer between vehicles
+바뀌다,verb,change,to become something different
+변화하다,verb,change,to become something different
+변하다,verb,change,to become something different
+바꾸다,verb,change,to make something into something else
+변경하다,verb,change,to make something into something else
+갈아입다,verb,change,to replace one's own clothing
+갈아타다,verb,change,to transfer to another vehicle
+환승하다,verb,change,to transfer to another vehicle
 차트,noun,chart,non-narrative presentation of data
 도표,noun,chart,non-narrative presentation of data
 싸다,adj,cheap,low and/or reduced in price
@@ -405,6 +471,8 @@ word,part_of_speech,english_word,sense
 학년,noun,class,group of students who commenced or completed their education during a particular year
 교실,noun,classroom,room in a school
 교장,noun,classroom,room in a school
+깨끗하다,adj,clean,not dirty
+맑다,adj,clean,not dirty
 청소하다,verb,clean,(transitive) to remove dirt from a place or object
 청소하다,verb,clean,(transitive) to tidy up
 소제하다,verb,clean,(transitive) to tidy up
@@ -429,6 +497,10 @@ word,part_of_speech,english_word,sense
 커피,noun,coffee,beverage
 커피콩,noun,coffee,beans
 커피색,noun,coffee,colour
+차다,adj,cold,having a low temperature
+춥다,adj,cold,having a low temperature
+차갑다,adj,cold,having a low temperature
+춥다,adj,cold,of the weather
 추위,noun,cold,low temperature
 감기,noun,cold,illness
 고뿔,noun,cold,illness
@@ -472,7 +544,12 @@ word,part_of_speech,english_word,sense
 훌륭하다,adj,cool,"colloquial: being considered as ""popular"" by others"
 멋있다,adj,cool,colloquial: in fashion
 쿨하다,adj,cool,colloquial: in fashion
+옳다,adj,correct,free from error
+맞다,adj,correct,free from error
+바르다,adj,correct,free from error
+정확하다,adj,correct,free from error
 교정하다,verb,correct,to make something become right that was previously wrong
+비용,noun,cost,amount of money spent for a purpose
 들다,verb,cost,"to incur a charge, a price"
 나라,noun,country,region of land
 국가,noun,country,region of land
@@ -505,6 +582,10 @@ word,part_of_speech,english_word,sense
 끊다,verb,cut,to perform an incision
 아빠,noun,dad,informal: a father
 아버지,noun,dad,informal: a father
+춤,noun,dance,movements to music
+댄스,noun,dance,movements to music
+무용,noun,dance,movements to music
+춤추기,noun,dance,movements to music
 춤추다,verb,dance,move rhythmically to music
 추다,verb,dance,move rhythmically to music
 춤을 추다,verb,dance,move rhythmically to music
@@ -544,6 +625,14 @@ word,part_of_speech,english_word,sense
 기술,noun,description,account in words
 서술,noun,description,account in words
 설명,noun,description,account in words
+설계,noun,design,plan
+계획,noun,design,plan
+디자인,noun,design,plan
+무늬,noun,design,pattern
+설계,noun,design,composition
+의도,noun,design,intention
+모습,noun,design,appearance
+디자인,noun,design,art of designing
 책상,noun,desk,table for writing and reading
 대화,noun,dialogue,conversation or other discourse between individuals
 회화,noun,dialogue,conversation or other discourse between individuals
@@ -604,8 +693,18 @@ word,part_of_speech,english_word,sense
 따르다,verb,draw,to rely on
 드리우다,verb,draw,to close curtains etc.
 비기다,verb,draw,to end a game with neither side winning
+드레스,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+의복,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+원피스,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+의복,noun,dress,apparel or clothing
+옷,noun,dress,apparel or clothing
 입다,verb,dress,to put on clothes — see also get dressed
 옷을 입다,verb,dress,to put on clothes — see also get dressed
+음료,noun,drink,served beverage
+마실 것,noun,drink,served beverage
+음료수,noun,drink,served beverage
+술,noun,drink,served alcoholic beverage
+약주,noun,drink,served alcoholic beverage
 마시다,verb,drink,consume liquid through the mouth
 드시다,verb,drink,consume liquid through the mouth
 먹다,verb,drink,consume liquid through the mouth
@@ -626,8 +725,17 @@ word,part_of_speech,english_word,sense
 드라이버,noun,driver,golf club
 이삭,noun,ear,fruiting body of a grain plant
 귀,noun,ear,organ of hearing
+이르다,adj,early,at a time in advance of the usual
+빠르다,adj,early,at a time in advance of the usual
+이르다,adj,early,arriving at a time before expected
+빠르다,adj,early,arriving at a time before expected
+이르다,adj,early,near but after the start or beginning
+빠르다,adj,early,near but after the start or beginning
 일찍,adv,early,at a time before expected
 빨리,adv,early,at a time before expected
+동,noun,east,compass point
+새,noun,east,compass point
+동쪽),noun,east,compass point
 쉬운,adj,easy,requiring little skill or effort
 쉽다,adj,easy,requiring little skill or effort
 용이하다,adj,easy,requiring little skill or effort
@@ -644,6 +752,21 @@ word,part_of_speech,english_word,sense
 계란,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 달걀,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 코끼리,noun,elephant,mammal
+전자메일,noun,email,system for sending messages and datas by means of computers connected together in a network
+전자우편,noun,email,system for sending messages and datas by means of computers connected together in a network
+이메일,noun,email,system for sending messages and datas by means of computers connected together in a network
+전자메일,noun,email,message sent through email
+전자우편,noun,email,message sent through email
+이메일,noun,email,message sent through email
+메일,noun,email,message sent through email
+끝,noun,end,extreme part
+종료,noun,end,extreme part
+죽음,noun,end,death
+결말,noun,end,result
+결과,noun,end,result
+결론,noun,end,result
+도달점,noun,end,purpose
+목적,noun,end,purpose
 끝나다,verb,end,"intransitive: be finished, be terminated"
 마치다,verb,end,"intransitive: be finished, be terminated"
 끝내다,verb,end,"transitive: finish, terminate (something)"
@@ -681,6 +804,9 @@ word,part_of_speech,english_word,sense
 례,noun,example,something serving to explain or illustrate a rule
 흥분하다,adj,excited,having great enthusiasm and energy
 신나다,adj,excited,having great enthusiasm and energy
+연습,noun,exercise,any activity designed to develop or hone a skill or ability
+련습,noun,exercise,any activity designed to develop or hone a skill or ability
+운동,noun,exercise,physical activity intended to improve strength and fitness
 연습하다,verb,exercise,exert for the sake of training
 비싸다,adj,expensive,having a high price or cost
 설명하다,verb,explain,to make intelligible
@@ -710,11 +836,24 @@ word,part_of_speech,english_word,sense
 정보,noun,fact,information about a particular subject
 사실,noun,fact,information about a particular subject
 멸망,noun,fall,a period of decline before the end
+넘어지다,verb,fall,move to a lower position under the effect of gravity
+쓰러지다,verb,fall,move to a lower position under the effect of gravity
+떨어지다,verb,fall,move to a lower position under the effect of gravity
+하락하다,verb,fall,move to a lower position under the effect of gravity
+낙하하다,verb,fall,move to a lower position under the effect of gravity
 거짓,adj,false,"untrue, not factual, wrong"
+가족,noun,family,"immediate family [as a group], e.g. parents and their children"
+가정,noun,family,"immediate family [as a group], e.g. parents and their children"
+친척,noun,family,"group of people related by blood, marriage, law, or custom"
+친족,noun,family,"group of people related by blood, marriage, law, or custom"
+가정,noun,family,"group of people related by blood, marriage, law, or custom"
+과,noun,family,"rank in a taxonomic classification, above both genus and species"
+어족,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
 유명한,adj,famous,well known
 농장,noun,farm,place where agricultural activities take place
 농부,noun,farmer,person who works the land and/or who keeps livestock
 농사꾼,noun,farmer,person who works the land and/or who keeps livestock
+빠르다,adj,fast,moving or capable of moving with great speed
 빨리,adv,fast,with great speed
 뚱뚱하다,adj,fat,carrying a larger than normal amount of fat on one's body
 두껍다,adj,fat,thick
@@ -778,6 +917,10 @@ word,part_of_speech,english_word,sense
 잊다,verb,forget,to lose remembrance of
 잊어버리다,verb,forget,to lose remembrance of
 까먹다,verb,forget,to lose remembrance of
+형상,noun,form,shape or visible structure
+형식,noun,form,shape or visible structure
+용지,noun,form,document to be filled in
+표,noun,form,document to be filled in
 자유,adj,free,not imprisoned
 자유적(自由的)이다,adj,free,unconstrained
 막힘없다,adj,free,unobstructed
@@ -789,6 +932,10 @@ word,part_of_speech,english_word,sense
 벗,noun,friend,person whose company one enjoys
 친절하다,adj,friendly,"approachable, warm"
 앞의,adj,front,located at or near the front
+앞,noun,front,facing side
+정면,noun,front,main entrance side
+전선,noun,front,military: area or line of conflict
+전선,noun,front,military: area or line of conflict
 과일,noun,fruit,part of plant
 과일,noun,fruit,food
 성과,noun,fruit,figuratively: positive end result or reward of labour or effort
@@ -855,6 +1002,8 @@ word,part_of_speech,english_word,sense
 외할아버지,noun,grandfather,grandfather (from either side)
 할머니,noun,grandmother,mother of someone's parent
 외할머니,noun,grandmother,mother of someone's parent
+회색(灰色)의,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+잿빛의,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 회색,noun,gray,colour
 크다,adj,great,"very big, large scale"
 거대하다,adj,great,"very big, large scale"
@@ -864,6 +1013,12 @@ word,part_of_speech,english_word,sense
 근사하다,adj,great,very good
 멋지다,adj,great,very good
 위대하다,adj,great,important title
+녹색의,adj,green,having green as its colour
+초록의,adj,green,having green as its colour
+비리비리하다,adj,green,sickly
+풋내기,adj,green,inexperienced
+생의,adj,green,"of bacon, etc.: unprocessed, raw"
+설익다,adj,green,of fruit: unripe
 초록,noun,green,colour
 녹색,noun,green,colour
 록색,noun,green,colour
@@ -874,6 +1029,7 @@ word,part_of_speech,english_word,sense
 군,noun,group,number of things or persons being in some relation to each other
 자라다,verb,grow,(intransitive) to become bigger
 추측,noun,guess,prediction about the outcome of something
+추측하다,verb,guess,to reach an unconfirmed conclusion
 기타,noun,guitar,musical instrument
 체육관,noun,gym,sporting facility specialized for lifting weights and exercise
 헬스장,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -895,6 +1051,9 @@ word,part_of_speech,english_word,sense
 기쁘다,adj,happy,"contented, joyous"
 운좋은,adj,happy,"fortunate, lucky"
 만족하다,adj,happy,content (to do something); having no objection (to something)
+딱딱하다,adj,hard,resistant to pressure
+단단하다,adj,hard,resistant to pressure
+어렵다,adj,hard,requiring a lot of effort to do or understand
 모자,noun,hat,a head covering
 싫어하다,verb,hate,to dislike intensely
 미워하다,verb,hate,to dislike intensely
@@ -919,6 +1078,7 @@ word,part_of_speech,english_word,sense
 도우미,noun,help,person or persons who provides assistance with some task
 조수,noun,help,person or persons who provides assistance with some task
 도움말,noun,help,textual support of a software application
+돕다,verb,help,transitive: provide assistance to (someone or something)
 여기,adv,here,"in, on, or at this place"
 이리,adv,here,to this place
 이쪽으로,adv,here,to this place
@@ -934,6 +1094,9 @@ word,part_of_speech,english_word,sense
 집에,adv,home,at home
 집에,adv,home,homewards
 집으로,adv,home,homewards
+집,noun,home,house or structure in which someone lives
+댁,noun,home,house or structure in which someone lives
+고향,noun,home,someone’s native land
 숙제,noun,homework,work that is done at home
 바라다,verb,hope,"to want something to happen, with expectation that it might"
 희망하다,verb,hope,"to want something to happen, with expectation that it might"
@@ -993,10 +1156,23 @@ word,part_of_speech,english_word,sense
 포함하다,verb,include,"to contain, as part of a whole"
 안내,noun,information,communicable knowledge
 정보,noun,information,communicable knowledge
+이자,noun,interest,finance: price of credit
+리자,noun,interest,finance: price of credit
+이식,noun,interest,finance: price of credit
+리식,noun,interest,finance: price of credit
+흥미,noun,interest,great attention and concern from someone
+관심,noun,interest,great attention and concern from someone
+흥미,noun,interest,attention that is given to or received from someone or something
+관심,noun,interest,attention that is given to or received from someone or something
+이익,noun,interest,"involvement in or link with financial, business, or other undertaking"
+리익,noun,interest,"involvement in or link with financial, business, or other undertaking"
 흥미를 끌다,verb,interest,to attract attention or concern
 흥미롭다,adj,interesting,arousing or holding the attention
 관심있는,adj,interesting,arousing or holding the attention
 재미있다,adj,interesting,arousing or holding the attention
+인터뷰,noun,interview,conversation with journalist etc.
+면담,noun,interview,conversation with journalist etc.
+면접,noun,interview,a formal meeting for the assessment of a candidate or applicant
 면접하다,verb,interview,to have an interview
 소개(紹介)하다,verb,introduce,to cause someone to be acquainted
 섬,noun,island,area of land completely surrounded by water
@@ -1030,6 +1206,12 @@ word,part_of_speech,english_word,sense
 참다,verb,keep,to restrain
 계속하다,verb,keep,to continue
 기르다,verb,keep,of livestock: to raise; to care for
+열쇠,noun,key,device designed to open and close a lock
+키,noun,key,button on a typewriter or computer keyboard
+버튼,noun,key,button on a typewriter or computer keyboard
+건반,noun,key,part of a piano or musical keyboard
+키,noun,key,part of a piano or musical keyboard
+조,noun,key,scale of musical notes
 종류,noun,kind,"type, race, category"
 부엌,noun,kitchen,room
 주방,noun,kitchen,room
@@ -1059,6 +1241,8 @@ word,part_of_speech,english_word,sense
 단어,noun,language,particular words used
 언어,noun,language,computer language — see also computer language
 크다,adj,large,of greater size — see also big
+늦다,adj,late,near the end of a period of time
+지각,adj,late,not arriving until after an expected time
 늦다,adv,late,past a designated time
 지각하다,adv,late,past a designated time
 후에,adv,later,more late
@@ -1066,11 +1250,16 @@ word,part_of_speech,english_word,sense
 나중에,adv,later,afterward in time
 웃음,noun,laugh,expression of mirth peculiar to the human species
 웃음소리,noun,laugh,expression of mirth peculiar to the human species
+웃다,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
 배우다,verb,learn,to acquire knowledge or ability
 떠나다,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 나가다,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 방치하다,verb,leave,"to cause to remain as available, not take away, refrain from depleting"
 떠나다,verb,leave,to depart (intransitive)
+왼,adj,left,west side of the body when one is facing north
+왼쪽,adj,left,west side of the body when one is facing north
+왼쪽에,adv,left,on the left side
+왼쪽으로,adv,left,towards the left side
 왼쪽,noun,left,the left side
 좌측,noun,left,the left side
 좌익,noun,left,the ensemble of left-wing political parties
@@ -1115,6 +1304,11 @@ word,part_of_speech,english_word,sense
 가볍다,adj,light,of low weight
 경량(輕量)의,adj,light,of low weight
 저(低)하다,adj,light,"low in fat, calories, alcohol, salt, etc."
+빛,noun,light,electromagnetic waves
+광,noun,light,electromagnetic waves
+불,noun,light,source of illumination
+빛,noun,light,spiritual illumination
+불,noun,light,flame or something used to create fire
 좋아하다,verb,like,to enjoy
 좋아하다,verb,like,to find attractive
 좋아요하다,verb,like,"to show support for, or approval of, something posted on the Internet by marking it with a vote"
@@ -1124,6 +1318,9 @@ word,part_of_speech,english_word,sense
 라인,noun,line,"path through two or more points, threadlike mark"
 행,noun,line,"single horizontal row of text on a screen, printed paper, etc."
 사자,noun,lion,big cat Panthera leo
+명부,noun,list,enumeration or compilation of items
+목록,noun,list,enumeration or compilation of items
+표,noun,list,enumeration or compilation of items
 듣다,verb,listen,to pay attention to a sound
 듣다,verb,listen,to expect or wait for a sound
 듣다,verb,listen,to accept advice or obey instruction
@@ -1134,6 +1331,8 @@ word,part_of_speech,english_word,sense
 살다,verb,live,have permanent residence
 거주하다,verb,live,have permanent residence
 지방의,adj,local,of a nearby location
+길다,adj,long,having much distance from one point to another
+오래되다,adj,long,having great duration
 길게,adv,long,over a great distance
 멀리,adv,long,over a great distance
 오래,adv,long,for a long duration
@@ -1148,6 +1347,10 @@ word,part_of_speech,english_word,sense
 여위다,verb,lose,shed (weight)
 살이 빠지다,verb,lose,shed (weight)
 지다,verb,lose,fail to be the winner
+사랑,noun,love,strong affection
+애정,noun,love,strong affection
+연인,noun,love,object of one's romantic feelings; darling or sweetheart
+자기,noun,love,object of one's romantic feelings; darling or sweetheart
 사랑하다,verb,love,have a strong affection for
 애정을 품다,verb,love,have a strong affection for
 좋아하다,verb,love,be strongly inclined towards doing
@@ -1193,6 +1396,9 @@ word,part_of_speech,english_word,sense
 마켓,noun,market,group of potential customers
 시장,noun,market,geographical area where a commercial demand exists
 마켓,noun,market,geographical area where a commercial demand exists
+경기,noun,match,sporting event
+시합,noun,match,sporting event
+성냥,noun,match,device to make fire
 맞다,verb,match,intransitive: to agree; to be equal
 맞추다,verb,match,intransitive: to agree; to be equal
 아마,adv,maybe,indicating a lack of certainty
@@ -1331,6 +1537,12 @@ word,part_of_speech,english_word,sense
 -어야 되다,verb,must,be required to
 -겠-,verb,must,"said about something that is very likely, probable, or certain to be true"
 -을 것이다,verb,must,"said about something that is very likely, probable, or certain to be true"
+이름,noun,name,"word or phrase indicating a particular person, place, class or thing"
+성함,noun,name,"word or phrase indicating a particular person, place, class or thing"
+명칭,noun,name,"word or phrase indicating a particular person, place, class or thing"
+평판,noun,name,reputation — see also reputation
+명성,noun,name,reputation — see also reputation
+세평,noun,name,reputation — see also reputation
 이름짓다,verb,name,to give a name to
 고르다,verb,name,"to mention, specify"
 선택하다,verb,name,"to mention, specify"
@@ -1340,6 +1552,7 @@ word,part_of_speech,english_word,sense
 자연의,adj,natural,of or relating to nature
 자연스럽다,adj,natural,without additives
 자연스럽다,adj,natural,as expected
+가깝다,adj,near,physically close
 가까이,adv,near,at or towards a position close in space or time
 필요하다,verb,need,to have an absolute requirement for
 요하다,verb,need,to have an absolute requirement for
@@ -1364,11 +1577,15 @@ word,part_of_speech,english_word,sense
 기사,noun,news,reports of current events
 보도,noun,news,reports of current events
 신문,noun,newspaper,publication
+다음의,adj,next,following in a sequence
 좋은,adj,nice,"pleasant, satisfactory"
 착하다,adj,nice,"attractive, friendly"
 밤,noun,night,period between sunset and sunrise
 박,noun,night,night spent away from home
 황혼,noun,night,nightfall
+북,noun,north,compass point
+북쪽,noun,north,compass point
+북방,noun,north,compass point
 코,noun,nose,protuberance on the face
 코,noun,nose,"snout, nose of an animal"
 코,noun,nose,tip of an object
@@ -1435,16 +1652,32 @@ word,part_of_speech,english_word,sense
 먹었다,adj,old,having existed or lived for the specified time
 한 번,adv,once,one and only one time
 양파,noun,onion,Allium cepa
+유일한,adj,only,alone in a category
+하나밖에 없는,adj,only,alone in a category
 ...만,adv,only,without others or anything further; exclusively
 오직,adv,only,without others or anything further; exclusively
 겨우,adv,only,no more than
 고작,adv,only,no more than
+연,adj,open,not closed
 열다,verb,open,to make something accessible
 펴다,verb,open,to make something accessible
 열리다,verb,open,to become open
 의견,noun,opinion,thought a person has formed about a topic
 견해,noun,opinion,thought a person has formed about a topic
+반대의,adj,opposite,located directly across from
 주황색(朱黃色)의,adj,orange,having the colour of the fruit of an orange tree
+오렌지나무,noun,orange,tree
+오렌지,noun,orange,fruit
+주황색,noun,orange,colour
+오렌지색,noun,orange,colour
+순서,noun,order,"arrangement, disposition"
+질서,noun,order,"arrangement, disposition"
+질서,noun,order,good arrangement
+명령,noun,order,command
+주문,noun,order,request for some product or service
+기사단,noun,order,society of knights
+훈장,noun,order,awarded decoration
+목,noun,order,biology: taxonomical classification
 정리하다,verb,order,to set in (a good) order
 명령하다,verb,order,to issue a command
 명하다,verb,order,to issue a command
@@ -1457,6 +1690,8 @@ word,part_of_speech,english_word,sense
 쪽,noun,page,one side of a leaf of a book
 페인트,noun,paint,substance
 도료,noun,paint,substance
+칠하다,verb,paint,to apply paint to
+그리다,verb,paint,to practise the art of painting pictures
 한쌍,noun,pair,two similar or identical things
 켤레,noun,pair,two similar or identical things
 페어,noun,pair,two similar or identical things
@@ -1475,6 +1710,8 @@ word,part_of_speech,english_word,sense
 어버이,noun,parent,person from whom one is descended
 부모님,noun,parent,person from whom one is descended
 보호자,noun,parent,person who acts as a parent in rearing a child — see also guardian
+경기장,noun,park,"ground for preservation of game, etc."
+공원,noun,park,ground for recreation
 주차하다,verb,park,bring (a vehicle) to a halt
 부분,noun,part,fraction of a whole
 일부,noun,part,fraction of a whole
@@ -1490,6 +1727,10 @@ word,part_of_speech,english_word,sense
 여권,noun,passport,official document for foreign travel
 려권,noun,passport,official document for foreign travel
 패스포트,noun,passport,official document for foreign travel
+지나다,adj,past,having already happened; in the past
+지나가다,adj,past,having already happened; in the past
+이전(以前)의,adj,past,of a period of time: having just gone by
+과거(過去)의,adj,past,grammar: expressing action that has already happened
 과거,noun,past,period of time that has already happened
 과거형,noun,past,(grammar) past tense
 과거 시제,noun,past,(grammar) past tense
@@ -1555,6 +1796,8 @@ word,part_of_speech,english_word,sense
 피스,noun,piece,chess: figure other than pawn; similar counter in other games
 작품,noun,piece,artistic creation
 돼지,noun,pig,mammal of genus Sus
+핑크,adj,pink,colored/coloured between red and white
+분홍빛,adj,pink,colored/coloured between red and white
 분홍색,noun,pink,pale red colour
 핑크,noun,pink,pale red colour
 장소,noun,place,"location, position"
@@ -1566,6 +1809,10 @@ word,part_of_speech,english_word,sense
 곳,noun,place,any area of the earth
 자리,noun,place,"area one occupies, particularly for sitting"
 좌석,noun,place,"area one occupies, particularly for sitting"
+설계도,noun,plan,technical drawing
+도해,noun,plan,technical drawing
+계획,noun,plan,set of intended actions
+평면도,noun,plan,2-dimensional drawing from above
 계획하다,verb,plan,to create a plan for
 의도하다,verb,plan,to intend
 작정하다,verb,plan,to intend
@@ -1583,6 +1830,9 @@ word,part_of_speech,english_word,sense
 놀이,noun,play,playful activity
 연극,noun,play,theatrical performance
 희곡,noun,play,theatrical performance
+놀다,verb,play,act in a manner such that one has fun
+치다,verb,play,produce music using a musical instrument (transitive sense)
+연기를 하다,verb,play,act in a performance
 선수,noun,player,one who plays any game or sport
 플레이어,noun,player,one who plays any game or sport
 플레이어,noun,player,electronic device
@@ -1600,15 +1850,30 @@ word,part_of_speech,english_word,sense
 확실한,adj,positive,legal: formally laid down
 양,adj,positive,mathematics: greater than zero
 가능하다,adj,possible,able but not certain to happen
+기둥,noun,post,long dowel or plank protruding from the ground
+우편,noun,post,method of delivering mail
+게시물,noun,post,individual message in a forum
 감자,noun,potato,plant tuber eaten as starchy vegetable
 파운드,noun,pound,unit of mass (16 ounces avoirdupois)
 파운드,noun,pound,unit of currency
+연습,noun,practice,repetition of an activity to improve skill
+련습,noun,practice,repetition of an activity to improve skill
+업무,noun,practice,ongoing pursuit of a craft or profession
+의식,noun,practice,observance of religious duties
+관습,noun,practice,"customary action, habit, or behaviour"
+관행,noun,practice,"customary action, habit, or behaviour"
+습관,noun,practice,"customary action, habit, or behaviour"
 더 좋아하다,verb,prefer,to favor
 선호(選好)하다,verb,prefer,to favor
 준비하다,verb,prepare,to make ready for a specific future purpose
 마견하다,verb,prepare,to make ready for a specific future purpose
 준비하다,verb,prepare,to make oneself ready
+현재(現在)의,adj,present,pertaining to the current time
+출석하다,adj,present,in the immediate vicinity
 현재,noun,present,current time
+예쁜,adj,pretty,"especially of women and children: pleasant, attractive"
+예쁘다,adj,pretty,"especially of women and children: pleasant, attractive"
+아름답다,adj,pretty,"especially of women and children: pleasant, attractive"
 값,noun,price,cost required to gain possession of something
 가격,noun,price,cost required to gain possession of something
 품삯,noun,price,cost of an action or deed
@@ -1632,6 +1897,7 @@ word,part_of_speech,english_word,sense
 계획,noun,project,planned endeavor
 사업,noun,project,planned endeavor
 프로젝트,noun,project,planned endeavor
+보라색의,adj,purple,colour
 자주색,noun,purple,colour
 보라색,noun,purple,colour
 두다,verb,put,to place something somewhere
@@ -1660,6 +1926,8 @@ word,part_of_speech,english_word,sense
 무선,noun,radio,receiver
 라지오,noun,radio,receiver
 라디오 수신기,noun,radio,receiver
+비,noun,rain,condensed water from a cloud
+비,noun,rain,any matter falling
 오다,verb,rain,of rain: to fall from the sky
 읽다,verb,read,to look at and interpret letters or other information
 읽다,verb,read,to speak aloud words or other information that is written
@@ -1691,6 +1959,9 @@ word,part_of_speech,english_word,sense
 원인,noun,reason,that which causes: a cause
 이성,noun,reason,(the capacity of the human mind for) rational thinking
 이치,noun,reason,(the capacity of the human mind for) rational thinking
+빨갛다,adj,red,having red as its colour
+붉다,adj,red,having red as its colour
+좌익,adj,red,"left-wing, socialist or communist"
 빨강,noun,red,colour
 빨간색,noun,red,colour
 공산주의자,noun,red,"socialist, communist"
@@ -1713,6 +1984,8 @@ word,part_of_speech,english_word,sense
 음식점,noun,restaurant,an eating establishment in which diners are served food
 결과,noun,result,that which results
 성과,noun,result,"fruit, beneficial or tangible effect"
+돌아가다,verb,return,to come or go back
+돌아오다,verb,return,to come or go back
 벼,noun,rice,plants
 쌀,noun,rice,seeds used as food
 밥,noun,rice,seeds used as food
@@ -1723,6 +1996,14 @@ word,part_of_speech,english_word,sense
 타다,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 말을 타다,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 타다,verb,ride,to be transported in a vehicle as a passenger
+곧다,adj,right,"straight, not bent"
+곧다,adj,right,"of an angle, 90 degrees"
+옳다,adj,right,"complying with justice, correct — see also be right"
+바르다,adj,right,"complying with justice, correct — see also be right"
+오른,adj,right,"of direction, opposite of left"
+바른,adj,right,"of direction, opposite of left"
+우익,adj,right,politics: conservative
+오른쪽에,adv,right,on the right side
 권리,noun,right,legal or moral entitlement
 오른쪽,noun,right,"right, not left, side"
 우익,noun,right,right-wing politicians and parties
@@ -1765,6 +2046,8 @@ word,part_of_speech,english_word,sense
 소금,noun,salt,sodium chloride
 염,noun,salt,sodium chloride
 염,noun,salt,compound of an acid and a base
+똑같다,adj,same,not different as regards self; identical
+같다,adj,same,"similar, alike"
 샌드위치,noun,sandwich,dish — see also open sandwich
 겹빵이,noun,sandwich,dish — see also open sandwich
 말하다,verb,say,"to say, to tell"
@@ -1786,6 +2069,8 @@ word,part_of_speech,english_word,sense
 지식,noun,science,fact of knowing something
 지식,noun,science,knowledge gained through study or practice
 과학자,noun,scientist,one whose activities make use of the scientific method
+둘째,adj,second,second (numeral) — see also 2nd
+두 번째,adj,second,second (numeral) — see also 2nd
 초,noun,second,one-sixtieth of a minute; SI unit of time
 부분,noun,section,"cutting, part cut out"
 부분,noun,section,"part, piece or subdivision of anything"
@@ -1813,6 +2098,12 @@ word,part_of_speech,english_word,sense
 남방,noun,shirt,article of clothing
 신발,noun,shoe,protective covering for the foot
 신,noun,shoe,protective covering for the foot
+가게,noun,shop,establishment that sells goods
+상점,noun,shop,establishment that sells goods
+판매점,noun,shop,establishment that sells goods
+점포,noun,shop,establishment that sells goods
+숍,noun,shop,establishment that sells goods
+스토아,noun,shop,establishment that sells goods
 쇼핑하다,verb,shop,to visit shops
 장보다,verb,shop,to visit shops
 쇼핑,noun,shopping,activity of buying
@@ -1828,6 +2119,8 @@ word,part_of_speech,english_word,sense
 전시회,noun,show,exhibition — see also exhibition
 쇼,noun,show,broadcast program(me)
 프로그램,noun,show,broadcast program(me)
+전시하다,verb,show,to display
+보이다,verb,show,to display
 소나기,noun,shower,brief fall of rain
 샤워,noun,shower,device for bathing
 샤워기,noun,shower,device for bathing
@@ -1875,6 +2168,10 @@ word,part_of_speech,english_word,sense
 영리하다,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 머리가 좋다,adj,smart,"exhibiting intellectual knowledge, such as that found in books"
 뱀,noun,snake,legless reptile
+눈,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+강설,noun,snow,instance of the falling of snow — see also snowfall
+설백,noun,snow,white color of snow
+스노우화면,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
 눈이 내리다,verb,snow,have snow fall from the atmosphere
 눈이 오다,verb,snow,have snow fall from the atmosphere
 너무,adv,so,very
@@ -1894,11 +2191,16 @@ word,part_of_speech,english_word,sense
 죄송하다,adj,sorry,"repentant, apologetic"
 미안하다,adj,sorry,"repentant, apologetic"
 안타깝다,adj,sorry,"grieved, saddened"
+소리,noun,sound,sensation perceived by the ear
+음,noun,sound,sensation perceived by the ear
 울리다,verb,sound,to produce a sound
 소리를 내다,verb,sound,to cause to produce a sound
 국,noun,soup,dish
 탕,noun,soup,dish
 수프,noun,soup,dish
+남,noun,south,compass point
+남쪽,noun,south,compass point
+앞,noun,south,compass point
 공간,noun,space,physical extent in two or three dimensions
 우주,noun,space,area beyond atmosphere of planets
 공간,noun,space,bounded or specific physical extent
@@ -1963,6 +2265,12 @@ word,part_of_speech,english_word,sense
 아직,adv,still,"up to a time, as in the preceding time"
 계속,adv,still,"up to a time, as in the preceding time"
 정류장,noun,stop,place to get on and off mass transport
+그치다,verb,stop,to cease moving
+정지하다,verb,stop,to cease moving
+서다,verb,stop,to cease moving
+멈추다,verb,stop,to cease moving
+그치다,verb,stop,"not to continue — see also cease, desist"
+멈추다,verb,stop,to cause to cease moving
 창고,noun,store,place where items may be kept
 이야기,noun,story,account of events
 소설,noun,story,account of events
@@ -1983,6 +2291,9 @@ word,part_of_speech,english_word,sense
 굳세다,adj,strong,military: not easily subdued or taken
 학생,noun,student,person who studies a subject
 학생,noun,student,person enrolled at a university — see also university student
+학습,noun,study,mental effort to acquire knowledge
+공부,noun,study,mental effort to acquire knowledge
+서재,noun,study,room in a house intended for reading and writing
 공부하다,verb,study,to take a course
 공부하다,verb,study,to acquire knowledge
 배우다,verb,study,to acquire knowledge
@@ -2067,6 +2378,7 @@ word,part_of_speech,english_word,sense
 틴에이저,noun,teenager,person aged between thirteen and nineteen
 십대,noun,teenager,person aged between thirteen and nineteen
 10대,noun,teenager,person aged between thirteen and nineteen
+전화,noun,telephone,a device used for two-way talking with other people
 전화를 걸다,verb,telephone,to call someone
 전화하다,verb,telephone,to call someone
 텔레비전,noun,television,medium
@@ -2090,6 +2402,11 @@ word,part_of_speech,english_word,sense
 테니스,noun,tennis,sport played by two or four players with strung racquets
 정구,noun,tennis,sport played by two or four players with strung racquets
 끔찍하다,adj,terrible,dreadful; causing alarm or fear
+검사,noun,test,"challenge, trial"
+시험,noun,test,academics: examination
+테스트,noun,test,academics: examination
+테스트,noun,test,product examination
+검사,noun,test,product examination
 시험하다,verb,test,to administer an examination during the academic term
 텍스트,noun,text,a written passage
 본문,noun,text,a written passage
@@ -2146,6 +2463,9 @@ word,part_of_speech,english_word,sense
 표제,noun,title,subject of a writing
 표제,noun,title,subject of a writing
 서명,noun,title,subject of a writing
+오늘,adv,today,on the current day
+금일,adv,today,on the current day
+오늘날,adv,today,"nowadays — see also nowadays, these days"
 오늘,noun,today,today (noun)
 금일,noun,today,today (noun)
 함께,adv,together,"at the same time, in the same place"
@@ -2157,8 +2477,12 @@ word,part_of_speech,english_word,sense
 토마토,noun,tomato,fruit
 도마도,noun,tomato,fruit
 일년감,noun,tomato,fruit
+내일,adv,tomorrow,on the day after the present day
+래일,adv,tomorrow,on the day after the present day
 내일,noun,tomorrow,the day after the present day
 명일,noun,tomorrow,the day after the present day
+오늘 저녁,adv,tonight,during today's nighttime
+오늘 밤,adv,tonight,during today's nighttime
 오늘저녁,noun,tonight,nighttime today
 오늘밤,noun,tonight,nighttime today
 -도,adv,too,likewise
@@ -2191,6 +2515,7 @@ word,part_of_speech,english_word,sense
 행렬,noun,train,"group of animals, vehicles, or people"
 여행,noun,travel,act of traveling
 려행,noun,travel,act of traveling
+여행(旅行)하다,verb,travel,be on a journey
 나무,noun,tree,large woody plant
 트리,noun,tree,(graph theory) connected graph with no cycles
 나무,noun,tree,(graph theory) connected graph with no cycles
@@ -2217,6 +2542,11 @@ word,part_of_speech,english_word,sense
 차례,noun,turn,chance to use (something) shared in sequence with others
 차례,noun,turn,spell of work
 차례,noun,turn,one's chance to make a move in a game
+돌다,verb,turn,move around an axis through itself
+돌다,verb,turn,"change the direction or orientation of, especially by rotation"
+돌리다,verb,turn,"change the direction or orientation of, especially by rotation"
+구부러지다,verb,turn,change one's direction of travel
+돌다,verb,turn,change one's direction of travel
 두번,adv,twice,two times
 유형,noun,type,grouping based on shared characteristics
 종류,noun,type,grouping based on shared characteristics
@@ -2263,6 +2593,8 @@ word,part_of_speech,english_word,sense
 왕방,noun,visit,single act of visiting
 내방,noun,visit,single act of visiting
 래방,noun,visit,single act of visiting
+방문하다,verb,visit,to go and meet (someone)
+찾아가다,verb,visit,to go and meet (someone)
 방문객,noun,visitor,guest
 손님,noun,visitor,guest
 관광객,noun,visitor,sightseer
@@ -2275,6 +2607,13 @@ word,part_of_speech,english_word,sense
 을 깨우다,verb,wake,to make somebody stop sleeping
 산책,noun,walk,trip made by walking
 걸음새,noun,walk,manner of walking
+걷다,verb,walk,to move on the feet
+가다,verb,walk,to move on the feet
+걸어가다,verb,walk,to move on the feet
+걸어가다,verb,walk,to travel a distance by walking
+거닐다,verb,walk,to take for a walk
+사구,verb,walk,baseball: to allow to advance after four balls
+무두질하다,verb,walk,to full cloth
 벽,noun,wall,defensive rampart
 성벽,noun,wall,defensive rampart
 벽,noun,wall,structure built for defense surrounding an area
@@ -2289,6 +2628,9 @@ word,part_of_speech,english_word,sense
 씻다,verb,wash,to clean with water
 시계,noun,watch,portable or wearable timepiece
 워치,noun,watch,portable or wearable timepiece
+관찰하다,verb,watch,to look at for a period of time
+보다,verb,watch,to look at for a period of time
+관찰하다,verb,watch,to observe
 물,noun,water,inorganic compound H₂O
 길,noun,way,"road, direction, path"
 방법,noun,way,method or manner
@@ -2304,13 +2646,31 @@ word,part_of_speech,english_word,sense
 주일,noun,week,period of seven days
 주말,noun,weekend,break in the working week
 환영,adj,welcome,whose arrival is a cause of joy
+환영하다,verb,welcome,affirm or greet the arrival of someone
 건강하다,adj,well,in good health
+잘,adv,well,accurately; competently
+되게,adv,well,accurately; competently
+꽤,adv,well,completely; fully
+잘,adv,well,to a significant degree
+어느 정도,adv,well,to a significant degree
+겁나 잘,adv,well,(slang) very
+존나 잘,adv,well,(slang) very
+ㅈㄴ 잘,adv,well,(slang) very
+레알,adv,well,(slang) very
+ㄹㅇ,adv,well,(slang) very
+서,noun,west,compass point
+하늬,noun,west,compass point
+서쪽,noun,west,compass point
 언제,adv,when,"at what time, as a direct question"
 어디,adv,where,at what place; to what place; from what place
 하처,adv,where,at what place; to what place; from what place
 어디,adv,where,at or in which place
 -으로,adv,where,to which place or situation
 어디든지,adv,where,wherever
+희다,adj,white,bright and colourless
+흰,adj,white,bright and colourless
+하얗다,adj,white,bright and colourless
+하얀,adj,white,bright and colourless
 하양,noun,white,color
 흰색,noun,white,color
 백색,noun,white,color
@@ -2373,6 +2733,7 @@ word,part_of_speech,english_word,sense
 작,noun,work,result of a particular manner of production
 작품,noun,work,"literary, artistic, or intellectual production"
 저작,noun,work,"literary, artistic, or intellectual production"
+일하다,verb,work,to do a specific task
 노동자,noun,worker,person who performs labor
 로동자,noun,worker,person who performs labor
 근로자,noun,worker,person who performs labor
@@ -2409,8 +2770,14 @@ word,part_of_speech,english_word,sense
 연,noun,year,time it takes for the Earth to complete one revolution around the Sun
 해,noun,year,time it takes for the Earth to complete one revolution around the Sun
 학년,noun,year,a level or grade at school or college
+노란,adj,yellow,having yellow as its color
+노랗다,adj,yellow,having yellow as its color
+겁많은,adj,yellow,lacking courage
+겁많다,adj,yellow,lacking courage
 황색,noun,yellow,color
 노랑,noun,yellow,color
+어제,adv,yesterday,on the day before today
+작일,adv,yesterday,on the day before today
 어제,noun,yesterday,day before today
 작일,noun,yesterday,day before today
 어리다,adj,young,in the early part of life or growth

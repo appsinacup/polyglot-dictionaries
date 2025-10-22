@@ -173,6 +173,11 @@ eläin,noun,animal,organism
 eläin,noun,animal,organism other than human
 eläin,noun,animal,person who behaves wildly
 elukka,noun,animal,person who behaves wildly
+vastaus,noun,answer,response
+ratkaisu,noun,answer,solution
+vastaus,noun,answer,solution
+vastaus,noun,answer,reply to email
+vastine,noun,answer,document filed in response to a complaint
 vastata,verb,answer,to make a reply or response to
 vastata,verb,answer,to respond to a call
 avata,verb,answer,to respond to a call
@@ -296,6 +301,20 @@ kiinni,adv,back,in a manner that impedes
 estäen,adv,back,in a manner that impedes
 hilliten,adv,back,in a manner that impedes
 pidätellen,adv,back,in a manner that impedes
+säiliö,noun,back,cistern
+selkä,noun,back,the rear of body
+kääntöpuoli,noun,back,the reverse side
+nurja puoli,noun,back,the reverse side
+takapuoli,noun,back,the reverse side
+taka-,noun,back,the reverse side
+perä,noun,back,that which is farthest away from the front
+perukka,noun,back,that which is farthest away from the front
+perä,noun,back,the part of something that goes last
+takaosa,noun,back,the part of something that goes last
+peräpää,noun,back,the part of something that goes last
+selkänoja,noun,back,"the backrest, the part of a piece of furniture which receives the human back — see also backrest"
+puolustaja,noun,back,a position behind most players on the team
+pakki,noun,back,a position behind most players on the team
 huono,adj,bad,unfavorable; negative
 paha,adj,bad,unfavorable; negative
 kelvoton,adj,bad,unfavorable; negative
@@ -547,6 +566,30 @@ synttärit,noun,birthday,anniversary
 syntymäaika,noun,birthday,date of birth — see also date of birth
 synnyinpäivä,noun,birthday,date of birth — see also date of birth
 syntymäpäivä,noun,birthday,date of birth — see also date of birth
+musta,adj,black,absorbing all light
+pimeä,adj,black,without light
+musta,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+mustaihoinen,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+mustien,adj,black,historical: designated for use by those with dark skin
+musta,adj,black,playing cards: of the spades or clubs
+musta,adj,black,bad; evil
+synkkä,adj,black,bad; evil
+synkeä,adj,black,"expressing menace, or discontent"
+pimeä,adj,black,"illegitimate, illegal or disgraced"
+musta,adj,black,"illegitimate, illegal or disgraced"
+mustanaan,adj,black,overcrowded
+musta,adj,black,"of coffee or tea, without milk or other whitener"
+musta,adj,black,"chess, checkers etc.: color opposing ""white"""
+musta,adj,black,"typography: solid, filled with color"
+musta,adj,black,politics: related to the Christian Democratic Union of Germany
+salainen,adj,black,relating to an initiative whose existence or exact nature must remain withheld
+pimeä,adj,black,relating to an initiative whose existence or exact nature must remain withheld
 musta,noun,black,colour/color
 musta,noun,black,"dye, pigment"
 musta väriaine,noun,black,"dye, pigment"
@@ -565,6 +608,13 @@ vaalea,adj,blond,having blond hair
 vaaleahiuksinen,adj,blond,having blond hair
 vaaleatukkainen,adj,blond,having blond hair
 blondi,adj,blond,having blond hair
+sininen,adj,blue,"blue-coloured — see also dark blue, light blue"
+alakuloinen,adj,blue,depressed
+alavireinen,adj,blue,depressed
+melankolinen,adj,blue,depressed
+pornografinen,adj,blue,pornographic
+porno-,adj,blue,pornographic
+demokraattinen,adj,blue,of or pertaining to US Democratic Party
 sininen,noun,blue,colour
 sininen,noun,blue,anything blue
 sininen,noun,blue,blue pigment
@@ -686,6 +736,58 @@ pako,noun,break,act of escaping
 syötönmurto,noun,break,tennis: game won by receiving party
 aloituslyönti,noun,break,"billiards, snooker: first shot"
 vastahyökkäys,noun,break,soccer: counter-attack
+särkyä,verb,break,intransitive: to separate into (to end up in) two or more pieces
+mennä rikki,verb,break,intransitive: to separate into (to end up in) two or more pieces
+hajota,verb,break,intransitive: to separate into (to end up in) two or more pieces
+murtua,verb,break,intransitive: to separate into (to end up in) two or more pieces
+murtaa,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+rikkoa,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+särkeä,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+taittaa,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+hajottaa,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+pirstoa,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+murtua,verb,break,"intransitive, of a bone: to crack"
+murtaa,verb,break,transitive: to cause (a bone) to crack
+murskata,verb,break,transitive: to cause (a bone) to crack
+katkaista,verb,break,transitive: to cause (a bone) to crack
+jakaa,verb,break,to divide (money) into smaller units
+särkeä,verb,break,to divide (money) into smaller units
+rikkoa,verb,break,to divide (money) into smaller units
+murtaa (tahto),verb,break,to cause a person to lose spirit or will
+lannistaa,verb,break,to cause a person to lose spirit or will
+nujertaa,verb,break,to cause a person to lose spirit or will
+kesyttää,verb,break,to turn an animal into a beast of burden
+lopettaa,verb,break,to cause a habit to no longer exist
+kaataa,verb,break,to ruin financially
+rikkoa,verb,break,transitive: to do that which is forbidden by (something)
+ratkaista,verb,break,"gaming: to design or make a powerful, unbalancing but legal move"
+hajota,verb,break,intransitive: to stop functioning properly or altogether
+mennä rikki,verb,break,intransitive: to stop functioning properly or altogether
+tiltata,verb,break,intransitive: to stop functioning properly or altogether
+rikkoa,verb,break,transitive: to cause to stop functioning
+särkeä,verb,break,transitive: to cause to stop functioning
+murtaa,verb,break,to cause to no longer bar
+murtua,verb,break,"of a wave, to collapse into a surf"
+hellittää,verb,break,of a spell of weather: to end
+pitää tauko,verb,break,to interrupt or cease one's work or occupation temporarily
+keskeyttää,verb,break,to interrupt or cease one's work or occupation temporarily
+pysäyttää,verb,break,to interrupt a fall
+uutisoida,verb,break,to disclose or make known an item of news
+kertoa,verb,break,to disclose or make known an item of news
+koittaa,verb,break,of morning: to arrive
+kajahtaa,verb,break,to become audible suddenly
+rikkoa,verb,break,to change a steady state abruptly
+muuttua (yhtäkkiä,verb,break,to suddenly become
+madaltua,verb,break,"of a male voice, to become deeper at puberty"
+murtua,verb,break,"of a voice, to alter in type due to emotion or strain [existing translations are to be checked, whether they belong to the previous sense]"
+murtaa,verb,break,to do better than a record
+murtaa,verb,break,to win a game as receiver in tennis
+aloittaa,verb,break,billiards: to make the first shot
+breikata,verb,break,billiards: to make the first shot
+alentaa,verb,break,to reduce the military rank of
+katkaista,verb,break,to end a connection
+hajota,verb,break,to demulsify
+murtautua,verb,break,to counter-attack
 aamupala,noun,breakfast,first meal of the day
 aamiainen,noun,breakfast,first meal of the day
 tuoda,verb,bring,to transport toward somebody/somewhere
@@ -695,6 +797,7 @@ veli,noun,brother,male sibling
 veli,noun,brother,male having parents in common
 veli,noun,brother,male fellow member of a religious community
 veli,noun,brother,peer
+ruskea,adj,brown,having a brown colour
 ruskea,noun,brown,colour
 ruskea,noun,brown,one of the colour balls used in snooker
 kupariraha,noun,brown,copper coin
@@ -754,6 +857,12 @@ bisnes,noun,business,business class
 lauma,noun,business,collective noun for a group of ferrets
 asia,noun,business,slang: something very good
 asia,noun,business,slang: excrement
+vilkas,adj,busy,crowded with business or activities
+kiireinen,adj,busy,doing a great deal
+työntäyteinen,adj,busy,doing a great deal
+varattu,adj,busy,engaged
+levoton,adj,busy,complicated
+sekava,adj,busy,complicated
 voi,noun,butter,soft foodstuff made from milk
 ostaa,verb,buy,to obtain something with money
 niellä,verb,buy,to accept as true
@@ -796,6 +905,22 @@ kutsumus,noun,call,"vocation, employment, calling"
 poka,noun,call,prostitution: meeting with a client
 keikka,noun,call,prostitution: meeting with a client
 tarve,noun,call,"need, necessity"
+kutsua,verb,call,"to request, summon, or beckon"
+hakea,verb,call,"to request, summon, or beckon"
+huudahtaa,verb,call,to cry or shout
+(puhelimella) soittaa,verb,call,to contact by telephone
+vierailla,verb,call,to pay a social visit
+pysähtyä,verb,call,to pay a social visit
+kutsua,verb,call,to name or refer to
+nimetä,verb,call,to name or refer to
+huutaa merkki,verb,call,to shout directions to the other batsman on whether or not they should take a run
+huutaa ottavansa koppi,verb,call,to shout to other fielders that he intends to take a catch thus avoiding collisions
+maksaa,verb,call,to match or equal the amount of poker chips in the pot as the player that bet
+katsoa,verb,call,to match or equal the amount of poker chips in the pot as the player that bet
+vaatia,verb,call,"to require, demand"
+huutaa,verb,call,"to state, or invoke a rule, in many games such as bridge, craps, jacks, and so on"
+vedota,verb,call,"to state, or invoke a rule, in many games such as bridge, craps, jacks, and so on"
+kutsua,verb,call,to jump to another part of a program
 kamera,noun,camera,still camera
 valokuvakamera,noun,camera,still camera
 kamera,noun,camera,movie camera
@@ -812,6 +937,8 @@ tukkia,verb,can,to shut up
 potkaista,verb,can,to fire or dismiss an employee
 ei voi,verb,cannot,"cannot — see also can, not"
 ei osaa,verb,cannot,"cannot — see also can, not"
+pääoma,noun,capital,money and wealth
+kapiteeli,noun,capital,uppermost part of a column
 auto,noun,car,"automobile, a vehicle steered by a driver"
 hissikori,noun,car,"moving, load-carrying component of an elevator"
 kortti,noun,card,"flat, normally rectangular piece of stiff paper, plastic etc."
@@ -881,6 +1008,12 @@ vaihtoraha,noun,change,balance returned after a purchase
 taskuraha,noun,change,amount of cash
 vaihto,noun,change,a transfer between vehicles
 hidastettu syöttö,noun,change,baseball: a change-up pitch
+muuttua,verb,change,to become something different
+muuttaa,verb,change,to make something into something else
+vaihtaa,verb,change,to replace
+vaihtaa vaatteensa,verb,change,to replace one's own clothing
+vaihtaa vaatteet,verb,change,to replace the clothing of (the one wearing it)
+vaihtaa,verb,change,to transfer to another vehicle
 merikortti,noun,chart,navigator's map
 kaavio,noun,chart,non-narrative presentation of data
 taulukko,noun,chart,non-narrative presentation of data
@@ -993,6 +1126,16 @@ luokka,noun,class,object-oriented programming: set of objects possibly differing
 luokka,noun,class,one of the sections of a Methodist church or congregation
 luokkahuone,noun,classroom,room in a school
 luokka,noun,classroom,room in a school
+puhdas,adj,clean,not dirty
+puhdas,adj,clean,in an unmarked condition
+tyhjä,adj,clean,in an unmarked condition
+puhdas,adj,clean,"pure, especially morally or religiously"
+viaton,adj,clean,"pure, especially morally or religiously"
+puhdas,adj,clean,"smooth, exact, and performed well"
+siisti,adj,clean,slang: cool or neat
+puhdas,adj,clean,without restrictions or penalties
+sileä,adj,clean,allowing an uninterrupted flow over surfaces
+puhdas,adj,clean,not having sexually transmitted diseases
 puhdistaa,verb,clean,(transitive) to remove dirt from a place or object
 siivota,verb,clean,(transitive) to remove dirt from a place or object
 siistiä,verb,clean,(transitive) to remove dirt from a place or object
@@ -1067,6 +1210,11 @@ kahvi,noun,coffee,beverage
 kahvipapu,noun,coffee,beans
 kahvipensas,noun,coffee,plant
 kahvinruskea,noun,coffee,colour
+kylmä,adj,cold,having a low temperature
+kylmä,adj,cold,of the weather
+kylmä,adj,cold,unfriendly
+kalsea,adj,cold,unfriendly
+kylmiltään,adj,cold,unprepared
 kylmyys,noun,cold,low temperature
 pakkanen,noun,cold,low temperature
 kylmä,noun,cold,low temperature
@@ -1133,6 +1281,11 @@ komppania,noun,company,military unit
 palokunta,noun,company,unit of firefighters and their equipment
 verrata,verb,compare,to assess the similarities between two things or between one thing and another
 vertailla,verb,compare,to assess the similarities between two things or between one thing and another
+kokonainen,adj,complete,with everything included
+täydellinen,adj,complete,with everything included
+valmis,adj,complete,finished; ended; concluded; completed
+täydellinen,adj,complete,"generic intensifier derived from ""complete"""
+täydellinen,adj,complete,of metric space: such that every Cauchy sequence converges in it
 tehdä loppuun,verb,complete,to finish
 saada valmiiksi,verb,complete,to finish
 täydentää,verb,complete,to make whole or entire
@@ -1168,8 +1321,17 @@ cool,adj,cool,colloquial: in fashion
 okei,adj,cool,"colloquial: all right, acceptable"
 ookoo,adj,cool,"colloquial: all right, acceptable"
 tyyni,adj,cool,colloquial: not upset
+oikea,adj,correct,free from error
+oikeellinen,adj,correct,free from error
+korrekti,adj,correct,with good manners
+asiallinen,adj,correct,with good manners
 korjata,verb,correct,to make something become right that was previously wrong
 oikaista,verb,correct,to make something become right that was previously wrong
+kustannus,noun,cost,amount of money spent for a purpose
+kulu,noun,cost,amount of money spent for a purpose
+hinta,noun,cost,amount of money spent for a purpose
+hinta,noun,cost,negative consequence or loss
+kustannus,noun,cost,negative consequence or loss
 maksaa,verb,cost,"to incur a charge, a price"
 maa,noun,country,region of land
 maa,noun,country,nation state
@@ -1269,6 +1431,7 @@ faija,noun,dad,informal: a father
 isi,noun,dad,familiar address of one's own father
 pappa,noun,dad,informal address for an older male
 setä,noun,dad,informal address for an older male
+tanssi,noun,dance,movements to music
 tanssia,verb,dance,move rhythmically to music
 jorata,verb,dance,move rhythmically to music
 tanssija,noun,dancer,person who dances
@@ -1345,6 +1508,28 @@ määritelmä,noun,description,set of characteristics
 kuvaus,noun,description,taxonomy: scientific documentation of a taxon
 kuvailu,noun,description,linguistics: act or practice of recording and describing actual language usage
 kuvaileva tutkimus,noun,description,linguistics: descriptive linguistic survey
+suunnitelma,noun,design,plan
+malli,noun,design,plan
+kaavio,noun,design,plan
+rakennekaavio,noun,design,plan
+kuvio,noun,design,pattern
+design,noun,design,pattern
+kuviointi,noun,design,pattern
+kuosi,noun,design,pattern
+sommittelu,noun,design,composition
+sommitelma,noun,design,composition
+asetelma,noun,design,composition
+suunnitelma,noun,design,intention
+juoni,noun,design,intention
+aie,noun,design,intention
+aikomus,noun,design,intention
+muotoilu,noun,design,appearance
+design,noun,design,appearance
+kuosi,noun,design,appearance
+muotoilu,noun,design,art of designing
+design,noun,design,art of designing
+suunnittelu,noun,design,art of designing
+sommittelu,noun,design,art of designing
 suunnitella,verb,design,to plan an artwork etc.
 muotoilla,verb,design,to plan an artwork etc.
 työpöytä,noun,desk,table for writing and reading
@@ -1535,6 +1720,13 @@ kuluttaa,verb,draw,to consume
 arpoa,verb,draw,to determine the result of a lottery
 nostaa,verb,draw,cardgames: to take the top card of a deck into hand
 vaihtaa,verb,draw,poker: to trade in cards
+leninki,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+puku,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+mekko,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+asu,noun,dress,apparel or clothing
+puku,noun,dress,apparel or clothing
+vaatteet,noun,dress,apparel or clothing
+rihlat,noun,dress,system of furrows on the face of a millstone
 pukea,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 pukeutua,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 pukeutua,verb,dress,to put on clothes — see also get dressed
@@ -1553,6 +1745,16 @@ lavastaa,verb,dress,"to prepare (a set) by installing the props, scenery, etc."
 laittaa ojennukseen,verb,dress,"to arrange (soldiers or troops) into proper formation; especially, to adjust (soldiers or troops) into straight lines and at a proper distance from each other"
 pitää,verb,dress,to allow one’s penis to fall to one side or the other within one’s trousers
 pukea,verb,dress,of a sportsperson: to put on the uniform and have the equipment needed to play a sport
+juoma,noun,drink,served beverage
+juotava,noun,drink,served beverage
+juoma,noun,drink,type of beverage
+drinkki,noun,drink,type of beverage
+juoma,noun,drink,served alcoholic beverage
+drinkki,noun,drink,served alcoholic beverage
+kulaus,noun,drink,action of drinking
+siemaus,noun,drink,action of drinking
+hörppy,noun,drink,action of drinking
+alkoholijuoma,noun,drink,alcoholic beverages in general
 juoda,verb,drink,consume liquid through the mouth
 juoda,verb,drink,consume alcoholic beverages
 ajaa,verb,drive,to operate (a wheeled motorized vehicle)
@@ -1605,13 +1807,30 @@ vasikka,noun,ear,slang: police informant
 korva,noun,ear,musical ability
 korva,noun,ear,favour of being heard
 korva,noun,ear,that which resembles in shape or position the ear of an animal
+varhainen,adj,early,at a time in advance of the usual
+aikainen,adj,early,at a time in advance of the usual
+aikainen,adj,early,arriving at a time before expected
+ennenaikainen,adj,early,arriving at a time before expected
+varhainen,adj,early,near but after the start or beginning
 aikaisin,adv,early,at a time before expected
 varhain,adv,early,at a time before expected
 ajoissa,adv,early,at a time before expected
 hyvissä ajoin,adv,early,at a time before expected
+itäinen,adj,east,in or towards the east
+itä-,adj,east,in or towards the east
+itäinen,adj,east,meteorology: easterly
+idänpuoleinen,adj,east,meteorology: easterly
+itä-,adj,east,meteorology: easterly
+itäinen,adj,east,of or pertaining to the east
+itä-,adj,east,of or pertaining to the east
+itäinen,adj,east,from the East
+itämainen,adj,east,from the East
+orientaalinen,adj,east,from the East
+orientaali-,adj,east,from the East
 itään,adv,east,towards the east
 itään päin,adv,east,towards the east
 itää kohti,adv,east,towards the east
+itä,noun,east,compass point
 helppo,adj,easy,requiring little skill or effort
 helppo,adj,easy,consenting readily to sex
 syödä,verb,eat,"to ingest — see also consume, ingest"
@@ -1629,12 +1848,35 @@ nolla,noun,egg,score of zero
 norsu,noun,elephant,mammal
 elefantti,noun,elephant,mammal
 mammutti,noun,elephant,anything huge and ponderous
+sähköposti,noun,email,system for sending messages and datas by means of computers connected together in a network
+s-posti,noun,email,system for sending messages and datas by means of computers connected together in a network
+sposti,noun,email,system for sending messages and datas by means of computers connected together in a network
+säpo,noun,email,system for sending messages and datas by means of computers connected together in a network
+säpö,noun,email,system for sending messages and datas by means of computers connected together in a network
+meili,noun,email,system for sending messages and datas by means of computers connected together in a network
+sähköpostiviesti,noun,email,message sent through email
+sähköposti,noun,email,message sent through email
+s-posti,noun,email,message sent through email
+sposti,noun,email,message sent through email
+säpo,noun,email,message sent through email
+säpö,noun,email,message sent through email
+meili,noun,email,message sent through email
+sähköpostiosoite,noun,email,email address — see also e-mail address
 lähettää sähköposti,verb,email,(transitive) to send an email or emails to
 meilata,verb,email,(transitive) to send an email or emails to
 lähettää sähköpostilla,verb,email,(transitive) to send (something) through email
 meilata,verb,email,(transitive) to send (something) through email
 lähettää sähköpostia,verb,email,"(intransitive) to send, or compose and send, an email or emails"
 meilata,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+pää,noun,end,extreme part
+pääty,noun,end,extreme part
+loppu,noun,end,extreme part
+loppu,noun,end,death
+tulos,noun,end,result
+päämäärä,noun,end,purpose
+tarkoitus,noun,end,purpose
+erä,noun,end,period in curling
+pää,noun,end,ideal point of a complex
 päättyä,verb,end,"intransitive: be finished, be terminated"
 päättää,verb,end,"transitive: finish, terminate (something)"
 lopettaa,verb,end,"transitive: finish, terminate (something)"
@@ -1682,6 +1924,15 @@ tohkeissaan,adj,excited,having great enthusiasm and energy
 täpinöissään,adj,excited,having great enthusiasm and energy
 virittynyt,adj,excited,being in a state of higher energy
 jännittävä,adj,exciting,causing excitement
+harjoitus,noun,exercise,any activity designed to develop or hone a skill or ability
+harjoittelu,noun,exercise,any activity designed to develop or hone a skill or ability
+kuntoilu,noun,exercise,physical activity intended to improve strength and fitness
+liikunta,noun,exercise,physical activity intended to improve strength and fitness
+treeni,noun,exercise,physical activity intended to improve strength and fitness
+harjoitus,noun,exercise,physical activity intended to improve strength and fitness
+harjoittelu,noun,exercise,physical activity intended to improve strength and fitness
+jumppa,noun,exercise,physical activity intended to improve strength and fitness
+voimailu,noun,exercise,physical activity intended to improve strength and fitness
 harjoitella,verb,exercise,exert for the sake of training
 harjoittaa,verb,exercise,exert for the sake of training
 kuntoilla,verb,exercise,exert for the sake of training
@@ -1774,6 +2025,18 @@ tosio,noun,fact,information about a particular subject
 putoaminen,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 alasmeno,noun,fall,a period of decline before the end
 tuho,noun,fall,loss of greatness or status
+pudota,verb,fall,move to a lower position under the effect of gravity
+kaatua,verb,fall,move to a lower position under the effect of gravity
+sataa,verb,fall,move to a lower position under the effect of gravity
+laskeutua,verb,fall,come down or descend
+heittäytyä,verb,fall,prostrate oneself
+kaatua,verb,fall,be brought to earth or be overthrown
+kaatua,verb,fall,collapse; be overthrown or defeated
+hävitä,verb,fall,collapse; be overthrown or defeated
+kukistua,verb,fall,collapse; be overthrown or defeated
+kaatua,verb,fall,die
+jäädä,verb,fall,be allotted to
+tulla,verb,fall,become or change into
 valheellinen,adj,false,"untrue, not factual, wrong"
 epätosi,adj,false,"untrue, not factual, wrong"
 väärä,adj,false,"untrue, not factual, wrong"
@@ -1798,6 +2061,15 @@ falski,adj,false,music: out of tune
 perhe-,adj,family,suitable for children and adults
 homppeli,adj,family,(slang) homosexual
 fägäri,adj,family,(slang) homosexual
+perhe,noun,family,"immediate family [as a group], e.g. parents and their children"
+suku,noun,family,"group of people related by blood, marriage, law, or custom"
+heimo,noun,family,"rank in a taxonomic classification, above both genus and species"
+-soittimet (e.g. torvisoittimet),noun,family,music: a group of instruments having the same basic method of tone production
+kieliryhmä,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+kielikunta,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+kieliperhe,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+perhe-,noun,family,(used attributively)
+suku-,noun,family,(used attributively)
 kuuluisa,adj,famous,well known
 kuuluisa,adj,famous,in the public eye
 ihmeellinen,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
@@ -1835,6 +2107,24 @@ talonpoika,noun,farmer,person who works the land and/or who keeps livestock
 farmari,noun,farmer,person who works the land and/or who keeps livestock
 maajussi,noun,farmer,person who works the land and/or who keeps livestock
 jyväjemmari,noun,farmer,person who works the land and/or who keeps livestock
+luja,adj,fast,firmly or securely fixed in place
+pitävä,adj,fast,firmly or securely fixed in place
+vahva,adj,fast,firmly or securely fixed in place
+tiukka,adj,fast,firmly or securely fixed in place
+vahva,adj,fast,firm against attack
+uskollinen,adj,fast,"of friend: steadfast, with unwavering feeling"
+nopea,adj,fast,moving or capable of moving with great speed
+vauhdikas,adj,fast,moving or capable of moving with great speed
+nopea,adj,fast,causing unusual rapidity of play or action
+nopea,adj,fast,computing: able to transfer data in a short period of time
+sikeä,adj,fast,of sleep: deep or sound
+syvä,adj,fast,of sleep: deep or sound
+värinpitävä,adj,fast,of a dye: not running or fading
+menevä,adj,fast,having an extravagant lifestyle or immoral habits
+pelimies,adj,fast,having an extravagant lifestyle or immoral habits
+pelinainen,adj,fast,having an extravagant lifestyle or immoral habits
+edellä,adj,fast,ahead of the correct time or schedule
+nopea,adj,fast,of photographic film: more sensitive to light than average
 lujasti,adv,fast,in a firm or secure manner
 tiukasti,adv,fast,in a firm or secure manner
 sikeästi,adv,fast,of sleeping: deeply or soundly
@@ -2038,6 +2328,11 @@ unohtaa,verb,forget,to lose remembrance of
 unohtaa,verb,forget,to unintentionally not do
 unohtaa,verb,forget,to leave behind
 unohtaa,verb,forget,to cease remembering
+muoto,noun,form,shape or visible structure
+lomake,noun,form,document to be filled in
+kaavake,noun,form,document to be filled in
+muoto,noun,form,grouping of words
+sanamuoto,noun,form,grouping of words
 muotoilla,verb,form,to give shape
 muodostaa,verb,form,to give shape
 muovata,verb,form,to give shape
@@ -2085,6 +2380,20 @@ oma,adj,friendly,pertaining to friendlies in the conflict sense
 etummainen,adj,front,located at or near the front
 etu-,adj,front,phonetics: pronounced toward the front of the mouth
 etinen,adj,front,phonetics: pronounced toward the front of the mouth
+etupuoli,noun,front,facing side
+edusta,noun,front,facing side
+etuosa,noun,front,facing side
+julkisivu,noun,front,main entrance side
+julkisivu,noun,front,public face of covert organisation
+bulvaani,noun,front,public face of covert organisation
+säärintama,noun,front,meteorology: interface between airmasses
+rintama,noun,front,meteorology: interface between airmasses
+rintama,noun,front,military: area or line of conflict
+rintama,noun,front,military: lateral space occupied from one flank of a military unit to the other flank
+rintama,noun,front,military: direction of the enemy
+rintama,noun,front,military: direction toward which the command is faced
+rintama,noun,front,major subdivision of Soviet army
+armeijaryhmä,noun,front,major subdivision of Soviet army
 hedelmä,noun,fruit,part of plant
 hedelmä,noun,fruit,food
 hedelmä,noun,fruit,figuratively: positive end result or reward of labour or effort
@@ -2234,6 +2543,10 @@ mummo,noun,grandmother,mother of someone's parent
 äidinäiti,noun,grandmother,mother of someone's parent
 isänäiti,noun,grandmother,mother of someone's parent
 isovanhempi,noun,grandparent,parent of one's parent
+harmaa,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+ankea,adj,gray,"dreary, gloomy"
+harmaa,adj,gray,"dreary, gloomy"
+synkkä,adj,gray,"dreary, gloomy"
 harmaa,noun,gray,colour
 jättimäinen,adj,great,"very big, large scale"
 mahtava,adj,great,"very big, large scale"
@@ -2249,6 +2562,19 @@ iso-,adj,great,family relationship
 nerokas,adj,great,uncommonly gifted
 lahjakas,adj,great,uncommonly gifted
 suuri,adj,great,important title
+vihreä,adj,green,having green as its colour
+kalpea,adj,green,sickly
+sairas,adj,green,sickly
+vihreä,adj,green,sickly
+kokematon,adj,green,inexperienced
+vihreä,adj,green,environmentally friendly
+vihreä kateudesta,adj,green,envious
+raaka,adj,green,"of bacon, etc.: unprocessed, raw"
+raaka,adj,green,of fruit: unripe
+hapan,adj,green,of wine: acidic or too acidic
+hapokas,adj,green,of wine: acidic or too acidic
+tuore,adj,green,of vegetables: freshly harvested
+tuore,adj,green,lumber
 vihreä,noun,green,colour
 vihreä,noun,green,member of a green party
 vihreä,noun,green,snooker: green ball with value 3
@@ -2269,6 +2595,12 @@ muuttua,verb,grow,to assume a condition or quality
 tulla,verb,grow,to assume a condition or quality
 arvaus,noun,guess,prediction about the outcome of something
 veikkaus,noun,guess,prediction about the outcome of something
+arvata,verb,guess,to reach an unconfirmed conclusion
+veikata,verb,guess,to reach an unconfirmed conclusion
+ratkaista,verb,guess,to solve by a correct conjecture
+luulla,verb,guess,"to suppose, to imagine"
+luulla,verb,guess,"to think, conclude, or decide without a connotation of uncertainty"
+muistaa,verb,guess,(obsolete in English) to hit upon or reproduce by memory
 kitara,noun,guitar,musical instrument
 sali,noun,gym,sporting facility specialized for lifting weights and exercise
 kuntosali,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -2353,6 +2685,22 @@ suostuvainen,adj,happy,content (to do something); having no objection (to someth
 kätevä,adj,happy,"appropriate, apt, felicitous"
 aulis,adj,happy,"appropriate, apt, felicitous"
 hyvä,adj,happy,may you have a happy
+kova,adj,hard,resistant to pressure
+kiinteä,adj,hard,resistant to pressure
+luja,adj,hard,resistant to pressure
+vaikea,adj,hard,requiring a lot of effort to do or understand
+kova,adj,hard,requiring a lot of effort to do or understand
+hankala,adj,hard,requiring a lot of effort to do or understand
+rankka,adj,hard,demanding a lot of effort to endure
+kova,adj,hard,demanding a lot of effort to endure
+ankara,adj,hard,demanding a lot of effort to endure
+ankara,adj,hard,severe
+vahva,adj,hard,unquestionable
+vahva,adj,hard,of drink: strong
+tiukka,adj,hard,of drink: strong
+väkevä,adj,hard,of drink: strong
+tuju,adj,hard,of drink: strong
+kova,adj,hard,"of water, high in dissolved calcium compounds"
 kovasti,adv,hard,with much force or effort (related to act of think)
 kovaa,adv,hard,with much force or effort (related to act of think)
 tiukasti,adv,hard,with much force or effort (related to act of think)
@@ -2458,6 +2806,10 @@ kuulla,verb,hear,to perceive with the ear
 apu,noun,help,action given to provide assistance
 apuri,noun,help,person or persons who provides assistance with some task
 apu,noun,help,person or persons who provides assistance with some task
+auttaa,verb,help,transitive: provide assistance to (someone or something)
+opastaa,verb,help,transitive: provide assistance to (someone or something)
+auttaa,verb,help,contribute in some way to
+auttaa,verb,help,intransitive: provide assistance
 täällä,adv,here,"in, on, or at this place"
 tässä,adv,here,"in, on, or at this place"
 tänne,adv,here,to this place
@@ -2482,6 +2834,18 @@ harraste,noun,hobby,activity done for enjoyment in spare time
 nuolihaukka,noun,hobby,Falco subbuteo
 kotona,adv,home,at home
 kotiin,adv,home,homewards
+koti,noun,home,house or structure in which someone lives
+hima,noun,home,house or structure in which someone lives
+kotitalo,noun,home,house or structure in which someone lives
+kotimaa,noun,home,someone’s native land
+kotiseutu,noun,home,someone’s native land
+lapsuudenkoti,noun,home,childhood or parental home
+koti,noun,home,place of the affections
+elinpaikka,noun,home,habitat
+kotipaikka,noun,home,habitat
+koti,noun,home,place of refuge or rest
+kotihakemisto,noun,home,home directory — see also home directory
+kotikansio,noun,home,home directory — see also home directory
 läksyt,noun,homework,work that is done at home
 kotitehtävät,noun,homework,work that is done at home
 kotiläksyt,noun,homework,preliminary or preparatory work
@@ -2605,11 +2969,27 @@ informaatio,noun,information,communicable knowledge
 tiedonanto,noun,information,act of informing or imparting knowledge
 tiedotus,noun,information,act of informing or imparting knowledge
 tiedottaminen,noun,information,act of informing or imparting knowledge
+korko,noun,interest,finance: price of credit
+kiinnostus,noun,interest,great attention and concern from someone
+mielenkiinto,noun,interest,great attention and concern from someone
+kiinnostus,noun,interest,attention that is given to or received from someone or something
+mielenkiinto,noun,interest,attention that is given to or received from someone or something
+omistus,noun,interest,"involvement in or link with financial, business, or other undertaking"
+sidonnaisuus,noun,interest,"involvement in or link with financial, business, or other undertaking"
+intressi,noun,interest,"involvement in or link with financial, business, or other undertaking"
+etu,noun,interest,"involvement in or link with financial, business, or other undertaking"
+mielenkiinnon kohde,noun,interest,something one is interested in
+kiinnostuksen kohde,noun,interest,something one is interested in
+harrastus,noun,interest,something one is interested in
+vahingonkorvaus,noun,interest,(obsolete in English) compensation for injury
+ala,noun,interest,persons interested in any particular business or measure
 kiinnostaa,verb,interest,to attract attention or concern
 kiinnostunut,adj,interested,having or showing interest
 kiinnostava,adj,interesting,arousing or holding the attention
 kiintoisa,adj,interesting,arousing or holding the attention
 mielenkiintoinen,adj,interesting,arousing or holding the attention
+haastattelu,noun,interview,conversation with journalist etc.
+haastattelu,noun,interview,a formal meeting for the assessment of a candidate or applicant
 haastatella,verb,interview,to have an interview
 esitellä,verb,introduce,to cause someone to be acquainted
 esitellä,verb,introduce,to make something or someone known by formal announcement or recommendation
@@ -2669,6 +3049,27 @@ pysyä,verb,keep,"to remain in, to be confined to"
 jatkaa,verb,keep,to continue
 avain-,adj,key,indispensable
 tärkeä,adj,key,important
+avain,noun,key,device designed to open and close a lock
+kiila,noun,key,object used to maintain the orientation between two others
+akselikiila,noun,key,object used to maintain the orientation between two others
+avain,noun,key,crucial step
+selite,noun,key,small guide explaining symbols or terminology
+merkkienselite,noun,key,small guide explaining symbols or terminology
+näppäin,noun,key,button on a typewriter or computer keyboard
+kosketin,noun,key,part of a piano or musical keyboard
+sävellaji,noun,key,scale of musical notes
+avain,noun,key,device used to transmit Morse code
+morseavain,noun,key,device used to transmit Morse code
+sähkötysavain,noun,key,device used to transmit Morse code
+avain,noun,key,cryptography: piece of information used to encode or decode
+salakirjoitusavain,noun,key,cryptography: piece of information used to encode or decode
+avain,noun,key,computing: field of a database constrained to be unique
+avainkenttä,noun,key,computing: field of a database constrained to be unique
+avain,noun,key,computing: field in a record used as a search argument
+avainkenttä,noun,key,computing: field in a record used as a search argument
+avain,noun,key,computing: value uniquely identifying entry in associative array
+pieni saari,noun,key,small island
+luoto,noun,key,small island
 laji,noun,kind,"type, race, category"
 laatu,noun,kind,"type, race, category"
 luokka,noun,kind,"type, race, category"
@@ -2714,6 +3115,20 @@ kieli,noun,language,computer language — see also computer language
 ohjelmointikieli,noun,language,computer language — see also computer language
 suuri,adj,large,of greater size — see also big
 iso,adj,large,of greater size — see also big
+myöhäinen,adj,late,near the end of a period of time
+myöhä,adj,late,near the end of the day
+myöhäinen,adj,late,near the end of the day
+myöhäinen,adj,late,associated with the end of a period
+myöhäis-,adj,late,associated with the end of a period
+myöhässä,adj,late,not arriving until after an expected time
+myöhässä,adj,late,not having had an expected menstrual period
+edesmennyt,adj,late,"euphemism for ""dead"""
+-vainaa,adj,late,"euphemism for ""dead"""
+-vainaja,adj,late,"euphemism for ""dead"""
+aiempi,adj,late,"existing or holding some position not long ago, but not now"
+edellinen,adj,late,"existing or holding some position not long ago, but not now"
+viime,adj,late,recent
+viimeisimmät,adj,late,recent
 myöhään,adv,late,past a designated time
 myöhässä,adv,late,past a designated time
 myöhemmin,adv,later,more late
@@ -2722,6 +3137,14 @@ myöhemmin,adv,later,at some unspecified time in the future
 nauru,noun,laugh,expression of mirth peculiar to the human species
 naurunaihe,noun,laugh,something that provokes mirth or scorn
 vitsi,noun,laugh,something that provokes mirth or scorn
+nauraa,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+iloita,verb,laugh,be or appear cheerful
+nauraa,verb,laugh,be or appear cheerful
+pilkata,verb,laugh,make an object of laughter or ridicule
+nauraa,verb,laugh,make an object of laughter or ridicule
+naurattaa,verb,laugh,affect or influence by means of laughter
+nauraa,verb,laugh,affect or influence by means of laughter
+nauraa,verb,laugh,"express by, or utter with, laughter"
 oppia,verb,learn,to acquire knowledge or ability
 opetella,verb,learn,to acquire knowledge or ability
 oppia,verb,learn,to attend educational activity
@@ -2740,6 +3163,10 @@ jättää,verb,leave,"to depart from, end one's connection or affiliation with"
 jättää,verb,leave,to end one's membership in
 erota,verb,leave,to end one's membership in
 lähteä,verb,leave,to depart (intransitive)
+vasen,adj,left,west side of the body when one is facing north
+vasemmistolainen,adj,left,pertaining to the political left
+vasemmalla,adv,left,on the left side
+vasemmalle,adv,left,towards the left side
 vasen,noun,left,the left side
 vasen puoli,noun,left,the left side
 vasemmisto,noun,left,the ensemble of left-wing political parties
@@ -2827,6 +3254,26 @@ kevytmielinen,adj,light,lacking dignity or solemnity
 sekaisin,adj,light,not quite sound or normal
 kevyt,adj,light,not of the legal weight
 kevyt,adj,light,easily interrupted
+valo,noun,light,electromagnetic waves
+valo,noun,light,source of illumination
+valo,noun,light,spiritual illumination
+valaistus,noun,light,spiritual illumination
+valaistus,noun,light,facts; pieces of information
+neuvo,noun,light,facts; pieces of information
+johtohahmo,noun,light,notable person
+merkkihenkilö,noun,light,notable person
+valo,noun,light,painting: manner in which the light strikes a picture
+valo,noun,light,point of view
+näkökulma,noun,light,point of view
+tuli,noun,light,flame or something used to create fire
+tuli,noun,light,type of firework
+ikkuna,noun,light,"window, or space for one"
+ikkuna-aukko,noun,light,"window, or space for one"
+sananpituus,noun,light,squares reserved for the answer to a crossword
+päivänvalo,noun,light,open view; public observation; publicity
+valo,noun,light,power of perception by vision
+valo,noun,light,brightness of the eye or eyes
+valot,noun,light,"traffic light, or an intersection controlled by one"
 pitää,verb,like,to enjoy
 tykätä,verb,like,to enjoy
 nauttia,verb,like,to enjoy
@@ -2884,6 +3331,14 @@ leijonakoira,noun,lion,Chinese foo dog
 kiinanpalatsikoira,noun,lion,Chinese foo dog
 leijona,noun,lion,person with strength and courage
 julkkis,noun,lion,famous person
+nauha,noun,list,strip of fabric
+räsy,noun,list,material used for cloth selvage
+luettelo,noun,list,enumeration or compilation of items
+lista,noun,list,enumeration or compilation of items
+aita,noun,list,barriers for tournaments
+lista,noun,list,computing: codified representation of a list
+kallistuma,noun,list,nautical: tilting or careening to one side
+kallistus,noun,list,nautical: tilting or careening to one side
 kallistua,verb,list,to tilt to one side
 listata,verb,list,to create or recite a list
 luetella,verb,list,to create or recite a list
@@ -2914,6 +3369,11 @@ paikallinen,adj,local,computing: having limited scope
 likimääräinen,adj,local,math: applying to a limited space
 paikallinen,adj,local,medicine: of or pertaining to a restricted part of an organism
 paikallis-,adj,local,medicine: of or pertaining to a restricted part of an organism
+pitkä,adj,long,having much distance from one point to another
+pitkä,adj,long,having great duration
+pitkäaikainen,adj,long,having great duration
+pitkä,adj,long,finance: possessing or owning financial instruments
+pitkä,adj,long,tennis: bounces behind the baseline
 kauas,adv,long,over a great distance
 kauan,adv,long,for a particular duration
 kauan,adv,long,for a long duration
@@ -2931,6 +3391,17 @@ menettää,verb,lose,have (somebody of one's kin) die
 kadottaa,verb,lose,be unable to follow or trace (somebody or something) any longer
 ottaa pois,verb,lose,"informal: shed, remove, discard, eliminate"
 hävitä,verb,lose,fail to be the winner
+rakkaus,noun,love,strong affection
+rakas,noun,love,object of one's romantic feelings; darling or sweetheart
+kulta,noun,love,object of one's romantic feelings; darling or sweetheart
+rakastettu,noun,love,object of one's romantic feelings; darling or sweetheart
+rakkaus,noun,love,object of one's romantic feelings; darling or sweetheart
+kultaseni,noun,love,colloquial: term of friendly address
+lempi,noun,love,euphemistic: sexual activity
+rakkaudella,noun,love,closing of a letter
+silkkiharso,noun,love,thin silk material
+saksankärhö,noun,love,Clematis vitalba
+nolla,noun,love,zero
 rakastaa,verb,love,have a strong affection for
 rakastaa,verb,love,"to need, thrive on"
 nauttia,verb,love,"to need, thrive on"
@@ -3001,6 +3472,10 @@ markkina-,noun,market,used attributively
 naimisissa,adj,married,in a state of marriage; having a wife or a husband
 nainut,adj,married,in a state of marriage; having a wife or a husband
 vihitty,adj,married,in a state of marriage; having a wife or a husband
+ottelu,noun,match,sporting event
+matsi,noun,match,sporting event
+vertainen,noun,match,attribute equaling or exceeding
+tulitikku,noun,match,device to make fire
 sopia yhteen,verb,match,intransitive: to agree; to be equal
 täsmätä,verb,match,intransitive: to agree; to be equal
 yhdistää,verb,match,make a successful pairing
@@ -3239,6 +3714,16 @@ musiikki,noun,music,any pleasing or interesting sounds
 nuotit,noun,music,sheet music
 täytyä,verb,must,be required to
 täytyä,verb,must,"said about something that is very likely, probable, or certain to be true"
+nimi,noun,name,"word or phrase indicating a particular person, place, class or thing"
+nimitys,noun,name,"word or phrase indicating a particular person, place, class or thing"
+nimi,noun,name,reputation — see also reputation
+maine,noun,name,reputation — see also reputation
+pilkkanimi,noun,name,abusive or insulting epithet
+see also nimitellä,noun,name,abusive or insulting epithet
+nimi,noun,name,person or legal person
+nimi,noun,name,computing: unique identifier
+nimi,noun,name,investor in Lloyd's of London
+nimi,noun,name,authority — see also authority
 nimetä,verb,name,to give a name to
 antaa nimi,verb,name,to give a name to
 (to Christen) ristiä,verb,name,to give a name to
@@ -3273,6 +3758,19 @@ biologinen,adj,natural,related genetically but not legally to one's father
 paljas,adj,natural,without condom
 luonnollinen,adj,natural,bodybuilding: not having used performance-enhancers
 luonnollinen,adj,natural,bridge: of intuitive bidding
+läheinen,adj,near,physically close
+lähellä oleva,adj,near,physically close
+lähellä,adj,near,physically close
+lähellä,adj,near,close in time
+läheinen,adj,near,closely connected or related
+lähi-,adj,near,closely connected or related
+läheinen,adj,near,"close to one's interests, affection, etc."
+lähellä,adj,near,close to anything followed or imitated
+täpärä,adj,near,so as barely to avoid or pass injury or loss
+lähes,adj,near,almost
+melkein,adj,near,almost
+matkustajan puoleinen,adj,near,on the side nearest to the kerb
+ajajan viereinen,adj,near,"next to the driver, when he is on foot"
 lähellä,adv,near,at or towards a position close in space or time
 lähettyvillä,adv,near,at or towards a position close in space or time
 tarvita,verb,need,to have an absolute requirement for
@@ -3338,6 +3836,9 @@ uutiset,noun,news,reports of current events
 sanomalehti,noun,newspaper,publication
 lehti,noun,newspaper,publication
 sanomalehtipaperi,noun,newspaper,paper on which newspapers are printed
+seuraava,adj,next,following in a sequence
+seuraava,adj,next,being closer to the present location than all other items
+seuraava,adj,next,"nearest date, time, space or order"
 seuraavaksi,adv,next,"In a time, place or sequence closest or following"
 ensi kerralla,adv,next,On the first subsequent occasion
 seuraavalla kerralla,adv,next,On the first subsequent occasion
@@ -3365,7 +3866,17 @@ ilta,noun,night,nightfall
 pimeys,noun,night,darkness
 pimeä,noun,night,darkness
 yö,noun,night,darkness
+pohjoinen,adj,north,of or pertaining to the north
+pohjois-,adj,north,of or pertaining to the north
+pohjoiseen,adj,north,toward the north
+pohjoinen,adj,north,"meteorology: of wind, from the north"
+pohjois-,adj,north,"meteorology: of wind, from the north"
+pohja-,adj,north,"meteorology: of wind, from the north"
+pohjoinen,adj,north,part of a corridor used by northbound traffic
 pohjoiseen,adv,north,towards the north
+pohjoinen,noun,north,compass point
+ylös,noun,north,up or positive direction
+pohjoisnapa,noun,north,north pole of a magnet
 nenä,noun,nose,protuberance on the face
 kuono,noun,nose,"snout, nose of an animal"
 turpa,noun,nose,"snout, nose of an animal"
@@ -3477,6 +3988,12 @@ netissä,adj,online,connected to the Internet
 online,adj,online,available on a computer system
 päällä,adj,online,of a system that is active
 toiminnassa,adj,online,of a system that is active
+ainoa,adj,only,alone in a category
+ainut,adj,only,alone in a category
+ainokainen,adj,only,alone in a category
+ainoa,adj,only,without sibling
+ainokainen,adj,only,without sibling
+ainutlaatuinen,adj,only,singularly superior; the best
 vain,adv,only,without others or anything further; exclusively
 ainoastaan,adv,only,without others or anything further; exclusively
 edes,adv,only,no more than
@@ -3484,6 +4001,18 @@ vain,adv,only,no more than
 vasta,adv,only,as recently as
 juuri,adv,only,as recently as
 vain,adv,only,as recently as
+avoin,adj,open,not closed
+avonainen,adj,open,not closed
+auki,adj,open,not closed
+avoinna,adj,open,prepared to conduct business
+auki,adj,open,prepared to conduct business
+avoin,adj,open,receptive
+avoin,adj,open,computing: in current use
+avoin,adj,open,candid
+avoin,adj,open,public
+avoin,adj,open,business: not fulfilled
+avoin,adj,open,math: having a free variable
+avoin,adj,open,music: without any fingers pressing the string against the fingerboard
 avata,verb,open,to make something accessible
 näyttää,verb,open,poker: to reveal one's hand
 avata,verb,open,computing: to connect to a resource
@@ -3498,8 +4027,40 @@ mielipide,noun,opinion,thought a person has formed about a topic
 näkemys,noun,opinion,thought a person has formed about a topic
 mieli,noun,opinion,thought a person has formed about a topic
 ratkaisuehdotus,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+vastapäinen,adj,opposite,located directly across from
+vastakkainen,adj,opposite,facing the other way
+vastakkainen,adj,opposite,of complementary or mutually exclusive things
 vastapäätä,adv,opposite,in an opposite position
+vastakohta,noun,opposite,contrary thing
+vastustaja,noun,opposite,opponent
+vastaväittäjä,noun,opposite,opponent
+opponentti,noun,opposite,opponent
+antonyymi,noun,opposite,antonym
+vastakohta,noun,opposite,antonym
 oranssi,adj,orange,having the colour of the fruit of an orange tree
+appelsiinipuu,noun,orange,tree
+appelsiini,noun,orange,fruit
+oranssi,noun,orange,colour
+järjestys,noun,order,"arrangement, disposition"
+järjestys,noun,order,good arrangement
+käsky,noun,order,command
+komento,noun,order,command
+tilaus,noun,order,request for some product or service
+veljeskunta,noun,order,religious group
+lahko,noun,order,religious group
+ritarikunta,noun,order,society of knights
+kunniamerkki,noun,order,awarded decoration
+ritarimerkki,noun,order,awarded decoration
+lahko,noun,order,biology: taxonomical classification
+taso,noun,order,"a rank; a row; a grade; esp. a rank or class in society; a distinct character, kind, or sort"
+lyöntijärjestys,noun,order,cricket: sequence in which a side’s batsmen bat
+aste,noun,order,electronics: power of polynomial function in a circuit’s block
+kertaluku,noun,order,chemistry: a number of a chemical reaction
+aste,noun,order,graph theory: number of vertices in a graph
+osittain järjestetty joukko,noun,order,partially ordered set
+järjestysrelaatio,noun,order,relation on a partially ordered set
+järjestys,noun,order,relation on a partially ordered set
+aste,noun,order,highest exponent in a polynomial
 järjestää,verb,order,to set in (any) order
 järjestää,verb,order,to set in (a good) order
 käskeä,verb,order,to issue a command
@@ -3547,6 +4108,10 @@ taittaa,noun,page,type set up for printing a page
 sivu,noun,page,computing: contiguous block of memory
 maali,noun,paint,substance
 värit,noun,paint,paints: set of containers or blocks of paints of different colours
+maalata,verb,paint,to apply paint to
+sivellä,verb,paint,to apply paint to
+sivellä,verb,paint,to apply in the manner of paint
+maalata,verb,paint,to practise the art of painting pictures
 maalaus,noun,painting,an illustration or artwork using paint
 maalaustaide,noun,painting,the action of applying paint
 maalaustaide,noun,painting,artistic application of paint
@@ -3580,6 +4145,10 @@ vanhempi,noun,parent,person who acts as a parent in rearing a child — see also
 ottovanhempi,noun,parent,person who acts as a parent in rearing a child — see also guardian
 vanhempi,noun,parent,biology: organism from which a plant or animal is biologically descended
 syntyperä,noun,parent,source or origin of something
+luonnonpuisto,noun,park,"ground for preservation of game, etc."
+kansallispuisto,noun,park,"ground for preservation of game, etc."
+puisto,noun,park,ground for recreation
+viheralue,noun,park,ground for recreation
 pysäköidä,verb,park,bring (a vehicle) to a halt
 osa,noun,part,fraction of a whole
 osa,noun,part,distinct element of something larger
@@ -3629,6 +4198,9 @@ partio,noun,party,online gaming: player characters organized into a single group
 joukko,noun,party,video games: group of characters controlled by the player
 seurue,noun,party,video games: group of characters controlled by the player
 passi,noun,passport,official document for foreign travel
+mennyt,adj,past,having already happened; in the past
+viime,adj,past,of a period of time: having just gone by
+mennyt,adj,past,grammar: expressing action that has already happened
 menneisyys,noun,past,period of time that has already happened
 mennyt,noun,past,period of time that has already happened
 imperfekti,noun,past,(grammar) past tense
@@ -3730,6 +4302,8 @@ henkilökohtainen,adj,personal,done in person
 oma,adj,personal,done in person
 henkilökohtainen,adj,personal,relating to an individual in an invidious and offensive manner
 persoona-,adj,personal,grammar: denoting person
+äänne,noun,phone,speech segment
+fooni,noun,phone,speech segment
 soittaa (puhelimella),verb,phone,to call (someone) on the telephone
 valokuva,noun,photograph,picture
 foto,noun,photograph,picture
@@ -3778,6 +4352,8 @@ pähkinä,noun,pig,difficult problem
 harkko,noun,pig,cast metal block
 muotti,noun,pig,mold for a cast metal block
 porsas,noun,pig,device to clean or inspect a pipe from inside
+vaaleanpunainen,adj,pink,colored/coloured between red and white
+pinkki,adj,pink,colored/coloured between red and white
 vaaleanpunainen,noun,pink,pale red colour
 pinkki,noun,pink,pale red colour
 roosa,noun,pink,pale red colour
@@ -3820,6 +4396,12 @@ ensiksi,noun,place,ordinal relation
 toiseksi etc.,noun,place,ordinal relation
 sija,noun,place,reception; effect
 vaikutus,noun,place,reception; effect
+kaava,noun,plan,technical drawing
+kaavapiirros,noun,plan,technical drawing
+suunnitelma,noun,plan,set of intended actions
+pohjakaava,noun,plan,2-dimensional drawing from above
+pohjapiirros,noun,plan,2-dimensional drawing from above
+liittymä,noun,plan,subscription plan
 suunnitella,verb,plan,to design
 kaavailla,verb,plan,to design
 suunnitella,verb,plan,to create a plan for
@@ -3859,6 +4441,19 @@ kenttä,noun,play,geological formation
 esiintymä,noun,play,geological formation
 toisto,noun,play,instance of watching or listening to media
 toistokerta,noun,play,instance of watching or listening to media
+leikkiä,verb,play,act in a manner such that one has fun
+telmiä,verb,play,act in a manner such that one has fun
+pitää hauskaa,verb,play,act in a manner such that one has fun
+soittaa,verb,play,produce music using a musical instrument (transitive sense)
+soittaa,verb,play,produce music using a musical instrument (intransitive sense)
+näytellä,verb,play,act in a performance
+pelata,verb,play,participate in (a sport or game)
+osallistua,verb,play,participate in (a sport or game)
+toistaa,verb,play,use a device to watch or listen to the indicated recording
+soittaa,verb,play,use a device to watch or listen to the indicated recording
+naruttaa,verb,play,manipulate or deceive someone
+huijata,verb,play,manipulate or deceive someone
+leikkiä,verb,play,"feign, pretend"
 pelaaja,noun,player,one who plays any game or sport
 näyttelijä,noun,player,dramatic actor
 soittaja,noun,player,one who plays a musical instrument
@@ -3979,6 +4574,17 @@ positiivinen,adj,positive,slang: HIV positive
 positiivinen,adj,positive,"New Age jargon: good, desirable, healthful, pleasant, enjoyable"
 mahdollinen,adj,possible,able but not certain to happen
 mahdollinen,adj,possible,capable of being done or achieved; feasible
+tolppa,noun,post,long dowel or plank protruding from the ground
+kakkosnelonen,noun,post,(construction) stud; two-by-four
+napa,noun,post,pole in a battery
+tolppa,noun,post,goalpost (sports)
+piste,noun,post,assigned station
+vartiopaikka,noun,post,assigned station
+posti,noun,post,appointed position in an organization
+toimi,noun,post,appointed position in an organization
+posti,noun,post,method of delivering mail
+viesti,noun,post,individual message in a forum
+postaus,noun,post,individual message in a forum
 laittaa esille,verb,post,hang a notice in a conspicuous manner
 ripustaa nähtäville,verb,post,hang a notice in a conspicuous manner
 postata,verb,post,send to an electronic forum
@@ -3998,6 +4604,13 @@ naula,noun,pound,unit of mass (16 ounces avoirdupois)
 pauna,noun,pound,unit of mass (16 ounces avoirdupois)
 troy-naula,noun,pound,unit of mass (12 troy ounces)
 punta,noun,pound,unit of currency
+harjoitus,noun,practice,repetition of an activity to improve skill
+harjoittelu,noun,practice,repetition of an activity to improve skill
+ammatinharjoitus,noun,practice,ongoing pursuit of a craft or profession
+ammatinharjoittaminen,noun,practice,ongoing pursuit of a craft or profession
+uskonnon harjoittaminen,noun,practice,observance of religious duties
+käytäntö,noun,practice,"customary action, habit, or behaviour"
+käytäntö,noun,practice,"actual operation or experiment, in contrast to theory"
 pitää parempana,verb,prefer,to favor
 valmistella,verb,prepare,to make ready for a specific future purpose
 varustaa,verb,prepare,to make ready for a specific future purpose
@@ -4012,9 +4625,23 @@ varustautua,verb,prepare,to make oneself ready
 valmistaa,verb,prepare,to produce by combining elements
 tehdä,verb,prepare,to produce by combining elements
 laittaa,verb,prepare,to produce by combining elements
+nykyinen,adj,present,pertaining to the current time
+tämänhetkinen,adj,present,pertaining to the current time
+paikalla,adj,present,in the immediate vicinity
+läsnä,adj,present,in the immediate vicinity
 nykyhetki,noun,present,current time
 nykyisyys,noun,present,current time
 nykyaika,noun,present,current time
+nätti,adj,pretty,"cunning, clever, skilful"
+sievä,adj,pretty,"especially of women and children: pleasant, attractive"
+viehättävä,adj,pretty,"especially of women and children: pleasant, attractive"
+sievä,adj,pretty,of objects: nice-looking
+viehättävä,adj,pretty,of objects: nice-looking
+sievä,adj,pretty,only superficially attractive
+melkoinen,adj,pretty,dated: moderately large
+kiva,adj,pretty,"dated: excellent, pleasing"
+melkoinen,adj,pretty,"ironic: awkward, unpleasant"
+aikamoinen,adj,pretty,"ironic: awkward, unpleasant"
 aika,adv,pretty,somewhat
 melko,adv,pretty,somewhat
 ihan,adv,pretty,somewhat
@@ -4048,6 +4675,8 @@ esitys,noun,program,performance of a show or other broadcast on radio or televis
 ohjelma,noun,program,software application
 hanke,noun,project,planned endeavor
 projekti,noun,project,planned endeavor
+sinipunainen,adj,purple,colour
+violetti,adj,purple,colour
 purppura,noun,purple,colour
 purppurakotilo,noun,purple,mollusk
 panna,verb,put,to place something somewhere
@@ -4127,6 +4756,9 @@ radio,noun,radio,on-board entertainment system in a car
 radio,noun,radio,transmitter
 radiolähetin,noun,radio,transmitter
 verkkoradio,noun,radio,broadcasting of sound via the Internet
+sade,noun,rain,condensed water from a cloud
+sade,noun,rain,any matter falling
+sade,noun,rain,an instance of particles falling
 sataa,verb,rain,of rain: to fall from the sky
 sataa,verb,rain,to fall in large quantities
 ropista,verb,rain,to fall in large quantities
@@ -4189,6 +4821,14 @@ tekosyy,noun,reason,"excuse, explanation: thought or consideration offered in su
 järki,noun,reason,(the capacity of the human mind for) rational thinking
 tolkku,noun,reason,(the capacity of the human mind for) rational thinking
 kohtuus,noun,reason,something reasonable
+punainen,adj,red,having red as its colour
+punainen,adj,red,of hair: orange-brown
+punainen,adj,red,(card games: of the hearts or diamonds suits
+punainen,adj,red,"left-wing, socialist or communist"
+republikaaninen,adj,red,of the U.S. Republican party
+punanahka-,adj,red,derogatory: relating to Amerindians or First Nations
+punainen,adj,red,astronomy: of the lower-frequency region of the electromagnetic spectrum
+punainen,adj,red,particle physics: having a color charge of red
 punainen,noun,red,colour
 punainen,noun,red,"socialist, communist"
 punainen,noun,red,snooker: one of the 15 red balls
@@ -4251,6 +4891,20 @@ palautus,noun,return,computing: act of relinquishing control to the calling proc
 paluuarvo,noun,return,computing: return value
 palautustieto,noun,return,computing: return value
 sivupöytä,noun,return,short perpendicular extension of a desk
+palata,verb,return,to come or go back
+palata,verb,return,"to go back in thought, narration, or argument"
+palata,verb,return,"to turn back, retreat"
+kääntää ympäri,verb,return,to turn (something) round
+palauttaa,verb,return,to give something back to its original holder or owner
+maksaa samalla mitalla,verb,return,to give in requital or recompense; to requite
+palauttaa,verb,return,tennis: to bat the ball back over the net in response to a serve
+vastata,verb,return,card games: to play a card as a result of another player's lead
+palauttaa,verb,return,cricket: to throw a ball back to the wicket-keeper
+vastata,verb,return,to say in reply; to respond
+palata,verb,return,computing: to relinquish control to the calling procedure
+palauttaa,verb,return,computing: to pass back (data) to the calling procedure
+vastata,verb,return,to retort; to throw back
+ilmoittaa,verb,return,"to report, or bring back and make known"
 riisi,noun,rice,plants
 riisikasvi,noun,rice,plants
 riisi,noun,rice,seeds used as food
@@ -4274,6 +4928,34 @@ vittuilla,verb,ride,colloquial: to criticize or annoy
 krymppääntyä,verb,ride,of clothing: to gradually move up and crease
 riippua,verb,ride,"to rely, depend"
 roikkua,verb,ride,of clothing: to rest on a part of the body
+oikea,adj,right,"straight, not bent"
+suora,adj,right,"straight, not bent"
+suora,adj,right,"of an angle, 90 degrees"
+suorakulmainen,adj,right,"geometry: incorporating a right angle between edges, faces, axes, etc."
+oikea,adj,right,"complying with justice, correct — see also be right"
+oikea,adj,right,"appropriate, fit for purpose"
+täysi,adj,right,"healthy, sane, competent — see also healthy, sane, competent"
+oikea,adj,right,real; veritable
+todellinen,adj,right,real; veritable
+oikea,adj,right,most favourable or convenient; fortunate
+oikea,adj,right,"of direction, opposite of left"
+oikeanpuoleinen,adj,right,"of direction, opposite of left"
+oikea,adj,right,designed to be placed or worn outward
+oikeistolainen,adj,right,politics: conservative
+oikeisto-,adj,right,politics: conservative
+oikealla,adv,right,on the right side
+oikealle,adv,right,towards the right side
+oikeaan,adv,right,towards the right side
+aivan,adv,right,exactly
+ihan,adv,right,exactly
+aivan,adv,right,"immediately, directly"
+ihan,adv,right,"immediately, directly"
+suoraan,adv,right,"immediately, directly"
+oikein,adv,right,"very, extremely"
+oikein,adv,right,according to fact or truth
+todella,adv,right,according to fact or truth
+oikein,adv,right,in a correct manner
+oikein,adv,right,to a great extent
 oikeus,noun,right,"which complies with justice, law or reason"
 oikeus,noun,right,legal or moral entitlement
 oikea (puoli),noun,right,"right, not left, side"
@@ -4395,6 +5077,8 @@ suola,noun,salt,sodium chloride
 suola,noun,salt,compound of an acid and a base
 merikarhu,noun,salt,sailor
 suola,noun,salt,additional bytes inserted into an encryption
+sama,adj,same,not different as regards self; identical
+samanlainen,adj,same,"similar, alike"
 kerrosvoileipä,noun,sandwich,dish — see also open sandwich
 voileipä,noun,sandwich,dish — see also open sandwich
 sandwich-rakenne,noun,sandwich,combination material
@@ -4428,6 +5112,9 @@ tiedot,noun,science,knowledge gained through study or practice
 tieteilijä,noun,scientist,one whose activities make use of the scientific method
 tiedemies,noun,scientist,one whose activities make use of the scientific method
 tiedenainen,noun,scientist,one whose activities make use of the scientific method
+toinen,adj,second,second (numeral) — see also 2nd
+toinen,adj,second,that comes after the first
+kakkonen,adj,second,that comes after the first
 sekunti,noun,second,one-sixtieth of a minute; SI unit of time
 sekka,noun,second,one-sixtieth of a minute; SI unit of time
 kulmasekunti,noun,second,unit of angular measure
@@ -4510,6 +5197,15 @@ hiirulainen,noun,sheep,one who behaves shyly
 paita,noun,shirt,article of clothing
 kenkä,noun,shoe,protective covering for the foot
 kenkä,noun,shoe,something resembling a shoe (e.g. brake shoe)
+myymälä,noun,shop,establishment that sells goods
+kauppa,noun,shop,establishment that sells goods
+verstas,noun,shop,place for crafting or manufacturing
+paja,noun,shop,place for crafting or manufacturing
+työpaja,noun,shop,place for crafting or manufacturing
+tehdas,noun,shop,place for crafting or manufacturing
+käsityö,noun,shop,"a class taught typically in junior high school, teaching vocational skill"
+puutyö,noun,shop,"a class taught typically in junior high school, teaching vocational skill"
+metallityö,noun,shop,"a class taught typically in junior high school, teaching vocational skill"
 käydä kaupassa,verb,shop,to visit shops
 shoppailla,verb,shop,to visit shops
 ilmiantaa,verb,shop,to report to an authority
@@ -4555,6 +5251,16 @@ näytös,noun,show,demonstration
 demonstraatio,noun,show,demonstration
 ohjelma,noun,show,broadcast program(me)
 näytös,noun,show,mere display
+näyttää,verb,show,to display
+esitellä,verb,show,to display
+näyttää,verb,show,to indicate (a fact) to be true
+osoittaa,verb,show,to indicate (a fact) to be true
+opastaa,verb,show,to guide or escort
+saattaa,verb,show,to guide or escort
+näkyä,verb,show,to be visible
+näyttäytyä,verb,show,to be visible
+pilkistää,verb,show,to be visible
+näkyä,verb,show,"to have a big belly, as pregnant"
 sadekuuro,noun,shower,brief fall of rain
 kuuro,noun,shower,brief fall of rain
 suihku,noun,shower,device for bathing
@@ -4671,6 +5377,22 @@ terävä,adj,smart,efficient; vigorous; brilliant
 näyttävä,adj,smart,pretentious; showy; spruce
 raikas,adj,smart,brisk; fresh
 käärme,noun,snake,legless reptile
+lumi,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+lumisade,noun,snow,instance of the falling of snow — see also snowfall
+pyry,noun,snow,instance of the falling of snow — see also snowfall
+tuisku,noun,snow,instance of the falling of snow — see also snowfall
+kinos,noun,snow,accumulation or spread of snow
+nietos,noun,snow,accumulation or spread of snow
+lumi,noun,snow,accumulation or spread of snow
+lumi,noun,snow,something resembling snow in appearance or color
+lumi,noun,snow,"dish or component of a dish resembling snow, especially one made by whipping egg whites until creamy"
+lumivalkoinen,noun,snow,white color of snow
+vitivalkoinen,noun,snow,white color of snow
+lumivalkoinen kukinto,noun,snow,clusters of white flowers
+lumisade,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
+valkohapsi,noun,snow,white hair on an (older) person’s head
+lumi,noun,snow,substance other than water resembling snow when frozen
+lumi,noun,snow,cocaine — see also cocaine
 pyryttää,verb,snow,have snow fall from the atmosphere
 sataa lunta,verb,snow,have snow fall from the atmosphere
 tuiskuttaa,verb,snow,have snow fall from the atmosphere
@@ -4711,6 +5433,14 @@ pian,adv,soon,within a short time
 kohta,adv,soon,within a short time
 surkea,adj,sorry,"poor, regrettable"
 surullinen,adj,sorry,"poor, regrettable"
+lahti,noun,sound,long narrow inlet
+(fjord) vuono,noun,sound,long narrow inlet
+salmi,noun,sound,long narrow inlet
+koetin,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+sondi,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+ääni,noun,sound,sensation perceived by the ear
+ääni,noun,sound,vibration capable of causing this
+äänne,noun,sound,speech sound
 sukeltaa,verb,sound,"to dive downwards, of a whale"
 tutkia,verb,sound,to probe
 kokeilla,verb,sound,to probe
@@ -4731,11 +5461,13 @@ lausua,verb,sound,to pronounce
 keitto,noun,soup,dish
 soppa,noun,soup,unfortunate situation
 liemi,noun,soup,unfortunate situation
+eteläinen,adj,south,of or pertaining to the south
 etelään,adv,south,towards the south
 eteläinen,adv,south,of wind: from the south
 etelä-,adv,south,of wind: from the south
 pieleen,adv,south,in an adverse direction or trend
 mönkään,adv,south,in an adverse direction or trend
+etelä,noun,south,compass point
 aika,noun,space,interval of time
 aikaväli,noun,space,interval of time
 tila,noun,space,physical extent in two or three dimensions
@@ -4918,6 +5650,20 @@ stoppari,noun,stop,tennis: very short shot
 pysäytyslyönti,noun,stop,tennis: very short shot
 otsapenger,noun,stop,zoology: depression in a dog’s face
 kiulu,noun,stop,small bucket
+pysähtyä,verb,stop,to cease moving
+lakata,verb,stop,"not to continue — see also cease, desist"
+loppua,verb,stop,"not to continue — see also cease, desist"
+pysäyttää,verb,stop,to cause to cease moving
+lopettaa,verb,stop,to cause to come to an end
+sulkea,verb,stop,to close an opening
+tukkia,verb,stop,to close an opening
+säätää aukkoa,verb,stop,photography: to adjust the aperture
+asua,verb,stop,to stay a while
+vierailla,verb,stop,to stay a while
+viipyä,verb,stop,to stay a while
+pysähtyä,verb,stop,to stay a while
+poiketa,verb,stop,to stay a while
+pysähtyä,verb,stop,to tarry
 varasto,noun,store,place where items may be kept
 varasto,noun,store,supply held in storage
 tarina,noun,story,account of events
@@ -4963,6 +5709,15 @@ tutkija,noun,student,person who studies a subject
 opiskelija,noun,student,"person enrolled at a school, university or other education institution"
 opiskelija,noun,student,person enrolled at a university — see also university student
 ylioppilas,noun,student,person enrolled at a university — see also university student
+tutkimus,noun,study,mental effort to acquire knowledge
+opiskelu,noun,study,mental effort to acquire knowledge
+opinnot,noun,study,mental effort to acquire knowledge
+tutkimuskohde,noun,study,branch of learning or object that is being studied
+lukuhuone,noun,study,room in a house intended for reading and writing
+työhuone,noun,study,room in a house intended for reading and writing
+tutkielma,noun,study,artwork made in order to practise or demonstrate a subject or technique
+huoli,noun,study,(obsolete in English) state of mental perplexity or worried thought
+huoli,noun,study,"(archaic in English) thought, as directed to a specific purpose; concern"
 lukea,verb,study,to revise/review materials
 opiskella,verb,study,to revise/review materials
 tutkia,verb,study,to revise/review materials
@@ -5117,6 +5872,7 @@ tiimi,noun,team,group of people
 talli,noun,team,group of people
 työhye,noun,team,group of people
 teini-ikäinen,noun,teenager,person aged between thirteen and nineteen
+puhelin,noun,telephone,a device used for two-way talking with other people
 soittaa (puhelimella),verb,telephone,to call someone
 televisio,noun,television,medium
 televisio,noun,television,device for receiving television signals
@@ -5145,6 +5901,13 @@ kamala,adj,terrible,very bad
 kauhea,adj,terrible,very bad
 hirveä,adj,terrible,very bad
 hirvittävä,adj,terrible,very bad
+koe,noun,test,"challenge, trial"
+koetus,noun,test,"challenge, trial"
+koe,noun,test,academics: examination
+tentti,noun,test,academics: examination
+testi,noun,test,product examination
+käyttökoe,noun,test,product examination
+kuori,noun,test,external calciferous shell
 testata,verb,test,to challenge
 koestaa,verb,test,to challenge
 haastaa,verb,test,to challenge
@@ -5259,6 +6022,9 @@ nimi,noun,title,"name of a book, etc"
 nimike,noun,title,"name of a book, etc"
 otsikko,noun,title,subject of a writing
 aihe,noun,title,subject of a writing
+tänään,adv,today,on the current day
+nykyisin,adv,today,"nowadays — see also nowadays, these days"
+nykyään,adv,today,"nowadays — see also nowadays, these days"
 tämä päivä,noun,today,today (noun)
 kuluva päivä,noun,today,today (noun)
 yhdessä,adv,together,"at the same time, in the same place"
@@ -5290,8 +6056,11 @@ sikolätti,noun,toilet,place resembling a filthy toilet
 tomaattikasvi,noun,tomato,tomato plant
 tomaatti,noun,tomato,tomato plant
 tomaatti,noun,tomato,fruit
+huomenna,adv,tomorrow,on the day after the present day
 huominen,noun,tomorrow,the day after the present day
 huomispäivä,noun,tomorrow,the day after the present day
+tänä iltana,adv,tonight,during today's evening
+tänä yönä,adv,tonight,during today's nighttime
 tänä iltana,noun,tonight,nighttime today
 myös,adv,too,likewise
 -kin,adv,too,likewise
@@ -5333,6 +6102,12 @@ matkailu,noun,travel,act of traveling
 matkustelu,noun,travel,act of traveling
 matka,noun,travel,plural: series of journeys
 matka,noun,travel,length of a mechanical stroke
+matkustaa,verb,travel,be on a journey
+matkata,verb,travel,be on a journey
+matkustaa,verb,travel,pass from here to there; transmit
+kulkea,verb,travel,pass from here to there; transmit
+liikkua,verb,travel,pass from here to there; transmit
+vaeltaa,verb,travel,travel throughout
 puu,noun,tree,large woody plant
 puu,noun,tree,pole with storage hooks
 puu,noun,tree,(graph theory) connected graph with no cycles
@@ -5416,6 +6191,51 @@ tyyppi,noun,turn,character; personality; nature
 peippaus,noun,turn,soccer: instance of going past an opposition player with the ball in one's control
 numero,noun,turn,"circus, theatre: short skit, act, or routine"
 siivu,noun,turn,"finance: profit made by a stockjobber, difference between the buying and selling prices"
+kääntyä,verb,turn,move around an axis through itself
+pyörähtää,verb,turn,move around an axis through itself
+kääntää,verb,turn,move around an axis through itself
+pyöräyttää,verb,turn,move around an axis through itself
+pyöriä,verb,turn,move around an axis through itself
+pyörittää,verb,turn,move around an axis through itself
+kääntää,verb,turn,"change the direction or orientation of, especially by rotation"
+pyörittää,verb,turn,"change the direction or orientation of, especially by rotation"
+kääntyä,verb,turn,change one's direction of travel
+muuttaa suuntaa,verb,turn,change one's direction of travel
+sorvata,verb,turn,shape on a lathe or similar tool
+muovata,verb,turn,give form to; shape or mould
+muokata,verb,turn,give form to; shape or mould
+taittaa,verb,turn,"position something by folding it back on itself, or using its folds"
+taitella,verb,turn,"position something by folding it back on itself, or using its folds"
+kääntää,verb,turn,navigate through a book or other printed material
+käydä läpi,verb,turn,navigate through a book or other printed material
+lyödä kierre,verb,turn,"in cricket, make the ball move sideways when it bounces"
+kiertää,verb,turn,"of a cricket ball, move sideways when it bounces"
+muuttua,verb,turn,become
+vaihtaa väriä,verb,turn,"of leaves, change color in autumn"
+muuttua,verb,turn,transitive: change fundamentally
+muuttaa,verb,turn,transitive: change fundamentally
+pilaantua,verb,turn,go bad
+hapantua,verb,turn,go bad
+hapattaa,verb,turn,"make acid or sour; ferment; curdle — see also ferment, curdle"
+muuttaa,verb,turn,fantasy: change into a mythical being
+täyttää,verb,turn,reach a certain age
+riippua,verb,turn,hinge; depend
+kapinoida,verb,turn,rebel
+kääntyä,verb,turn,rebel
+muuttua,verb,turn,wrestling: change personalities
+alkaa huimata,verb,turn,become giddy
+kääntää,verb,turn,sicken; nauseate
+etoa,verb,turn,sicken; nauseate
+kääntää,verb,turn,be nauseated (said of the stomach)
+voida pahoin,verb,turn,be nauseated (said of the stomach)
+muuttaa,verb,turn,change one's course of action; take a new approach
+valmistaa,verb,turn,complete — see also complete
+saada valmiiksi,verb,turn,complete — see also complete
+tienata,verb,turn,make money; turn a profit
+peipata,verb,turn,soccer: go past an opposition player with the ball in one's control
+sorvautua,verb,turn,undergo the process of turning on a lathe
+kääntää,verb,turn,"obstetrics: bring down the feet of a child in the womb, in order to facilitate delivery"
+muuttua,verb,turn,printing: invert a type of the same thickness
 kaksi kertaa,adv,twice,two times
 kahdesti,adv,twice,two times
 luokka,noun,type,grouping based on shared characteristics
@@ -5508,6 +6328,8 @@ videokasetti,noun,video,VHS
 käynti,noun,visit,single act of visiting
 vierailu,noun,visit,single act of visiting
 käynti,noun,visit,meeting with a doctor
+käydä,verb,visit,to go and meet (someone)
+vierailla,verb,visit,to go and meet (someone)
 vierailija,noun,visitor,guest
 kävijä,noun,visitor,guest
 odottaa,verb,wait,delay until some event
@@ -5524,6 +6346,40 @@ kävelytyyli,noun,walk,manner of walking
 kävelytie,noun,walk,maintained place on which to walk
 vapaataival,noun,walk,baseball: instance of walking a batter
 kulku,noun,walk,graph theory: a sequence of alternating vertices and edges
+kävellä,verb,walk,to move on the feet
+käydä,verb,walk,to move on the feet
+lampsia,verb,walk,to move on the feet
+lompsia,verb,walk,to move on the feet
+käppäillä,verb,walk,to move on the feet
+köpöttää,verb,walk,to move on the feet
+linkuttaa,verb,walk,to move on the feet
+tepastella,verb,walk,to move on the feet
+taapertaa,verb,walk,to move on the feet
+tallustaa,verb,walk,to move on the feet
+tallata,verb,walk,to move on the feet
+talsia,verb,walk,to move on the feet
+dallata,verb,walk,to move on the feet
+lähteä kävelemään,verb,walk,colloquial: to be stolen
+kävellä,verb,walk,to travel a distance by walking
+kulkea jalan,verb,walk,to travel a distance by walking
+kävelyttää,verb,walk,to take for a walk
+ulkoiluttaa,verb,walk,to take for a walk
+taluttaa,verb,walk,to take for a walk
+saattaa,verb,walk,to take for a walk
+antaa vapaataival,verb,walk,baseball: to allow to advance after four balls
+kävelyttää,verb,walk,move something by shifting between two positions
+taluttaa,verb,walk,move something by shifting between two positions
+vanuttaa,verb,walk,to full cloth
+huovuttaa,verb,walk,to full cloth
+kävellä,verb,walk,to traverse by walking (or analogous gradual movement)
+lähteä,verb,walk,"colloquial: to leave, resign"
+taluttaa,verb,walk,to push vehicle alongside oneself
+käyttäytyä,verb,walk,to behave
+vaeltaa,verb,walk,to be stirring
+kulkea,verb,walk,to be stirring
+olla liikkeellä,verb,walk,to be in motion
+liikkua,verb,walk,to be in motion
+kulkea,verb,walk,to be in motion
 muuri,noun,wall,defensive rampart
 valli,noun,wall,defensive rampart
 muuri,noun,wall,structure built for defense surrounding an area
@@ -5571,6 +6427,14 @@ vahti,noun,watch,person or group of people who guard
 vartio,noun,watch,person or group of people who guard
 vahti,noun,watch,group of sailors and officers
 vahti,noun,watch,period of time on duty
+katsoa,verb,watch,to look at for a period of time
+katsella,verb,watch,to look at for a period of time
+tarkkailla,verb,watch,to observe
+katsoa,verb,watch,to observe
+vahtia,verb,watch,to attend or guard
+katsoa,verb,watch,to attend or guard
+olla varuillaan,verb,watch,to be wary
+tarkkailla,verb,watch,to be wary
 vesi,noun,water,inorganic compound H₂O
 kylpy,noun,water,spa water
 vesi,noun,water,one of the basic elements
@@ -5629,8 +6493,19 @@ nettisivu,noun,website,a collection of pages on the World Wide Web
 viikko,noun,week,period of seven days
 viikonloppu,noun,weekend,break in the working week
 tervetullut,adj,welcome,whose arrival is a cause of joy
+toivottaa tervetulleeksi,verb,welcome,affirm or greet the arrival of someone
+toivottaa tervetulleeksi,verb,welcome,to accept willingly
 terve,adj,well,in good health
 hyvässä kunnossa,adj,well,in good health
+hyvin,adv,well,accurately; competently
+hyvin,adv,well,completely; fully
+kunnolla,adv,well,completely; fully
+hyvin,adv,well,to a significant degree
+tosi,adv,well,(slang) very
+länteen päin,adj,west,towards the west
+läntinen,adj,west,western
+länsimaalainen,adj,west,occidental
+länsi,noun,west,compass point
 milloin,adv,when,"at what time, as a direct question"
 koska,adv,when,"at what time, as a direct question"
 milloin,adv,when,"at what time, as an indirect question"
@@ -5654,6 +6529,26 @@ siellä missä,adv,where,the place in which
 sieltä missä,adv,where,the place in which
 sinne missä,adv,where,the place in which
 mikäli,adv,where,legal: in the situation in which
+valkoinen,adj,white,bright and colourless
+valkea,adj,white,bright and colourless
+valkoinen,adj,white,of or relating to Caucasians
+valkoihoinen,adj,white,of or relating to Caucasians
+valkoinen,adj,white,designated for use by Caucasians
+vaalea,adj,white,relatively light or pale in colour
+vihreä,adj,white,relatively light or pale in colour
+kalpea,adj,white,pale or pallid
+vaalea,adj,white,lacking tan
+maidolla,adj,white,"of coffee or tea, containing milk etc."
+maito-,adj,white,"of coffee or tea, containing milk etc."
+kermalla,adj,white,"of coffee or tea, containing milk etc."
+valkoinen,adj,white,board games: deemed to belong to the white set
+puhdas,adj,white,"honourable, fair, decent"
+harmaa,adj,white,"grey, as from old age"
+rauhallinen,adj,white,characterized by freedom from that which disturbs
+rakas,adj,white,favourite; darling
+valkoinen,adj,white,politics: anti-revolutionary
+valkoinen,adj,white,of tea: made from immature leaves and shoots
+tyhjä,adj,white,typography: not containing characters
 valkoinen,noun,white,color
 valkea,noun,white,color
 valkoinen,noun,white,person of European descent
@@ -5731,6 +6626,35 @@ teos,noun,work,"literary, artistic, or intellectual production"
 työ,noun,work,physics: measure of energy expended in moving an object
 työ,noun,work,thermodynamics: energy in transit between one form or repository and another
 varustus,noun,work,fortification
+työskennellä,verb,work,to do a specific task
+tehdä työtä,verb,work,to do a specific task
+olla töissä,verb,work,to do a specific task
+työskennellä,verb,work,"to operate in a certain place, area, or specialty."
+käyttää,verb,work,"to operate in, through, or by means of"
+toimia,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+käyttää,verb,work,to set into action
+käyttää loppuun,verb,work,to exhaust
+työstää,verb,work,"to shape, form, or improve a material"
+muokata,verb,work,"to shape, form, or improve a material"
+aiheuttaa,verb,work,to provoke or excite
+käyttää,verb,work,to use or manipulate
+ohjata,verb,work,to use or manipulate
+aiheuttaa,verb,work,to cause to happen
+tehdä,verb,work,to cause to happen
+teettää,verb,work,to force to work
+teettää työtä,verb,work,to force to work
+vaikuttaa,verb,work,to move or progress slowly
+tunkeutua,verb,work,to cause to move or progress
+hivuttaa,verb,work,to cause to move or progress
+kirjailla,verb,work,to embroider with thread
+käydä,verb,work,to ferment
+käyttää,verb,work,to cause to ferment
+vaikuttaa,verb,work,to influence
+liikkua,verb,work,to move in an agitated manner
+ravistella,verb,work,to move in an agitated manner
+muokkautua,verb,work,to behave in a certain way when handled.
+tuottaa,verb,work,to cause to feel
+aiheuttaa,verb,work,to cause to feel
 työläinen,noun,worker,person who performs labor
 työläinen,noun,worker,insect
 maailma,noun,world,human collective existence
@@ -5788,8 +6712,12 @@ kalenterivuosi,noun,year,a period between set dates that mark a year
 vuosi,noun,year,a scheduled part of a calendar year spent in a specific activity
 vuosi,noun,year,a Julian year
 luokka,noun,year,a level or grade at school or college
+keltainen,adj,yellow,having yellow as its color
+pelkuri,adj,yellow,lacking courage
 keltainen,noun,yellow,color
 kelta,noun,yellow,color
+eilen,adv,yesterday,on the day before today
+eilispäivänä,adv,yesterday,on the day before today
 eilinen,noun,yesterday,day before today
 eilispäivä,noun,yesterday,day before today
 eilinen,noun,yesterday,the recent past

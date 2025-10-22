@@ -69,6 +69,7 @@ zvíře,noun,animal,organism
 živočich,noun,animal,organism other than human
 zvíře,noun,animal,organism other than human
 zvíře,noun,animal,person who behaves wildly
+odpověď,noun,answer,response
 odpovídat,verb,answer,to make a reply or response to
 odpovědět,verb,answer,to make a reply or response to
 byt,noun,apartment,domicile occupying part of a building
@@ -136,6 +137,16 @@ vzadu,adv,back,away from the front or from an edge
 dozadu,adv,back,away from the front or from an edge
 zpět,adv,back,in a manner that impedes
 zpátky,adv,back,in a manner that impedes
+káď,noun,back,cistern
+záda,noun,back,the rear of body
+hřbet,noun,back,the rear of body
+rub,noun,back,the reverse side
+zadek,noun,back,that which is farthest away from the front
+zadní část,noun,back,that which is farthest away from the front
+zadní část,noun,back,the part of something that goes last
+obránce,noun,back,a position behind most players on the team
+bek,noun,back,a position behind most players on the team
+útočník,noun,back,a position behind most players on the team
 špatný,adj,bad,unfavorable; negative
 špatný,adj,bad,not suitable or fitting
 vadný,adj,bad,not suitable or fitting
@@ -233,6 +244,11 @@ zobák,noun,bill,bird's beak
 pták,noun,bird,animal
 narozeniny,noun,birthday,anniversary
 narozeniny,noun,birthday,date of birth — see also date of birth
+černý,adj,black,absorbing all light
+černošský,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
 čerň,noun,black,colour/color
 čerň,noun,black,"dye, pigment"
 černoch,noun,black,dark-skinned person — see also Negro
@@ -240,6 +256,7 @@ narozeniny,noun,birthday,date of birth — see also date of birth
 blog,noun,blog,a personal or corporate website
 blonďatý,adj,blond,of a pale golden colour
 světlý,adj,blond,of a pale golden colour
+modrý,adj,blue,"blue-coloured — see also dark blue, light blue"
 modř,noun,blue,colour
 člun,noun,boat,water craft
 loď,noun,boat,water craft
@@ -291,6 +308,17 @@ chléb,noun,bread,baked dough made from cereals
 chleba,noun,bread,baked dough made from cereals
 přestávka,noun,break,"rest or pause, usually from work"
 pauza,noun,break,"rest or pause, usually from work"
+rozbít se,verb,break,intransitive: to separate into (to end up in) two or more pieces
+zlomit se,verb,break,intransitive: to separate into (to end up in) two or more pieces
+rozbít,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+zlomit,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+zlomit si,verb,break,"intransitive, of a bone: to crack"
+porušit,verb,break,transitive: to do that which is forbidden by (something)
+rozbít se,verb,break,intransitive: to stop functioning properly or altogether
+polámat se,verb,break,intransitive: to stop functioning properly or altogether
+přestat fungovat,verb,break,intransitive: to stop functioning properly or altogether
+pokazit se,verb,break,intransitive: to stop functioning properly or altogether
+pokazit,verb,break,transitive: to cause to stop functioning
 snídaně,noun,breakfast,first meal of the day
 přinášet,verb,bring,to transport toward somebody/somewhere
 přinést,verb,bring,to transport toward somebody/somewhere
@@ -304,6 +332,7 @@ brat,noun,brother,male sibling
 brater,noun,brother,male sibling
 bratr,noun,brother,male having parents in common
 bratr,noun,brother,male fellow member of a religious community
+hnědý,adj,brown,having a brown colour
 hnědý,noun,brown,colour
 stavět,verb,build,(transitive) to form by combining materials or parts
 postavit,verb,build,(transitive) to form by combining materials or parts
@@ -322,6 +351,9 @@ byznys,noun,business,commercial enterprise or establishment
 obchod,noun,business,"occupation, work or trade of a person"
 záležitost,noun,business,something involving one personally
 věc,noun,business,something involving one personally
+zaměstnaný,adj,busy,doing a great deal
+zaneprázděný,adj,busy,doing a great deal
+rušný,adj,busy,complicated
 máslo,noun,butter,soft foodstuff made from milk
 kupovat,verb,buy,to obtain something with money
 koupit,verb,buy,to obtain something with money
@@ -336,6 +368,15 @@ křik,noun,call,cry or shout
 volání,noun,call,beckoning or summoning
 hovor,noun,call,telephone conversation
 návštěva,noun,call,social visit
+volat,verb,call,"to request, summon, or beckon"
+zavolat,verb,call,"to request, summon, or beckon"
+křičet,verb,call,to cry or shout
+volat,verb,call,to contact by telephone
+zavolat,verb,call,to contact by telephone
+telefonovat,verb,call,to contact by telephone
+zatelefonovat,verb,call,to contact by telephone
+navštívit,verb,call,to pay a social visit
+říkat,verb,call,to name or refer to
 fotoaparát,noun,camera,still camera
 foťák,noun,camera,still camera
 kamera,noun,camera,movie camera
@@ -344,6 +385,8 @@ umět,verb,can,to be able to; to know how to
 smět,verb,can,may
 konzervovat,verb,can,to preserve
 nemoct,verb,cannot,"cannot — see also can, not"
+kapitál,noun,capital,money and wealth
+hlavice,noun,capital,uppermost part of a column
 auto,noun,car,"automobile, a vehicle steered by a driver"
 automobil,noun,car,"automobile, a vehicle steered by a driver"
 kabina,noun,car,"moving, load-carrying component of an elevator"
@@ -377,6 +420,19 @@ drobné,noun,change,small denominations of money given in exchange for a larger 
 náhrada,noun,change,a replacement
 záměna,noun,change,a replacement
 drobné,noun,change,balance returned after a purchase
+měnit se,verb,change,to become something different
+měnit,verb,change,to make something into something else
+změnit,verb,change,to make something into something else
+proměňovat,verb,change,to make something into something else
+proměnit,verb,change,to make something into something else
+vyměňovat,verb,change,to replace
+vyměnit,verb,change,to replace
+převlékat se,verb,change,to replace one's own clothing
+převléknout se,verb,change,to replace one's own clothing
+přesedat,verb,change,to transfer to another vehicle
+přesednout,verb,change,to transfer to another vehicle
+přestupovat,verb,change,to transfer to another vehicle
+přestoupit,verb,change,to transfer to another vehicle
 graf,noun,chart,non-narrative presentation of data
 žebříček,noun,chart,"ranked listing of competitors, as of recorded music"
 levný,adj,cheap,low and/or reduced in price
@@ -421,6 +477,7 @@ třída,noun,class,taxonomy: classification below Phylum and above Order
 třída,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 třída,noun,classroom,room in a school
 učebna,noun,classroom,room in a school
+čistý,adj,clean,not dirty
 čistit,verb,clean,(transitive) to remove dirt from a place or object
 vyčistit,verb,clean,(transitive) to remove dirt from a place or object
 očistit,verb,clean,(transitive) to remove dirt from a place or object
@@ -450,6 +507,10 @@ plášť,noun,coat,outer garment covering the upper torso and arms
 nátěr,noun,coat,"covering of material, such as paint"
 káva,noun,coffee,beverage
 kávovník,noun,coffee,plant
+studený,adj,cold,having a low temperature
+chladný,adj,cold,having a low temperature
+chladný,adj,cold,unfriendly
+nepřátelský,adj,cold,unfriendly
 zima,noun,cold,low temperature
 chlad,noun,cold,low temperature
 nachlazení,noun,cold,illness
@@ -482,6 +543,8 @@ srovnávat,verb,compare,to assess the similarities between two things or between
 srovnat,verb,compare,to assess the similarities between two things or between one thing and another
 stupňovat,verb,compare,to form the three degrees of comparison of
 být srovnatelný,verb,compare,to be similar
+úplný,adj,complete,with everything included
+plný,adj,complete,with everything included
 dokončit,verb,complete,to finish
 počítač,noun,computer,programmable electronic device
 sčítač,noun,computer,person
@@ -497,7 +560,12 @@ chladný,adj,cool,having a slightly low temperature
 skvělý,adj,cool,colloquial: in fashion
 v pořádku,adj,cool,"colloquial: all right, acceptable"
 ok,adj,cool,"colloquial: all right, acceptable"
+správný,adj,correct,free from error
+slušný,adj,correct,with good manners
+korektní,adj,correct,with good manners
 opravit,verb,correct,to make something become right that was previously wrong
+náklad,noun,cost,amount of money spent for a purpose
+cena,noun,cost,negative consequence or loss
 stát,verb,cost,"to incur a charge, a price"
 země,noun,country,region of land
 země,noun,country,nation state
@@ -542,6 +610,7 @@ přeříznout,verb,cut,to divide with a sharp instrument
 oddělit,verb,cut,to separate from prior association
 rozdělit,verb,cut,to separate from prior association
 tatínek,noun,dad,informal: a father
+tanec,noun,dance,movements to music
 tančit,verb,dance,move rhythmically to music
 tancovat,verb,dance,move rhythmically to music
 plesati,verb,dance,move rhythmically to music
@@ -584,6 +653,8 @@ chutný,adj,delicious,pleasing to taste
 popisovat,verb,describe,to represent in words
 popsat,verb,describe,to represent in words
 popis,noun,description,account in words
+návrh,noun,design,plan
+design,noun,design,art of designing
 psací stůl,noun,desk,table for writing and reading
 podrobnost,noun,detail,part small enough to escape casual notice
 detail,noun,detail,part small enough to escape casual notice
@@ -670,8 +741,18 @@ losovat,verb,draw,to determine the result of a lottery
 vylosovat,verb,draw,to determine the result of a lottery
 snímat,verb,draw,cardgames: to take the top card of a deck into hand
 sejmout,verb,draw,cardgames: to take the top card of a deck into hand
+šaty,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+oblečení,noun,dress,apparel or clothing
 obléknout,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 obléknout se,verb,dress,to put on clothes — see also get dressed
+pití,noun,drink,served beverage
+nápoj,noun,drink,served beverage
+nápoj,noun,drink,type of beverage
+drink,noun,drink,type of beverage
+pití,noun,drink,type of beverage
+drink,noun,drink,served alcoholic beverage
+pití,noun,drink,served alcoholic beverage
+pití,noun,drink,action of drinking
 pít,verb,drink,consume liquid through the mouth
 pít,verb,drink,consume alcoholic beverages
 řídit,verb,drive,to operate (a wheeled motorized vehicle)
@@ -684,12 +765,19 @@ hnát,verb,drive,to impel or urge (especially animals) onward by force; to push 
 ovladač,noun,driver,program acting as interface between an application and hardware
 klas,noun,ear,fruiting body of a grain plant
 ucho,noun,ear,organ of hearing
+raný,adj,early,at a time in advance of the usual
+časný,adj,early,at a time in advance of the usual
 brzy,adv,early,at a time before expected
 časně,adv,early,at a time before expected
+východní,adj,east,in or towards the east
+východní,adj,east,meteorology: easterly
+východní,adj,east,of or pertaining to the east
+východní,adj,east,from the East
 východně,adv,east,towards the east
 na východ,adv,east,towards the east
 k východu,adv,east,towards the east
 východním směrem,adv,east,towards the east
+východ,noun,east,compass point
 snadný,adj,easy,requiring little skill or effort
 jednoduchý,adj,easy,requiring little skill or effort
 lehký,adj,easy,requiring little skill or effort
@@ -702,6 +790,11 @@ vejce,noun,egg,edible egg of a domestic fowl; the contents of such an egg or egg
 boule,noun,egg,swelling on one’s head resulting from an injury
 slon,noun,elephant,mammal
 slonice,noun,elephant,mammal
+e-mail,noun,email,system for sending messages and datas by means of computers connected together in a network
+email,noun,email,system for sending messages and datas by means of computers connected together in a network
+e-mail,noun,email,message sent through email
+konec,noun,end,extreme part
+smrt,noun,end,death
 končit se,verb,end,"intransitive: be finished, be terminated"
 dokončovat,verb,end,"transitive: finish, terminate (something)"
 dokončit,verb,end,"transitive: finish, terminate (something)"
@@ -729,6 +822,8 @@ vzrušený,adj,excited,having great enthusiasm and energy
 excitovaný,adj,excited,being in a state of higher energy
 nabuzený,adj,excited,being in a state of higher energy
 vzrušující,adj,exciting,causing excitement
+cvičení,noun,exercise,any activity designed to develop or hone a skill or ability
+cvičení,noun,exercise,physical activity intended to improve strength and fitness
 cvičit,verb,exercise,exert for the sake of training
 drahý,adj,expensive,having a high price or cost
 nákladný,adj,expensive,having a high price or cost
@@ -756,11 +851,18 @@ fakt,noun,fact,an objective consensus on a fundamental reality
 skutečnost,noun,fact,an objective consensus on a fundamental reality
 fakt,noun,fact,information about a particular subject
 pád,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+padat,verb,fall,move to a lower position under the effect of gravity
+padnout,verb,fall,move to a lower position under the effect of gravity
 nepravdivý,adj,false,"untrue, not factual, wrong"
 falešný,adj,false,"spurious, artificial"
 imitovaný,adj,false,"spurious, artificial"
 nepravý,adj,false,"spurious, artificial"
 umělý,adj,false,"spurious, artificial"
+rodina,noun,family,"immediate family [as a group], e.g. parents and their children"
+rodina,noun,family,"group of people related by blood, marriage, law, or custom"
+čeleď,noun,family,"rank in a taxonomic classification, above both genus and species"
+rodina,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+rodinný,noun,family,(used attributively)
 slavný,adj,famous,well known
 proslulý,adj,famous,well known
 věhlasný,adj,famous,well known
@@ -782,6 +884,8 @@ zemědělka,noun,farmer,person who works the land and/or who keeps livestock
 zemědělkyně,noun,farmer,person who works the land and/or who keeps livestock
 farmář,noun,farmer,person who works the land and/or who keeps livestock
 farmářka,noun,farmer,person who works the land and/or who keeps livestock
+rychlý,adj,fast,moving or capable of moving with great speed
+hluboký,adj,fast,of sleep: deep or sound
 rychle,adv,fast,with great speed
 tlustý,adj,fat,carrying a larger than normal amount of fat on one's body
 tlustý,adj,fat,thick
@@ -862,6 +966,8 @@ zapomenout,verb,forget,to lose remembrance of
 zapomenout,verb,forget,to unintentionally not do
 zapomenout,verb,forget,to cease remembering
 zapomínat,verb,forget,to cease remembering
+forma,noun,form,shape or visible structure
+formulář,noun,form,document to be filled in
 svobodný,adj,free,not imprisoned
 volný,adj,free,not imprisoned
 volný,adj,free,unconstrained
@@ -892,6 +998,12 @@ laskavý,adj,friendly,"approachable, warm"
 přátelský,adj,friendly,"approachable, warm"
 přátelský,adj,friendly,characteristic of friendliness
 přední,adj,front,located at or near the front
+předek,noun,front,facing side
+předek,noun,front,main entrance side
+fasáda,noun,front,main entrance side
+fronta,noun,front,meteorology: interface between airmasses
+fronta,noun,front,military: area or line of conflict
+front,noun,front,major subdivision of Soviet army
 ovoce,noun,fruit,part of plant
 plod,noun,fruit,part of plant
 ovoce,noun,fruit,food
@@ -966,11 +1078,13 @@ děda,noun,grandfather,grandfather (from either side)
 děd,noun,grandfather,grandfather (from either side)
 babička,noun,grandmother,mother of someone's parent
 prarodič,noun,grandparent,parent of one's parent
+šedý,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 šedá,noun,gray,colour
 gray,noun,gray,SI unit of absorbed radiation
 veliký,adj,great,"very big, large scale"
 skvělý,adj,great,very good
 veliký,adj,great,important title
+zelený,adj,green,having green as its colour
 zelená,noun,green,colour
 zelený,noun,green,member of a green party
 zelená,noun,green,member of a green party
@@ -982,6 +1096,9 @@ skupina,noun,group,in Unix
 růst,verb,grow,(intransitive) to become bigger
 pěstovat,verb,grow,(transitive) to cause something to become bigger
 odhad,noun,guess,prediction about the outcome of something
+hádat,verb,guess,to reach an unconfirmed conclusion
+uhádnout,verb,guess,to solve by a correct conjecture
+předpokládat,verb,guess,"to suppose, to imagine"
 kytara,noun,guitar,musical instrument
 posilovna,noun,gym,sporting facility specialized for lifting weights and exercise
 posilka,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -1010,6 +1127,12 @@ dějít se,verb,happen,to occur
 radostný,adj,happy,"contented, joyous"
 šťastný,adj,happy,"fortunate, lucky"
 spokojený,adj,happy,content (to do something); having no objection (to something)
+tvrdý,adj,hard,resistant to pressure
+těžký,adj,hard,requiring a lot of effort to do or understand
+obtížný,adj,hard,requiring a lot of effort to do or understand
+krušný,adj,hard,requiring a lot of effort to do or understand
+tvrdý,adj,hard,of drink: strong
+tvrdý,adj,hard,"of water, high in dissolved calcium compounds"
 klobouk,noun,hat,a head covering
 nenávidět,verb,hate,to dislike intensely
 nesnášet,verb,hate,to dislike intensely
@@ -1032,6 +1155,8 @@ pomoc,noun,help,action given to provide assistance
 pomocník,noun,help,person or persons who provides assistance with some task
 pomocnice,noun,help,person or persons who provides assistance with some task
 nápověda,noun,help,textual support of a software application
+pomáhat,verb,help,transitive: provide assistance to (someone or something)
+pomoct or pomoci,verb,help,transitive: provide assistance to (someone or something)
 tady,adv,here,"in, on, or at this place"
 zde,adv,here,"in, on, or at this place"
 tu,adv,here,"in, on, or at this place"
@@ -1053,6 +1178,13 @@ hobby,noun,hobby,activity done for enjoyment in spare time
 ostříž lesní,noun,hobby,Falco subbuteo
 doma,adv,home,at home
 domů,adv,home,homewards
+domov,noun,home,house or structure in which someone lives
+domov,noun,home,someone’s native land
+domov,noun,home,childhood or parental home
+domov,noun,home,place of the affections
+domov,noun,home,habitat
+domov,noun,home,place of refuge or rest
+domov,noun,home,goal (sports)
 domácí úkol,noun,homework,work that is done at home
 domácí úkoly,noun,homework,work that is done at home
 doufat,verb,hope,"to want something to happen, with expectation that it might"
@@ -1104,9 +1236,16 @@ vylepšit se,verb,improve,to become better
 dovnitř,adv,in,moving to the interior
 ve hře,adv,in,still able to play
 informace,noun,information,communicable knowledge
+úrok,noun,interest,finance: price of credit
+zájem,noun,interest,great attention and concern from someone
+zájem,noun,interest,attention that is given to or received from someone or something
+zájem,noun,interest,"involvement in or link with financial, business, or other undertaking"
 zajímat,verb,interest,to attract attention or concern
 zainteresovaný,adj,interested,having or showing interest
 zajímavý,adj,interesting,arousing or holding the attention
+interview,noun,interview,conversation with journalist etc.
+přijímací pohovor,noun,interview,a formal meeting for the assessment of a candidate or applicant
+osobní pohovor,noun,interview,a formal meeting for the assessment of a candidate or applicant
 představit,verb,introduce,to make something or someone known by formal announcement or recommendation
 zavést,verb,introduce,to bring into practice — see also bring in
 ostrov,noun,island,area of land completely surrounded by water
@@ -1140,6 +1279,13 @@ nechat si,verb,keep,to maintain possession of
 pokračovat,verb,keep,to continue
 klíčový,adj,key,indispensable
 klíčový,adj,key,important
+klíč,noun,key,device designed to open and close a lock
+klávesa,noun,key,button on a typewriter or computer keyboard
+klávesa,noun,key,part of a piano or musical keyboard
+tónina,noun,key,scale of musical notes
+klíč,noun,key,cryptography: piece of information used to encode or decode
+klíč,noun,key,computing: field of a database constrained to be unique
+klíč,noun,key,computing: value uniquely identifying entry in associative array
 kuchyně,noun,kitchen,room
 vědět,verb,know,be justifiably certain or sure about (something true)
 znát,verb,know,be acquainted or familiar with
@@ -1160,10 +1306,17 @@ jazyk,noun,language,vocabulary of a particular field
 řeč,noun,language,vocabulary of a particular field
 jazyk,noun,language,computer language — see also computer language
 velký,adj,large,of greater size — see also big
+pozdní,adj,late,near the end of a period of time
+pozdní,adj,late,near the end of the day
+pozdní,adj,late,associated with the end of a period
+blahé paměti,adj,late,"euphemism for ""dead"""
 pozdě,adv,late,past a designated time
 později,adv,later,more late
 pozdější,adv,later,afterward in time
 smích,noun,laugh,expression of mirth peculiar to the human species
+smát se,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+smát se,verb,laugh,be or appear cheerful
+posmívat se,verb,laugh,make an object of laughter or ridicule
 učit se,verb,learn,to acquire knowledge or ability
 učit se,verb,learn,to attend educational activity
 učit se,verb,learn,to make use of a bad experience
@@ -1182,6 +1335,13 @@ zanechat,verb,leave,to transfer possession after death
 nechat,verb,leave,to transfer responsibility or attention
 přenechat,verb,leave,to transfer responsibility or attention
 opustit,verb,leave,"to depart from, end one's connection or affiliation with"
+levý,adj,left,west side of the body when one is facing north
+levá,adj,left,west side of the body when one is facing north
+levé,adj,left,west side of the body when one is facing north
+levicový,adj,left,pertaining to the political left
+nalevo,adv,left,on the left side
+vlevo,adv,left,on the left side
+doleva,adv,left,towards the left side
 levice,noun,left,the ensemble of left-wing political parties
 noha,noun,leg,lower limb from groin to ankle
 lekce,noun,lesson,section of learning or teaching
@@ -1215,6 +1375,8 @@ světlý,adj,light,having light
 světlý,adj,light,pale in colour
 lehký,adj,light,of low weight
 dietní,adj,light,"low in fat, calories, alcohol, salt, etc."
+světlo,noun,light,electromagnetic waves
+světlo,noun,light,source of illumination
 mít rád,verb,like,to enjoy
 líbit se,verb,like,to enjoy
 mít rád,verb,like,to find attractive
@@ -1230,6 +1392,8 @@ fronta,noun,line,"straight sequence of people, queue"
 řádek,noun,line,"single horizontal row of text on a screen, printed paper, etc."
 lev,noun,lion,big cat Panthera leo
 lev,noun,lion,heraldic charge
+seznam,noun,list,enumeration or compilation of items
+seznam,noun,list,computing: codified representation of a list
 poslouchat,verb,listen,to pay attention to a sound
 poslechnout,verb,listen,to pay attention to a sound
 naslouchat,verb,listen,to expect or wait for a sound
@@ -1247,6 +1411,8 @@ přežívat,verb,live,"survive, persevere, continue"
 přežít,verb,live,"survive, persevere, continue"
 místní,adj,local,of a nearby location
 lokální,adj,local,computing: having limited scope
+dlouhý,adj,long,having much distance from one point to another
+dlouhý,adj,long,having great duration
 daleko,adv,long,over a great distance
 dlouho,adv,long,for a particular duration
 dlouho,adv,long,for a long duration
@@ -1262,6 +1428,8 @@ shodit,verb,lose,shed (weight)
 zhubnout,verb,lose,shed (weight)
 prohrát,verb,lose,fail to be the winner
 prohrávat,verb,lose,fail to be the winner
+láska,noun,love,strong affection
+lásko,noun,love,object of one's romantic feelings; darling or sweetheart
 milovat,verb,love,have a strong affection for
 mít rád,verb,love,have a strong affection for
 milovat se,verb,love,(euphemistic): to have sex with
@@ -1305,6 +1473,9 @@ tržní,noun,market,used attributively
 ženatý,adj,married,in a state of marriage; having a wife or a husband
 vdaná,adj,married,in a state of marriage; having a husband
 ženatý,adj,married,in a state of marriage; having a wife
+zápas,noun,match,sporting event
+zápalka,noun,match,device to make fire
+sirka,noun,match,device to make fire
 odpovídat,verb,match,intransitive: to agree; to be equal
 asi,adv,maybe,indicating a lack of certainty
 možná,adv,maybe,indicating a lack of certainty
@@ -1444,6 +1615,9 @@ hudba,noun,music,any pleasing or interesting sounds
 notace,noun,music,sheet music
 partitura,noun,music,sheet music
 muset,verb,must,be required to
+jméno,noun,name,"word or phrase indicating a particular person, place, class or thing"
+název,noun,name,"word or phrase indicating a particular person, place, class or thing"
+jméno,noun,name,reputation — see also reputation
 pojmenovat,verb,name,to give a name to
 jmenovat,verb,name,to give a name to
 jmenovat,verb,name,"to mention, specify"
@@ -1454,6 +1628,7 @@ označit,verb,name,to publicly implicate
 jmenovat,verb,name,to designate for a role
 přírodní,adj,natural,of or relating to nature
 přirozený,adj,natural,as expected
+blízký,adj,near,physically close
 potřebovat,verb,need,to have an absolute requirement for
 negativní,adj,negative,not positive or neutral
 záporný,adj,negative,of electrical charge
@@ -1471,6 +1646,11 @@ nový,adj,new,recently arrived or appeared
 noviny,noun,news,new information of interest
 noviny,noun,newspaper,publication
 novinový papír,noun,newspaper,paper on which newspapers are printed
+příští,adj,next,following in a sequence
+následující,adj,next,following in a sequence
+budoucí,adj,next,following in a sequence
+další,adj,next,"nearest date, time, space or order"
+následující,adj,next,"nearest date, time, space or order"
 hezký,adj,nice,"pleasant, satisfactory"
 příjemný,adj,nice,"pleasant, satisfactory"
 milý,adj,nice,"pleasant, satisfactory"
@@ -1481,6 +1661,9 @@ noc,noun,night,period between sunset and sunrise
 večer,noun,night,evening or night spent at a particular activity
 noc,noun,night,night spent away from home
 noc,noun,night,darkness
+severní,adj,north,toward the north
+sever,noun,north,compass point
+půlnoc,noun,north,compass point
 nos,noun,nose,protuberance on the face
 ne-,adv,not,negates meaning of another word
 poznámka,noun,note,marginal comment or explanation
@@ -1526,6 +1709,8 @@ starý,adj,old,having existed or lived for the specified time
 jednou,adv,once,one and only one time
 kdysi,adv,once,formerly
 cibule,noun,onion,Allium cepa
+jediný,adj,only,alone in a category
+jedináček,adj,only,without sibling
 jen,adv,only,without others or anything further; exclusively
 jenom,adv,only,without others or anything further; exclusively
 pouze,adv,only,without others or anything further; exclusively
@@ -1533,6 +1718,10 @@ jedině,adv,only,without others or anything further; exclusively
 jen,adv,only,no more than
 až,adv,only,as recently as
 teprve,adv,only,as recently as
+otevřený,adj,open,not closed
+otevřený,adj,open,prepared to conduct business
+otevřen,adj,open,receptive
+veřejný,adj,open,public
 otevírat,verb,open,to make something accessible
 otevřít,verb,open,to make something accessible
 otevřít,verb,open,to make accessible to customers
@@ -1544,7 +1733,36 @@ názor,noun,opinion,thought a person has formed about a topic
 posudek,noun,opinion,thought a person has formed about a topic
 mínění,noun,opinion,thought a person has formed about a topic
 stanovisko,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+druhý,adj,opposite,located directly across from
+opačný,adj,opposite,located directly across from
+protilehlý,adj,opposite,located directly across from
+opačný,adj,opposite,facing the other way
+opačný,adj,opposite,of complementary or mutually exclusive things
+protiklad,noun,opposite,contrary thing
+opak,noun,opposite,contrary thing
+opak,noun,opposite,antonym
+protiklad,noun,opposite,antonym
 oranžový,adj,orange,having the colour of the fruit of an orange tree
+pomerančovník,noun,orange,tree
+pomeranč,noun,orange,fruit
+oranžový,noun,orange,colour
+pořadí,noun,order,"arrangement, disposition"
+uspořádání,noun,order,"arrangement, disposition"
+řád,noun,order,good arrangement
+pořádek,noun,order,good arrangement
+rozkaz,noun,order,command
+povel,noun,order,command
+objednávka,noun,order,request for some product or service
+řád,noun,order,religious group
+řád,noun,order,society of knights
+řád,noun,order,awarded decoration
+řád,noun,order,biology: taxonomical classification
+řád,noun,order,electronics: power of polynomial function in a circuit’s block
+řád,noun,order,chemistry: a number of a chemical reaction
+řád,noun,order,graph theory: number of vertices in a graph
+uspořádaná množina,noun,order,partially ordered set
+uspořádání,noun,order,relation on a partially ordered set
+řád,noun,order,highest exponent in a polynomial
 uspořádat,verb,order,to set in (any) order
 uspořádat,verb,order,to set in (a good) order
 rozkazovat,verb,order,to issue a command
@@ -1561,6 +1779,9 @@ páže,noun,page,serving boy
 strana,noun,page,one side of a leaf of a book
 stránka,noun,page,one side of a leaf of a book
 barva,noun,paint,substance
+malovat,verb,paint,to apply paint to
+malovat,verb,paint,to create an image
+malovat,verb,paint,to practise the art of painting pictures
 obraz,noun,painting,an illustration or artwork using paint
 malba,noun,painting,artistic application of paint
 pár,noun,pair,two similar or identical things
@@ -1582,6 +1803,7 @@ poručník,noun,parent,person who acts as a parent in rearing a child — see al
 poručníce,noun,parent,person who acts as a parent in rearing a child — see also guardian
 rodič,noun,parent,biology: organism from which a plant or animal is biologically descended
 zdroj,noun,parent,source or origin of something
+park,noun,park,ground for recreation
 zaparkovat,verb,park,bring (a vehicle) to a halt
 část,noun,part,fraction of a whole
 část,noun,part,group inside a larger group
@@ -1599,6 +1821,9 @@ mecheche,noun,party,social gathering
 kalba,noun,party,social gathering
 pas,noun,passport,official document for foreign travel
 cestovní pas,noun,passport,official document for foreign travel
+minulý,adj,past,having already happened; in the past
+minulý,adj,past,of a period of time: having just gone by
+minulý,adj,past,grammar: expressing action that has already happened
 minulost,noun,past,period of time that has already happened
 minulý čas,noun,past,(grammar) past tense
 platit,verb,pay,to give money in exchange for goods or services
@@ -1635,6 +1860,8 @@ osoba,noun,person,any individual or formal organization with standing before the
 osoba,noun,person,grammar: linguistic category
 osobní,adj,personal,of or pertaining to a particular person
 osobní,adj,personal,pertaining to the external or bodily appearance
+hláska,noun,phone,speech segment
+fón,noun,phone,speech segment
 telefonovat,verb,phone,to call (someone) on the telephone
 zatelefonovat,verb,phone,to call (someone) on the telephone
 volat,verb,phone,to call (someone) on the telephone
@@ -1663,6 +1890,7 @@ prase,noun,pig,nasty or disgusting person
 prase,noun,pig,dirty or slovenly person
 čuně,noun,pig,dirty or slovenly person
 fízl,noun,pig,derogatory slang for police officer
+růžový,adj,pink,colored/coloured between red and white
 růžový,noun,pink,pale red colour
 karafiát,noun,pink,flower
 místo,noun,place,"location, position"
@@ -1670,6 +1898,9 @@ náměstí,noun,place,"open space, courtyard, market square"
 místo,noun,place,any area of the earth
 místo,noun,place,"area one occupies, particularly for sitting"
 místo,noun,place,numeric: the column counting a certain quantity
+plán,noun,plan,technical drawing
+plán,noun,plan,set of intended actions
+půdorys,noun,plan,2-dimensional drawing from above
 plánovat,verb,plan,to create a plan for
 naplánovat,verb,plan,to create a plan for
 plánovat,verb,plan,to intend
@@ -1686,6 +1917,12 @@ hra,noun,play,playful activity
 činohra,noun,play,theatrical performance
 drama,noun,play,theatrical performance
 hra,noun,play,theatrical performance
+hrát,verb,play,act in a manner such that one has fun
+hrát,verb,play,produce music using a musical instrument (intransitive sense)
+hrát,verb,play,act in a performance
+hrát,verb,play,participate in (a sport or game)
+hrát,verb,play,use a device to watch or listen to the indicated recording
+pustit,verb,play,use a device to watch or listen to the indicated recording
 hráč,noun,player,one who plays any game or sport
 hráčka,noun,player,one who plays any game or sport
 herec,noun,player,dramatic actor
@@ -1717,11 +1954,19 @@ kladný,adj,positive,mathematics: greater than zero
 pozitivní,adj,positive,characterised by constructiveness
 kladný,adj,positive,physics: having more protons than electrons
 možný,adj,possible,able but not certain to happen
+sloup,noun,post,long dowel or plank protruding from the ground
+pošta,noun,post,method of delivering mail
 brambor,noun,potato,plant tuber eaten as starchy vegetable
 brambora,noun,potato,plant tuber eaten as starchy vegetable
 útulek,noun,pound,place for the detention of stray animals
 libra,noun,pound,unit of mass (16 ounces avoirdupois)
 libra,noun,pound,unit of currency
+cvičení,noun,practice,repetition of an activity to improve skill
+procvičování,noun,practice,repetition of an activity to improve skill
+praxe,noun,practice,repetition of an activity to improve skill
+obyčej,noun,practice,"customary action, habit, or behaviour"
+zvyk,noun,practice,"customary action, habit, or behaviour"
+praxe,noun,practice,"actual operation or experiment, in contrast to theory"
 upřednostňovat,verb,prefer,to favor
 dát přednost,verb,prefer,to favor
 preferovat,verb,prefer,to favor
@@ -1730,7 +1975,11 @@ chystat,verb,prepare,to make ready for a specific future purpose
 připravit,verb,prepare,to make ready for eating or drinking
 připravit se,verb,prepare,to make oneself ready
 připravit,verb,prepare,to produce by combining elements
+přítomný,adj,present,pertaining to the current time
+současný,adj,present,pertaining to the current time
+přítomný,adj,present,in the immediate vicinity
 přítomnost,noun,present,current time
+hezký,adj,pretty,"especially of women and children: pleasant, attractive"
 cena,noun,price,cost required to gain possession of something
 cena,noun,price,cost of an action or deed
 pravděpodobně,adv,probably,in all likelihood
@@ -1750,6 +1999,8 @@ vysílání,noun,program,performance of a show or other broadcast on radio or te
 program,noun,program,software application
 projekt,noun,project,planned endeavor
 plán,noun,project,planned endeavor
+nachový,adj,purple,colour
+purpurový,adj,purple,colour
 purpurový,noun,purple,colour
 fialový,noun,purple,colour
 dát,verb,put,to place something somewhere
@@ -1783,6 +2034,9 @@ rozhlas,noun,radio,technology
 rádio,noun,radio,receiver
 radiopřijímač,noun,radio,receiver
 rádio,noun,radio,transmitter
+déšť,noun,rain,condensed water from a cloud
+déšť,noun,rain,any matter falling
+déšť,noun,rain,an instance of particles falling
 pršet,verb,rain,of rain: to fall from the sky
 dštít,verb,rain,of rain: to fall from the sky
 pršet,verb,rain,to fall in large quantities
@@ -1814,6 +2068,12 @@ příčina,noun,reason,that which causes: a cause
 důvod,noun,reason,motive for an action or determination
 důvod,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 rozum,noun,reason,(the capacity of the human mind for) rational thinking
+červený,adj,red,having red as its colour
+rudý,adj,red,having red as its colour
+rusý,adj,red,of hair: orange-brown
+ryšavý,adj,red,of hair: orange-brown
+zrzavý,adj,red,of hair: orange-brown
+rudý,adj,red,"left-wing, socialist or communist"
 červeň,noun,red,colour
 červená,noun,red,colour
 rudá,noun,red,colour
@@ -1836,11 +2096,33 @@ závěr,noun,result,that which results
 důsledek,noun,result,that which results
 návrat,noun,return,act of returning
 návratnost,noun,return,finance: gain or loss from an investment
+vrátit se,verb,return,to come or go back
+vracet se,verb,return,to come or go back
+vrátit,verb,return,to give something back to its original holder or owner
 rýže,noun,rice,plants
 rýže,noun,rice,seeds used as food
 bohatý,adj,rich,having wealth
 jet,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 jet,verb,ride,to be transported in a vehicle as a passenger
+přímý,adj,right,"straight, not bent"
+pravý,adj,right,"of an angle, 90 degrees"
+kolmý,adj,right,"of an angle, 90 degrees"
+správný,adj,right,"complying with justice, correct — see also be right"
+správný,adj,right,"appropriate, fit for purpose"
+zdravý,adj,right,"healthy, sane, competent — see also healthy, sane, competent"
+pravý,adj,right,"of direction, opposite of left"
+pravicový,adj,right,politics: conservative
+napravo,adv,right,on the right side
+vpravo,adv,right,towards the right side
+do prava,adv,right,towards the right side
+přesně,adv,right,exactly
+dobře,adv,right,exactly
+velmi,adv,right,"very, extremely"
+úplně,adv,right,"very, extremely"
+zcela,adv,right,"very, extremely"
+správně,adv,right,according to fact or truth
+správně,adv,right,in a correct manner
+hodně,adv,right,to a great extent
 právo,noun,right,"which complies with justice, law or reason"
 právo,noun,right,legal or moral entitlement
 na pravo,noun,right,"right, not left, side"
@@ -1876,6 +2158,9 @@ salát,noun,salad,food
 sůl,noun,salt,sodium chloride
 sůl,noun,salt,compound of an acid and a base
 sůl,noun,salt,additional bytes inserted into an encryption
+tentýž,adj,same,not different as regards self; identical
+totožný,adj,same,not different as regards self; identical
+stejný,adj,same,"similar, alike"
 sendvič,noun,sandwich,dish — see also open sandwich
 říkat,verb,say,"to say, to tell"
 říct,verb,say,"to say, to tell"
@@ -1896,6 +2181,8 @@ znalost,noun,science,fact of knowing something
 vědění,noun,science,fact of knowing something
 vědec,noun,scientist,one whose activities make use of the scientific method
 vědkyně,noun,scientist,one whose activities make use of the scientific method
+druhý,adj,second,second (numeral) — see also 2nd
+druhý,adj,second,that comes after the first
 sekunda,noun,second,one-sixtieth of a minute; SI unit of time
 vteřina,noun,second,one-sixtieth of a minute; SI unit of time
 vteřina,noun,second,unit of angular measure
@@ -1931,6 +2218,8 @@ ovce,noun,sheep,animal
 ovčan,noun,sheep,one who behaves shyly
 košile,noun,shirt,article of clothing
 bota,noun,shoe,protective covering for the foot
+obchod,noun,shop,establishment that sells goods
+prodejna,noun,shop,establishment that sells goods
 nakupovat,verb,shop,to visit shops
 nakupování,noun,shopping,activity of buying
 nákup,noun,shopping,activity of buying
@@ -1946,6 +2235,9 @@ výstava,noun,show,exhibition — see also exhibition
 ukázka,noun,show,demonstration
 předvedení,noun,show,demonstration
 pořad,noun,show,broadcast program(me)
+ukazovat,verb,show,to display
+ukázat,verb,show,to display
+ukázat,verb,show,to indicate (a fact) to be true
 přeháňka,noun,shower,brief fall of rain
 sprcha,noun,shower,device for bathing
 sprcha,noun,shower,instance of using of this device
@@ -1982,6 +2274,11 @@ inteligentní,adj,smart,"exhibiting intellectual knowledge, such as that found i
 inteligentní,adj,smart,equipped with intelligent behaviour (digital/computer technology)
 chytrý,adj,smart,equipped with intelligent behaviour (digital/computer technology)
 had,noun,snake,legless reptile
+sníh,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+sněhobílý,noun,snow,white color of snow
+sněhobílá,noun,snow,white color of snow
+sněhobílé,noun,snow,white color of snow
+sníh,noun,snow,cocaine — see also cocaine
 sněžit,verb,snow,have snow fall from the atmosphere
 tak,adv,so,very
 tak,adv,so,to a particular extent
@@ -2001,11 +2298,16 @@ písnička,noun,song,music with words
 brzy,adv,soon,within a short time
 zanedlouho,adv,soon,within a short time
 žalostný,adj,sorry,"poor, regrettable"
+zvuk,noun,sound,sensation perceived by the ear
+zvuk,noun,sound,vibration capable of causing this
 znít,verb,sound,to produce a sound
 rozeznít,verb,sound,to cause to produce a sound
 rozezvučet,verb,sound,to cause to produce a sound
 vyslovovat,verb,sound,to pronounce
 polévka,noun,soup,dish
+jižní,adj,south,of or pertaining to the south
+jih,noun,south,compass point
+poledne,noun,south,compass point
 prostor,noun,space,physical extent in two or three dimensions
 vesmír,noun,space,area beyond atmosphere of planets
 místo,noun,space,bounded or specific physical extent
@@ -2075,6 +2377,12 @@ i tak,adv,still,nevertheless
 stále,adv,still,nevertheless
 zastávka,noun,stop,place to get on and off mass transport
 zastávka,noun,stop,interruption of travel
+zastavit se,verb,stop,to cease moving
+skončit,verb,stop,"not to continue — see also cease, desist"
+zastavit,verb,stop,to cause to cease moving
+ukončit,verb,stop,to cause to come to an end
+zůstat,verb,stop,to stay a while
+pobývat,verb,stop,to tarry
 sklad,noun,store,place where items may be kept
 příběh,noun,story,account of events
 ulice,noun,street,paved part of road in a village or a town
@@ -2083,6 +2391,11 @@ student,noun,student,person who studies a subject
 studentka,noun,student,person who studies a subject
 student,noun,student,person enrolled at a university — see also university student
 studentka,noun,student,person enrolled at a university — see also university student
+studium,noun,study,mental effort to acquire knowledge
+učení,noun,study,mental effort to acquire knowledge
+studovna,noun,study,room in a house intended for reading and writing
+pracovna,noun,study,room in a house intended for reading and writing
+studie,noun,study,artwork made in order to practise or demonstrate a subject or technique
 studovat,verb,study,to revise/review materials
 studovat,verb,study,to take a course
 studovat,verb,study,to acquire knowledge
@@ -2153,6 +2466,7 @@ náctiletý,noun,teenager,person aged between thirteen and nineteen
 puberťák,noun,teenager,person aged between thirteen and nineteen
 dospívající,noun,teenager,person aged between thirteen and nineteen
 teenager,noun,teenager,person aged between thirteen and nineteen
+telefon,noun,telephone,a device used for two-way talking with other people
 telefonovat,verb,telephone,to call someone
 zatelefonovat,verb,telephone,to call someone
 volat,verb,telephone,to call someone
@@ -2170,6 +2484,10 @@ hrozný,adj,terrible,dreadful; causing alarm or fear
 strašný,adj,terrible,dreadful; causing alarm or fear
 hrozivý,adj,terrible,most formidable
 hrozný,adj,terrible,most formidable
+test,noun,test,"challenge, trial"
+zkouška,noun,test,"challenge, trial"
+zkouška,noun,test,academics: examination
+test,noun,test,product examination
 testovat,verb,test,to administer an examination during the academic term
 zkoušet,verb,test,to administer an examination during the academic term
 vyzkoušet,verb,test,to administer an examination during the academic term
@@ -2223,6 +2541,9 @@ krát,noun,time,instance or occurrence
 unavený,adj,tired,in need of rest or sleep
 titul,noun,title,prefix or suffix added to a name
 název,noun,title,"name of a book, etc"
+dnes,adv,today,on the current day
+dnes,adv,today,"nowadays — see also nowadays, these days"
+v dnešní době,adv,today,"nowadays — see also nowadays, these days"
 dnešek,noun,today,today (noun)
 společně,adv,together,"at the same time, in the same place"
 spolu,adv,together,"at the same time, in the same place"
@@ -2238,7 +2559,10 @@ toaleta,noun,toilet,"fixture used for urination and defecation — see also flus
 rajče,noun,tomato,tomato plant
 rajče,noun,tomato,fruit
 rajské jablíčko,noun,tomato,fruit
+zítra,adv,tomorrow,on the day after the present day
 zítřek,noun,tomorrow,the day after the present day
+dnes večer,adv,tonight,during today's evening
+dnes v noci,adv,tonight,during today's nighttime
 dnes večer,noun,tonight,nighttime today
 také,adv,too,likewise
 též,adv,too,likewise
@@ -2255,6 +2579,9 @@ doprava,noun,traffic,pedestrians or vehicles on roads or on the air
 provoz,noun,traffic,"exchange or flux of information, messages or data"
 vlak,noun,train,line of connected cars or carriages
 cestování,noun,travel,act of traveling
+cestovat,verb,travel,be on a journey
+jezdit,verb,travel,be on a journey
+procestovat,verb,travel,travel throughout
 strom,noun,tree,large woody plant
 výlet,noun,trip,journey
 klopýtnutí,noun,trip,stumble or misstep
@@ -2276,6 +2603,11 @@ obrat,noun,turn,change of direction or orientation
 zatáčka,noun,turn,change of direction or orientation
 zákruta,noun,turn,change of direction or orientation
 obrátka,noun,turn,movement about an axis ending up with the same orientation
+točit,verb,turn,move around an axis through itself
+otočit,verb,turn,move around an axis through itself
+otočit,verb,turn,"change the direction or orientation of, especially by rotation"
+zahnout,verb,turn,change one's direction of travel
+otočit,verb,turn,change one's direction of travel
 dvakrát,adv,twice,two times
 typ,noun,type,grouping based on shared characteristics
 druh,noun,type,grouping based on shared characteristics
@@ -2319,6 +2651,8 @@ video,noun,video,motion picture stored on VHS
 videokazeta,noun,video,VHS
 návštěva,noun,visit,single act of visiting
 návštěva,noun,visit,meeting with a doctor
+navštěvovat,verb,visit,to go and meet (someone)
+navštívit,verb,visit,to go and meet (someone)
 návštěvník,noun,visitor,guest
 návštěvnice,noun,visitor,guest
 návštěvník,noun,visitor,sightseer
@@ -2333,6 +2667,9 @@ probudit se,verb,wake,to stop sleeping
 vzbudit,verb,wake,to make somebody stop sleeping
 probudit,verb,wake,to make somebody stop sleeping
 procházka,noun,walk,trip made by walking
+jít,verb,walk,to move on the feet
+chodit,verb,walk,to move on the feet
+jít,verb,walk,to travel a distance by walking
 hradba,noun,wall,defensive rampart
 stěna,noun,wall,defensive rampart
 zeď,noun,wall,defensive rampart
@@ -2354,6 +2691,15 @@ hodinky,noun,watch,portable or wearable timepiece
 hlídka,noun,watch,particular time period
 hlídka,noun,watch,person or group of people who guard
 hlídka,noun,watch,group of sailors and officers
+dívat se,verb,watch,to look at for a period of time
+hlídat,verb,watch,to look at for a period of time
+sledovat,verb,watch,to look at for a period of time
+zhlédnout,verb,watch,to look at for a period of time
+zhlížet,verb,watch,to look at for a period of time
+dívat se,verb,watch,to observe
+sledovat,verb,watch,to observe
+hlídat,verb,watch,to attend or guard
+dávat pozor,verb,watch,to be wary
 voda,noun,water,inorganic compound H₂O
 voda,noun,water,one of the basic elements
 cesta,noun,way,"road, direction, path"
@@ -2368,7 +2714,15 @@ týden,noun,week,period of seven days
 konec týdne,noun,weekend,break in the working week
 víkend,noun,weekend,break in the working week
 vítaný,adj,welcome,whose arrival is a cause of joy
+vítat,verb,welcome,affirm or greet the arrival of someone
+vítat,verb,welcome,to accept willingly
 zdravý,adj,well,in good health
+dobře,adv,well,accurately; competently
+dobře,adv,well,completely; fully
+dobře,adv,well,to a significant degree
+západní,adj,west,western
+západní,adj,west,occidental
+západ,noun,west,compass point
 kdy,adv,when,"at what time, as a direct question"
 kdy,adv,when,"at what time, as an indirect question"
 kde,adv,where,at what place; to what place; from what place
@@ -2381,6 +2735,9 @@ kam,adv,where,to which place or situation
 kde,adv,where,in what situation
 kde,adv,where,the place in which
 kde,adv,where,legal: in the situation in which
+bílý,adj,white,bright and colourless
+bílý,adj,white,of or relating to Caucasians
+bělošský,adj,white,of or relating to Caucasians
 bílá,noun,white,color
 běloch,noun,white,person of European descent
 běloška,noun,white,person of European descent
@@ -2419,6 +2776,9 @@ dílo,noun,work,"literary, artistic, or intellectual production"
 mistrovská práce,noun,work,"literary, artistic, or intellectual production"
 práce,noun,work,physics: measure of energy expended in moving an object
 dílo,noun,work,fortification
+pracovat,verb,work,to do a specific task
+fungovat,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+opracovat,verb,work,"to shape, form, or improve a material"
 dělník,noun,worker,person who performs labor
 dělnice,noun,worker,person who performs labor
 dělnice,noun,worker,insect
@@ -2452,6 +2812,8 @@ yard,noun,yard,three feet
 rok,noun,year,time it takes for the Earth to complete one revolution around the Sun
 rok,noun,year,a period between set dates that mark a year
 ročník,noun,year,a level or grade at school or college
+žlutý,adj,yellow,having yellow as its color
 žlutá,noun,yellow,color
+včera,adv,yesterday,on the day before today
 včerejšek,noun,yesterday,day before today
 mladý,adj,young,in the early part of life or growth

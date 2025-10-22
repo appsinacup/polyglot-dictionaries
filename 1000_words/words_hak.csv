@@ -90,6 +90,7 @@ word,part_of_speech,english_word,sense
 門 /门,noun,door,"portal of entry into a building, room or vehicle"
 食,verb,drink,consume liquid through the mouth
 耳公,noun,ear,organ of hearing
+東 /东,noun,east,compass point
 食,verb,eat,"to ingest — see also consume, ingest"
 卵,noun,egg,"approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development"
 卵,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
@@ -101,6 +102,8 @@ word,part_of_speech,english_word,sense
 針眼 /针眼,noun,eye,hole in needle
 針鼻 /针鼻,noun,eye,hole in needle
 面,noun,face,anatomy: front part of head
+家庭,noun,family,"immediate family [as a group], e.g. parents and their children"
+家族,noun,family,"group of people related by blood, marriage, law, or custom"
 父親 /父亲,noun,father,male parent
 阿爸,noun,father,male parent
 神父,noun,father,term of address for a priest
@@ -136,6 +139,7 @@ word,part_of_speech,english_word,sense
 高,adj,high,of great or large quantity
 高,adj,high,acoustics: of greater frequency
 歷史 /历史,noun,history,aggregate of past events
+屋下,noun,home,house or structure in which someone lives
 希望,verb,hope,"to want something to happen, with expectation that it might"
 馬 /马,noun,horse,members of the species Equus ferus
 病院,noun,hospital,large medical facility
@@ -159,8 +163,10 @@ word,part_of_speech,english_word,sense
 生趣,adj,interesting,arousing or holding the attention
 島 /岛,noun,island,area of land completely surrounded by water
 牛仔褲 /牛仔裤,noun,jeans,denim trousers
+鎖匙 /锁匙,noun,key,device designed to open and close a lock
 知,verb,know,be justifiably certain or sure about (something true)
 語言 /语言,noun,language,body of words used as a form of communication
+笑,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
 腿,noun,leg,lower limb from groin to ankle
 腳 /脚,noun,leg,lower limb from groin to ankle
 下想,noun,leg,portion of the lower appendage from knee to ankle
@@ -169,8 +175,11 @@ word,part_of_speech,english_word,sense
 圖書館 /图书馆,noun,library,"institution which holds books, etc."
 生命,noun,life,the state of being alive
 生活,noun,life,the state of being alive
+光,noun,light,electromagnetic waves
 獅仔 /狮仔,noun,lion,big cat Panthera leo
 聽 /听,verb,listen,to pay attention to a sound
+愛 /爱,noun,love,strong affection
+愛 /爱,noun,love,strong affection
 愛 /爱,verb,love,have a strong affection for
 愛 /爱,verb,love,have a strong affection for
 雜誌 /杂志,noun,magazine,periodical
@@ -197,11 +206,14 @@ word,part_of_speech,english_word,sense
 電影 /电影,noun,movie,motion picture
 博物館 /博物馆,noun,museum,building or institution
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
+名仔,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名字,noun,name,"word or phrase indicating a particular person, place, class or thing"
 新,adj,new,recently made or created
 報紙 /报纸,noun,newspaper,publication
 新聞紙 /新闻纸,noun,newspaper,publication
 報紙 /报纸,noun,newspaper,paper on which newspapers are printed
 新聞紙 /新闻纸,noun,newspaper,paper on which newspapers are printed
+北,noun,north,compass point
 鼻,noun,nose,protuberance on the face
 鼻公,noun,nose,protuberance on the face
 唔,adv,not,negates meaning of another word
@@ -226,13 +238,17 @@ word,part_of_speech,english_word,sense
 植物,noun,plant,organism capable of photosynthesis
 警察,noun,police,local or general law enforcement agency
 馬鈴薯 /马铃薯,noun,potato,plant tuber eaten as starchy vegetable
+練習 /练习,noun,practice,repetition of an activity to improve skill
 今下,noun,present,current time
 價錢 /价钱,noun,price,cost required to gain possession of something
 節目 /节目,noun,program,performance of a show or other broadcast on radio or television
 問題 /问题,noun,question,"sentence, phrase or word"
 收音機 /收音机,noun,radio,receiver
 啦濟喲 /啦济哟,noun,radio,receiver
+雨,noun,rain,condensed water from a cloud
 讀 /读,verb,read,to look at and interpret letters or other information
+紅 /红,adj,red,"left-wing, socialist or communist"
+紅色 /红色,adj,red,"left-wing, socialist or communist"
 記得 /记得,verb,remember,to recall from one's memory
 餐廳 /餐厅,noun,restaurant,an eating establishment in which diners are served food
 結果 /结果,noun,result,that which results
@@ -249,15 +265,19 @@ word,part_of_speech,english_word,sense
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
 綿羊 /绵羊,noun,sheep,animal
 鞋仔,noun,shoe,protective covering for the foot
+店仔,noun,shop,establishment that sells goods
 歌手,noun,singer,person who sings (male or generic term)
 睡目,verb,sleep,to rest in state of reduced consciousness
 細 /细,adj,small,not large
 蛇,noun,snake,legless reptile
 蛇哥,noun,snake,legless reptile
+雪,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
 倈仔 /俫仔,noun,son,a male person in relation to his parents
 孻仔 /𡥧仔,noun,son,a male person in relation to his parents
 養子 /养子,noun,son,an adopted son
 歌,noun,song,music with words
+聲音 /声音,noun,sound,sensation perceived by the ear
+南,noun,south,compass point
 太空,noun,space,area beyond atmosphere of planets
 宇宙,noun,space,area beyond atmosphere of planets
 講 /讲,verb,speak,to communicate with one's voice using words
@@ -268,6 +288,7 @@ word,part_of_speech,english_word,sense
 站,noun,station,place where a vehicle may stop
 故事,noun,story,account of events
 學生 /学生,noun,student,person who studies a subject
+書房 /书房,noun,study,room in a house intended for reading and writing
 成功,noun,success,achievement of one's aim or goal
 糖,noun,sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink
 熱天 /热天,noun,summer,hottest season
@@ -282,6 +303,7 @@ word,part_of_speech,english_word,sense
 先生,noun,teacher,person who teaches
 教師 /教师,noun,teacher,person who teaches
 老師 /老师,noun,teacher,person who teaches
+電話 /电话,noun,telephone,a device used for two-way talking with other people
 電視 /电视,noun,television,medium
 東西 /东西,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
 物件,noun,thing,"that which is considered to exist as a separate entity, object, quality or concept"
@@ -290,8 +312,10 @@ word,part_of_speech,english_word,sense
 時間 /时间,noun,time,inevitable passing of events
 擺 /摆,noun,time,instance or occurrence
 𤸁,adj,tired,in need of rest or sleep
+今晡日,adv,today,on the current day
 今晡日,noun,today,today (noun)
 番茄,noun,tomato,fruit
+韶早,adv,tomorrow,on the day after the present day
 韶早,noun,tomorrow,the day after the present day
 也,adv,too,likewise
 牙齒 /牙齿,noun,tooth,anatomy: tooth
@@ -307,9 +331,12 @@ word,part_of_speech,english_word,sense
 姑丈,noun,uncle,brother (or brother-in-law) of someone’s parent
 姨丈,noun,uncle,brother (or brother-in-law) of someone’s parent
 大學 /大学,noun,university,institution of higher education
+行,verb,walk,to move on the feet
+行路,verb,walk,to move on the feet
 愛 /爱,verb,want,to desire
 想愛 /想爱,verb,want,to desire
 時錶仔 /时表仔,noun,watch,portable or wearable timepiece
+看,verb,watch,to look at for a period of time
 水,noun,water,inorganic compound H₂O
 著 /着,verb,wear,to have on (clothes or accessories)
 戴,verb,wear,to have on (clothes or accessories)
@@ -317,6 +344,7 @@ word,part_of_speech,english_word,sense
 天色,noun,weather,state of the atmosphere
 天時 /天时,noun,weather,state of the atmosphere
 禮拜 /礼拜,noun,week,period of seven days
+西,noun,west,compass point
 哪仔,adv,where,at what place; to what place; from what place
 哪位,adv,where,at what place; to what place; from what place
 哪仔,adv,where,at or in which place
@@ -334,6 +362,8 @@ word,part_of_speech,english_word,sense
 寒天,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 冷天,noun,winter,"fourth season, marked by short days and the lowest temperatures"
 女人,noun,woman,adult female person
+工作,verb,work,to do a specific task
+做事,verb,work,to do a specific task
 世界,noun,world,human collective existence
 宇宙,noun,world,the universe
 世界,noun,world,the Earth
@@ -342,5 +372,6 @@ word,part_of_speech,english_word,sense
 寫 /写,verb,write,"to form letters, etc."
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
 年,noun,year,time it takes for the Earth to complete one revolution around the Sun
+昨晡日,adv,yesterday,on the day before today
 昨晡日,noun,yesterday,day before today
 年輕 /年轻,adj,young,in the early part of life or growth

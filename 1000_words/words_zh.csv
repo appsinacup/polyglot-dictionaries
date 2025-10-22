@@ -1,4 +1,15 @@
 word,part_of_speech,english_word,sense
+хуэйда,noun,answer,response
+җәвабу,noun,answer,response
+回答,noun,answer,response
+對答 /对答,noun,answer,response
+回答,noun,answer,response
+對答 /对答,noun,answer,response
+解答,noun,answer,solution
+答案,noun,answer,solution
+回答,noun,answer,reply to email
+回復 /回复,noun,answer,reply to email
+回信,noun,answer,reply to email
 回答,verb,answer,to make a reply or response to
 答應 /答应,verb,answer,to make a reply or response to
 答覆,verb,answer,to make a reply or response to
@@ -46,6 +57,16 @@ word,part_of_speech,english_word,sense
 向後 /向后,adv,back,to or in a previous condition or place
 後 /后,adv,back,to or in a previous condition or place
 後面的 /后面的,adv,back,away from the front or from an edge
+җибый,noun,back,the rear of body
+尻脊骿,noun,back,the rear of body
+尻脊,noun,back,the rear of body
+背部,noun,back,the rear of body
+背,noun,back,the rear of body
+脊背,noun,back,the rear of body
+後面 /后面,noun,back,the reverse side
+最後 /最后,noun,back,that which is farthest away from the front
+最後的 /最后的,noun,back,the part of something that goes last
+後面的 /后面的,noun,back,a position behind most players on the team
 壞 /坏,adj,bad,unfavorable; negative
 不好,adj,bad,unfavorable; negative
 不恰當 /不恰当,adj,bad,not suitable or fitting
@@ -129,10 +150,25 @@ bì-luh,noun,beer,alcoholic drink made of malt
 鳥仔 /鸟仔,noun,bird,animal
 鳥 /鸟,noun,bird,animal
 雀,noun,bird,animal
+хи,adj,black,absorbing all light
+黑,adj,black,absorbing all light
+黑色,adj,black,absorbing all light
+烏色 /乌色,adj,black,absorbing all light
+黑,adj,black,absorbing all light
+黑色,adj,black,absorbing all light
+烏色 /乌色,adj,black,absorbing all light
+黑人,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
 烏色 /乌色,noun,black,colour/color
 黑色,noun,black,colour/color
 烏人 /乌人,noun,black,dark-skinned person — see also Negro
 黑人,noun,black,dark-skinned person — see also Negro
+藍色 /蓝色,adj,blue,"blue-coloured — see also dark blue, light blue"
+藍色 /蓝色,adj,blue,"blue-coloured — see also dark blue, light blue"
+藍 /蓝,adj,blue,"blue-coloured — see also dark blue, light blue"
+下流的,adj,blue,pornographic
 藍色 /蓝色,noun,blue,colour
 чуан,noun,boat,water craft
 船,noun,boat,water craft
@@ -305,6 +341,12 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 小孩子,noun,child,a minor
 孩子,noun,child,a minor
 小孩兒 /小孩儿,noun,child,a minor
+乾淨 /干净,adj,clean,not dirty
+整齊 /整齐,adj,clean,in an unmarked condition
+純潔 /纯洁,adj,clean,"pure, especially morally or religiously"
+公正,adj,clean,"smooth, exact, and performed well"
+熟練 /熟练,adj,clean,slang: cool or neat
+公正,adj,clean,without restrictions or penalties
 打掃 /打扫,verb,clean,(transitive) to remove dirt from a place or object
 整理,verb,clean,(transitive) to tidy up
 җун,noun,clock,instrument to measure or keep track of time
@@ -319,6 +361,17 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 咖啡豆,noun,coffee,beans
 咖啡樹 /咖啡树,noun,coffee,plant
 咖啡色,noun,coffee,colour
+лын,adj,cold,having a low temperature
+бин,adj,cold,having a low temperature
+хан,adj,cold,having a low temperature
+冷,adj,cold,having a low temperature
+冷,adj,cold,having a low temperature
+寒,adj,cold,having a low temperature
+冷,adj,cold,of the weather
+寒冷,adj,cold,of the weather
+涼 /凉,adj,cold,of the weather
+冷漠,adj,cold,unfriendly
+冰冷,adj,cold,unfriendly
 寒冷,noun,cold,low temperature
 感冒,noun,cold,illness
 янсый,noun,color,spectral composition of visible light
@@ -367,6 +420,11 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 甌仔 /瓯仔,noun,cup,drinking vessel
 杯子,noun,cup,drinking vessel
 罩杯,noun,cup,part of bra
+тёву,noun,dance,movements to music
+舞蹈,noun,dance,movements to music
+跳舞,noun,dance,movements to music
+舞蹈,noun,dance,movements to music
+跳舞,noun,dance,movements to music
 тёву,verb,dance,move rhythmically to music
 винон,verb,dance,move rhythmically to music
 跳舞,verb,dance,move rhythmically to music
@@ -421,6 +479,9 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 門 /门,noun,door,"portal of entry into a building, room or vehicle"
 門兒 /门儿,noun,door,"portal of entry into a building, room or vehicle"
 戶 /户,noun,door,"portal of entry into a building, room or vehicle"
+飲料 /饮料,noun,drink,served beverage
+飲料 /饮料,noun,drink,served beverage
+飲品 /饮品,noun,drink,served beverage
 хә,verb,drink,consume liquid through the mouth
 啉,verb,drink,consume liquid through the mouth
 喝,verb,drink,consume liquid through the mouth
@@ -429,6 +490,12 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 酗酒,verb,drink,consume alcoholic beverages
 酒醉,verb,drink,consume alcoholic beverages
 穗,noun,ear,fruiting body of a grain plant
+東 /东,adj,east,in or towards the east
+дун,noun,east,compass point
+дунфон,noun,east,compass point
+東 /东,noun,east,compass point
+東 /东,noun,east,compass point
+東方 /东方,noun,east,compass point
 чы,verb,eat,"to ingest — see also consume, ingest"
 食,verb,eat,"to ingest — see also consume, ingest"
 吃,verb,eat,"to ingest — see also consume, ingest"
@@ -476,9 +543,32 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 表面,noun,face,geometry: bounding surface of a polyhedron
 落下,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 墮落 /堕落,noun,fall,loss of greatness or status
+落,verb,fall,move to a lower position under the effect of gravity
+落下,verb,fall,move to a lower position under the effect of gravity
+掉,verb,fall,move to a lower position under the effect of gravity
+降,verb,fall,come down or descend
+下降,verb,fall,come down or descend
+成為 /成为,verb,fall,be allotted to
+成為 /成为,verb,fall,become or change into
+җящя,noun,family,"immediate family [as a group], e.g. parents and their children"
+җя,noun,family,"immediate family [as a group], e.g. parents and their children"
+家族,noun,family,"immediate family [as a group], e.g. parents and their children"
+家庭,noun,family,"immediate family [as a group], e.g. parents and their children"
+家,noun,family,"immediate family [as a group], e.g. parents and their children"
+家庭,noun,family,"immediate family [as a group], e.g. parents and their children"
+家族,noun,family,"group of people related by blood, marriage, law, or custom"
+家族,noun,family,"group of people related by blood, marriage, law, or custom"
+科,noun,family,"rank in a taxonomic classification, above both genus and species"
+科,noun,family,"rank in a taxonomic classification, above both genus and species"
+語系 /语系,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
 遠的 /远的,adv,far,"to, from or over a great distance"
 遠離的 /远离的,adv,far,"to, from or over a great distance"
 更遠的 /更远的,adv,far,"to, from or over a great distance"
+牢的,adj,fast,firmly or securely fixed in place
+快,adj,fast,moving or capable of moving with great speed
+不褪色的,adj,fast,of a dye: not running or fading
+偏快的,adj,fast,ahead of the correct time or schedule
+迅速曝光的,adj,fast,of photographic film: more sensitive to light than average
 牢固地,adv,fast,in a firm or secure manner
 快,adv,fast,with great speed
 快速,adv,fast,with great speed
@@ -676,6 +766,13 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 歷史 /历史,noun,history,computing: record of previous user events
 在家里,adv,home,at home
 在家,adv,home,homewards
+җя,noun,home,house or structure in which someone lives
+厝,noun,home,house or structure in which someone lives
+兜,noun,home,house or structure in which someone lives
+家,noun,home,house or structure in which someone lives
+故鄉 /故乡,noun,home,someone’s native land
+家鄉 /家乡,noun,home,someone’s native land
+祖國 /祖国,noun,home,someone’s native land
 ма,noun,horse,members of the species Equus ferus
 馬 /马,noun,horse,members of the species Equus ferus
 馬 /马,noun,horse,members of the species Equus ferus
@@ -764,6 +861,20 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 島 /岛,noun,island,area of land completely surrounded by water
 島嶼 /岛屿,noun,island,area of land completely surrounded by water
 海島 /海岛,noun,island,area of land completely surrounded by water
+йүәсы,noun,key,device designed to open and close a lock
+鎖匙 /锁匙,noun,key,device designed to open and close a lock
+鑰匙 /钥匙,noun,key,device designed to open and close a lock
+匙,noun,key,device designed to open and close a lock
+鑰 /钥,noun,key,device designed to open and close a lock
+鎖匙 /锁匙,noun,key,device designed to open and close a lock
+關鍵 /关键,noun,key,crucial step
+圖例 /图例,noun,key,small guide explaining symbols or terminology
+鍵 /键,noun,key,button on a typewriter or computer keyboard
+鍵 /键,noun,key,part of a piano or musical keyboard
+調 /调,noun,key,scale of musical notes
+密鑰 /密钥,noun,key,cryptography: piece of information used to encode or decode
+金鑰 /金钥,noun,key,cryptography: piece of information used to encode or decode
+鍵 /键,noun,key,computing: field of a database constrained to be unique
 җыдо,verb,know,be justifiably certain or sure about (something true)
 知影,verb,know,be justifiably certain or sure about (something true)
 會曉 /会晓,verb,know,be justifiably certain or sure about (something true)
@@ -797,6 +908,16 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 語言 /语言,noun,language,computer language — see also computer language
 笑聲 /笑声,noun,laugh,expression of mirth peculiar to the human species
 笑,noun,laugh,expression of mirth peculiar to the human species
+щё,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+笑,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+笑,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+發笑 /发笑,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+嘲笑,verb,laugh,make an object of laughter or ridicule
+зуә,adj,left,west side of the body when one is facing north
+左,adj,left,west side of the body when one is facing north
+左邊 /左边,adv,left,on the left side
+在左邊 /在左边,adv,left,on the left side
+向左,adv,left,towards the left side
 туй,noun,leg,lower limb from groin to ankle
 腿,noun,leg,lower limb from groin to ankle
 跤腿,noun,leg,lower limb from groin to ankle
@@ -857,6 +978,8 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 獅仔 /狮仔,noun,lion,big cat Panthera leo
 獅子 /狮子,noun,lion,big cat Panthera leo
 獅 /狮,noun,lion,big cat Panthera leo
+單子 /单子,noun,list,enumeration or compilation of items
+列表,noun,list,enumeration or compilation of items
 列入,verb,list,to create or recite a list
 тин,verb,listen,to pay attention to a sound
 聽 /听,verb,listen,to pay attention to a sound
@@ -880,6 +1003,20 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 見 /见,verb,look,to try to see
 好像,verb,look,"to appear, to seem"
 顯得 /显得,verb,look,"to appear, to seem"
+нэ,noun,love,strong affection
+愛情 /爱情,noun,love,strong affection
+情愛 /情爱,noun,love,strong affection
+愛 /爱,noun,love,strong affection
+愛 /爱,noun,love,strong affection
+愛情 /爱情,noun,love,strong affection
+愛人仔 /爱人仔,noun,love,object of one's romantic feelings; darling or sweetheart
+情人,noun,love,object of one's romantic feelings; darling or sweetheart
+寶貝 /宝贝,noun,love,object of one's romantic feelings; darling or sweetheart
+情人,noun,love,object of one's romantic feelings; darling or sweetheart
+戀人 /恋人,noun,love,object of one's romantic feelings; darling or sweetheart
+親愛的 /亲爱的,noun,love,object of one's romantic feelings; darling or sweetheart
+寶貝 /宝贝,noun,love,object of one's romantic feelings; darling or sweetheart
+甜心,noun,love,object of one's romantic feelings; darling or sweetheart
 нэ,verb,love,have a strong affection for
 愛情 /爱情,verb,love,have a strong affection for
 情愛 /情爱,verb,love,have a strong affection for
@@ -985,6 +1122,13 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
 音樂 /音乐,noun,music,"sound, organized in time in a melodious way"
 樂譜 /乐谱,noun,music,sheet music
+минзы,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名字,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名稱 /名称,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名字,noun,name,"word or phrase indicating a particular person, place, class or thing"
+名稱 /名称,noun,name,"word or phrase indicating a particular person, place, class or thing"
 命名,verb,name,to give a name to
 任命,verb,name,to designate for a role
 щин,adj,new,recently made or created
@@ -1001,6 +1145,11 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 夜,noun,night,period between sunset and sunrise
 宵,noun,night,period between sunset and sunrise
 黄昏,noun,night,nightfall
+бый,noun,north,compass point
+быйфон,noun,north,compass point
+北,noun,north,compass point
+北,noun,north,compass point
+北方,noun,north,compass point
 бизы,noun,nose,protuberance on the face
 鼻仔,noun,nose,protuberance on the face
 鼻子,noun,nose,protuberance on the face
@@ -1053,9 +1202,21 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 洋蔥 /洋葱,noun,onion,bulb
 蔥頭 /葱头,noun,onion,bulb
 洋蔥頭 /洋葱头,noun,onion,bulb
+開着 /开,adj,open,not closed
 開 /开,verb,open,to make something accessible
 打開 /打开,verb,open,to make something accessible
 開門 /开门,verb,open,to make accessible to customers
+橙樹 /橙树,noun,orange,tree
+чынзы,noun,orange,fruit
+橙,noun,orange,fruit
+橙子,noun,orange,fruit
+橘子,noun,orange,fruit
+桔子,noun,orange,fruit
+柑仔色,noun,orange,colour
+橙色,noun,orange,colour
+橙黃色 /橙黄色,noun,orange,colour
+橘黃色 /橘黄色,noun,orange,colour
+橘色,noun,orange,colour
 男仔侍從 /男仔侍从,noun,page,serving boy
 мянзы,noun,page,one side of a leaf of a book
 е,noun,page,one side of a leaf of a book
@@ -1115,6 +1276,9 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 地方,noun,place,any area of the earth
 座位,noun,place,"area one occupies, particularly for sitting"
 位,noun,place,numeric: the column counting a certain quantity
+設計圖 /设计图,noun,plan,technical drawing
+計劃 /计划,noun,plan,set of intended actions
+平面圖 /平面图,noun,plan,2-dimensional drawing from above
 設計 /设计,verb,plan,to design
 計劃 /计划,verb,plan,to create a plan for
 打算,verb,plan,to intend
@@ -1123,6 +1287,38 @@ chhì-juh,noun,cheese,countable: any particular variety of cheese
 戲劇 /戏剧,noun,play,theatrical performance
 話劇 /话剧,noun,play,theatrical performance
 play,noun,play,sexual roleplaying
+𨑨迌,verb,play,act in a manner such that one has fun
+玩,verb,play,act in a manner such that one has fun
+玩兒 /玩儿,verb,play,act in a manner such that one has fun
+玩耍,verb,play,act in a manner such that one has fun
+演奏,verb,play,produce music using a musical instrument (transitive sense)
+彈 /弹&(formal)彈奏 /弹奏,verb,play,produce music using a musical instrument (transitive sense)
+拉,verb,play,produce music using a musical instrument (transitive sense)
+吹&(formal)吹奏,verb,play,produce music using a musical instrument (transitive sense)
+敲,verb,play,produce music using a musical instrument (transitive sense)
+打,verb,play,produce music using a musical instrument (transitive sense)
+演奏,verb,play,produce music using a musical instrument (intransitive sense)
+彈 /弹&(formal)彈奏 /弹奏,verb,play,produce music using a musical instrument (intransitive sense)
+拉,verb,play,produce music using a musical instrument (intransitive sense)
+吹&(formal)吹奏,verb,play,produce music using a musical instrument (intransitive sense)
+敲,verb,play,produce music using a musical instrument (intransitive sense)
+打,verb,play,produce music using a musical instrument (intransitive sense)
+表演,verb,play,act in a performance
+參與 /参与,verb,play,participate in (a sport or game)
+參加 /参加,verb,play,participate in (a sport or game)
+玩,verb,play,participate in (a sport or game)
+踢,verb,play,participate in (a sport or game)
+打,verb,play,participate in (a sport or game)
+擲 /掷&(colloquial&informal) 扔,verb,play,participate in (a sport or game)
+推,verb,play,participate in (a sport or game)
+跑,verb,play,participate in (a sport or game)
+放,verb,play,use a device to watch or listen to the indicated recording
+播放,verb,play,use a device to watch or listen to the indicated recording
+耍,verb,play,manipulate or deceive someone
+忽悠,verb,play,manipulate or deceive someone
+柱子,noun,post,long dowel or plank protruding from the ground
+郵件 /邮件,noun,post,method of delivering mail
+帖子,noun,post,individual message in a forum
 發 /发,verb,post,send mail
 寄,verb,post,send mail
 PO (pho͘),verb,post,(Internet) publish a message
@@ -1147,6 +1343,9 @@ la-jí-o͘h,noun,radio,receiver
 車載播放器 /车载播放器,noun,radio,on-board entertainment system in a car
 無線電發射機 /無綫電發射機/无线电发射机,noun,radio,transmitter
 網絡電臺 /网络电台,noun,radio,broadcasting of sound via the Internet
+йү,noun,rain,condensed water from a cloud
+雨,noun,rain,condensed water from a cloud
+雨,noun,rain,condensed water from a cloud
 落雨,verb,rain,of rain: to fall from the sky
 下雨,verb,rain,of rain: to fall from the sky
 降雨,verb,rain,of rain: to fall from the sky
@@ -1158,6 +1357,14 @@ la-jí-o͘h,noun,radio,receiver
 看,verb,read,to look at and interpret letters or other information
 讀 /读,verb,read,to speak aloud words or other information that is written
 念,verb,read,to speak aloud words or other information that is written
+紅 /红,adj,red,having red as its colour
+紅色 /红色,adj,red,having red as its colour
+紅 /红,adj,red,having red as its colour
+紅色 /红色,adj,red,having red as its colour
+紅 /红,adj,red,"left-wing, socialist or communist"
+紅色 /红色,adj,red,"left-wing, socialist or communist"
+紅 /红,adj,red,"left-wing, socialist or communist"
+紅色 /红色,adj,red,"left-wing, socialist or communist"
 紅色 /红色,noun,red,colour
 紅色 /红色,noun,red,colour
 дозы,noun,rice,plants
@@ -1170,6 +1377,12 @@ la-jí-o͘h,noun,radio,receiver
 飯 /饭,noun,rice,seeds used as food
 米飯 /米饭,noun,rice,seeds used as food
 白飯 /白饭,noun,rice,seeds used as food
+正確 /正确,adj,right,"complying with justice, correct — see also be right"
+ю,adj,right,"of direction, opposite of left"
+右,adj,right,"of direction, opposite of left"
+右邊 /右边,adv,right,on the right side
+在右邊 /在右边,adv,right,on the right side
+向右,adv,right,towards the right side
 чүанли,noun,right,legal or moral entitlement
 權利 /权利,noun,right,legal or moral entitlement
 權利 /权利,noun,right,legal or moral entitlement
@@ -1228,6 +1441,7 @@ la-jí-o͘h,noun,radio,receiver
 科學 /科学,noun,science,collective discipline of learning acquired through the scientific method
 科學 /科学,noun,science,particular discipline or branch of learning
 知識 /知识,noun,science,fact of knowing something
+第二,adj,second,second (numeral) — see also 2nd
 秒鐘 /秒钟,noun,second,one-sixtieth of a minute; SI unit of time
 秒,noun,second,one-sixtieth of a minute; SI unit of time
 第二个,noun,second,number two in a series
@@ -1248,6 +1462,15 @@ la-jí-o͘h,noun,radio,receiver
 羊仔,noun,sheep,animal
 綿羊 /绵羊,noun,sheep,animal
 羊,noun,sheep,animal
+пузы,noun,shop,establishment that sells goods
+商店,noun,shop,establishment that sells goods
+商店,noun,shop,establishment that sells goods
+店鋪 /店铺,noun,shop,establishment that sells goods
+鋪子 /铺子,noun,shop,establishment that sells goods
+店,noun,shop,establishment that sells goods
+車間 /车间,noun,shop,place for crafting or manufacturing
+作坊,noun,shop,place for crafting or manufacturing
+工房,noun,shop,place for crafting or manufacturing
 買東西 /买东西,verb,shop,to visit shops
 購物 /购物,verb,shop,to visit shops
 дуан,adj,short,having a small distance between ends or edges
@@ -1287,6 +1510,11 @@ la-jí-o͘h,noun,radio,receiver
 蛇,noun,snake,legless reptile
 蛇,noun,snake,legless reptile
 長蟲 /长虫,noun,snake,legless reptile
+щүә,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+雪,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+雪,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+降雪,noun,snow,instance of the falling of snow — see also snowfall
+雪白,noun,snow,white color of snow
 下雪,verb,snow,have snow fall from the atmosphere
 эрзы,noun,son,a male person in relation to his parents
 囝,noun,son,a male person in relation to his parents
@@ -1301,8 +1529,22 @@ la-jí-o͘h,noun,radio,receiver
 歌,noun,song,music with words
 唱兒 /唱儿,noun,song,music with words
 歌兒 /歌儿,noun,song,music with words
+шын,noun,sound,sensation perceived by the ear
+йин,noun,sound,sensation perceived by the ear
+щён,noun,sound,sensation perceived by the ear
+聲音 /声音,noun,sound,sensation perceived by the ear
+聲 /声,noun,sound,sensation perceived by the ear
+聲音 /声音,noun,sound,sensation perceived by the ear
+聲 /声,noun,sound,sensation perceived by the ear
+響 /响,noun,sound,sensation perceived by the ear
+音聲 /音声,noun,sound,sensation perceived by the ear
 響 /响,verb,sound,to produce a sound
 聽起來 /听起来,verb,sound,to convey an impression by one's sound
+нан,noun,south,compass point
+нанфон,noun,south,compass point
+南,noun,south,compass point
+南,noun,south,compass point
+南方,noun,south,compass point
 фә,verb,speak,to communicate with one's voice using words
 шә,verb,speak,to communicate with one's voice using words
 講 /讲,verb,speak,to communicate with one's voice using words
@@ -1345,6 +1587,15 @@ la-jí-o͘h,noun,radio,receiver
 星號 /星号,noun,star,asterisk
 車站 /车站,noun,stop,place to get on and off mass transport
 障礙 /障碍,noun,stop,device to block a moving object
+停咧,verb,stop,to cease moving
+停,verb,stop,to cease moving
+停止,verb,stop,to cease moving
+停咧,verb,stop,"not to continue — see also cease, desist"
+停,verb,stop,"not to continue — see also cease, desist"
+停止,verb,stop,"not to continue — see also cease, desist"
+停下,verb,stop,to cause to cease moving
+堵住,verb,stop,to close an opening
+住宿,verb,stop,to stay a while
 щүәсын,noun,student,person who studies a subject
 學生 /学生,noun,student,person who studies a subject
 學生 /学生,noun,student,person who studies a subject
@@ -1437,6 +1688,17 @@ la-jí-o͘h,noun,radio,receiver
 次,noun,time,instance or occurrence
 度,noun,time,instance or occurrence
 遍,noun,time,instance or occurrence
+җинтян,adv,today,on the current day
+җир,adv,today,on the current day
+җиргә,adv,today,on the current day
+җер,adv,today,on the current day
+җергә,adv,today,on the current day
+今仔日,adv,today,on the current day
+今天,adv,today,on the current day
+今日,adv,today,on the current day
+今兒 /今儿,adv,today,on the current day
+今兒個 /今儿个,adv,today,on the current day
+現代 /现代,adv,today,"nowadays — see also nowadays, these days"
 今仔日,noun,today,today (noun)
 今天,noun,today,today (noun)
 今日,noun,today,today (noun)
@@ -1452,6 +1714,17 @@ la-jí-o͘h,noun,radio,receiver
 盥洗室,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
 WC,noun,toilet,"room used for urination and defecation — see also bathroom, men's room, ladies' room, outhouse, portable toilet, latrine, shitter"
 馬桶 /马桶,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
+минтян,adv,tomorrow,on the day after the present day
+мир,adv,tomorrow,on the day after the present day
+миргә,adv,tomorrow,on the day after the present day
+明仔日,adv,tomorrow,on the day after the present day
+明仔载,adv,tomorrow,on the day after the present day
+隔轉工 /隔转工,adv,tomorrow,on the day after the present day
+隔轉日 /隔转日,adv,tomorrow,on the day after the present day
+明天,adv,tomorrow,on the day after the present day
+明日,adv,tomorrow,on the day after the present day
+明兒 /明儿,adv,tomorrow,on the day after the present day
+明兒個 /明儿个,adv,tomorrow,on the day after the present day
 明仔日,noun,tomorrow,the day after the present day
 明仔载,noun,tomorrow,the day after the present day
 隔轉工 /隔转工,noun,tomorrow,the day after the present day
@@ -1484,6 +1757,15 @@ WC,noun,toilet,"room used for urination and defecation — see also bathroom, me
 視頻 /视频,noun,video,film clip
 錄影 /录影,noun,video,motion picture stored on VHS
 錄像帶 /录像带,noun,video,VHS
+зу,verb,walk,to move on the feet
+行,verb,walk,to move on the feet
+行路,verb,walk,to move on the feet
+走,verb,walk,to move on the feet
+走路,verb,walk,to move on the feet
+步行,verb,walk,to move on the feet
+行走,verb,walk,to move on the feet
+行,verb,walk,to move on the feet
+遛,verb,walk,to take for a walk
 чён,noun,wall,defensive rampart
 牆壁 /墙壁,noun,wall,defensive rampart
 牆 /墙,noun,wall,defensive rampart
@@ -1526,9 +1808,22 @@ WC,noun,toilet,"room used for urination and defecation — see also bathroom, me
 星期,noun,week,period of seven days
 週 /周,noun,week,period of seven days
 禮拜 /礼拜,noun,week,period of seven days
+歡迎 /欢迎,verb,welcome,affirm or greet the arrival of someone
+迎接,verb,welcome,affirm or greet the arrival of someone
+歡迎 /欢迎,verb,welcome,to accept willingly
 好勢 /好势,adj,well,in good health
 好,adj,well,in good health
 健康,adj,well,in good health
+好勢 /好势,adv,well,accurately; competently
+好,adv,well,accurately; competently
+好,adv,well,completely; fully
+好,adv,well,to a significant degree
+西,adj,west,towards the west
+щи,noun,west,compass point
+щифон,noun,west,compass point
+西,noun,west,compass point
+西,noun,west,compass point
+西方,noun,west,compass point
 дуәхур,adv,when,"at what time, as a direct question"
 啥物時陣 /啥物时阵,adv,when,"at what time, as a direct question"
 當時 /当时,adv,when,"at what time, as a direct question"
@@ -1565,6 +1860,9 @@ WC,noun,toilet,"room used for urination and defecation — see also bathroom, me
 佗位,adv,where,wherever
 哪裡 /哪里,adv,where,wherever
 哪兒 /哪儿,adv,where,wherever
+бый,adj,white,bright and colourless
+白,adj,white,bright and colourless
+白色,adj,white,bright and colourless
 白色,noun,white,color
 白色,noun,white,color
 白人,noun,white,person of European descent
@@ -1615,6 +1913,11 @@ WC,noun,toilet,"room used for urination and defecation — see also bathroom, me
 作品,noun,work,"literary, artistic, or intellectual production"
 著作,noun,work,"literary, artistic, or intellectual production"
 功,noun,work,physics: measure of energy expended in moving an object
+гунзуә,verb,work,to do a specific task
+工作,verb,work,to do a specific task
+工作,verb,work,to do a specific task
+運行良好 /运行良好,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+生效,verb,work,to function correctly; to act as intended; to achieve the goal designed for
 шыҗе,noun,world,human collective existence
 дун-я,noun,world,human collective existence
 世界,noun,world,human collective existence
@@ -1641,3 +1944,4 @@ WC,noun,toilet,"room used for urination and defecation — see also bathroom, me
 年度,noun,year,a period between set dates that mark a year
 年級 /年级,noun,year,a level or grade at school or college
 學年 /学年,noun,year,a level or grade at school or college
+黃 /黄,adj,yellow,having yellow as its color

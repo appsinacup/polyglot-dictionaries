@@ -167,6 +167,12 @@ word,part_of_speech,english_word,sense
 живо́тное,noun,animal,person who behaves wildly
 зверь,noun,animal,person who behaves wildly
 скоти́на,noun,animal,person who behaves wildly
+отве́т,noun,answer,response
+о́тповедь,noun,answer,response
+реше́ние,noun,answer,solution
+отве́т,noun,answer,solution
+отве́т,noun,answer,reply to email
+отве́т,noun,answer,document filed in response to a complaint
 отвеча́ть,verb,answer,to make a reply or response to
 отве́тить,verb,answer,to make a reply or response to
 отвеча́ть,verb,answer,to respond to a call
@@ -291,6 +297,14 @@ word,part_of_speech,english_word,sense
 обра́тно,adv,back,to or in a previous condition or place
 вспять,adv,back,to or in a previous condition or place
 наза́д,adv,back,away from the front or from an edge
+спина́,noun,back,the rear of body
+зад,noun,back,the reverse side
+за́дняя часть,noun,back,the reverse side
+ты́льная часть,noun,back,the reverse side
+зад,noun,back,that which is farthest away from the front
+зад,noun,back,the part of something that goes last
+спи́нка,noun,back,"the backrest, the part of a piece of furniture which receives the human back — see also backrest"
+защи́тник,noun,back,a position behind most players on the team
 плохо́й,adj,bad,unfavorable; negative
 скве́рный,adj,bad,unfavorable; negative
 пога́ный,adj,bad,unfavorable; negative
@@ -509,6 +523,27 @@ word,part_of_speech,english_word,sense
 имени́ны,noun,birthday,anniversary
 да́та рожде́ния,noun,birthday,date of birth — see also date of birth
 день рожде́ния,noun,birthday,date of birth — see also date of birth
+чёрный,adj,black,absorbing all light
+вороно́й,adj,black,absorbing all light
+чёрный,adj,black,without light
+чёрный,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+черноко́жий,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+темноко́жий,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+негритя́нский,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+чёрный,adj,black,bad; evil
+чёрный,adj,black,"of coffee or tea, without milk or other whitener"
 чёрный,noun,black,colour/color
 негр,noun,black,dark-skinned person — see also Negro
 негритя́нка,noun,black,dark-skinned person — see also Negro
@@ -521,6 +556,15 @@ word,part_of_speech,english_word,sense
 ру́сый,adj,blond,of a pale golden colour
 бе́лый,adj,blond,having blond hair
 светловоло́сый,adj,blond,having blond hair
+си́ний,adj,blue,"blue-coloured — see also dark blue, light blue"
+голубо́й,adj,blue,"blue-coloured — see also dark blue, light blue"
+лазу́рный,adj,blue,"blue-coloured — see also dark blue, light blue"
+уны́лый,adj,blue,depressed
+гру́стный,adj,blue,depressed
+печа́льный,adj,blue,depressed
+порнографи́ческий,adj,blue,pornographic
+демократи́ческий,adj,blue,of or pertaining to US Democratic Party
+си́ний,adj,blue,of or pertaining to US Democratic Party
 си́ний,noun,blue,colour
 голубо́й,noun,blue,colour
 ло́дка,noun,boat,water craft
@@ -626,6 +670,40 @@ word,part_of_speech,english_word,sense
 поворо́т,noun,break,significant change in circumstance
 побе́г,noun,break,act of escaping
 разбо́й,noun,break,"billiards, snooker: first shot"
+лома́ться,verb,break,intransitive: to separate into (to end up in) two or more pieces
+слома́ться,verb,break,intransitive: to separate into (to end up in) two or more pieces
+разбива́ться,verb,break,intransitive: to separate into (to end up in) two or more pieces
+разби́ться,verb,break,intransitive: to separate into (to end up in) two or more pieces
+разбива́ть,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+разби́ть,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+лома́ть,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+слома́ть,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+лома́ться,verb,break,"intransitive, of a bone: to crack"
+слома́ться,verb,break,"intransitive, of a bone: to crack"
+лома́ть,verb,break,transitive: to cause (a bone) to crack
+слома́ть,verb,break,transitive: to cause (a bone) to crack
+разменять,verb,break,to divide (money) into smaller units
+ломать,verb,break,to cause a person to lose spirit or will
+доводить,verb,break,to cause a person to lose spirit or will
+броса́ть,verb,break,to cause a habit to no longer exist
+бро́сить,verb,break,to cause a habit to no longer exist
+разоря́ть,verb,break,to ruin financially
+разори́ть,verb,break,to ruin financially
+наруша́ть,verb,break,transitive: to do that which is forbidden by (something)
+нару́шить,verb,break,transitive: to do that which is forbidden by (something)
+лома́ться,verb,break,intransitive: to stop functioning properly or altogether
+слома́ться,verb,break,intransitive: to stop functioning properly or altogether
+лома́ть,verb,break,transitive: to cause to stop functioning
+слома́ть,verb,break,transitive: to cause to stop functioning
+по́ртить,verb,break,transitive: to cause to stop functioning
+испо́ртить,verb,break,transitive: to cause to stop functioning
+сменяться,verb,break,of a spell of weather: to end
+де́лать переры́в,verb,break,to interrupt or cease one's work or occupation temporarily
+раскрыть,verb,break,to disclose or make known an item of news
+ломаться,verb,break,"of a male voice, to become deeper at puberty"
+разбить,verb,break,billiards: to make the first shot
+разрывать,verb,break,to end a connection
+разорвать,verb,break,to end a connection
 за́втрак,noun,breakfast,first meal of the day
 приноси́ть,verb,bring,to transport toward somebody/somewhere
 принести́,verb,bring,to transport toward somebody/somewhere
@@ -638,6 +716,12 @@ word,part_of_speech,english_word,sense
 брати́шка,noun,brother,male sibling
 брата́н,noun,brother,male sibling
 брат,noun,brother,male having parents in common
+кори́чневый,adj,brown,having a brown colour
+ка́рий,adj,brown,having a brown colour
+кашта́новый,adj,brown,having a brown colour
+кофе́йный,adj,brown,having a brown colour
+бу́рый,adj,brown,having a brown colour
+гнедо́й,adj,brown,having a brown colour
 кори́чневый,noun,brown,colour
 бу́рый,noun,brown,colour
 стро́ить,verb,build,(transitive) to form by combining materials or parts
@@ -662,6 +746,10 @@ word,part_of_speech,english_word,sense
 де́ло,noun,business,particular situation or activity
 заня́тие,noun,business,particular situation or activity
 де́ло,noun,business,something involving one personally
+занято́й,adj,busy,doing a great deal
+за́нятый,adj,busy,doing a great deal
+де́ятельный,adj,busy,doing a great deal
+за́нятый,adj,busy,engaged
 ма́сло,noun,butter,soft foodstuff made from milk
 сли́вочное ма́сло,noun,butter,soft foodstuff made from milk
 ма́сло,noun,butter,other foodstuffs like butter
@@ -695,6 +783,22 @@ word,part_of_speech,english_word,sense
 вы́зов,noun,call,computing: act of jumping to a subprogram
 колл,noun,call,poker: act of matching a bet
 мано́к,noun,call,instrument to call birds or animals
+звать,verb,call,"to request, summon, or beckon"
+позва́ть,verb,call,"to request, summon, or beckon"
+вызыва́ть,verb,call,"to request, summon, or beckon"
+вы́звать,verb,call,"to request, summon, or beckon"
+кли́кать,verb,call,"to request, summon, or beckon"
+крича́ть,verb,call,to cry or shout
+кри́кнуть,verb,call,to cry or shout
+звони́ть,verb,call,to contact by telephone
+позвони́ть,verb,call,to contact by telephone
+навеща́ть,verb,call,to pay a social visit
+навести́ть,verb,call,to pay a social visit
+посеща́ть,verb,call,to pay a social visit
+посети́ть,verb,call,to pay a social visit
+звать,verb,call,to name or refer to
+называ́ть,verb,call,to name or refer to
+назва́ть,verb,call,to name or refer to
 фотоаппара́т,noun,camera,still camera
 ка́мера,noun,camera,still camera
 фотока́мера,noun,camera,still camera
@@ -709,6 +813,10 @@ word,part_of_speech,english_word,sense
 законсерви́ровать,verb,can,to preserve
 не мо́чь,verb,cannot,"cannot — see also can, not"
 нельзя́,verb,cannot,"cannot — see also can, not"
+капита́л,noun,capital,money and wealth
+состоя́ние,noun,capital,money and wealth
+бога́тство,noun,capital,money and wealth
+капите́ль,noun,capital,uppermost part of a column
 маши́на,noun,car,"automobile, a vehicle steered by a driver"
 автомоби́ль,noun,car,"automobile, a vehicle steered by a driver"
 автомаши́на,noun,car,"automobile, a vehicle steered by a driver"
@@ -767,6 +875,18 @@ word,part_of_speech,english_word,sense
 сда́ча,noun,change,balance returned after a purchase
 ме́лочь,noun,change,amount of cash
 переса́дка,noun,change,a transfer between vehicles
+изменя́ться,verb,change,to become something different
+меня́ться,verb,change,to become something different
+измени́ться,verb,change,to become something different
+изменя́ть,verb,change,to make something into something else
+меня́ть,verb,change,to make something into something else
+измени́ть,verb,change,to make something into something else
+заменя́ть,verb,change,to replace
+замени́ть,verb,change,to replace
+переодева́ться,verb,change,to replace one's own clothing
+переоде́ться,verb,change,to replace one's own clothing
+переса́живаться,verb,change,to transfer to another vehicle
+пересе́сть,verb,change,to transfer to another vehicle
 морска́я ка́рта,noun,chart,navigator's map
 гра́фик,noun,chart,non-narrative presentation of data
 диагра́мма,noun,chart,non-narrative presentation of data
@@ -840,6 +960,13 @@ word,part_of_speech,english_word,sense
 класс,noun,classroom,room in a school
 кла́ссная ко́мната,noun,classroom,room in a school
 кла́ссная,noun,classroom,room in a school
+чи́стый,adj,clean,not dirty
+чи́стый,adj,clean,in an unmarked condition
+чи́стый,adj,clean,"pure, especially morally or religiously"
+чи́стый,adj,clean,"smooth, exact, and performed well"
+ро́вный,adj,clean,"smooth, exact, and performed well"
+чи́стый,adj,clean,without restrictions or penalties
+чи́стый,adj,clean,not in possession of weapons or contraband such as drugs
 чи́стить,verb,clean,(transitive) to remove dirt from a place or object
 почи́стить,verb,clean,(transitive) to remove dirt from a place or object
 вы́чистить,verb,clean,(transitive) to remove dirt from a place or object
@@ -904,6 +1031,13 @@ word,part_of_speech,english_word,sense
 кофе́йный цвет,noun,coffee,colour
 ко́фе,noun,coffee,colour
 цвет ко́фе,noun,coffee,colour
+холо́дный,adj,cold,having a low temperature
+студёный,adj,cold,having a low temperature
+холо́дный,adj,cold,of a person's sensation
+равноду́шный,adj,cold,of a person's sensation
+холо́дный,adj,cold,unfriendly
+неприве́тливый,adj,cold,unfriendly
+непригото́вленный,adj,cold,unprepared
 хо́лод,noun,cold,low temperature
 сту́жа,noun,cold,low temperature
 просту́да,noun,cold,illness
@@ -996,6 +1130,11 @@ word,part_of_speech,english_word,sense
 сравни́ть,verb,compare,to assess the similarities between two things or between one thing and another
 сра́вниваться,verb,compare,to be similar
 сравни́ться,verb,compare,to be similar
+по́лный,adj,complete,with everything included
+це́лый,adj,complete,with everything included
+соверше́нный,adj,complete,with everything included
+отъя́вленный,adj,complete,"generic intensifier derived from ""complete"""
+су́щий,adj,complete,"generic intensifier derived from ""complete"""
 заверша́ть,verb,complete,to finish
 заверши́ть,verb,complete,to finish
 зака́нчивать,verb,complete,to finish
@@ -1057,9 +1196,19 @@ word,part_of_speech,english_word,sense
 ничего́,adj,cool,"colloquial: all right, acceptable"
 невозмути́мый,adj,cool,colloquial: not upset
 споко́йный,adj,cool,colloquial: not upset
+пра́вильный,adj,correct,free from error
+ве́рный,adj,correct,free from error
+корре́ктный,adj,correct,free from error
+воспи́танный,adj,correct,with good manners
+корре́ктный,adj,correct,with good manners
 исправля́ть,verb,correct,to make something become right that was previously wrong
 испра́вить,verb,correct,to make something become right that was previously wrong
 корректи́ровать,verb,correct,to make something become right that was previously wrong
+расхо́ды,noun,cost,amount of money spent for a purpose
+сто́имость,noun,cost,amount of money spent for a purpose
+изде́ржки,noun,cost,negative consequence or loss
+затра́ты,noun,cost,negative consequence or loss
+цена́,noun,cost,negative consequence or loss
 сто́ить,verb,cost,"to incur a charge, a price"
 страна́,noun,country,region of land
 край,noun,country,region of land
@@ -1140,6 +1289,9 @@ word,part_of_speech,english_word,sense
 ба́тя,noun,dad,familiar address of one's own father
 ба́тюшка,noun,dad,familiar address of one's own father
 папа́ша,noun,dad,informal address for an older male
+та́нец,noun,dance,movements to music
+пляс,noun,dance,movements to music
+пля́ска,noun,dance,movements to music
 танцева́ть,verb,dance,move rhythmically to music
 пляса́ть,verb,dance,move rhythmically to music
 станцевать,verb,dance,move rhythmically to music
@@ -1210,6 +1362,24 @@ word,part_of_speech,english_word,sense
 описа́ние,noun,description,account in words
 описа́ние,noun,description,act of describing
 описа́ние,noun,description,set of characteristics
+план,noun,design,plan
+констру́кция,noun,design,plan
+диза́йн,noun,design,plan
+прое́кт,noun,design,plan
+узо́р,noun,design,pattern
+образе́ц,noun,design,pattern
+моде́ль,noun,design,pattern
+диза́йн,noun,design,pattern
+компози́ция,noun,design,composition
+констру́кция,noun,design,composition
+план,noun,design,intention
+наме́рение,noun,design,intention
+за́мысел,noun,design,intention
+у́мысел,noun,design,intention
+диза́йн,noun,design,appearance
+вне́шний вид,noun,design,appearance
+экстерье́р,noun,design,appearance
+диза́йн,noun,design,art of designing
 пи́сьменный стол,noun,desk,table for writing and reading
 стол,noun,desk,table for writing and reading
 па́рта,noun,desk,table for writing and reading
@@ -1406,10 +1576,19 @@ word,part_of_speech,english_word,sense
 сыгра́ть вничью́,verb,draw,to end a game with neither side winning
 тяну́ть жре́бий,verb,draw,to determine the result of a lottery
 потяну́ть жре́бий,verb,draw,to determine the result of a lottery
+пла́тье,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+оде́жда,noun,dress,apparel or clothing
+пла́тье,noun,dress,apparel or clothing
 одева́ть,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 оде́ть,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 одева́ться,verb,dress,to put on clothes — see also get dressed
 оде́ться,verb,dress,to put on clothes — see also get dressed
+напи́ток,noun,drink,served beverage
+напи́ток,noun,drink,type of beverage
+напи́ток,noun,drink,served alcoholic beverage
+вы́пивка,noun,drink,served alcoholic beverage
+питьё,noun,drink,action of drinking
+вы́пивка,noun,drink,alcoholic beverages in general
 пить,verb,drink,consume liquid through the mouth
 вы́пить,verb,drink,consume liquid through the mouth
 попи́ть,verb,drink,consume liquid through the mouth
@@ -1448,7 +1627,16 @@ word,part_of_speech,english_word,sense
 доно́счик,noun,ear,slang: police informant
 доно́счица,noun,ear,slang: police informant
 слух,noun,ear,musical ability
+ра́нний,adj,early,at a time in advance of the usual
+ра́нний,adj,early,arriving at a time before expected
+ра́нний,adj,early,near but after the start or beginning
 ра́но,adv,early,at a time before expected
+восто́чный,adj,east,in or towards the east
+восто́чный,adj,east,meteorology: easterly
+восто́чный,adj,east,of or pertaining to the east
+восто́чный,adj,east,from the East
+восто́к,noun,east,compass point
+ост,noun,east,compass point
 лёгкий,adj,easy,requiring little skill or effort
 просто́й,adj,easy,requiring little skill or effort
 пода́тливый,adj,easy,consenting readily to sex
@@ -1471,7 +1659,20 @@ word,part_of_speech,english_word,sense
 слон,noun,elephant,mammal
 слони́ха,noun,elephant,mammal
 ина́че,adv,else,word that implies any result with the exception of the one being referred to
+электро́нная по́чта,noun,email,system for sending messages and datas by means of computers connected together in a network
+име́йл,noun,email,system for sending messages and datas by means of computers connected together in a network
+мейл,noun,email,system for sending messages and datas by means of computers connected together in a network
+име́йл,noun,email,message sent through email
+мейл,noun,email,message sent through email
+сообще́ние,noun,email,message sent through email
+письмо́,noun,email,message sent through email
+электро́нное письмо́,noun,email,message sent through email
 посла́ть име́йл,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+коне́ц,noun,end,extreme part
+край,noun,end,extreme part
+смерть,noun,end,death
+коне́ц,noun,end,death
+энд,noun,end,period in curling
 зака́нчиваться,verb,end,"intransitive: be finished, be terminated"
 зако́нчиться,verb,end,"intransitive: be finished, be terminated"
 конча́ться,verb,end,"intransitive: be finished, be terminated"
@@ -1529,6 +1730,13 @@ word,part_of_speech,english_word,sense
 волну́ющий,adj,exciting,causing excitement
 захва́тывающий,adj,exciting,causing excitement
 возбужда́ющий,adj,exciting,causing excitement
+упражне́ние,noun,exercise,any activity designed to develop or hone a skill or ability
+трениро́вка,noun,exercise,any activity designed to develop or hone a skill or ability
+пра́ктика,noun,exercise,any activity designed to develop or hone a skill or ability
+упражне́ние,noun,exercise,physical activity intended to improve strength and fitness
+заря́дка,noun,exercise,physical activity intended to improve strength and fitness
+физзаря́дка,noun,exercise,physical activity intended to improve strength and fitness
+трениро́вка,noun,exercise,physical activity intended to improve strength and fitness
 упражня́ться,verb,exercise,exert for the sake of training
 тренирова́ться,verb,exercise,exert for the sake of training
 практикова́ться,verb,exercise,exert for the sake of training
@@ -1588,11 +1796,31 @@ word,part_of_speech,english_word,sense
 спад,noun,fall,a period of decline before the end
 паде́ние,noun,fall,loss of greatness or status
 упадок,noun,fall,loss of greatness or status
+па́дать,verb,fall,move to a lower position under the effect of gravity
+упа́сть,verb,fall,move to a lower position under the effect of gravity
+па́дать,verb,fall,come down or descend
+упа́сть,verb,fall,come down or descend
+снижа́ться,verb,fall,come down or descend
+сни́зиться,verb,fall,come down or descend
+па́дать,verb,fall,prostrate oneself
+упа́сть,verb,fall,prostrate oneself
+пасть,verb,fall,prostrate oneself
+пасть,verb,fall,die
+погиба́ть,verb,fall,die
+поги́бнуть,verb,fall,die
 фальши́вый,adj,false,"untrue, not factual, wrong"
 ло́жный,adj,false,"untrue, not factual, wrong"
 непра́вильный,adj,false,"untrue, not factual, wrong"
 ложь,adj,false,state in Boolean logic that indicates a negative result
 семейный,adj,family,suitable for children and adults
+семья́,noun,family,"immediate family [as a group], e.g. parents and their children"
+семе́йство,noun,family,"immediate family [as a group], e.g. parents and their children"
+семья́,noun,family,"group of people related by blood, marriage, law, or custom"
+семе́йство,noun,family,"group of people related by blood, marriage, law, or custom"
+род,noun,family,"group of people related by blood, marriage, law, or custom"
+семе́йство,noun,family,"rank in a taxonomic classification, above both genus and species"
+семья́,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+семе́йный,noun,family,(used attributively)
 изве́стный,adj,famous,well known
 изве́стный,adj,famous,in the public eye
 знамени́тый,adj,famous,in the public eye
@@ -1610,6 +1838,15 @@ word,part_of_speech,english_word,sense
 фе́рмер,noun,farmer,person who works the land and/or who keeps livestock
 земледе́лец,noun,farmer,person who works the land and/or who keeps livestock
 дехка́нин,noun,farmer,person who works the land and/or who keeps livestock
+про́чный,adj,fast,firmly or securely fixed in place
+кре́пкий,adj,fast,firmly or securely fixed in place
+бы́стрый,adj,fast,moving or capable of moving with great speed
+ско́рый,adj,fast,moving or capable of moving with great speed
+скоростно́й,adj,fast,moving or capable of moving with great speed
+кре́пкий,adj,fast,of sleep: deep or sound
+про́чный,adj,fast,of a dye: not running or fading
+спеша́щий,adj,fast,ahead of the correct time or schedule
+обгоня́ющий,adj,fast,ahead of the correct time or schedule
 про́чно,adv,fast,in a firm or secure manner
 кре́пко,adv,fast,in a firm or secure manner
 кре́пко,adv,fast,of sleeping: deeply or soundly
@@ -1828,6 +2065,13 @@ word,part_of_speech,english_word,sense
 забы́ть,verb,forget,to leave behind
 забыва́ть,verb,forget,to cease remembering
 забы́ть,verb,forget,to cease remembering
+фо́рма,noun,form,shape or visible structure
+фигу́ра,noun,form,shape or visible structure
+бланк,noun,form,document to be filled in
+фо́рма,noun,form,document to be filled in
+анке́та,noun,form,document to be filled in
+формуля́р,noun,form,document to be filled in
+фо́рма,noun,form,grouping of words
 придава́ть фо́рму,verb,form,to give shape
 формирова́ть,verb,form,to give shape
 образо́вывать,verb,form,to give shape
@@ -1873,6 +2117,13 @@ word,part_of_speech,english_word,sense
 прия́тельский,adj,friendly,without hostility
 пере́дний,adj,front,located at or near the front
 пере́дний,adj,front,phonetics: pronounced toward the front of the mouth
+пере́дняя часть,noun,front,facing side
+пе́ред,noun,front,facing side
+фаса́д,noun,front,main entrance side
+прикры́тие,noun,front,public face of covert organisation
+атмосфе́рный фронт,noun,front,meteorology: interface between airmasses
+фронт,noun,front,military: area or line of conflict
+фронт,noun,front,major subdivision of Soviet army
 плод,noun,fruit,part of plant
 фрукт,noun,fruit,part of plant
 фру́кты,noun,fruit,part of plant
@@ -2026,6 +2277,10 @@ word,part_of_speech,english_word,sense
 дед,noun,grandparent,parent of one's parent
 ба́бушка,noun,grandparent,parent of one's parent
 ба́ба,noun,grandparent,parent of one's parent
+се́рый,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+седо́й,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+си́вый,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+се́рый,adj,gray,"dreary, gloomy"
 се́рый,noun,gray,colour
 грей,noun,gray,SI unit of absorbed radiation
 вели́кий,adj,great,"very big, large scale"
@@ -2036,6 +2291,18 @@ word,part_of_speech,english_word,sense
 великоле́пный,adj,great,very good
 чуде́сный,adj,great,very good
 вели́кий,adj,great,important title
+зелёный,adj,green,having green as its colour
+боле́зненный,adj,green,sickly
+нео́пытный,adj,green,inexperienced
+зелёный,adj,green,inexperienced
+зелёный,adj,green,environmentally friendly
+зави́стливый,adj,green,envious
+сыро́й,adj,green,"of bacon, etc.: unprocessed, raw"
+неспе́лый,adj,green,of fruit: unripe
+зелёный,adj,green,of fruit: unripe
+несозревший,adj,green,of fruit: unripe
+незре́лый,adj,green,of fruit: unripe
+ки́слый,adj,green,of wine: acidic or too acidic
 зелёный,noun,green,colour
 зелёный,noun,green,member of a green party
 зелёная,noun,green,member of a green party
@@ -2057,6 +2324,19 @@ word,part_of_speech,english_word,sense
 выра́щивать,verb,grow,(transitive) to cause something to become bigger
 вы́растить,verb,grow,(transitive) to cause something to become bigger
 дога́дка,noun,guess,prediction about the outcome of something
+гада́ть,verb,guess,to reach an unconfirmed conclusion
+погада́ть,verb,guess,to reach an unconfirmed conclusion
+уга́дывать,verb,guess,to reach an unconfirmed conclusion
+угада́ть,verb,guess,to reach an unconfirmed conclusion
+отга́дывать,verb,guess,to reach an unconfirmed conclusion
+отгада́ть,verb,guess,to reach an unconfirmed conclusion
+дога́дываться,verb,guess,to reach an unconfirmed conclusion
+догада́ться,verb,guess,to reach an unconfirmed conclusion
+уга́дывать,verb,guess,to solve by a correct conjecture
+угада́ть,verb,guess,to solve by a correct conjecture
+отга́дывать,verb,guess,to solve by a correct conjecture
+отгада́ть,verb,guess,to solve by a correct conjecture
+полага́ть,verb,guess,"to suppose, to imagine"
 гита́ра,noun,guitar,musical instrument
 гимнасти́ческий зал,noun,gym,sporting facility specialized for lifting weights and exercise
 спортза́л,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -2091,6 +2371,18 @@ word,part_of_speech,english_word,sense
 ра́достный,adj,happy,"contented, joyous"
 уда́чный,adj,happy,"fortunate, lucky"
 счастли́вый,adj,happy,"fortunate, lucky"
+твёрдый,adj,hard,resistant to pressure
+кре́пкий,adj,hard,resistant to pressure
+про́чный,adj,hard,resistant to pressure
+тяжёлый,adj,hard,requiring a lot of effort to do or understand
+тру́дный,adj,hard,requiring a lot of effort to do or understand
+тяжёлый,adj,hard,demanding a lot of effort to endure
+тру́дный,adj,hard,demanding a lot of effort to endure
+тяжёлый,adj,hard,severe
+тру́дный,adj,hard,severe
+неопровержимый,adj,hard,unquestionable
+кре́пкий,adj,hard,of drink: strong
+жёсткий,adj,hard,"of water, high in dissolved calcium compounds"
 си́льно,adv,hard,with much force or effort (related to act of think)
 шля́па,noun,hat,a head covering
 ша́пка,noun,hat,a head covering
@@ -2145,6 +2437,12 @@ word,part_of_speech,english_word,sense
 подска́зка,noun,help,textual support of a software application
 по́мощь,noun,help,textual support of a software application
 спра́вочная систе́ма,noun,help,textual support of a software application
+помога́ть,verb,help,transitive: provide assistance to (someone or something)
+помо́чь,verb,help,transitive: provide assistance to (someone or something)
+помога́ть,verb,help,contribute in some way to
+помо́чь,verb,help,contribute in some way to
+помога́ть,verb,help,intransitive: provide assistance
+помо́чь,verb,help,intransitive: provide assistance
 здесь,adv,here,"in, on, or at this place"
 тут,adv,here,"in, on, or at this place"
 сюда́,adv,here,to this place
@@ -2168,6 +2466,12 @@ word,part_of_speech,english_word,sense
 чегло́к,noun,hobby,Falco subbuteo
 до́ма,adv,home,at home
 домо́й,adv,home,homewards
+дом,noun,home,house or structure in which someone lives
+ро́дина,noun,home,someone’s native land
+дом,noun,home,childhood or parental home
+дом,noun,home,place of the affections
+среда́ обита́ния,noun,home,habitat
+есте́ственная среда́,noun,home,habitat
 дома́шнее зада́ние,noun,homework,work that is done at home
 дома́шняя рабо́та,noun,homework,work that is done at home
 дома́шка,noun,homework,work that is done at home
@@ -2276,6 +2580,10 @@ word,part_of_speech,english_word,sense
 инфа́,noun,information,communicable knowledge
 све́дение,noun,information,communicable knowledge
 да́нные,noun,information,communicable knowledge
+проце́нт,noun,interest,finance: price of credit
+интере́с,noun,interest,great attention and concern from someone
+интере́с,noun,interest,attention that is given to or received from someone or something
+интере́с,noun,interest,"involvement in or link with financial, business, or other undertaking"
 интересова́ть,verb,interest,to attract attention or concern
 заинтересова́ть,verb,interest,to attract attention or concern
 интересова́ться,verb,interest,to attract attention or concern
@@ -2283,6 +2591,9 @@ word,part_of_speech,english_word,sense
 заинтересо́ванный,adj,interested,having or showing interest
 интере́сный,adj,interesting,arousing or holding the attention
 заня́тный,adj,interesting,arousing or holding the attention
+интервью́,noun,interview,conversation with journalist etc.
+собесе́дование,noun,interview,a formal meeting for the assessment of a candidate or applicant
+интервью́,noun,interview,a formal meeting for the assessment of a candidate or applicant
 интервьюи́ровать,verb,interview,to have an interview
 опра́шивать,verb,interview,to have an interview
 опроси́ть,verb,interview,to have an interview
@@ -2386,6 +2697,22 @@ word,part_of_speech,english_word,sense
 основно́й,adj,key,important
 гла́вный,adj,key,important
 важне́йший,adj,key,important
+ключ,noun,key,device designed to open and close a lock
+чека́,noun,key,object used to maintain the orientation between two others
+шпо́нка,noun,key,object used to maintain the orientation between two others
+клин,noun,key,object used to maintain the orientation between two others
+ключ,noun,key,crucial step
+леге́нда,noun,key,small guide explaining symbols or terminology
+кла́виша,noun,key,button on a typewriter or computer keyboard
+кно́пка,noun,key,button on a typewriter or computer keyboard
+кла́виша,noun,key,part of a piano or musical keyboard
+тона́льность,noun,key,scale of musical notes
+лад,noun,key,scale of musical notes
+телеграфный ключ,noun,key,device used to transmit Morse code
+ключ,noun,key,cryptography: piece of information used to encode or decode
+ключ,noun,key,computing: field of a database constrained to be unique
+ключ,noun,key,computing: field in a record used as a search argument
+ключ,noun,key,computing: value uniquely identifying entry in associative array
 вид,noun,kind,"type, race, category"
 разнови́дность,noun,kind,"type, race, category"
 сорт,noun,kind,"type, race, category"
@@ -2437,6 +2764,13 @@ word,part_of_speech,english_word,sense
 язы́к программи́рования,noun,language,computer language — see also computer language
 большо́й,adj,large,of greater size — see also big
 кру́пный,adj,large,of greater size — see also big
+по́здний,adj,late,near the end of a period of time
+по́здний,adj,late,near the end of the day
+по́здний,adj,late,associated with the end of a period
+по́здний,adj,late,not arriving until after an expected time
+запозда́лый,adj,late,not arriving until after an expected time
+поко́йный,adj,late,"euphemism for ""dead"""
+усо́пший,adj,late,"euphemism for ""dead"""
 по́здно,adv,late,past a designated time
 по́зже,adv,later,more late
 поздне́е,adv,later,more late
@@ -2450,6 +2784,15 @@ word,part_of_speech,english_word,sense
 смех,noun,laugh,something that provokes mirth or scorn
 умо́ра,noun,laugh,something that provokes mirth or scorn
 шу́тка,noun,laugh,something that provokes mirth or scorn
+смея́ться,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+рассмея́ться,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+хохота́ть,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+ржать,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+регота́ть,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+смея́ться,verb,laugh,make an object of laughter or ridicule
+насмеха́ться,verb,laugh,make an object of laughter or ridicule
+высме́ивать,verb,laugh,make an object of laughter or ridicule
+вы́смеять,verb,laugh,make an object of laughter or ridicule
 учи́ться,verb,learn,to acquire knowledge or ability
 учи́ть,verb,learn,to acquire knowledge or ability
 учи́ться,verb,learn,to attend educational activity
@@ -2483,6 +2826,12 @@ word,part_of_speech,english_word,sense
 уйти́,verb,leave,to depart (intransitive)
 уезжа́ть,verb,leave,to depart (intransitive)
 уе́хать,verb,leave,to depart (intransitive)
+ле́вый,adj,left,west side of the body when one is facing north
+ле́вый,adj,left,pertaining to the political left
+либера́льный,adj,left,pertaining to the political left
+сле́ва,adv,left,on the left side
+нале́во,adv,left,towards the left side
+вле́во,adv,left,towards the left side
 ле́вый,noun,left,the left side
 ле́вый,noun,left,the ensemble of left-wing political parties
 нога́,noun,leg,lower limb from groin to ankle
@@ -2552,6 +2901,14 @@ word,part_of_speech,english_word,sense
 бле́дный,adj,light,pale in colour
 све́тлый,adj,light,pale in colour
 лёгкий,adj,light,of low weight
+свет,noun,light,electromagnetic waves
+свет,noun,light,source of illumination
+освеще́ние,noun,light,source of illumination
+свет,noun,light,spiritual illumination
+свет,noun,light,point of view
+спи́чки,noun,light,flame or something used to create fire
+зажига́лка,noun,light,flame or something used to create fire
+светофо́р,noun,light,"traffic light, or an intersection controlled by one"
 люби́ть,verb,like,to enjoy
 нра́виться,verb,like,to find attractive
 понра́виться,verb,like,to find attractive
@@ -2605,6 +2962,13 @@ word,part_of_speech,english_word,sense
 лев,noun,lion,big cat Panthera leo
 льви́ца,noun,lion,big cat Panthera leo
 знамени́тость,noun,lion,famous person
+кро́мка,noun,list,strip of fabric
+кайма́,noun,list,strip of fabric
+каёмка,noun,list,strip of fabric
+спи́сок,noun,list,enumeration or compilation of items
+пе́речень,noun,list,enumeration or compilation of items
+спи́сок,noun,list,computing: codified representation of a list
+крен,noun,list,nautical: tilting or careening to one side
 крени́ться,verb,list,to tilt to one side
 накрени́ться,verb,list,to tilt to one side
 накрени́ть,verb,list,to cause (something) to tilt to one side
@@ -2639,6 +3003,8 @@ word,part_of_speech,english_word,sense
 лока́льный,adj,local,math: applying to a limited space
 ме́стный,adj,local,medicine: of or pertaining to a restricted part of an organism
 лока́льный,adj,local,medicine: of or pertaining to a restricted part of an organism
+дли́нный,adj,long,having much distance from one point to another
+до́лгий,adj,long,having great duration
 далеко́,adv,long,over a great distance
 до́лго,adv,long,for a particular duration
 до́лго,adv,long,for a long duration
@@ -2661,6 +3027,13 @@ word,part_of_speech,english_word,sense
 нерадеть,verb,lose,be unable to follow or trace (somebody or something) any longer
 прои́грывать,verb,lose,fail to be the winner
 проигра́ть,verb,lose,fail to be the winner
+любо́вь,noun,love,strong affection
+люби́мый,noun,love,object of one's romantic feelings; darling or sweetheart
+люби́мая,noun,love,object of one's romantic feelings; darling or sweetheart
+дорого́й,noun,love,colloquial: term of friendly address
+дорога́я,noun,love,colloquial: term of friendly address
+с любо́вью,noun,love,closing of a letter
+ноль,noun,love,zero
 люби́ть,verb,love,have a strong affection for
 люби́ть,verb,love,"to need, thrive on"
 люби́ть,verb,love,be strongly inclined towards doing
@@ -2726,6 +3099,13 @@ word,part_of_speech,english_word,sense
 заму́жняя,adj,married,in a state of marriage; having a husband
 за́мужем,adj,married,in a state of marriage; having a husband
 жена́тый,adj,married,in a state of marriage; having a wife
+матч,noun,match,sporting event
+соревнова́ние,noun,match,sporting event
+состяза́ние,noun,match,sporting event
+ро́вня,noun,match,attribute equaling or exceeding
+ровня́,noun,match,attribute equaling or exceeding
+па́ра,noun,match,attribute equaling or exceeding
+спи́чка,noun,match,device to make fire
 совпада́ть,verb,match,intransitive: to agree; to be equal
 совпа́сть,verb,match,intransitive: to agree; to be equal
 соотве́тствовать,verb,match,intransitive: to agree; to be equal
@@ -2938,6 +3318,13 @@ word,part_of_speech,english_word,sense
 должны́,verb,must,be required to
 должно́ быть,verb,must,"said about something that is very likely, probable, or certain to be true"
 наве́рное,verb,must,"said about something that is very likely, probable, or certain to be true"
+и́мя,noun,name,"word or phrase indicating a particular person, place, class or thing"
+назва́ние,noun,name,"word or phrase indicating a particular person, place, class or thing"
+наименова́ние,noun,name,"word or phrase indicating a particular person, place, class or thing"
+и́мя,noun,name,reputation — see also reputation
+репута́ция,noun,name,reputation — see also reputation
+сла́ва,noun,name,reputation — see also reputation
+реноме́,noun,name,reputation — see also reputation
 называ́ть,verb,name,to give a name to
 назва́ть,verb,name,to give a name to
 именова́ть,verb,name,to give a name to
@@ -2964,6 +3351,8 @@ word,part_of_speech,english_word,sense
 есте́ственный,adj,natural,without additives
 есте́ственный,adj,natural,as expected
 натура́льный,adj,natural,as expected
+бли́зкий,adj,near,physically close
+бли́жний,adj,near,physically close
 бли́зко,adv,near,at or towards a position close in space or time
 нужда́ться,verb,need,to have an absolute requirement for
 быть ну́жным,verb,need,to have an absolute requirement for
@@ -3004,6 +3393,13 @@ word,part_of_speech,english_word,sense
 изве́стия,noun,news,reports of current events
 газе́та,noun,newspaper,publication
 газе́тная бума́га,noun,newspaper,paper on which newspapers are printed
+сле́дующий,adj,next,following in a sequence
+бу́дущий,adj,next,following in a sequence
+ближа́йший,adj,next,being closer to the present location than all other items
+сосе́дний,adj,next,being closer to the present location than all other items
+сле́дующий,adj,next,"nearest date, time, space or order"
+бу́дущий,adj,next,"nearest date, time, space or order"
+гряду́щий,adj,next,"nearest date, time, space or order"
 вблизи́,adv,next,"In a time, place or sequence closest or following"
 во́зле,adv,next,"In a time, place or sequence closest or following"
 о́коло,adv,next,"In a time, place or sequence closest or following"
@@ -3028,8 +3424,15 @@ word,part_of_speech,english_word,sense
 су́мрак,noun,night,nightfall
 тьма,noun,night,darkness
 темнота́,noun,night,darkness
+се́верный,adj,north,of or pertaining to the north
+се́верный,adj,north,toward the north
+се́верный,adj,north,"meteorology: of wind, from the north"
+се́верный,adj,north,part of a corridor used by northbound traffic
 к се́веру,adv,north,towards the north
 на се́вер,adv,north,towards the north
+се́вер,noun,north,compass point
+норд,noun,north,compass point
+се́вер,noun,north,north pole of a magnet
 нос,noun,nose,protuberance on the face
 нос,noun,nose,"snout, nose of an animal"
 ры́ло,noun,nose,"snout, nose of an animal"
@@ -3131,12 +3534,23 @@ word,part_of_speech,english_word,sense
 онла́йн,adj,online,connected to a network
 онла́йновый,adj,online,connected to a network
 в сети́,adj,online,connected to the Internet
+еди́нственный,adj,only,alone in a category
+еди́ный,adj,only,alone in a category
+еди́нственный,adj,only,without sibling
+исключи́тельный,adj,only,singularly superior; the best
+наилу́чший,adj,only,singularly superior; the best
+еди́нственный,adj,only,singularly superior; the best
 то́лько,adv,only,without others or anything further; exclusively
 лишь,adv,only,without others or anything further; exclusively
 то́лько,adv,only,no more than
 лишь,adv,only,no more than
 то́лько,adv,only,as recently as
 всего́,adv,only,as recently as
+откры́тый,adj,open,not closed
+откры́тый,adj,open,prepared to conduct business
+откры́тый,adj,open,receptive
+откры́тый,adj,open,public
+откры́тый,adj,open,music: without any fingers pressing the string against the fingerboard
 открыва́ть,verb,open,to make something accessible
 откры́ть,verb,open,to make something accessible
 отворя́ть,verb,open,to make something accessible
@@ -3157,7 +3571,30 @@ word,part_of_speech,english_word,sense
 взгляд,noun,opinion,thought a person has formed about a topic
 воззре́ние,noun,opinion,thought a person has formed about a topic
 заключе́ние,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+противополо́жный,adj,opposite,located directly across from
+противополо́жность,noun,opposite,contrary thing
 ора́нжевый,adj,orange,having the colour of the fruit of an orange tree
+апельси́новое де́рево,noun,orange,tree
+апельси́н,noun,orange,tree
+апельси́н,noun,orange,fruit
+ора́нжевый цвет,noun,orange,colour
+ора́нжевый,noun,orange,colour
+поря́док,noun,order,"arrangement, disposition"
+поря́док,noun,order,good arrangement
+прика́з,noun,order,command
+повеле́ние,noun,order,command
+приказа́ние,noun,order,command
+кома́нда,noun,order,command
+распоряже́ние,noun,order,command
+зака́з,noun,order,request for some product or service
+о́рдер,noun,order,request for some product or service
+о́рден,noun,order,religious group
+о́рден,noun,order,society of knights
+о́рден,noun,order,awarded decoration
+отря́д,noun,order,biology: taxonomical classification
+ранг,noun,order,"a rank; a row; a grade; esp. a rank or class in society; a distinct character, kind, or sort"
+поря́док,noun,order,electronics: power of polynomial function in a circuit’s block
+сте́пень,noun,order,highest exponent in a polynomial
 упоря́дочивать,verb,order,to set in (any) order
 упоря́дочить,verb,order,to set in (any) order
 выстра́ивать,verb,order,to set in (any) order
@@ -3189,6 +3626,9 @@ word,part_of_speech,english_word,sense
 страни́ца,noun,page,computing: contiguous block of memory
 кра́ска,noun,paint,substance
 кра́ски,noun,paint,paints: set of containers or blocks of paints of different colours
+кра́сить,verb,paint,to apply paint to
+рисова́ть,verb,paint,to practise the art of painting pictures
+писа́ть,verb,paint,to practise the art of painting pictures
 карти́на,noun,painting,an illustration or artwork using paint
 жи́вопись,noun,painting,the action of applying paint
 жи́вопись,noun,painting,artistic application of paint
@@ -3225,6 +3665,8 @@ word,part_of_speech,english_word,sense
 роди́тельница,noun,parent,biology: organism from which a plant or animal is biologically descended
 исто́чник,noun,parent,source or origin of something
 причи́на,noun,parent,source or origin of something
+парк,noun,park,"ground for preservation of game, etc."
+парк,noun,park,ground for recreation
 ста́вить на стоя́нку,verb,park,bring (a vehicle) to a halt
 ста́вить на парко́вку,verb,park,bring (a vehicle) to a halt
 паркова́ть,verb,park,bring (a vehicle) to a halt
@@ -3272,6 +3714,13 @@ word,part_of_speech,english_word,sense
 про́пуск,noun,passport,any document allowing entry or passage
 про́пуск,noun,passport,figurative use
 биле́т,noun,passport,figurative use
+про́шлый,adj,past,having already happened; in the past
+мину́вший,adj,past,having already happened; in the past
+уше́дший,adj,past,having already happened; in the past
+проше́дший,adj,past,having already happened; in the past
+уше́дший,adj,past,of a period of time: having just gone by
+проше́дший,adj,past,of a period of time: having just gone by
+про́шлый,adj,past,grammar: expressing action that has already happened
 про́шлое,noun,past,period of time that has already happened
 было́е,noun,past,period of time that has already happened
 проше́дшее вре́мя,noun,past,(grammar) past tense
@@ -3344,6 +3793,8 @@ word,part_of_speech,english_word,sense
 ли́чный,adj,personal,of or pertaining to a particular person
 персона́льный,adj,personal,of or pertaining to a particular person
 ли́чный,adj,personal,grammar: denoting person
+фо́на,noun,phone,speech segment
+фоне́ма,noun,phone,speech segment
 звони́ть,verb,phone,to call (someone) on the telephone
 позвони́ть,verb,phone,to call (someone) on the telephone
 телефони́ровать,verb,phone,to call (someone) on the telephone
@@ -3395,6 +3846,7 @@ word,part_of_speech,english_word,sense
 му́сор,noun,pig,derogatory slang for police officer
 чу́шка,noun,pig,cast metal block
 болва́нка,noun,pig,cast metal block
+ро́зовый,adj,pink,colored/coloured between red and white
 ро́зовый,noun,pink,pale red colour
 гвозди́ка,noun,pink,flower
 ме́сто,noun,place,"location, position"
@@ -3411,6 +3863,12 @@ word,part_of_speech,english_word,sense
 ме́сто,noun,place,the position as a member of a team
 пози́ция,noun,place,numeric: the column counting a certain quantity
 положе́ние,noun,place,numeric: the column counting a certain quantity
+план,noun,plan,technical drawing
+чертёж,noun,plan,technical drawing
+схе́ма,noun,plan,technical drawing
+план,noun,plan,set of intended actions
+план,noun,plan,2-dimensional drawing from above
+чертёж,noun,plan,2-dimensional drawing from above
 разраба́тывать,verb,plan,to design
 разрабо́тать,verb,plan,to design
 плани́ровать,verb,plan,to create a plan for
@@ -3443,6 +3901,16 @@ word,part_of_speech,english_word,sense
 пье́са,noun,play,theatrical performance
 спекта́кль,noun,play,theatrical performance
 представле́ние,noun,play,theatrical performance
+игра́ть,verb,play,act in a manner such that one has fun
+поигра́ть,verb,play,act in a manner such that one has fun
+играться,verb,play,act in a manner such that one has fun
+игра́ть,verb,play,produce music using a musical instrument (transitive sense)
+игра́ть,verb,play,produce music using a musical instrument (intransitive sense)
+поигра́ть,verb,play,produce music using a musical instrument (intransitive sense)
+игра́ть,verb,play,act in a performance
+выступа́ть,verb,play,act in a performance
+исполня́ть,verb,play,act in a performance
+игра́ть,verb,play,participate in (a sport or game)
 игро́к,noun,player,one who plays any game or sport
 игра́ющий,noun,player,one who plays any game or sport
 игра́ющая,noun,player,one who plays any game or sport
@@ -3511,6 +3979,14 @@ word,part_of_speech,english_word,sense
 возмо́жный,adj,possible,capable of being done or achieved; feasible
 выполни́мый,adj,possible,capable of being done or achieved; feasible
 подходя́щий,adj,possible,"being considered, e.g. for a position"
+столб,noun,post,long dowel or plank protruding from the ground
+шта́нга,noun,post,goalpost (sports)
+пост,noun,post,assigned station
+до́лжность,noun,post,appointed position in an organization
+пост,noun,post,appointed position in an organization
+по́чта,noun,post,method of delivering mail
+сообще́ние,noun,post,individual message in a forum
+пост,noun,post,individual message in a forum
 приколо́ть,verb,post,hang a notice in a conspicuous manner
 прика́лывать,verb,post,hang a notice in a conspicuous manner
 вы́весить,verb,post,hang a notice in a conspicuous manner
@@ -3531,6 +4007,12 @@ word,part_of_speech,english_word,sense
 штрафстоя́нка,noun,pound,place for detention of automobiles
 фунт,noun,pound,unit of mass (16 ounces avoirdupois)
 фунт,noun,pound,unit of currency
+пра́ктика,noun,practice,repetition of an activity to improve skill
+трениро́вка,noun,practice,repetition of an activity to improve skill
+упражне́ние,noun,practice,repetition of an activity to improve skill
+пра́ктика,noun,practice,ongoing pursuit of a craft or profession
+обы́чай,noun,practice,"customary action, habit, or behaviour"
+пра́ктика,noun,practice,"actual operation or experiment, in contrast to theory"
 предпочита́ть,verb,prefer,to favor
 предпоче́сть,verb,prefer,to favor
 гото́вить,verb,prepare,to make ready for a specific future purpose
@@ -3541,8 +4023,18 @@ word,part_of_speech,english_word,sense
 пригото́вить,verb,prepare,to make ready for eating or drinking
 гото́виться,verb,prepare,to make oneself ready
 подгото́виться,verb,prepare,to make oneself ready
+ны́нешний,adj,present,pertaining to the current time
+настоя́щий,adj,present,pertaining to the current time
+прису́тствующий,adj,present,in the immediate vicinity
+прису́тствовать,adj,present,in the immediate vicinity
 настоя́щее,noun,present,current time
 настоя́щее вре́мя,noun,present,current time
+хоро́шенький,adj,pretty,"especially of women and children: pleasant, attractive"
+ми́лый,adj,pretty,"especially of women and children: pleasant, attractive"
+милови́дный,adj,pretty,"especially of women and children: pleasant, attractive"
+ми́ленький,adj,pretty,"especially of women and children: pleasant, attractive"
+привлека́тельный,adj,pretty,"especially of women and children: pleasant, attractive"
+симпати́чный,adj,pretty,"especially of women and children: pleasant, attractive"
 дово́льно,adv,pretty,somewhat
 вполне́,adv,pretty,somewhat
 доста́точно,adv,pretty,somewhat
@@ -3573,6 +4065,9 @@ word,part_of_speech,english_word,sense
 програ́мма,noun,program,software application
 прое́кт,noun,project,planned endeavor
 план,noun,project,planned endeavor
+фиоле́товый,adj,purple,colour
+пу́рпурный,adj,purple,colour
+пурпу́рный,adj,purple,colour
 пурпу́рный,noun,purple,colour
 пурпу́ровый,noun,purple,colour
 фиоле́товый,noun,purple,colour
@@ -3630,6 +4125,11 @@ word,part_of_speech,english_word,sense
 радиопереда́тчик,noun,radio,transmitter
 ра́ция,noun,radio,transmitter
 радиоста́нция,noun,radio,transmitter
+дождь,noun,rain,condensed water from a cloud
+дождь,noun,rain,any matter falling
+дождь,noun,rain,an instance of particles falling
+град,noun,rain,an instance of particles falling
+ли́вень,noun,rain,an instance of particles falling
 ли́ть,verb,rain,of rain: to fall from the sky
 идти́,verb,rain,of rain: to fall from the sky
 сы́паться дождём,verb,rain,to fall in large quantities
@@ -3686,6 +4186,11 @@ word,part_of_speech,english_word,sense
 рассу́док,noun,reason,(the capacity of the human mind for) rational thinking
 ум,noun,reason,(the capacity of the human mind for) rational thinking
 резо́нность,noun,reason,something reasonable
+кра́сный,adj,red,having red as its colour
+черво́нный,adj,red,having red as its colour
+а́лый,adj,red,having red as its colour
+ры́жий,adj,red,of hair: orange-brown
+кра́сный,adj,red,"left-wing, socialist or communist"
 кра́сный,noun,red,colour
 кра́сный,noun,red,"socialist, communist"
 расслабля́ть,verb,relax,to make something loose
@@ -3744,6 +4249,15 @@ word,part_of_speech,english_word,sense
 возвра́т каретки,noun,return,computing: carriage return character
 возвра́т,noun,return,computing: carriage return character
 возвра́т,noun,return,computing: act of relinquishing control to the calling procedure
+возвраща́ться,verb,return,to come or go back
+возврати́ться,verb,return,to come or go back
+верну́ться,verb,return,to come or go back
+возвраща́ться,verb,return,"to go back in thought, narration, or argument"
+возврати́ться,verb,return,"to go back in thought, narration, or argument"
+верну́ться,verb,return,"to go back in thought, narration, or argument"
+возвраща́ть,verb,return,to give something back to its original holder or owner
+возврати́ть,verb,return,to give something back to its original holder or owner
+верну́ть,verb,return,to give something back to its original holder or owner
 рис,noun,rice,plants
 рис,noun,rice,seeds used as food
 бога́тый,adj,rich,having wealth
@@ -3764,6 +4278,24 @@ word,part_of_speech,english_word,sense
 ката́ться,verb,ride,to be transported in a vehicle as a passenger
 поката́ться,verb,ride,to be transported in a vehicle as a passenger
 прокати́ться,verb,ride,to be transported in a vehicle as a passenger
+прямо́й,adj,right,"straight, not bent"
+перпендикуля́рный,adj,right,"of an angle, 90 degrees"
+прямо́й,adj,right,"of an angle, 90 degrees"
+пра́вильный,adj,right,"complying with justice, correct — see also be right"
+пра́вый,adj,right,"complying with justice, correct — see also be right"
+подходя́щий,adj,right,"appropriate, fit for purpose"
+здоро́вый,adj,right,"healthy, sane, competent — see also healthy, sane, competent"
+пра́вый,adj,right,"of direction, opposite of left"
+пра́вый,adj,right,politics: conservative
+спра́ва,adv,right,on the right side
+напра́во,adv,right,towards the right side
+впра́во,adv,right,towards the right side
+прямо,adv,right,exactly
+прямо,adv,right,"immediately, directly"
+непосредственно,adv,right,"immediately, directly"
+весьма,adv,right,"very, extremely"
+верно,adv,right,according to fact or truth
+хорошо,adv,right,in a correct manner
 пра́во,noun,right,"which complies with justice, law or reason"
 пра́во,noun,right,legal or moral entitlement
 права́,noun,right,legal or moral entitlement
@@ -3856,6 +4388,10 @@ word,part_of_speech,english_word,sense
 соль,noun,salt,sodium chloride
 пова́ренная соль,noun,salt,sodium chloride
 соль,noun,salt,compound of an acid and a base
+одина́ковый,adj,same,not different as regards self; identical
+то́т же,adj,same,not different as regards self; identical
+то́т же са́мый,adj,same,not different as regards self; identical
+тако́й же,adj,same,"similar, alike"
 са́ндвич,noun,sandwich,dish — see also open sandwich
 сэ́ндвич,noun,sandwich,dish — see also open sandwich
 бутербро́д,noun,sandwich,dish — see also open sandwich
@@ -3894,6 +4430,8 @@ word,part_of_speech,english_word,sense
 зна́ние,noun,science,fact of knowing something
 учёный,noun,scientist,one whose activities make use of the scientific method
 учёная,noun,scientist,one whose activities make use of the scientific method
+второ́й,adj,second,second (numeral) — see also 2nd
+второ́й,adj,second,that comes after the first
 секу́нда,noun,second,one-sixtieth of a minute; SI unit of time
 секу́нда,noun,second,unit of angular measure
 секу́нда,noun,second,"short, indeterminate amount of time"
@@ -3967,6 +4505,11 @@ word,part_of_speech,english_word,sense
 башма́к,noun,shoe,protective covering for the foot
 о́бувь,noun,shoe,protective covering for the foot
 башма́к,noun,shoe,something resembling a shoe (e.g. brake shoe)
+магази́н,noun,shop,establishment that sells goods
+ла́вка,noun,shop,establishment that sells goods
+бути́к,noun,shop,establishment that sells goods
+мастерска́я,noun,shop,place for crafting or manufacturing
+цех,noun,shop,place for crafting or manufacturing
 де́лать поку́пки,verb,shop,to visit shops
 покупа́ть,verb,shop,to visit shops
 поку́пка,noun,shopping,activity of buying
@@ -3997,6 +4540,12 @@ word,part_of_speech,english_word,sense
 телепрогра́мма,noun,show,broadcast program(me)
 шо́у,noun,show,broadcast program(me)
 переда́ча,noun,show,broadcast program(me)
+пока́зывать,verb,show,to display
+показа́ть,verb,show,to display
+пока́зывать,verb,show,to indicate (a fact) to be true
+показа́ть,verb,show,to indicate (a fact) to be true
+пока́зываться,verb,show,to be visible
+показа́ться,verb,show,to be visible
 небольшо́й дождь,noun,shower,brief fall of rain
 до́ждик,noun,shower,brief fall of rain
 душ,noun,shower,device for bathing
@@ -4081,6 +4630,11 @@ word,part_of_speech,english_word,sense
 гад,noun,snake,treacherous person
 га́дина,noun,snake,treacherous person
 сантехни́ческий трос,noun,snake,plumbing tool
+снег,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+снегопа́д,noun,snow,instance of the falling of snow — see also snowfall
+белосне́жный,noun,snow,white color of snow
+снег,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
+снег,noun,snow,cocaine — see also cocaine
 снежи́ть,verb,snow,have snow fall from the atmosphere
 обманывать,verb,snow,"to convince or hoodwink (someone) — see also convince, hoodwink"
 о́чень,adv,so,very
@@ -4108,6 +4662,12 @@ word,part_of_speech,english_word,sense
 вско́ре,adv,soon,within a short time
 жа́лкий,adj,sorry,"poor, regrettable"
 плаче́вный,adj,sorry,"poor, regrettable"
+проли́в,noun,sound,long narrow inlet
+кана́л,noun,sound,long narrow inlet
+зонд,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+звук,noun,sound,sensation perceived by the ear
+шум,noun,sound,sensation perceived by the ear
+звук,noun,sound,vibration capable of causing this
 зонди́ровать,verb,sound,to probe
 зонди́ровать,verb,sound,to test
 звуча́ть,verb,sound,to produce a sound
@@ -4120,6 +4680,9 @@ word,part_of_speech,english_word,sense
 уха́,noun,soup,dish
 ю́шка,noun,soup,dish
 переде́лка,noun,soup,unfortunate situation
+ю́жный,adj,south,of or pertaining to the south
+юг,noun,south,compass point
+зюйд,noun,south,compass point
 интерва́л,noun,space,interval of time
 промежу́ток,noun,space,interval of time
 простра́нство,noun,space,physical extent in two or three dimensions
@@ -4263,6 +4826,22 @@ word,part_of_speech,english_word,sense
 знак препина́ния,noun,stop,punctuation symbol
 точка,noun,stop,punctuation symbol
 кла́пан,noun,stop,music: knob or pin to regulate the flow of air in an organ
+остана́вливаться,verb,stop,to cease moving
+останови́ться,verb,stop,to cease moving
+перестава́ть,verb,stop,"not to continue — see also cease, desist"
+переста́ть,verb,stop,"not to continue — see also cease, desist"
+прекраща́ться,verb,stop,"not to continue — see also cease, desist"
+прекрати́ться,verb,stop,"not to continue — see also cease, desist"
+остана́вливать,verb,stop,to cause to cease moving
+останови́ть,verb,stop,to cause to cease moving
+прекраща́ть,verb,stop,to cause to come to an end
+прекрати́ть,verb,stop,to cause to come to an end
+затыка́ть,verb,stop,to close an opening
+заткну́ть,verb,stop,to close an opening
+остана́вливаться,verb,stop,to stay a while
+останови́ться,verb,stop,to stay a while
+остана́вливаться,verb,stop,to tarry
+останови́ться,verb,stop,to tarry
 склад,noun,store,place where items may be kept
 храни́лище,noun,store,place where items may be kept
 запа́с,noun,store,supply held in storage
@@ -4300,6 +4879,14 @@ word,part_of_speech,english_word,sense
 учени́ца,noun,student,"person enrolled at a school, university or other education institution"
 студе́нт,noun,student,person enrolled at a university — see also university student
 студе́нтка,noun,student,person enrolled at a university — see also university student
+уче́ние,noun,study,mental effort to acquire knowledge
+изуче́ние,noun,study,mental effort to acquire knowledge
+иссле́дование,noun,study,mental effort to acquire knowledge
+учёба,noun,study,mental effort to acquire knowledge
+кабине́т,noun,study,room in a house intended for reading and writing
+этю́д,noun,study,artwork made in order to practise or demonstrate a subject or technique
+публика́ция,noun,study,academic publication
+труд,noun,study,academic publication
 учи́ть,verb,study,to revise/review materials
 изуча́ть,verb,study,to revise/review materials
 иссле́довать,verb,study,to revise/review materials
@@ -4456,6 +5043,7 @@ word,part_of_speech,english_word,sense
 коллекти́в,noun,team,group of people
 подро́сток,noun,teenager,person aged between thirteen and nineteen
 тине́йджер,noun,teenager,person aged between thirteen and nineteen
+телефо́н,noun,telephone,a device used for two-way talking with other people
 звони́ть,verb,telephone,to call someone
 позвони́ть по телефо́ну,verb,telephone,to call someone
 телефони́ровать,verb,telephone,to call someone
@@ -4482,6 +5070,15 @@ word,part_of_speech,english_word,sense
 ужа́сный,adj,terrible,intense; extreme in degree or extent
 ужа́сный,adj,terrible,unpleasant
 ужа́сный,adj,terrible,very bad
+про́ба,noun,test,"challenge, trial"
+тест,noun,test,"challenge, trial"
+испыта́ние,noun,test,"challenge, trial"
+экза́мен,noun,test,academics: examination
+тест,noun,test,academics: examination
+контро́льная рабо́та,noun,test,academics: examination
+тест,noun,test,product examination
+испыта́ние,noun,test,product examination
+панцирь,noun,test,external calciferous shell
 испы́тывать,verb,test,to challenge
 испыта́ть,verb,test,to challenge
 тести́ровать,verb,test,to challenge
@@ -4581,6 +5178,10 @@ word,part_of_speech,english_word,sense
 наименова́ние,noun,title,"name of a book, etc"
 заголо́вок,noun,title,subject of a writing
 загла́вие,noun,title,subject of a writing
+сего́дня,adv,today,on the current day
+сего́дня,adv,today,"nowadays — see also nowadays, these days"
+в настоя́щее вре́мя,adv,today,"nowadays — see also nowadays, these days"
+тепе́рь,adv,today,"nowadays — see also nowadays, these days"
 сего́дня,noun,today,today (noun)
 сего́дняшний день,noun,today,today (noun)
 вме́сте,adv,together,"at the same time, in the same place"
@@ -4599,7 +5200,11 @@ word,part_of_speech,english_word,sense
 помидо́р,noun,tomato,tomato plant
 помидо́р,noun,tomato,fruit
 тома́т,noun,tomato,fruit
+за́втра,adv,tomorrow,on the day after the present day
 за́втра,noun,tomorrow,the day after the present day
+сего́дня ве́чером,adv,tonight,during today's evening
+сего́дня но́чью,adv,tonight,during today's nighttime
+се́ночь,adv,tonight,during today's nighttime
 сегодняшний вечер,noun,tonight,nighttime today
 наступающая ночь,noun,tonight,nighttime today
 та́кже,adv,too,likewise
@@ -4650,6 +5255,13 @@ word,part_of_speech,english_word,sense
 пое́здка,noun,travel,act of traveling
 путеше́ствия,noun,travel,plural: series of journeys
 ход,noun,travel,motion of a piece of machinery
+путеше́ствовать,verb,travel,be on a journey
+е́здить,verb,travel,be on a journey
+передвига́ться,verb,travel,pass from here to there; transmit
+перемеща́ться,verb,travel,pass from here to there; transmit
+проходи́ть,verb,travel,pass from here to there; transmit
+вести́,verb,travel,in basketball
+объе́здить,verb,travel,travel throughout
 де́рево,noun,tree,large woody plant
 дре́во,noun,tree,large woody plant
 распо́рка,noun,tree,shoe tree
@@ -4708,6 +5320,33 @@ word,part_of_speech,english_word,sense
 ход,noun,turn,one's chance to make a move in a game
 услу́га,noun,turn,deed done to another
 вито́к,noun,turn,single loop of a coil
+враща́ться,verb,turn,move around an axis through itself
+верте́ться,verb,turn,move around an axis through itself
+повора́чиваться,verb,turn,move around an axis through itself
+поверну́ться,verb,turn,move around an axis through itself
+крути́ться,verb,turn,move around an axis through itself
+враща́ть,verb,turn,"change the direction or orientation of, especially by rotation"
+верте́ть,verb,turn,"change the direction or orientation of, especially by rotation"
+повора́чивать,verb,turn,"change the direction or orientation of, especially by rotation"
+поверну́ть,verb,turn,"change the direction or orientation of, especially by rotation"
+крути́ть,verb,turn,"change the direction or orientation of, especially by rotation"
+повора́чивать,verb,turn,change one's direction of travel
+поверну́ть,verb,turn,change one's direction of travel
+точи́ть,verb,turn,shape on a lathe or similar tool
+наточи́ть,verb,turn,shape on a lathe or similar tool
+свора́чивать,verb,turn,"position something by folding it back on itself, or using its folds"
+сверну́ть,verb,turn,"position something by folding it back on itself, or using its folds"
+станови́ться,verb,turn,become
+стать,verb,turn,become
+превраща́ться,verb,turn,become
+преврати́ться,verb,turn,become
+свора́чиваться,verb,turn,go bad
+сверну́ться,verb,turn,go bad
+исполня́ться,verb,turn,reach a certain age
+восстава́ть,verb,turn,rebel
+восста́ть,verb,turn,rebel
+заверша́ть,verb,turn,complete — see also complete
+заверши́ть,verb,turn,complete — see also complete
 два́жды,adv,twice,two times
 два ра́за,adv,twice,two times
 тип,noun,type,grouping based on shared characteristics
@@ -4796,6 +5435,10 @@ word,part_of_speech,english_word,sense
 посеще́ние,noun,visit,single act of visiting
 визи́т,noun,visit,meeting with a doctor
 посеще́ние,noun,visit,meeting with a doctor
+посеща́ть,verb,visit,to go and meet (someone)
+посети́ть,verb,visit,to go and meet (someone)
+навеща́ть,verb,visit,to go and meet (someone)
+навести́ть,verb,visit,to go and meet (someone)
 посети́тель,noun,visitor,guest
 посети́тельница,noun,visitor,guest
 гость,noun,visitor,guest
@@ -4824,6 +5467,26 @@ word,part_of_speech,english_word,sense
 прогу́лка,noun,walk,trip made by walking
 похо́дка,noun,walk,manner of walking
 прохо́д,noun,walk,graph theory: a sequence of alternating vertices and edges
+ходи́ть,verb,walk,to move on the feet
+идти́,verb,walk,to move on the feet
+шага́ть,verb,walk,to move on the feet
+идти́ пешко́м,verb,walk,to move on the feet
+гуля́ть,verb,walk,to move on the feet
+выйти сухи́м из воды́,verb,walk,colloquial: to avoid a criminal court case
+испари́ться,verb,walk,colloquial: to be stolen
+бы́ли вы́несенны,verb,walk,colloquial: to be stolen
+ходи́ть,verb,walk,to travel a distance by walking
+идти́,verb,walk,to travel a distance by walking
+пойти́,verb,walk,to travel a distance by walking
+проходить,verb,walk,to travel a distance by walking
+пройти,verb,walk,to travel a distance by walking
+выгу́ливать,verb,walk,to take for a walk
+вы́гулять,verb,walk,to take for a walk
+проходить,verb,walk,move something by shifting between two positions
+почувствовать,verb,walk,to full cloth
+ходить,verb,walk,to traverse by walking (or analogous gradual movement)
+уйти́,verb,walk,"colloquial: to leave, resign"
+уходить,verb,walk,"colloquial: to leave, resign"
 стена́,noun,wall,defensive rampart
 вал,noun,wall,defensive rampart
 стена́,noun,wall,structure built for defense surrounding an area
@@ -4882,6 +5545,17 @@ word,part_of_speech,english_word,sense
 карау́л,noun,watch,person or group of people who guard
 ва́хта,noun,watch,group of sailors and officers
 ва́хта,noun,watch,period of time on duty
+смотре́ть,verb,watch,to look at for a period of time
+наблюда́ть,verb,watch,to look at for a period of time
+гляде́ть,verb,watch,to look at for a period of time
+смотре́ть,verb,watch,to observe
+наблюда́ть,verb,watch,to observe
+следи́ть,verb,watch,to observe
+охраня́ть,verb,watch,to attend or guard
+сторожи́ть,verb,watch,to attend or guard
+следи́ть,verb,watch,to be wary
+бдеть,verb,watch,to be vigilant
+бо́дрствовать,verb,watch,to be vigilant
 вода́,noun,water,inorganic compound H₂O
 во́ды,noun,water,spa water
 вода́,noun,water,one of the basic elements
@@ -4913,7 +5587,18 @@ word,part_of_speech,english_word,sense
 коне́ц неде́ли,noun,weekend,break in the working week
 суббо́та и воскресе́нье,noun,weekend,break in the working week
 жела́нный,adj,welcome,whose arrival is a cause of joy
+приве́тствовать,verb,welcome,affirm or greet the arrival of someone
+приве́тствовать,verb,welcome,to accept willingly
 здоро́вый,adj,well,in good health
+хорошо́,adv,well,accurately; competently
+как сле́дует,adv,well,accurately; competently
+хорошо́,adv,well,completely; fully
+как сле́дует,adv,well,completely; fully
+хорошо́,adv,well,to a significant degree
+за́падный,adj,west,western
+за́падный,adj,west,occidental
+за́пад,noun,west,compass point
+вест,noun,west,compass point
 когда́,adv,when,"at what time, as a direct question"
 когда́,adv,when,"at what time, as an indirect question"
 где,adv,where,at what place; to what place; from what place
@@ -4926,6 +5611,17 @@ word,part_of_speech,english_word,sense
 куда́,adv,where,to which place or situation
 где,adv,where,in what situation
 где,adv,where,the place in which
+бе́лый,adj,white,bright and colourless
+бе́лый,adj,white,of or relating to Caucasians
+бе́лый,adj,white,designated for use by Caucasians
+белоко́жий,adj,white,designated for use by Caucasians
+светлоко́жий,adj,white,designated for use by Caucasians
+бе́лый,adj,white,relatively light or pale in colour
+све́тлый,adj,white,relatively light or pale in colour
+бе́лый,adj,white,pale or pallid
+бле́дный,adj,white,pale or pallid
+бе́лый,adj,white,"of coffee or tea, containing milk etc."
+бе́лый,adj,white,board games: deemed to belong to the white set
 бе́лый цвет,noun,white,color
 бе́лый,noun,white,person of European descent
 бе́лая,noun,white,person of European descent
@@ -4999,6 +5695,32 @@ word,part_of_speech,english_word,sense
 рабо́та,noun,work,physics: measure of energy expended in moving an object
 рабо́та,noun,work,thermodynamics: energy in transit between one form or repository and another
 укрепле́ние,noun,work,fortification
+рабо́тать,verb,work,to do a specific task
+труди́ться,verb,work,to do a specific task
+де́лать,verb,work,to do a specific task
+рабо́тать,verb,work,"to operate in a certain place, area, or specialty."
+труди́ться,verb,work,"to operate in a certain place, area, or specialty."
+рабо́тать,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+приводи́ть в де́йствие,verb,work,to set into action
+выраба́тывать,verb,work,to exhaust
+вы́работать,verb,work,to exhaust
+обраба́тывать,verb,work,"to shape, form, or improve a material"
+обрабо́тать,verb,work,"to shape, form, or improve a material"
+вызыва́ть,verb,work,to provoke or excite
+возбужда́ть,verb,work,to provoke or excite
+возбуди́ть,verb,work,to provoke or excite
+испо́льзовать,verb,work,to use or manipulate
+манипули́ровать,verb,work,to use or manipulate
+вызыва́ть,verb,work,to cause to happen
+вы́звать,verb,work,to cause to happen
+пробира́ться,verb,work,to cause to move or progress
+пробра́ться,verb,work,to cause to move or progress
+проса́чиваться,verb,work,to cause to move or progress
+просочи́ться,verb,work,to cause to move or progress
+вышива́ть,verb,work,to embroider with thread
+вы́шить,verb,work,to embroider with thread
+влия́ть,verb,work,to influence
+рабо́тать,verb,work,to behave in a certain way when handled.
 рабо́тник,noun,worker,person who performs labor
 рабо́тница,noun,worker,person who performs labor
 рабо́чий,noun,worker,person who performs labor
@@ -5073,7 +5795,10 @@ In the winters,verb,would,indicating an action in the past that happened repeate
 год,noun,year,a Julian year
 класс,noun,year,a level or grade at school or college
 курс,noun,year,a level or grade at school or college
+жёлтый,adj,yellow,having yellow as its color
+трусли́вый,adj,yellow,lacking courage
 жёлтый,noun,yellow,color
+вчера́,adv,yesterday,on the day before today
 вчера́,noun,yesterday,day before today
 молодо́й,adj,young,in the early part of life or growth
 ю́ный,adj,young,in the early part of life or growth

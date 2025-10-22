@@ -123,6 +123,9 @@ Bestie,noun,animal,person who behaves wildly
 Unmensch,noun,animal,person who behaves wildly
 Monster,noun,animal,person who behaves wildly
 Scheusal,noun,animal,person who behaves wildly
+Antwort,noun,answer,response
+Entgegnung,noun,answer,response
+Lösung,noun,answer,solution
 antworten,verb,answer,to make a reply or response to
 Wohnung,noun,apartment,domicile occupying part of a building
 Appartement,noun,apartment,domicile occupying part of a building
@@ -210,6 +213,22 @@ meine Süße,noun,baby,form of address to a man or a woman considered to be attr
 Nesthäkchen,noun,baby,lastborn of a family
 zurück,adv,back,to or in a previous condition or place
 wieder da,adv,back,to or in a previous condition or place
+Würzpfanne,noun,back,cistern
+Pfanne,noun,back,cistern
+Wanne,noun,back,cistern
+Bottich,noun,back,cistern
+Küpe,noun,back,cistern
+Rücken,noun,back,the rear of body
+Rückseite,noun,back,the reverse side
+Kehrseite,noun,back,the reverse side
+Ende,noun,back,that which is farthest away from the front
+Fond,noun,back,that which is farthest away from the front
+Hintergrund,noun,back,that which is farthest away from the front
+Hinterseite,noun,back,that which is farthest away from the front
+Ende,noun,back,the part of something that goes last
+Hinterende,noun,back,the part of something that goes last
+Rückenlehne,noun,back,"the backrest, the part of a piece of furniture which receives the human back — see also backrest"
+Verteidiger,noun,back,a position behind most players on the team
 schlecht,adj,bad,unfavorable; negative
 schlimm,adj,bad,unfavorable; negative
 übel,adj,bad,unfavorable; negative
@@ -368,6 +387,18 @@ Mieze,noun,bird,woman
 Stinkefinger,noun,bird,vulgar hand gesture
 Geburtstag,noun,birthday,anniversary
 Geburtsdatum,noun,birthday,date of birth — see also date of birth
+schwarz,adj,black,absorbing all light
+schwarz,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+schwarzhäutig,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+schwarz,adj,black,"illegitimate, illegal or disgraced"
+schwarz,adj,black,"of coffee or tea, without milk or other whitener"
+schwarz,adj,black,"chess, checkers etc.: color opposing ""white"""
 Schwarz,noun,black,colour/color
 Schwarz,noun,black,"dye, pigment"
 Schwärze,noun,black,"dye, pigment"
@@ -383,6 +414,12 @@ blond,adj,blond,having blond hair
 blondhaarig,adj,blond,having blond hair
 flachshaarig,adj,blond,having blond hair
 hellhäutig,adj,blond,having blond hair
+blau,adj,blue,"blue-coloured — see also dark blue, light blue"
+blaaw,adj,blue,"blue-coloured — see also dark blue, light blue"
+depressiv,adj,blue,depressed
+niedergeschlagen,adj,blue,depressed
+schwermütig,adj,blue,depressed
+traurig,adj,blue,depressed
 Blau,noun,blue,colour
 Boot,noun,boat,water craft
 Schiff,noun,boat,water craft
@@ -466,6 +503,62 @@ Anstoß,noun,break,"billiards, snooker: first shot"
 Gegenangriff,noun,break,soccer: counter-attack
 Konter,noun,break,soccer: counter-attack
 Gegenstoß,noun,break,soccer: counter-attack
+zerbrechen,verb,break,intransitive: to separate into (to end up in) two or more pieces
+kaputtgehen,verb,break,intransitive: to separate into (to end up in) two or more pieces
+brechen,verb,break,intransitive: to separate into (to end up in) two or more pieces
+brechen,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+zerbrechen,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+brechen,verb,break,"intransitive, of a bone: to crack"
+brechen,verb,break,transitive: to cause (a bone) to crack
+kleinmachen,verb,break,to divide (money) into smaller units
+zerbrechen,verb,break,to cause a person to lose spirit or will
+zähmen,verb,break,to turn an animal into a beast of burden
+zureiten,verb,break,to turn an animal into a beast of burden
+aufhören,verb,break,to cause a habit to no longer exist
+zugrunde richten,verb,break,to ruin financially
+brechen,verb,break,transitive: to do that which is forbidden by (something)
+knacken,verb,break,"gaming: to design or make a powerful, unbalancing but legal move"
+aushebeln,verb,break,"gaming: to design or make a powerful, unbalancing but legal move"
+kaputtgehen,verb,break,intransitive: to stop functioning properly or altogether
+kaputtmachen,verb,break,transitive: to cause to stop functioning
+knacken,verb,break,to cause to no longer bar
+aufbrechen,verb,break,to cause to no longer bar
+brechen,verb,break,"of a wave, to collapse into a surf"
+brechen,verb,break,"of a wave, to collapse into a surf"
+wechseln,verb,break,of a spell of weather: to end
+zu Ende gehen,verb,break,of a spell of weather: to end
+pausieren,verb,break,to interrupt or cease one's work or occupation temporarily
+stoppen,verb,break,to interrupt a fall
+abbremsen,verb,break,to interrupt a fall
+publizieren,verb,break,to disclose or make known an item of news
+herauskommen,verb,break,to disclose or make known an item of news
+herausbringen,verb,break,to disclose or make known an item of news
+bekannt geben,verb,break,to disclose or make known an item of news
+bekannt machen,verb,break,to disclose or make known an item of news
+publik machen,verb,break,to disclose or make known an item of news
+überbringen,verb,break,to disclose or make known an item of news
+anbrechen,verb,break,of morning: to arrive
+dämmern,verb,break,of morning: to arrive
+hereinbrechen,verb,break,to become audible suddenly
+unterbrechen,verb,break,to change a steady state abruptly
+brechen,verb,break,to change a steady state abruptly
+werden,verb,break,to suddenly become
+wenden,verb,break,to suddenly become
+verwandeln,verb,break,to suddenly become
+einen / den Stimmbruch haben,verb,break,"of a male voice, to become deeper at puberty"
+brechen,verb,break,to do better than a record
+einen Break machen,verb,break,to win a game as receiver in tennis
+anstoßen,verb,break,billiards: to make the first shot
+den Eröffnungsstoß haben,verb,break,billiards: to make the first shot
+degradieren,verb,break,to reduce the military rank of
+abbrechen,verb,break,to end a connection
+unterbrechen,verb,break,to end a connection
+trennen,verb,break,to demulsify
+aufspalten,verb,break,to demulsify
+ausbrechen,verb,break,to counter-attack
+ausfallen,verb,break,to counter-attack
+einen Ausfall machen,verb,break,to counter-attack
+zum Gegenangriff ansetzen,verb,break,to counter-attack
 Frühstück,noun,breakfast,first meal of the day
 Zmorgen,noun,breakfast,first meal of the day
 Morgenessen,noun,breakfast,first meal of the day
@@ -475,6 +568,7 @@ Bruder,noun,brother,male sibling
 Brüeder,noun,brother,male sibling
 Bruder,noun,brother,male having parents in common
 Bruder,noun,brother,male fellow member of a religious community
+braun,adj,brown,having a brown colour
 Braun,noun,brown,colour
 bauen,verb,build,(transitive) to form by combining materials or parts
 Bau,noun,building,act or process of building
@@ -489,6 +583,10 @@ Firma,noun,business,commercial enterprise or establishment
 Geschäft,noun,business,"commercial, industrial or professional activity"
 Angelegenheit,noun,business,something involving one personally
 Geschäft,noun,business,slang: excrement
+beschäftigt,adj,busy,crowded with business or activities
+beschäftigt,adj,busy,doing a great deal
+besetzt,adj,busy,engaged
+beschäftigt,adj,busy,engaged
 Butter,noun,butter,soft foodstuff made from milk
 Anke,noun,butter,soft foodstuff made from milk
 kaufen,verb,buy,to obtain something with money
@@ -515,6 +613,25 @@ Call,noun,call,finance: short for option to buy stock — see also call option
 Notdienst,noun,call,type of work shift
 Bereitschaftsdienst,noun,call,type of work shift
 Aufruf,noun,call,computing: act of jumping to a subprogram
+rufen,verb,call,"to request, summon, or beckon"
+anrufen,verb,call,"to request, summon, or beckon"
+herbeirufen,verb,call,"to request, summon, or beckon"
+rufen,verb,call,to cry or shout
+anrufen,verb,call,to contact by telephone
+antelefonieren,verb,call,to contact by telephone
+durchrufen,verb,call,to contact by telephone
+anbimmeln,verb,call,to contact by telephone
+anklingeln,verb,call,to contact by telephone
+anläuten,verb,call,to contact by telephone
+telefonieren,verb,call,to contact by telephone
+anbellen,verb,call,to contact by telephone
+aufringen,verb,call,to contact by telephone
+besuchen,verb,call,to pay a social visit
+vorbeischauen,verb,call,to pay a social visit
+nennen,verb,call,to name or refer to
+heißen,verb,call,to name or refer to
+einfordern,verb,call,"to require, demand"
+aufrufen,verb,call,to jump to another part of a program
 Fotoapparat,noun,camera,still camera
 Kamera,noun,camera,still camera
 Videokamera,noun,camera,movie camera
@@ -531,6 +648,9 @@ kündigen,verb,can,to fire or dismiss an employee
 feuern,verb,can,to fire or dismiss an employee
 rausschmeißen,verb,can,to fire or dismiss an employee
 nicht können,verb,cannot,"cannot — see also can, not"
+Kapital,noun,capital,money and wealth
+Kapitell,noun,capital,uppermost part of a column
+Säulenkopf,noun,capital,uppermost part of a column
 Auto,noun,car,"automobile, a vehicle steered by a driver"
 Automobil,noun,car,"automobile, a vehicle steered by a driver"
 Wagen,noun,car,"automobile, a vehicle steered by a driver"
@@ -608,6 +728,17 @@ Veränderung,noun,change,the process of becoming different
 Wandel,noun,change,the process of becoming different
 Wechselgeld,noun,change,small denominations of money given in exchange for a larger denomination
 Rückgeld,noun,change,balance returned after a purchase
+sich ändern,verb,change,to become something different
+sich verändern,verb,change,to become something different
+sich wandeln,verb,change,to become something different
+ändern,verb,change,to make something into something else
+verändern,verb,change,to make something into something else
+verwandeln,verb,change,to make something into something else
+wechseln,verb,change,to replace
+auswechseln,verb,change,to replace
+sich umziehen,verb,change,to replace one's own clothing
+sich umkleiden,verb,change,to replace one's own clothing
+umsteigen,verb,change,to transfer to another vehicle
 Karte,noun,chart,navigator's map
 Diagramm,noun,chart,non-narrative presentation of data
 Schaubild,noun,chart,non-narrative presentation of data
@@ -728,6 +859,12 @@ Klasse,noun,class,set theory: collection of sets definable by a shared property
 Klasse,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 Klassenzimmer,noun,classroom,room in a school
 Klassenraum,noun,classroom,room in a school
+sauber,adj,clean,not dirty
+rein,adj,clean,not dirty
+rein,adj,clean,"pure, especially morally or religiously"
+clean,adj,clean,not having used mind-altering or mood-changing substances
+sauber,adj,clean,"smooth, exact, and performed well"
+sauber,adj,clean,slang: cool or neat
 reinigen,verb,clean,(transitive) to remove dirt from a place or object
 säubern,verb,clean,(transitive) to remove dirt from a place or object
 putzen,verb,clean,(transitive) to remove dirt from a place or object
@@ -777,6 +914,9 @@ Kaffeepflanze,noun,coffee,plant
 Kaffee,noun,coffee,plant
 Kaffeebraun,noun,coffee,colour
 Kaffeefarbe,noun,coffee,colour
+kalt,adj,cold,having a low temperature
+kaltherzig,adj,cold,unfriendly
+kalt,adj,cold,unprepared
 Kälte,noun,cold,low temperature
 Erkältung,noun,cold,illness
 Verkühlung,noun,cold,illness
@@ -825,6 +965,11 @@ vergleichen,verb,compare,to assess the similarities between two things or betwee
 komparieren,verb,compare,to assess the similarities between two things or between one thing and another
 steigern,verb,compare,to form the three degrees of comparison of
 übereinstimmen,verb,compare,to be similar
+ganz,adj,complete,with everything included
+komplett,adj,complete,with everything included
+vollständig,adj,complete,with everything included
+abgeschlossen,adj,complete,finished; ended; concluded; completed
+beendet,adj,complete,finished; ended; concluded; completed
 beenden,verb,complete,to finish
 fertigstellen,verb,complete,to finish
 fertigmachen,verb,complete,to finish
@@ -859,11 +1004,20 @@ alles klar,adj,cool,"colloquial: all right, acceptable"
 akzeptabel,adj,cool,"colloquial: all right, acceptable"
 kühl,adj,cool,colloquial: not upset
 cool,adj,cool,colloquial: not upset
+korrekt,adj,correct,free from error
+richtig,adj,correct,free from error
+einwandfrei,adj,correct,free from error
+einwandfrei,adj,correct,with good manners
+ordnungsgemäß,adj,correct,with good manners
+zutreffend,adj,correct,with good manners
 ausbessern,verb,correct,to make something become right that was previously wrong
 korrigieren,verb,correct,to make something become right that was previously wrong
 richtigstellen,verb,correct,to make something become right that was previously wrong
 berichtigen,verb,correct,to make something become right that was previously wrong
 nachregeln Tech.,verb,correct,to make something become right that was previously wrong
+Kosten,noun,cost,amount of money spent for a purpose
+Verlust,noun,cost,negative consequence or loss
+Ausgaben,noun,cost,negative consequence or loss
 kosten,verb,cost,"to incur a charge, a price"
 Land,noun,country,region of land
 Land,noun,country,nation state
@@ -941,6 +1095,7 @@ Vati,noun,dad,informal: a father
 Papa,noun,dad,familiar address of one's own father
 Papi,noun,dad,familiar address of one's own father
 Vati,noun,dad,familiar address of one's own father
+Tanz,noun,dance,movements to music
 tanzen,verb,dance,move rhythmically to music
 Tänzer,noun,dancer,person who dances
 Tänzerin,noun,dancer,a female person who dances
@@ -997,6 +1152,13 @@ beschreiben,verb,describe,to represent in words
 beschreiben,verb,describe,to give rise to a geometrical structure
 Beschreibung,noun,description,account in words
 Deskription,noun,description,account in words
+Design,noun,design,plan
+Entwurf,noun,design,plan
+Muster,noun,design,pattern
+Absicht,noun,design,intention
+Entwurf,noun,design,appearance
+Design,noun,design,art of designing
+Entwurf,noun,design,art of designing
 entwerfen,verb,design,to plan an artwork etc.
 designen,verb,design,to plan an artwork etc.
 Schreibtisch,noun,desk,table for writing and reading
@@ -1194,12 +1356,27 @@ entnehmen,verb,draw,to determine the result of a lottery
 losen,verb,draw,to determine the result of a lottery
 aufdecken,verb,draw,cardgames: to take the top card of a deck into hand
 ziehen,verb,draw,cardgames: to take the top card of a deck into hand
+Kleid,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+Kleidung,noun,dress,apparel or clothing
 kleiden,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 ankleiden,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 anziehen,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 sich anziehen,verb,dress,to put on clothes — see also get dressed
 anmachen,verb,dress,"to prepare (food) for cooking or eating, especially by seasoning it; to add a dressing or sauce (to food, especially a salad)"
 tragen,verb,dress,to allow one’s penis to fall to one side or the other within one’s trousers
+Getränk,noun,drink,served beverage
+Trinken,noun,drink,served beverage
+Trank,noun,drink,served beverage
+Trunk,noun,drink,served beverage
+Getränk,noun,drink,type of beverage
+Trank,noun,drink,type of beverage
+Trunk,noun,drink,type of beverage
+Getränk,noun,drink,served alcoholic beverage
+alkoholisches Getränk,noun,drink,served alcoholic beverage
+Drink,noun,drink,served alcoholic beverage
+Trinken,noun,drink,action of drinking
+Trinkerei,noun,drink,action of drinking
+Drink,noun,drink,alcoholic beverages in general
 trinken,verb,drink,consume liquid through the mouth
 saufen,verb,drink,consume liquid through the mouth
 trinke,verb,drink,consume liquid through the mouth
@@ -1231,7 +1408,17 @@ Chornähre,noun,ear,fruiting body of a grain plant
 Ohr,noun,ear,organ of hearing
 Informant,noun,ear,slang: police informant
 Spitzel,noun,ear,slang: police informant
+früh,adj,early,at a time in advance of the usual
+verfrüht,adj,early,at a time in advance of the usual
+frühzeitig,adj,early,at a time in advance of the usual
+früh,adj,early,arriving at a time before expected
+verfrüht,adj,early,arriving at a time before expected
+früh,adj,early,near but after the start or beginning
 früh,adv,early,at a time before expected
+Osten,noun,east,compass point
+Ost,noun,east,compass point
+Oschte,noun,east,compass point
+Oschta,noun,east,compass point
 leicht,adj,easy,requiring little skill or effort
 einfach,adj,easy,requiring little skill or effort
 essen,verb,eat,"to ingest — see also consume, ingest"
@@ -1254,9 +1441,17 @@ sonst,adv,else,word that implies any result with the exception of the one being 
 anders,adv,else,word that implies any result with the exception of the one being referred to
 andernfalls,adv,else,word that implies any result with the exception of the one being referred to
 ansonsten,adv,else,word that implies any result with the exception of the one being referred to
+E-Mail,noun,email,system for sending messages and datas by means of computers connected together in a network
+E-Mail,noun,email,message sent through email
+Mail,noun,email,message sent through email
+E-Mail-Adresse,noun,email,email address — see also e-mail address
 mailen,verb,email,(transitive) to send an email or emails to
 mailen,verb,email,(transitive) to send (something) through email
 mailen,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+Ende,noun,end,extreme part
+Schluss,noun,end,extreme part
+Tod,noun,end,death
+Ende,noun,end,death
 enden,verb,end,"intransitive: be finished, be terminated"
 beenden,verb,end,"transitive: finish, terminate (something)"
 genießen,verb,enjoy,to receive pleasure or satisfaction from something
@@ -1292,6 +1487,10 @@ aufgeregt,adj,excited,having great enthusiasm and energy
 angeregt,adj,excited,being in a state of higher energy
 aufregend,adj,exciting,causing excitement
 spannend,adj,exciting,causing excitement
+Übung,noun,exercise,any activity designed to develop or hone a skill or ability
+Übung,noun,exercise,physical activity intended to improve strength and fitness
+Training,noun,exercise,physical activity intended to improve strength and fitness
+Sport,noun,exercise,physical activity intended to improve strength and fitness
 üben,verb,exercise,exert for the sake of training
 trainieren,verb,exercise,exert for the sake of training
 sich bewegen,verb,exercise,perform physical activity
@@ -1338,6 +1537,15 @@ Absturz,noun,fall,act of moving in gas or vacuum under the effect of gravity fro
 Niedergang,noun,fall,a period of decline before the end
 Fall,noun,fall,loss of greatness or status
 Untergang,noun,fall,loss of greatness or status
+fallen,verb,fall,move to a lower position under the effect of gravity
+gheie,verb,fall,move to a lower position under the effect of gravity
+fallen,verb,fall,come down or descend
+fallen,verb,fall,be brought to earth or be overthrown
+fallen,verb,fall,die
+fallen,verb,fall,be allotted to
+zufallen,verb,fall,be allotted to
+fallen,verb,fall,become or change into
+werden,verb,fall,become or change into
 falsch,adj,false,"untrue, not factual, wrong"
 unwahr,adj,false,"untrue, not factual, wrong"
 falsch,adj,false,"spurious, artificial"
@@ -1345,6 +1553,12 @@ unecht,adj,false,"spurious, artificial"
 falsch,adj,false,state in Boolean logic that indicates a negative result
 Familien-,adj,family,suitable for children and adults
 vom anderen Ufer,adj,family,(slang) homosexual
+Familie,noun,family,"immediate family [as a group], e.g. parents and their children"
+Sippe,noun,family,"immediate family [as a group], e.g. parents and their children"
+Familie,noun,family,"group of people related by blood, marriage, law, or custom"
+Familie,noun,family,"rank in a taxonomic classification, above both genus and species"
+Familie,noun,family,music: a group of instruments having the same basic method of tone production
+Familie,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
 bekannt,adj,famous,well known
 berühmt,adj,famous,well known
 berühmt,adj,famous,in the public eye
@@ -1366,6 +1580,53 @@ Züchter,noun,farmer,person who works the land and/or who keeps livestock
 Züchterin,noun,farmer,person who works the land and/or who keeps livestock
 Landmann,noun,farmer,person who works the land and/or who keeps livestock
 Landfrau,noun,farmer,person who works the land and/or who keeps livestock
+fest,adj,fast,firmly or securely fixed in place
+befestigt,adj,fast,firmly or securely fixed in place
+verankert,adj,fast,firmly or securely fixed in place
+befestigt,adj,fast,firm against attack
+fest,adj,fast,firm against attack
+geschützt,adj,fast,firm against attack
+verstärkt,adj,fast,firm against attack
+undurchdringlich,adj,fast,firm against attack
+unzugänglich,adj,fast,firm against attack
+eng,adj,fast,"of friend: steadfast, with unwavering feeling"
+echt,adj,fast,"of friend: steadfast, with unwavering feeling"
+treu,adj,fast,"of friend: steadfast, with unwavering feeling"
+wirklich,adj,fast,"of friend: steadfast, with unwavering feeling"
+standhaft,adj,fast,"of friend: steadfast, with unwavering feeling"
+schnell,adj,fast,moving or capable of moving with great speed
+rasch,adj,fast,moving or capable of moving with great speed
+geschwind,adj,fast,moving or capable of moving with great speed
+flink,adj,fast,moving or capable of moving with great speed
+flott,adj,fast,moving or capable of moving with great speed
+hurtig,adj,fast,moving or capable of moving with great speed
+gaach,adj,fast,moving or capable of moving with great speed
+trawig,adj,fast,moving or capable of moving with great speed
+schnëll,adj,fast,moving or capable of moving with great speed
+gschwind,adj,fast,moving or capable of moving with great speed
+gleitig,adj,fast,moving or capable of moving with great speed
+hurtig,adj,fast,moving or capable of moving with great speed
+gnoot,adj,fast,moving or capable of moving with great speed
+tifig,adj,fast,moving or capable of moving with great speed
+schnell,adj,fast,causing unusual rapidity of play or action
+schnell,adj,fast,computing: able to transfer data in a short period of time
+Breitband-,adj,fast,computing: able to transfer data in a short period of time
+tief,adj,fast,of sleep: deep or sound
+fest,adj,fast,of sleep: deep or sound
+farbecht,adj,fast,of a dye: not running or fading
+beständig,adj,fast,of a dye: not running or fading
+fixiert,adj,fast,of a dye: not running or fading
+waschfest,adj,fast,of a dye: not running or fading
+lichtecht,adj,fast,of a dye: not running or fading
+Lebemann,adj,fast,having an extravagant lifestyle or immoral habits
+halbseiden,adj,fast,having an extravagant lifestyle or immoral habits
+lebenslustig,adj,fast,having an extravagant lifestyle or immoral habits
+leichtlebig,adj,fast,having an extravagant lifestyle or immoral habits
+leicht,adj,fast,having an extravagant lifestyle or immoral habits
+liederlich,adj,fast,having an extravagant lifestyle or immoral habits
+vorgehen,adj,fast,ahead of the correct time or schedule
+schnell,adj,fast,of photographic film: more sensitive to light than average
+lichtempfindlich,adj,fast,of photographic film: more sensitive to light than average
 fest,adv,fast,in a firm or secure manner
 tief,adv,fast,of sleeping: deeply or soundly
 fest,adv,fast,of sleeping: deeply or soundly
@@ -1525,6 +1786,11 @@ vergessen,verb,forget,to unintentionally not do
 verlegen,verb,forget,to leave behind
 vergessen,verb,forget,to leave behind
 vergessen,verb,forget,to cease remembering
+Gestalt,noun,form,shape or visible structure
+Form,noun,form,shape or visible structure
+Formular,noun,form,document to be filled in
+Vordruck,noun,form,document to be filled in
+Form,noun,form,grouping of words
 formen,verb,form,to give shape
 bilden,verb,form,to give shape
 gestalten,verb,form,to give shape
@@ -1584,6 +1850,17 @@ vorderer,adj,front,located at or near the front
 Vorder-,adj,front,located at or near the front
 vorderer,adj,front,phonetics: pronounced toward the front of the mouth
 Vorderzungen-,adj,front,phonetics: pronounced toward the front of the mouth
+Frontseite,noun,front,facing side
+Vorderseite,noun,front,facing side
+Front,noun,front,main entrance side
+Vorderseite,noun,front,main entrance side
+Frontmann,noun,front,public face of covert organisation
+Front,noun,front,meteorology: interface between airmasses
+Wetterfront,noun,front,meteorology: interface between airmasses
+Front,noun,front,military: area or line of conflict
+Frontlinie,noun,front,military: area or line of conflict
+Front,noun,front,military: direction of the enemy
+Fassade,noun,front,intentional and false impression of oneself
 Frucht,noun,fruit,part of plant
 Frucht,noun,fruit,food
 Obst,noun,fruit,food
@@ -1735,6 +2012,8 @@ Großmütterchen,noun,grandmother,mother of someone's parent
 Großmütterlein,noun,grandmother,mother of someone's parent
 Großeltern,noun,grandparent,parent of one's parent
 Großelternteil,noun,grandparent,parent of one's parent
+grau,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+grau,adj,gray,"dreary, gloomy"
 Grau,noun,gray,colour
 Graue,noun,gray,extraterrestrial being
 Grauen,noun,gray,extraterrestrial being
@@ -1745,6 +2024,12 @@ schön,adj,great,very good
 fein,adj,great,very good
 wundervoll,adj,great,very good
 der Große,adj,great,important title
+grün,adj,green,having green as its colour
+grünschnäblig,adj,green,inexperienced
+naiv,adj,green,inexperienced
+unerfahren,adj,green,inexperienced
+grün,adj,green,environmentally friendly
+grün,adj,green,of fruit: unripe
 Grün,noun,green,colour
 Grüner,noun,green,member of a green party
 Grüne,noun,green,member of a green party
@@ -1763,6 +2048,18 @@ anbauen,verb,grow,(transitive) to cause something to become bigger
 ziehen,verb,grow,(transitive) to cause something to become bigger
 züchten,verb,grow,(transitive) to cause something to become bigger
 Vermutung,noun,guess,prediction about the outcome of something
+schätzen,verb,guess,to reach an unconfirmed conclusion
+raten,verb,guess,to reach an unconfirmed conclusion
+erraten,verb,guess,to solve by a correct conjecture
+denken,verb,guess,"to suppose, to imagine"
+glauben,verb,guess,"to suppose, to imagine"
+vermuten,verb,guess,"to suppose, to imagine"
+denken,verb,guess,"to think, conclude, or decide without a connotation of uncertainty"
+glauben,verb,guess,"to think, conclude, or decide without a connotation of uncertainty"
+sich ins Gedächtnis zurückrufen,verb,guess,(obsolete in English) to hit upon or reproduce by memory
+erinnern,verb,guess,(obsolete in English) to hit upon or reproduce by memory
+vergegenwärtigen,verb,guess,(obsolete in English) to hit upon or reproduce by memory
+rekapitulieren,verb,guess,(obsolete in English) to hit upon or reproduce by memory
 Gitarre,noun,guitar,musical instrument
 Fitnessstudio,noun,gym,sporting facility specialized for lifting weights and exercise
 Gym,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -1795,6 +2092,18 @@ fröhlich,adj,happy,"contented, joyous"
 froh,adj,happy,"contented, joyous"
 freudig,adj,happy,"contented, joyous"
 glücklich,adj,happy,"fortunate, lucky"
+hart,adj,hard,resistant to pressure
+fest,adj,hard,resistant to pressure
+schwierig,adj,hard,requiring a lot of effort to do or understand
+hart,adj,hard,requiring a lot of effort to do or understand
+schwer,adj,hard,requiring a lot of effort to do or understand
+herausfordernd,adj,hard,requiring a lot of effort to do or understand
+schwierig,adj,hard,demanding a lot of effort to endure
+schwer,adj,hard,demanding a lot of effort to endure
+hart,adj,hard,severe
+fix,adj,hard,unquestionable
+stark,adj,hard,of drink: strong
+hart,adj,hard,"of water, high in dissolved calcium compounds"
 Kopfbedeckung,noun,hat,a head covering
 Kappe,noun,hat,a head covering
 Hut,noun,hat,a head covering
@@ -1860,6 +2169,8 @@ Hilfe,noun,help,person or persons who provides assistance with some task
 Helfer,noun,help,person or persons who provides assistance with some task
 Helferin,noun,help,person or persons who provides assistance with some task
 Hilfe,noun,help,textual support of a software application
+helfen,verb,help,transitive: provide assistance to (someone or something)
+helfen,verb,help,contribute in some way to
 hier,adv,here,"in, on, or at this place"
 hierher,adv,here,to this place
 hierhin,adv,here,to this place
@@ -1895,6 +2206,17 @@ nachhause,adv,home,homewards
 heimwärts,adv,home,homewards
 heim,adv,home,homewards
 häi,adv,home,homewards
+Heim,noun,home,house or structure in which someone lives
+Zuhause,noun,home,house or structure in which someone lives
+Wohnung,noun,home,house or structure in which someone lives
+a,noun,home,house or structure in which someone lives
+Heimat,noun,home,someone’s native land
+Elternhaus,noun,home,childhood or parental home
+Nest,noun,home,childhood or parental home
+Zuhause,noun,home,childhood or parental home
+Heimat,noun,home,habitat
+Heim,noun,home,place of refuge or rest
+Ruhestätte,noun,home,place of refuge or rest
 Hausaufgabe,noun,homework,work that is done at home
 Hausaufgaben,noun,homework,preliminary or preparatory work
 hoffen,verb,hope,"to want something to happen, with expectation that it might"
@@ -1989,10 +2311,17 @@ einschließen,verb,include,"to contain, as part of a whole"
 mit einbeziehen,verb,include,"to contain, as part of a whole"
 Information,noun,information,communicable knowledge
 Auskunft,noun,information,communicable knowledge
+Zinsen,noun,interest,finance: price of credit
+Interesse,noun,interest,great attention and concern from someone
 interessieren,verb,interest,to attract attention or concern
 interessiert,adj,interested,having or showing interest
 interessant,adj,interesting,arousing or holding the attention
 reizvoll,adj,interesting,arousing or holding the attention
+Interview,noun,interview,conversation with journalist etc.
+Vorstellungsgespräch,noun,interview,a formal meeting for the assessment of a candidate or applicant
+Interview,noun,interview,a formal meeting for the assessment of a candidate or applicant
+Bewerbungsgespräch,noun,interview,a formal meeting for the assessment of a candidate or applicant
+Einstellungsgespräch,noun,interview,a formal meeting for the assessment of a candidate or applicant
 interviewen,verb,interview,to have an interview
 vorstellen,verb,introduce,to cause someone to be acquainted
 bekannt machen,verb,introduce,to cause someone to be acquainted
@@ -2062,6 +2391,19 @@ sich halten,verb,keep,to remain edible or otherwise usable
 halten,verb,keep,of livestock: to raise; to care for
 aushalten,verb,keep,supply with necessities and financially support a person
 halten,verb,keep,observe
+Schlüssel,noun,key,device designed to open and close a lock
+Schlüssel,noun,key,crucial step
+Zeichenerklärung,noun,key,small guide explaining symbols or terminology
+Legende,noun,key,small guide explaining symbols or terminology
+Taste,noun,key,button on a typewriter or computer keyboard
+Taste,noun,key,part of a piano or musical keyboard
+Tonart,noun,key,scale of musical notes
+Taste,noun,key,device used to transmit Morse code
+Schlüssel,noun,key,cryptography: piece of information used to encode or decode
+Schlüssel,noun,key,computing: field of a database constrained to be unique
+Schlüssel,noun,key,computing: field in a record used as a search argument
+Schlüssel,noun,key,computing: value uniquely identifying entry in associative array
+Zone,noun,key,in basketball
 Art,noun,kind,"type, race, category"
 Sorte,noun,kind,"type, race, category"
 Art,noun,kind,atypical specimen
@@ -2102,12 +2444,22 @@ Sprache,noun,language,computer language — see also computer language
 Sprachen,noun,language,computer language — see also computer language
 groß,adj,large,of greater size — see also big
 weit,adj,large,of greater size — see also big
+spät,adj,late,near the end of a period of time
+spät,adj,late,near the end of the day
+spät,adj,late,associated with the end of a period
+verspätet,adj,late,not arriving until after an expected time
+verstorben,adj,late,"euphemism for ""dead"""
+selig,adj,late,"euphemism for ""dead"""
 spät,adv,late,past a designated time
 später,adv,later,more late
 später,adv,later,afterward in time
 nachher,adv,later,afterward in time
 Lachen,noun,laugh,expression of mirth peculiar to the human species
 Lache,noun,laugh,expression of mirth peculiar to the human species
+lachen,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+lache,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+lachen,verb,laugh,be or appear cheerful
+auslachen,verb,laugh,make an object of laughter or ridicule
 lernen,verb,learn,to acquire knowledge or ability
 studieren,verb,learn,to attend educational activity
 lernen,verb,learn,to attend educational activity
@@ -2121,6 +2473,11 @@ weggehen,verb,leave,to depart (intransitive)
 fortgehen,verb,leave,to depart (intransitive)
 wegfahren,verb,leave,to depart (intransitive)
 fortfahren,verb,leave,to depart (intransitive)
+link,adj,left,west side of the body when one is facing north
+links,adj,left,pertaining to the political left
+links,adv,left,on the left side
+links,adv,left,towards the left side
+nach links,adv,left,towards the left side
 Linke,noun,left,the left side
 Linke,noun,left,the ensemble of left-wing political parties
 Bein,noun,leg,lower limb from groin to ankle
@@ -2178,6 +2535,13 @@ hell,adj,light,having light
 hell,adj,light,pale in colour
 leicht,adj,light,of low weight
 leicht,adj,light,"low in fat, calories, alcohol, salt, etc."
+Licht,noun,light,electromagnetic waves
+Lichtquelle,noun,light,source of illumination
+Licht,noun,light,source of illumination
+Erleuchtung,noun,light,spiritual illumination
+Licht,noun,light,spiritual illumination
+Flamme,noun,light,flame or something used to create fire
+Ampel,noun,light,"traffic light, or an intersection controlled by one"
 mögen,verb,like,to enjoy
 gern haben,verb,like,to enjoy
 mögen,verb,like,to find attractive
@@ -2211,6 +2575,10 @@ Löwchen,noun,lion,big cat Panthera leo
 Löwlein,noun,lion,big cat Panthera leo
 Löwin,noun,lion,big cat Panthera leo
 Löwe,noun,lion,heraldic charge
+Liste,noun,list,enumeration or compilation of items
+Liste,noun,list,computing: codified representation of a list
+Schlagseite,noun,list,nautical: tilting or careening to one side
+Krängung,noun,list,nautical: tilting or careening to one side
 krängen,verb,list,to tilt to one side
 aufzählen,verb,list,to create or recite a list
 neigen,verb,list,to be pleasing to
@@ -2236,6 +2604,8 @@ leben,verb,live,have permanent residence
 überleben,verb,live,"survive, persevere, continue"
 lokal,adj,local,of a nearby location
 örtlich,adj,local,of a nearby location
+lang,adj,long,having much distance from one point to another
+lang,adj,long,having great duration
 weit,adv,long,over a great distance
 lange,adv,long,for a particular duration
 lange,adv,long,for a long duration
@@ -2262,6 +2632,22 @@ verlieren,verb,lose,be unable to follow or trace (somebody or something) any lon
 loswerden,verb,lose,"informal: shed, remove, discard, eliminate"
 weglassen,verb,lose,"informal: shed, remove, discard, eliminate"
 verlieren,verb,lose,fail to be the winner
+Liebe,noun,love,strong affection
+Zuneigung,noun,love,strong affection
+Minne,noun,love,strong affection
+Liäbi,noun,love,strong affection
+Liebi,noun,love,strong affection
+Liebling,noun,love,object of one's romantic feelings; darling or sweetheart
+Lieber,noun,love,object of one's romantic feelings; darling or sweetheart
+Liebe,noun,love,object of one's romantic feelings; darling or sweetheart
+Liebes,noun,love,object of one's romantic feelings; darling or sweetheart
+Liebster,noun,love,object of one's romantic feelings; darling or sweetheart
+Liebste,noun,love,object of one's romantic feelings; darling or sweetheart
+Geliebter,noun,love,object of one's romantic feelings; darling or sweetheart
+Geliebte,noun,love,object of one's romantic feelings; darling or sweetheart
+Schatz,noun,love,object of one's romantic feelings; darling or sweetheart
+in Liebe,noun,love,closing of a letter
+null,noun,love,zero
 lieben,verb,love,have a strong affection for
 lieb haben,verb,love,have a strong affection for
 gern haben,verb,love,have a strong affection for
@@ -2328,6 +2714,14 @@ Markt,noun,market,group of potential customers
 Markt,noun,market,total sum of trading
 Markt-,noun,market,used attributively
 verheiratet,adj,married,in a state of marriage; having a wife or a husband
+Spiel,noun,match,sporting event
+Wettspiel,noun,match,sporting event
+Wettkampf,noun,match,sporting event
+Match,noun,match,sporting event
+ebenbürtig,noun,match,attribute equaling or exceeding
+Streichholz,noun,match,device to make fire
+Zündholz,noun,match,device to make fire
+Hölzchen,noun,match,device to make fire
 übereinstimmen,verb,match,intransitive: to agree; to be equal
 passen,verb,match,intransitive: to agree; to be equal
 (mathematisch) gleich sein,verb,match,intransitive: to agree; to be equal
@@ -2496,6 +2890,9 @@ Tonkunst,noun,music,"sound, organized in time in a melodious way"
 Musik,noun,music,any pleasing or interesting sounds
 Noten,noun,music,sheet music
 müssen,verb,must,be required to
+Name,noun,name,"word or phrase indicating a particular person, place, class or thing"
+Name,noun,name,reputation — see also reputation
+Ruf,noun,name,reputation — see also reputation
 nennen,verb,name,to give a name to
 taufen,verb,name,to give a name to
 bezeichnen,verb,name,to give a name to
@@ -2509,6 +2906,7 @@ natürlich,adj,natural,without adjustment
 naturwüchsig,adj,natural,without adjustment
 naturfarben,adj,natural,of colour: almost white
 naturfarbig,adj,natural,of colour: almost white
+nah,adj,near,physically close
 nah,adv,near,at or towards a position close in space or time
 benötigen,verb,need,to have an absolute requirement for
 brauchen,verb,need,to have an absolute requirement for
@@ -2560,6 +2958,9 @@ Nachricht,noun,news,reports of current events
 Nachrichten,noun,news,reports of current events
 Zeitung,noun,newspaper,publication
 Zeitungspapier,noun,newspaper,paper on which newspapers are printed
+nächster,adj,next,following in a sequence
+nächster,adj,next,being closer to the present location than all other items
+nächster,adj,next,"nearest date, time, space or order"
 freundlich,adj,nice,"pleasant, satisfactory"
 sympathisch,adj,nice,"pleasant, satisfactory"
 lieb,adj,nice,"pleasant, satisfactory"
@@ -2580,8 +2981,15 @@ Nacht,noun,night,night spent away from home
 Nacht,noun,night,quality of sleep obtained during a night
 Nacht,noun,night,darkness
 Dunkelheit,noun,night,darkness
+nördlich,adj,north,of or pertaining to the north
+nordwärts,adj,north,toward the north
+nordwärtig,adj,north,toward the north
+nord-,adj,north,"meteorology: of wind, from the north"
+nord-,adj,north,part of a corridor used by northbound traffic
 nordwärts,adv,north,towards the north
 nach Norden,adv,north,towards the north
+Norden,noun,north,compass point
+Nord,noun,north,compass point
 Nase,noun,nose,protuberance on the face
 Nase,noun,nose,protuberance on the face
 Schnauze,noun,nose,"snout, nose of an animal"
@@ -2663,12 +3071,32 @@ angeschlossen,adj,online,connected to a network
 online,adj,online,available over the Internet
 online,adj,online,connected to the Internet
 eingeschaltet,adj,online,of a system that is active
+einzig,adj,only,alone in a category
+geschwisterlos,adj,only,without sibling
+Einzelkind,adj,only,without sibling
+einzigartig,adj,only,singularly superior; the best
 nur,adv,only,without others or anything further; exclusively
 lediglich,adv,only,without others or anything further; exclusively
 allein,adv,only,without others or anything further; exclusively
 nur,adv,only,no more than
 lediglich,adv,only,no more than
 erst,adv,only,as recently as
+auf,adj,open,not closed
+offen,adj,open,not closed
+offe,adj,open,not closed
+offä,adj,open,not closed
+offen,adj,open,prepared to conduct business
+geöffnet,adj,open,prepared to conduct business
+offä,adj,open,prepared to conduct business
+offen,adj,open,receptive
+offen,adj,open,computing: in current use
+geöffnet,adj,open,computing: in current use
+aufrichtig,adj,open,candid
+treuherzig,adj,open,candid
+unbedarft,adj,open,candid
+öffentlich,adj,open,public
+offen,adj,open,math: which is part of a predefined collection of subsets
+offen,adj,open,music: without any fingers pressing the string against the fingerboard
 öffnen,verb,open,to make something accessible
 aufmachen,verb,open,to make something accessible
 öffnen,verb,open,to make accessible to customers
@@ -2681,8 +3109,36 @@ Meinung,noun,opinion,thought a person has formed about a topic
 Ansicht,noun,opinion,thought a person has formed about a topic
 Anschauung,noun,opinion,thought a person has formed about a topic
 Schlussanträge,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+gegenüberliegend,adj,opposite,located directly across from
+andere,adj,opposite,located directly across from
+entgegengesetzt,adj,opposite,facing the other way
+andere,adj,opposite,of complementary or mutually exclusive things
 gegenüber,adv,opposite,in an opposite position
+Gegenteil,noun,opposite,contrary thing
+Gegensatz,noun,opposite,contrary thing
+Gegenteil,noun,opposite,antonym
 orange,adj,orange,having the colour of the fruit of an orange tree
+Apfelsinenbaum,noun,orange,tree
+Orangenbaum,noun,orange,tree
+Apfelsine,noun,orange,fruit
+Orange,noun,orange,fruit
+Orange,noun,orange,colour
+Ordnung,noun,order,"arrangement, disposition"
+Reihenfolge,noun,order,"arrangement, disposition"
+Ordnung,noun,order,good arrangement
+Order,noun,order,command
+Befehl,noun,order,command
+Geheiß,noun,order,command
+Bestellung,noun,order,request for some product or service
+Order,noun,order,request for some product or service
+Orden,noun,order,religious group
+Orden,noun,order,society of knights
+Orden,noun,order,awarded decoration
+Ordnung,noun,order,biology: taxonomical classification
+Ordo,noun,order,biology: taxonomical classification
+Ordnungszahl,noun,order,chemistry: a number of a chemical reaction
+Ordnung,noun,order,highest exponent in a polynomial
+Grad,noun,order,highest exponent in a polynomial
 ordnen,verb,order,to set in (any) order
 anordnen,verb,order,to set in (any) order
 ordnen,verb,order,to set in (a good) order
@@ -2711,6 +3167,14 @@ frei,noun,page,one side of a leaf of a book
 Blatt,noun,page,one of the pieces of paper bound together within a book or document
 Farbe,noun,paint,substance
 Lack,noun,paint,substance
+bemalen,verb,paint,to apply paint to
+anmalen,verb,paint,to apply paint to
+streichen,verb,paint,to apply paint to
+malen,verb,paint,to apply paint to
+streichen,verb,paint,to apply in the manner of paint
+pinseln,verb,paint,medicine: to apply with a brush in order to treat some body part
+malen,verb,paint,to create an image
+malen,verb,paint,to practise the art of painting pictures
 Gemälde,noun,painting,an illustration or artwork using paint
 Malerei,noun,painting,the action of applying paint
 Malerei,noun,painting,artistic application of paint
@@ -2744,6 +3208,7 @@ Vater,noun,parent,biology: organism from which a plant or animal is biologically
 Vatertier,noun,parent,biology: organism from which a plant or animal is biologically descended
 Mutter,noun,parent,biology: organism from which a plant or animal is biologically descended
 Muttertier,noun,parent,biology: organism from which a plant or animal is biologically descended
+Park,noun,park,ground for recreation
 parken,verb,park,bring (a vehicle) to a halt
 parkieren,verb,park,bring (a vehicle) to a halt
 Teil,noun,part,fraction of a whole
@@ -2776,6 +3241,7 @@ Party,noun,party,online gaming: player characters organized into a single group
 Party,noun,party,video games: group of characters controlled by the player
 Reisepass,noun,passport,official document for foreign travel
 Pass,noun,passport,official document for foreign travel
+vergangen,adj,past,having already happened; in the past
 Vergangenheit,noun,past,period of time that has already happened
 Vergangenheit,noun,past,(grammar) past tense
 Präteritum,noun,past,(grammar) past tense
@@ -2838,6 +3304,7 @@ Körper,noun,person,the physical body seen as distinct from the mind
 Person,noun,person,grammar: linguistic category
 persönlich,adj,personal,of or pertaining to a particular person
 Personal-,adj,personal,grammar: denoting person
+Phon,noun,phone,speech segment
 anrufen,verb,phone,to call (someone) on the telephone
 telefonieren,verb,phone,to call (someone) on the telephone
 Photographie,noun,photograph,picture
@@ -2896,6 +3363,8 @@ Kiberer,noun,pig,derogatory slang for police officer
 Kieberer,noun,pig,derogatory slang for police officer
 Schugger,noun,pig,derogatory slang for police officer
 Bullenschwein,noun,pig,derogatory slang for police officer
+pink,adj,pink,colored/coloured between red and white
+rosa,adj,pink,colored/coloured between red and white
 Rosa,noun,pink,pale red colour
 Nelke,noun,pink,flower
 Platz,noun,place,"location, position"
@@ -2907,6 +3376,10 @@ Platz,noun,place,"area one occupies, particularly for sitting"
 Sitzplatz,noun,place,"area one occupies, particularly for sitting"
 Sitz,noun,place,"area one occupies, particularly for sitting"
 Bude,noun,place,house or home
+Plan,noun,plan,technical drawing
+Plan,noun,plan,set of intended actions
+Plan,noun,plan,2-dimensional drawing from above
+Tarif,noun,plan,subscription plan
 anlegen,verb,plan,to design
 planen,verb,plan,to design
 planen,verb,plan,to create a plan for
@@ -2931,6 +3404,20 @@ Spielzug,noun,play,action carried out when it is one's turn to play
 Bühnenstück,noun,play,theatrical performance
 Bühnenwerk,noun,play,theatrical performance
 Theaterstück,noun,play,theatrical performance
+spielen,verb,play,act in a manner such that one has fun
+schpile,verb,play,act in a manner such that one has fun
+spielen,verb,play,produce music using a musical instrument (transitive sense)
+spielen,verb,play,produce music using a musical instrument (intransitive sense)
+spielen,verb,play,act in a performance
+spielen,verb,play,participate in (a sport or game)
+schpile,verb,play,participate in (a sport or game)
+abspielen,verb,play,use a device to watch or listen to the indicated recording
+spielen,verb,play,use a device to watch or listen to the indicated recording
+täuschen,verb,play,manipulate or deceive someone
+hinters Licht führen,verb,play,manipulate or deceive someone
+verarschen,verb,play,manipulate or deceive someone
+vorspielen,verb,play,"feign, pretend"
+vormachen,verb,play,"feign, pretend"
 Spieler,noun,player,one who plays any game or sport
 Spielerin,noun,player,one who plays any game or sport
 Schauspieler,noun,player,dramatic actor
@@ -2982,6 +3469,16 @@ populär,adj,popular,liked by many people
 positiv,adj,positive,legal: formally laid down
 möglich,adj,possible,able but not certain to happen
 möglich,adj,possible,"being considered, e.g. for a position"
+Pfosten,noun,post,long dowel or plank protruding from the ground
+Pfosten,noun,post,goalpost (sports)
+Post,noun,post,location on a basketball court
+Stelle,noun,post,assigned station
+Posten,noun,post,assigned station
+Stelle,noun,post,appointed position in an organization
+Posten,noun,post,appointed position in an organization
+Posten,noun,post,"station, outpost"
+Post,noun,post,method of delivering mail
+Beitrag,noun,post,individual message in a forum
 postieren,verb,post,assign to a station
 anbringen,verb,post,hang a notice in a conspicuous manner
 anprangern,verb,post,hold up to public blame or reproach
@@ -3000,6 +3497,14 @@ Tierheim,noun,pound,place for the detention of stray animals
 Verwahrstelle,noun,pound,place for detention of automobiles
 Pfund,noun,pound,unit of mass (16 ounces avoirdupois)
 Pfund,noun,pound,unit of currency
+Übung,noun,practice,repetition of an activity to improve skill
+Üben,noun,practice,repetition of an activity to improve skill
+Training,noun,practice,repetition of an activity to improve skill
+Ausübung,noun,practice,ongoing pursuit of a craft or profession
+Ausüben,noun,practice,ongoing pursuit of a craft or profession
+Praktizieren,noun,practice,ongoing pursuit of a craft or profession
+Praxis,noun,practice,ongoing pursuit of a craft or profession
+Praxis,noun,practice,"actual operation or experiment, in contrast to theory"
 vorziehen,verb,prefer,to favor
 bevorzugen,verb,prefer,to favor
 präferieren,verb,prefer,to favor
@@ -3008,9 +3513,19 @@ präparieren,verb,prepare,to make ready for a specific future purpose
 zubereiten,verb,prepare,to make ready for eating or drinking
 vorbereiten,verb,prepare,to make ready for eating or drinking
 sich vorbereiten,verb,prepare,to make oneself ready
+gegenwärtig,adj,present,pertaining to the current time
+jetzig,adj,present,pertaining to the current time
+anwesend,adj,present,in the immediate vicinity
 Gegenwart,noun,present,current time
 Jetzt,noun,present,current time
 Jetztzeit,noun,present,current time
+anmutig,adj,pretty,"especially of women and children: pleasant, attractive"
+attraktiv,adj,pretty,"especially of women and children: pleasant, attractive"
+charmant,adj,pretty,"especially of women and children: pleasant, attractive"
+hübsch,adj,pretty,"especially of women and children: pleasant, attractive"
+nett,adj,pretty,"especially of women and children: pleasant, attractive"
+niedlich,adj,pretty,"especially of women and children: pleasant, attractive"
+schön,adj,pretty,"especially of women and children: pleasant, attractive"
 ziemlich,adv,pretty,somewhat
 leidlich,adv,pretty,somewhat
 einigermaßen,adv,pretty,somewhat
@@ -3035,6 +3550,8 @@ Sendung,noun,program,performance of a show or other broadcast on radio or televi
 Programm,noun,program,software application
 Projekt,noun,project,planned endeavor
 Vorhaben,noun,project,planned endeavor
+purpurn,adj,purple,colour
+purpurrot,adj,purple,colour
 lila,noun,purple,colour
 purpur,noun,purple,colour
 violett,noun,purple,colour
@@ -3100,6 +3617,9 @@ Rundfunksender,noun,radio,transmitter
 Radiosender,noun,radio,transmitter
 Funksender,noun,radio,transmitter
 Funkgerät,noun,radio,transmitter
+Regen,noun,rain,condensed water from a cloud
+Regen,noun,rain,any matter falling
+Regen,noun,rain,an instance of particles falling
 regnen,verb,rain,of rain: to fall from the sky
 regnen,verb,rain,to fall in large quantities
 lesen,verb,read,to look at and interpret letters or other information
@@ -3153,6 +3673,10 @@ Grund,noun,reason,"excuse, explanation: thought or consideration offered in supp
 Verstand,noun,reason,(the capacity of the human mind for) rational thinking
 Vernunft,noun,reason,(the capacity of the human mind for) rational thinking
 Intellekt,noun,reason,(the capacity of the human mind for) rational thinking
+rot,adj,red,having red as its colour
+rot,adj,red,of hair: orange-brown
+rothaarig,adj,red,of hair: orange-brown
+rot,adj,red,"left-wing, socialist or communist"
 Rot,noun,red,colour
 Rote,noun,red,"socialist, communist"
 Roter,noun,red,"socialist, communist"
@@ -3185,12 +3709,27 @@ Rückkehr,noun,return,act of returning
 Rückgabe,noun,return,act of returning an item
 Bericht,noun,return,"formal report, set of tabulated statistics prepared for general information"
 Wahlbericht,noun,return,"formal report, set of tabulated statistics prepared for general information"
+zurückkehren,verb,return,to come or go back
+zurückkommen,verb,return,to come or go back
+zurückgeben,verb,return,to give something back to its original holder or owner
 Reis,noun,rice,plants
 Reis,noun,rice,seeds used as food
 reich,adj,rich,having wealth
 reiten,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 fahren,verb,ride,"to transport oneself by sitting on and directing a horse, bicycle etc."
 fahren,verb,ride,to be transported in a vehicle as a passenger
+gerade,adj,right,"straight, not bent"
+rechtwinklig,adj,right,"of an angle, 90 degrees"
+richtig,adj,right,"complying with justice, correct — see also be right"
+recht,adj,right,"of direction, opposite of left"
+rechts,adj,right,politics: conservative
+rechts,adv,right,on the right side
+rechts,adv,right,towards the right side
+nach rechts,adv,right,towards the right side
+ganz,adv,right,exactly
+ganz,adv,right,"very, extremely"
+richtig,adv,right,in a correct manner
+recht,adv,right,to a great extent
 Recht,noun,right,legal or moral entitlement
 Rechte,noun,right,"right, not left, side"
 Rechte,noun,right,right hand
@@ -3261,6 +3800,10 @@ Salz,noun,salt,sodium chloride
 Kochsalz,noun,salt,sodium chloride
 Salz,noun,salt,compound of an acid and a base
 Seebär,noun,salt,sailor
+selbe,adj,same,not different as regards self; identical
+derselbe,adj,same,not different as regards self; identical
+gleich,adj,same,"similar, alike"
+derselbe,adj,same,"similar, alike"
 belegtes Brot,noun,sandwich,dish — see also open sandwich
 Sandwich,noun,sandwich,dish — see also open sandwich
 Stulle,noun,sandwich,dish — see also open sandwich
@@ -3294,6 +3837,8 @@ Wissenschaftler,noun,scientist,one whose activities make use of the scientific m
 Wissenschaftlerin,noun,scientist,one whose activities make use of the scientific method
 Wissenschafter,noun,scientist,one whose activities make use of the scientific method
 Wissenschafterin,noun,scientist,one whose activities make use of the scientific method
+zweite,adj,second,second (numeral) — see also 2nd
+zweite,adj,second,that comes after the first
 Sekunde,noun,second,one-sixtieth of a minute; SI unit of time
 Sekunde,noun,second,unit of angular measure
 Sekunde,noun,second,"short, indeterminate amount of time"
@@ -3375,6 +3920,9 @@ Hemd,noun,shirt,article of clothing
 Schuh,noun,shoe,protective covering for the foot
 Lackschuh,noun,shoe,protective covering for the foot
 Schuh,noun,shoe,something resembling a shoe (e.g. brake shoe)
+Laden,noun,shop,establishment that sells goods
+Geschäft,noun,shop,establishment that sells goods
+Werkstatt,noun,shop,place for crafting or manufacturing
 einkaufen,verb,shop,to visit shops
 shoppen,verb,shop,to visit shops
 Einkaufen,noun,shopping,activity of buying
@@ -3397,6 +3945,9 @@ Demonstration,noun,show,demonstration
 Schau,noun,show,demonstration
 Sendung,noun,show,broadcast program(me)
 Programm,noun,show,broadcast program(me)
+zeigen,verb,show,to display
+darstellen,verb,show,to display
+zeigen,verb,show,to indicate (a fact) to be true
 Schauer,noun,shower,brief fall of rain
 Fälle,noun,shower,brief fall of rain
 Dusche,noun,shower,device for bathing
@@ -3476,6 +4027,13 @@ Verräter,noun,snake,treacherous person
 Betrüger,noun,snake,treacherous person
 Windei,noun,snake,treacherous person
 Abflussspirale,noun,snake,plumbing tool
+Schnau,noun,snow,square-rigged sailing vessel similar to a brig
+Schnee,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+Schneefall,noun,snow,instance of the falling of snow — see also snowfall
+schneeweiß,noun,snow,white color of snow
+Schnee,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
+Grieß,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
+Schnee,noun,snow,cocaine — see also cocaine
 schneien,verb,snow,have snow fall from the atmosphere
 so,adv,so,very
 sehr,adv,so,very
@@ -3491,6 +4049,14 @@ bald,adv,soon,within a short time
 beklagenswert,adj,sorry,"poor, regrettable"
 armselig,adj,sorry,"poor, regrettable"
 traurig,adj,sorry,"poor, regrettable"
+Sund,noun,sound,long narrow inlet
+Belt,noun,sound,long narrow inlet
+Sonde,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+Klang,noun,sound,sensation perceived by the ear
+Schall,noun,sound,sensation perceived by the ear
+Laut,noun,sound,sensation perceived by the ear
+Grüüsch,noun,sound,sensation perceived by the ear
+Schall,noun,sound,vibration capable of causing this
 sondieren,verb,sound,to probe
 klingen,verb,sound,to produce a sound
 erklingen,verb,sound,to produce a sound
@@ -3499,9 +4065,12 @@ klingen,verb,sound,to convey an impression by one's sound
 aussprechen,verb,sound,to pronounce
 Suppe,noun,soup,dish
 Suppe,noun,soup,unfortunate situation
+südlich,adj,south,of or pertaining to the south
+süd-,adj,south,of or pertaining to the south
 süd-,adv,south,of wind: from the south
 den Bach runter,adv,south,in an adverse direction or trend
 auf dem absteigen Ast,adv,south,in an adverse direction or trend
+Süden,noun,south,compass point
 Raum,noun,space,physical extent in two or three dimensions
 Platz,noun,space,physical extent in two or three dimensions
 Weltraum,noun,space,area beyond atmosphere of planets
@@ -3638,6 +4207,16 @@ Stopper,noun,stop,device to block a moving object
 Punkt,noun,stop,punctuation symbol
 Register,noun,stop,music: knob or pin to regulate the flow of air in an organ
 Stoppball,noun,stop,tennis: very short shot
+anhalten,verb,stop,to cease moving
+stehen bleiben,verb,stop,to cease moving
+stoppen,verb,stop,to cease moving
+aufhören,verb,stop,"not to continue — see also cease, desist"
+anhalten,verb,stop,to cause to cease moving
+stoppen,verb,stop,to cause to cease moving
+aufhalten,verb,stop,to cause to cease moving
+stoppen,verb,stop,to cause to come to an end
+beenden,verb,stop,to cause to come to an end
+stopfen,verb,stop,to close an opening
 Lager,noun,store,place where items may be kept
 Speicher,noun,store,place where items may be kept
 Vorrat,noun,store,supply held in storage
@@ -3671,6 +4250,11 @@ Studierender,noun,student,person enrolled at a university — see also universit
 Studierende,noun,student,person enrolled at a university — see also university student
 Hochschüler,noun,student,person enrolled at a university — see also university student
 Hochschülerin,noun,student,person enrolled at a university — see also university student
+Studium,noun,study,mental effort to acquire knowledge
+Arbeitszimmer,noun,study,room in a house intended for reading and writing
+Studierzimmer,noun,study,room in a house intended for reading and writing
+Studie,noun,study,artwork made in order to practise or demonstrate a subject or technique
+Studie,noun,study,academic publication
 lernen,verb,study,to revise/review materials
 studieren,verb,study,to take a course
 studieren,verb,study,to acquire knowledge
@@ -3769,6 +4353,9 @@ Mannschaft,noun,team,group of people
 Team,noun,team,group of people
 Jugendlicher,noun,teenager,person aged between thirteen and nineteen
 Jugendliche,noun,teenager,person aged between thirteen and nineteen
+Telefon,noun,telephone,a device used for two-way talking with other people
+Telephon,noun,telephone,a device used for two-way talking with other people
+Fernsprecher,noun,telephone,a device used for two-way talking with other people
 telefonieren,verb,telephone,to call someone
 anrufen,verb,telephone,to call someone
 Fernsehen,noun,television,medium
@@ -3792,6 +4379,14 @@ schrecklich,adj,terrible,dreadful; causing alarm or fear
 furchtbar,adj,terrible,unpleasant
 furchtbar,adj,terrible,very bad
 miserabel,adj,terrible,very bad
+Test,noun,test,"challenge, trial"
+Versuch,noun,test,"challenge, trial"
+Examen,noun,test,academics: examination
+Prüfung,noun,test,academics: examination
+Test,noun,test,product examination
+Prüfung,noun,test,product examination
+Erprobung,noun,test,product examination
+Gehäuse,noun,test,external calciferous shell
 fordern,verb,test,to challenge
 abverlangen,verb,test,to challenge
 provozieren,verb,test,to challenge
@@ -3878,6 +4473,13 @@ Titel,noun,title,certificate of ownership
 Eigentumsnachweis,noun,title,certificate of ownership
 Titel,noun,title,"name of a book, etc"
 Überschrift,noun,title,subject of a writing
+heute,adv,today,on the current day
+heit,adv,today,on the current day
+hit,adv,today,on the current day
+hüt,adv,today,on the current day
+haid,adv,today,on the current day
+haint,adv,today,on the current day
+heutzutage,adv,today,"nowadays — see also nowadays, these days"
 Heute,noun,today,today (noun)
 zusammen,adv,together,"at the same time, in the same place"
 zusammen,adv,together,into one place
@@ -3903,7 +4505,11 @@ Tomate,noun,tomato,tomato plant
 Tomatenpflanze,noun,tomato,tomato plant
 Tomate,noun,tomato,fruit
 Paradeiser,noun,tomato,fruit
+morgen,adv,tomorrow,on the day after the present day
+moorn,adv,tomorrow,on the day after the present day
 Morgen,noun,tomorrow,the day after the present day
+heute Abend,adv,tonight,during today's evening
+heute Nacht,adv,tonight,during today's nighttime
 heute Abend,noun,tonight,nighttime today
 heute Nacht,noun,tonight,nighttime today
 auch,adv,too,likewise
@@ -3946,6 +4552,11 @@ Bewegung,noun,travel,motion of a piece of machinery
 Weg,noun,travel,motion of a piece of machinery
 Lauf,noun,travel,motion of a piece of machinery
 Hub,noun,travel,length of a mechanical stroke
+reisen,verb,travel,be on a journey
+sich fortbewegen,verb,travel,pass from here to there; transmit
+sich fortpflanzen,verb,travel,pass from here to there; transmit
+sich ausbreiten,verb,travel,pass from here to there; transmit
+bereisen,verb,travel,travel throughout
 Baum,noun,tree,large woody plant
 böim,noun,tree,large woody plant
 baum,noun,tree,large woody plant
@@ -4026,6 +4637,17 @@ dran sein,noun,turn,chance to use (something) shared in sequence with others
 Zug,noun,turn,one's chance to make a move in a game
 Doppelschlag,noun,turn,figure in music
 Windung,noun,turn,single loop of a coil
+sich drehen,verb,turn,move around an axis through itself
+sich wenden,verb,turn,move around an axis through itself
+drehen,verb,turn,"change the direction or orientation of, especially by rotation"
+wenden,verb,turn,"change the direction or orientation of, especially by rotation"
+abbiegen,verb,turn,change one's direction of travel
+drechseln,verb,turn,shape on a lathe or similar tool
+werden,verb,turn,become
+sich verfärben,verb,turn,"of leaves, change color in autumn"
+sich verwandeln,verb,turn,transitive: change fundamentally
+verwandeln,verb,turn,transitive: change fundamentally
+sich wenden,verb,turn,rebel
 zweimal,adv,twice,two times
 doppelt,adv,twice,two times
 Art,noun,type,grouping based on shared characteristics
@@ -4089,6 +4711,7 @@ Video,noun,video,film clip
 Video,noun,video,motion picture stored on VHS
 Videokassette,noun,video,VHS
 Besuch,noun,visit,single act of visiting
+besuchen,verb,visit,to go and meet (someone)
 Besucher,noun,visitor,guest
 Besucherin,noun,visitor,guest
 Gast,noun,visitor,guest
@@ -4108,6 +4731,14 @@ wecken,verb,wake,to make somebody stop sleeping
 Spaziergang,noun,walk,trip made by walking
 Weg,noun,walk,distance walked
 Kantenzug,noun,walk,graph theory: a sequence of alternating vertices and edges
+gehen,verb,walk,to move on the feet
+laufe,verb,walk,to move on the feet
+freigelassen werden,verb,walk,colloquial: to avoid a criminal court case
+freikommen,verb,walk,colloquial: to avoid a criminal court case
+wegkommen,verb,walk,colloquial: to be stolen
+laufen,verb,walk,to travel a distance by walking
+ausführen,verb,walk,to take for a walk
+begleiten,verb,walk,to take for a walk
 Wall,noun,wall,defensive rampart
 Mauer,noun,wall,structure built for defense surrounding an area
 Wall,noun,wall,structure built for defense surrounding an area
@@ -4132,6 +4763,14 @@ Armbanduhr,noun,watch,portable or wearable timepiece
 Wache,noun,watch,particular time period
 Wache,noun,watch,person or group of people who guard
 Wache,noun,watch,group of sailors and officers
+ansehen,verb,watch,to look at for a period of time
+sehen,verb,watch,to look at for a period of time
+zusehen,verb,watch,to look at for a period of time
+beobachten,verb,watch,to observe
+aufpassen,verb,watch,to attend or guard
+überwachen,verb,watch,to attend or guard
+aufpassen,verb,watch,to be wary
+wachen,verb,watch,to be vigilant
 Wasser,noun,water,inorganic compound H₂O
 Wasser,noun,water,inorganic compound H₂O
 Wasser,noun,water,inorganic compound H₂O
@@ -4162,8 +4801,22 @@ Woche,noun,week,period of seven days
 Wochenende,noun,weekend,break in the working week
 Weekend,noun,weekend,break in the working week
 willkommen,adj,welcome,whose arrival is a cause of joy
+begrüßen,verb,welcome,affirm or greet the arrival of someone
+willkommen heißen,verb,welcome,affirm or greet the arrival of someone
+bewillkommnen,verb,welcome,affirm or greet the arrival of someone
+begrüßen,verb,welcome,to accept willingly
+gutheißen,verb,welcome,to accept willingly
 gesund,adj,well,in good health
 gut,adj,well,in good health
+gut,adv,well,accurately; competently
+ganz,adv,well,completely; fully
+westlich,adj,west,towards the west
+westwärts,adj,west,towards the west
+westlich,adj,west,western
+westlich,adj,west,occidental
+abendländisch,adj,west,occidental
+West,noun,west,compass point
+Westen,noun,west,compass point
 wann,adv,when,"at what time, as a direct question"
 wann,adv,when,"at what time, as an indirect question"
 als,adv,when,"at which, on which, during which"
@@ -4177,6 +4830,11 @@ wohin,adv,where,to which place or situation
 wo,adv,where,in what situation
 wo,adv,where,the place in which
 wo,adv,where,legal: in the situation in which
+weiß,adj,white,bright and colourless
+weiss,adj,white,bright and colourless
+wiiss,adj,white,bright and colourless
+weiß,adj,white,of or relating to Caucasians
+weiss,adj,white,of or relating to Caucasians
 Weiß,noun,white,color
 Weiss,noun,white,color
 Weißer,noun,white,person of European descent
@@ -4239,6 +4897,9 @@ Arbeit,noun,work,effort expended on a particular task
 Werk,noun,work,"literary, artistic, or intellectual production"
 Arbeit,noun,work,physics: measure of energy expended in moving an object
 Arbeit,noun,work,thermodynamics: energy in transit between one form or repository and another
+arbeiten,verb,work,to do a specific task
+funktionieren,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+wirken,verb,work,to function correctly; to act as intended; to achieve the goal designed for
 Arbeiter,noun,worker,person who performs labor
 Arbeiterin,noun,worker,person who performs labor
 Angestellter,noun,worker,person who performs labor
@@ -4317,7 +4978,10 @@ Jahr,noun,year,time it takes for any planetary body to make one revolution aroun
 Jahr,noun,year,a period between set dates that mark a year
 Jahr,noun,year,a level or grade at school or college
 Studienjahr,noun,year,a level or grade at school or college
+gelb,adj,yellow,having yellow as its color
+feige,adj,yellow,lacking courage
 Gelb,noun,yellow,color
+gestern,adv,yesterday,on the day before today
 gestriger Tag,noun,yesterday,day before today
 gestern,noun,yesterday,day before today
 jung,adj,young,in the early part of life or growth

@@ -28,6 +28,7 @@ always,adv,always,At all times; throughout all time; since the beginning.
 amazing,adj,amazing,Causing wonder and amazement; very surprising.
 angry,adj,angry,Displaying or feeling anger.
 animal,noun,animal,"Any eukaryote of the clade Animalia; a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants)."
+answer,noun,answer,A response or reply; something said or done in reaction to a statement or question.
 answer,verb,answer,To make a reply or response to.
 apartment,noun,apartment,"A complete domicile occupying only part of a building, especially one for rent; a flat."
 apple,noun,apple,"A common, firm, round fruit produced by a tree of the genus Malus."
@@ -45,6 +46,8 @@ away,adv,away,"From a place, hence."
 awesome,adj,awesome,Causing awe or terror; inspiring wonder or excitement.
 baby,noun,baby,"A very young human, particularly from birth to a couple of years old or until walking is fully mastered."
 back,adv,back,To or in a previous condition or place.
+back,noun,back,"A large shallow vat; a cistern, tub, or trough, used by brewers, distillers, dyers, picklers, gluemakers, and others, for mixing or cooling wort, holding water, hot glue, etc."
+back,noun,back,"The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly."
 bad,adj,bad,"Bold, daring, and tough."
 bag,noun,bag,"A soft container made out of cloth, paper, thin plastic, etc. and open at the top, used to hold food, commodities, and other goods."
 ball,noun,ball,A formal dance.
@@ -81,9 +84,11 @@ bill,noun,bill,"Any of various bladed or pointed hand weapons, originally design
 bill,noun,bill,"The beak of a bird, especially when small or flattish; sometimes also used with reference to a platypus, turtle, or other animal."
 bird,noun,bird,"An animal of the clade (traditionally class) Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, having a beaked mouth, and laying eggs."
 birthday,noun,birthday,The anniversary of the day on which someone is born.
+black,adj,black,Absorbing all light and reflecting none; dark and hueless.
 black,noun,black,"The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed."
 blog,noun,blog,"A website that allows users to reflect, share opinions, and discuss various topics in the form of an online journal, sometimes letting readers comment on their posts. Most blogs are written in a slightly informal tone (personal journals, news, businesses, etc.)"
 blond,adj,blond,Of a bleached or pale golden (light yellowish) colour.
+blue,adj,blue,Of a blue hue.
 blue,noun,blue,The colour of the clear sky or the deep sea; the colour midway between green and violet in the visible spectrum and one of the primary additive colours.
 boat,noun,boat,"A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind."
 body,noun,body,Physical frame.
@@ -102,22 +107,28 @@ boy,noun,boy,A human male child.
 boyfriend,noun,boyfriend,A male partner in an unmarried romantic relationship.
 bread,noun,bread,A foodstuff made by baking dough made from cereals.
 break,noun,break,An instance of breaking something into two or more pieces.
+break,verb,break,"To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly."
 breakfast,noun,breakfast,"The first meal of the day, usually eaten in the morning."
 bring,verb,bring,To transport toward somebody/somewhere.
 brother,noun,brother,Son of the same parents as another person.
+brown,adj,brown,Having a brown colour.
 brown,noun,brown,A colour like that of chocolate or coffee.
 build,verb,build,To form (something) by combining materials or parts.
 building,noun,building,The act or process by which something is built; construction.
 bus,noun,bus,A motor vehicle for transporting large numbers of people along roads.
 business,noun,business,A specific commercial enterprise or establishment.
+busy,adj,busy,Crowded with business or activities; having a great deal going on.
 butter,noun,butter,"A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk)."
 buy,verb,buy,To obtain (something) in exchange for money or goods.
 cake,noun,cake,"A rich, sweet dessert food, typically made of flour, sugar, and eggs and baked in an oven, and often covered in icing."
 call,noun,call,A cry or shout.
+call,verb,call,To reach out with one's voice.
 camera,noun,camera,Example: He used his camera to click photos of the bears in the zoo.
 can,verb,can,To know how to.
 can,verb,can,To seal in a can.
 cannot,verb,cannot,Can not (be unable to).
+capital,noun,capital,"Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
+capital,noun,capital,The uppermost part of a column.
 car,noun,car,"A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation."
 card,noun,card,A playing card.
 card,noun,card,Material with embedded short wire bristles.
@@ -129,6 +140,7 @@ cent,noun,cent,A subunit of currency equal to one-hundredth of the main unit of 
 center,noun,center,The point in the interior of a circle that is equidistant from all points on the circumference.
 chair,noun,chair,"An item of furniture used to sit on or in, comprising a seat, legs or wheels, back, and sometimes arm rests, for use by one person."
 change,noun,change,The process of becoming different.
+change,verb,change,To become something different.
 chart,noun,chart,A map.
 cheap,adj,cheap,Low or reduced in price.
 check,verb,check,To inspect; to examine.
@@ -140,6 +152,7 @@ choose,verb,choose,To pick; to make the choice of; to select.
 city,noun,city,"A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place."
 class,noun,class,"A group, collection, category or set sharing characteristics or attributes."
 classroom,noun,classroom,"A room, often in a school, where classes take place."
+clean,adj,clean,"Free of dirt, filth, or impurities (extraneous matter); not dirty, filthy, or soiled."
 clean,verb,clean,To remove dirt from a place or object.
 climb,verb,climb,To ascend; rise; to go up.
 clock,noun,clock,"A chronometer, an instrument that measures time, particularly the time of day."
@@ -149,6 +162,7 @@ clothes,noun,clothes,Items of clothing; apparel.
 club,noun,club,"An association of members joining together for some common purpose, especially sports or recreation."
 coat,noun,coat,An outer garment covering the upper torso and arms.
 coffee,noun,coffee,A beverage made by infusing the beans of the coffee plant in hot water.
+cold,adj,cold,Having a low temperature.
 cold,noun,cold,A condition of low temperature.
 college,noun,college,An academic institution.
 color,noun,color,The spectral composition of visible light.
@@ -156,6 +170,7 @@ come,verb,come,To move nearer to the point of perspective.
 common,adj,common,Mutual; shared by more than one.
 company,noun,company,A team; a group of people who work together professionally.
 compare,verb,compare,"To assess the similarities and differences between two or more things [""to compare X with Y""]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y."
+complete,adj,complete,With all parts included; with nothing missing; full.
 complete,verb,complete,To finish; to make done; to reach the end.
 computer,noun,computer,A person employed to perform computations; one who computes.
 concert,noun,concert,An agreement in a design or plan; a union formed by mutual communication of opinions and views; an accordance in a scheme; harmony; a simultaneous action.
@@ -163,7 +178,9 @@ conversation,noun,conversation,"Expression and exchange of individual ideas thro
 cook,verb,cook,"To prepare food for eating by heating it, often combining with other ingredients."
 cooking,noun,cooking,The process of preparing food by using heat.
 cool,adj,cool,Of a mildly low temperature.
+correct,adj,correct,Free from error; true; accurate.
 correct,verb,correct,To make something that was wrong become right; to remove error from.
+cost,noun,cost,"Amount of money, time, etc. that is required or used."
 cost,verb,cost,To incur a charge of; to require payment of a (specified) price.
 country,noun,country,"The territory of a nation; a sovereign state or a region once independent and still distinct in institutions, language, etc."
 course,noun,course,A sequence of events.
@@ -176,6 +193,7 @@ cup,noun,cup,"A concave vessel for drinking, usually made of opaque material (as
 customer,noun,customer,"A habitual patron, regular purchaser, returning client; a person or company who has a custom of buying from a particular business."
 cut,verb,cut,"To incise, to cut into the surface of something."
 dad,noun,dad,"A father, a male parent."
+dance,noun,dance,"A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction."
 dance,verb,dance,"To move with rhythmic steps or movements, especially in time to music."
 dancer,noun,dancer,"A person who dances, usually as a hobby, an occupation, or a profession."
 dancing,noun,dancing,The activity of taking part in a dance.
@@ -190,6 +208,7 @@ decide,verb,decide,"To resolve (a contest, problem, dispute, etc.); to choose, d
 delicious,adj,delicious,Pleasing to the sense of taste; tasty.
 describe,verb,describe,To represent in words.
 description,noun,description,A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.
+design,noun,design,"A specification of an object or process, referring to requirements to be satisfied and thus conditions to be met for them to solve a problem."
 design,verb,design,"To plan and carry out (a picture, work of art, construction etc.)."
 desk,noun,desk,"A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath."
 detail,noun,detail,A part small enough to escape casual notice.
@@ -213,21 +232,28 @@ door,noun,door,"A portal of entry into a building, room, or vehicle, typically c
 down,adv,down,From a higher position to a lower one; downwards.
 downstairs,adv,downstairs,Down the stairs.
 draw,verb,draw,Senses relating to exerting force or pulling.
+dress,noun,dress,An item of clothing (usually worn by a woman or young girl) which both covers the upper part of the body and includes a skirt below the waist.
 dress,verb,dress,"To put clothes (or, formerly, armour) on (oneself or someone, a doll, a mannequin, etc.); to clothe."
+drink,noun,drink,A beverage.
 drink,verb,drink,To consume (a liquid) through the mouth.
 drive,verb,drive,To operate a vehicle:
 driver,noun,driver,One who drives something.
 each,adv,each,For one; apiece; per.
 ear,noun,ear,The fruiting body of a grain plant.
 ear,noun,ear,"The organ of hearing, consisting of the pinna or auricle, auditory canal, eardrum, malleus, incus, stapes and cochlea."
+early,adj,early,At a time in advance of the usual or expected event.
 early,adv,early,At a time before expected; sooner than usual.
+east,adj,east,Situated or lying in or towards the east; eastward.
 east,adv,east,towards the east; eastwards
+east,noun,east,"The direction of the earth's rotation, specifically 90°."
 easy,adj,easy,Comfortable; at ease.
 eat,verb,eat,To ingest; to be ingested.
 egg,noun,egg,"An approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development."
 elephant,noun,elephant,"A mammal of the family Elephantidae in the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw."
 else,adv,else,"Otherwise, if not."
+email,noun,email,A system for sending messages and datas by means of computers connected together in a network.
 email,verb,email,To send an email or emails to.
+end,noun,end,The terminal point of something in space or time.
 end,verb,end,To come to an end.
 enjoy,verb,enjoy,To receive pleasure or satisfaction from something.
 enough,adv,enough,Sufficiently.
@@ -240,6 +266,7 @@ ever,adv,ever,"Always, frequently, forever."
 example,noun,example,Something that is representative of all such things in a group.
 excited,adj,excited,"Having great enthusiasm, passion and energy."
 exciting,adj,exciting,creating or producing excitement
+exercise,noun,exercise,Any activity designed to develop or hone a skill or ability.
 exercise,verb,exercise,To exert for the sake of training or improvement; to practice in order to develop.
 expensive,adj,expensive,Having a high price or cost.
 explain,verb,explain,"To make plain, manifest, or intelligible; to clear of obscurity; to illustrate the meaning of."
@@ -248,13 +275,16 @@ eye,noun,eye,An organ through which animals see (“perceive surroundings via li
 face,noun,face,"The front part of the head of a human or other animal, featuring the eyes, nose, and mouth, and the surrounding area."
 fact,noun,fact,Something actual as opposed to invented.
 fall,noun,fall,The act of moving to a lower position under the effect of gravity.
+fall,verb,fall,To be moved downwards.
 false,adj,false,"Untrue, not factual, factually incorrect."
 family,adj,family,Suitable for children and adults.
+family,noun,family,"A group of people who are closely related to one another (by blood, marriage or adoption); kin; in particular, a set of parents and their children; an immediate family."
 famous,adj,famous,Well known.
 fantastic,adj,fantastic,Wonderful; marvelous; excellent; extraordinarily good or great (used especially as an intensifier).
 far,adv,far,"To, from or over a great distance in space, time or other extent."
 farm,noun,farm,"A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock."
 farmer,noun,farmer,"Someone or something that farms, as:"
+fast,adj,fast,Firmly or securely fixed in place; stable.
 fast,adv,fast,"In a firm or secure manner, securely; in such a way as not to be moved; safe, sound ."
 fat,adj,fat,Carrying more fat than usual on one's body; plump; not lean or thin.
 father,noun,father,"A male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, taken as his own, etc.)."
@@ -280,11 +310,13 @@ food,noun,food,"Any solid substance that can be consumed by living organisms, es
 foot,noun,foot,A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.
 football,noun,football,A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team.
 forget,verb,forget,To lose remembrance of.
+form,noun,form,To do with shape.
 form,verb,form,To assume (a certain shape or visible structure).
 free,adj,free,Unconstrained.
 friend,noun,friend,"A person, typically someone other than a family member, spouse or lover, whose company one enjoys and towards whom one feels affection."
 friendly,adj,friendly,"Generally warm, approachable and easy to relate with in character."
 front,adj,front,Located at or near the front.
+front,noun,front,The foremost side of something or the end that faces the direction it normally moves.
 fruit,noun,fruit,"A product of fertilization in a plant, specifically:"
 full,adj,full,Containing the maximum possible amount that can fit in the space available.
 fun,noun,fun,"Amusement, enjoyment or pleasure."
@@ -304,13 +336,16 @@ goodbye,noun,goodbye,"An utterance of goodbye, the wishing of farewell to someon
 grandfather,noun,grandfather,A father of someone's parent.
 grandmother,noun,grandmother,A mother of someone's parent.
 grandparent,noun,grandparent,the parent of someone's parent
+gray,adj,gray,Of a colour between black and white.
 gray,noun,gray,An achromatic colour between black and white.
 gray,noun,gray,"In the International System of Units, the derived unit of absorbed dose of radiation (radiation absorbed by a patient); one joule of energy absorbed per kilogram of the patient's mass. Symbol: Gy"
 great,adj,great,Taking much space; large.
+green,adj,green,Of a green hue; with a hue which is of grass or leaves.
 green,noun,green,The color of grass and leaves; a primary additive color midway between yellow and blue which is evoked by light between roughly 495–570 nm.
 group,noun,group,A number of things or persons being in some relation to one another.
 grow,verb,grow,"To become larger, to increase in magnitude."
 guess,noun,guess,"A prediction about the outcome of something, typically made without factual evidence or support."
+guess,verb,guess,To reach a partly (or totally) unconfirmed conclusion; to engage in conjecture; to speculate.
 guitar,noun,guitar,"A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick)."
 gym,noun,gym,"Clipping of gymnasium; especially, a school gymnasium."
 hair,noun,hair,A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.
@@ -318,6 +353,7 @@ half,noun,half,"One of two usually roughly equal parts into which anything may b
 hand,noun,hand,"The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals."
 happen,verb,happen,To occur or take place.
 happy,adj,happy,"Having a feeling arising from a consciousness of well-being or of enjoyment; enjoying good of any kind, such as comfort, peace, or tranquillity; blissful, contented, joyous."
+hard,adj,hard,Solid and firm.
 hard,adv,hard,With much force or effort.
 hat,noun,hat,"A covering for the head, often in the approximate form of a cone, dome or cylinder closed at its top end, and sometimes having a brim and other decoration."
 hate,verb,hate,To dislike intensely or greatly.
@@ -327,12 +363,14 @@ health,noun,health,"The state of being free from physical or psychological disea
 healthy,adj,healthy,Enjoying good health; free from disease or disorder.
 hear,verb,hear,To perceive sounds through the ear.
 help,noun,help,Action given to provide assistance; aid.
+help,verb,help,To provide assistance to (someone or something).
 here,adv,here,"In, on, or at this place (a place perceived to be close to the speaker); compare there."
 high,adj,high,"Physically elevated, extending above a base or average level:"
 history,noun,history,The aggregate of past events.
 hobby,noun,hobby,An activity that one enjoys doing in one's spare time.
 hobby,noun,hobby,"Any of four species of small falcons in the genus Falco, especially Falco subbuteo."
 home,adv,home,To one's home.
+home,noun,home,A dwelling.
 homework,noun,homework,Exercises assigned by a teacher to a student which review concepts studied in class.
 hope,verb,hope,"To want something to happen, with a sense of expectation that it might [with that (+ clause) or clause or so]."
 horse,noun,horse,"A hoofed mammal, Equus ferus caballus, often used throughout history for riding and draft work."
@@ -355,9 +393,11 @@ improve,verb,improve,To make (something) better; to increase the value or produc
 in,adv,in,"At or towards the interior of a defined space, such as a building or room."
 include,verb,include,"To bring into a group, class, set, or total as a (new) part or member."
 information,noun,information,"That which resolves uncertainty; anything that answers the question of ""what a given entity is""."
+interest,noun,interest,"The price paid for obtaining, or price received for providing, money or goods in a credit transaction, calculated as a fraction of the amount or value of what was borrowed."
 interest,verb,interest,"To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of a person or thing."
 interested,adj,interested,Having or showing interest (attention or curiosity).
 interesting,adj,interesting,"Of concern; affecting, important."
+interview,noun,interview,An official face-to-face meeting of monarchs or other important figures.
 interview,verb,interview,To ask questions of (somebody); to have an interview.
 introduce,verb,introduce,To cause (someone) to be acquainted (with someone else).
 island,noun,island,"A contiguous area of land, smaller than a continent, totally surrounded by water."
@@ -369,18 +409,24 @@ juice,noun,juice,"A liquid from a plant, especially fruit."
 just,adv,just,"Only, simply, merely."
 keep,verb,keep,To continue in (a course or mode of action); to not intermit or fall from; to uphold or maintain.
 key,adj,key,"Indispensable, supremely important."
+key,noun,key,An object designed to open and close a lock.
+key,noun,key,One of a string of small islands.
 kind,noun,kind,"A type, race or category; a group of entities that have common characteristics such that they may be grouped together."
 kitchen,noun,kitchen,A room or area for preparing food.
 know,verb,know,To perceive the truth or factuality of; to be certain of; to be certain that.
 land,noun,land,The part of Earth which is not covered by oceans or other bodies of water.
 language,noun,language,"A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication."
 large,adj,large,Of considerable or relatively great size or extent.
+late,adj,late,Near the end of a period of time.
 late,adv,late,"After a deadline has passed, past a designated time."
 later,adv,later,comparative form of late: more late
 laugh,noun,laugh,An expression of mirth particular to the human species; the sound heard in laughing; laughter.
+laugh,verb,laugh,"To show mirth, satisfaction, or derision, by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat; to indulge in laughter."
 learn,verb,learn,"To acquire, or attempt to acquire knowledge or an ability to do something."
 leave,verb,leave,To have a consequence or remnant.
 leave,verb,leave,To produce leaves or foliage.
+left,adj,left,Designating the side of the body toward the west when one is facing north; the side of the body on which the heart is located in most humans; the opposite of right. This arrow points to the reader's left: ←
+left,adv,left,On the left side.
 left,noun,left,The left side or direction.
 leg,noun,leg,A limb or appendage that an animal uses for support or locomotion on land.
 lesson,noun,lesson,A section of learning or teaching into which a wider learning content is divided.
@@ -393,11 +439,14 @@ lie,verb,lie,To rest in a horizontal position on a surface.
 life,noun,life,"The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living."
 light,adj,light,Having light; bright; clear; not dark or obscure.
 light,adj,light,Having little or relatively little actual weight; not cumbrous or unwieldy.
+light,noun,light,Electromagnetic radiation in the wavelength range visible to the human eye (about 400–750 nanometers); visible light.
 like,verb,like,"To enjoy, be pleased by; favor; be in favor of."
 line,noun,line,A group of people born in a certain year (liners).
 line,noun,line,"A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight."
 line,noun,line,"Flax, linen."
 lion,noun,lion,"A big cat, Panthera leo, native to Africa, India and formerly much of Europe."
+list,noun,list,"A strip of fabric, especially from the edge of a piece of cloth."
+list,noun,list,A tilt to a building.
 list,verb,list,To cause (something) to tilt to one side.
 list,verb,list,To create or recite a list.
 list,verb,list,"To desire, like, or wish (to do something)."
@@ -406,9 +455,12 @@ listen,verb,listen,To use one's sense of hearing in an intentional way; to make 
 little,adj,little,Small in size.
 live,verb,live,To be alive; to have life.
 local,adj,local,From or in a nearby location.
+long,adj,long,Having much distance in space from one end to the other.
 long,adv,long,Over a great distance in space.
 look,verb,look,"To try to see, to pay attention to with one’s eyes."
 lose,verb,lose,To cause (something) to cease to be in one's possession or capability.
+love,noun,love,A deep caring for the existence of another.
+love,noun,love,"Zero, no score."
 love,verb,love,To have a strong affection for (someone or something).
 lunch,noun,lunch,"A light meal usually eaten around midday, notably when not as main meal of the day."
 machine,noun,machine,"A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
@@ -420,6 +472,8 @@ man,noun,man,An adult male human.
 map,noun,map,"A visual representation of an area, whether real or imaginary, showing the relative positions of places and other features."
 market,noun,market,"A gathering of people for the purchase and sale of merchandise, often periodic at a set time."
 married,adj,married,In a state of marriage; having a wife or a husband.
+match,noun,match,"A competitive sporting event such as a boxing meet (commonly called a ""bout""), a baseball game, or a cricket match."
+match,noun,match,"A device made of wood or paper, having the tip coated with chemicals that ignite with the friction of being dragged (struck) against a rough dry surface."
 match,verb,match,To agree; to be equal; to correspond.
 maybe,adv,maybe,"Perhaps, possibly."
 meal,noun,meal,"Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack)."
@@ -454,8 +508,11 @@ movie,noun,movie,A recorded sequence of images displayed on a screen at a rate s
 museum,noun,museum,"A building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value."
 music,noun,music,"A series of sounds organized in time, usually employing some combination of harmony, melody, rhythm, tempo, etc., often to convey a mood."
 must,verb,must,"To do as a requirement; indicates that the sentence subject is required as an imperative or directive to execute the sentence predicate, with failure to do so resulting in a failure or negative consequence."
+name,noun,name,"Any nounal word or phrase which indicates a particular person, place, class, or thing."
+name,noun,name,Any of several types of true yam (Dioscorea) used in Caribbean Spanish cooking.
 name,verb,name,To give a name to.
 natural,adj,natural,Existing in nature.
+near,adj,near,Physically close.
 near,adv,near,At or towards a position close in space or time.
 need,verb,need,To have an absolute requirement for.
 negative,adj,negative,Not positive or neutral.
@@ -464,10 +521,13 @@ never,adv,never,At no time; on no occasion; in no circumstance.
 new,adj,new,"Recently made, or created."
 news,noun,news,New information of interest.
 newspaper,noun,newspaper,"A publication, usually published daily or weekly, containing news and other articles. Traditionally a print publication typically printed on cheap, low-quality paper; today usually digital and often also available in print."
+next,adj,next,"Nearest in place or position, having nothing similar intervening; adjoining."
 next,adv,next,"In a time, place, rank or sequence closest or following."
 nice,adj,nice,"Pleasant, satisfactory."
 night,noun,night,The time when the Sun is below the horizon when the sky is dark.
+north,adj,north,Of or pertaining to the north; northern.
 north,adv,north,Toward the north; northward; northerly.
+north,noun,north,"The direction towards the pole to the left-hand side of someone facing east, specifically 0°, or (on another celestial object) the direction towards the pole lying on the northern side of the invariable plane."
 nose,noun,nose,"A protuberance on the face housing the nostrils, which are used to breathe or smell."
 not,adv,not,Negates the meaning of the modified verb.
 note,noun,note,A symbol or annotation.
@@ -483,11 +543,17 @@ on,adv,on,To an operating state.
 once,adv,once,One and only one time.
 onion,noun,onion,"A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice."
 online,adj,online,Of a system: connected (generally electrically) to a larger network.
+only,adj,only,Alone in a category.
 only,adv,only,Without others or anything further; exclusively.
+open,adj,open,"Physically unobstructed, uncovered, etc."
 open,verb,open,"To make or become physically unobstructed, uncovered, etc."
 opinion,noun,opinion,"A belief, judgment or perspective that a person has formed, either through objective or subjective reasoning, about a topic, issue, person or thing."
+opposite,adj,opposite,"Located directly across from something else, or from each other."
 opposite,adv,opposite,In an opposite position.
+opposite,noun,opposite,Something opposite or contrary to something else.
 orange,adj,orange,Having the colour of the fruit of an orange tree; yellowred; reddish-yellow.
+orange,noun,orange,An evergreen tree of the genus Citrus such as Citrus sinensis which yields oranges (the fruit).
+order,noun,order,"Arrangement, disposition, or sequence."
 order,verb,order,To set in some sort of order.
 out,adv,out,Away from the inside or centre.
 outside,adv,outside,"To or in the outdoors or outside; to or in an area that is beyond the scope, limits, or borders of a given place."
@@ -496,17 +562,20 @@ own,adj,own,"Belonging to; possessed; acquired; proper to; property of; titled t
 page,noun,page,"A serving boy; a youth attending a person of high degree, especially at courts, often as a position of honor and education."
 page,noun,page,One of the many pieces of paper bound together within a book or similar document.
 paint,noun,paint,"A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds colour to an object or surface to which it has been applied."
+paint,verb,paint,To apply paint to.
 painting,noun,painting,An illustration or artwork done with the use of paint.
 pair,noun,pair,Two similar or identical things taken together; often followed by of.
 pants,noun,pants,"An outer garment that covers the body from the waist downwards, covering each leg separately, usually as far as the ankles; trousers."
 paper,noun,paper,"A sheet material typically used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water."
 paragraph,noun,paragraph,"A passage in text that starts on a new line, the first line sometimes being indented, and usually marks a change of topic."
 parent,noun,parent,"A person who raises a child (which they have made, adopted, fostered, taken as their own, etc.)."
+park,noun,park,An area of land set aside for environment preservation or recreation.
 park,verb,park,To bring (something such as a vehicle) to a halt or store in a specified place.
 part,noun,part,A portion; a component.
 partner,noun,partner,Either of a pair of people or things that belong together.
 party,noun,party,"A person or group of people constituting one side in a legal proceeding, such as in a legal action or a contract."
 passport,noun,passport,"An official document normally used for international journeys, which proves the identity and nationality of the person for whom it was issued."
+past,adj,past,Having already happened; in the past; finished.
 past,noun,past,"The period of time that has already happened, in contrast to the present and the future."
 pay,verb,pay,"To cover (the bottom of a vessel, a seam, a spar, etc.) with tar or pitch, or a waterproof composition of tallow, resin, etc.; to smear."
 pay,verb,pay,To give money or other compensation to in exchange for goods or services.
@@ -520,6 +589,7 @@ perfect,adj,perfect,Fitting its definition precisely.
 period,noun,period,A length of time.
 person,noun,person,An individual who has been granted personhood; usually a human being.
 personal,adj,personal,Pertaining to persons (human beings as opposed to things or animals).
+phone,noun,phone,"A speech segment that possesses distinct physical or perceptual properties, considered as a physical event without regard to its place in the phonology of a language."
 phone,verb,phone,To call (someone) using a telephone.
 photograph,noun,photograph,"A picture created by projecting an image onto a photosensitive surface such as a chemically treated plate or film, CCD receptor, etc."
 phrase,noun,phrase,A short written or spoken expression.
@@ -527,8 +597,10 @@ piano,noun,piano,"A percussive keyboard musical instrument, usually ranging over
 picture,noun,picture,"A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc."
 piece,noun,piece,"A part of a larger whole, usually in such a form that it is able to be separated from other parts."
 pig,noun,pig,"Any of several mammalian species of the genus Sus or the family Suidae, having cloven hooves, bristles and a snout adapted for digging; especially the domesticated animal Sus domesticus."
+pink,adj,pink,Having a colour between red and white; pale red.
 pink,noun,pink,"A color reminiscent of pinks, the flowers."
 place,noun,place,An area; somewhere within an area.
+plan,noun,plan,"A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc."
 plan,verb,plan,"To design (a building, machine, etc.)."
 plane,noun,plane,A deciduous tree of the genus Platanus.
 plane,noun,plane,A level or flat surface.
@@ -536,6 +608,7 @@ plane,noun,plane,A tool for smoothing wood by removing thin layers from the surf
 plane,noun,plane,An airplane; an aeroplane.
 plant,noun,plant,"An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree."
 play,noun,play,"Activity for amusement only, especially among the young."
+play,verb,play,To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment.
 player,noun,player,One that plays.
 point,noun,point,A small dot or mark.
 police,noun,police,"A public agency charged with enforcing laws and maintaining public order, usually being granted special privileges to do so, particularly"
@@ -545,6 +618,9 @@ poor,adj,poor,"With no or few possessions or money, particularly in relation to 
 popular,adj,popular,Common among the general public; generally accepted.
 positive,adj,positive,"Included, present, characterized by affirmation."
 possible,adj,possible,Able but not certain to happen; neither inevitable nor impossible.
+post,noun,post,A long dowel or plank protruding from the ground; a fencepost; a lightpost.
+post,noun,post,An assigned station; a guard post.
+post,noun,post,"Each of a series of men stationed at specific places along a postroad, with responsibility for relaying letters and dispatches of the monarch (and later others) along the route."
 post,verb,post,"To enter (a name) on a list, as for service, promotion, etc."
 post,verb,post,To hang (a notice) in a conspicuous manner for general review.
 post,verb,post,"To travel with relays of horses; to travel by post horses, originally as a courier."
@@ -552,9 +628,12 @@ potato,noun,potato,Solanum tuberosum or its edible starchy tuber.
 pound,noun,pound,A hard blow.
 pound,noun,pound,A place for the detention of stray or wandering animals.
 pound,noun,pound,A unit of weight in various measurement systems.
+practice,noun,practice,Repetition of an activity to improve a skill.
 prefer,verb,prefer,To be in the habit of choosing something rather than something else; to favor; to like better.
 prepare,verb,prepare,To make ready for a specific future purpose; to set up; to assemble or equip; to forearm.
+present,adj,present,"Relating to now, for the time being; current."
 present,noun,present,The current moment or period of time.
+pretty,adj,pretty,"Pleasant to the sight or other senses; attractive, especially of women or children."
 pretty,adv,pretty,"Somewhat, fairly, quite; sometimes also (by meiosis) very."
 price,noun,price,The cost required to gain possession of something.
 probably,adv,probably,In all likelihood.
@@ -562,6 +641,7 @@ problem,noun,problem,A difficulty that has to be resolved or dealt with.
 product,noun,product,Anything that is produced; a result.
 program,noun,program,A set of structured activities; a plan of action.
 project,noun,project,"A planned endeavor, usually with a specific goal and accomplished in several steps or stages."
+purple,adj,purple,Of a purple hue.
 purple,noun,purple,"A colour between red and blue; violet, though often closer to magenta."
 put,verb,put,To physically place (something or someone somewhere).
 quarter,noun,quarter,A fourth part of something.
@@ -571,6 +651,7 @@ quickly,adv,quickly,Rapidly; with speed; fast.
 quiet,adj,quiet,With little or no sound; free of disturbing noise.
 quite,adv,quite,"To the greatest extent or degree; completely, entirely."
 radio,noun,radio,The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.
+rain,noun,rain,Condensed water falling from a cloud.
 rain,verb,rain,To have rain fall from the sky.
 read,verb,read,To look at and interpret letters or other information that is written.
 reader,noun,reader,A person who reads.
@@ -579,6 +660,7 @@ ready,adj,ready,Prepared for immediate action or use.
 real,adj,real,"True, genuine, not merely nominal or apparent."
 really,adv,really,"In a way or manner that is real, not unreal."
 reason,noun,reason,A cause:
+red,adj,red,Of a red hue.
 red,noun,red,"The colour of the setting sun, blood, and strawberries; the colour which is evoked by the longest visible wavelengths (between about 625–740 nm), and a primary additive colour."
 relax,verb,relax,To calm down.
 remember,verb,remember,To recall from one's memory; to have an image in one's memory.
@@ -587,9 +669,12 @@ report,noun,report,"A piece of information describing, or an account of certain 
 restaurant,noun,restaurant,"An eating establishment in which diners are served food, usually by waiters at their tables but sometimes (as in a fast food restaurant) at a counter."
 result,noun,result,"That which results; the conclusion or end to which any course or condition of things leads, or which is obtained by any process or operation; consequence or effect."
 return,noun,return,The act of returning.
+return,verb,return,To come or go back (to a place or person).
 rice,noun,rice,"Cereal plants, Oryza sativa of the grass family whose seeds are used as food."
 rich,adj,rich,Wealthy: having a lot of money and possessions.
 ride,verb,ride,"To transport oneself by sitting on and directing a horse, later also a bicycle etc."
+right,adj,right,"Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in most humans. This arrow points to the reader's right: →"
+right,adv,right,On the right side.
 right,noun,right,"That which complies with justice, law or reason."
 river,noun,river,"A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea."
 road,noun,road,"A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane."
@@ -600,6 +685,7 @@ run,verb,run,To move swiftly.
 sad,adj,sad,Emotionally negative.
 salad,noun,salad,"A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise."
 salt,noun,salt,"A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative."
+same,adj,same,Not different or other; not another or others; not different as regards self; selfsame; identical.
 same,adv,same,"The same way; in the same manner; to the same extent, equally."
 sandwich,noun,sandwich,"A dish or foodstuff where at least one piece, but typically two or more pieces, of bread serves as the wrapper or container of some other food."
 say,verb,say,To pronounce.
@@ -607,6 +693,7 @@ school,noun,school,"A group of fish or a group of marine mammals such as porpois
 school,noun,school,An institution dedicated to teaching and learning; an educational institution.
 science,noun,science,"A particular discipline or branch of knowledge that is natural, measurable or consisting of systematic principles rather than intuition or technical skill."
 scientist,noun,scientist,"One whose activities make use of the scientific method to answer questions regarding the measurable universe. A scientist may be involved in original research, or make use of the results of the research of others."
+second,adj,second,Number-two; following after the first one with nothing between them. The ordinal number corresponding to the cardinal number two.
 second,noun,second,"A unit of time historically and commonly defined as a sixtieth of a minute which the International System of Units more precisely defines as the duration of 9,192,631,770 periods of radiation corresponding to the transition between two hyperfine levels of caesium-133 in a ground state at a temperature of absolute zero and at rest."
 second,noun,second,"One who supports another in a contest or combat, such as a dueller's assistant."
 second,noun,second,Something that is number two in a series.
@@ -619,11 +706,13 @@ share,verb,share,To give part of what one has to somebody else to use or consume
 sheep,noun,sheep,A woolly ruminant of the genus Ovis.
 shirt,noun,shirt,"An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms."
 shoe,noun,shoe,"A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. Shoes generally do not extend above the ankle, as opposed to boots, which do."
+shop,noun,shop,"An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well."
 shop,verb,shop,"To visit stores or shops to browse or explore merchandise, especially with the intention of buying such merchandise."
 shopping,noun,shopping,"The process of buying goods or services, or searching for those suitable to buy."
 short,adj,short,"Having a small distance from one end or edge to another, either horizontally or vertically."
 should,verb,should,"Ought to; indicating opinion, advice, or instruction, about what is required or desirable."
 show,noun,show,"A play, dance, or other entertainment."
+show,verb,show,"To display, to have somebody see (something)."
 shower,noun,shower,"A brief fall of precipitation (spell of rain, or a similar fall of snow, sleet, or cascade); burst of hefty precipitation."
 shower,noun,shower,One who shows.
 sick,adj,sick,In poor health; ill.
@@ -641,6 +730,8 @@ slow,adj,slow,"Taking a long time to move or go a short distance, or to perform 
 small,adj,small,Not large or big; insignificant; few in number.
 smart,adj,smart,Exhibiting social ability or cleverness.
 snake,noun,snake,"Any of the suborder Serpentes of legless reptile with long, thin bodies and fork-shaped tongues."
+snow,noun,snow,"A square-rigged sailing vessel similar to a brig formerly used as a warship, with a foremast, a mainmast, and a trysail mast immediately abaft (behind) the mainmast."
+snow,noun,snow,"The partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; also, the falling of such flakes; and the accumulation of them on the ground or on objects as a white layer."
 snow,verb,snow,Preceded by the dummy subject it: to have snow (noun sense 1) fall from the atmosphere.
 so,adv,so,To the (explicitly stated) extent.
 sometimes,adv,sometimes,"On some occasions, over some periods, or in certain circumstances, but not always."
@@ -648,10 +739,15 @@ son,noun,son,One's male offspring.
 song,noun,song,"A musical composition with lyrics for voice or voices, performed by singing."
 soon,adv,soon,"Immediately, instantly."
 sorry,adj,sorry,Regretful or apologetic for one's actions.
+sound,noun,sound,"A long narrow inlet, or a strait between the mainland and an island; also, a strait connecting two seas, or connecting a sea or lake with the ocean."
+sound,noun,sound,"A long, thin probe for sounding or dilating body cavities or canals such as the urethra; a sonde."
+sound,noun,sound,A sensation perceived by the ear caused by the vibration of air or some other medium.
 sound,verb,sound,"Of a whale, to dive downwards."
 sound,verb,sound,To produce a sound.
 soup,noun,soup,"Any of various dishes commonly made by combining liquids, such as water or stock, with other ingredients, such as meat and vegetables, that contribute the food value, flavor, and texture."
+south,adj,south,Toward the south; southward.
 south,adv,south,Toward the south; southward.
+south,noun,south,"The direction towards the pole to the right-hand side of someone facing east, specifically 180°, or (on another celestial object) the direction towards the pole lying on the southern side of the invariable plane."
 space,noun,space,"Unlimited or generalized extent, physical or otherwise."
 speak,verb,speak,"To communicate with one's voice, to say words out loud."
 special,adj,special,"Distinguished by a unique, particular, or unusual quality."
@@ -671,11 +767,13 @@ stay,verb,stay,"To remain in a particular place, especially for a definite or sh
 still,adv,still,Without motion.
 stop,noun,stop,"A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station."
 stop,noun,stop,A small well-bucket; a milk-pail.
+stop,verb,stop,To cease moving.
 store,noun,store,A place where items may be accumulated or routinely kept.
 story,noun,story,An account of real or fictional events.
 street,noun,street,"A paved part of road, usually in a village or a town."
 strong,adj,strong,Capable of producing great physical force.
 student,noun,student,A person who studies or learns about a particular subject.
+study,noun,study,Mental effort to acquire knowledge or learning.
 study,verb,study,"To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination."
 style,noun,style,"Senses relating to a thin, pointed object."
 subject,noun,subject,"The noun, pronoun or noun phrase about whom the statement is made. In active clauses with verbs denoting an action, the subject is the actor. In clauses in the passive voice the subject is the target of the action."
@@ -700,11 +798,13 @@ teach,verb,teach,To pass on knowledge to.
 teacher,noun,teacher,"A person who teaches, especially one employed in a school; preceptor."
 team,noun,team,"A set of draught animals, such as two horses in front of a carriage."
 teenager,noun,teenager,A person between 13 and 19 years old.
+telephone,noun,telephone,"A telecommunication device (originally mechanical, and now electronic) used for two-way talking with another person (now often shortened to phone)."
 telephone,verb,telephone,To (attempt to) contact someone using a telephone.
 television,noun,television,"An electronic communication medium that allows the transmission of real-time visual images, and often sound."
 tell,verb,tell,"To count, reckon, or enumerate."
 tennis,noun,tennis,"A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets."
 terrible,adj,terrible,"Dreadful; causing terror, alarm and fear; awesome"
+test,noun,test,"A challenge, trial."
 test,verb,test,"To challenge, to put a strain on (something)."
 text,noun,text,"A writing consisting of multiple glyphs, characters, symbols or sentences."
 thank,verb,thank,To express appreciation or gratitude toward (someone or something).
@@ -721,11 +821,14 @@ ticket,noun,ticket,"A small document that acts as proof of something, often ther
 time,noun,time,The inevitable progression into the future with the passing of present and past events.
 tired,adj,tired,In need of some rest or sleep.
 title,noun,title,"The name of a film, musical piece, painting, or other work of art."
+today,adv,today,On the current day or date.
 today,noun,today,The current day or date.
 together,adv,together,"At the same time, in the same place; in close association or proximity."
 toilet,noun,toilet,"A room, enclosed area or single-purpose building containing a fixture or fixtures used for urination and defecation; a bathroom or water closet."
 tomato,noun,tomato,"A widely cultivated plant, Solanum lycopersicum, having edible fruit."
+tomorrow,adv,tomorrow,On the day after the present day.
 tomorrow,noun,tomorrow,The day after the present day.
+tonight,adv,tonight,During the night following the current day; during the evening of today.
 tonight,noun,tonight,The nighttime of the current day or date; this night.
 too,adv,too,Likewise.
 tooth,noun,tooth,"A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for biting and chewing food."
@@ -735,12 +838,14 @@ town,noun,town,"A settlement; an area with residential districts, shops and amen
 traffic,noun,traffic,"Moving pedestrians or vehicles, or the flux or passage thereof."
 train,noun,train,Elongated or trailing portion.
 travel,noun,travel,The act of traveling; passage from place to place.
+travel,verb,travel,"To be on a journey, often for pleasure or business and with luggage; to go from one place to another."
 tree,noun,tree,"A perennial woody plant taller and larger than a shrub with a wooden trunk and, at some distance from the ground, having leaves and branches."
 trip,noun,trip,A journey; an excursion or jaunt.
 truck,noun,truck,"A small wheel or roller, specifically the wheel of a gun carriage."
 true,adj,true,Conforming to the actual state of reality or fact; factually correct.
 try,verb,try,To attempt; to endeavour. Followed by infinitive.
 turn,noun,turn,A change of direction or orientation.
+turn,verb,turn,To make a non-linear physical movement.
 twice,adv,twice,Two times.
 type,noun,type,A grouping based on shared characteristics; a class.
 umbrella,noun,umbrella,A cloth-covered frame used for protection against rain or sun.
@@ -758,16 +863,19 @@ vegetable,noun,vegetable,Any plant.
 very,adv,very,To a great extent or degree.
 video,noun,video,"Television, a television show, or a movie."
 visit,noun,visit,A single act of visiting.
+visit,verb,visit,"To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)"
 visitor,noun,visitor,Someone who visits someone else; someone staying as a guest.
 wait,verb,wait,To delay movement or action until some event or time; to remain neglected or in readiness.
 waiter,noun,waiter,"A male or female attendant who serves customers at their tables in a restaurant, café or similar."
 wake,verb,wake,(often followed by up) To stop sleeping.
 walk,noun,walk,A trip made by walking.
+walk,verb,walk,"To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run."
 wall,noun,wall,"A rampart of earth, stones etc. built up for defensive purposes."
 want,verb,want,"To wish for or desire (something); to feel a need or desire for; to crave, hanker, or demand."
 warm,adj,warm,"Of a somewhat high temperature, often but not always connoting that the high temperature is pleasant rather than uncomfortable."
 wash,verb,wash,To clean with water.
 watch,noun,watch,A portable or wearable timepiece.
+watch,verb,watch,"To look at, see, or view for a period of time."
 water,noun,water,"A inorganic compound (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam."
 way,noun,way,To do with a place or places.
 wear,verb,wear,To have on:
@@ -776,10 +884,15 @@ website,noun,website,A collection of interlinked web pages on the World Wide Web
 week,noun,week,Any period of seven consecutive days.
 weekend,noun,weekend,"The break in the working week, usually two days including the traditional holy or sabbath day. Thus in western countries, Saturday and Sunday."
 welcome,adj,welcome,"Whose arrival is a cause of joy; received with gladness; admitted willingly to the house, entertainment, or company."
+welcome,verb,welcome,"To affirm or greet the arrival of someone, especially by saying ""Welcome!""."
 well,adj,well,In good health.
+well,adv,well,"Accurately, competently, satisfactorily."
+west,adj,west,Situated or lying in or toward the west; westward.
 west,adv,west,Towards the west; westwards.
+west,noun,west,"The direction opposite to that of the earth's rotation, specifically 270°."
 when,adv,when,At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time.
 where,adv,where,"In, at or to what place."
+white,adj,white,Bright and colourless; reflecting equal quantities of all frequencies of visible light.
 white,noun,white,The color of snow or milk; the color of light containing equal amounts of all visible wavelengths.
 why,adv,why,"For what cause, reason, or purpose."
 wife,noun,wife,"A married woman, especially in relation to her spouse."
@@ -793,6 +906,7 @@ woman,noun,woman,An adult female human.
 wonderful,adj,wonderful,"Tending to excite wonder; surprising, extraordinary."
 word,noun,word,"The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)"
 work,noun,work,Employment.
+work,verb,work,To do a specific task by employing physical or mental powers.
 worker,noun,worker,"One who works: a person who performs labor for a living; traditionally, especially, manual labor."
 world,noun,world,"The subjective human experience, regarded collectively; human collective existence; existence in general; the reality we live in."
 would,verb,would,Past tense of will; usually followed by a bare infinitive.
@@ -803,6 +917,8 @@ wrong,adj,wrong,Incorrect or untrue.
 yard,noun,yard,"A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building."
 yard,noun,yard,"A unit of length equal to 3 feet in the US customary and British imperial systems of measurement, equal to precisely 0.9144 m since 1959 (US) or 1963 (UK)."
 year,noun,year,A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.
+yellow,adj,yellow,Of a yellow hue.
 yellow,noun,yellow,"The color of sunflower petals and lemons; the color obtained by mixing green and red light, or by subtracting blue from white light; the color evoked by light of wavelength around 580 nm; one of the three primary colors in subtractive color systems."
+yesterday,adv,yesterday,On the day before today.
 yesterday,noun,yesterday,The day immediately before today; one day ago.
 young,adj,young,In the early part of growth or life; born not long ago.

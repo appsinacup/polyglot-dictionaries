@@ -107,6 +107,10 @@ zwierzę,noun,animal,organism
 zwierzę,noun,animal,organism other than human
 bestia,noun,animal,person who behaves wildly
 zwierzę,noun,animal,person who behaves wildly
+odpowiedź,noun,answer,response
+odpowiedź,noun,answer,solution
+odpowiedź,noun,answer,reply to email
+odpowiedź,noun,answer,document filed in response to a complaint
 odpowiadać,verb,answer,to make a reply or response to
 odpowiedzieć,verb,answer,to make a reply or response to
 odpowiedzieć,verb,answer,to respond to a call
@@ -187,6 +191,14 @@ bejbe,noun,baby,form of address to a man or a woman considered to be attractive
 mała,noun,baby,form of address to a man or a woman considered to be attractive
 z powrotem,adv,back,to or in a previous condition or place
 nazad,adv,back,to or in a previous condition or place
+plecy,noun,back,the rear of body
+tył,noun,back,the reverse side
+tył,noun,back,that which is farthest away from the front
+koniec,noun,back,that which is farthest away from the front
+tył,noun,back,the part of something that goes last
+koniec,noun,back,the part of something that goes last
+oparcie,noun,back,"the backrest, the part of a piece of furniture which receives the human back — see also backrest"
+obrońca,noun,back,a position behind most players on the team
 zły,adj,bad,unfavorable; negative
 kiepski,adj,bad,unfavorable; negative
 zły,adj,bad,not suitable or fitting
@@ -296,12 +308,27 @@ fak,noun,bird,vulgar hand gesture
 ptak,noun,bird,penis
 urodziny,noun,birthday,anniversary
 data urodzenia,noun,birthday,date of birth — see also date of birth
+czarny,adj,black,absorbing all light
+czarny,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+czarnoskóry,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+murzyński,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
 czerń,noun,black,colour/color
 murzyn,noun,black,dark-skinned person — see also Negro
 murzynka,noun,black,dark-skinned person — see also Negro
 blog,noun,blog,a personal or corporate website
 blond,adj,blond,of a pale golden colour
 blond,adj,blond,having blond hair
+niebieski,adj,blue,"blue-coloured — see also dark blue, light blue"
+błękitny,adj,blue,"blue-coloured — see also dark blue, light blue"
 niebieski,noun,blue,colour
 błękit,noun,blue,colour
 modraszek,noun,blue,butterfly of the subfamily Polyommatinae
@@ -354,6 +381,27 @@ pieczywo,noun,bread,countable: any variety of bread
 przerwa,noun,break,"rest or pause, usually from work"
 ucieczka,noun,break,act of escaping
 przełamanie,noun,break,tennis: game won by receiving party
+łamać się,verb,break,intransitive: to separate into (to end up in) two or more pieces
+złamać się,verb,break,intransitive: to separate into (to end up in) two or more pieces
+rozbić się,verb,break,intransitive: to separate into (to end up in) two or more pieces
+połamać się,verb,break,intransitive: to separate into (to end up in) two or more pieces
+łamać,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+złamać,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+rozbijać,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+złamać się,verb,break,"intransitive, of a bone: to crack"
+złamać,verb,break,transitive: to cause (a bone) to crack
+rozmieniać,verb,break,to divide (money) into smaller units
+rozmienić,verb,break,to divide (money) into smaller units
+łamać,verb,break,to cause a person to lose spirit or will
+złamać,verb,break,to cause a person to lose spirit or will
+rujnować,verb,break,to ruin financially
+zrujnować,verb,break,to ruin financially
+zespuć się,verb,break,intransitive: to stop functioning properly or altogether
+psuć się,verb,break,intransitive: to stop functioning properly or altogether
+zepsuć,verb,break,transitive: to cause to stop functioning
+psuć,verb,break,transitive: to cause to stop functioning
+rozbijać się,verb,break,"of a wave, to collapse into a surf"
+rozbić się,verb,break,"of a wave, to collapse into a surf"
 śniadanie,noun,breakfast,first meal of the day
 przynosić,verb,bring,to transport toward somebody/somewhere
 przynieść,verb,bring,to transport toward somebody/somewhere
@@ -366,6 +414,7 @@ brachol,noun,brother,male sibling
 braciszek,noun,brother,male sibling
 brat,noun,brother,male having parents in common
 brat,noun,brother,male fellow member of a religious community
+brązowy,adj,brown,having a brown colour
 brąz,noun,brown,colour
 budować,verb,build,(transitive) to form by combining materials or parts
 zbudować,verb,build,(transitive) to form by combining materials or parts
@@ -397,6 +446,9 @@ sprawa,noun,business,particular situation or activity
 sprawa,noun,business,something involving one personally
 interes,noun,business,something involving one personally
 biznes,noun,business,business class
+zajęty,adj,busy,doing a great deal
+zajęty,adj,busy,engaged
+skomplikowany,adj,busy,complicated
 masło,noun,butter,soft foodstuff made from milk
 kupować,verb,buy,to obtain something with money
 kupić,verb,buy,to obtain something with money
@@ -415,6 +467,17 @@ rozmowa telefoniczna,noun,call,telephone conversation
 wizyta,noun,call,social visit
 odwiedziny,noun,call,social visit
 wywołanie,noun,call,computing: act of jumping to a subprogram
+wzywać,verb,call,"to request, summon, or beckon"
+wezwać,verb,call,"to request, summon, or beckon"
+wołać,verb,call,"to request, summon, or beckon"
+zawołać,verb,call,"to request, summon, or beckon"
+wołać,verb,call,to cry or shout
+zawołać,verb,call,to cry or shout
+dzwonić,verb,call,to contact by telephone
+zadzwonić,verb,call,to contact by telephone
+telefonować,verb,call,to contact by telephone
+zatelefonować,verb,call,to contact by telephone
+nazywać,verb,call,to name or refer to
 aparat fotograficzny,noun,camera,still camera
 kamera,noun,camera,movie camera
 kamera wideo,noun,camera,movie camera
@@ -425,6 +488,9 @@ móc,verb,can,may
 konserwować,verb,can,to preserve
 wylać (z pracy),verb,can,to fire or dismiss an employee
 nie móc,verb,cannot,"cannot — see also can, not"
+kapitał,noun,capital,money and wealth
+kapitel,noun,capital,uppermost part of a column
+głowica,noun,capital,uppermost part of a column
 samochód,noun,car,"automobile, a vehicle steered by a driver"
 auto,noun,car,"automobile, a vehicle steered by a driver"
 wóz,noun,car,"automobile, a vehicle steered by a driver"
@@ -468,6 +534,18 @@ zamiana,noun,change,a replacement
 reszta,noun,change,balance returned after a purchase
 bilon,noun,change,amount of cash
 przesiadka,noun,change,a transfer between vehicles
+zmieniać się,verb,change,to become something different
+zmienić się,verb,change,to become something different
+zmieniać,verb,change,to make something into something else
+zmienić,verb,change,to make something into something else
+zamieniać,verb,change,to replace
+zamienić,verb,change,to replace
+przebierać się,verb,change,to replace one's own clothing
+przebrać się,verb,change,to replace one's own clothing
+przwijać,verb,change,to replace one's own clothing
+przewinąć,verb,change,to replace one's own clothing
+przesiadać się,verb,change,to transfer to another vehicle
+przesiąść się,verb,change,to transfer to another vehicle
 niedrogi,adj,cheap,low and/or reduced in price
 tani,adj,cheap,low and/or reduced in price
 tandetny,adj,cheap,of poor quality
@@ -510,6 +588,8 @@ klasa,noun,class,object-oriented programming: set of objects possibly differing 
 aula,noun,classroom,room in a school
 klasa,noun,classroom,room in a school
 sala lekcyjna,noun,classroom,room in a school
+czysty,adj,clean,not dirty
+przyzwoity,adj,clean,"pure, especially morally or religiously"
 czyścić,verb,clean,(transitive) to remove dirt from a place or object
 oczyszczać,verb,clean,(transitive) to remove dirt from a place or object
 oczyścić,verb,clean,(transitive) to remove dirt from a place or object
@@ -550,6 +630,11 @@ ziarna kawy,noun,coffee,beans
 kawa,noun,coffee,beans
 kawowiec,noun,coffee,plant
 kawowy,noun,coffee,colour
+zimny,adj,cold,having a low temperature
+przeziębiony,adj,cold,of a person's sensation
+chłodny,adj,cold,unfriendly
+oziębły,adj,cold,unfriendly
+nieprzygotowany,adj,cold,unprepared
 zimno,noun,cold,low temperature
 mróz,noun,cold,low temperature
 ziąb,noun,cold,low temperature
@@ -601,6 +686,12 @@ kompania,noun,company,unit of firefighters and their equipment
 porównywać,verb,compare,to assess the similarities between two things or between one thing and another
 porównać,verb,compare,to assess the similarities between two things or between one thing and another
 stopniować,verb,compare,to form the three degrees of comparison of
+pełny,adj,complete,with everything included
+kompletny,adj,complete,with everything included
+zupełna,adj,complete,of metric space: such that every Cauchy sequence converges in it
+zupełna,adj,complete,of a lattice: such that every set with a lower bound has a greatest lower bound
+zupełna,adj,complete,of a category: such that all small limits exist
+zupełny,adj,complete,of a proof system: such that any semantically valid formula is also provable
 ukończyć,verb,complete,to finish
 dopełnić,verb,complete,to make whole or entire
 uzupełnić,verb,complete,to make whole or entire
@@ -624,8 +715,13 @@ kozak,adj,cool,"colloquial: of a person, knowing what to do and how to behave in
 chwat,adj,cool,"colloquial: of a person, knowing what to do and how to behave in any situation"
 fajny,adj,cool,"colloquial: being considered as ""popular"" by others"
 fajny,adj,cool,"colloquial: all right, acceptable"
+prawidłowy,adj,correct,free from error
+właściwy,adj,correct,free from error
+poprawny,adj,correct,free from error
 poprawiać,verb,correct,to make something become right that was previously wrong
 poprawić,verb,correct,to make something become right that was previously wrong
+koszt,noun,cost,amount of money spent for a purpose
+cena,noun,cost,negative consequence or loss
 kosztować,verb,cost,"to incur a charge, a price"
 kraj,noun,country,region of land
 ziemia,noun,country,region of land
@@ -678,6 +774,8 @@ tatuś,noun,dad,informal: a father
 tata,noun,dad,familiar address of one's own father
 tato,noun,dad,familiar address of one's own father
 tatuś,noun,dad,familiar address of one's own father
+taniec,noun,dance,movements to music
+pląs,noun,dance,movements to music
 tańczyć,verb,dance,move rhythmically to music
 tańcować,verb,dance,move rhythmically to music
 pląsać,verb,dance,move rhythmically to music
@@ -725,6 +823,20 @@ dobry,adj,delicious,pleasing to taste
 opisywać,verb,describe,to represent in words
 opisać,verb,describe,to represent in words
 opis,noun,description,account in words
+projekt,noun,design,plan
+plan,noun,design,plan
+abrys,noun,design,plan
+wzór,noun,design,pattern
+motyw,noun,design,pattern
+kompozycja,noun,design,composition
+zamysł,noun,design,intention
+zamiar,noun,design,intention
+wzór,noun,design,appearance
+krój (of a typeface),noun,design,appearance
+design,noun,design,appearance
+dizajn,noun,design,appearance
+wzornictwo,noun,design,art of designing
+design,noun,design,art of designing
 projektować,verb,design,to plan an artwork etc.
 biurko,noun,desk,table for writing and reading
 szczegół,noun,detail,part small enough to escape casual notice
@@ -818,6 +930,10 @@ polegać,verb,draw,to rely on
 zasuwać,verb,draw,to close curtains etc.
 remisować,verb,draw,to end a game with neither side winning
 ciągnąć los,verb,draw,to determine the result of a lottery
+sukienka,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+suknia,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+strój,noun,dress,apparel or clothing
+ubiór,noun,dress,apparel or clothing
 ubierać,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 ubierać się,verb,dress,to put on clothes — see also get dressed
 ubrać się,verb,dress,to put on clothes — see also get dressed
@@ -825,6 +941,11 @@ odziewać się,verb,dress,to put on clothes — see also get dressed
 odziać się,verb,dress,to put on clothes — see also get dressed
 opatrywać,verb,dress,to apply a dressing to or otherwise treat (a wound)
 opatrzyć,verb,dress,to apply a dressing to or otherwise treat (a wound)
+napój,noun,drink,served beverage
+napój,noun,drink,type of beverage
+drink,noun,drink,served alcoholic beverage
+picie,noun,drink,action of drinking
+trunki,noun,drink,alcoholic beverages in general
 pić,verb,drink,consume liquid through the mouth
 pić,verb,drink,consume alcoholic beverages
 prowadzić,verb,drive,to operate (a wheeled motorized vehicle)
@@ -846,9 +967,18 @@ kłos,noun,ear,fruiting body of a grain plant
 ucho,noun,ear,organ of hearing
 konfident,noun,ear,slang: police informant
 szpicel,noun,ear,slang: police informant
+wczesny,adj,early,at a time in advance of the usual
+wczesny,adj,early,arriving at a time before expected
+wczesny,adj,early,near but after the start or beginning
+początkowy,adj,early,near but after the start or beginning
 wcześnie,adv,early,at a time before expected
+wschodni,adj,east,in or towards the east
+wschodni,adj,east,meteorology: easterly
+wschodni,adj,east,of or pertaining to the east
+wschodni,adj,east,from the East
 na wschód,adv,east,towards the east
 ku wschodowi,adv,east,towards the east
+wschód,noun,east,compass point
 łatwy,adj,easy,requiring little skill or effort
 lekki,adj,easy,requiring little skill or effort
 prosty,adj,easy,requiring little skill or effort
@@ -866,8 +996,23 @@ jajko,noun,egg,edible egg of a domestic fowl; the contents of such an egg or egg
 słoń,noun,elephant,mammal
 słonica,noun,elephant,mammal
 inaczej,adv,else,word that implies any result with the exception of the one being referred to
+e-mail,noun,email,system for sending messages and datas by means of computers connected together in a network
+mejl,noun,email,system for sending messages and datas by means of computers connected together in a network
+poczta elektroniczna,noun,email,system for sending messages and datas by means of computers connected together in a network
+e-mail,noun,email,message sent through email
+mejl,noun,email,message sent through email
+mail,noun,email,message sent through email
+e-mail,noun,email,email address — see also e-mail address
+mejl,noun,email,email address — see also e-mail address
+adres mailowy,noun,email,email address — see also e-mail address
+adres mejlowy,noun,email,email address — see also e-mail address
+mail,noun,email,email address — see also e-mail address
 mailować,verb,email,(transitive) to send an email or emails to
 mejlować,verb,email,(transitive) to send an email or emails to
+koniec,noun,end,extreme part
+śmierć,noun,end,death
+koniec,noun,end,death
+meta,noun,end,period in curling
 kończyć się,verb,end,"intransitive: be finished, be terminated"
 skończyć,verb,end,"transitive: finish, terminate (something)"
 zakończyć,verb,end,"transitive: finish, terminate (something)"
@@ -901,6 +1046,8 @@ kiedykolwiek,adv,ever,at any time
 przykład,noun,example,something representative of a group
 przykład,noun,example,something serving to explain or illustrate a rule
 przykład,noun,example,something serving as a pattern of behaviour
+ćwiczenie,noun,exercise,any activity designed to develop or hone a skill or ability
+ćwiczenie,noun,exercise,physical activity intended to improve strength and fitness
 ćwiczyć,verb,exercise,exert for the sake of training
 ćwiczyć,verb,exercise,perform physical activity
 wykorzystać,verb,exercise,use; put into practice
@@ -942,12 +1089,23 @@ fakt,noun,fact,information about a particular subject
 spadek,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 spadanie,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
 upadek,noun,fall,loss of greatness or status
+spadać,verb,fall,move to a lower position under the effect of gravity
+spaść,verb,fall,move to a lower position under the effect of gravity
+padać,verb,fall,come down or descend
+paść,verb,fall,prostrate oneself
+polegnąć,verb,fall,die
 fałszywy,adj,false,"untrue, not factual, wrong"
 nieprawdziwy,adj,false,"untrue, not factual, wrong"
 błędny,adj,false,"untrue, not factual, wrong"
 sztuczny,adj,false,"spurious, artificial"
 rodzinny,adj,family,suitable for children and adults
 familijny,adj,family,suitable for children and adults
+rodzina,noun,family,"immediate family [as a group], e.g. parents and their children"
+rodzina,noun,family,"group of people related by blood, marriage, law, or custom"
+ród,noun,family,"group of people related by blood, marriage, law, or custom"
+rodzina,noun,family,"rank in a taxonomic classification, above both genus and species"
+rodzina,noun,family,linguistics: a group of languages believed to have descended from the same ancestral language
+rodzinny,noun,family,(used attributively)
 sławny,adj,famous,well known
 słynny,adj,famous,well known
 fantastyczny,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
@@ -964,6 +1122,11 @@ farmer,noun,farmer,person who works the land and/or who keeps livestock
 farmerka,noun,farmer,person who works the land and/or who keeps livestock
 włościanin,noun,farmer,person who works the land and/or who keeps livestock
 włościanka,noun,farmer,person who works the land and/or who keeps livestock
+szybki,adj,fast,moving or capable of moving with great speed
+prędki,adj,fast,moving or capable of moving with great speed
+błyskawiczny,adj,fast,moving or capable of moving with great speed
+bystry,adj,fast,moving or capable of moving with great speed
+chyży,adj,fast,moving or capable of moving with great speed
 szybko,adv,fast,with great speed
 prędko,adv,fast,with great speed
 bystro,adv,fast,with great speed
@@ -1076,6 +1239,9 @@ zapominać,verb,forget,to unintentionally not do
 zapomnieć,verb,forget,to unintentionally not do
 zapominać,verb,forget,to cease remembering
 zapomnieć,verb,forget,to cease remembering
+forma,noun,form,shape or visible structure
+formularz,noun,form,document to be filled in
+blankiet,noun,form,document to be filled in
 wolny,adj,free,not imprisoned
 swobodny,adj,free,not imprisoned
 wolny,adj,free,unconstrained
@@ -1105,6 +1271,10 @@ przyjacielski,adj,friendly,characteristic of friendliness
 przyjazny,adj,friendly,characteristic of friendliness
 przyjazny,adj,friendly,pertaining to friendlies in the conflict sense
 przedni,adj,front,located at or near the front
+przód,noun,front,facing side
+front,noun,front,facing side
+przykrywka,noun,front,public face of covert organisation
+front,noun,front,military: area or line of conflict
 owoc,noun,fruit,part of plant
 owoc,noun,fruit,food
 owoc,noun,fruit,figuratively: positive end result or reward of labour or effort
@@ -1194,6 +1364,8 @@ babka,noun,grandmother,mother of someone's parent
 babunia,noun,grandmother,mother of someone's parent
 baba,noun,grandmother,mother of someone's parent
 dziadkowie,noun,grandparent,parent of one's parent
+szary,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+siwy,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 szarość,noun,gray,colour
 szary,noun,gray,colour
 Szarak,noun,gray,extraterrestrial being
@@ -1202,6 +1374,8 @@ wielki,adj,great,"very big, large scale"
 wspaniały,adj,great,very good
 świetny,adj,great,very good
 wielki,adj,great,important title
+zielony,adj,green,having green as its colour
+zielony,adj,green,inexperienced
 zieleń,noun,green,colour
 grupa,noun,group,number of things or persons being in some relation to each other
 kupa,noun,group,number of things or persons being in some relation to each other
@@ -1219,6 +1393,13 @@ stać się,verb,grow,to assume a condition or quality
 robić się,verb,grow,to assume a condition or quality
 zrobić się,verb,grow,to assume a condition or quality
 zgadnięcie,noun,guess,prediction about the outcome of something
+zgadywać,verb,guess,to reach an unconfirmed conclusion
+zgadnąć,verb,guess,to reach an unconfirmed conclusion
+odgadywać,verb,guess,to solve by a correct conjecture
+odgadnąć,verb,guess,to solve by a correct conjecture
+przypuszczać,verb,guess,"to suppose, to imagine"
+domniemywać,verb,guess,"to suppose, to imagine"
+mniemać,verb,guess,"to suppose, to imagine"
 gitara,noun,guitar,musical instrument
 siłownia,noun,gym,sporting facility specialized for lifting weights and exercise
 siłka,noun,gym,sporting facility specialized for lifting weights and exercise
@@ -1255,6 +1436,13 @@ szczęśliwy,adj,happy,"contented, joyous"
 radosny,adj,happy,"contented, joyous"
 szczęśliwy,adj,happy,"fortunate, lucky"
 zadowolony,adj,happy,content (to do something); having no objection (to something)
+twardy,adj,hard,resistant to pressure
+trudny,adj,hard,requiring a lot of effort to do or understand
+ciężki,adj,hard,demanding a lot of effort to endure
+surowy,adj,hard,severe
+niepodważalny,adj,hard,unquestionable
+mocny,adj,hard,of drink: strong
+twarda,adj,hard,"of water, high in dissolved calcium compounds"
 kapelusz,noun,hat,a head covering
 kłobuk,noun,hat,a head covering
 czapka,noun,hat,a head covering
@@ -1293,6 +1481,8 @@ pomocnik,noun,help,person or persons who provides assistance with some task
 pomocnica,noun,help,person or persons who provides assistance with some task
 pomoc,noun,help,person or persons who provides assistance with some task
 pomoc,noun,help,person employed to help in the maintenance of a house
+pomagać,verb,help,transitive: provide assistance to (someone or something)
+pomóc,verb,help,transitive: provide assistance to (someone or something)
 tu,adv,here,"in, on, or at this place"
 tutaj,adv,here,"in, on, or at this place"
 tutaj,adv,here,to this place
@@ -1313,6 +1503,10 @@ hobby,noun,hobby,activity done for enjoyment in spare time
 kobuz,noun,hobby,Falco subbuteo
 w domu,adv,home,at home
 do domu,adv,home,homewards
+dom,noun,home,house or structure in which someone lives
+ojczyzna,noun,home,someone’s native land
+macierz,noun,home,someone’s native land
+dom rodzinny,noun,home,childhood or parental home
 zadanie domowe,noun,homework,work that is done at home
 praca domowa,noun,homework,work that is done at home
 mieć nadzieję,verb,hope,"to want something to happen, with expectation that it might"
@@ -1377,6 +1571,10 @@ obejmować,verb,include,"to contain, as part of a whole"
 objąć,verb,include,"to contain, as part of a whole"
 informacja,noun,information,communicable knowledge
 wiadomość,noun,information,communicable knowledge
+odsetka,noun,interest,finance: price of credit
+odsetek,noun,interest,finance: price of credit
+zainteresowanie,noun,interest,great attention and concern from someone
+interesy,noun,interest,"involvement in or link with financial, business, or other undertaking"
 ciekawić,verb,interest,to attract attention or concern
 interesować,verb,interest,to attract attention or concern
 zainteresować,verb,interest,to attract attention or concern
@@ -1387,6 +1585,11 @@ zająć,verb,interest,to attract attention or concern
 zainteresowany,adj,interested,having or showing interest
 ciekawy,adj,interesting,arousing or holding the attention
 interesujący,adj,interesting,arousing or holding the attention
+wywiad,noun,interview,conversation with journalist etc.
+interview,noun,interview,conversation with journalist etc.
+rozmowa kwalifikacyjna,noun,interview,a formal meeting for the assessment of a candidate or applicant
+rozmowa o pracę,noun,interview,a formal meeting for the assessment of a candidate or applicant
+interview,noun,interview,a formal meeting for the assessment of a candidate or applicant
 przeprowadzać wywiad,verb,interview,to have an interview
 przedstawiać,verb,introduce,to cause someone to be acquainted
 przedstawić,verb,introduce,to cause someone to be acquainted
@@ -1431,6 +1634,18 @@ zachować,verb,keep,to maintain possession of
 zatrzymać,verb,keep,to maintain possession of
 kluczowy,adj,key,indispensable
 kluczowy,adj,key,important
+klucz,noun,key,device designed to open and close a lock
+klucz,noun,key,crucial step
+klucz,noun,key,small guide explaining symbols or terminology
+legenda,noun,key,small guide explaining symbols or terminology
+klawisz,noun,key,button on a typewriter or computer keyboard
+klawisz,noun,key,part of a piano or musical keyboard
+tonacja,noun,key,scale of musical notes
+klucz,noun,key,device used to transmit Morse code
+klucz,noun,key,cryptography: piece of information used to encode or decode
+klucz,noun,key,computing: field of a database constrained to be unique
+klucz,noun,key,computing: field in a record used as a search argument
+klucz,noun,key,computing: value uniquely identifying entry in associative array
 typ,noun,kind,"type, race, category"
 rasa,noun,kind,"type, race, category"
 rodzaj,noun,kind,"type, race, category"
@@ -1458,11 +1673,21 @@ język,noun,language,particular words used
 słownictwo,noun,language,particular words used
 język,noun,language,computer language — see also computer language
 duży,adj,large,of greater size — see also big
+późny,adj,late,near the end of a period of time
+późny,adj,late,near the end of the day
+późny,adj,late,associated with the end of a period
+spóźniony,adj,late,not arriving until after an expected time
+zmarły,adj,late,"euphemism for ""dead"""
+świętej pamięci,adj,late,"euphemism for ""dead"""
 późno,adv,late,past a designated time
 później,adv,later,more late
 później,adv,later,afterward in time
 później,adv,later,at some unspecified time in the future
 śmiech,noun,laugh,expression of mirth peculiar to the human species
+śmiać się,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+rechotać,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+wyśmiewać,verb,laugh,make an object of laughter or ridicule
+obśmiewać,verb,laugh,make an object of laughter or ridicule
 uczyć się,verb,learn,to acquire knowledge or ability
 nauczyć się,verb,learn,to acquire knowledge or ability
 uczyć się,verb,learn,to be studying
@@ -1474,6 +1699,12 @@ opuszczać,verb,leave,"to depart from, end one's connection or affiliation with"
 opuścić,verb,leave,"to depart from, end one's connection or affiliation with"
 odchodzić,verb,leave,to depart (intransitive)
 odejść,verb,leave,to depart (intransitive)
+lewy,adj,left,west side of the body when one is facing north
+lewicowy,adj,left,pertaining to the political left
+po lewej stronie,adv,left,on the left side
+z lewej strony,adv,left,on the left side
+w lewo,adv,left,towards the left side
+na lewo,adv,left,towards the left side
 lewa,noun,left,the left side
 lewica,noun,left,the ensemble of left-wing political parties
 noga,noun,leg,lower limb from groin to ankle
@@ -1529,6 +1760,14 @@ delikatny,adj,light,having little force or momentum
 lekki,adj,light,"low in fat, calories, alcohol, salt, etc."
 lekkostrawny,adj,light,"low in fat, calories, alcohol, salt, etc."
 błahy,adj,light,of little significance
+światło,noun,light,electromagnetic waves
+światło,noun,light,source of illumination
+światło,noun,light,spiritual illumination
+światło,noun,light,point of view
+ogień,noun,light,flame or something used to create fire
+światło,noun,light,"window, or space for one"
+okno,noun,light,"window, or space for one"
+świetlik,noun,light,"window, or space for one"
 lubić,verb,like,to enjoy
 podobać się,verb,like,to find attractive
 nawidzieć się,verb,like,to find attractive
@@ -1552,6 +1791,11 @@ wers,noun,line,poetic: verse
 kwestia,noun,line,"sentence of dialogue, especially in a script or screenplay"
 lew,noun,lion,big cat Panthera leo
 lew,noun,lion,heraldic charge
+krajka,noun,list,strip of fabric
+lista,noun,list,enumeration or compilation of items
+spis,noun,list,enumeration or compilation of items
+lista,noun,list,computing: codified representation of a list
+przechył,noun,list,nautical: tilting or careening to one side
 spisać,verb,list,to create or recite a list
 spisywać,verb,list,to create or recite a list
 wymienić,verb,list,to create or recite a list
@@ -1578,6 +1822,8 @@ miejscowy,adj,local,of a nearby location
 tutejszy,adj,local,of a nearby location
 lokalny,adj,local,computing: having limited scope
 lokalny,adj,local,math: applying to a limited space
+długi,adj,long,having much distance from one point to another
+długi,adj,long,having great duration
 długo,adv,long,for a particular duration
 patrzeć,verb,look,to try to see
 popatrzeć,verb,look,to try to see
@@ -1594,6 +1840,12 @@ zgubić,verb,lose,be unable to follow or trace (somebody or something) any longe
 zapodziać,verb,lose,be unable to follow or trace (somebody or something) any longer
 przegrywać,verb,lose,fail to be the winner
 przegrać,verb,lose,fail to be the winner
+miłość,noun,love,strong affection
+kochanie,noun,love,object of one's romantic feelings; darling or sweetheart
+miłość,noun,love,object of one's romantic feelings; darling or sweetheart
+całusy,noun,love,closing of a letter
+zero,noun,love,zero
+jajo,noun,love,zero
 kochać,verb,love,have a strong affection for
 miłować,verb,love,have a strong affection for
 uwielbiać,verb,love,be strongly inclined towards doing
@@ -1647,6 +1899,9 @@ zamężna,adj,married,in a state of marriage; having a husband
 zamężny,adj,married,in a state of marriage; having a husband
 żonaty,adj,married,in a state of marriage; having a wife
 żonata,adj,married,in a state of marriage; having a wife
+mecz,noun,match,sporting event
+zawody,noun,match,sporting event
+zapałka,noun,match,device to make fire
 pasować,verb,match,intransitive: to agree; to be equal
 zbiegać,verb,match,intransitive: to agree; to be equal
 pasować,verb,match,transitive: to agree with; to be equal to
@@ -1826,6 +2081,10 @@ muzeum,noun,museum,building or institution
 muzyka,noun,music,"sound, organized in time in a melodious way"
 gędźba,noun,music,"sound, organized in time in a melodious way"
 musieć,verb,must,be required to
+imię,noun,name,"word or phrase indicating a particular person, place, class or thing"
+nazwa,noun,name,"word or phrase indicating a particular person, place, class or thing"
+reputacja,noun,name,reputation — see also reputation
+sława,noun,name,reputation — see also reputation
 nazywać,verb,name,to give a name to
 nazwać,verb,name,to give a name to
 wybierać,verb,name,"to mention, specify"
@@ -1840,6 +2099,8 @@ naturalny,adj,natural,of or relating to nature
 naturalny,adj,natural,without additives
 naturalny,adj,natural,as expected
 oczywisty,adj,natural,as expected
+bliski,adj,near,physically close
+bliski,adj,near,close in time
 blisko,adv,near,at or towards a position close in space or time
 potrzebować,verb,need,to have an absolute requirement for
 ujemny,adj,negative,not positive or neutral
@@ -1870,6 +2131,8 @@ wiadomość,noun,news,reports of current events
 gazeta,noun,newspaper,publication
 gazeta,noun,newspaper,paper on which newspapers are printed
 gazetówka,noun,newspaper,paper on which newspapers are printed
+następny,adj,next,following in a sequence
+przyszły,adj,next,following in a sequence
 następnie,adv,next,"In a time, place or sequence closest or following"
 dalej,adv,next,On the first subsequent occasion
 miły,adj,nice,"pleasant, satisfactory"
@@ -1878,7 +2141,11 @@ fajny,adj,nice,"pleasant, satisfactory"
 dobry,adj,nice,"pleasant, satisfactory"
 miły,adj,nice,having a pleasant taste or aroma
 noc,noun,night,period between sunset and sunrise
+północny,adj,north,of or pertaining to the north
+północny,adj,north,toward the north
+północny,adj,north,"meteorology: of wind, from the north"
 na północ,adv,north,towards the north
+północ,noun,north,compass point
 nos,noun,nose,protuberance on the face
 nos,noun,nose,tip of an object
 nie,adv,not,negates meaning of another word
@@ -1947,9 +2214,17 @@ czosnek,noun,onion,genus
 online,adj,online,connected to a network
 online,adj,online,available over the Internet
 online,adj,online,connected to the Internet
+jedyny,adj,only,alone in a category
+jedyny,adj,only,singularly superior; the best
+najlepszy,adj,only,singularly superior; the best
 tylko,adv,only,without others or anything further; exclusively
 tylko,adv,only,no more than
 dopiero,adv,only,as recently as
+otwarty,adj,open,not closed
+otwarty,adj,open,prepared to conduct business
+otwarty,adj,open,receptive
+otwarty,adj,open,public
+otwarty,adj,open,math: which is part of a predefined collection of subsets
 otwierać,verb,open,to make something accessible
 otworzyć,verb,open,to make something accessible
 otwierać,verb,open,to make accessible to customers
@@ -1961,8 +2236,32 @@ otwierać się,verb,open,to become open
 opinia,noun,opinion,thought a person has formed about a topic
 zdanie,noun,opinion,thought a person has formed about a topic
 pogląd,noun,opinion,thought a person has formed about a topic
+przeciwległy,adj,opposite,located directly across from
+przeciwny,adj,opposite,facing the other way
+przeciwny,adj,opposite,of complementary or mutually exclusive things
 naprzeciwko,adv,opposite,in an opposite position
+przeciwieństwo,noun,opposite,contrary thing
+sprzeczność,noun,opposite,contrary thing
+przeciwnik,noun,opposite,opponent
+przeciwniczka,noun,opposite,opponent
+przeciwieństwo,noun,opposite,antonym
 pomarańczowy,adj,orange,having the colour of the fruit of an orange tree
+pomarańcza,noun,orange,tree
+drzewo pomarańczowe,noun,orange,tree
+pomarańcza,noun,orange,fruit
+pomarańcz,noun,orange,fruit
+pomarańczowy,noun,orange,colour
+pomarańcz,noun,orange,colour
+porządek,noun,order,"arrangement, disposition"
+porządek,noun,order,good arrangement
+ład,noun,order,good arrangement
+rozkaz,noun,order,command
+zamówienie,noun,order,request for some product or service
+zakon,noun,order,religious group
+zakon,noun,order,society of knights
+order,noun,order,awarded decoration
+rząd,noun,order,biology: taxonomical classification
+liczba atomowa,noun,order,chemistry: a number of a chemical reaction
 ustawić,verb,order,to set in (any) order
 ustawiać,verb,order,to set in (any) order
 organizować,verb,order,to set in (any) order
@@ -1991,6 +2290,10 @@ strona,noun,page,one of the pieces of paper bound together within a book or docu
 stronica,noun,page,one of the pieces of paper bound together within a book or document
 farba,noun,paint,substance
 farbki,noun,paint,paints: set of containers or blocks of paints of different colours
+malować,verb,paint,to apply paint to
+pomalować,verb,paint,to apply paint to
+malować,verb,paint,to practise the art of painting pictures
+namalować,verb,paint,to practise the art of painting pictures
 obraz,noun,painting,an illustration or artwork using paint
 malowidło,noun,painting,an illustration or artwork using paint
 malowanie,noun,painting,the action of applying paint
@@ -2022,6 +2325,7 @@ rodzic,noun,parent,person from whom one is descended
 opiekun,noun,parent,person who acts as a parent in rearing a child — see also guardian
 opiekunka,noun,parent,person who acts as a parent in rearing a child — see also guardian
 roślina mateczna,noun,parent,biology: organism from which a plant or animal is biologically descended
+park,noun,park,ground for recreation
 parkować,verb,park,bring (a vehicle) to a halt
 zaparkować,verb,park,bring (a vehicle) to a halt
 część,noun,part,fraction of a whole
@@ -2044,6 +2348,9 @@ biba,noun,party,social gathering
 balet,noun,party,social gathering
 melanż,noun,party,social gathering
 paszport,noun,passport,official document for foreign travel
+przeszły,adj,past,having already happened; in the past
+ubiegły,adj,past,having already happened; in the past
+miniony,adj,past,having already happened; in the past
 przeszłość,noun,past,period of time that has already happened
 czas przeszły,noun,past,(grammar) past tense
 płacić,verb,pay,to give money in exchange for goods or services
@@ -2101,6 +2408,7 @@ osoba,noun,person,grammar: linguistic category
 osobisty,adj,personal,of or pertaining to a particular person
 personalny,adj,personal,of or pertaining to a particular person
 osobowy,adj,personal,grammar: denoting person
+głoska,noun,phone,speech segment
 dzwonić,verb,phone,to call (someone) on the telephone
 zadzwonić,verb,phone,to call (someone) on the telephone
 telefonować,verb,phone,to call (someone) on the telephone
@@ -2135,6 +2443,7 @@ sztuka,noun,piece,artistic creation
 świnia,noun,pig,mammal of genus Sus
 świntuch,noun,pig,nasty or disgusting person
 pies,noun,pig,derogatory slang for police officer
+różowy,adj,pink,colored/coloured between red and white
 róż,noun,pink,pale red colour
 goździk,noun,pink,flower
 miejsce,noun,place,"location, position"
@@ -2142,6 +2451,10 @@ plac,noun,place,"open space, courtyard, market square"
 miejsce,noun,place,any area of the earth
 miejsce,noun,place,"area one occupies, particularly for sitting"
 siedzenie,noun,place,"area one occupies, particularly for sitting"
+schemat,noun,plan,technical drawing
+abrys,noun,plan,technical drawing
+plan,noun,plan,set of intended actions
+plan,noun,plan,2-dimensional drawing from above
 projektować,verb,plan,to design
 zaprojektować,verb,plan,to design
 planować,verb,plan,to create a plan for
@@ -2172,6 +2485,20 @@ sztuka,noun,play,literary composition intended to be represented
 sztuka,noun,play,theatrical performance
 przedstawienie,noun,play,theatrical performance
 spektakl,noun,play,theatrical performance
+grać,verb,play,act in a manner such that one has fun
+bawić się,verb,play,act in a manner such that one has fun
+grać na,verb,play,produce music using a musical instrument (transitive sense)
+muzykować na,verb,play,produce music using a musical instrument (transitive sense)
+grać,verb,play,produce music using a musical instrument (intransitive sense)
+grać,verb,play,act in a performance
+występować,verb,play,act in a performance
+grać,verb,play,act in a performance
+grać w,verb,play,participate in (a sport or game)
+grać,verb,play,use a device to watch or listen to the indicated recording
+odtwarzać,verb,play,use a device to watch or listen to the indicated recording
+puścić,verb,play,use a device to watch or listen to the indicated recording
+udawać,verb,play,manipulate or deceive someone
+udać,verb,play,manipulate or deceive someone
 gracz,noun,player,one who plays any game or sport
 graczka,noun,player,one who plays any game or sport
 zawodnik,noun,player,one who plays any game or sport
@@ -2223,6 +2550,13 @@ pozytywowy,adj,positive,photography: of a visual image true to the original
 pozytywny,adj,positive,"favorable, desirable"
 pozytywny,adj,positive,optimistic
 możliwy,adj,possible,able but not certain to happen
+słup,noun,post,long dowel or plank protruding from the ground
+posada,noun,post,appointed position in an organization
+poczta,noun,post,method of delivering mail
+post,noun,post,individual message in a forum
+wypowiedź,noun,post,individual message in a forum
+wiadomość,noun,post,individual message in a forum
+wpis,noun,post,individual message in a forum
 wywiesić,verb,post,hang a notice in a conspicuous manner
 afiszować,verb,post,hang a notice in a conspicuous manner
 publikować,verb,post,send to an electronic forum
@@ -2235,12 +2569,23 @@ kartofel,noun,potato,plant tuber eaten as starchy vegetable
 pyra,noun,potato,plant tuber eaten as starchy vegetable
 funt,noun,pound,unit of mass (16 ounces avoirdupois)
 funt,noun,pound,unit of currency
+praktyka,noun,practice,repetition of an activity to improve skill
+ćwiczenie,noun,practice,repetition of an activity to improve skill
+praktyka,noun,practice,ongoing pursuit of a craft or profession
+nawyk,noun,practice,"customary action, habit, or behaviour"
+praktyka,noun,practice,"customary action, habit, or behaviour"
+zwyczaj,noun,practice,"customary action, habit, or behaviour"
+obyczaj,noun,practice,"customary action, habit, or behaviour"
+praktyka,noun,practice,"actual operation or experiment, in contrast to theory"
 woleć,verb,prefer,to favor
 przygotować,verb,prepare,to make ready for a specific future purpose
 przygotowywać,verb,prepare,to make ready for a specific future purpose
 przygotowywać się,verb,prepare,to make oneself ready
 przygotować się,verb,prepare,to make oneself ready
+obecny,adj,present,pertaining to the current time
+obecny,adj,present,in the immediate vicinity
 teraźniejszość,noun,present,current time
+ładny,adj,pretty,"especially of women and children: pleasant, attractive"
 całkiem,adv,pretty,somewhat
 cena,noun,price,cost required to gain possession of something
 cena,noun,price,cost of an action or deed
@@ -2268,6 +2613,8 @@ emisja,noun,program,performance of a show or other broadcast on radio or televis
 program,noun,program,software application
 projekt,noun,project,planned endeavor
 plan,noun,project,planned endeavor
+purpurowy,adj,purple,colour
+fioletowy,adj,purple,colour
 fiolet,noun,purple,colour
 kłaść,verb,put,to place something somewhere
 stawiać,verb,put,to place something somewhere
@@ -2303,6 +2650,7 @@ radioodbiornik,noun,radio,receiver
 radio,noun,radio,transmitter
 radionadajnik,noun,radio,transmitter
 radiostacja,noun,radio,transmitter
+deszcz,noun,rain,condensed water from a cloud
 deszcz pada,verb,rain,of rain: to fall from the sky
 dżdżyć,verb,rain,of rain: to fall from the sky
 czytać,verb,read,to look at and interpret letters or other information
@@ -2337,6 +2685,8 @@ powód,noun,reason,motive for an action or determination
 racja,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 powód,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 rozum,noun,reason,(the capacity of the human mind for) rational thinking
+czerwony,adj,red,having red as its colour
+rudy,adj,red,of hair: orange-brown
 czerwień,noun,red,colour
 relaksować się,verb,relax,to calm down
 rozluźnić,verb,relax,to make something loose
@@ -2359,6 +2709,24 @@ rezultat,noun,result,that which results
 wynik,noun,result,that which results
 powrót,noun,return,act of returning
 zwrot,noun,return,item that is returned
+wracać,verb,return,to come or go back
+wrócić,verb,return,to come or go back
+cofać,verb,return,"to go back in thought, narration, or argument"
+cofnąć,verb,return,"to go back in thought, narration, or argument"
+wycofywać,verb,return,"to go back in thought, narration, or argument"
+wycofać,verb,return,"to go back in thought, narration, or argument"
+cofać się,verb,return,"to turn back, retreat"
+cofnąć się,verb,return,"to turn back, retreat"
+wycofywać się,verb,return,"to turn back, retreat"
+wycofać się,verb,return,"to turn back, retreat"
+zwracać,verb,return,to give something back to its original holder or owner
+zwrócić,verb,return,to give something back to its original holder or owner
+oddawać,verb,return,to give something back to its original holder or owner
+oddać,verb,return,to give something back to its original holder or owner
+powracać,verb,return,computing: to relinquish control to the calling procedure
+powrócić,verb,return,computing: to relinquish control to the calling procedure
+zwracać,verb,return,computing: to pass back (data) to the calling procedure
+zwrócić,verb,return,computing: to pass back (data) to the calling procedure
 ryż,noun,rice,plants
 ryż,noun,rice,seeds used as food
 bogaty,adj,rich,having wealth
@@ -2373,6 +2741,20 @@ wieźć,verb,ride,to transport someone in a vehicle
 zawieźć,verb,ride,to transport someone in a vehicle
 wozić,verb,ride,to transport someone in a vehicle
 ujeżdżać,verb,ride,to mount someone to have sex with them
+prosty,adj,right,"straight, not bent"
+prostopadły,adj,right,"of an angle, 90 degrees"
+poprawny,adj,right,"complying with justice, correct — see also be right"
+prawidłowy,adj,right,"complying with justice, correct — see also be right"
+prawy,adj,right,"complying with justice, correct — see also be right"
+słuszny,adj,right,"complying with justice, correct — see also be right"
+prawy,adj,right,"of direction, opposite of left"
+prawicowy,adj,right,politics: conservative
+po prawej stronie,adv,right,on the right side
+z prawej strony,adv,right,on the right side
+w prawo,adv,right,towards the right side
+na prawo,adv,right,towards the right side
+właśnie,adv,right,exactly
+dokładnie,adv,right,exactly
 prawo,noun,right,legal or moral entitlement
 prawa,noun,right,"right, not left, side"
 prawica,noun,right,right hand
@@ -2413,6 +2795,8 @@ sól kuchenna,noun,salt,sodium chloride
 sól,noun,salt,compound of an acid and a base
 wilk morski,noun,salt,sailor
 sól,noun,salt,additional bytes inserted into an encryption
+ten sam,adj,same,not different as regards self; identical
+taki sam,adj,same,"similar, alike"
 kanapka,noun,sandwich,dish — see also open sandwich
 powiadać,verb,say,"to say, to tell"
 powiedzieć,verb,say,"to say, to tell"
@@ -2441,6 +2825,8 @@ naukowiec,noun,scientist,one whose activities make use of the scientific method
 naukowczyni,noun,scientist,one whose activities make use of the scientific method
 uczony,noun,scientist,one whose activities make use of the scientific method
 uczona,noun,scientist,one whose activities make use of the scientific method
+drugi,adj,second,second (numeral) — see also 2nd
+drugi,adj,second,that comes after the first
 sekunda,noun,second,one-sixtieth of a minute; SI unit of time
 sekunda,noun,second,unit of angular measure
 sekunda,noun,second,"short, indeterminate amount of time"
@@ -2475,6 +2861,9 @@ owca,noun,sheep,animal
 trusia,noun,sheep,one who behaves shyly
 koszula,noun,shirt,article of clothing
 but,noun,shoe,protective covering for the foot
+sklep,noun,shop,establishment that sells goods
+skład,noun,shop,establishment that sells goods
+warsztat,noun,shop,place for crafting or manufacturing
 robić zakupy,verb,shop,to visit shops
 zrobić zakupy,verb,shop,to visit shops
 zakupy,noun,shopping,activity of buying
@@ -2491,6 +2880,9 @@ powinno,verb,should,expressing likelihood
 pokaz,noun,show,entertainment
 wystawa,noun,show,entertainment
 show,noun,show,exhibition — see also exhibition
+pokazywać,verb,show,to display
+pokazać,verb,show,to display
+pokazywać,verb,show,to indicate (a fact) to be true
 deszcz,noun,shower,brief fall of rain
 kapuśniak,noun,shower,brief fall of rain
 prysznic,noun,shower,device for bathing
@@ -2540,6 +2932,11 @@ wąż,noun,snake,legless reptile
 bazyliszek,noun,snake,treacherous person
 wąż,noun,snake,treacherous person
 żmija,noun,snake,treacherous person
+śnieg,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+opad śniegu,noun,snow,instance of the falling of snow — see also snowfall
+śniegopad,noun,snow,instance of the falling of snow — see also snowfall
+śnieżnobiały,noun,snow,white color of snow
+śnieg,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
 prószyć,verb,snow,have snow fall from the atmosphere
 poprószyć,verb,snow,have snow fall from the atmosphere
 śnieg pada,verb,snow,have snow fall from the atmosphere
@@ -2566,12 +2963,19 @@ wkrótce,adv,soon,within a short time
 niedługo,adv,soon,within a short time
 przykry,adj,sorry,"poor, regrettable"
 żałosny,adj,sorry,"poor, regrettable"
+cieśnina,noun,sound,long narrow inlet
+dźwięk,noun,sound,sensation perceived by the ear
+fonia,noun,sound,sensation perceived by the ear
+dźwięk,noun,sound,vibration capable of causing this
+fonia,noun,sound,vibration capable of causing this
 brzmieć,verb,sound,to produce a sound
 dźwięczeć,verb,sound,to produce a sound
 wymawiać,verb,sound,to pronounce
 zupa,noun,soup,dish
+południowy,adj,south,of or pertaining to the south
 na południe,adv,south,towards the south
 z południa,adv,south,of wind: from the south
+południe,noun,south,compass point
 przestrzeń,noun,space,physical extent in two or three dimensions
 kosmos,noun,space,area beyond atmosphere of planets
 przestrzeń kosmiczna,noun,space,area beyond atmosphere of planets
@@ -2663,6 +3067,10 @@ jeszcze,adv,still,"up to a time, as in the preceding time"
 jeszcze,adv,still,to an even greater degree
 i tak,adv,still,nevertheless
 przystanek,noun,stop,place to get on and off mass transport
+zatrzymać się,verb,stop,to cease moving
+przestać,verb,stop,"not to continue — see also cease, desist"
+zatrzymać,verb,stop,to cause to cease moving
+zatrzymać się,verb,stop,to stay a while
 skład,noun,store,place where items may be kept
 magazyn,noun,store,place where items may be kept
 zapas,noun,store,supply held in storage
@@ -2687,6 +3095,10 @@ uczeń,noun,student,"person enrolled at a school, university or other education 
 uczennica,noun,student,"person enrolled at a school, university or other education institution"
 student,noun,student,person enrolled at a university — see also university student
 studentka,noun,student,person enrolled at a university — see also university student
+nauka,noun,study,mental effort to acquire knowledge
+uczenie się,noun,study,mental effort to acquire knowledge
+badanie,noun,study,branch of learning or object that is being studied
+gabinet,noun,study,room in a house intended for reading and writing
 uczyć się,verb,study,to revise/review materials
 studiować,verb,study,to take a course
 uczyć się,verb,study,to acquire knowledge
@@ -2775,6 +3187,7 @@ ekipa,noun,team,group of people
 drużyna,noun,team,group of people
 nastolatek,noun,teenager,person aged between thirteen and nineteen
 nastolatka,noun,teenager,person aged between thirteen and nineteen
+telefon,noun,telephone,a device used for two-way talking with other people
 dzwonić,verb,telephone,to call someone
 zadzwonić,verb,telephone,to call someone
 telefonować,verb,telephone,to call someone
@@ -2797,6 +3210,10 @@ straszny,adj,terrible,intense; extreme in degree or extent
 okropny,adj,terrible,unpleasant
 okropny,adj,terrible,very bad
 kiepski,adj,terrible,very bad
+próba,noun,test,"challenge, trial"
+sprawdzian,noun,test,academics: examination
+sprawdzian,noun,test,product examination
+test,noun,test,product examination
 testować,verb,test,to administer an examination during the academic term
 testować,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
 tekst,noun,text,a written passage
@@ -2857,6 +3274,9 @@ tytuł,noun,title,prefix or suffix added to a name
 tytuł,noun,title,"name of a book, etc"
 nazwa,noun,title,"name of a book, etc"
 nagłówek,noun,title,subject of a writing
+dzisiaj,adv,today,on the current day
+dziś,adv,today,on the current day
+w dzisiejszych czasach,adv,today,"nowadays — see also nowadays, these days"
 dzisiaj,noun,today,today (noun)
 dziś,noun,today,today (noun)
 razem,adv,together,"at the same time, in the same place"
@@ -2878,7 +3298,12 @@ sedes,noun,toilet,"fixture used for urination and defecation — see also flush 
 ubikacja,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 pomidor,noun,tomato,tomato plant
 pomidor,noun,tomato,fruit
+jutro,adv,tomorrow,on the day after the present day
 jutro,noun,tomorrow,the day after the present day
+dziś wieczorem,adv,tonight,during today's evening
+tego wieczoru,adv,tonight,during today's evening
+dziś w nocy,adv,tonight,during today's nighttime
+tej nocy,adv,tonight,during today's nighttime
 tej nocy,noun,tonight,nighttime today
 dziś w nocy,noun,tonight,nighttime today
 [nocą],noun,tonight,nighttime today
@@ -2913,6 +3338,10 @@ ogon,noun,train,that which is drawn along
 tren,noun,train,that which is drawn along
 podróż,noun,travel,act of traveling
 podróże,noun,travel,plural: series of journeys
+podróżować,verb,travel,be on a journey
+jeździć,verb,travel,be on a journey
+przemieszczać się,verb,travel,pass from here to there; transmit
+przemierzać,verb,travel,travel throughout
 drzewo,noun,tree,large woody plant
 prawidło,noun,tree,shoe tree
 drzewo,noun,tree,(graph theory) connected graph with no cycles
@@ -2947,6 +3376,18 @@ obrót,noun,turn,movement about an axis ending up with the same orientation
 kolej,noun,turn,chance to use (something) shared in sequence with others
 kolej,noun,turn,one's chance to make a move in a game
 tura,noun,turn,one's chance to make a move in a game
+obrócić się,verb,turn,move around an axis through itself
+obracać się,verb,turn,move around an axis through itself
+obrócić,verb,turn,"change the direction or orientation of, especially by rotation"
+obracać,verb,turn,"change the direction or orientation of, especially by rotation"
+skręcić,verb,turn,change one's direction of travel
+skręcać,verb,turn,change one's direction of travel
+zmieniać,verb,turn,transitive: change fundamentally
+zmienić,verb,turn,transitive: change fundamentally
+zmieniać się,verb,turn,transitive: change fundamentally
+zmienić się,verb,turn,transitive: change fundamentally
+kończyć,verb,turn,reach a certain age
+skończyć,verb,turn,reach a certain age
 dwukrotnie,adv,twice,two times
 rodzaj,noun,type,grouping based on shared characteristics
 typ,noun,type,grouping based on shared characteristics
@@ -3000,6 +3441,10 @@ wideo,noun,video,"television show, movie"
 wideo,noun,video,motion picture stored on VHS
 wizyta,noun,visit,single act of visiting
 odwiedziny,noun,visit,single act of visiting
+odwiedzać,verb,visit,to go and meet (someone)
+odwiedzić,verb,visit,to go and meet (someone)
+złożyć wizytę,verb,visit,to go and meet (someone)
+nawiedzić,verb,visit,to go and meet (someone)
 gość,noun,visitor,guest
 odwiedzający,noun,visitor,guest
 czekać,verb,wait,delay until some event
@@ -3020,6 +3465,10 @@ budzić,verb,wake,to make somebody stop sleeping
 obudzić,verb,wake,to make somebody stop sleeping
 zbudzić,verb,wake,to make somebody stop sleeping
 spacer,noun,walk,trip made by walking
+iść,verb,walk,to move on the feet
+chodzić,verb,walk,to move on the feet
+wyprowadzać,verb,walk,to take for a walk
+wyprowadzić,verb,walk,to take for a walk
 wał,noun,wall,defensive rampart
 mur,noun,wall,defensive rampart
 mur,noun,wall,structure built for defense surrounding an area
@@ -3049,6 +3498,13 @@ wachta,noun,watch,particular time period
 straż,noun,watch,person or group of people who guard
 wachta,noun,watch,group of sailors and officers
 wachta,noun,watch,period of time on duty
+oglądać,verb,watch,to look at for a period of time
+obserwować,verb,watch,to look at for a period of time
+patrzeć,verb,watch,to look at for a period of time
+oglądać,verb,watch,to observe
+obserwować,verb,watch,to observe
+zaobserwować,verb,watch,to observe
+pilnować,verb,watch,to attend or guard
 woda,noun,water,inorganic compound H₂O
 wody,noun,water,spa water
 woda,noun,water,one of the basic elements
@@ -3071,9 +3527,17 @@ tydzień,noun,week,period of seven days
 weekend,noun,weekend,break in the working week
 koniec tygodnia,noun,weekend,break in the working week
 mile widziany,adj,welcome,whose arrival is a cause of joy
+witać,verb,welcome,affirm or greet the arrival of someone
 zdrowy,adj,well,in good health
 zdrowa,adj,well,in good health
+dobrze,adv,well,accurately; competently
+dobrze,adv,well,to a significant degree
+nieźle,adv,well,(slang) very
+na zachód,adj,west,towards the west
+zachodni,adj,west,western
+zachodni,adj,west,occidental
 na zachód,adv,west,towards the west
+zachód,noun,west,compass point
 kiedy,adv,when,"at what time, as a direct question"
 gdy,adv,when,"at what time, as a direct question"
 gdzie,adv,where,at what place; to what place; from what place
@@ -3084,6 +3548,18 @@ skąd,adv,where,at or in which place
 dokąd,adv,where,to what place
 dokąd,adv,where,to which place or situation
 gdzie,adv,where,in what situation
+biały,adj,white,bright and colourless
+biały,adj,white,of or relating to Caucasians
+białoskóry,adj,white,of or relating to Caucasians
+biały,adj,white,designated for use by Caucasians
+białoskóry,adj,white,designated for use by Caucasians
+biały,adj,white,relatively light or pale in colour
+biały,adj,white,pale or pallid
+blady,adj,white,pale or pallid
+biały,adj,white,"of coffee or tea, containing milk etc."
+biały,adj,white,board games: deemed to belong to the white set
+biały,adj,white,"grey, as from old age"
+siwy,adj,white,"grey, as from old age"
 biel,noun,white,color
 białość,noun,white,color
 biały,noun,white,person of European descent
@@ -3135,6 +3611,14 @@ dzieło,noun,work,"literary, artistic, or intellectual production"
 utwór,noun,work,"literary, artistic, or intellectual production"
 praca,noun,work,"literary, artistic, or intellectual production"
 praca,noun,work,physics: measure of energy expended in moving an object
+pracować,verb,work,to do a specific task
+działać,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+wprowadzić,verb,work,to set into action
+zużuwać,verb,work,to exhaust
+obrabiać,verb,work,"to shape, form, or improve a material"
+przedzierać się,verb,work,to cause to move or progress
+wyszywać,verb,work,to embroider with thread
+pracować,verb,work,to cause to ferment
 robotnik,noun,worker,person who performs labor
 robotnica,noun,worker,person who performs labor
 robotnica,noun,worker,insect
@@ -3174,8 +3658,12 @@ rok,noun,year,time it takes for any planetary body to make one revolution around
 rok,noun,year,a period between set dates that mark a year
 rok,noun,year,a scheduled part of a calendar year spent in a specific activity
 rok,noun,year,a level or grade at school or college
+żółty,adj,yellow,having yellow as its color
+tchórzliwy,adj,yellow,lacking courage
 żółć,noun,yellow,color
 żółty,noun,yellow,color
+wczoraj,adv,yesterday,on the day before today
+na wczoraj,adv,yesterday,as soon as possible
 wczoraj,noun,yesterday,day before today
 młody,adj,young,in the early part of life or growth
 młodzieńczy,adj,young,belonging in the early part of life

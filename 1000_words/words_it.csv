@@ -83,6 +83,8 @@ animale,noun,animal,organism other than human
 bestia,noun,animal,organism other than human
 animale,noun,animal,person who behaves wildly
 bestia,noun,animal,person who behaves wildly
+risposta,noun,answer,response
+risposta,noun,answer,document filed in response to a complaint
 rispondere,verb,answer,to make a reply or response to
 rispondere,verb,answer,to respond to a call
 rispondere,verb,answer,to suit a need or purpose satisfactorily
@@ -170,6 +172,16 @@ bella,noun,baby,form of address to a man or a woman considered to be attractive
 indietro,adv,back,to or in a previous condition or place
 a posto,adv,back,to or in a previous condition or place
 indietro,adv,back,away from the front or from an edge
+schiena,noun,back,the rear of body
+dorso,noun,back,the rear of body
+retro,noun,back,the reverse side
+dietro,noun,back,the reverse side
+rovescio,noun,back,the reverse side
+fondo,noun,back,that which is farthest away from the front
+fondo,noun,back,the part of something that goes last
+dietro,noun,back,the part of something that goes last
+difensore,noun,back,a position behind most players on the team
+terzino,noun,back,a position behind most players on the team
 cattivo,adj,bad,unfavorable; negative
 sbagliato,adj,bad,not suitable or fitting
 cattivo,adj,bad,"evil, wicked"
@@ -300,12 +312,24 @@ dito d'onore,noun,bird,vulgar hand gesture
 uccello,noun,bird,penis
 compleanno,noun,birthday,anniversary
 data di nascita,noun,birthday,date of birth — see also date of birth
+nero,adj,black,absorbing all light
+nero,adj,black,without light
+nero,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
 nero,noun,black,colour/color
 nero,noun,black,dark-skinned person — see also Negro
 nera,noun,black,dark-skinned person — see also Negro
 diario in rete,noun,blog,a personal or corporate website
 blog,noun,blog,a personal or corporate website
 biondo,adj,blond,having blond hair
+blu,adj,blue,"blue-coloured — see also dark blue, light blue"
+azzurro,adj,blue,"blue-coloured — see also dark blue, light blue"
+triste,adj,blue,depressed
+depresso,adj,blue,depressed
+malinconico,adj,blue,depressed
+a luci rosse,adj,blue,pornographic
 blu,noun,blue,colour
 azzurro,noun,blue,colour
 barca,noun,boat,water craft
@@ -382,6 +406,78 @@ pane,noun,bread,baked dough made from cereals
 pausa,noun,break,"rest or pause, usually from work"
 sosta,noun,break,"rest or pause, usually from work"
 passaggio,noun,break,music: a transition area between a singer’s vocal registers
+rompersi,verb,break,intransitive: to separate into (to end up in) two or more pieces
+spezzarsi,verb,break,intransitive: to separate into (to end up in) two or more pieces
+rompere,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+spezzare,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+rompere,verb,break,"intransitive, of a bone: to crack"
+fratturare,verb,break,"intransitive, of a bone: to crack"
+fratturare,verb,break,transitive: to cause (a bone) to crack
+suddividere,verb,break,to divide (money) into smaller units
+cambiare,verb,break,to divide (money) into smaller units
+scambiare,verb,break,to divide (money) into smaller units
+frantumare,verb,break,to cause a person to lose spirit or will
+annullare,verb,break,to cause a person to lose spirit or will
+annientare,verb,break,to cause a person to lose spirit or will
+distruggere,verb,break,to cause a person to lose spirit or will
+addomesticare,verb,break,to turn an animal into a beast of burden
+sottomettere,verb,break,to turn an animal into a beast of burden
+porre fine,verb,break,to cause a habit to no longer exist
+terminare,verb,break,to cause a habit to no longer exist
+fare fallire,verb,break,to ruin financially
+eliminare,verb,break,to ruin financially
+chiudere,verb,break,to ruin financially
+oltrepassare,verb,break,transitive: to do that which is forbidden by (something)
+sfondare,verb,break,transitive: to do that which is forbidden by (something)
+superare,verb,break,transitive: to do that which is forbidden by (something)
+contrattaccare,verb,break,"gaming: to design or make a powerful, unbalancing but legal move"
+rompersi,verb,break,intransitive: to stop functioning properly or altogether
+scassarsi,verb,break,intransitive: to stop functioning properly or altogether
+fermare,verb,break,transitive: to cause to stop functioning
+interrompere,verb,break,transitive: to cause to stop functioning
+stoppare,verb,break,transitive: to cause to stop functioning
+rompere,verb,break,to cause to no longer bar
+scassinare,verb,break,to cause to no longer bar
+spaccare,verb,break,to cause to no longer bar
+infrangersi,verb,break,"of a wave, to collapse into a surf"
+frantumarsi,verb,break,"of a wave, to collapse into a surf"
+fracassarsi,verb,break,"of a wave, to collapse into a surf"
+esaurire,verb,break,of a spell of weather: to end
+dissiparsi,verb,break,of a spell of weather: to end
+esaurirsi,verb,break,of a spell of weather: to end
+interrompere,verb,break,to interrupt or cease one's work or occupation temporarily
+fare una sosta,verb,break,to interrupt or cease one's work or occupation temporarily
+fare una pausa,verb,break,to interrupt or cease one's work or occupation temporarily
+sospendere,verb,break,to interrupt or cease one's work or occupation temporarily
+interrompere,verb,break,to interrupt a fall
+fermare,verb,break,to interrupt a fall
+trapelare,verb,break,to disclose or make known an item of news
+filtrare,verb,break,to disclose or make known an item of news
+diffondere,verb,break,to disclose or make known an item of news
+spuntare,verb,break,of morning: to arrive
+nascere,verb,break,of morning: to arrive
+fare capolino,verb,break,of morning: to arrive
+apparire,verb,break,of morning: to arrive
+rompere,verb,break,to become audible suddenly
+irrompere,verb,break,to become audible suddenly
+prorompere,verb,break,to become audible suddenly
+invadere,verb,break,to become audible suddenly
+interrompere,verb,break,to change a steady state abruptly
+bloccare,verb,break,to change a steady state abruptly
+rompere,verb,break,to change a steady state abruptly
+prorompere,verb,break,to suddenly become
+irrompere,verb,break,to suddenly become
+volgersi,verb,break,to suddenly become
+frantumare,verb,break,to do better than a record
+degradare,verb,break,to reduce the military rank of
+retrocedere,verb,break,to reduce the military rank of
+terminare,verb,break,to end a connection
+interrompere,verb,break,to end a connection
+staccare,verb,break,to end a connection
+sconnettere,verb,break,to end a connection
+contrattaccare,verb,break,to counter-attack
+rispondere,verb,break,to counter-attack
+replicare,verb,break,to counter-attack
 colazione,noun,breakfast,first meal of the day
 prima colazione,noun,breakfast,first meal of the day
 portare,verb,bring,to transport toward somebody/somewhere
@@ -391,6 +487,8 @@ fratello,noun,brother,male fellow member of a religious community
 confratello,noun,brother,male fellow member of a religious community
 fratello,noun,brother,peer
 pari,noun,brother,peer
+marrone,adj,brown,having a brown colour
+bruno,adj,brown,having a brown colour
 marrone,noun,brown,colour
 castano,noun,brown,colour
 costruire,verb,build,(transitive) to form by combining materials or parts
@@ -407,6 +505,10 @@ bus,noun,bus,electrical conductor
 azienda,noun,business,commercial enterprise or establishment
 compagnia,noun,business,commercial enterprise or establishment
 affari,noun,business,"commercial, industrial or professional activity"
+indaffarato,adj,busy,crowded with business or activities
+occupato,adj,busy,doing a great deal
+occupato,adj,busy,engaged
+impegnato,adj,busy,engaged
 burro,noun,butter,soft foodstuff made from milk
 butirro,noun,butter,soft foodstuff made from milk
 comprare,verb,buy,to obtain something with money
@@ -428,6 +530,13 @@ saluto,noun,call,social visit
 visita,noun,call,social visit
 capatina,noun,call,social visit
 turno,noun,call,type of work shift
+chiamare,verb,call,"to request, summon, or beckon"
+chiamare,verb,call,to cry or shout
+gridare,verb,call,to cry or shout
+chiamare,verb,call,to contact by telephone
+visitare,verb,call,to pay a social visit
+nominare,verb,call,to name or refer to
+coprire,verb,call,to match or equal the amount of poker chips in the pot as the player that bet
 fotocamera,noun,camera,still camera
 macchina fotografica,noun,camera,still camera
 videocamera,noun,camera,movie camera
@@ -440,6 +549,8 @@ tacere,verb,can,to shut up
 chiudere,verb,can,to shut up
 licenziare,verb,can,to fire or dismiss an employee
 non potere,verb,cannot,"cannot — see also can, not"
+capitale,noun,capital,money and wealth
+capitello,noun,capital,uppermost part of a column
 macchina,noun,car,"automobile, a vehicle steered by a driver"
 auto,noun,car,"automobile, a vehicle steered by a driver"
 automobile,noun,car,"automobile, a vehicle steered by a driver"
@@ -480,6 +591,16 @@ spiccioli,noun,change,small denominations of money given in exchange for a large
 cambio,noun,change,a replacement
 ricambio,noun,change,a replacement
 resto,noun,change,balance returned after a purchase
+cambiare,verb,change,to become something different
+mutare,verb,change,to become something different
+cambiare,verb,change,to make something into something else
+trasformare,verb,change,to make something into something else
+cambiare,verb,change,to replace
+rimpiazzare,verb,change,to replace
+sostituire,verb,change,to replace
+cambiarsi,verb,change,to replace one's own clothing
+cambiare,verb,change,to replace the clothing of (the one wearing it)
+cambiare,verb,change,to transfer to another vehicle
 carta,noun,chart,navigator's map
 carta nautica,noun,chart,navigator's map
 carta geografica,noun,chart,navigator's map
@@ -553,6 +674,10 @@ classe,noun,class,set theory: collection of sets definable by a shared property
 classe,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 classe,noun,classroom,room in a school
 aula,noun,classroom,room in a school
+pulito,adj,clean,not dirty
+pulito,adj,clean,not having used mind-altering or mood-changing substances
+pulito,adj,clean,without restrictions or penalties
+pulito,adj,clean,not in possession of weapons or contraband such as drugs
 pulire,verb,clean,(transitive) to remove dirt from a place or object
 nettare,verb,clean,(transitive) to remove dirt from a place or object
 ordinare,verb,clean,(transitive) to tidy up
@@ -596,6 +721,12 @@ caffè,noun,coffee,beverage
 chicco di caffè,noun,coffee,beans
 caffè,noun,coffee,plant
 caffè,noun,coffee,colour
+freddo,adj,cold,having a low temperature
+gelato,adj,cold,having a low temperature
+gelido,adj,cold,having a low temperature
+freddo,adj,cold,of the weather
+fare freddo,adj,cold,of the weather
+freddo,adj,cold,unfriendly
 freddo,noun,cold,low temperature
 gelo,noun,cold,low temperature
 raffreddore,noun,cold,illness
@@ -625,6 +756,10 @@ impresa,noun,company,"in legal context, a corporation"
 compagnia,noun,company,"in legal context, a corporation"
 compagnia,noun,company,military unit
 paragonare,verb,compare,to assess the similarities between two things or between one thing and another
+completo,adj,complete,with everything included
+completa,adj,complete,with everything included
+completato,adj,complete,finished; ended; concluded; completed
+concluso,adj,complete,finished; ended; concluded; completed
 completare,verb,complete,to finish
 portare a termine,verb,complete,to finish
 concludere,verb,complete,to finish
@@ -670,12 +805,19 @@ accettabile,adj,cool,"colloquial: all right, acceptable"
 tranquillo,adj,cool,colloquial: not upset
 calmo,adj,cool,colloquial: not upset
 imperturbabile,adj,cool,colloquial: not upset
+corretto,adj,correct,free from error
+esatto,adj,correct,free from error
+corretto,adj,correct,with good manners
+ineccepibile,adj,correct,with good manners
 correggere,verb,correct,to make something become right that was previously wrong
 emendare,verb,correct,to make something become right that was previously wrong
 rettificare,verb,correct,to make something become right that was previously wrong
 correggere,verb,correct,to inform someone of their error
 precisare,verb,correct,to inform someone of their error
 puntualizzare,verb,correct,to inform someone of their error
+costo,noun,cost,amount of money spent for a purpose
+spesa,noun,cost,amount of money spent for a purpose
+discapito,noun,cost,negative consequence or loss
 costare,verb,cost,"to incur a charge, a price"
 paese,noun,country,region of land
 landa,noun,country,region of land
@@ -740,6 +882,8 @@ pà,noun,dad,informal: a father
 papà,noun,dad,familiar address of one's own father
 babbo,noun,dad,familiar address of one's own father
 pà,noun,dad,familiar address of one's own father
+ballo,noun,dance,movements to music
+danza,noun,dance,movements to music
 ballare,verb,dance,move rhythmically to music
 danzare,verb,dance,move rhythmically to music
 ballerino,noun,dancer,person who dances
@@ -787,6 +931,16 @@ delizioso,adj,delicious,pleasing to taste
 gustoso,adj,delicious,pleasing to taste
 descrivere,verb,describe,to represent in words
 descrizione,noun,description,account in words
+disegno,noun,design,plan
+design,noun,design,plan
+progetto,noun,design,plan
+pianta,noun,design,plan
+design,noun,design,pattern
+intenzione,noun,design,intention
+piano,noun,design,intention
+progettazione,noun,design,intention
+design,noun,design,appearance
+design,noun,design,art of designing
 progettare,verb,design,to plan an artwork etc.
 scrivania,noun,desk,table for writing and reading
 dettaglio,noun,detail,part small enough to escape casual notice
@@ -884,8 +1038,16 @@ consumare,verb,draw,to consume
 pescare,verb,draw,cardgames: to take the top card of a deck into hand
 scambiare,verb,draw,poker: to trade in cards
 cambiare,verb,draw,poker: to trade in cards
+vestito,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+abito,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+abbigliamento,noun,dress,apparel or clothing
 vestire,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 vestirsi,verb,dress,to put on clothes — see also get dressed
+bevanda,noun,drink,served beverage
+bibita,noun,drink,served beverage
+bevanda,noun,drink,served alcoholic beverage
+bevanda alcolica,noun,drink,served alcoholic beverage
+bevuta,noun,drink,action of drinking
 bere,verb,drink,consume liquid through the mouth
 bere,verb,drink,consume alcoholic beverages
 bere alcolici,verb,drink,consume alcoholic beverages
@@ -919,9 +1081,25 @@ informatore,noun,ear,slang: police informant
 canarino,noun,ear,slang: police informant
 delatore,noun,ear,slang: police informant
 spione,noun,ear,slang: police informant
+presto,adj,early,at a time in advance of the usual
+precoce,adj,early,at a time in advance of the usual
+anticipato,adj,early,at a time in advance of the usual
+anticipata,adj,early,at a time in advance of the usual
+anticipo,adj,early,at a time in advance of the usual
+precoce,adj,early,arriving at a time before expected
+primo,adj,early,near but after the start or beginning
+precoce,adj,early,illness: having begun to occur
+iniziale,adj,early,illness: having begun to occur
 presto,adv,early,at a time before expected
+orientale,adj,east,in or towards the east
+di levante,adj,east,meteorology: easterly
+orientale,adj,east,of or pertaining to the east
+da est,adj,east,from the East
 a est,adv,east,towards the east
 verso est,adv,east,towards the east
+est,noun,east,compass point
+oriente,noun,east,compass point
+levante,noun,east,compass point
 facile,adj,easy,requiring little skill or effort
 mangiare,verb,eat,"to ingest — see also consume, ingest"
 mangiare,verb,eat,eat a meal
@@ -930,10 +1108,20 @@ uovo,noun,egg,"approximately spherical or ellipsoidal body produced by birds, in
 uovo,noun,egg,edible egg of a domestic fowl; the contents of such an egg or eggs used as food
 elefante,noun,elephant,mammal
 altro,adv,else,word that implies any result with the exception of the one being referred to
+posta elettronica,noun,email,system for sending messages and datas by means of computers connected together in a network
+e-mail,noun,email,system for sending messages and datas by means of computers connected together in a network
+mail,noun,email,system for sending messages and datas by means of computers connected together in a network
+teleposta,noun,email,system for sending messages and datas by means of computers connected together in a network
+messaggio di posta elettronica,noun,email,message sent through email
+e-mail,noun,email,message sent through email
+mail,noun,email,message sent through email
+indirizzo di posta elettronica,noun,email,email address — see also e-mail address
+indirizzo e-mail,noun,email,email address — see also e-mail address
 inviare via e-mail/mail,verb,email,(transitive) to send (something) through email
 inviare per e-mail/mail,verb,email,(transitive) to send (something) through email
 scrivere un'e-mail/una mail,verb,email,"(intransitive) to send, or compose and send, an email or emails"
 inviare un'e-mail/una mail,verb,email,"(intransitive) to send, or compose and send, an email or emails"
+fine,noun,end,extreme part
 finire,verb,end,"intransitive: be finished, be terminated"
 finire,verb,end,"transitive: finish, terminate (something)"
 godere,verb,enjoy,to receive pleasure or satisfaction from something
@@ -968,6 +1156,7 @@ entusiasta,adj,excited,having great enthusiasm and energy
 eccitato,adj,excited,being in a state of higher energy
 agitato,adj,excited,being in a state of higher energy
 emozionante,adj,exciting,causing excitement
+esercizio,noun,exercise,physical activity intended to improve strength and fitness
 esercitare,verb,exercise,exert for the sake of training
 esercitarsi,verb,exercise,perform physical activity
 allenarsi,verb,exercise,perform physical activity
@@ -1004,12 +1193,29 @@ fatto,noun,fact,something actual
 fatto,noun,fact,something concrete used as a basis for further interpretation
 dati,noun,fact,information about a particular subject
 caduta,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+cadere,verb,fall,move to a lower position under the effect of gravity
+cascare,verb,fall,move to a lower position under the effect of gravity
+scendere,verb,fall,come down or descend
+prostrarsi,verb,fall,prostrate oneself
+deporre,verb,fall,be brought to earth or be overthrown
+rovesciare,verb,fall,be brought to earth or be overthrown
+cadere,verb,fall,collapse; be overthrown or defeated
+cadere,verb,fall,die
+morire,verb,fall,die
+cadere,verb,fall,be allotted to
+arrivare,verb,fall,be allotted to
+diventare,verb,fall,become or change into
+divenire,verb,fall,become or change into
+cadere,verb,fall,become or change into
 falso,adj,false,"untrue, not factual, wrong"
 errato,adj,false,"untrue, not factual, wrong"
 bugiardo,adj,false,"untrue, not factual, wrong"
 posticcio,adj,false,"spurious, artificial"
 finto,adj,false,"spurious, artificial"
 falso,adj,false,state in Boolean logic that indicates a negative result
+famiglia,noun,family,"immediate family [as a group], e.g. parents and their children"
+famiglia,noun,family,"group of people related by blood, marriage, law, or custom"
+famiglia,noun,family,"rank in a taxonomic classification, above both genus and species"
 famoso,adj,famous,well known
 fantastico,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
 fantastica,adj,fantastic,"wonderful, marvelous, excellent, extraordinarily good"
@@ -1022,6 +1228,13 @@ contadino,noun,farmer,person who works the land and/or who keeps livestock
 contadina,noun,farmer,person who works the land and/or who keeps livestock
 agricoltrice,noun,farmer,person who works the land and/or who keeps livestock
 fattoressa,noun,farmer,person who works the land and/or who keeps livestock
+fisso,adj,fast,firmly or securely fixed in place
+veloce,adj,fast,moving or capable of moving with great speed
+rapido,adj,fast,moving or capable of moving with great speed
+rapida,adj,fast,moving or capable of moving with great speed
+profondo,adj,fast,of sleep: deep or sound
+resistente,adj,fast,of a dye: not running or fading
+avanti,adj,fast,ahead of the correct time or schedule
 saldamente,adv,fast,in a firm or secure manner
 profondamente,adv,fast,of sleeping: deeply or soundly
 rapidamente,adv,fast,with great speed
@@ -1142,6 +1355,9 @@ pallone da calcio,noun,football,ball
 dimenticare,verb,forget,to lose remembrance of
 scordare,verb,forget,to lose remembrance of
 dimenticare,verb,forget,to unintentionally not do
+forma,noun,form,shape or visible structure
+formulario,noun,form,document to be filled in
+modulo,noun,form,document to be filled in
 formare,verb,form,to give shape
 formarsi,verb,form,(intransitive) to take shape
 formare,verb,form,(linguistics) to create a word
@@ -1166,6 +1382,15 @@ amica,noun,friend,(sarcastic) form of address used to warn someone
 amichevole,adj,friendly,"approachable, warm"
 accogliente,adj,friendly,"approachable, warm"
 gentile,adj,friendly,characteristic of friendliness
+davanti,noun,front,facing side
+difronte,noun,front,facing side
+avanti,noun,front,facing side
+frontale,noun,front,facing side
+parte anteriore,noun,front,facing side
+facciata,noun,front,facing side
+facciata,noun,front,public face of covert organisation
+fronte,noun,front,meteorology: interface between airmasses
+fronte,noun,front,military: area or line of conflict
 frutto,noun,fruit,part of plant
 frutto,noun,fruit,food
 frutta,noun,fruit,food
@@ -1251,6 +1476,7 @@ nonno,noun,grandfather,grandfather (from either side)
 nonna,noun,grandmother,mother of someone's parent
 nonno,noun,grandparent,parent of one's parent
 nonna,noun,grandparent,parent of one's parent
+grigio,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 grigio,noun,gray,colour
 grande,adj,great,"very big, large scale"
 formidabile,adj,great,very good
@@ -1261,6 +1487,9 @@ eccellente,adj,great,very good
 super,adj,great,very good
 magno,adj,great,important title
 magna,adj,great,important title
+verde,adj,green,having green as its colour
+verdastro,adj,green,sickly
+verde di invidia,adj,green,envious
 verde,noun,green,colour
 verde,noun,green,member of a green party
 gruppo,noun,group,number of things or persons being in some relation to each other
@@ -1278,6 +1507,10 @@ crescere,verb,grow,(transitive) to cause something to become bigger
 diventare,verb,grow,to assume a condition or quality
 apparire,verb,grow,to assume a condition or quality
 congettura,noun,guess,prediction about the outcome of something
+indovinare,verb,guess,to reach an unconfirmed conclusion
+azzeccare,verb,guess,to solve by a correct conjecture
+supponere,verb,guess,"to suppose, to imagine"
+presumere,verb,guess,"to suppose, to imagine"
 chitarra,noun,guitar,musical instrument
 palestra,noun,gym,sporting facility specialized for lifting weights and exercise
 pelo,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
@@ -1300,6 +1533,16 @@ fortunato,adj,happy,"fortunate, lucky"
 contento,adj,happy,content (to do something); having no objection (to something)
 soddisfatto,adj,happy,content (to do something); having no objection (to something)
 felice,adj,happy,"appropriate, apt, felicitous"
+duro,adj,hard,resistant to pressure
+duro,adj,hard,requiring a lot of effort to do or understand
+difficile,adj,hard,requiring a lot of effort to do or understand
+intenso,adj,hard,requiring a lot of effort to do or understand
+arduo,adj,hard,demanding a lot of effort to endure
+difficile,adj,hard,severe
+severo,adj,hard,severe
+indiscutibile,adj,hard,unquestionable
+forte,adj,hard,of drink: strong
+dura,adj,hard,"of water, high in dissolved calcium compounds"
 sodo,adv,hard,with much force or effort (related to act of think)
 cappello,noun,hat,a head covering
 odiare,verb,hate,to dislike intensely
@@ -1333,6 +1576,8 @@ aiuto,noun,help,action given to provide assistance
 ausilio,noun,help,action given to provide assistance
 aiutante,noun,help,person or persons who provides assistance with some task
 guida,noun,help,textual support of a software application
+aiutare,verb,help,transitive: provide assistance to (someone or something)
+aiutare,verb,help,intransitive: provide assistance
 qui,adv,here,"in, on, or at this place"
 qua,adv,here,"in, on, or at this place"
 qui,adv,here,to this place
@@ -1359,6 +1604,14 @@ falco,noun,hobby,Falco subbuteo
 falcone,noun,hobby,Falco subbuteo
 a casa,adv,home,at home
 a casa,adv,home,homewards
+casa,noun,home,house or structure in which someone lives
+focolare,noun,home,house or structure in which someone lives
+patria,noun,home,someone’s native land
+paese,noun,home,someone’s native land
+habitat,noun,home,habitat
+dimora,noun,home,habitat
+meta,noun,home,goal (sports)
+traguardo,noun,home,goal (sports)
 compito,noun,homework,work that is done at home
 compiti,noun,homework,work that is done at home
 sperare,verb,hope,"to want something to happen, with expectation that it might"
@@ -1441,10 +1694,18 @@ includere,verb,include,"to contain, as part of a whole"
 comprendere,verb,include,"to contain, as part of a whole"
 comportare,verb,include,"to contain, as part of a whole"
 informazione,noun,information,communicable knowledge
+interesse,noun,interest,finance: price of credit
+interesse,noun,interest,great attention and concern from someone
+interesse,noun,interest,attention that is given to or received from someone or something
+attenzione,noun,interest,attention that is given to or received from someone or something
+interesse,noun,interest,something one is interested in
+interessamento,noun,interest,something one is interested in
 interessare,verb,interest,to attract attention or concern
 attrarre,verb,interest,to attract attention or concern
 interessato,adj,interested,having or showing interest
 interessante,adj,interesting,arousing or holding the attention
+intervista,noun,interview,conversation with journalist etc.
+colloquio,noun,interview,a formal meeting for the assessment of a candidate or applicant
 intervistare,verb,interview,to have an interview
 presentare,verb,introduce,to cause someone to be acquainted
 presentare,verb,introduce,to make something or someone known by formal announcement or recommendation
@@ -1489,6 +1750,18 @@ chiave,adj,key,indispensable
 essenziale,adj,key,indispensable
 indispensabile,adj,key,indispensable
 chiave,adj,key,important
+chiave,noun,key,device designed to open and close a lock
+chiave,noun,key,crucial step
+cruciale,noun,key,crucial step
+legenda,noun,key,small guide explaining symbols or terminology
+tasto,noun,key,button on a typewriter or computer keyboard
+tasto,noun,key,part of a piano or musical keyboard
+chiave,noun,key,scale of musical notes
+tasto telegrafico,noun,key,device used to transmit Morse code
+chiave,noun,key,cryptography: piece of information used to encode or decode
+chiave,noun,key,computing: field of a database constrained to be unique
+chiave,noun,key,computing: field in a record used as a search argument
+chiave,noun,key,computing: value uniquely identifying entry in associative array
 genere,noun,kind,"type, race, category"
 tipo,noun,kind,"type, race, category"
 specie,noun,kind,atypical specimen
@@ -1516,6 +1789,11 @@ linguaggio,noun,language,computer language — see also computer language
 grande,adj,large,of greater size — see also big
 ampio,adj,large,of greater size — see also big
 vasto,adj,large,of greater size — see also big
+tardo,adj,late,near the end of a period of time
+tardo,adj,late,near the end of the day
+in ritardo,adj,late,not arriving until after an expected time
+fu,adj,late,"euphemism for ""dead"""
+defunto,adj,late,"euphemism for ""dead"""
 tardi,adv,late,past a designated time
 più in ritardo,adv,later,more late
 più tardi,adv,later,afterward in time
@@ -1527,6 +1805,7 @@ ludibrio,noun,laugh,something that provokes mirth or scorn
 derisione,noun,laugh,something that provokes mirth or scorn
 disdegno,noun,laugh,something that provokes mirth or scorn
 ilarità,noun,laugh,something that provokes mirth or scorn
+ridere,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
 imparare,verb,learn,to acquire knowledge or ability
 apprendere,verb,learn,to acquire knowledge or ability
 scoprire,verb,learn,to acquire knowledge or ability
@@ -1544,6 +1823,9 @@ lasciare,verb,leave,"to depart from, end one's connection or affiliation with"
 abbandonare,verb,leave,"to depart from, end one's connection or affiliation with"
 partire,verb,leave,to depart (intransitive)
 andarsene,verb,leave,to depart (intransitive)
+sinistro,adj,left,west side of the body when one is facing north
+a sinistra,adv,left,on the left side
+a sinistra,adv,left,towards the left side
 sinistra,noun,left,the left side
 sinistra,noun,left,the ensemble of left-wing political parties
 gamba,noun,leg,lower limb from groin to ankle
@@ -1580,6 +1862,9 @@ chiaro m or f chiara,adj,light,pale in colour
 leggero,adj,light,of low weight
 leggero,adj,light,"low in fat, calories, alcohol, salt, etc."
 leggera,adj,light,"low in fat, calories, alcohol, salt, etc."
+luce,noun,light,electromagnetic waves
+luce,noun,light,source of illumination
+luce,noun,light,spiritual illumination
 piacere a,verb,like,to enjoy
 piacere,verb,like,to find attractive
 corda,noun,line,"rope, cord, or string"
@@ -1634,6 +1919,9 @@ linea,noun,line,population of cells derived from a single cell and containing th
 linea,noun,line,perfusion line
 leone,noun,lion,big cat Panthera leo
 leone,noun,lion,heraldic charge
+lista,noun,list,enumeration or compilation of items
+elenco,noun,list,enumeration or compilation of items
+listato,noun,list,computing: codified representation of a list
 elencare,verb,list,to create or recite a list
 listare,verb,list,to create or recite a list
 ascoltare,verb,listen,to pay attention to a sound
@@ -1649,6 +1937,8 @@ vivere,verb,live,be alive
 abitare,verb,live,have permanent residence
 locale,adj,local,of a nearby location
 locale,adj,local,medicine: of or pertaining to a restricted part of an organism
+lungo,adj,long,having much distance from one point to another
+lungo,adj,long,having great duration
 distante,adv,long,over a great distance
 tempo,adv,long,for a particular duration
 quanto tempo,adv,long,for a particular duration
@@ -1665,6 +1955,14 @@ perdere,verb,lose,shed (weight)
 perdere,verb,lose,have (somebody of one's kin) die
 perdere,verb,lose,be unable to follow or trace (somebody or something) any longer
 perdere,verb,lose,fail to be the winner
+amore,noun,love,strong affection
+amore,noun,love,object of one's romantic feelings; darling or sweetheart
+amore,noun,love,colloquial: term of friendly address
+amo',noun,love,colloquial: term of friendly address
+ammò,noun,love,colloquial: term of friendly address
+fare l'amore,noun,love,euphemistic: sexual activity
+baci,noun,love,closing of a letter
+zero,noun,love,zero
 amare,verb,love,have a strong affection for
 volere bene,verb,love,have a strong affection for
 volere bene,verb,love,be strongly inclined towards doing
@@ -1703,6 +2001,18 @@ sposato,adj,married,in a state of marriage; having a wife or a husband
 coniugato,adj,married,in a state of marriage; having a wife or a husband
 sposata,adj,married,in a state of marriage; having a husband
 sposato,adj,married,in a state of marriage; having a wife
+incontro,noun,match,sporting event
+partita,noun,match,sporting event
+gara,noun,match,sporting event
+pari,noun,match,attribute equaling or exceeding
+simile,noun,match,attribute equaling or exceeding
+(degno) avversario,noun,match,attribute equaling or exceeding
+abbinamento,noun,match,equivalence
+accoppiata,noun,match,equivalence
+corrispondenza,noun,match,equivalence
+fiammifero,noun,match,device to make fire
+zolfanello,noun,match,device to make fire
+cerino,noun,match,device to make fire
 incontrarsi,verb,match,intransitive: to agree; to be equal
 corrispondere,verb,match,intransitive: to agree; to be equal
 uguagliare,verb,match,intransitive: to agree; to be equal
@@ -1852,6 +2162,9 @@ spartito,noun,music,sheet music
 partitura,noun,music,sheet music
 dovere,verb,must,be required to
 dovere,verb,must,"said about something that is very likely, probable, or certain to be true"
+nome,noun,name,"word or phrase indicating a particular person, place, class or thing"
+fama,noun,name,reputation — see also reputation
+riputazione,noun,name,reputation — see also reputation
 denominare,verb,name,to give a name to
 nominare,verb,name,"to mention, specify"
 specificare,verb,name,"to identify, define, specify"
@@ -1860,6 +2173,7 @@ nominare,verb,name,to designate for a role
 naturale,adj,natural,of or relating to nature
 naturale,adj,natural,without additives
 naturale,adj,natural,as expected
+vicino,adj,near,physically close
 circa,adv,near,at or towards a position close in space or time
 aver bisogno di,verb,need,to have an absolute requirement for
 avere bisogno di,verb,need,to have an absolute requirement for
@@ -1889,6 +2203,13 @@ telegiornale,noun,news,reports of current events
 giornale,noun,newspaper,publication
 quotidiano,noun,newspaper,publication
 carta da giornale,noun,newspaper,paper on which newspapers are printed
+seguente,adj,next,following in a sequence
+successivo,adj,next,following in a sequence
+prossimo,adj,next,following in a sequence
+vicino,adj,next,being closer to the present location than all other items
+prossimo,adj,next,being closer to the present location than all other items
+più vicino,adj,next,"nearest date, time, space or order"
+prossimo,adj,next,"nearest date, time, space or order"
 accanto,adv,next,"In a time, place or sequence closest or following"
 vicino,adv,next,"In a time, place or sequence closest or following"
 dopo,adv,next,On the first subsequent occasion
@@ -1899,6 +2220,10 @@ gentile,adj,nice,"pleasant, satisfactory"
 bello,adj,nice,"attractive, friendly"
 buono,adj,nice,having a pleasant taste or aroma
 notte,noun,night,period between sunset and sunrise
+a nord,adj,north,toward the north
+nord,noun,north,compass point
+settentrione,noun,north,compass point
+mezzanotte,noun,north,compass point
 naso,noun,nose,protuberance on the face
 muso,noun,nose,"snout, nose of an animal"
 naso,noun,nose,"snout, nose of an animal"
@@ -1960,10 +2285,18 @@ online,adj,online,available over the Internet
 in rete,adj,online,connected to the Internet
 in linea,adj,online,connected to the Internet
 online,adj,online,connected to the Internet
+unico,adj,only,alone in a category
+solo,adj,only,without sibling
+figlio unico,adj,only,without sibling
 solo,adv,only,without others or anything further; exclusively
 soltanto,adv,only,without others or anything further; exclusively
 solamente,adv,only,without others or anything further; exclusively
 solamente,adv,only,no more than
+aperto,adj,open,not closed
+dischiuso,adj,open,not closed
+aperto,adj,open,prepared to conduct business
+aperto,adj,open,receptive
+aperto,adj,open,public
 aprire,verb,open,to make something accessible
 schiudere,verb,open,to make something accessible
 dischiudere,verb,open,to make something accessible
@@ -1974,8 +2307,30 @@ concetto,noun,opinion,thought a person has formed about a topic
 parere,noun,opinion,thought a person has formed about a topic
 giudizio,noun,opinion,thought a person has formed about a topic
 conclusioni,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+opposto,adj,opposite,located directly across from
+opposto,adj,opposite,facing the other way
+opposta,adj,opposite,facing the other way
+opposto,noun,opposite,contrary thing
+contrario,noun,opposite,contrary thing
 arancione,adj,orange,having the colour of the fruit of an orange tree
 arancio,adj,orange,having the colour of the fruit of an orange tree
+arancio,noun,orange,tree
+arancia,noun,orange,fruit
+arancio,noun,orange,fruit
+arancione,noun,orange,colour
+ordine,noun,order,"arrangement, disposition"
+comando,noun,order,"arrangement, disposition"
+direttiva,noun,order,"arrangement, disposition"
+disposizione,noun,order,"arrangement, disposition"
+sequenza,noun,order,"arrangement, disposition"
+ordine,noun,order,good arrangement
+ordine,noun,order,command
+comando,noun,order,command
+ordinazione,noun,order,request for some product or service
+commessa,noun,order,request for some product or service
+ordine,noun,order,religious group
+ordine,noun,order,society of knights
+ordine,noun,order,biology: taxonomical classification
 ordinare,verb,order,to set in (any) order
 ordinare,verb,order,to set in (a good) order
 ordinare,verb,order,to issue a command
@@ -1995,6 +2350,10 @@ pagina,noun,page,one side of a leaf of a book
 vernice,noun,paint,substance
 colore,noun,paint,substance
 pittura,noun,paint,substance
+verniciare,verb,paint,to apply paint to
+dipingere,verb,paint,to apply paint to
+verniciare,verb,paint,to apply in the manner of paint
+dipingere,verb,paint,to practise the art of painting pictures
 dipinto,noun,painting,an illustration or artwork using paint
 pittura,noun,painting,an illustration or artwork using paint
 quadro,noun,painting,an illustration or artwork using paint
@@ -2023,6 +2382,7 @@ ricerca,noun,paper,academic paper
 paragrafo,noun,paragraph,passage in text
 genitore,noun,parent,person from whom one is descended
 genitrice,noun,parent,person from whom one is descended
+parco,noun,park,ground for recreation
 sostare,verb,park,bring (a vehicle) to a halt
 parcheggiare,verb,park,bring (a vehicle) to a halt
 parte,noun,part,fraction of a whole
@@ -2047,6 +2407,8 @@ partecipante,noun,party,someone who takes part
 festa,noun,party,social gathering
 party,noun,party,social gathering
 passaporto,noun,passport,official document for foreign travel
+passato,adj,past,having already happened; in the past
+passato,adj,past,grammar: expressing action that has already happened
 passato,noun,past,period of time that has already happened
 passato,noun,past,(grammar) past tense
 pagare,verb,pay,to give money in exchange for goods or services
@@ -2081,6 +2443,7 @@ persona,noun,person,the physical body seen as distinct from the mind
 persona,noun,person,any individual or formal organization with standing before the courts
 persona,noun,person,grammar: linguistic category
 personale,adj,personal,of or pertaining to a particular person
+fono,noun,phone,speech segment
 telefonare,verb,phone,to call (someone) on the telephone
 fotografia,noun,photograph,picture
 foto,noun,photograph,picture
@@ -2115,6 +2478,7 @@ stronzo,noun,pig,nasty or disgusting person
 stronza,noun,pig,nasty or disgusting person
 porco,noun,pig,dirty or slovenly person
 maiale,noun,pig,dirty or slovenly person
+rosa,adj,pink,colored/coloured between red and white
 rosa,noun,pink,pale red colour
 garofano,noun,pink,flower
 luogo,noun,place,"location, position"
@@ -2124,6 +2488,9 @@ piazza,noun,place,"open space, courtyard, market square"
 posto,noun,place,"area one occupies, particularly for sitting"
 luogo,noun,place,"area one occupies, particularly for sitting"
 posto,noun,place,the position of a contestant in a competition
+piano,noun,plan,set of intended actions
+programma,noun,plan,set of intended actions
+progetto,noun,plan,set of intended actions
 progettare,verb,plan,to design
 progettare,verb,plan,to create a plan for
 pianificare,verb,plan,to create a plan for
@@ -2144,6 +2511,13 @@ aeroplano,noun,plane,airplane
 pianta,noun,plant,organism capable of photosynthesis
 gioco,noun,play,playful activity
 dramma,noun,play,theatrical performance
+giocare,verb,play,act in a manner such that one has fun
+suonare,verb,play,produce music using a musical instrument (transitive sense)
+recitare,verb,play,act in a performance
+giocare,verb,play,participate in (a sport or game)
+riprodurre,verb,play,use a device to watch or listen to the indicated recording
+mettere,verb,play,use a device to watch or listen to the indicated recording
+mettere su,verb,play,use a device to watch or listen to the indicated recording
 giocatore,noun,player,one who plays any game or sport
 attore,noun,player,dramatic actor
 strumentista,noun,player,one who plays a musical instrument
@@ -2177,6 +2551,9 @@ popolare,adj,popular,of or pertaining to the common people
 popolare,adj,popular,liked by many people
 positivo,adj,positive,legal: formally laid down
 possibile,adj,possible,able but not certain to happen
+palo,noun,post,long dowel or plank protruding from the ground
+pilastro,noun,post,long dowel or plank protruding from the ground
+posta,noun,post,method of delivering mail
 postare,verb,post,send to an electronic forum
 pubblicare,verb,post,send to an electronic forum
 patata,noun,potato,plant tuber eaten as starchy vegetable
@@ -2195,12 +2572,22 @@ libbra,noun,pound,unit of mass (16 ounces avoirdupois)
 lira,noun,pound,unit of currency
 lira sterlina,noun,pound,unit of currency
 sterlina,noun,pound,unit of currency
+pratica,noun,practice,repetition of an activity to improve skill
+pratica,noun,practice,ongoing pursuit of a craft or profession
+pratica,noun,practice,observance of religious duties
+pratica,noun,practice,"customary action, habit, or behaviour"
+pratica,noun,practice,"actual operation or experiment, in contrast to theory"
 preferire,verb,prefer,to favor
 favorire,verb,prefer,to favor
 preparare,verb,prepare,to make ready for a specific future purpose
 preparare,verb,prepare,to make ready for eating or drinking
 prepararsi,verb,prepare,to make oneself ready
+presente,adj,present,pertaining to the current time
+presente,adj,present,in the immediate vicinity
 presente,noun,present,current time
+grazioso,adj,pretty,"especially of women and children: pleasant, attractive"
+carino,adj,pretty,"especially of women and children: pleasant, attractive"
+carino,adj,pretty,of objects: nice-looking
 piuttosto,adv,pretty,somewhat
 abbastanza,adv,pretty,somewhat
 tutto sommato,adv,pretty,somewhat
@@ -2251,6 +2638,7 @@ piuttosto,adv,quite,in a fully justified sense; truly
 piuttosto,adv,quite,to a moderate extent
 radio,noun,radio,technology
 radio,noun,radio,receiver
+pioggia,noun,rain,condensed water from a cloud
 piovere,verb,rain,of rain: to fall from the sky
 leggere,verb,read,to look at and interpret letters or other information
 leggere,verb,read,to speak aloud words or other information that is written
@@ -2288,6 +2676,9 @@ scusa,noun,reason,"excuse, explanation: thought or consideration offered in supp
 pretesa,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 ragione,noun,reason,(the capacity of the human mind for) rational thinking
 ragione,noun,reason,something reasonable
+rosso,adj,red,having red as its colour
+rubino,adj,red,having red as its colour
+rosso,adj,red,of hair: orange-brown
 rosso,noun,red,colour
 rilassarsi,verb,relax,to calm down
 riposarsi,verb,relax,to calm down
@@ -2311,9 +2702,25 @@ risoluzione,noun,result,decision or determination
 risultato,noun,result,sports: final score in a game
 ritorno,noun,return,act of returning
 reso,noun,return,item that is returned
+tornare,verb,return,to come or go back
+ripercorrere,verb,return,"to turn back, retreat"
+restituire,verb,return,to give something back to its original holder or owner
+rendere,verb,return,to give something back to its original holder or owner
+restituire,verb,return,computing: to pass back (data) to the calling procedure
 riso,noun,rice,plants
 riso,noun,rice,seeds used as food
 ricco,adj,rich,having wealth
+diritto,adj,right,"straight, not bent"
+retto,adj,right,"of an angle, 90 degrees"
+retto,adj,right,"geometry: incorporating a right angle between edges, faces, axes, etc."
+corretto,adj,right,"complying with justice, correct — see also be right"
+corretto,adj,right,"appropriate, fit for purpose"
+sano,adj,right,"healthy, sane, competent — see also healthy, sane, competent"
+vero,adj,right,real; veritable
+destro,adj,right,"of direction, opposite of left"
+destra,adj,right,"of direction, opposite of left"
+a destra,adv,right,on the right side
+a destra,adv,right,towards the right side
 ragione,noun,right,"which complies with justice, law or reason"
 diritto,noun,right,legal or moral entitlement
 destra,noun,right,"right, not left, side"
@@ -2347,6 +2754,9 @@ triste,adj,sad,feeling sorrow
 insalata,noun,salad,food
 sale,noun,salt,sodium chloride
 sale,noun,salt,compound of an acid and a base
+stesso,adj,same,not different as regards self; identical
+medesimo,adj,same,not different as regards self; identical
+stesso,adj,same,"similar, alike"
 tramezzino,noun,sandwich,dish — see also open sandwich
 panino,noun,sandwich,dish — see also open sandwich
 dire,verb,say,"to say, to tell"
@@ -2371,6 +2781,8 @@ scienziato,noun,scientist,one whose activities make use of the scientific method
 scienziata,noun,scientist,one whose activities make use of the scientific method
 ricercatore,noun,scientist,one whose activities make use of the scientific method
 ricercatrice,noun,scientist,one whose activities make use of the scientific method
+secondo,adj,second,second (numeral) — see also 2nd
+secondo,adj,second,that comes after the first
 secondo,noun,second,one-sixtieth of a minute; SI unit of time
 secondo,noun,second,unit of angular measure
 secondo,noun,second,"short, indeterminate amount of time"
@@ -2412,6 +2824,9 @@ camicia,noun,shirt,article of clothing
 maglia,noun,shirt,article of clothing
 scarpa,noun,shoe,protective covering for the foot
 calzatura,noun,shoe,protective covering for the foot
+magazzino,noun,shop,establishment that sells goods
+negozio,noun,shop,establishment that sells goods
+bottega,noun,shop,place for crafting or manufacturing
 andare per negozi,verb,shop,to visit shops
 shopping,noun,shopping,activity of buying
 acquisti,noun,shopping,activity of buying
@@ -2428,6 +2843,12 @@ spettacolo,noun,show,entertainment
 mostra,noun,show,exhibition — see also exhibition
 esibizione,noun,show,exhibition — see also exhibition
 programma,noun,show,broadcast program(me)
+mostrare,verb,show,to display
+fare vedere,verb,show,to display
+dimostrare,verb,show,to indicate (a fact) to be true
+portare,verb,show,to guide or escort
+condurre,verb,show,to guide or escort
+guidare,verb,show,to guide or escort
 doccia,noun,shower,device for bathing
 doccia,noun,shower,instance of using of this device
 gli ammalati,adj,sick,"ill, used as a substantive: sick people, collectively"
@@ -2483,6 +2904,10 @@ serpente,noun,snake,legless reptile
 serpe,noun,snake,legless reptile
 biscia,noun,snake,legless reptile
 serpe,noun,snake,treacherous person
+neve,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+nevicata,noun,snow,instance of the falling of snow — see also snowfall
+effetto neve,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
+neve,noun,snow,cocaine — see also cocaine
 nevicare,verb,snow,have snow fall from the atmosphere
 tanto,adv,so,very
 veramente,adv,so,very
@@ -2499,12 +2924,19 @@ presto,adv,soon,within a short time
 a breve,adv,soon,within a short time
 stare dispiaciuto,adj,sorry,"repentant, apologetic"
 dispiaciuto,adj,sorry,"grieved, saddened"
+insenatura,noun,sound,long narrow inlet
+suono,noun,sound,sensation perceived by the ear
+suono,noun,sound,vibration capable of causing this
 suonare,verb,sound,to produce a sound
 sembrare,verb,sound,to convey an impression by one's sound
 pronunciare,verb,sound,to pronounce
 minestra,noun,soup,dish
 brodo,noun,soup,dish
 zuppa,noun,soup,dish
+meridionale,adj,south,of or pertaining to the south
+sud,noun,south,compass point
+mezzogiorno,noun,south,compass point
+meridione,noun,south,compass point
 spazio,noun,space,physical extent in two or three dimensions
 spazio,noun,space,area beyond atmosphere of planets
 spazio,noun,space,bounded or specific physical extent
@@ -2615,6 +3047,15 @@ ostacolo,noun,stop,"that which stops, impedes, or obstructs"
 pulsante di arresto,noun,stop,device to block a moving object
 punto,noun,stop,punctuation symbol
 registro,noun,stop,music: knob or pin to regulate the flow of air in an organ
+fermarsi,verb,stop,to cease moving
+smettere,verb,stop,"not to continue — see also cease, desist"
+fermare,verb,stop,to cause to cease moving
+smettere,verb,stop,to cease; to no longer continue (doing something)
+terminare,verb,stop,to cease; to no longer continue (doing something)
+fermare,verb,stop,to cause to come to an end
+far smettere,verb,stop,to cause to come to an end
+fermare,verb,stop,to close an opening
+fermarsi,verb,stop,to stay a while
 magazzino,noun,store,place where items may be kept
 deposito,noun,store,place where items may be kept
 scorta,noun,store,supply held in storage
@@ -2649,6 +3090,12 @@ studioso,noun,student,person who studies a subject
 studiosa,noun,student,person who studies a subject
 studente,noun,student,person enrolled at a university — see also university student
 studentessa,noun,student,person enrolled at a university — see also university student
+studio,noun,study,mental effort to acquire knowledge
+studio,noun,study,branch of learning or object that is being studied
+studio,noun,study,room in a house intended for reading and writing
+studiolo,noun,study,room in a house intended for reading and writing
+studio,noun,study,artwork made in order to practise or demonstrate a subject or technique
+studio,noun,study,academic publication
 studiare,verb,study,to revise/review materials
 studiare,verb,study,to acquire knowledge
 imparare,verb,study,to acquire knowledge
@@ -2718,6 +3165,7 @@ giovane,noun,teenager,person aged between thirteen and nineteen
 adolescente,noun,teenager,person aged between thirteen and nineteen
 ragazzino,noun,teenager,person aged between thirteen and nineteen
 ragazzina,noun,teenager,person aged between thirteen and nineteen
+telefono,noun,telephone,a device used for two-way talking with other people
 telefonare,verb,telephone,to call someone
 televisione,noun,television,medium
 tivù,noun,television,medium
@@ -2730,6 +3178,9 @@ insegnare,verb,tell,to instruct
 notare,verb,tell,"to discern, notice, identify or distinguish"
 tennis,noun,tennis,sport played by two or four players with strung racquets
 terribile,adj,terrible,dreadful; causing alarm or fear
+prova,noun,test,"challenge, trial"
+verifica,noun,test,"challenge, trial"
+esame,noun,test,academics: examination
 testare,verb,test,to challenge
 mettere alla prova,verb,test,to challenge
 testare,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
@@ -2793,6 +3244,10 @@ affaticato,adj,tired,in need of rest or sleep
 stracco,adj,tired,in need of rest or sleep
 titolo,noun,title,prefix or suffix added to a name
 titolo,noun,title,"name of a book, etc"
+oggi,adv,today,on the current day
+oggi,adv,today,"nowadays — see also nowadays, these days"
+oggigiorno,adv,today,"nowadays — see also nowadays, these days"
+attualmente,adv,today,"nowadays — see also nowadays, these days"
 oggi,noun,today,today (noun)
 insieme,adv,together,"at the same time, in the same place"
 toeletta,noun,toilet,personal grooming
@@ -2838,7 +3293,10 @@ tomate,noun,tomato,fruit
 tomata (Liguria),noun,tomato,fruit
 tomatica,noun,tomato,fruit
 pomatica,noun,tomato,fruit
+domani,adv,tomorrow,on the day after the present day
 domani,noun,tomorrow,the day after the present day
+stasera,adv,tonight,during today's evening
+stanotte,adv,tonight,during today's nighttime
 stasera,noun,tonight,nighttime today
 stanotte,noun,tonight,nighttime today
 anche,adv,too,likewise
@@ -2865,6 +3323,7 @@ sequenza,noun,train,series of events or ideas which are interconnected
 treno d'impulsi,noun,train,series of electric pulses
 traino,noun,train,that which is drawn along
 viaggio,noun,travel,act of traveling
+viaggiare,verb,travel,be on a journey
 albero,noun,tree,large woody plant
 albero,noun,tree,pole with storage hooks
 albero,noun,tree,(graph theory) connected graph with no cycles
@@ -2907,6 +3366,23 @@ china,noun,turn,change in temperament or circumstance
 spira,noun,turn,single loop of a coil
 spirale,noun,turn,single loop of a coil
 tipo,noun,turn,character; personality; nature
+girare,verb,turn,move around an axis through itself
+ruotare,verb,turn,move around an axis through itself
+girare,verb,turn,"change the direction or orientation of, especially by rotation"
+invertire,verb,turn,"change the direction or orientation of, especially by rotation"
+cambiare,verb,turn,"change the direction or orientation of, especially by rotation"
+svoltare,verb,turn,"change the direction or orientation of, especially by rotation"
+girare,verb,turn,change one's direction of travel
+svoltare,verb,turn,change one's direction of travel
+virare,verb,turn,change one's direction of travel
+divenire,verb,turn,become
+diventare,verb,turn,become
+mutare,verb,turn,transitive: change fundamentally
+trasformare,verb,turn,transitive: change fundamentally
+cambiare,verb,turn,transitive: change fundamentally
+compiere,verb,turn,reach a certain age
+completare,verb,turn,complete — see also complete
+compiere,verb,turn,complete — see also complete
 due volte,adv,twice,two times
 tipo,noun,type,grouping based on shared characteristics
 archetipo,noun,type,individual considered typical of its class
@@ -2952,6 +3428,7 @@ video,noun,video,motion picture stored on VHS
 visita,noun,visit,single act of visiting
 visita,noun,visit,meeting with a doctor
 consultazione,noun,visit,meeting with a doctor
+visitare,verb,visit,to go and meet (someone)
 ospite,noun,visitor,guest
 visitatore,noun,visitor,guest
 turista,noun,visitor,sightseer
@@ -2965,6 +3442,13 @@ svegliarsi,verb,wake,to stop sleeping
 svegliare,verb,wake,to make somebody stop sleeping
 camminata,noun,walk,trip made by walking
 passeggiata,noun,walk,trip made by walking
+camminare,verb,walk,to move on the feet
+andare a piedi,verb,walk,to move on the feet
+stare rubato,verb,walk,colloquial: to be stolen
+essere rubato,verb,walk,colloquial: to be stolen
+camminare,verb,walk,to travel a distance by walking
+portare fuori,verb,walk,to take for a walk
+sodare,verb,walk,to full cloth
 mura,noun,wall,defensive rampart
 vallo,noun,wall,defensive rampart
 muraglia,noun,wall,defensive rampart
@@ -2999,6 +3483,14 @@ personale di guardia,noun,watch,group of sailors and officers
 personale di sorveglianza,noun,watch,group of sailors and officers
 personale di turno,noun,watch,group of sailors and officers
 guardia,noun,watch,period of time on duty
+guardare,verb,watch,to look at for a period of time
+guardare,verb,watch,to observe
+osservare,verb,watch,to observe
+tenere d'occhio,verb,watch,to attend or guard
+sorvegliare,verb,watch,to attend or guard
+vigilare,verb,watch,to attend or guard
+fare attenzione,verb,watch,to attend or guard
+montare la guardia,verb,watch,to be vigilant
 acqua,noun,water,inorganic compound H₂O
 acque,noun,water,spa water
 acqua,noun,water,one of the basic elements
@@ -3021,13 +3513,24 @@ weekend,noun,weekend,break in the working week
 fine settimana,noun,weekend,break in the working week
 benvenuto,adj,welcome,whose arrival is a cause of joy
 libero,adj,welcome,free to have or enjoy gratuitously
+accogliere,verb,welcome,affirm or greet the arrival of someone
+dare il benvenuto,verb,welcome,affirm or greet the arrival of someone
+accettare,verb,welcome,to accept willingly
+accogliere,verb,welcome,to accept willingly
+gradire,verb,welcome,to accept willingly
 bene,adj,well,in good health
+bene,adv,well,accurately; competently
+ovest,noun,west,compass point
+occidente,noun,west,compass point
+ponente,noun,west,compass point
 quando,adv,when,"at what time, as a direct question"
 dove,adv,where,at what place; to what place; from what place
 dove,adv,where,at or in which place
 laddove,adv,where,to which place or situation
 laddove,adv,where,wherever
 dove,adv,where,the place in which
+bianco,adj,white,bright and colourless
+bianco,adj,white,of or relating to Caucasians
 bianco,noun,white,color
 bianco,noun,white,person of European descent
 bianca,noun,white,person of European descent
@@ -3083,6 +3586,10 @@ creazione,noun,work,"literary, artistic, or intellectual production"
 lavoro,noun,work,physics: measure of energy expended in moving an object
 lavoro,noun,work,thermodynamics: energy in transit between one form or repository and another
 fortificazione,noun,work,fortification
+lavorare,verb,work,to do a specific task
+funzionare,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+lavorare,verb,work,"to shape, form, or improve a material"
+lavorare,verb,work,to influence
 lavoratore,noun,worker,person who performs labor
 operaio,noun,worker,person who performs labor
 lavorante,noun,worker,person who performs labor
@@ -3120,6 +3627,9 @@ anno,noun,year,a period between set dates that mark a year
 anno,noun,year,a scheduled part of a calendar year spent in a specific activity
 anno,noun,year,a Julian year
 anno,noun,year,a level or grade at school or college
+giallo,adj,yellow,having yellow as its color
+codardo,adj,yellow,lacking courage
 giallo,noun,yellow,color
+ieri,adv,yesterday,on the day before today
 ieri,noun,yesterday,day before today
 giovane,adj,young,in the early part of life or growth

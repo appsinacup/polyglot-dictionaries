@@ -61,6 +61,12 @@ word,part_of_speech,english_word,sense
 ζώο,noun,animal,person who behaves wildly
 κτήνος,noun,animal,person who behaves wildly
 αγροίκος,noun,animal,person who behaves wildly
+απάντηση,noun,answer,response
+λύση,noun,answer,solution
+απάντηση,noun,answer,reply to email
+απόκριση,noun,answer,reply to email
+ανταπάντηση,noun,answer,document filed in response to a complaint
+απόκρουση,noun,answer,document filed in response to a complaint
 απαντώ,verb,answer,to make a reply or response to
 αποκρίνομαι,verb,answer,to make a reply or response to
 απαντώ,verb,answer,to respond to a call
@@ -110,6 +116,7 @@ word,part_of_speech,english_word,sense
 μωρό,noun,baby,form of address to a man or a woman considered to be attractive
 μπέμπα,noun,baby,form of address to a man or a woman considered to be attractive
 πίσω,adv,back,to or in a previous condition or place
+πλάτη,noun,back,the rear of body
 κακός,adj,bad,unfavorable; negative
 άσχημος,adj,bad,unfavorable; negative
 κακός,adj,bad,"not appropriate, of manners etc."
@@ -223,6 +230,17 @@ word,part_of_speech,english_word,sense
 γκόμενα,noun,bird,girlfriend
 γενέθλια,noun,birthday,anniversary
 ημερομηνία γεννήσεως,noun,birthday,date of birth — see also date of birth
+μαύρος,adj,black,absorbing all light
+σκοτεινός,adj,black,without light
+ερεβώδης,adj,black,without light
+μαύρος,adj,black,"relating to people with dark skin — see also dark-skinned
+ 50px
+ A user suggests that this Translingual entry be cleaned up, giving the reason: “e.g. Dutch: neger (nl) m, negerin (nl) f and German: Schwarzer (de) m, Schwarze (de) f aren't translations of the adjective, but of the noun for which see below.”
+ Please see the discussion on Requests for cleanup(+) for more information and remove this template after the problem has been dealt with."
+μαύρος,adj,black,bad; evil
+κακός,adj,black,bad; evil
+μαύρος,adj,black,"illegitimate, illegal or disgraced"
+σκέτος,adj,black,"of coffee or tea, without milk or other whitener"
 μαύρο,noun,black,colour/color
 μέλας,noun,black,colour/color
 μαύρο,noun,black,"dye, pigment"
@@ -234,6 +252,7 @@ word,part_of_speech,english_word,sense
 ξανθός,adj,blond,of a pale golden colour
 Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ξανθομάλλης,adj,blond,having blond hair
+μπλε,adj,blue,"blue-coloured — see also dark blue, light blue"
 μπλε,noun,blue,colour
 βάρκα,noun,boat,water craft
 λέμβος,noun,boat,water craft
@@ -299,6 +318,11 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ψωμί,noun,bread,countable: any variety of bread
 άρτος,noun,bread,countable: any variety of bread
 διάλειμμα,noun,break,"rest or pause, usually from work"
+σπάω,verb,break,intransitive: to separate into (to end up in) two or more pieces
+σπάζω,verb,break,transitive: to separate into (to cause to end up in) two or more pieces
+χαλάω,verb,break,intransitive: to stop functioning properly or altogether
+χαλάω,verb,break,transitive: to cause to stop functioning
+σπάω,verb,break,billiards: to make the first shot
 πρωινό,noun,breakfast,first meal of the day
 πρόγευμα,noun,breakfast,first meal of the day
 φέρνω,verb,bring,to transport toward somebody/somewhere
@@ -307,6 +331,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 αδελφός,noun,brother,male having parents in common
 αδελφός,noun,brother,male fellow member of a religious community
 αδελφός,noun,brother,peer
+καστανός,adj,brown,having a brown colour
+ορφνός,adj,brown,having a brown colour
 καστανό,noun,brown,colour
 καφέ,noun,brown,colour
 χτίζω,verb,build,(transitive) to form by combining materials or parts
@@ -320,6 +346,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 επιχείρηση,noun,business,commercial enterprise or establishment
 εταιρεία,noun,business,commercial enterprise or establishment
 εταιρία,noun,business,commercial enterprise or establishment
+πολυσύχναστος,adj,busy,crowded with business or activities
+πολυάσχολος,adj,busy,doing a great deal
 βούτυρο,noun,butter,soft foodstuff made from milk
 αγοράζω,verb,buy,to obtain something with money
 χάβω,verb,buy,to accept as true
@@ -337,12 +365,21 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 επίσκεψη,noun,call,social visit
 εφημερία,noun,call,type of work shift
 κλήση,noun,call,computing: act of jumping to a subprogram
+καλώ,verb,call,"to request, summon, or beckon"
+φωνάζω,verb,call,to cry or shout
+τηλεφωνώ,verb,call,to contact by telephone
+παίρνω τηλέφωνο,verb,call,to contact by telephone
+παίρνω,verb,call,to contact by telephone
+καλώ,verb,call,to contact by telephone
+αποκαλώ,verb,call,to name or refer to
 φωτογραφική μηχανή,noun,camera,still camera
 βιντεοκάμερα,noun,camera,movie camera
 μπορώ,verb,can,to be able to; to know how to
 δύναμαι,verb,can,to be able to; to know how to
 μπορώ,verb,can,may
 κονσερβοποιώ,verb,can,to preserve
+κεφάλαιο,noun,capital,money and wealth
+κιονόκρανο,noun,capital,uppermost part of a column
 αυτοκίνητο,noun,car,"automobile, a vehicle steered by a driver"
 αμάξι,noun,car,"automobile, a vehicle steered by a driver"
 θαλαμίσκος,noun,car,"moving, load-carrying component of an elevator"
@@ -371,6 +408,14 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ψιλά,noun,change,small denominations of money given in exchange for a larger denomination
 αλλαγή,noun,change,a replacement
 ρέστα,noun,change,balance returned after a purchase
+αλλάζω,verb,change,to become something different
+μεταμορφώνομαι,verb,change,to become something different
+αλλάζω,verb,change,to make something into something else
+μεταβάλλω,verb,change,to make something into something else
+αλλάζω,verb,change,to replace
+αντικαθιστώ,verb,change,to replace
+αλλάζω,verb,change,to replace one's own clothing
+μετεπιβιβάζομαι,verb,change,to transfer to another vehicle
 φτηνός,adj,cheap,low and/or reduced in price
 φτηνός,adj,cheap,of poor quality
 φτηνός,adj,cheap,of little worth
@@ -410,6 +455,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 σειρά,noun,class,military: persons subject to the same draft
 κλάση,noun,class,object-oriented programming: set of objects possibly differing in state but not behavior
 αίθουσα διδασκαλίας,noun,classroom,room in a school
+καθαρός,adj,clean,not dirty
+αγνός,adj,clean,"pure, especially morally or religiously"
+αμόλυντος,adj,clean,"pure, especially morally or religiously"
 καθαρίζω,verb,clean,(transitive) to remove dirt from a place or object
 συμμαζεύω,verb,clean,(transitive) to tidy up
 ανεβαίνω,verb,climb,"to ascend, to go up"
@@ -439,6 +487,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 καφές,noun,coffee,beans
 καφεόδεντρο,noun,coffee,plant
 καφέ,noun,coffee,colour
+κρύος,adj,cold,having a low temperature
+ψυχρός,adj,cold,unfriendly
 κρύο,noun,cold,low temperature
 κρύωμα,noun,cold,illness
 κρυολόγημα,noun,cold,illness
@@ -472,6 +522,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 λόχος,noun,company,military unit
 συγκρίνω,verb,compare,to assess the similarities between two things or between one thing and another
 παραβάλλω,verb,compare,to assess the similarities between two things or between one thing and another
+πλήρης,adj,complete,with everything included
+πλήρες,adj,complete,with everything included
 ολοκληρώνω,verb,complete,to finish
 συμπληρώνω,verb,complete,to make whole or entire
 υπολογιστής,noun,computer,programmable electronic device
@@ -491,7 +543,14 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ψήνομαι,verb,cook,colloquial: to be uncomfortably hot
 μαγειρική,noun,cooking,the process of preparing food by using heat
 μαγειρική,noun,cooking,the style or genre of food preparation; cookery; cuisine
+σωστός,adj,correct,free from error
+σωστός,adj,correct,with good manners
 διορθώνω,verb,correct,to make something become right that was previously wrong
+κόστος,noun,cost,amount of money spent for a purpose
+δαπάνη,noun,cost,amount of money spent for a purpose
+τίμημα,noun,cost,amount of money spent for a purpose
+αντίτιμο,noun,cost,amount of money spent for a purpose
+κόστος,noun,cost,negative consequence or loss
 κοστίζω,verb,cost,"to incur a charge, a price"
 στοιχίζω,verb,cost,"to incur a charge, a price"
 τιμώμαι,verb,cost,"to incur a charge, a price"
@@ -533,6 +592,7 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 κάνω κοπάνα,verb,cut,"colloquial, not to attend a class"
 κόβω,verb,cut,to divide a pack of playing cards
 μπαμπάς,noun,dad,informal: a father
+χορός,noun,dance,movements to music
 χορεύω,verb,dance,move rhythmically to music
 χορευτής,noun,dancer,person who dances
 χορεύτρια,noun,dancer,a female person who dances
@@ -574,6 +634,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 νόστιμος,adj,delicious,pleasing to taste
 περιγράφω,verb,describe,to represent in words
 περιγραφή,noun,description,account in words
+σχέδιο,noun,design,plan
+σχέδιο,noun,design,pattern
+σχέδιο,noun,design,art of designing
 σχεδιάζω,verb,design,to plan an artwork etc.
 γραφείο,noun,desk,table for writing and reading
 λεπτομέρεια,noun,detail,part small enough to escape casual notice
@@ -631,8 +694,16 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 κάτω,adv,down,"from a high to a low position, downwards"
 σχεδιάζω,verb,draw,to produce a picture
 ζωγραφίζω,verb,draw,to produce a picture
+φόρεμα,noun,dress,item of clothing which both covers the upper part of the body and includes a skirt below the waist
+ρούχα,noun,dress,apparel or clothing
 ντύνω,verb,dress,"to put clothes on (oneself or someone, etc.) — see also clothe"
 ντύνομαι,verb,dress,to put on clothes — see also get dressed
+ποτό,noun,drink,served beverage
+ποτό,noun,drink,type of beverage
+ποτό,noun,drink,served alcoholic beverage
+πόση,noun,drink,action of drinking
+ποτό,noun,drink,alcoholic beverages in general
+οινοπνευματώδη,noun,drink,alcoholic beverages in general
 πίνω,verb,drink,consume liquid through the mouth
 απορροφώ,verb,drink,consume liquid through the mouth
 πώνω,verb,drink,consume liquid through the mouth
@@ -647,7 +718,15 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 στάχυ,noun,ear,fruiting body of a grain plant
 αυτί,noun,ear,organ of hearing
 αυτί,noun,ear,musical ability
+πρώιμος,adj,early,at a time in advance of the usual
+πρόωρος,adj,early,arriving at a time before expected
+πρώιμος,adj,early,near but after the start or beginning
+πρώιμος,adj,early,illness: having begun to occur
 νωρίς,adv,early,at a time before expected
+ανατολικός,adj,east,in or towards the east
+ανατολικός,adj,east,of or pertaining to the east
+ανατολικός,adj,east,from the East
+ανατολή,noun,east,compass point
 εύκολος,adj,easy,requiring little skill or effort
 εύκολος,adj,easy,consenting readily to sex
 τρώω,verb,eat,"to ingest — see also consume, ingest"
@@ -665,6 +744,18 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 αβγό,noun,egg,thing which looks like or is shaped like an egg
 ελέφαντας,noun,elephant,mammal
 αλλιώς,adv,else,word that implies any result with the exception of the one being referred to
+ηλεκτρονικό ταχυδρομείο,noun,email,system for sending messages and datas by means of computers connected together in a network
+ηλ. ταχ.,noun,email,system for sending messages and datas by means of computers connected together in a network
+ηλεκτρονικό ταχυδρομείο,noun,email,message sent through email
+ηλεκτρονικό μήνυμα,noun,email,message sent through email
+τέλος,noun,end,extreme part
+πέρας,noun,end,extreme part
+τέρμα,noun,end,extreme part
+λήξη,noun,end,extreme part
+άκρο,noun,end,extreme part
+άκρη,noun,end,extreme part
+τέλος,noun,end,death
+σκοπός,noun,end,purpose
 τελειώνω,verb,end,"intransitive: be finished, be terminated"
 λήγω,verb,end,"intransitive: be finished, be terminated"
 τελειώνω,verb,end,"transitive: finish, terminate (something)"
@@ -694,6 +785,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ενθουσιασμένος,adj,excited,having great enthusiasm and energy
 διεγερμένος,adj,excited,being in a state of higher energy
 συναρπαστικός,adj,exciting,causing excitement
+άσκηση,noun,exercise,any activity designed to develop or hone a skill or ability
+γυμναστική,noun,exercise,physical activity intended to improve strength and fitness
 ακριβός,adj,expensive,having a high price or cost
 εξηγώ,verb,explain,to make intelligible
 έξτρα,adj,extra,"beyond what is due, usual"
@@ -721,11 +814,21 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 γεγονός,noun,fact,something actual
 γεγονός,noun,fact,an objective consensus on a fundamental reality
 πτώση,noun,fall,act of moving in gas or vacuum under the effect of gravity from a point to a lower point
+πέφτω,verb,fall,move to a lower position under the effect of gravity
+πέφτω,verb,fall,come down or descend
+πέφτω,verb,fall,be brought to earth or be overthrown
+πέφτω,verb,fall,collapse; be overthrown or defeated
+πέφτω,verb,fall,die
 ψευδής,adj,false,"untrue, not factual, wrong"
 ψευδής,adj,false,"spurious, artificial"
 πλαστός,adj,false,"spurious, artificial"
 κίβδηλος,adj,false,"spurious, artificial"
 νόθος,adj,false,"spurious, artificial"
+οικογένεια,noun,family,"immediate family [as a group], e.g. parents and their children"
+οικογένεια,noun,family,"group of people related by blood, marriage, law, or custom"
+οικογένεια,noun,family,"rank in a taxonomic classification, above both genus and species"
+οικογένεια,noun,family,music: a group of instruments having the same basic method of tone production
+οικογένεια,noun,family,(used attributively)
 διάσημος,adj,famous,well known
 περίφημος,adj,famous,well known
 φανταστικός,adj,fantastic,existing in or constructed from fantasy
@@ -735,6 +838,11 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 κτηνοτρόφος,noun,farmer,person who works the land and/or who keeps livestock
 γεωργοκτηνοτρόφος,noun,farmer,person who works the land and/or who keeps livestock
 αγρότισσα,noun,farmer,person who works the land and/or who keeps livestock
+στερεός,adj,fast,firmly or securely fixed in place
+γρήγορος,adj,fast,moving or capable of moving with great speed
+ταχύς,adj,fast,moving or capable of moving with great speed
+βαθύς,adj,fast,of sleep: deep or sound
+μπροστά,adj,fast,ahead of the correct time or schedule
 γρήγορα,adv,fast,with great speed
 χοντρός,adj,fat,carrying a larger than normal amount of fat on one's body
 παχύς,adj,fat,carrying a larger than normal amount of fat on one's body
@@ -822,6 +930,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ξεχνώ,verb,forget,to leave behind
 λησμονώ,verb,forget,to leave behind
 ξεχνώ,verb,forget,to cease remembering
+σχήμα,noun,form,shape or visible structure
+αίτηση,noun,form,document to be filled in
+ύφος,noun,form,grouping of words
 σχηματίζω,verb,form,to give shape
 σχηματίζομαι,verb,form,(intransitive) to take shape
 δημιουργώ,verb,form,(linguistics) to create a word
@@ -850,6 +961,12 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 φιλικός,adj,friendly,pertaining to friendlies in the conflict sense
 εμπρόσθιος,adj,front,located at or near the front
 μπροστινός,adj,front,located at or near the front
+πρόσοψη,noun,front,facing side
+πρόσοψη,noun,front,main entrance side
+μέτωπο,noun,front,public face of covert organisation
+μέτωπο,noun,front,meteorology: interface between airmasses
+μέτωπο,noun,front,military: area or line of conflict
+μέτωπο,noun,front,military: direction of the enemy
 καρπός,noun,fruit,part of plant
 οπώρα,noun,fruit,part of plant
 οπωρικό,noun,fruit,part of plant
@@ -902,6 +1019,8 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 πάππος,noun,grandfather,male forefather
 γιαγιά,noun,grandmother,mother of someone's parent
 μάμμη,noun,grandmother,mother of someone's parent
+γκρίζος,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
+φαιός,adj,gray,"of a color somewhere between white and black, as the ash of an ember"
 γκρι,noun,gray,colour
 σταχτί,noun,gray,colour
 φαιό,noun,gray,colour
@@ -909,6 +1028,7 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 μεγάλος,adj,great,"very big, large scale"
 εξαιρετικός,adj,great,very good
 περίφημος,adj,great,important title
+πράσινος,adj,green,having green as its colour
 πράσινο,noun,green,colour
 ομάδα,noun,group,number of things or persons being in some relation to each other
 ομάδα,noun,group,in group theory
@@ -916,6 +1036,11 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 μεγαλώνω,verb,grow,(intransitive) to become bigger
 αυξάνω,verb,grow,(transitive) to cause something to become bigger
 εικασία,noun,guess,prediction about the outcome of something
+υποθέτω,verb,guess,to reach an unconfirmed conclusion
+εικάζω,verb,guess,to reach an unconfirmed conclusion
+μαντεύω,verb,guess,to solve by a correct conjecture
+υποθέτω,verb,guess,"to suppose, to imagine"
+μάλλον,verb,guess,"to suppose, to imagine"
 κιθάρα,noun,guitar,musical instrument
 γυμναστήριο,noun,gym,sporting facility specialized for lifting weights and exercise
 τρίχα,noun,hair,pigmented filament of keratin on the skin of humans and other mammals
@@ -950,6 +1075,7 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ευτυχισμένος,adj,happy,"fortunate, lucky"
 ευτυχής,adj,happy,"appropriate, apt, felicitous"
 ευτυχισμένος,adj,happy,"appropriate, apt, felicitous"
+δύσκολος,adj,hard,requiring a lot of effort to do or understand
 καπέλο,noun,hat,a head covering
 πίλος,noun,hat,a head covering
 μισώ,verb,hate,to dislike intensely
@@ -980,6 +1106,10 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 βοηθός,noun,help,person or persons who provides assistance with some task
 οικιακή βοηθός,noun,help,person employed to help in the maintenance of a house
 βοήθεια,noun,help,textual support of a software application
+βοηθώ,verb,help,transitive: provide assistance to (someone or something)
+συντρέχω,verb,help,transitive: provide assistance to (someone or something)
+βοηθώ,verb,help,contribute in some way to
+βοηθώ,verb,help,intransitive: provide assistance
 εδώ,adv,here,"in, on, or at this place"
 εδώ,adv,here,to this place
 ψηλός,adj,high,elevated; tall
@@ -994,6 +1124,14 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 πάρεργο,noun,hobby,activity done for enjoyment in spare time
 στο σπίτι,adv,home,at home
 προς το σπίτι,adv,home,homewards
+σπίτι,noun,home,house or structure in which someone lives
+σπιτικό,noun,home,house or structure in which someone lives
+πατρίδα,noun,home,someone’s native land
+γενέτειρα,noun,home,someone’s native land
+πατρικό,noun,home,childhood or parental home
+κατοικία,noun,home,habitat
+περιβάλλον,noun,home,habitat
+άσυλο,noun,home,place of refuge or rest
 εργασία για το σπίτι,noun,homework,work that is done at home
 ελπίζω,verb,hope,"to want something to happen, with expectation that it might"
 άλογο,noun,horse,members of the species Equus ferus
@@ -1041,9 +1179,15 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 συμπεριλαμβάνω,verb,include,to bring into as a part or member
 συμπεριλαμβάνω,verb,include,"to contain, as part of a whole"
 πληροφορία,noun,information,communicable knowledge
+τόκος,noun,interest,finance: price of credit
+ενδιαφέρον,noun,interest,great attention and concern from someone
+ενδιαφέρον,noun,interest,attention that is given to or received from someone or something
+συμφέρον,noun,interest,"involvement in or link with financial, business, or other undertaking"
 ενδιαφέρω,verb,interest,to attract attention or concern
 ενδιαφερόμενος,adj,interested,having or showing interest
 ενδιαφέρων,adj,interesting,arousing or holding the attention
+συνέντευξη,noun,interview,conversation with journalist etc.
+συνέντευξη,noun,interview,a formal meeting for the assessment of a candidate or applicant
 συνεντευξιάζω,verb,interview,to have an interview
 παίρνω συνέντευξη,verb,interview,to have an interview
 συστήνω,verb,introduce,to make something or someone known by formal announcement or recommendation
@@ -1068,6 +1212,13 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 απλώς,adv,just,"only, simply, merely"
 μόλις,adv,just,"recently, moments ago"
 κρατώ,verb,keep,to maintain possession of
+κλειδί,noun,key,device designed to open and close a lock
+κλειδί,noun,key,object used to maintain the orientation between two others
+κλειδί,noun,key,crucial step
+πλήκτρο,noun,key,button on a typewriter or computer keyboard
+πλήκτρο,noun,key,part of a piano or musical keyboard
+κλειδί,noun,key,scale of musical notes
+κλειδί,noun,key,cryptography: piece of information used to encode or decode
 κουζίνα,noun,kitchen,room
 μαγειρείο,noun,kitchen,room
 ξέρω,verb,know,be justifiably certain or sure about (something true)
@@ -1091,9 +1242,21 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 γλώσσα προγραμματισμού,noun,language,computer language — see also computer language
 κώδικας,noun,language,computer language — see also computer language
 μεγάλος,adj,large,of greater size — see also big
+αργά,adj,late,near the end of a period of time
+αργά,adj,late,near the end of the day
+αργά,adj,late,not arriving until after an expected time
+αργοπορημένος,adj,late,not arriving until after an expected time
+μακαρίτης,adj,late,"euphemism for ""dead"""
+πρώην,adj,late,"existing or holding some position not long ago, but not now"
+προηγούμενος,adj,late,"existing or holding some position not long ago, but not now"
+τελευταίος,adj,late,recent
 αργά,adv,late,past a designated time
 αργότερα,adv,later,afterward in time
 γέλιο,noun,laugh,expression of mirth peculiar to the human species
+γελάω,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+γελώ,verb,laugh,show mirth by peculiar movement of the muscles of the face and emission of sounds
+γελάω,verb,laugh,be or appear cheerful
+γελάω,verb,laugh,make an object of laughter or ridicule
 μαθαίνω,verb,learn,to acquire knowledge or ability
 μαθαίνω,verb,learn,to attend educational activity
 μαθαίνω,verb,learn,to make use of a bad experience
@@ -1106,6 +1269,10 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 αφήνω,verb,leave,to give (something) to someone; to deliver (something) to a repository; to deposit
 αφήνω,verb,leave,"to depart from, end one's connection or affiliation with"
 φεύγω,verb,leave,to depart (intransitive)
+αριστερός,adj,left,west side of the body when one is facing north
+αριστερός,adj,left,pertaining to the political left
+αριστερά,adv,left,on the left side
+αριστερά,adv,left,towards the left side
 αριστερά,noun,left,the left side
 αριστερά,noun,left,the ensemble of left-wing political parties
 πόδι,noun,leg,lower limb from groin to ankle
@@ -1145,6 +1312,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 αβαρής,adj,light,of low weight
 ελαφρός,adj,light,of low weight
 ελαφρύς,adj,light,of low weight
+φως,noun,light,electromagnetic waves
+φως,noun,light,source of illumination
+φως,noun,light,spiritual illumination
 αρέσει,verb,like,to enjoy
 αρέσκομαι,verb,like,to enjoy
 προτιμώ,verb,like,to enjoy
@@ -1169,6 +1339,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 γραμμή,noun,line,"official, stated position of an individual or political faction"
 λιοντάρι,noun,lion,big cat Panthera leo
 λιοντάρι,noun,lion,person with strength and courage
+κατάλογος,noun,list,enumeration or compilation of items
+λίστα,noun,list,enumeration or compilation of items
+λίστα,noun,list,computing: codified representation of a list
 ακούω,verb,listen,to pay attention to a sound
 ακούω,verb,listen,to accept advice or obey instruction
 ακούω,verb,listen,to hear (something)
@@ -1182,6 +1355,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 επιβιώνω,verb,live,"survive, persevere, continue"
 τοπικός,adj,local,of a nearby location
 τοπικός,adj,local,computing: having limited scope
+μακρύς,adj,long,having much distance from one point to another
+πολύς,adj,long,having great duration
+έξω,adj,long,tennis: bounces behind the baseline
 μακριά,adv,long,over a great distance
 ώρα,adv,long,for a particular duration
 πολύ,adv,long,for a long duration
@@ -1197,6 +1373,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 χάνω,verb,lose,be unable to follow or trace (somebody or something) any longer
 ηττώμαι,verb,lose,fail to be the winner
 χάνω,verb,lose,fail to be the winner
+αγάπη,noun,love,strong affection
+έρωτας,noun,love,strong affection
+αγάπη,noun,love,object of one's romantic feelings; darling or sweetheart
 αγαπώ,verb,love,have a strong affection for
 λατρεύω,verb,love,be strongly inclined towards doing
 ποθώ,verb,love,be strongly inclined towards doing
@@ -1241,6 +1420,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 παντρεμένος,adj,married,in a state of marriage; having a wife or a husband
 παντρεμένη,adj,married,in a state of marriage; having a husband
 παντρεμένος,adj,married,in a state of marriage; having a wife
+ματς,noun,match,sporting event
+αγώνας,noun,match,sporting event
+σπίρτο,noun,match,device to make fire
 ίσως,adv,maybe,indicating a lack of certainty
 γεύμα,noun,meal,food that is prepared and eaten
 φαγητό,noun,meal,food that is prepared and eaten
@@ -1347,6 +1529,9 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 παρτιτούρα,noun,music,sheet music
 νότες,noun,music,sheet music
 πρέπει,verb,must,be required to
+όνομα,noun,name,"word or phrase indicating a particular person, place, class or thing"
+όνομα,noun,name,reputation — see also reputation
+αναγνωριστικό,noun,name,computing: unique identifier
 ονομάζω,verb,name,to give a name to
 ονοματίζω,verb,name,to give a name to
 κατονομάζω,verb,name,"to mention, specify"
@@ -1373,12 +1558,18 @@ Cypriot Greek ξαθθός (xaththós),adj,blond,of a pale golden colour
 ειδήσεις,noun,news,new information of interest
 νέα,noun,news,new information of interest
 εφημερίδα,noun,newspaper,publication
+επόμενος,adj,next,following in a sequence
+διπλανός,adj,next,being closer to the present location than all other items
+επόμενος,adj,next,"nearest date, time, space or order"
 καλός,adj,nice,"pleasant, satisfactory"
 ωραίος,adj,nice,"attractive, friendly"
 νόστιμος,adj,nice,having a pleasant taste or aroma
 νύχτα,noun,night,period between sunset and sunrise
+βόρειος,adj,north,of or pertaining to the north
+βόρειος,adj,north,toward the north
 βόρεια,adv,north,towards the north
 βορείως,adv,north,towards the north
+βορράς,noun,north,compass point
 μύτη,noun,nose,protuberance on the face
 μουσούδι,noun,nose,"snout, nose of an animal"
 αιχμή,noun,nose,tip of an object
@@ -1452,10 +1643,16 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 σε απευθείας σύνδεση,adj,online,available over the Internet
 διαδικτυακός,adj,online,available over the Internet
 σε απευθείας σύνδεση,adj,online,connected to the Internet
+μοναδικός,adj,only,alone in a category
+μόνος,adj,only,alone in a category
+μοναχός,adj,only,without sibling
 μόνο,adv,only,without others or anything further; exclusively
 μονάχα,adv,only,without others or anything further; exclusively
 μόνο,adv,only,no more than
 μόνο,adv,only,as recently as
+ανοιχτός,adj,open,not closed
+ανοιχτός,adj,open,prepared to conduct business
+ανοιχτός,adj,open,receptive
 ανοίγω,verb,open,to make something accessible
 ανοίγω,verb,open,to make accessible to customers
 ανοίγω,verb,open,to begin conducting business
@@ -1464,8 +1661,20 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 γνώμη,noun,opinion,thought a person has formed about a topic
 άποψη,noun,opinion,thought a person has formed about a topic
 προτάσεις,noun,opinion,EU: a judicial opinion by an Advocate General delivered to the European Court of Justice
+απέναντι,adj,opposite,located directly across from
 απέναντι,adv,opposite,in an opposite position
+αντίθετο,noun,opposite,contrary thing
+αντώνυμο,noun,opposite,antonym
 πορτοκαλής,adj,orange,having the colour of the fruit of an orange tree
+πορτοκαλιά,noun,orange,tree
+πορτοκάλι,noun,orange,fruit
+πορτοκαλί,noun,orange,colour
+σειρά,noun,order,good arrangement
+τάξη,noun,order,good arrangement
+διαταγή,noun,order,command
+παραγγελία,noun,order,request for some product or service
+τάγμα,noun,order,religious group
+τάγμα,noun,order,awarded decoration
 κανονίζω,verb,order,to set in (any) order
 καθορίζω,verb,order,to set in (any) order
 κανονίζω,verb,order,to set in (a good) order
@@ -1481,6 +1690,11 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 σελίδα,noun,page,computing: contiguous block of memory
 βαφή,noun,paint,substance
 χρώμα,noun,paint,substance
+βάφω,verb,paint,to apply paint to
+βάφω,verb,paint,to apply in the manner of paint
+απεικονίζω,verb,paint,to create an image
+ζωγραφίζω,verb,paint,to create an image
+ζωγραφίζω,verb,paint,to practise the art of painting pictures
 ζωγραφιά,noun,painting,an illustration or artwork using paint
 ζωγραφική,noun,painting,the action of applying paint
 ζεύγος,noun,pair,two similar or identical things
@@ -1498,6 +1712,7 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 γονέας,noun,parent,person from whom one is descended
 γεννήτορας,noun,parent,person from whom one is descended
 γονέας,noun,parent,person who acts as a parent in rearing a child — see also guardian
+πάρκο,noun,park,ground for recreation
 παρκάρω,verb,park,bring (a vehicle) to a halt
 μέρος,noun,part,fraction of a whole
 σύντροφος,noun,partner,someone who is associated with another in a common activity or interest
@@ -1510,6 +1725,18 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 πάρτι,noun,party,social gathering
 διαβατήριο,noun,passport,official document for foreign travel
 διαβατήριο,noun,passport,figurative use
+περασμένος,adj,past,having already happened; in the past
+παρελθών,adj,past,having already happened; in the past
+πρότερος,adj,past,having already happened; in the past
+πρωτύτερος,adj,past,having already happened; in the past
+τα περασμένα,adj,past,having already happened; in the past
+περασμένος,adj,past,of a period of time: having just gone by
+παρελθών,adj,past,of a period of time: having just gone by
+πρώην,adj,past,of a period of time: having just gone by
+τέως,adj,past,of a period of time: having just gone by
+πρότερος,adj,past,of a period of time: having just gone by
+πρωτύτερος,adj,past,of a period of time: having just gone by
+παρελθοντικός,adj,past,grammar: expressing action that has already happened
 παρελθόν,noun,past,period of time that has already happened
 αόριστος,noun,past,(grammar) past tense
 πληρώνω,verb,pay,to give money in exchange for goods or services
@@ -1565,6 +1792,7 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 γουρούνι,noun,pig,dirty or slovenly person
 βρωμιάρης,noun,pig,dirty or slovenly person
 γουρούνι,noun,pig,derogatory slang for police officer
+ροζ,adj,pink,colored/coloured between red and white
 ροζ,noun,pink,pale red colour
 τόπος,noun,place,"location, position"
 θέση,noun,place,"location, position"
@@ -1574,6 +1802,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 σημείο,noun,place,"location, position"
 χώρος,noun,place,"location, position"
 πλατεία,noun,place,"open space, courtyard, market square"
+σχέδιο,noun,plan,technical drawing
+σχέδιο,noun,plan,set of intended actions
+σχέδιο,noun,plan,2-dimensional drawing from above
 σχεδιάζω,verb,plan,to design
 σχεδιάζω,verb,plan,to create a plan for
 σχεδιάζω,verb,plan,to intend
@@ -1585,6 +1816,11 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 φυτό,noun,plant,organism capable of photosynthesis
 φυτό,noun,plant,"a small or herbaceous organism, rather than a tree"
 δράμα,noun,play,theatrical performance
+παίζω,verb,play,act in a manner such that one has fun
+παίζω,verb,play,produce music using a musical instrument (transitive sense)
+παίζω,verb,play,produce music using a musical instrument (intransitive sense)
+παίζω,verb,play,act in a performance
+παίζω,verb,play,participate in (a sport or game)
 παίκτης,noun,player,one who plays any game or sport
 παίκτρια,noun,player,one who plays any game or sport
 ηθοποιός,noun,player,dramatic actor
@@ -1617,6 +1853,14 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 πιθανός,adj,possible,able but not certain to happen
 εφικτός,adj,possible,capable of being done or achieved; feasible
 δυνατός,adj,possible,"being considered, e.g. for a position"
+στύλος,noun,post,long dowel or plank protruding from the ground
+πάσσαλος,noun,post,long dowel or plank protruding from the ground
+κολώνα,noun,post,long dowel or plank protruding from the ground
+δοκάρι,noun,post,long dowel or plank protruding from the ground
+πόλος,noun,post,pole in a battery
+θέση,noun,post,assigned station
+ταχυδρομείο,noun,post,method of delivering mail
+ανάρτηση,noun,post,individual message in a forum
 αναρτώ,verb,post,send to an electronic forum
 δημοσιεύω,verb,post,send to an electronic forum
 ταχυδρομώ,verb,post,send mail
@@ -1625,10 +1869,19 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 μάντρα,noun,pound,place for detention of automobiles
 λίβρα,noun,pound,unit of mass (16 ounces avoirdupois)
 λίρα,noun,pound,unit of currency
+εξάσκηση,noun,practice,repetition of an activity to improve skill
+άσκηση,noun,practice,ongoing pursuit of a craft or profession
+εξάσκηση,noun,practice,ongoing pursuit of a craft or profession
+πρακτική,noun,practice,"customary action, habit, or behaviour"
+πράξη,noun,practice,"actual operation or experiment, in contrast to theory"
 προτιμάω,verb,prefer,to favor
 προετοιμάζω,verb,prepare,to make ready for a specific future purpose
 ετοιμάζω,verb,prepare,to make ready for a specific future purpose
+τωρινός,adj,present,pertaining to the current time
+παρών,adj,present,in the immediate vicinity
 παρόν,noun,present,current time
+χαριτωμένος,adj,pretty,"especially of women and children: pleasant, attractive"
+όμορφος,adj,pretty,of objects: nice-looking
 τιμή,noun,price,cost required to gain possession of something
 τίμημα,noun,price,cost of an action or deed
 αντίτιμο,noun,price,cost of an action or deed
@@ -1649,6 +1902,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 εκπομπή,noun,program,performance of a show or other broadcast on radio or television
 πρόγραμμα,noun,program,software application
 έργο,noun,project,planned endeavor
+πορφυρός,adj,purple,colour
+βιολετής,adj,purple,colour
+μοβ,adj,purple,colour
 πορφυρό,noun,purple,colour
 πορφύρα,noun,purple,mollusk
 βάζω,verb,put,to place something somewhere
@@ -1680,6 +1936,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 ραδιόφωνο,noun,radio,receiver
 ράδιο,noun,radio,receiver
 ραδιόφωνο,noun,radio,transmitter
+βροχή,noun,rain,condensed water from a cloud
+βροχή,noun,rain,any matter falling
+βροχή,noun,rain,an instance of particles falling
 βρέχω,verb,rain,of rain: to fall from the sky
 διαβάζω,verb,read,to look at and interpret letters or other information
 διαβάζω,verb,read,to speak aloud words or other information that is written
@@ -1703,6 +1962,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 δικαιολογία,noun,reason,"excuse, explanation: thought or consideration offered in support of a determination"
 λόγος,noun,reason,(the capacity of the human mind for) rational thinking
 λογική,noun,reason,(the capacity of the human mind for) rational thinking
+κόκκινος,adj,red,having red as its colour
+κόκκινος,adj,red,of hair: orange-brown
+κόκκινος,adj,red,"left-wing, socialist or communist"
 κόκκινο,noun,red,colour
 ερυθρό,noun,red,colour
 πορφυρό,noun,red,colour
@@ -1719,11 +1981,20 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 αποτέλεσμα,noun,result,that which results
 επιστροφή,noun,return,act of returning
 επαναφορά,noun,return,computing: carriage return character
+γυρίζω,verb,return,to come or go back
+επιστρέφω,verb,return,to give something back to its original holder or owner
 όρυζα,noun,rice,plants
 ρύζι,noun,rice,seeds used as food
 πλούσιος,adj,rich,having wealth
 εύπορος,adj,rich,having wealth
 καβαλάω,verb,ride,to mount someone to have sex with them
+ορθός,adj,right,"of an angle, 90 degrees"
+σωστό,adj,right,"complying with justice, correct — see also be right"
+δεξιός,adj,right,"of direction, opposite of left"
+συντηρητικός,adj,right,politics: conservative
+δεξιός,adj,right,politics: conservative
+δεξιά,adv,right,on the right side
+προς τα δεξιά,adv,right,towards the right side
 δικαίωμα,noun,right,legal or moral entitlement
 δεξιά,noun,right,"right, not left, side"
 δεξιά,noun,right,right-wing politicians and parties
@@ -1756,6 +2027,8 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 άλας,noun,salt,compound of an acid and a base
 άλατα (álata),noun,salt,compound of an acid and a base
 θαλασσόλυκος,noun,salt,sailor
+ίδιος,adj,same,not different as regards self; identical
+όμοιος,adj,same,"similar, alike"
 σάντουιτς,noun,sandwich,dish — see also open sandwich
 λέγω,verb,say,"to say, to tell"
 λέγω,verb,say,to communicate verbally or in writing
@@ -1769,6 +2042,8 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 επιστήμη,noun,science,particular discipline or branch of learning
 επιστήμονας,noun,scientist,one whose activities make use of the scientific method
 επιστημόνισσα,noun,scientist,one whose activities make use of the scientific method
+δεύτερος,adj,second,second (numeral) — see also 2nd
+δεύτερος,adj,second,that comes after the first
 δευτερόλεπτο,noun,second,one-sixtieth of a minute; SI unit of time
 δευτερόλεπτο,noun,second,unit of angular measure
 λεπτό,noun,second,"short, indeterminate amount of time"
@@ -1796,6 +2071,10 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 παπούτσι,noun,shoe,protective covering for the foot
 υπόδημα,noun,shoe,protective covering for the foot
 πέδιλο,noun,shoe,something resembling a shoe (e.g. brake shoe)
+μαγαζί,noun,shop,establishment that sells goods
+κατάστημα,noun,shop,establishment that sells goods
+εργαστήριο,noun,shop,place for crafting or manufacturing
+συνεργείο,noun,shop,place for crafting or manufacturing
 ψωνίζω,verb,shop,to visit shops
 σύντομος,adj,short,having a small distance between ends or edges
 κοντός,adj,short,having a small distance between ends or edges
@@ -1805,6 +2084,11 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 έκθεση,noun,show,exhibition — see also exhibition
 επίδειξη,noun,show,demonstration
 εκπομπή,noun,show,broadcast program(me)
+εμφανίζω,verb,show,to display
+παρουσιάζω,verb,show,to display
+δείχνω,verb,show,to display
+αποδεικνύω,verb,show,to indicate (a fact) to be true
+φαίνομαι,verb,show,to be visible
 ψιχάλισμα,noun,shower,brief fall of rain
 ψιλόβροχο,noun,shower,brief fall of rain
 βροχούλα,noun,shower,brief fall of rain
@@ -1860,6 +2144,10 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 νέος,adj,small,young
 φίδι,noun,snake,legless reptile
 φίδι,noun,snake,treacherous person
+χιόνι,noun,snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer"
+χιονόπτωση,noun,snow,instance of the falling of snow — see also snowfall
+νιφετός,noun,snow,instance of the falling of snow — see also snowfall
+χιόνι,noun,snow,"moving pattern of random dots seen on a radar or television screen, etc., when no transmission signal is being received or when there is interference"
 χιονίζω,verb,snow,have snow fall from the atmosphere
 τόσο,adv,so,very
 τόσο,adv,so,to a particular extent
@@ -1878,12 +2166,18 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 σύντομα,adv,soon,within a short time
 νωρίς,adv,soon,within a short time
 συγνώμη,adj,sorry,"poor, regrettable"
+πορθμός,noun,sound,long narrow inlet
+στηθοσκόπιο,noun,sound,"long, thin probe for sounding or dilating body cavities or canals"
+ήχος,noun,sound,sensation perceived by the ear
+ήχος,noun,sound,vibration capable of causing this
 ακροώμαι,verb,sound,to probe
 βολιδοσκοπώ,verb,sound,to test
 ακούγομαι,verb,sound,to convey an impression by one's sound
 ηχώ,verb,sound,to convey an impression by one's sound
 σούπα,noun,soup,dish
+νότιος,adj,south,of or pertaining to the south
 νότια,adv,south,towards the south
+νότος,noun,south,compass point
 χώρος,noun,space,physical extent in two or three dimensions
 διάστημα,noun,space,physical extent in two or three dimensions
 διάστημα,noun,space,area beyond atmosphere of planets
@@ -1931,6 +2225,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 στάση,noun,stop,place to get on and off mass transport
 στάση,noun,stop,interruption of travel
 στοπ,noun,stop,device to block a moving object
+σταματώ,verb,stop,to cease moving
+παύω,verb,stop,"not to continue — see also cease, desist"
+σταματώ,verb,stop,"not to continue — see also cease, desist"
 αποθήκη,noun,store,place where items may be kept
 απόθεμα,noun,store,supply held in storage
 παρακαταθήκη,noun,store,supply held in storage
@@ -1946,6 +2243,8 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 μελετητής,noun,student,person who studies a subject
 φοιτητής,noun,student,person enrolled at a university — see also university student
 φοιτήτρια,noun,student,person enrolled at a university — see also university student
+διάβασμα,noun,study,mental effort to acquire knowledge
+μελέτη,noun,study,branch of learning or object that is being studied
 μελετώ,verb,study,to revise/review materials
 σπουδάζω,verb,study,to revise/review materials
 μελετώ,verb,study,to acquire knowledge
@@ -2010,6 +2309,7 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 ομάδα,noun,team,group of people
 έφηβος,noun,teenager,person aged between thirteen and nineteen
 έφηβη,noun,teenager,person aged between thirteen and nineteen
+τηλέφωνο,noun,telephone,a device used for two-way talking with other people
 τηλεφωνώ,verb,telephone,to call someone
 καλώ,verb,telephone,to call someone
 τηλεόραση,noun,television,medium
@@ -2033,6 +2333,10 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 απαίσιος,adj,terrible,very bad
 φρικτός,adj,terrible,very bad
 κάκιστος,adj,terrible,very bad
+δοκιμασία,noun,test,"challenge, trial"
+δοκιμή,noun,test,"challenge, trial"
+διαγώνισμα,noun,test,academics: examination
+εξέταση,noun,test,product examination
 δοκιμάζω,verb,test,to challenge
 εξετάζω,verb,test,to administer an examination during the academic term
 δοκιμάζω,verb,test,to place a product or piece of equipment under everyday and/or extreme conditions
@@ -2078,6 +2382,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 κυριότητα,noun,title,right to ownership
 τίτλος κυριότητας,noun,title,certificate of ownership
 τίτλος,noun,title,"name of a book, etc"
+σήμερα,adv,today,on the current day
+σάμερον,adv,today,on the current day
+σήμερα,adv,today,"nowadays — see also nowadays, these days"
 σήμερα,noun,today,today (noun)
 μαζί,adv,together,"at the same time, in the same place"
 μαζί,adv,together,into one place
@@ -2088,7 +2395,10 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 λεκάνη,noun,toilet,"fixture used for urination and defecation — see also flush toilet, squat toilet, chemical toilet, urinal, latrine"
 ντοματιά,noun,tomato,tomato plant
 ντομάτα,noun,tomato,fruit
+αύριο,adv,tomorrow,on the day after the present day
 αύριο,noun,tomorrow,the day after the present day
+απόψε,adv,tonight,during today's evening
+απόψε,adv,tonight,during today's nighttime
 απόψε,noun,tonight,nighttime today
 επίσης,adv,too,likewise
 υπερβολικά,adv,too,more than enough; as too much
@@ -2107,6 +2417,7 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 αλληλουχία,noun,train,series of events or ideas which are interconnected
 ουρά,noun,train,that which is drawn along
 ταξίδι,noun,travel,act of traveling
+ταξιδεύω,verb,travel,be on a journey
 δέντρο,noun,tree,large woody plant
 ταξίδι,noun,trip,journey
 φορτηγό,noun,truck,"heavier motor vehicle designed to carry goods — see also semi-trailer truck, pickup truck"
@@ -2128,6 +2439,15 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 περιστροφή,noun,turn,movement about an axis ending up with the same orientation
 σειρά,noun,turn,chance to use (something) shared in sequence with others
 σειρά,noun,turn,one's chance to make a move in a game
+γυρίζω,verb,turn,move around an axis through itself
+περιστρέφομαι,verb,turn,move around an axis through itself
+γυρίζω,verb,turn,"change the direction or orientation of, especially by rotation"
+στρέφω,verb,turn,"change the direction or orientation of, especially by rotation"
+στρίβω,verb,turn,"change the direction or orientation of, especially by rotation"
+στρίβω,verb,turn,change one's direction of travel
+γίνομαι,verb,turn,become
+απογίνομαι,verb,turn,become
+κλείνω,verb,turn,become
 δις,adv,twice,two times
 τύπος,noun,type,grouping based on shared characteristics
 τύπος,noun,type,individual that represents the ideal for its class
@@ -2158,11 +2478,13 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 βίντεο,noun,video,motion picture stored on VHS
 επίσκεψη,noun,visit,single act of visiting
 επίσκεψη,noun,visit,meeting with a doctor
+επισκέπτομαι,verb,visit,to go and meet (someone)
 επισκέπτης,noun,visitor,guest
 επισκέπτης,noun,visitor,sightseer
 περιμένω,verb,wait,delay until some event
 σερβίρω,verb,wait,to serve customers
 σερβιτόρος,noun,waiter,a server in a restaurant or similar
+περπατάω,verb,walk,to move on the feet
 τείχος,noun,wall,defensive rampart
 τείχος,noun,wall,structure built for defense surrounding an area
 τοίχος,noun,wall,substantial structure acting as side or division in a building
@@ -2177,6 +2499,10 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 φρουρός,noun,watch,person or group of people who guard
 βάρδια,noun,watch,group of sailors and officers
 βάρδια,noun,watch,period of time on duty
+παρακολουθώ,verb,watch,to look at for a period of time
+προσέχω,verb,watch,to observe
+προσέχω,verb,watch,to attend or guard
+προσέχω,verb,watch,to be wary
 νερό,noun,water,inorganic compound H₂O
 ύδωρ,noun,water,inorganic compound H₂O
 θαλάσσια ύδατα,noun,water,"body of water, or specific part of it"
@@ -2194,16 +2520,33 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 εφταήμερο,noun,week,period of seven days
 σαββατοκύριακο,noun,weekend,break in the working week
 ευπρόσδεκτος,adj,welcome,whose arrival is a cause of joy
+υποδέχομαι,verb,welcome,affirm or greet the arrival of someone
+καλωσορίζω,verb,welcome,affirm or greet the arrival of someone
+υποδέχομαι,verb,welcome,to accept willingly
 γερός,adj,well,in good health
 υγιής,adj,well,in good health
 καλός,adj,well,prudent
+καλά,adv,well,accurately; competently
+καλώς,adv,well,accurately; competently
+εντελώς,adv,well,completely; fully
+πλήρως,adv,well,completely; fully
+αρκετά,adv,well,to a significant degree
+πολύ,adv,well,(slang) very
+δυτικός,adj,west,towards the west
+δυτικός,adj,west,western
+δυτικός,adj,west,occidental
 δυτικά,adv,west,towards the west
+δύση,noun,west,compass point
 πότε,adv,when,"at what time, as a direct question"
 πότε,adv,when,"at what time, as an indirect question"
 πού,adv,where,at what place; to what place; from what place
 όπου,adv,where,at or in which place
 οποίο,adv,where,to which place or situation
 πού,adv,where,in what situation
+άσπρος,adj,white,bright and colourless
+λευκός,adj,white,bright and colourless
+λευκός,adj,white,of or relating to Caucasians
+άσπρος,adj,white,of or relating to Caucasians
 άσπρο,noun,white,color
 λευκό,noun,white,color
 λευκός,noun,white,person of European descent
@@ -2238,6 +2581,9 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 εργασία,noun,work,"labour, employment, occupation, job"
 δουλειά,noun,work,"labour, employment, occupation, job"
 έργο,noun,work,physics: measure of energy expended in moving an object
+δουλεύω,verb,work,to do a specific task
+λειτουργώ,verb,work,to function correctly; to act as intended; to achieve the goal designed for
+πλάθω,verb,work,"to shape, form, or improve a material"
 εργάτης,noun,worker,person who performs labor
 εργάτρια,noun,worker,person who performs labor
 κόσμος,noun,world,human collective existence
@@ -2277,8 +2623,13 @@ periphrastically,adv,on,"along, forwards (continuing an action)"
 έτος,noun,year,a period between set dates that mark a year
 χρόνος,noun,year,a scheduled part of a calendar year spent in a specific activity
 έτος,noun,year,a scheduled part of a calendar year spent in a specific activity
+κίτρινος,adj,yellow,having yellow as its color
+δειλός,adj,yellow,lacking courage
+φοβιτσιάρης,adj,yellow,lacking courage
+φοβητσιάρης,adj,yellow,lacking courage
 κίτρινο,noun,yellow,color
 ώχρα,noun,yellow,color
+χθες,adv,yesterday,on the day before today
 χθες,noun,yesterday,day before today
 νεαρός,adj,young,in the early part of life or growth
 άπλερος,adj,young,in the early part of life or growth
